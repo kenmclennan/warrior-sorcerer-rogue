@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
+
+# Local tooling caches
+.claude/settings.local.json
+node_modules/
+__pycache__/
+*.pyc
