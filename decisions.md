@@ -12,6 +12,36 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-09 - Magic (secondary system) dropped entirely
+
+**Context:** BRP UGE Chapter 4 has two magic systems: Sorcery (pp 87-102, our primary) and Magic (pp 56-70, the alternative). The Magic dispatch (`notes/source-8-magic.md`) recommended keeping ~5-9 spells as a "hedge magic" sub-system for cunning-folk archetypes, while a hard drop was option A.
+
+**Decision:** **Drop Magic entirely.** WSR has one magic system: Sorcery.
+
+**Reasoning:** Per `design.md` §3.1 ("focused, opinionated extraction") and §3.2 ("maximise optional rules" - we will not). Keeping a second magic system, even a minimal one, adds complexity without proportional payoff. The cunning-folk / village-wisewoman archetype can still exist in fiction without dedicated mechanics - using sparing sorcery, herbal healing (per §1.3), and personality. The Vision spell from Magic is genre-resonant; if a Sorcery equivalent is missed, port it into the Sorcery spell list during chapter drafting.
+
+---
+
+## 2026-05-09 - Allegiance canonised as optional Patron Score for sorcerers
+
+**Context:** The Allegiance dispatch (`notes/source-9-allegiance.md`) recommended canonising Allegiance as a stripped, renamed Patron Score mechanic restricted to sorcerers, addressing the "patron debt" sorcery cost option without WSR-original design. The PP reserve benefit interacts beautifully with the locked Fate Points = PP decision.
+
+**Decision:** **Canonise Allegiance** as the Patron Score mechanic, with the proviso that **patrons are an optional facet of sorcery** - a sorcerer can choose to enter a patron compact (gaining the mechanical benefits and burdens) or remain unaligned. Apotheosis is deferred to GM Book optional arcs.
+
+**Reasoning:** Per `design.md` §2.2 ("debts to powers" as one cost option). Keeping it optional preserves player choice: not every sorcerer is Elric. Some are independent operators who borrow power without committing. Mechanically: the Patron Score mechanic appears in the Player Book as an opt-in chargen choice for sorcerer-archetype PCs.
+
+---
+
+## 2026-05-09 - Sanity adopted as sorcerer-specific Corruption track
+
+**Context:** The Sanity dispatch (`notes/source-12-sanity.md`) recommended adopting SAN as a sorcerer-specific corruption track (Option B), restricted to sorcerers and reframed away from cosmic horror toward Moorcock-doom corruption. Non-sorcerers would have no track at all.
+
+**Decision:** **Adopt SAN as a sorcerer-specific Corruption track.** Non-sorcerers have no Corruption track - their genre register is Howard's blood-and-bone, not Lovecraft's shattered psyche. Sorcerers accumulate Corruption through casting, demonic encounters, and exposure to the deep past. The "Blasphemous Lore caps max SAN downward" rule is preserved (deeper sorcery = closer to the edge). The "defeating the source" recovery rule is canonised.
+
+**Reasoning:** Per `design.md` §2.2 ("magic is alien, costly, and corrupting") and §1.1 (Moorcock-doom accent for sorcerous scenarios). Restricting to sorcerers keeps warriors and rogues tonally Howard while letting sorcerers tip into Moorcock's doom. Together with Fate Points = PP and the Patron Score canonisation, this completes the sorcery cost architecture: PP (immediate, shared with Fate), Patron Score (relational, optional), Corruption (permanent, sorcerer-only).
+
+---
+
 ## 2026-05-09 - Combat: Major Wounds as default, no per-location HP
 
 **Context:** BRP UGE explicitly states hit locations and Major Wounds are mutually exclusive systems. The Combat dispatch (`notes/source-5-combat.md`) confirmed this. We needed to pick one as the WSR default and decide whether to keep the other as an optional rule.
