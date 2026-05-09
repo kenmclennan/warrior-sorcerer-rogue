@@ -15,6 +15,7 @@ The output is a per-chapter set of PDFs that together form the rules of the syst
 ## Documents
 
 - **[design.md](design.md)** - Genre definition, aesthetic, and design goals. The "north star" the rules must serve. Read first when touching any rules question; update when the genre understanding sharpens.
+- **[PLAN.md](PLAN.md)** - The active phase plan (currently: Phase 1 - source review and chapter enumeration). Read at the start of any working session, when picking what to do next, or when scope creep is tempting. Replaced at phase boundaries; previous plans archived to `plans/`.
 - **[decisions.md](decisions.md)** - Decision log. Every meaningful choice (which optional rule to canonise, which to drop, which to modify) is recorded here with reasoning. Append-only; do not rewrite history.
 - **[progress.md](progress.md)** - What has been done, what is in progress, what is still to do. Update as work moves.
 
