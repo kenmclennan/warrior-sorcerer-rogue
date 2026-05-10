@@ -35,7 +35,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 6 | P6 Sorcery (player-facing) | Player | `[x]` | 29 spells; cost trio (PP/Patron/Corruption); iron rule; demon summoning player-side |
 | 7 | P2 Character Creation | Player | `[x]` | 8,205 words; 8 cultural backgrounds; 14 professions; 40 talents (4 tables x 10); Passions + Reputation mechanics; sorcerer step |
 | 8 | P1 Introduction | Player | `[x]` | 3,087 words; 5 sections; ORC attribution; synthesises everything else |
-| 9 | PA2 Examples | Player | `[ ]` | Worked examples appendix |
+| 9 | PA2 Examples | Player | `[x]` | ~4,100 words; 4 sections: chargen (Khess the Knife full walkthrough), combat (Salt Causeway ambush with mooks/crit/PP-buy/Dying Blow), sorcery (Karash casts the Curse), session sketch (hook/complications/reckoning) |
 | 10 | G1 Running the Game | GM | `[x]` | GM principles + deeper genre primer |
 | 11 | G2 NPCs and Adversaries | GM | `[x]` | Mooks, professionals, named foes |
 | 12 | G4 NPC Sorcery and Patrons | GM | `[x]` | 9,906 words; 5 sample NPC sorcerers; 7 sample patrons; ritual magic, demon binding deep-dive, Brazier, Apotheosis arc |
