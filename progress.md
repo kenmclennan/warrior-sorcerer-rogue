@@ -34,7 +34,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 5 | P7 Equipment | Player | `[x]` | Weapons, armour, gear, currency, mounts |
 | 6 | P6 Sorcery (player-facing) | Player | `[x]` | 29 spells; cost trio (PP/Patron/Corruption); iron rule; demon summoning player-side |
 | 7 | P2 Character Creation | Player | `[x]` | 8,205 words; 8 cultural backgrounds; 14 professions; 40 talents (4 tables x 10); Passions + Reputation mechanics; sorcerer step |
-| 8 | P1 Introduction | Player | `[ ]` | Synthesises everything else |
+| 8 | P1 Introduction | Player | `[x]` | 3,087 words; 5 sections; ORC attribution; synthesises everything else |
 | 9 | PA2 Examples | Player | `[ ]` | Worked examples appendix |
 | 10 | G1 Running the Game | GM | `[x]` | GM principles + deeper genre primer |
 | 11 | G2 NPCs and Adversaries | GM | `[x]` | Mooks, professionals, named foes |
