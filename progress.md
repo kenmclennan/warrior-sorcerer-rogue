@@ -16,18 +16,34 @@
 - [x] Outline design, decision, and progress documents
 - [x] Create CLAUDE.md
 - [x] Workshop design doc (genre, aesthetic, design goals, player experience)
-- [ ] Enumerate chapters from source PDF
-- [ ] Plan chapter-extraction order
+- [x] Enumerate chapters from source PDF
+- [x] Plan chapter-extraction order
 
 ---
 
-## Chapter extractions
+## Phase 2: Chapter Extraction
 
-*To be populated once we have reviewed the source PDF and decided on a chapter list. Each row will track which optional rules were canonised, which dropped, which modified, and the status of the per-chapter PDF.*
+Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`). Each chapter publishes as a separate PDF in `chapters/`.
 
-| # | Chapter | Status | Notes |
-|---|---------|--------|-------|
-| - | TBD     | `[ ]`  | Awaiting source PDF review |
+| # | Chapter | Book | Status | Notes |
+|---|---------|------|--------|-------|
+| 1 | P4 Action Resolution | Player | `[ ]` | Chassis - everything else references this |
+| 2 | P5 Combat | Player | `[ ]` | Locks the matching-dice critical mechanic |
+| 3 | PA1 Critical Hit Tables | Player | `[ ]` | Heavy prose content (150-250 entries) - validates combat |
+| 4 | P3 Skills | Player | `[ ]` | Skill list reference |
+| 5 | P7 Equipment | Player | `[ ]` | Weapons, armour, gear, currency, mounts |
+| 6 | P6 Sorcery (player-facing) | Player | `[ ]` | Casting, costs, spell list - blocks P2 |
+| 7 | P2 Character Creation | Player | `[ ]` | Depends on P3, P6, P7 |
+| 8 | P1 Introduction | Player | `[ ]` | Synthesises everything else |
+| 9 | PA2 Examples | Player | `[ ]` | Worked examples appendix |
+| 10 | G1 Running the Game | GM | `[ ]` | GM principles + deeper genre primer |
+| 11 | G2 NPCs and Adversaries | GM | `[ ]` | Mooks, professionals, named foes |
+| 12 | G4 NPC Sorcery and Patrons | GM | `[ ]` | Patron design, ritual, demon binding |
+| 13 | G3 Bestiary | GM | `[ ]` | Creatures, demons, elementals |
+| 14 | G5 Treasure and Artifacts | GM | `[ ]` | Loot + artifact creation |
+| 15 | G6 Hazards and Spot Rules | GM | `[ ]` | Disease, poison, chases, mass combat |
+| 16 | G7 The Deep Past | GM | `[ ]` | World-building generators |
+| 17 | GA1 GM Examples | GM | `[ ]` | GM examples appendix |
 
 ---
 

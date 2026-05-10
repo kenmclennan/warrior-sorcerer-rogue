@@ -12,6 +12,57 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-10 - Chapter extraction order finalised
+
+**Context:** Phase 1 produced the chapter mapping (`notes/chapter-mapping.md`). Sequencing the extraction order for Phase 2 requires balancing dependencies (chassis-first), risk (new mechanics need early validation), and value (a playable subset emerges quickly).
+
+**Decision:** Extraction order is set as recorded in `progress.md`'s "Phase 2: Chapter Extraction" table.
+
+**Player Book (in order):**
+1. P4 Action Resolution
+2. P5 Combat
+3. PA1 Critical Hit Tables
+4. P3 Skills
+5. P7 Equipment
+6. P6 Sorcery
+7. P2 Character Creation
+8. P1 Introduction
+9. PA2 Examples
+
+**GM Book (in order):**
+10. G1 Running the Game
+11. G2 NPCs and Adversaries
+12. G4 NPC Sorcery and Patrons
+13. G3 Bestiary
+14. G5 Treasure and Artifacts
+15. G6 Hazards and Spot Rules
+16. G7 The Deep Past
+17. GA1 GM Examples
+
+**Reasoning:**
+
+- **Chassis first.** P4 Action Resolution is the foundation everything references. Must be first.
+- **High-risk early.** P5 Combat locks our biggest new mechanic (matching-dice criticals + weapon-type crit tables). Drafting it second surfaces design problems while there is still time to recover.
+- **Heavy prose content immediately follows.** PA1 Crit Tables is 150-250 prose entries - tackling it third validates the combat mechanic with actual content under load.
+- **Reference chapters next.** P3 Skills and P7 Equipment establish the vocabulary Character Creation will use.
+- **Sorcery before Chargen.** P6 must be drafted before P2 because chargen for sorcerer-archetype PCs depends on the sorcery rules being concrete.
+- **Introduction and Examples last.** They synthesise the rest.
+- **Player Book before GM Book.** A playable subset emerges as soon as the Player Book chapters are done; the user can run sessions before the GM Book is complete.
+
+---
+
+## 2026-05-10 - GM Book chapter G8 (Sample Material) dropped; sample adventures deferred to separate product
+
+**Context:** During chapter mapping (Task 3 of Phase 1, output `notes/chapter-mapping.md`) the proposed GM Book chapter G8 "Sample Material" (sample city, cult, ruin, patron NPC, short scenario) was flagged as conditional because it risked implicit setting creep against the locked "no defined setting" position (`design.md` §3.2).
+
+**Decision:** **Drop G8 from the GM Book.** The core Player Book and GM Book remain setting-light. They provide tools (GM Book G7 generators for fallen empires, cataclysms, ruins; G2 NPC creation; G4 patron design) but no specific named content.
+
+**Future commitment:** Sample adventures and setting fragments will be packaged as a **separate product (or supplement)** released after the core Player Book and GM Book ship. Likely contents: a sample port city, a sample cult, a sample lost ruin, a sample fully-detailed patron NPC, and a short one-shot scenario. Format: either bundled as a single supplement or released as small individual PDFs.
+
+**Reasoning:** Per `design.md` §3.2 ("the GM brings the setting") and the established borrowing principle that the books are opinionated and focused. Sample material in the core books undermines that discipline. Packaging it separately preserves the purity of the core release while acknowledging the genuine onboarding value of sample content for new GMs.
+
+---
+
 ## 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources
 
 **Context:** The project is now mining four BRP-derived sources beyond BRP UGE itself: Pulp Cthulhu, Delta Green Agent's Handbook, RuneQuest Weapons & Equipment, and Rolemaster Arms Law. Of these, **only BRP UGE is ORC-licensed**. The others are commercial copyright (Chaosium / Arc Dream / Iron Crown).

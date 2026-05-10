@@ -349,25 +349,6 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 
 ---
 
-## G8. Sample Material (Conditional - decision pending)
-
-**Purpose:** Worked examples of city, cult, ruin per the `design.md` §3.3 open question on setting fragments.
-
-**Source feeders:** N/A - all WSR-original.
-
-**Key content (if included):**
-- Sample city (a port city for adventure)
-- Sample cult (an antagonist organisation)
-- Sample lost ruin (a multi-session site)
-- Sample fully-detailed patron NPC
-- Sample short scenario
-
-**Estimated pages:** 12-18 (or this chapter is dropped entirely)
-
-**Open decisions:** **WHETHER TO INCLUDE THIS CHAPTER AT ALL.** Per `design.md` §3.3, including sample setting fragments risks implicit setting creep against the locked "no defined setting" decision (§3.2). User call.
-
----
-
 ## GA1. Appendix: GM Examples
 
 **Purpose:** Worked GM examples.
@@ -391,8 +372,8 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 | Book | Chapters (incl. appendices) | Est. pages |
 |------|----------------------------|------------|
 | Player Book | 7 + 2 appendices = 9 | 92-129 |
-| GM Book | 7 + 1 conditional + 1 appendix = 9 (or 8 without G8) | 74-122 (+ 12-18 if G8 included) |
-| **Total** | **18 (or 17)** | **~178-269** |
+| GM Book | 7 + 1 appendix = 8 | 74-122 |
+| **Total** | **17** | **~166-251** |
 
 Slightly over the "compact" target but defensible given the opinionated scope. Tightening happens during chapter drafting.
 
@@ -402,10 +383,17 @@ Slightly over the "compact" target but defensible given the opinionated scope. T
 
 These don't block any single chapter but should be resolved before Phase 2 begins:
 
-1. **G8 Sample Material chapter: include or drop?** (Per `design.md` §3.3.)
-2. **Status (skill) and Reputation (mechanic) merge or keep separate?** (Affects P3 Skills and P2 Character Creation.)
-3. **Crit table damage type count: 3 vs 5?** (Affects PA1 sizing.)
-4. **Currency naming convention.** (Affects P7 Equipment.)
-5. **Final profession list.** (Affects P2 Character Creation.)
+1. **Status (skill) and Reputation (mechanic) merge or keep separate?** (Affects P3 Skills and P2 Character Creation.)
+2. **Crit table damage type count: 3 vs 5?** (Affects PA1 sizing.)
+3. **Currency naming convention.** (Affects P7 Equipment.)
+4. **Final profession list.** (Affects P2 Character Creation.)
 
 These all become Phase 2 decisions during chapter drafting, but flagging for visibility.
+
+---
+
+# Future products / supplements (post-core release)
+
+Not part of the Player Book or GM Book scope. Captured here so we don't lose them.
+
+- **Sample adventures and setting fragments.** Originally proposed as G8 of the GM Book; dropped to keep the core books opinionated and setting-light (per `decisions.md`). Worth packaging separately after the core books ship: a sample port city, a sample cult, a sample lost ruin, a sample patron NPC, and a one-shot scenario. Format TBD - could be a single "Sample Adventures" supplement or several short standalone PDFs.
