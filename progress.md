@@ -27,7 +27,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 
 | # | Chapter | Book | Status | Notes |
 |---|---------|------|--------|-------|
-| 1 | P4 Action Resolution | Player | `[ ]` | Chassis - everything else references this |
+| 1 | P4 Action Resolution | Player | `[x]` | Chassis - everything else references this |
 | 2 | P5 Combat | Player | `[ ]` | Locks the matching-dice critical mechanic |
 | 3 | PA1 Critical Hit Tables | Player | `[ ]` | Heavy prose content (150-250 entries) - validates combat |
 | 4 | P3 Skills | Player | `[ ]` | Skill list reference |
