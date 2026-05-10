@@ -12,6 +12,48 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-10 - Phase 2 batch 2 chapter-time decisions (P5, PA1, P3, P7)
+
+**Context:** Phase 2 chapter dispatches for P5 Combat, PA1 Critical Hit Tables, P3 Skills, and P7 Equipment all returned together. Each subagent made local chapter-time decisions that need to be locked because downstream chapters and cross-references depend on them.
+
+**Decisions (locked, en bloc):**
+
+1. **Critical severity band mapping.** P5 and PA1 independently converged on:
+   - 11 = Band A (mild)
+   - 22 = Band B
+   - 33 = Band C
+   - 44, 55 = Band D
+   - 66, 77, 88 = Band E (devastating)
+   The matching-dice value of the roll IS the band selector. Within-band entry selection: 1d10.
+
+2. **Status (skill) and Reputation (mechanic) kept separate** (Option A from `notes/chapter-mapping.md` open decisions). Status = standing within a single community (skill in P3); Reputation = fame across cultures (mechanic in P2).
+
+3. **Major Wounds Table contents** are WSR-original, drafted in P5 §5 (20 results, ancient-world prose, no per-location framing). A critical attack's PA1 result may supersede the Major Wounds Table.
+
+4. **Desperate Action folded into Dying Blows.** A character whose actions are spent when the killing blow lands rolls a Difficult (halved) Stamina roll instead of standard Stamina.
+
+5. **PA1 damage-type scope: 3 tables for now (Slash, Pierce, Krush).** Burn and Grapple have interim rules (Burn = Krush one band lower; Grapple = Krush same band) pending later dispatch.
+
+6. **Currency names: Shard / Dram / Stater / Sun** (4 tiers, ascending). Ancient-world flavoured, culturally non-specific. P7 §1.
+
+7. **Encumbrance: STR-based, 4-band penalty system** (P7 §11). ENC values listed for significant items; trivial items accumulate at 10:1. Light tracking, suitable for theatre-of-mind.
+
+8. **Literacy: 0% base, mandatory specialty-by-script** (P3 Literacy entry).
+
+9. **Martial Arts specialties** named after ancient-world traditions (Pankration, Kalaripayattu, etc.) rather than modern names.
+
+10. **Ride absorbs Chariot driving** (specialty: Chariot driver). Drive (vehicle) skill dropped cleanly.
+
+**Reasoning:** All decisions consistent with locked design.md and prior decisions.md entries. The band mapping in particular is load-bearing for the Combat Resolution decision and is now needed for any chapter that interacts with criticals.
+
+**Implications for downstream work:**
+
+- Future chapter dispatches read `decisions.md` and inherit these.
+- Burn and Grapple table dispatches can happen anytime after PA1 is done; interim rules are usable immediately.
+- P2 Character Creation (forthcoming) inherits the Status/Reputation split, the currency names, and the encumbrance system.
+
+---
+
 ## 2026-05-10 - Fate Point spend menu finalised
 
 **Context:** P4 Action Resolution required the WSR-original Fate Point spend menu (per the locked Combat Resolution and Fate Points = PP decisions). Subagent designed the menu drawing on Pulp Cthulhu's structure as inspiration only (mechanism borrowable, prose WSR-original). User reviewed and confirmed the menu plus three chapter-time rulings.
