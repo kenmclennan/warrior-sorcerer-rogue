@@ -42,7 +42,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 13 | G3 Bestiary | GM | `[ ]` | Creatures, demons, elementals |
 | 14 | G5 Treasure and Artifacts | GM | `[ ]` | Loot + artifact creation |
 | 15 | G6 Hazards and Spot Rules | GM | `[ ]` | Disease, poison, chases, mass combat |
-| 16 | G7 The Deep Past | GM | `[ ]` | World-building generators |
+| 16 | G7 The Deep Past | GM | `[x]` | World-building generators |
 | 17 | GA1 GM Examples | GM | `[ ]` | GM examples appendix |
 
 ---
