@@ -38,7 +38,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 9 | PA2 Examples | Player | `[ ]` | Worked examples appendix |
 | 10 | G1 Running the Game | GM | `[x]` | GM principles + deeper genre primer |
 | 11 | G2 NPCs and Adversaries | GM | `[x]` | Mooks, professionals, named foes |
-| 12 | G4 NPC Sorcery and Patrons | GM | `[ ]` | Patron design, ritual, demon binding |
+| 12 | G4 NPC Sorcery and Patrons | GM | `[x]` | 9,906 words; 5 sample NPC sorcerers; 7 sample patrons; ritual magic, demon binding deep-dive, Brazier, Apotheosis arc |
 | 13 | G3 Bestiary | GM | `[ ]` | Creatures, demons, elementals |
 | 14 | G5 Treasure and Artifacts | GM | `[ ]` | Loot + artifact creation |
 | 15 | G6 Hazards and Spot Rules | GM | `[ ]` | Disease, poison, chases, mass combat |
@@ -73,3 +73,4 @@ When reading through BRP UGE, keep a specific eye out for:
 - **2026-05-10:** **P6 Sorcery (player-facing) complete.** 8,818 words; 29 spells with WSR-original tone descriptions; full cost trio (PP, Patron Score, Corruption) mechanically specified; iron-vs-sorcery cross-referenced to P7; 2 healing spells (Mend the Mortal Frame, Vampire's Kiss) each with mandatory Corruption cost; player-side demon summoning procedure drafted. P2 Character Creation now unblocked.
 - **2026-05-10:** **P2 Character Creation complete.** 8,205 words; 8 cultural backgrounds; 14 professions; 40 WSR-original talents (4 tables x 10); Passions (mandatory, 3 at chargen) + Reputation mechanics; sorcerer-specific step with POW threshold, patron compact, starting Corruption.
 - **2026-05-10:** **G1 Running the Game complete.** 6,643 words; 7 sections covering genre primer (Howard/Leiber/Moorcock with named works), session structure (hook/complications/reckoning), 5 GM principles, Passions-based session zero, theatre-of-mind combat guidance, pacing (within session and across campaign), lightweight-vs-tactical tension.
+- **2026-05-10:** **G4 NPC Sorcery and Patrons complete.** 9,906 words; 8 sections; 5 sample NPC sorcerers (Cult Leader, Court Mage, Hermit, Witch-Queen, Apprentice-Risen); 7 sample patrons (Drowned Goddess, Faceless One, Charnel Heir, Set the Serpent, Empty Throne, Plague-Bride, Brass Warden); ritual magic with Chain of Being procedure; demon binding deep-dive including escape clauses; Brazier of Power campaign rules; Apotheosis arc with score reduction tools.
