@@ -36,6 +36,16 @@ Situational modifiers (unusual equipment, adverse weather, time pressure) stack 
 
 When no applicable skill exists, multiply the relevant characteristic by five and roll against that target. Characteristic rolls follow the same outcome tiers as skill rolls and do not earn experience checkmarks.
 
+| Characteristic | Roll Target | Used For                                                |
+| -------------- | ----------- | ------------------------------------------------------- |
+| **STR**        | STR × 5     | Lifting, breaking, brute force                          |
+| **CON**        | CON × 5     | Resisting fatigue, illness, exposure                    |
+| **SIZ**        | SIZ × 5     | Bulk-related tasks (rare)                               |
+| **INT**        | INT × 5     | Quick recall, problem-solving (the **Idea roll**)       |
+| **POW**        | POW × 5     | Luck, will, supernatural resistance (the **Luck roll**) |
+| **DEX**        | DEX × 5     | Reflex, balance, fine reaction (the **Agility roll**)   |
+| **CHA**        | CHA × 5     | First impression, bearing under pressure                |
+
 ---
 
 ## 2. Outcome Tiers
