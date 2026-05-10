@@ -60,7 +60,8 @@ When reading through BRP UGE, keep a specific eye out for:
 
 ## Open questions / blockers
 
-- None yet.
+- **PA1 Critical Hit Tables: lethality needs softening.** Initial draft (commit `5937091`) is too brutal, especially given PCs will be on the receiving end. Revisit before Phase 2 closeout - likely tweak Band E severity downward, possibly also Band D. Rolemaster's lethality gradient is intentionally extreme; WSR wants pulpier survivability while preserving cinematic teeth.
+- **Burn and Grapple crit tables not yet written.** PA1 currently uses interim rules (Burn = Krush one band lower; Grapple = Krush same band). A focused dispatch can author the proper tables when convenient.
 
 ---
 
