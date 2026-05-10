@@ -12,6 +12,81 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources
+
+**Context:** The project is now mining four BRP-derived sources beyond BRP UGE itself: Pulp Cthulhu, Delta Green Agent's Handbook, RuneQuest Weapons & Equipment, and Rolemaster Arms Law. Of these, **only BRP UGE is ORC-licensed**. The others are commercial copyright (Chaosium / Arc Dream / Iron Crown).
+
+**Decision:** Establish the working principle for cross-source borrowing:
+
+- **BRP UGE content:** may be reproduced largely verbatim under the ORC License with proper attribution.
+- **Non-ORC sources** (Pulp Cthulhu, Delta Green, Rolemaster Arms Law; RuneQuest W&E status to be verified): **mechanisms are borrowable, but rules text and tables must be WSR-original.** We do not reproduce stat blocks, table contents, or rules paragraphs verbatim.
+- **For each non-ORC borrow:** cite the source mechanism in `decisions.md`; write the WSR rule in our own words; author WSR-original tables and entries.
+
+**Reasoning:** Game mechanics are not copyrightable; specific expression is. Re-implementing the *idea* (e.g. "mooks are incapacitated at half HP") in WSR-original prose is legally clean. Reproducing a table verbatim or copying a rules paragraph is not. This principle protects the project at publication time and keeps every borrowed mechanic's lineage transparent in the decision log.
+
+---
+
+## 2026-05-10 - Mook rule: borrow Pulp Cthulhu mechanism
+
+**Context:** BRP UGE has no native mook handling. Both `notes/source-5-combat.md` and `notes/source-14-npc-digest-customizing.md` confirmed the gap. `notes/pulp-cthulhu.md` found a clean, two-paragraph borrow.
+
+**Decision:** Adopt the Pulp Cthulhu mook mechanism (mechanism only, WSR-original rules text):
+
+- A mook is automatically **incapacitated** when reduced to half their hit points by any combination of hits. No further damage rolls or wound effects.
+- Mook stat blocks use averaged characteristics. Mooks have no Fate / Power Pool to spend on luck.
+- "Look Out Master!" - a villain may spend their remaining PPs to have a nearby mook take a hit instead, killing the mook.
+
+**Reasoning:** Per `design.md` §2.3 ("ordinary foes go down quickly and don't drag fights out") and §3.1 ("rules text uncluttered"). Mooks are simpler, not more complex. Look Out Master is dramatic and reinforces villain PP depletion as a pacing tool.
+
+---
+
+## 2026-05-10 - Talent system: borrow Pulp Cthulhu structure
+
+**Context:** Character distinctiveness without classes (per `design.md` §3.1) is a watch-item. `notes/source-2-characters.md` flagged BRP UGE's distinctiveness mechanisms as "shallow without Passions." `notes/pulp-cthulhu.md` identified Pulp Talents as "better than anything in BRP UGE" - 4 tables of 10 talents each, choose 2 at chargen, talents gate PP spends.
+
+**Decision:** Borrow the **Pulp Talents structural model** (mechanism only, WSR-original talent list):
+
+- Multiple themed tables of talents (likely 4 tables, ~10 talents each: Combat / Sorcery / Stealth & Finesse / Social & Cunning - exact tables defined during chapter drafting).
+- Each PC chooses 2 talents at chargen, with structural constraints (e.g. one per allowed table; sorcerer-only talents restricted to sorcerer PCs).
+- Each talent enables a specific PP-spend ability (exact costs and effects designed in Phase 2).
+- Additional talents may be earned through play.
+
+**Reasoning:** Per `design.md` §3.1 (character distinctiveness watch-item). The combinatorial structure (4 tables of 10 = 780 unique 2-talent pairs) creates strong PC differentiation without classes. PP-gated activations compound with the locked Fate Points = PP architecture - every talent spend competes with sorcery, luck, and crit-buying.
+
+---
+
+## 2026-05-10 - Equipment chapter: borrow extensively from RuneQuest W&E
+
+**Context:** `notes/source-13-equipment.md` found BRP UGE's equipment chapter ~70% out of scope, with major gaps: no mundane gear list, no ancient currency, only bare-minimum mounts/vehicles. `notes/runequest-weapons-equipment.md` provides extensive ancient-world content that fills these gaps.
+
+**Decision:** Borrow extensively from RuneQuest W&E (mechanisms and category structures only - WSR-original tables):
+
+- **Mundane gear:** WSR-original tables across 9 categories (clothing, tools, writing supplies, containers, light sources, rope, adventuring supplies, food/drink, herbs, musical instruments). Stats: cost (in WSR coins), ENC.
+- **Currency:** WSR-original 4-tier coin system (denominations and names TBD during chapter drafting; ancient-world-flavored).
+- **Weapons:** add ~11 weapons missing from BRP UGE that RuneQuest covers (khopesh, falchion, whip, combat net, composite bow, etc.) - WSR-original stat blocks.
+- **Armour:** expand with RuneQuest's ancient-world types (linothorax, gambeson, lamellar variants) - WSR-original AP values, converted from per-location to single-AP per the locked Major Wounds decision.
+- **Material tiers:** adopt copper / bronze / iron quality tiers as a WSR mechanism (damage and durability variations).
+- **Mounts, vehicles, watercraft:** WSR-original tables for the categories RuneQuest provides.
+- **Hirelings, inn prices:** WSR-original price tables, structure inspired by RuneQuest.
+
+**Reasoning:** Per `design.md` §1.2 #3 ("ancient world setting") and §3.1 ("Equipment is bronze-and-iron-age"). RuneQuest is BRP UGE's closest cousin and fills our equipment gaps with genre-coherent material we would otherwise design from scratch.
+
+---
+
+## 2026-05-10 - Iron-vs-sorcery rule: borrow
+
+**Context:** RuneQuest W&E's iron-vs-sorcery penalty (`notes/runequest-weapons-equipment.md`) imposes -5% sorcery skill per ENC of unenchanted iron carried. The mechanic was flagged as genre-resonant and complementary to the locked sorcery cost architecture (PP / Patron Score / Corruption).
+
+**Decision:** Adopt the iron-vs-sorcery penalty (mechanism only, WSR-original rules text):
+
+- Carrying unenchanted iron disrupts sorcery. Each ENC of unenchanted iron borne by the sorcerer imposes a **-5% penalty on all sorcery rolls**.
+- Enchanted iron items (ritually consecrated to a patron, or otherwise harmonised with the sorcerous current) do not impose this penalty.
+- Bronze, copper, stone, leather, wood etc. carry no penalty.
+
+**Reasoning:** Per `design.md` §2.2 ("magic is alien, costly, and corrupting"). "Cold iron disrupts magic" is canonical to sword & sorcery (Howard, Moorcock, folklore broadly). Mechanically it gives sorcerer PCs another visible reason to travel light, eschew armour, and depend on bronze - a real difference between sorcerer and warrior PCs at the table.
+
+---
+
 ## 2026-05-10 - Combat resolution: matching-dice criticals + weapon-type tables; matching-dice fumbles
 
 **Context:** BRP UGE uses a percentile system with five outcome tiers: Critical (1/20 of skill), Special (1/5 of skill), Success, Failure, Fumble. The Special and Critical tiers carry weapon-type damage results. The Special-Success calculation (1/5 of skill) is mental-arithmetic-heavy at the table. We considered replacements after reviewing Delta Green's matching-dice mechanism (`notes/delta-green.md`), Rolemaster Arms Law's per-weapon critical tables (`notes/rolemaster-arms-law.md`), and an audit of where Special Success has mechanical effect outside combat (`notes/special-success-audit.md`, verdict: mostly combat, with five clean non-combat exceptions).
