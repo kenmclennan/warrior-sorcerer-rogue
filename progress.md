@@ -43,7 +43,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 14 | G5 Treasure and Artifacts | GM | `[x]` | 7,321 words; mundane treasure tables; full artifact creation rules; 10 sample artifacts; 5 cursed items; Reputation economics |
 | 15 | G6 Hazards and Spot Rules | GM | `[x]` | 4,192 words; 8 sections; disease table + 6 types; 11-poison reference; fire/heat/smoke; cold/hypothermia/frostbite; hunger/thirst/fatigue; falling categories + drowning; 5-position narrative chase track; mass combat Luck-per-turn abstraction |
 | 16 | G7 The Deep Past | GM | `[x]` | World-building generators |
-| 17 | GA1 GM Examples | GM | `[ ]` | GM examples appendix |
+| 17 | GA1 GM Examples | GM | `[x]` | ~2,900 words; 4 sections: session design walkthrough (G7 generator hit + Passion hooks + 2 complications + reckoning variants), NPC sorcerer step-by-step (Ysolde the Annotator, mid-tier Charnel Heir sorcerer, full stat block), chase scene (3 rounds, range track, obstacle roll), sorcery cost adjudication (pre-casting checklist, resistance roll, spell-specific Corruption, patron compact moment) |
 
 ---
 
