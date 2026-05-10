@@ -41,7 +41,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 12 | G4 NPC Sorcery and Patrons | GM | `[x]` | 9,906 words; 5 sample NPC sorcerers; 7 sample patrons; ritual magic, demon binding deep-dive, Brazier, Apotheosis arc |
 | 13 | G3 Bestiary | GM | `[x]` | 12,149 words; 12 mortal beasts, 7 undead, 7 fantasy beasts, 3 demon entries (incl. Yog-Hath sample), 4 elementals; 20-entry Chaotic Features table |
 | 14 | G5 Treasure and Artifacts | GM | `[ ]` | Loot + artifact creation |
-| 15 | G6 Hazards and Spot Rules | GM | `[ ]` | Disease, poison, chases, mass combat |
+| 15 | G6 Hazards and Spot Rules | GM | `[x]` | 4,192 words; 8 sections; disease table + 6 types; 11-poison reference; fire/heat/smoke; cold/hypothermia/frostbite; hunger/thirst/fatigue; falling categories + drowning; 5-position narrative chase track; mass combat Luck-per-turn abstraction |
 | 16 | G7 The Deep Past | GM | `[x]` | World-building generators |
 | 17 | GA1 GM Examples | GM | `[ ]` | GM examples appendix |
 
