@@ -68,4 +68,4 @@ When reading through BRP UGE, keep a specific eye out for:
 
 *Significant completed work (older items move here as the active sections get crowded).*
 
-- *None yet.*
+- **2026-05-10:** **Phase 1 complete.** Source review (BRP UGE + Pulp Cthulhu + Delta Green + RuneQuest W&E + Rolemaster Arms Law), 11 locked design decisions, 17-chapter mapping with extraction order. Phase 1 plan archived to `plans/2026-05-09-phase-1-source-review.md`.
