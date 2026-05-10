@@ -12,6 +12,38 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-10 - Fate Point spend menu finalised
+
+**Context:** P4 Action Resolution required the WSR-original Fate Point spend menu (per the locked Combat Resolution and Fate Points = PP decisions). Subagent designed the menu drawing on Pulp Cthulhu's structure as inspiration only (mechanism borrowable, prose WSR-original). User reviewed and confirmed the menu plus three chapter-time rulings.
+
+**Decision:** The Fate Point spend menu and its associated rulings are:
+
+| Option | Cost | Effect |
+|---|---|---|
+| Re-roll | 5 PP | Re-roll any one roll; second result is final; no experience checkmark |
+| Trust the Fates | 5 PP | Substitute a Difficult Luck roll (POW×5, halved) for a skill roll |
+| Shrug Off a Blow | 2 PP per point | Reduce damage of one attack by 1 point per 2 PP spent (minimum 1 damage remains) |
+| Ignore a Fumble | 6 PP | Convert a fumble to ordinary failure; complication does not occur |
+| Stand Your Ground | 2/4/8 PP escalating | Prevent incapacitation for one more round (cost doubles each round) |
+| Deflect the Killing Blow | All remaining PP (min 8 PP) | Survive a killing blow; drop to 1 HP, fall unconscious but alive |
+| Steady Blade | 3 PP | Ignore all situational penalties on one roll this round |
+| Rally From the Wound | 8 PP | Immediately recover 1D6 HP; once per scene |
+
+Confirmed chapter-time rulings:
+- **Deflect the Killing Blow** minimum cost is 8 PP (calibrated to WSR's smaller PP pools, max POW typically 10-16).
+- **Shrug Off a Blow** cannot reduce damage below 1 (preserves the fiction of being struck).
+- **Rally From the Wound** limited to once per scene (prevents HP-battery abuse).
+
+**Reasoning:** Per the locked Fate Points = PP decision. The menu is WSR-original; Pulp Cthulhu's spend categories provided the framework but every option is rewritten for WSR's smaller pool sizes (max ≈ POW) and tonal register. The PP-buy mechanic for criticals (per the Combat Resolution decision) is documented in P4 §3 separately from this menu.
+
+**Implications for downstream work:**
+
+- P5 Combat references this menu for in-combat spends.
+- G2 NPCs and Adversaries notes that mooks have no Fate Point access.
+- The PP-buy mechanic for criticals is detailed alongside this menu in P4 §3.
+
+---
+
 ## 2026-05-10 - Healing magic revision: rare and costly, not absent
 
 **Context:** The original design doc stated "No healing magic" (`design.md` §1.3 and §2.2). The Magic dispatch (`notes/source-8-magic.md`) flagged BRP Magic's Heal spell as a mandatory drop on this basis. The user amended this position: healing magic IS permitted, as long as it is not the *expected* or *default* way to heal.
