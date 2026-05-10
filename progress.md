@@ -29,7 +29,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 |---|---------|------|--------|-------|
 | 1 | P4 Action Resolution | Player | `[x]` | Chassis - everything else references this |
 | 2 | P5 Combat | Player | `[ ]` | Locks the matching-dice critical mechanic |
-| 3 | PA1 Critical Hit Tables | Player | `[ ]` | Heavy prose content (150-250 entries) - validates combat |
+| 3 | PA1 Critical Hit Tables | Player | `[x]` | 150 entries, 3 damage types (Slash/Pierce/Krush); Burn/Grapple deferred with interim guidance |
 | 4 | P3 Skills | Player | `[ ]` | Skill list reference |
 | 5 | P7 Equipment | Player | `[ ]` | Weapons, armour, gear, currency, mounts |
 | 6 | P6 Sorcery (player-facing) | Player | `[ ]` | Casting, costs, spell list - blocks P2 |
