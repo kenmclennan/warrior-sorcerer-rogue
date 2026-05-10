@@ -37,7 +37,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 8 | P1 Introduction | Player | `[ ]` | Synthesises everything else |
 | 9 | PA2 Examples | Player | `[ ]` | Worked examples appendix |
 | 10 | G1 Running the Game | GM | `[ ]` | GM principles + deeper genre primer |
-| 11 | G2 NPCs and Adversaries | GM | `[ ]` | Mooks, professionals, named foes |
+| 11 | G2 NPCs and Adversaries | GM | `[x]` | Mooks, professionals, named foes |
 | 12 | G4 NPC Sorcery and Patrons | GM | `[ ]` | Patron design, ritual, demon binding |
 | 13 | G3 Bestiary | GM | `[ ]` | Creatures, demons, elementals |
 | 14 | G5 Treasure and Artifacts | GM | `[ ]` | Loot + artifact creation |
