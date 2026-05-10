@@ -185,6 +185,26 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 
 ---
 
+## PA3. Appendix: Inspirational Influences
+
+**Purpose:** The "Appendix N" of WSR - films, books, comics, music, and art that informed the genre and the system. For both players and GMs.
+
+**Source feeders:** User-supplied list (2026-05-10), with light WSR-relevant annotations.
+
+**Key content:**
+
+- Films (Harryhausen-era stop-motion, the 1980s sword-and-sorcery cycle, John Carter)
+- Books (Howard's Conan stories, Moorcock's Elric, Leiber's Fafhrd & Grey Mouser, Gemmell, Shea, Burroughs, Dickinson, Fox)
+- Comics (Head Lopper)
+- Music (Hawkwind's Black Sword, Poledouris's Conan score, Horner's Krull score)
+- Art (Frazetta, Brom)
+
+**Estimated pages:** 2-3.
+
+**Open decisions:** None.
+
+---
+
 ## PA2. Appendix: Examples
 
 **Purpose:** Worked examples for the rules in earlier chapters.

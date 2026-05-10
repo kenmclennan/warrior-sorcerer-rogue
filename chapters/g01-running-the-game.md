@@ -35,6 +35,8 @@ Three authors define the tradition and define this game. Know them before you ru
 
 A session can sit anywhere on this triangle. A Howard-flavoured adventure turns Moorcock the moment a patron's demands are revealed. A Leiber-flavoured caper turns Howard the moment the sword comes out. You do not need to pick one and stay there; you need to know all three so you can navigate between them deliberately.
 
+For the broader list of inspirational influences - additional authors, films, music, art - see **PA3 Inspirational Influences** in the Player Book.
+
 ### 1.2 The Literary Register
 
 Sword & sorcery operates in a specific emotional key. Understanding that key helps you make decisions on the fly.
