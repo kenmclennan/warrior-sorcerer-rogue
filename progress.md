@@ -32,7 +32,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 3 | PA1 Critical Hit Tables | Player | `[x]` | 150 entries, 3 damage types (Slash/Pierce/Krush); Burn/Grapple deferred with interim guidance |
 | 4 | P3 Skills | Player | `[x]` | Skill list reference |
 | 5 | P7 Equipment | Player | `[x]` | Weapons, armour, gear, currency, mounts |
-| 6 | P6 Sorcery (player-facing) | Player | `[ ]` | Casting, costs, spell list - blocks P2 |
+| 6 | P6 Sorcery (player-facing) | Player | `[x]` | 29 spells; cost trio (PP/Patron/Corruption); iron rule; demon summoning player-side |
 | 7 | P2 Character Creation | Player | `[ ]` | Depends on P3, P6, P7 |
 | 8 | P1 Introduction | Player | `[ ]` | Synthesises everything else |
 | 9 | PA2 Examples | Player | `[ ]` | Worked examples appendix |
@@ -69,3 +69,4 @@ When reading through BRP UGE, keep a specific eye out for:
 *Significant completed work (older items move here as the active sections get crowded).*
 
 - **2026-05-10:** **Phase 1 complete.** Source review (BRP UGE + Pulp Cthulhu + Delta Green + RuneQuest W&E + Rolemaster Arms Law), 11 locked design decisions, 17-chapter mapping with extraction order. Phase 1 plan archived to `plans/2026-05-09-phase-1-source-review.md`.
+- **2026-05-10:** **P6 Sorcery (player-facing) complete.** 8,818 words; 29 spells with WSR-original tone descriptions; full cost trio (PP, Patron Score, Corruption) mechanically specified; iron-vs-sorcery cross-referenced to P7; 2 healing spells (Mend the Mortal Frame, Vampire's Kiss) each with mandatory Corruption cost; player-side demon summoning procedure drafted. P2 Character Creation now unblocked.
