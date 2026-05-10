@@ -3,21 +3,19 @@
 > _"The desert has its own laws, older and crueller than the laws of men."_
 > _- Robert E. Howard_
 
-This chapter is a GM reference for environmental threats, natural hazards, and the rules that govern situations outside ordinary combat. The entries are short and clinical: look up the hazard, apply the mechanic, move on. The genre requires that the world be hostile between fights as much as during them.
-
-Rules that are player-facing (prone, aimed attacks, disengaging, close combat, weapon length) appear in P5. This chapter carries the GM-side reference for hazards and extended situation rules not already covered there.
+GM reference for environmental threats, natural hazards, and situation rules outside ordinary combat. Player-facing rules (prone, aimed attacks, disengaging, close combat, weapon length) are in P5.
 
 ---
 
 ## 1. Disease
 
-Infection follows exposure to disease sources: a plague victim's wounds, foul water, miasma from a ruin, a curse-inflected bite. The GM sets the Potency of the disease (POT 3-18, treating it as a poison for the initial resistance roll).
+Infection follows exposure: a plague victim's wounds, foul water, ruin miasma, a curse-inflicted bite. The GM sets disease Potency (POT 3-18, treating it as a poison for the initial resistance roll).
 
 **Contracting disease.** The exposed character makes a Stamina roll (CON x5). On a failure, they are infected. A character who has been deliberately infected (forced into contact, no chance to avoid) may not make the initial Stamina roll.
 
 **Daily recovery rolls.** Once infected, the character makes a daily CON roll to resist the disease's progress. The multiplier starts at x2 and increases by x1 each day the character fails: CON x2 on day one, CON x3 on day two, and so on. A fumble on the recovery roll reduces the multiplier by 1 (instead of increasing it) - the character is getting worse faster. A character who achieves three consecutive daily successes throws off the infection and recovers.
 
-**Strenuous conditions worsen recovery.** A character fighting or travelling in wilderness conditions makes recovery rolls at one step lower: wilderness travel reduces CON x5 to CON x4 (and CON x2 to CON x1); combat conditions reduce further. A bedridden character with proper medical care rolls at the base rate; a sorcerer still burning PP in the field while infected does not.
+**Strenuous conditions worsen recovery.** Wilderness travel reduces the roll multiplier by 1 step (CON x5 to CON x4, etc.); combat conditions reduce further. A bedridden character with proper care rolls at the base rate.
 
 **Illness Severity.** The number of consecutive daily failures determines how badly the disease manifests:
 
@@ -31,7 +29,7 @@ Infection follows exposure to disease sources: a plague victim's wounds, foul wa
 
 ### 1.1 Disease Types
 
-Each disease attacks a different characteristic. The GM may use these as written or rename them to suit the setting. All have the same recovery mechanic; only the target characteristic differs.
+Each disease attacks a different characteristic. Same recovery mechanic throughout; only the target characteristic differs.
 
 | Disease type | Characteristic attacked | Genre examples                                              |
 | ------------ | ----------------------- | ----------------------------------------------------------- |
@@ -42,15 +40,15 @@ Each disease attacks a different characteristic. The GM may use these as written
 | Shakes       | DEX                     | Palsy, nerve damage, black-tongue fever                     |
 | Pox          | APP (or CHA)            | Disfiguring plague, brands of corruption, plague-god's mark |
 
-**Sorcerers and Malaise.** A sorcerer suffering from Malaise disease has their POW reduced - and with it, their PP pool. A sorcerer at POW 8 from a Malaise infection has 8 PP instead of their full pool. Every PP spent on spells or Fate Points is one less point available to resist the next day's recovery roll through the Stamina mechanic. The spiral is genre-appropriate.
+**Sorcerers and Malaise.** Reduced POW means a reduced PP pool. Every PP spent on spells or Fate Points is one fewer available for the next recovery roll. The spiral is intentional.
 
-**Characteristic recovery.** Lost characteristic points return at the same rate they were lost, once the infection is thrown off - but no faster. A character who lost 3 STR at the Acute rate (3 points in 3 days) recovers at 1 point per day. A character at Severe severity who lost 8 INT in eight hours recovers 1 INT per day under excellent care, or 1 per week in the field. The Medicine skill applied daily during recovery improves the rate by one step (per day becomes per four days improves to per three days, etc.).
+**Characteristic recovery.** Lost points return at the same rate they were lost, once infection is thrown off - no faster. Medicine applied daily improves the rate by one step.
 
 ---
 
 ## 2. Poison
 
-Poisons work through a resistance roll: the poison's Potency (POT) against the target's CON using the Resistance Table. Overcomes CON: full POT in HP damage. Fails to overcome CON: half POT in HP damage (round up). Two doses of the same poison at the same POT do not combine into a double-strength dose.
+Poisons use the Resistance Table: POT vs. CON. Overcomes CON: full POT in HP damage. Fails: half POT (round up). Two doses of the same poison do not combine into a double-strength dose.
 
 **Delay.** Fast poisons take effect after 3 combat rounds (roughly 36 seconds). Slow poisons take effect after 3 full turns (roughly 45 minutes). The delay is fixed for the poison type; it cannot be extended by the victim.
 
@@ -76,13 +74,13 @@ The following are representative ancient-world poisons for GM use. POT values as
 | Black lotus extract         | 16     | Slow  | HP damage; failed CON roll = coma for 1D6 days                              | Extremely rare, sorcerer-adjacent. The GM may add Corruption implications for the harvester. |
 | Alchemical acid             | varies | Fast  | HP damage to flesh; armour degraded 1 point per round of contact            | See §3 for full fire/acid rules. POT equals the 1D6 type used.                               |
 
-**Named poisons and the genre.** Howard, Leiber, and Moorcock all use poison as an assassination tool and a villain's shortcut. The genre convention is that poison is cowardly and honourable characters regard it with contempt - which does not stop rogues from using it. The GM should feel free to name poisons for their setting; "Black Tears of Stygia" is more evocative than "Nightshade (POT 13)."
+**Named poisons.** The genre convention is that poison is cowardly and honourable characters regard it with contempt - which does not stop rogues. Name poisons for your setting: "Black Tears of Stygia" is more evocative than "Nightshade (POT 13)."
 
 ---
 
 ## 3. Fire and Heat
 
-Fire causes HP damage each round a character is exposed. Armour provides protection for the first 1D3 rounds of fire exposure before heat penetrates and begins degrading the armour itself (non-metal armour loses 1 AV per round of sustained fire after that point; metal armour is not damaged but becomes dangerously hot - see below).
+Fire causes HP damage each round of exposure. Armour provides protection for the first 1D3 rounds before heat penetrates; non-metal armour then loses 1 AV per round of sustained fire. Metal armour does not degrade but becomes dangerously hot (see below).
 
 ### 3.1 Fire Intensity
 
@@ -94,11 +92,11 @@ Fire causes HP damage each round a character is exposed. Armour provides protect
 | Building fire (room fully alight)                    | 2D6 HP           | Plus smoke inhalation (see §3.2). Character automatically catches fire unless armoured. |
 | Intense fire (forge, molten metal, alchemical flame) | 3D6 HP           | Character automatically catches fire; armour provides no protection from the heat.      |
 
-**Catching fire.** A character whose clothing catches fire takes ongoing 1D4 HP per round at the start of each Phase Four. Putting out the fire requires a full round of action (rolling on the ground, dousing with liquid, stripping burning clothing). A character who is on fire and continues to act in combat makes all rolls at Difficult while burning.
+**Catching fire.** Ongoing 1D4 HP per round at the start of each Phase Four. Putting out the fire: full round of action (rolling on ground, dousing, stripping burning clothing). All rolls Difficult while on fire.
 
-**Burning characteristics.** When fire damage from a single round exceeds one quarter of the character's current HP, the character makes a Luck roll. On a failure, roll 1D6: that characteristic loses 1D4 points from the burn. (1 = STR; 2 = DEX; 3 = APP/CHA; 4 = CON; 5-6 = no characteristic, HP damage only.) Repeated failures accumulate.
+**Burning characteristics.** If fire damage in a single round exceeds one-quarter current HP: Luck roll. Failure: roll 1D6 to determine affected characteristic (1=STR, 2=DEX, 3=APP/CHA, 4=CON, 5-6=HP only); lose 1D4 points. Repeated failures accumulate.
 
-**Metal armour and heat.** Metal armour does not burn but retains heat. A character wearing bronze or iron in sustained fire (2+ rounds) finds their armour too hot to wear after the fire ends: unarmoured for 1D6 turns while it cools, and all skill penalties from armour become Extreme penalties during the cooling period.
+**Metal armour and heat.** Does not burn but retains heat. After 2+ rounds in sustained fire: armour is unwearable for 1D6 turns while cooling; all armour skill penalties become Extreme during that period.
 
 ### 3.2 Smoke Inhalation
 
@@ -115,9 +113,9 @@ A character who falls unconscious from smoke inhalation continues to take smoke 
 
 ## 4. Cold and Exposure
 
-Cold and extreme weather are attrition threats, not instant killers. The danger is cumulative: each day without adequate protection, food, and warmth chips away at the character's capacity to function.
+Cold is an attrition threat. Each day without adequate protection chips away at the character's capacity to function.
 
-**Daily exposure roll.** A character inadequately protected against severe cold (insufficient clothing, no shelter at night, wet through) makes a daily Stamina roll (CON x5). On a failure, they take 1 point of CON damage that day. If their CON reaches 0 by this route, they die of exposure.
+**Daily exposure roll.** Inadequate protection (insufficient clothing, no night shelter, wet through): daily Stamina roll (CON x5). Failure: 1 CON damage. CON reaches 0: death by exposure.
 
 **Accelerated exposure.** Sudden catastrophic cold (plunging into icy water, being caught in a blizzard unclothed, a winter storm in the open steppe) demands an immediate Stamina roll. Failure: 1D3 CON loss immediately. Fumble: 1D6 CON and the character is incapacitated (hypothermia or frostbite).
 
@@ -125,7 +123,7 @@ Cold and extreme weather are attrition threats, not instant killers. The danger 
 
 A character who has failed two or more consecutive daily Stamina rolls is hypothermic. Their DEX and INT each drop by 1D3 (temporarily, recovering with warmth and rest). All actions are Difficult. The hypothermic character may not run - only slow, shambling movement. A fumble on any physical roll results in collapse.
 
-Warming a hypothermic character (fire, shelter, warm liquid, body heat) halts further CON loss and restores the temporary DEX/INT penalty at 1 point per hour of warmth and rest.
+Warmth and rest halt further CON loss and restore temporary DEX/INT penalty at 1 point per hour.
 
 ### 4.2 Frostbite
 
@@ -145,7 +143,7 @@ Frostbite treatment requires warmth, clean bindings, and a successful Medicine r
 
 ## 5. Hunger, Thirst, and Fatigue
 
-These are the hazards of the hostile wilderness: the ancient world does not provision adventurers. A character without supplies degrades over days.
+The ancient world does not provision adventurers. A character without supplies degrades over days.
 
 ### 5.1 Hunger
 
@@ -155,7 +153,7 @@ A character without adequate food begins to feel the effects after CON/2 days (r
 - **Day 4-6:** all physical actions Difficult; wounds heal at half the normal rate.
 - **Day 7+:** 1 point of SIZ lost per day (wasting). When SIZ reaches 0, the character is dying.
 
-A single adequate meal resets the clock. "Adequate" is a single day's rations or equivalent foraging.
+A single adequate meal (a day's rations or equivalent foraging) resets the clock.
 
 ### 5.2 Thirst
 
@@ -181,9 +179,9 @@ Extended exertion without rest degrades performance. Use this rule when characte
 | Exhausted | -40% to all skills; Stamina roll each turn or collapse                     |
 | Spent     | Cannot act; must rest                                                      |
 
-**Moving along the track.** The GM moves a character one step down the track for each of the following: a full combat (3+ rounds of actual fighting); a significant overland march (half a day's travel at speed); extended swimming, climbing, or carrying heavy loads. A Short Rest (one turn without significant exertion) recovers one step. A full night's rest returns the character to Fresh.
+**Moving along the track.** One step down for: a full combat (3+ rounds); a significant overland march; extended swimming, climbing, or heavy loads. Short Rest (one turn): recover one step. Full night's rest: return to Fresh.
 
-**Interaction with wounds and disease.** A character who is simultaneously wounded, diseased, and exhausted moves down the fatigue track faster (the GM may advance two steps for a significant exertion) and requires extended rest (two nights) to return to Fresh.
+**Interaction with wounds and disease.** Wounded, diseased, and exhausted simultaneously: GM may advance two steps for a significant exertion; requires two nights' rest to return to Fresh.
 
 ---
 
@@ -191,7 +189,7 @@ Extended exertion without rest degrades performance. Use this rule when characte
 
 ### 6.1 Falling
 
-Falling damage is determined by the height of the fall, expressed in narrative categories. The GM assigns the category based on the fiction.
+The GM assigns a narrative fall category based on the fiction.
 
 | Fall category | Damage     | Examples                                                                         |
 | ------------- | ---------- | -------------------------------------------------------------------------------- |
@@ -204,13 +202,13 @@ Falling damage is determined by the height of the fall, expressed in narrative c
 
 **SIZ modifiers.** A very small character (SIZ 5 or below) reduces fall damage by 1D6 (minimum 1D6). A very large character (SIZ 20+) adds 1D6; add another 1D6 for every 20 SIZ above that.
 
-**Jumping.** A character who jumps deliberately (rather than falling) may make a Jump roll. On a success, they may designate the hit location affected by the landing (or choose to roll and take the best result for positioning). A failed Jump roll means they land badly - treat as a fall of one category higher.
+**Jumping.** Deliberate jump: Jump roll. Success: designate the hit location for the landing. Failure: land badly, treat as one category higher.
 
 **Obstacles.** Landing on stakes, sharp rubble, or similar hazards adds a separate 1D10+1 damage roll in addition to the fall damage.
 
 ### 6.2 Drowning and Asphyxiation
 
-A character who is submerged, strangled, or otherwise deprived of air makes Stamina rolls at decreasing ease as each round passes.
+Submerged, strangled, or otherwise deprived of air: Stamina rolls at decreasing ease each round.
 
 | Round | Stamina roll required |
 | ----- | --------------------- |
@@ -222,21 +220,21 @@ A character who is submerged, strangled, or otherwise deprived of air makes Stam
 | 6     | CON x1                |
 | 7+    | Automatic failure     |
 
-**Failure at any point:** the character is unconscious and drowning. They take 1D8 HP damage per round from water inhalation. Without immediate rescue, death follows when HP reaches negative CON.
+**Failure at any point:** unconscious and drowning. 1D8 HP per round from water inhalation. Death when HP reaches negative CON without rescue.
 
 **Smoke:** 1D4 HP per round and the escalating Stamina roll above. Dense smoke: 1D6 HP per round (see §3.2).
 
 **Deliberate strangulation.** A character being strangled makes the escalating CON roll each round. Additionally, the strangler may make a resistance roll (their STR vs. target's CON each round): on a success, the target takes 1D6 HP damage directly. The strangulation can be broken by a successful STR vs. STR resistance roll on the victim's part.
 
-**Taking a breath before submersion.** A character who knew they were going under may make a Luck roll: on a success, they took a full breath first and begin at Round 1. On a failure, they are caught mid-exhale and begin at Round 2.
+**Taking a breath before submersion.** Luck roll: success, full breath taken, begin at Round 1. Failure, caught mid-exhale, begin at Round 2.
 
-**Sorcerers and drowning.** A sorcerer spending PP on spells while drowning is burning the same pool used for Fate Point spends. A sorcerer who spends 4 PP on a spell has 4 fewer PP available to Deflect the Killing Blow when the CON rolls fail. This is the PP-pool asymmetry (see P4 §6) playing out in the most direct way.
+**Sorcerers and drowning.** PP spent on spells while drowning is PP unavailable for Deflect the Killing Blow when the CON rolls fail (P4 §6).
 
 ---
 
 ## 7. Chases
 
-A chase is a structured scene, not a sprint. The GM uses the following framework to run it.
+The GM uses the following framework to run a chase.
 
 ### 7.1 Before the Chase Begins
 
@@ -271,25 +269,23 @@ Each round, each side makes the relevant skill roll. Compare results:
 | Quarry succeeds, pursuer fails   | Move one position further  |
 | Quarry crits, pursuer does not   | Move two positions further |
 
-**Starting position.** A chase that begins from ambush or discovery at short range starts at Closing. A chase that begins across a market square starts at Engaged. A fugitive who had a head start begins at Distant.
+**Starting position.** Ambush or short-range discovery: Closing. Market square: Engaged. Head start: Distant.
 
 **Obstacles.** The GM may declare an obstacle (a locked gate, a market stall, a canal, a low roof). Both sides must make a relevant roll (Climb, Jump, Swim) in addition to the chase roll. Failure on the obstacle roll means the character loses one position in addition to the normal round outcome.
 
 **Mounted vs. foot.** A mounted pursuer on open ground automatically moves one position closer each round unless the quarry is also mounted or the terrain constrains the horse (narrow streets, rubble, stairs). In constraining terrain, both use the standard opposed roll.
 
-**Conclusion.** When the quarry reaches Out of Sight for two consecutive rounds, the chase ends: they have escaped. When the pursuer reaches Side by Side, the chase ends: the quarry is caught. Environmental conclusions (the quarry reaches a door they know; the horse falls) are called by the GM at any point.
+**Conclusion.** Quarry at Out of Sight for two consecutive rounds: escaped. Pursuer at Side by Side: caught. Environmental conclusions (quarry reaches a known door; horse falls) called by the GM at any point.
 
-### 7.3 The Range Track in Play
+### 7.3 Tracking the Chase
 
-The five positions are verbal. The GM says "you are now Distant - they are visible but pulling away." The player says "I push harder - CON roll?" The GM confirms. No miniatures, no tape measures, no counting squares. The positions are a shared language for describing a chase, not a precise spatial model.
-
-For the GM's own tracking, a simple notation works: write the positions as a row (SS | CL | EN | DI | OS) and mark the current gap with a slash. Shift the slash each round.
+Five verbal positions; no miniatures, no tape measures. For GM tracking: write SS | CL | EN | DI | OS and mark the current gap with a slash. Shift each round.
 
 ---
 
 ## 8. Mass Combat
 
-When PCs are caught up in a larger battle - a siege, a mercenary skirmish, a desert raid, a city riot - the GM does not run every combatant through the standard combat resolution. The outcome of the larger engagement has already been determined by narrative or by the GM's preparation. The PCs are not commanding the battle; they are fighting within it.
+When PCs are caught up in a larger battle, the GM does not run every combatant through standard combat resolution. The engagement's outcome has already been determined by narrative or prep; the PCs are fighting within it, not commanding it.
 
 **The mass combat abstraction.** Each turn (approximately 5 minutes of battle time), every PC involved in the larger engagement makes a Luck roll (POW x5):
 
@@ -302,13 +298,13 @@ When PCs are caught up in a larger battle - a siege, a mercenary skirmish, a des
 
 **Armour applies.** Subtract AV from damage on both failure and fumble results.
 
-**Targeting specific enemies.** If a PC wishes to seek out and engage a specific opponent within the battle (a named villain, a sorcerer directing the enemy, the enemy's standard-bearer), this is a narrative objective. The GM may require an Agility or Spot roll to locate them in the chaos, then normal combat resolution once contact is made. The mass combat Luck roll is suspended for the PC while they are in direct single combat.
+**Targeting specific enemies.** Seeking a specific opponent (a named villain, the enemy's standard-bearer) is a narrative objective. GM may require Agility or Spot to locate them, then normal combat once contact is made. The mass combat Luck roll is suspended during direct single combat.
 
-**The larger battle's outcome.** The GM decides whether the overall engagement is won or lost by the PCs' side, and when. A PC who achieves a notable objective (kills the enemy commander, breaks their ritual, captures the gate) may shift the outcome with a single Success or Critical result at the GM's discretion.
+**The larger battle's outcome.** The GM decides when and whether the PCs' side wins. A PC who achieves a notable objective (kills the enemy commander, breaks the ritual, captures the gate) may shift the outcome at the GM's discretion.
 
-**Duration.** The battle lasts as many turns as the GM decides. A brief skirmish is 2-3 turns (10-15 minutes). A sustained engagement is 6-12 turns (30-60 minutes). After the battle ends, PCs may rest and recover normally.
+**Duration.** Brief skirmish: 2-3 turns (10-15 minutes). Sustained engagement: 6-12 turns (30-60 minutes). PCs rest and recover normally after.
 
-**Fate Points in mass combat.** Fate Point spends (see P4 §7) apply normally during mass combat. A PC who takes 2D6 from a fumble result may spend PP to Shrug Off a Blow or Deflect the Killing Blow as usual. The mass combat abstraction does not suspend the Fate Point economy.
+**Fate Points in mass combat.** Fate Point spends (P4 §7) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
 
 ---
 

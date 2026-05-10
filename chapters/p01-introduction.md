@@ -3,7 +3,7 @@
 > _"Conan the Cimmerian had visited many strange cities and kingdoms in his wild, wandering life, but he had never before been to Zamora, the ancient, city of thieves and sorcerers."_
 > _- Robert E. Howard_
 
-This is Warrior \* Sorcerer \* Rogue. You are holding the Player Book - everything a player needs to create a character, understand the rules, and take a seat at the table. This chapter introduces the genre, describes the system in brief, explains the conventions used throughout both books, and gives you a one-page primer you can use the moment the dice are in your hand.
+This is Warrior \* Sorcerer \* Rogue. You are holding the Player Book.
 
 ---
 
@@ -13,17 +13,15 @@ Sword & sorcery is a genre of pulp adventure fiction that has nothing to do with
 
 Three authors are the centre of gravity for this game.
 
-**Robert E. Howard** wrote Conan the Cimmerian, Kull of Atlantis, and Solomon Kane. He is the lodestone. His world is brutal, energetic, and ancient - a world where civilisation is a recent coat of paint over something far older and stranger, where the barbarian outsider sees the decadence of cities clearly because he is not seduced by them, and where adventures end in blood and the protagonist walking away. Howard's prose moves fast and hits hard. So should your sessions.
+**Robert E. Howard** wrote Conan the Cimmerian, Kull of Atlantis, and Solomon Kane. He is the lodestone. His world is brutal, energetic, and ancient - civilisation a recent coat of paint over something far older and stranger, the barbarian outsider seeing the decadence of cities clearly because he is not seduced by them, adventures ending in blood and the protagonist walking away.
 
-**Fritz Leiber** wrote Fafhrd and the Grey Mouser through decades of work. His register is the urban accent: fog-shrouded alleys, thieves' guilds with their own politics, sardonic banter under genuine threat, the partnership of two very different rogues who are loyal to each other and cautious about everyone else. Leiber's adventures end in wit, a stolen purse, and a tavern. His tone sits naturally in cities; it makes a certain kind of city-heist session feel entirely natural.
+**Fritz Leiber** wrote Fafhrd and the Grey Mouser through decades of work. His register is the urban accent: fog-shrouded alleys, thieves' guilds with their own politics, sardonic banter under genuine threat, the partnership of two very different rogues who are loyal to each other and cautious about everyone else. Leiber's adventures end in wit, a stolen purse, and a tavern.
 
-**Michael Moorcock** wrote Elric of Melniboné and the wider Eternal Champion cycle. His register is the sorcerous and cosmic one: doom, decadence, the sense that the universe is older and crueller than the heroes know, magic as something that costs too much and cannot be put down once it is picked up. Moorcock's tone colours any session in which sorcery is present - the moment a patron speaks through a sorcerer's lips, or a demon bargain is struck, or a grimoire is opened in a ruin, the session has taken a Moorcock turn.
+**Michael Moorcock** wrote Elric of Melniboné and the wider Eternal Champion cycle. His register is the sorcerous and cosmic one: doom, decadence, the sense that the universe is older and crueller than the heroes know, magic as something that costs too much and cannot be put down once it is picked up. Moorcock's tone colours any session in which sorcery is present.
 
-A campaign can sit anywhere on the triangle these three authors define. Most sessions will feel primarily like Howard; a city-heist chapter leans Leiber; any session involving a sorcerer's patron or a named demon shifts toward Moorcock. A single session can move between all three registers. The system supports this fluidity.
+A campaign can sit anywhere on the triangle these three authors define. Most sessions will feel primarily like Howard; a city-heist chapter leans Leiber; any session involving a sorcerer's patron or a named demon shifts toward Moorcock. A single session can move between all three registers.
 
 ### 1.1 What Sword & Sorcery Is Not
-
-It is worth saying clearly what this genre is not, because the adjacency to other fantasy is close enough to cause confusion.
 
 Sword & sorcery is **not high fantasy**. No Dark Lord. No prophecy. No chosen one. The world is not being saved and the heroes are not the heroes in that sense.
 
@@ -103,13 +101,11 @@ Boxed text or quoted blocks in italic set aside from the main rules are designer
 
 ### 3.4 Examples
 
-Worked examples - character creation walkthroughs, multi-round combat sequences, sorcery casting with Corruption and PP tracking - live in the appendices (PA2 for the Player Book; GA1 for the GM Book). They are not interleaved with the rules. The rules text stands alone; the examples illustrate. If you are learning the system at the table for the first time, the PA2 examples are worth reading once before play.
+Worked examples - character creation walkthroughs, multi-round combat sequences, sorcery casting with Corruption and PP tracking - live in the appendices (PA2 for the Player Book; GA1 for the GM Book). They are not interleaved with the rules.
 
 ---
 
 ## 4. How to Play: A One-Page Primer
-
-This section is the minimum you need to sit down and roll dice. Every part of it is elaborated later in the book.
 
 **Build a character (P2).** Seven characteristics define you: STR, CON, SIZ, INT, POW, DEX, CHA. From these derive your Hit Points (CON + SIZ / 2), your Power Point pool (= POW), your damage modifier, and your skill category bonuses. Choose a Cultural Background (P2 §4) and a Profession (P2 §5) to gain starting skills. Spend INT x10 free points on any skills you like. Choose 2 Talents from the four talent tables (P2 §7). Write down 3 Passions: one at 80%, two at 60%.
 
@@ -134,7 +130,7 @@ This section is the minimum you need to sit down and roll dice. Every part of it
 
 **Earn experience (P4 §8).** When you use a skill in a genuinely uncertain, dramatic situation, mark it for an experience roll at the end of the adventure. Roll D100; add INT/2. If the result exceeds your current skill rating, the skill improves by 1D6.
 
-That is the game. Everything else in this book - the full skill list, the talent descriptions, the crit tables, the spell list, the gear reference - is elaboration on these principles.
+Everything else in this book - the full skill list, the talent descriptions, the crit tables, the spell list, the gear reference - is elaboration on these principles.
 
 ---
 

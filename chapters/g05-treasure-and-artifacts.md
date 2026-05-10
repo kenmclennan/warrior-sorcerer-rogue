@@ -2,15 +2,11 @@
 
 > _"He had come to loot the tomb - but the tomb had been waiting for him."_
 
-This chapter is for GMs. It covers what heroes find, what they can make, and what they might wish they had never touched. Mundane treasure is the bread and butter of adventure: coin to spend, gems to fence, art objects to carry across three borders and sell before the original owner sends someone to collect. Artifacts are rarer and more dangerous: weapons and tools that sorcerers have permanently diminished themselves to create. And cursed items are the genre's dark mirror: desire satisfied at unbearable cost.
-
-The final section addresses the economics of fame - how Reputation interacts with wealth in a world that knows your name.
+This chapter covers what heroes find, what they can make, and what they might wish they had never touched. Mundane treasure, artifacts, cursed items, and the economics of Reputation.
 
 ---
 
 ## 1. Mundane Treasure
-
-Treasure is the reason most of the characters in this game are where they are. Not glory. Not justice. Treasure.
 
 ### 1.1 Coin
 
@@ -23,15 +19,15 @@ The four-tier coin system (see P7 §1 for the full currency table) gives you an 
 | Stater | Silver        | A craftsman's weekly income; a quality weapon  |
 | Sun    | Gold          | A merchant's transaction; a year's income      |
 
-**Presenting coin as treasure:** Coin found in a ruin or on a dead enemy is not an abstraction. Describe it. Old coins are different from current coins - a fistful of gold Suns minted by a dynasty that has been ash for three hundred years is treasure and a historical document simultaneously. The GM Book chapter G7 has suggestions for linking coin lineages to fallen empires.
+**Presenting coin as treasure:** Describe it. Old coins differ from current coins - a fistful of gold Suns minted by a dynasty three centuries ash is treasure and a historical document simultaneously. G7 has suggestions for linking coin lineages to fallen empires.
 
-**Coin condition matters:** Freshly minted coin is face value. Shaved or clipped coin is worth less (50-80% at a reputable money-changer, 70-90% on the street). Ancient coin of pure metal may be worth more for its metal than its face, particularly if the empire that minted it is now legendary rather than merely historical.
+**Coin condition:** Freshly minted coin is face value. Shaved or clipped coin: 50-80% at a reputable money-changer, 70-90% on the street. Ancient coin of pure metal may exceed face value if the empire that minted it is now legendary.
 
 ### 1.2 Gems and Precious Stones
 
-Gems are portable wealth. Unlike coin, they have no issuing authority, which makes them useful for anyone who needs to move value across political borders without a paper trail. They are also difficult to appraise quickly, which makes them useful for anyone trying to pass inferior goods.
+Gems are portable wealth with no issuing authority - useful for moving value across borders without a paper trail, and difficult to appraise quickly.
 
-To generate gem value, roll or choose from this table:
+Roll or choose:
 
 | D20   | Gem Type                                      | Value                 |
 | ----- | --------------------------------------------- | --------------------- |
@@ -44,7 +40,7 @@ To generate gem value, roll or choose from this table:
 | 18-19 | Exceptional quality (any category)            | Triple standard value |
 | 20    | Named stone with provenance (see sidebar)     | 5-20 Suns             |
 
-**Named stones:** A gem with a history - the Eye of the Serpent-Queen, the Blood-Drop of the Warlord - can be worth multiples of its base value to the right buyer. It can also attract attention from people who consider it theirs. Named stones are adventure hooks wearing the costume of treasure.
+**Named stones:** Worth multiples of base value to the right buyer - and they attract attention from people who consider them theirs. Adventure hooks in gem form.
 
 **Appraising gems:** The Evaluate skill (see P3). A failed roll means the character cannot determine value; they do not know they failed. A fumble means they have badly misjudged.
 
@@ -63,7 +59,7 @@ To generate gem value, roll or choose from this table:
 | Ceremonial arms (non-functional) | 3-20 Staters | Votive weapons, parade armor               |
 | Cult idol (bronze or stone)      | 2-10 Suns    | Intensely dangerous to sell in origin city |
 
-Art objects are inconvenient treasure. A Scythian gold-work pectoral with detailed battle scenes is worth 4 Suns, weighs 2 ENC, and is identifiable. Anyone who has heard of the Tomb of the Golden Riders will know what it is the moment they see it. The GM is within their rights to make art objects lucrative but complicated.
+Art objects are inconvenient treasure: heavy, identifiable, and recognisable to anyone who knows where they came from. Lucrative but complicated.
 
 **Selling art:** The full value of an art object requires a buyer who wants it - a collector, a temple, a rich patron. Selling to a fence (see Reputation §5.4) returns 30-60% of value. Selling to the right buyer at the right time may return 100-150% if the buyer is desperate for that particular piece.
 
@@ -84,7 +80,7 @@ Trade goods as treasure. These are things that have extraordinary value in one p
 | Rare medicinal plants                | 10-50 Drams/dose     | Healer's market; variable efficacy            |
 | Narcotics (poppy, khat)              | 10-40 Drams/dose     | Illegal in some cities; medical use in others |
 
-**Practical note:** Exotic goods are better loot than art objects in most cases. They are less identifiable, more divisible, and have a more stable market. A party that loots a warehouse rather than a tomb has chosen practicality over glory. Conan would understand.
+**Practical note:** Exotic goods are often better loot than art objects: less identifiable, more divisible, more stable market.
 
 ### 1.5 Treasure Hoards: Quick Tables
 
@@ -123,17 +119,15 @@ For improvised treasure when the party searches an unexpected place:
 
 ## 2. Artifact Creation
 
-An artifact is any item into which a sorcerer has bound one or more sorcery spells permanently. It is not equipment with a temporary enchantment - it is a piece of the sorcerer's own vital force, crystallised in metal or stone or bone and given a function that does not fade when the sorcerer sleeps.
-
-The rules here expand on the brief introduction in P7 §12.2. Artifact creation is an advanced topic for the GM Book because artifacts in play belong to the GM's world as much as the PC's story: who made it, what it cost them, who wants it back, and what happens when it is destroyed.
+An artifact is any item into which a sorcerer has permanently bound one or more sorcery spells - a piece of vital force crystallised in metal, stone, or bone that does not fade when the sorcerer sleeps. These rules expand on P7 §12.2. Artifacts belong to the GM's world: who made it, what it cost, who wants it back, what happens when it is destroyed.
 
 ### 2.1 The Fundamental Costs
 
 Creating an artifact requires three things: time, permanent POW, and a specific ritual working.
 
-**Permanent POW sacrifice:** The creator sacrifices 1 point of permanent POW for each sorcery spell bound into the artifact. This reduction is irreversible. A sorcerer who binds three spells into a sword has permanently reduced their POW by 3 - their maximum PP pool, their Corruption threshold, and their resistance roll ceiling all drop accordingly. This is not a minor price. A sorcerer with POW 17 who creates a powerful artifact with four bound spells is operating for the rest of their life at POW 13. The artifact has cost them something they will never get back.
+**Permanent POW sacrifice:** 1 permanent POW per spell bound - irreversible. The creator's maximum PP pool, Corruption threshold, and resistance roll ceiling all drop accordingly, for life. A sorcerer with POW 17 binding four spells operates at POW 13 forever.
 
-**The PP reservoir:** When created, the artifact receives its own PP reservoir equal to the creator's maximum PP at the moment of creation (i.e., equal to their POW after the permanent sacrifice). This reservoir is entirely separate from the creator's own PP pool. When the creator draws 1 PP from their body to recharge the artifact, that PP leaves their pool and enters the artifact's pool - it does not return unless the artifact is destroyed.
+**The PP reservoir:** The artifact receives its own PP reservoir equal to the creator's POW after the sacrifice. Entirely separate from the creator's pool. Recharging transfers 1 PP per round from the sorcerer into the artifact - it does not return unless the artifact is destroyed.
 
 **The ritual:** Creating an artifact is not a standard casting. It requires:
 
@@ -142,58 +136,52 @@ Creating an artifact requires three things: time, permanent POW, and a specific 
 - A successful Knowledge (Occult) roll for each spell being bound. Each roll is made separately. A failure means that spell's binding fails - the POW is still sacrificed, but the spell is not bound. The creator knows immediately. They may attempt a second binding on the same item for the same spell, paying the POW cost again.
 - Components appropriate to the item and the spell - a sword being bound with Hell's Razor needs blood shed during the working; an amulet being bound with Inescapable Bonds needs cord woven from the hair of someone successfully bound.
 
-**At 0 PP:** The artifact is inert. Its bound spells cannot be activated. The item otherwise functions normally as a physical object. A sword does not become a worse sword when its PP runs dry; it simply loses its sorcerous capabilities.
+**At 0 PP:** The artifact is inert - bound spells cannot be activated. The physical object functions normally; a sword at 0 PP is still a sword.
 
 ### 2.2 Using an Artifact
 
-Anyone can use a properly keyed artifact, not only sorcerers. This is the point of many artifacts: the patron hires a warrior who cannot be a sorcerer but needs one hand of sorcerous capability. The warrior does not cast anything. They activate what the creator has already bound.
+Anyone can use a properly keyed artifact, not only sorcerers. The user activates what the creator has already bound - no casting required.
 
 **Activation:** To activate a spell bound in an artifact, the user concentrates for one combat round (a full action) and draws on the artifact's PP reservoir. The artifact deducts the spell's standard PP cost from its own reservoir. The effect triggers on Phase Two of the next round (same timing as standard sorcery, per P6 §2.3).
 
-**Who can attune:** Attuning to an artifact - establishing the connection that allows activation - requires physical contact with the item for one uninterrupted hour and a successful POW roll. Attuning does not cost PP. An item can be attuned to multiple people; the creator is always considered attuned.
+**Who can attune:** Physical contact for one uninterrupted hour plus a successful POW roll. No PP cost. Multiple people can be attuned; the creator is always considered attuned.
 
-**Iron artifacts:** Iron weapons and armour can be made into artifacts. The binding process itself harmonises the iron with the sorcerous current, removing the iron-vs-sorcery penalty (P7 §12.1) for the creator and all attuned users while the artifact has at least 1 PP in its reservoir. An iron artifact at 0 PP reverts to disruptive iron for sorcerer carriers until recharged.
+**Iron artifacts:** The binding process harmonises iron with the sorcerous current, removing the iron-vs-sorcery penalty (P7 §12.1) for creator and attuned users while the artifact has at least 1 PP. At 0 PP it reverts to disruptive iron until recharged.
 
 ### 2.3 Recharging
 
-Any attuned character who is also a sorcerer may recharge an artifact. The process transfers 1 PP per combat round from the sorcerer's own PP pool to the artifact's reservoir. This is a concentration action - the sorcerer is doing nothing else while recharging.
+Any attuned sorcerer may recharge an artifact: 1 PP per combat round, concentration action. The artifact cannot be recharged beyond double its creation-time reservoir maximum.
 
-A sorcerer who recharges an artifact to full has spent their own vital force to sustain a created thing. The artifact cannot be recharged beyond double its creation-time reservoir maximum.
-
-Non-sorcerers cannot recharge artifacts. This is one reason why artifacts inevitably return to sorcerous hands eventually - without someone to maintain them, they run dry.
+Non-sorcerers cannot recharge artifacts - without a sorcerer to maintain them, they run dry, which is why artifacts eventually return to sorcerous hands.
 
 ### 2.4 Enchanting Iron
 
-Iron is normally anathema to sorcery. An iron item can be brought into harmony with the sorcerous current only through the artifact-creation process. The ritual consecrates the iron to a specific patron or principle, harmonising its material nature with the arcane. This requires the creator to have a patron (see P6 §3.2) and to spend 1 additional permanent POW (beyond the normal cost) to complete the iron-harmonisation. The enchanted iron rule in P7 §5.3 applies once this is done.
+Iron can be harmonised with the sorcerous current only through the artifact-creation process, consecrating it to a specific patron or principle. Requires the creator to have a patron (P6 §3.2) and costs 1 additional permanent POW beyond the normal cost. See P7 §5.3 for the enchanted iron rule.
 
-An iron artifact that runs dry reverts to disruptive iron immediately. Artifact iron is only safe while the artifact is charged.
+An iron artifact that runs dry reverts to disruptive iron immediately.
 
 ### 2.5 Destroying an Artifact
 
-Reduce an artifact's HP to 0 to destroy it. An artifact's HP equals its SIZ characteristic. A bronze sword (SIZ 2) has 2 HP as an artifact; a large stone idol (SIZ 14) has 14.
+Reduce an artifact's HP to 0 to destroy it. An artifact's HP equals its SIZ (a bronze sword: SIZ 2 = 2 HP; a stone idol: SIZ 14 = 14 HP).
 
-When an artifact is destroyed, the POW permanently invested in it is lost. The creator's POW does not recover. This is final. If an artifact was created by a sorcerer now dead, that POW is simply gone from the world - the creator paid it and cannot be refunded.
+When destroyed, the POW invested is permanently lost - the creator's POW does not recover, ever. The PP reservoir disperses instantly.
 
-The PP reservoir of a destroyed artifact disperses instantly. There is no residual energy.
-
-Artifacts are surprisingly difficult to destroy under ordinary combat conditions, because they are built into the normal weapon or object mechanics - a sword artifact takes damage when it would normally take damage (from a successful enemy parry, for instance), not from casual attack. Deliberate destruction requires targeting the object specifically (use the rules for Damaging Objects from G6).
+Artifacts take damage through normal object mechanics (a sword artifact is damaged by a successful enemy parry, not casual attack). Deliberate destruction requires targeting the object specifically - use the Damaging Objects rules from G6.
 
 ### 2.6 Artifacts in the GM's Hands
 
-Pre-cataclysm artifacts are the GM's most powerful narrative tool. They are not loot in the conventional sense: they are trouble that happens to be useful. Every artifact has:
+Every artifact has:
 
-- A creator whose motives shaped the binding. The creator's choices are baked into the item. A sword bound with Hell's Razor by a sorcerer who worshipped the Brass Warden wants to cut soldiers of order.
-- A history of hands it has passed through. Each one of those hands may have debts, enemies, and claims.
-- A PP reservoir that is either charged (the creator maintained it) or empty (a long sleep in a ruin). Empty artifacts are inert but not permanently dead - they come back to life the moment a sorcerer touches them and pushes in a PP.
+- A creator whose motives shaped the binding. A sword bound with Hell's Razor by a sorcerer who worshipped the Brass Warden wants to cut soldiers of order.
+- A history of hands it has passed through, each with debts, enemies, and claims.
+- A PP reservoir that is charged or empty (empty artifacts are inert but not dead - one PP from a sorcerer revives them).
 - A question: why is it here? Artifacts do not arrive by accident.
 
 ---
 
 ## 3. Sample Artifacts
 
-The following ten artifacts are pre-cataclysm relics - objects made by sorcerers who are dead, serving purposes that are partly or wholly opaque. Each is designed to be dropped into a session with minimal preparation. The GM determines the current state of the PP reservoir.
-
-All artifacts listed here have charged reservoirs unless the GM specifically rules otherwise. An empty artifact is the same object with a mystery: who maintained it, and when did they stop?
+Ten pre-cataclysm relics, each droppable into a session with minimal preparation. All have charged reservoirs unless the GM rules otherwise. An empty artifact is the same object with a different question: who maintained it, and when did they stop?
 
 ---
 
@@ -379,25 +367,17 @@ All artifacts listed here have charged reservoirs unless the GM specifically rul
 
 ## 4. Cursed Items
 
-Not every item from the deep past was made with care for the user. Some were made to punish. Some were made for a purpose that is now indistinguishable from malice. Some were made carefully and correctly and still went wrong.
-
-A cursed item is not a bad magic item. It is a trap wearing the shape of treasure.
-
-The genre's model for a curse is not a penalty to attack rolls. It is irony, fate, and the deep conviction that wanting something powerful is itself the first mistake. Cursed items should feel like the ending of a bad story the character did not realise they were in.
+A cursed item is not a bad magic item. It is a trap wearing the shape of treasure. The genre's model is irony and fate, not a penalty to attack rolls - the ending of a bad story the character did not realise they were in.
 
 ### 4.1 Identifying Cursed Items
 
-Witch Sight (P6 §5) reveals that an item is magical; it does not reveal that it is cursed. The aura of a cursed item looks identical to that of a beneficial artifact to casual inspection. A sustained reading - spending three or more rounds in active Witch Sight with the item as the focus - may (GM's discretion) hint that the item's sorcerous signature is unusual: colder than it should be, or folded inward, or smelling of something unpleasant.
+Witch Sight (P6 §5) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Blasphemous Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
 
-Knowledge (Blasphemous Lore) at 40% or higher allows a roll to identify a known curse pattern. Unknown curses, or curses cleverly disguised, cannot be identified this way.
-
-The most reliable method is the item's reputation. Cursed items have histories. Those histories circulate.
+The most reliable method is reputation. Cursed items have histories, and those histories circulate.
 
 ### 4.2 Removing a Curse
 
-Curses do not lift when the item is dropped or thrown away. They lift when the curse's specific condition is met - which the GM knows, and the player typically does not, until they find out the hard way.
-
-The general process for removal: identify the curse pattern (Knowledge (Blasphemous Lore)), determine the release condition (research, a patron's knowledge, a specialist sorcerer), fulfil the condition. Undo Sorcery (P6 §5) can suppress a curse temporarily - duration equal to caster's POW in hours - but cannot remove it permanently.
+Curses do not lift when the item is dropped. They lift when their specific release condition is met - which the GM knows and the player typically does not. The general process: identify the curse pattern (Knowledge (Blasphemous Lore)), determine the release condition (research, patron knowledge, a specialist sorcerer), fulfil it. Undo Sorcery (P6 §5) suppresses a curse for the caster's POW in hours but cannot remove it permanently.
 
 ---
 
@@ -483,43 +463,41 @@ By the end of the fourth week, the bearer has effectively acquired the mental ar
 
 ## 5. The Economics of Fame
 
-Reputation is not an abstraction. It is money in a social economy, and like all currencies it has inflation, fraud, and theft.
-
-See P2 §8 for the full Reputation mechanic. This section focuses on the GM-facing economic implications.
+Reputation is money in a social economy. See P2 §8 for the full mechanic; this section covers the GM-facing economic implications.
 
 ### 5.1 Fame Opens Doors
 
-A character with significant Reputation (40% or higher) is known - not necessarily liked, but known. This has practical economic consequences.
+A character with Reputation 40%+ is known - not necessarily liked, but known - and this has practical economic consequences.
 
-**Patronage:** Famous heroes attract patrons who want to be associated with them. A patron who hires a party with a combined Reputation of 60+ is not just buying services; they are buying an association. They will pay 10-30% above market rate for that association. They also expect the party to be conspicuous about the work - no quiet exits, no keeping it out of the rumour mills.
+**Patronage:** A patron hiring a party with combined Reputation 60+ is buying an association, not just services. Expect 10-30% above market rate - and an expectation of conspicuousness. No quiet exits.
 
-**Lines of credit:** A very famous hero (Reputation 60+) can obtain credit from merchants, innkeepers, and arms-dealers who would throw an ordinary person out. The credit is real and must be repaid - but it exists. A party with combined high Reputation walking into a city may find their accommodation, their meals, and their supplies offered as investment rather than requiring immediate payment.
+**Lines of credit:** Reputation 60+ secures credit from merchants, innkeepers, and arms-dealers who would turn an ordinary person away. Accommodation, meals, supplies offered as investment rather than cash payment. Real credit that must be repaid.
 
-**Auction access:** Certain classes of luxury goods - rare artifacts, named gems, unusual animals - are sold through private channels that require an introduction to access. Reputation at 50+ in the relevant field (a famous warrior may be invited to view rare weapons; a famous sorcerer to inspect purported grimoires) gets those introductions.
+**Auction access:** Rare artifacts, named gems, and unusual animals move through private channels. Reputation 50+ in the relevant field gets the introduction required to access them.
 
 ### 5.2 Fame Costs More
 
 The other side.
 
-**Inflated prices in markets:** A very famous person cannot haggle anonymously. Once their identity is established, merchants adjust their prices upward - not out of malice, but because the famous person cannot easily say no to a deal without it becoming a story. A hero who publicly beats down a merchant's price to the minimum becomes the hero who was cheap at the market. The social cost of the haggling may exceed the economic gain. Rule of thumb: Reputation above 50% adds 10-25% to negotiated prices in high-visibility transactions.
+**Inflated prices:** Fame removes the ability to haggle anonymously. Merchants adjust prices upward because a famous person can't say no without it becoming a story. Reputation above 50% adds 10-25% to negotiated prices in high-visibility transactions.
 
-**Hangers-on:** Reputation attracts people who want to be near famous people. Some are useful (informants, would-be hirelings, junior heroes who will work for the story). Most consume resources and goodwill. A party with high Reputation that camps for a week in a city will collect followers. Feeding them is a cost. Telling them no is a social cost. Letting them come along is a liability cost.
+**Hangers-on:** A party with high Reputation camping for a week collects followers. Some are useful (informants, would-be hirelings). Most consume resources and goodwill. Feeding them costs coin; telling them no costs social credit; letting them come along costs liability.
 
-**Visible targets:** High Reputation means enemies know where to find you. A villain who wants to hurt the famous party does not need to track them - they can ask anyone. The party's habits, their preferred inns, their usual suppliers, their known associations - all of this is public knowledge proportional to their Reputation.
+**Visible targets:** A villain who wants to hurt the famous party does not need to track them - they can ask anyone. Habits, preferred inns, suppliers, associations: all public knowledge proportional to Reputation.
 
 ### 5.3 Cursed Fame: Reputation as Liability
 
 In some specific circumstances, Reputation actively works against the party's economic interests.
 
-**Stolen goods:** A party with very high Reputation cannot easily fence stolen goods. The fence knows who brought them in. The fence knows who owns them. The fence has a reputation of their own to protect. Stolen goods that would net 50% of value from a discreet fence may only get 20-30% when a famous party is doing the selling - because the fence is now taking a much larger risk.
+**Stolen goods:** A very famous party cannot easily fence stolen goods - the fence knows who brought them and has their own reputation to protect. Goods that would net 50% from an anonymous seller may only get 20-30% from a famous one.
 
-**Restricted markets:** Some cities are politically hostile to the party's reputation. A famous mercenary known for working against the city's current rulers may find they are not welcome in that city's markets at all. Reputation is geography-specific: fame in one city-state can be infamy in a neighbouring one.
+**Restricted markets:** Reputation is geography-specific. Fame in one city-state can be infamy in the next. A mercenary known for fighting against the city's rulers may find their market access blocked entirely.
 
-**Price of mercy:** Heroes known for mercy get tested by it. An enemy who knows the party is unlikely to kill surrendering foes will surrender. Ransoms must be negotiated, prisoners must be fed, paroled enemies will report back. A reputation for honour is economically expensive.
+**Price of mercy:** Enemies who know the party spares surrendering foes will surrender. Ransoms, fed prisoners, paroled enemies who report back - a reputation for honour is economically expensive.
 
 ### 5.4 Fences, Brokers, and the Grey Market
 
-Most valuable treasure passes through someone before it reaches its final buyer. These intermediaries take a cut in exchange for discretion and access.
+Most valuable treasure passes through an intermediary before reaching its final buyer.
 
 **Standard fence rates:**
 
@@ -539,9 +517,7 @@ Most valuable treasure passes through someone before it reaches its final buyer.
 | 40-60% (widely known)  | Fence is nervous about identifiable goods; may refuse or double their cut. Unknown goods negotiate normally.                      |
 | 60%+ (very famous)     | Fence will deal but adds a 10-20% risk premium across all goods. They are not being unfair; they are pricing the risk accurately. |
 
-**The favour economy:** High-value transactions - named stones, major artifacts, unique art objects - rarely settle for coin. The broker who connects a buyer to a named artifact expects something more durable than a percentage. Favours, information, access, future services. This is the economy that operates above the coin tier, and it runs on Reputation entirely.
-
-A party that accumulates favours from the right brokers has access to markets, information, and opportunities that coin cannot purchase. A party that abuses the favour economy gets blacklisted faster than any fence rates can compensate for.
+**The favour economy:** High-value transactions - named stones, major artifacts, unique art objects - rarely settle for coin. The broker expects favours, information, access, future services. A party that accumulates favours from the right brokers reaches markets coin cannot buy; one that abuses the favour economy gets blacklisted faster than any fence rate can compensate.
 
 ---
 

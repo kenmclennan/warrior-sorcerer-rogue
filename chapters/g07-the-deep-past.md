@@ -12,7 +12,7 @@ Locked decisions applied:
 > _"Between the time when the oceans drank Atlantis and the rise of the sons of Aryas, there was an age undreamed of."_
 > _- Robert E. Howard_
 
-This chapter gives you tools for building the deep history behind your world - the fallen empires, the cataclysms that unmade them, and the ruins they left behind. You do not need to use all of them. You do not need to use any of them before a session. They exist so that when a player asks "who built this temple?" or "what is that black glass field on the horizon?", you have an answer with weight behind it.
+Tools for building the deep history behind your world: fallen empires, cataclysms, and the ruins they left. Use them when you need them - when a player asks "who built this temple?" or "what is that black glass field on the horizon?", you have an answer with weight behind it.
 
 ---
 
@@ -20,49 +20,43 @@ This chapter gives you tools for building the deep history behind your world - t
 
 The world your players inhabit is not new. It is ancient, and the age they move through is only the latest stratum laid over something older, something stranger, and very probably something worse.
 
-This is the core premise of sword & sorcery as a genre. Conan walks through ruins of civilisations that were dust before his people learned to make fire. Elric pilots a city-sized vessel built by people whose science and sorcery are indistinguishable from each other. The heroes of these stories do not live at the peak of history. They live in a late, diminished era, scavenging at the edges of greatness they can barely comprehend.
-
-The cyclic history principle holds that civilisations rise, over-reach, collapse, and are forgotten. Then new civilisations grow up on their bones, inherit their ruins without understanding them, and in time over-reach in turn. The pattern is not a metaphor. It is the structure of your world, repeated at every scale - empires rise and fall, cities rise and fall, families rise and fall, individual sorcerers rise and fall. The wheel turns.
+The cyclic history principle: civilisations rise, over-reach, collapse, and are forgotten. New civilisations grow up on their bones, inherit ruins without understanding them, and in time over-reach in turn. The pattern repeats at every scale - empires, cities, families, individual sorcerers. The wheel turns.
 
 ### 1.1 Why This Matters at the Table
 
 The cyclic history principle is not merely atmosphere. It is an adventure engine.
 
-**Ruins generate scenarios.** A dungeon is more interesting when it was once a library, and the books are still there - in a language the PCs cannot read, written by people who knew things that got them killed. A tomb is more interesting when the occupant is still, in some sense, present. A citadel is more interesting when it was built to hold something, not merely to defend territory.
+**Ruins generate scenarios.** A dungeon is more interesting when it was once a library, and the books are still there - in a language the PCs cannot read, written by people who knew things that got them killed. A tomb is more interesting when the occupant is still present. A citadel is more interesting when it was built to hold something.
 
-**Lost knowledge drives stakes.** The typical sword & sorcery treasure is not gold - or not only gold. It is a grimoire. A star-chart. A binding formula for something that should not be unbound. Pre-cataclysm knowledge is the real currency of the deep world, and it is always dangerous. The PCs are not treasure hunters; they are archaeology done badly, at speed, with swords.
+**Lost knowledge drives stakes.** The typical sword & sorcery treasure is not gold - or not only gold. A grimoire. A star-chart. A binding formula for something that should not be unbound. Pre-cataclysm knowledge is the real currency of the deep world, and it is always dangerous.
 
 **The weight of the world oppresses.** When a PC stands in the nave of a temple that was already ancient when the current calendar was created, and the frescoes on the wall show a sky with different constellations, the effect is not merely visual. It is existential. The world is stranger and older than anyone they know admits. Whatever people believe about the gods, about the stars, about the origins of sorcery - they are almost certainly wrong, and the ruins know the truth, and the ruins are not saying.
 
-**Present culture is the thinnest layer.** The cosmopolitan cities, the merchant fleets, the temple hierarchies, the courts and their petty politics - these are the newest and most fragile stratum of the world. They rest on the wreckage of everything that came before. A GM who remembers this never runs out of texture. There is always something older under the floor.
+**Present culture is the thinnest layer.** Cities, merchant fleets, temple hierarchies, courts - the newest and most fragile stratum, resting on the wreckage of everything that came before. There is always something older under the floor.
 
 ### 1.2 Layering the World
 
-The most useful version of the cyclic history principle is layered. Rather than one fallen empire, you have several, each built on or against the others, each leaving different residue.
-
-A layered deep past might look like this, from bottom to top:
+The most useful version is layered: several fallen empires, each built on or against the others, each leaving different residue. From bottom to top:
 
 - **The oldest layer:** pre-human or barely-human. Entities more than people. Their remnants are not buildings but geometries in stone; not books but something inscribed into the bones of the world itself.
 - **The middle layer:** human empires that mastered something dangerous - a form of sorcery, a science, a pact with a power beyond the world - and paid for it. Their ruins are recognisable but alien. Their written records are dangerous to read. Their artifacts still work.
 - **The recent layer:** the civilisations your PCs can name. Some are still standing. Some fell within living memory. Their ruins are everywhere and not yet legendary.
 
-The PCs move through all three layers simultaneously. The road they walk is paved with stones cut by the recent layer. The well they drink from is built on a structure from the middle layer. The crack in the well's foundations leads down to something from the oldest layer, and the something is not entirely gone.
+The PCs move through all three layers simultaneously: road paved from the recent layer, well built on middle-layer foundations, a crack leading down to the oldest layer - which is not entirely gone.
 
-You do not need to build all three before play begins. Build what the adventure requires and leave the rest deliberately vague. Vagueness in deep history is not laziness - it is craft. The edge where your knowledge ends and the genuine unknown begins is where dread lives.
+Build what the adventure requires and leave the rest vague. The edge where your knowledge ends is where dread lives.
 
 ### 1.3 The Inheritance Problem
 
-Here is the most useful thing to remember about the cyclic history principle: each new civilisation inherits the ruins of the previous one without inheriting the knowledge that built them. The current priesthood tends the old temple. They do not know what the old temple was really for. The current city occupies the old city's foundations. They do not know what is in the cellar beneath the cellar.
+Each new civilisation inherits the ruins of the previous one without inheriting the knowledge that built them. The current priesthood tends the old temple without knowing what it was really for. The current city sits on foundations whose cellar has a deeper cellar.
 
-This creates the characteristic sword & sorcery situation: people of the present age are living on power they cannot control, in structures they cannot fully understand, near dangers they have forgotten to be afraid of. The PCs are usually the ones who stumble into the forgotten danger. Whether they do so by accident, by greed, by ambition, or by something a patron sent them to find - the result is the same. They are looking at something the current age was not meant to see.
+People of the present age live on power they cannot control, in structures they cannot understand, near dangers they have forgotten to fear. The PCs are the ones who stumble into the forgotten danger - by accident, greed, ambition, or a patron's errand. They are looking at something the current age was not meant to see.
 
 ---
 
 ## 2. Generator: Fallen Empires
 
-Use this generator to build the empires that left the ruins your PCs explore. Roll or select; combine entries from different categories as needed. A fallen empire needs at least one entry from each of the four categories below - who they were, what they did, what destroyed them, what they left. Two or three entries from a single category can produce a richer picture.
-
-These are not setting entries. They are raw material. Name them or leave them unnamed. Place them in your world where they fit. The entries below are starting points, not finished histories.
+Roll or select; combine categories as needed. A fallen empire needs at least one entry from each of the four categories below. Two or three entries from a single category produces a richer picture. These are raw material, not finished histories.
 
 ### 2.1 Who They Were
 
@@ -120,9 +114,7 @@ _The residue of a civilisation - what the PCs will find._
 
 ## 3. Generator: Cataclysms
 
-A cataclysm is not merely a disaster. It is a world-historical event that ends an era - something so large that it reshapes the landscape, fractures cultures, and leaves the survivors carrying inherited trauma for generations. Cataclysms are the hinges of your world's deep history.
-
-Use this generator to build specific cataclysms, or to add detail to the collapse type selected in Section 2.3. A cataclysm needs entries from at least the first two categories. The remaining categories add texture.
+A cataclysm reshapes landscape, fractures cultures, and leaves survivors carrying inherited trauma for generations. Use this generator to build cataclysms or detail the collapse type from §2.3. A cataclysm needs entries from at least the first two categories.
 
 ### 3.1 Type
 
@@ -176,9 +168,7 @@ _The permanent mark on the land._
 
 ## 4. Generator: Ruins
 
-This generator builds a single adventure-scale lost site. A ruin is not a dungeon - it is a place that was once significant, that time and catastrophe have made dangerous, and that contains something worth dying for. Use this generator at the table when you need a site quickly, or in preparation when you want to build a central location for a scenario.
-
-A complete ruin needs entries from the first three categories. Danger and treasure round out a site that is ready to run.
+Builds a single adventure-scale lost site. Use at the table for a quick site, or in preparation for a central scenario location. A complete ruin needs entries from the first three categories; Danger and Treasure complete a site ready to run.
 
 ### 4.1 Site Type
 
@@ -251,45 +241,41 @@ _What makes the risk worthwhile. A site can have more than one._
 
 ## 5. Pre-Cataclysm Sorcery and Science in Modern Adventures
 
-The most useful thing the deep past gives you as a GM is the engine of the typical sword & sorcery adventure: someone found something they should not have, or wants something that is locked away, or is about to do something that the people who understood the consequences went to some trouble to prevent. This section discusses how to use pre-cataclysm knowledge and technology as the beating heart of scenarios, rather than merely as backdrop.
+This section covers how to use pre-cataclysm knowledge and technology as the engine of scenarios, not merely as backdrop.
 
 ### 5.1 Lost Sorcery
 
-The spells in the P6 spell list represent what a sorcerer in the current age can learn and cast independently. They are not the limits of sorcerous knowledge - they are the limits of what has survived the cataclysms in transmissible form.
-
-Pre-cataclysm sorcery operated at a different scale. The empires in the second section of this chapter were doing things with sorcery that current practitioners cannot replicate - binding gods, mastering death at industrial scale, encoding spells into the fabric of buildings. A modern sorcerer who stumbles onto a surviving piece of that work is not reading a spell list. They are encountering a working whose parameters they can barely understand, whose costs were borne by a dozen practitioners who may or may not all be dead, and whose effects may still be active.
+The P6 spell list is not the limit of sorcerous knowledge - it is what has survived the cataclysms in transmissible form. Pre-cataclysm sorcery operated at a different scale: binding gods, mastering death at industrial scale, encoding spells into architecture. A sorcerer encountering a surviving piece of that work is not reading a spell list. They are encountering a working whose parameters they can barely understand, whose costs were borne by practitioners who may or may not all be dead, and whose effects may still be active.
 
 **Surviving pre-cataclysm sorcery takes three forms:**
 
-**Encoded in architecture.** The spell is the building. It is still running. The PCs will feel it before they understand it; sorcerer PCs will understand it before they can control it. Entering the building is entering the working. Destroying the building ends the spell, if destruction is possible, and may have consequences when it does.
+**Encoded in architecture.** The spell is the building and it is still running. Entering is entering the working. Destroying the building ends the spell - if destruction is possible.
 
-**Recorded in grimoires.** The text exists, but learning from it is not like learning from a current grimoire. Pre-cataclysm notation may be opaque; the language may be dead; the spell may require a component that no longer exists or a ritual space that no longer stands. A sorcerer who works out a pre-cataclysm spell from first principles has done something genuinely rare and should probably attract the attention of people who do not want that spell in the world.
+**Recorded in grimoires.** The text exists, but learning from it differs from a current grimoire: notation may be opaque, language dead, required components or ritual spaces gone. Working out a pre-cataclysm spell from first principles is genuinely rare and likely to attract attention from people who do not want that spell loose.
 
-**Embedded in artifacts.** The spell is the object. It activates under specific conditions. It does not require a caster; it only requires the right circumstances. See G5 for artifact rules. The key adventure use: PCs find an artifact, cannot identify it, try to use it, and discover its function in the worst possible moment.
+**Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See G5 for artifact rules. The adventure use: PCs find an artifact, cannot identify it, try to use it, and discover its function at the worst possible moment.
 
 ### 5.2 Lost Technology
 
-Per design.md §1.2 #10: science fiction is permitted. Lost super-science - technology of a sophistication that the current age cannot replicate and can barely recognise - sits alongside lost sorcery as a valid ingredient in the deep world.
+Lost super-science sits alongside lost sorcery as a valid ingredient (design.md §1.2 #10). To the people of the current age, **advanced technology is indistinguishable from sorcery**. A weapon that fires coherent light is a "fire-lance of the old people." A navigation device using orbital signals is an "oracle of the sky-watchers." A tissue-repair device is a "healing stone of the star-empire's physicians."
 
-The practical rule is simple: to the people of the current age, **advanced technology is indistinguishable from sorcery**. A weapon that fires bolts of coherent light is a "fire-lance of the old people." A navigation device that triangulates position from orbital signals is an "oracle of the sky-watchers." A medical device that repairs tissue at the cellular level is a "healing stone of the physicians who served the star-empire."
+This is not a cover story. The people of the current age do not have the conceptual framework to distinguish a bound demon from a power source, or a ritual incantation from an activation code. The PCs may not either.
 
-This is not a cover story. It is the genuine state of knowledge. The people of the current age do not have the conceptual framework to distinguish a bound demon from a power source, or a ritual incantation from an activation code. The PCs may not either. That is the adventure.
+**Lost technology behaves differently from sorcery:** it does not respond to the sorcerous current. Iron-sensitivity (P6 §4) does not apply unless the item is also sorcerous. A sorcerer using sorcerous training to interact with lost technology may find the usual rules do not apply.
 
-**Lost technology in ruins behaves differently from sorcery in one important way:** it does not respond to the sorcerous current. A sorcerer's iron-sensitivity (P6 §4) does not apply to pre-cataclysm technology (unless it is also sorcerous, which some of it is). A sorcerer who tries to interact with a piece of lost technology using their sorcerous training may find that the usual rules do not apply.
-
-**Lost technology as treasure** follows the same rules as artifacts (see G5), with the additional GM note that its function is often more legible once the PCs have had time with it - but its origin is less legible. A sorcerous artifact usually tells a trained sorcerer something about itself; a technological artifact is opaque to sorcerous analysis and may require Knowledge (Engineering) or Knowledge (Occult) rolls to make any progress.
+**As treasure:** follows artifact rules (G5). Function often becomes legible with time; origin rarely does. A sorcerous artifact tells a trained sorcerer something about itself; a technological artifact is opaque to sorcerous analysis and may require Knowledge (Engineering) or Knowledge (Occult) to interpret.
 
 ### 5.3 The Three Adventure Engines
 
-Taken together, the generators in this chapter feed three recurring adventure engines that define sword & sorcery at the table:
+The generators in this chapter feed three recurring adventure engines:
 
-**The retrieval.** Something is in a ruin. Someone wants it. The PCs go to get it. The complication is that the ruin is not simply a storehouse - it is an active site, and the thing they are retrieving has implications they were not told about.
+**The retrieval.** Something is in a ruin. Someone wants it. The complication: the ruin is an active site, and the thing has implications the PCs were not told about.
 
-**The activation.** Something in the deep past is reactivating - a curse working, a bound entity straining against its prison, a sorcerous working approaching the end of its cycle, a piece of technology responding to a trigger that no longer makes contextual sense. The PCs are either hired to investigate the symptoms or stumble onto the situation as it reaches a threshold moment.
+**The activation.** Something from the deep past is reactivating - a bound entity, a sorcerous cycle reaching its end, a piece of technology responding to a trigger that no longer makes sense. The PCs investigate the symptoms or stumble in as it hits a threshold.
 
-**The knowledge problem.** A piece of pre-cataclysm lore exists and someone wants it - either to possess it or to prevent others from possessing it. The lore itself may be a weapon, a map, a formula, a history that would overturn what living institutions claim about themselves. The PCs are in the middle of the competition for it.
+**The knowledge problem.** Pre-cataclysm lore exists and someone wants it - or wants to prevent others from having it. A weapon, a map, a formula, a history that would overturn what living institutions claim. The PCs are in the middle of the competition.
 
-None of these require a world with a defined history. They only require a world with a past - which is what this chapter gives you the tools to build.
+None of these require a world with a defined history. They only require a world with a past.
 
 ---
 

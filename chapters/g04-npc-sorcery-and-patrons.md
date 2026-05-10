@@ -2,9 +2,7 @@
 
 > _"I have made a pact with powers that have no name in your tongue. I do not ask for your understanding. Only your service - or your life."_
 
-This chapter is for the GM. It covers the mechanics and craft of building sorcerer antagonists, naming and running patron entities, conducting ritual workings, managing bound demons as ongoing campaign elements, and running the Apotheosis trajectory for patron-bonded sorcerers who have gone too far.
-
-The player-facing sorcery rules are in P6. Read P6 first. This chapter deepens what players see from the other side of the circle.
+This chapter covers building sorcerer antagonists, naming and running patron entities, conducting ritual workings, managing bound demons as campaign elements, and running the Apotheosis trajectory for patron-bonded sorcerers who have gone too far. Read P6 first - this chapter deepens what players see from the other side of the circle.
 
 ---
 
@@ -12,19 +10,17 @@ The player-facing sorcery rules are in P6. Read P6 first. This chapter deepens w
 
 ### 1.1 What Makes an NPC Sorcerer Different
 
-Player sorcerers are constrained by the Corruption track, the PP pool, and the social cost of being visibly occult. NPC sorcerers share these constraints - but their configuration differs. An NPC sorcerer has usually been practising longer, has made choices the player sorcerer has not yet reached, and is often embedded in a structure (a cult, a court, a hermitage) that a wandering PC has not built.
+NPC sorcerers share the Corruption track, PP pool, and social costs of player sorcerers - but their configuration differs. They have usually been practising longer, made choices the player sorcerer has not yet reached, and are often embedded in a structure (a cult, a court, a hermitage) that a wandering PC has not built. Design one around three questions:
 
-Design an NPC sorcerer around three questions:
-
-1. **How much has this sorcerer paid?** What Corruption level, what permanent POW sacrificed, what patron debts?
-2. **What do they want?** Power, knowledge, survival, revenge, the completion of a ritual that has taken forty years?
-3. **How do they relate to the PCs?** Enemy, employer, potential teacher, competing agent of the same patron?
+1. **How much has this sorcerer paid?** Corruption level, permanent POW sacrificed, patron debts.
+2. **What do they want?** Power, knowledge, survival, revenge, the completion of a ritual that has taken forty years.
+3. **How do they relate to the PCs?** Enemy, employer, potential teacher, competing agent of the same patron.
 
 Everything else follows from those answers.
 
 ### 1.2 POW and Spell Loadout
 
-**POW threshold:** NPC sorcerers require POW 16 or higher, as per the player-facing rule (P6 §1.2). Antagonist sorcerers may have POW above this threshold; treat POW 18-20 as a senior practitioner, POW 21+ as genuinely exceptional. Demon binding costs permanent POW, so a veteran demon-binder will have traded some of their original POW away - they may have started at POW 22 and now sit at POW 17 after binding three demons. This is visible in their presence: slightly more frail than their reputation suggests.
+**POW threshold:** NPC sorcerers require POW 16+ (P6 §1.2). POW 18-20 is a senior practitioner; POW 21+ is genuinely exceptional. Demon binding costs permanent POW - a veteran demon-binder may have started at POW 22 and now sit at POW 17 after binding three demons. This shows: slightly more frail than their reputation suggests.
 
 **Spell loadout:** NPC sorcerers hold spells in memory up to their INT characteristic (P6 §2.4). For practical GM use:
 
@@ -32,42 +28,34 @@ Everything else follows from those answers.
 - **Mid-tier sorcerer (POW 18-19):** 4-6 spells in memory. Adds defensive options (Shadow-Wrap), an investigative spell (Bird's Eye, Vermin's Eye), and one specialist spell matching their narrative role.
 - **High-tier sorcerer (POW 20-21+):** 6-8 spells in memory, plus unique spells (see §1.4). Has a patron (usually), at least one bound demon, and a Brazier of Power.
 
-**NPC grimoires:** NPC sorcerers have grimoires containing more spells than they can memorise. These become adventure hooks when the NPC is defeated - a dead court mage's grimoire is worth more to a sorcerer PC than the gold in their safe.
+**NPC grimoires:** NPC sorcerers have grimoires containing more spells than they can memorise - a dead court mage's grimoire is worth more to a sorcerer PC than the gold in their safe.
 
 ### 1.3 Cost Architecture
 
-**Does this NPC have a patron?** Patron-bonded sorcerers have an emergency PP reserve (1/10 Patron Score per draw, up to three times per session). They also have obligations the GM can use: the patron may contact them mid-adventure, demand they retrieve something, punish them for failure. A patron-bonded sorcerer is a more complex antagonist because they are answerable to something other than the PCs.
+**Does this NPC have a patron?** Patron-bonded sorcerers have an emergency PP reserve (1/10 Patron Score per draw, up to three times per session) and obligations the GM can use: the patron may contact them mid-adventure, demand they retrieve something, punish failure. A patron-bonded sorcerer is a more complex antagonist because they are answerable to something other than the PCs.
 
 **Corruption level:** Set the NPC's Corruption and let it shape their presentation:
 
-- **Corruption above half starting value:** The sorcerer presents as intense but passes for human in ordinary interaction.
-- **Corruption at or below half starting value (the Breaking Point zone):** The sorcerer is visibly changed. Animals will not approach; strangers feel unease; the casting signature manifests involuntarily. They cannot easily blend into crowds.
-- **Corruption 25 or below:** Deeply marked. Their appearance alarms people who do not already know them. Social interactions with strangers are Difficult unless the sorcerer is presenting in a context where their nature is expected (a court that employs them openly, a cult that worships the power they serve).
-- **Corruption 1-5:** On the edge. The sorcerer is functional but barely tethered. The GM may apply acute episode results (P6 §3.3) when the sorcerer undergoes stress.
+- **Above half starting value:** Presents as intense but passes for human.
+- **At or below half starting value (Breaking Point zone):** Visibly changed. Animals will not approach; strangers feel unease; casting signature manifests involuntarily. Cannot blend into crowds.
+- **25 or below:** Deeply marked. Appearance alarms strangers; social interactions are Difficult unless the sorcerer's nature is expected in context.
+- **1-5:** On the edge, barely tethered. Apply acute episode results (P6 §3.3) under stress.
 
-**Bound demons:** A sorcerer with bound demons has already paid permanent POW for the privilege. A single bound lesser demon costs 1 permanent POW and is treated as the sorcerer's most dangerous asset. Greater Demon binding costs 1D6 permanent POW. An NPC who has bound multiple demons is significantly diminished from what they once were - and correspondingly more dangerous, because they have the demons to compensate.
+**Bound demons:** A single bound lesser demon costs 1 permanent POW; Greater Demon binding costs 1D6 permanent POW. An NPC who has bound multiple demons is significantly diminished from what they once were - and correspondingly more dangerous, because they have the demons to compensate.
 
 ### 1.4 Unique Spells
 
-NPC sorcerers, especially high-tier antagonists, may possess spells not on the player spell list (P6 §6). These are described in the NPC's entry and are not learnable from a grimoire alone - obtaining them requires finding the NPC's personal grimoire and meeting the research conditions.
-
-Unique spells should:
-
-- Do something the player spell list does not cover.
-- Reflect the NPC's specific specialisation (a necromancer's unique spells involve corpses; a plague-sender's involve disease and swarms).
-- Carry a cost that reflects their power (at least 1D3 Corruption per casting for strong unique spells).
-
-Examples given in the sample entries below.
+High-tier NPC sorcerers may possess spells not on the player spell list (P6 §6). These are described in the NPC's entry and require finding their personal grimoire and meeting the research conditions to obtain. Unique spells should do something the player list does not cover, reflect the NPC's specific specialisation, and carry a cost matching their power (at least 1D3 Corruption per casting for strong unique spells). See the sample entries below.
 
 ### 1.5 The NPC Sorcerer as Recurring Element
 
-The best sorcerer antagonists are not one-encounter threats. Use the patron relationship, the demon-binding debt, and the slowly advancing Corruption to give them a trajectory. The PCs defeat them and they retreat, diminished. They appear again, now patron-diminished themselves, or they have made a new bargain and come back stronger. The campaign history accumulates around them.
+The best sorcerer antagonists are not one-encounter threats. Use the patron relationship, the demon-binding debt, and the slowly advancing Corruption to give them a trajectory: the PCs defeat them, they retreat diminished, they appear again - patron-diminished or with a new bargain. The campaign history accumulates around them.
 
 ---
 
 ## 2. Sample NPC Sorcerers
 
-The five entries below are scenario seeds, not finished characters. Each gives the GM a complete framework; adjust characteristics to suit the campaign's current power level by scaling POW and PP up or down by 2-4 points.
+Scenario seeds, not finished characters. Adjust characteristics to suit the campaign's power level by scaling POW and PP up or down by 2-4 points.
 
 ---
 
@@ -257,15 +245,13 @@ Tamas is now a sorcerer with a powerful bound demon who is structurally dependen
 
 ## 3. Patron Design
 
-A patron is a named entity that exists outside the ordinary world - beyond the edge of the sorcerous current, in the deep past, or in a place the current world has agreed not to think about. Patrons are not gods in the theological sense. They are presences with agendas, each pursuing something in the mortal world that requires mortal instruments.
-
-A patron is defined by seven elements.
+A patron is a named entity outside the ordinary world - beyond the edge of the sorcerous current, in the deep past, or in a place the current world has agreed not to think about. Not gods in the theological sense. Presences with agendas, each pursuing something in the mortal world that requires mortal instruments. A patron is defined by seven elements.
 
 ### 3.1 Name and Nature
 
-Every patron has a name the sorcerer uses and usually a deeper nature. The name used at table is often a title or epithet - "the Drowned Goddess," "the Faceless One," "the Charnel Heir" - because the actual true name of a patron carries power that a sorcerer rarely possesses. A sorcerer who learns a patron's true name has found something almost certainly more dangerous than useful.
+The name used at table is often a title or epithet - "the Drowned Goddess," "the Faceless One," "the Charnel Heir" - because a patron's actual true name carries power a sorcerer rarely possesses. A sorcerer who learns it has found something almost certainly more dangerous than useful.
 
-**Nature:** What kind of entity is this? The following categories are not exhaustive, but they cover the main registers:
+**Nature:** What kind of entity? The following categories cover the main registers:
 
 - **Chaos entity:** a fragment of primal disorder, pursuing dissolution or transformation without comprehensible goal. Demands chaos, entropy, the upending of ordered things.
 - **Dead god:** a divine presence from a previous age that should not still be functional. Wants what gods want - worship, sacrifice, relevance. More coherent than a chaos entity but more desperate.
@@ -275,27 +261,21 @@ Every patron has a name the sorcerer uses and usually a deeper nature. The name 
 
 ### 3.2 Domain
 
-What area of power does this patron grant access to? The domain shapes what spells are available through patron-specific intercession (see §3.4) and what kinds of deeds earn Patron Score.
-
-A domain is expressed as one or two nouns and a verb: "the Drowned Goddess governs _water and forgetting_." "The Charnel Heir commands _death and inheritance_." "The Nameless Architect rebuilds _architecture and time_." The domain does not need to be logically coherent - patrons predate logic.
+The domain shapes what spells are available through patron-specific intercession (§3.4) and what deeds earn Patron Score. Express it as one or two nouns and a verb: "the Drowned Goddess governs _water and forgetting_." "The Charnel Heir commands _death and inheritance_." The domain does not need to be logically coherent - patrons predate logic.
 
 ### 3.3 Demands
 
-Every patron has 3-5 specific demands: the actions that earn Patron Score and that the patron considers its rightful due. After an adventure in which the sorcerer performed one or more of these actions, the GM calls for a patron test: roll D100. If the roll is less than the current Patron Score, the score increases by 1D6.
-
-Demands should be specific and sometimes uncomfortable:
+3-5 specific actions that earn Patron Score. After an adventure in which the sorcerer performed one or more, the GM calls for a patron test: roll D100; if the roll is less than the current Patron Score, it increases by 1D6. Demands should be specific and sometimes uncomfortable:
 
 - "Sacrifice a living thing at a crossroads on the new moon." (Frequency: monthly)
 - "Ensure that a secret that should remain buried stays buried." (Frequency: whenever the situation arises)
 - "Destroy something ancient and irreplaceable." (Frequency: when opportunity presents)
 
-The demands should advance the patron's agenda and put the sorcerer in moral difficulty. A patron whose demands never cost anything is not a patron worth the Corruption.
+Demands should advance the patron's agenda and put the sorcerer in moral difficulty. A patron whose demands never cost anything is not a patron worth the Corruption.
 
 ### 3.4 Gifts
 
-Beyond the standard Patron Score benefits (PP reserve, Patron Intercession), some patrons grant access to patron-specific spells or abilities available only to their sorcerers. These are distinct from the player spell list - they cannot be inscribed in a grimoire or taught to other sorcerers. They exist only through the patron relationship.
-
-Each patron has 1-3 patron-specific gifts. Examples:
+Beyond the standard Patron Score benefits (PP reserve, Patron Intercession), some patrons grant patron-specific spells or abilities unavailable to other sorcerers. These cannot be inscribed in a grimoire or taught - they exist only through the patron relationship. Each patron has 1-3 patron-specific gifts. Examples:
 
 - Access to a unique spell (see §2 examples above for the format)
 - The ability to communicate with specific creatures or entities that would not normally respond
@@ -303,26 +283,24 @@ Each patron has 1-3 patron-specific gifts. Examples:
 
 ### 3.5 Dooms
 
-What happens to a sorcerer who fails the patron? A patron is not easily offended by small failures. They invest in a sorcerer over years and do not throw that investment away at the first mistake. But a sorcerer who actively violates the patron's core interests - destroys what the patron wanted preserved, aids the patron's enemies, actively refuses a direct intercession - receives the doom.
-
-A doom has two components:
+A patron is not easily offended by small failures - they invest in a sorcerer over years and do not throw that investment away at the first mistake. A sorcerer who actively violates the patron's core interests - destroys what the patron wanted preserved, aids the patron's enemies, refuses a direct intercession - receives the doom. A doom has two components:
 
 - **The warning:** The patron communicates displeasure. The PP reserve is withdrawn. The sorcerer's Patron Score does not increase for the next three adventures.
 - **The consequence:** If the sorcerer does not perform penance (a quest, a sacrifice, a specific act of service within a defined time), the patron withdraws entirely. Patron Score drops to 0. Any patron-specific gifts cease to function. The former sorcerer of this patron is now exposed - the patron may begin using them as an example.
 
-A doom that the patron activates directly (rather than the sorcerer triggering through failure) is also possible. A sorcerer at Patron Score 80+ who deeply offends their patron may find the patron sending agents rather than simply withdrawing. This is the GM's call and should only occur when the dramatic situation warrants it.
+A sorcerer at Patron Score 80+ who deeply offends their patron may find the patron sending agents rather than simply withdrawing. This is the GM's call and should only occur when the dramatic situation warrants it.
 
 ### 3.6 The True Nature
 
-What does this patron actually want, at the deepest level? This is for the GM and need not be communicated to the players directly, but it should drive the patron's long-term behaviour. A patron is not random. It has been pursuing its agenda since before the sorcerer was born and will continue after they are gone.
+What does this patron actually want at the deepest level? For the GM only - but it should drive the patron's long-term behaviour. A patron is not random: it has been pursuing its agenda since before the sorcerer was born and will continue after they are gone.
 
-The true nature should be something the sorcerer can theoretically discover - through ancient texts, through what bound demons know, through the Apotheosis trajectory - but that discovering is dangerous. The sorcerer who understands their patron fully may have information they cannot safely use.
+The true nature should be discoverable through ancient texts, bound demons' knowledge, or the Apotheosis trajectory - but discovering it is dangerous. The sorcerer who understands their patron fully may have information they cannot safely use.
 
 ---
 
 ## 4. Sample Patrons
 
-Seven patron entities are described below. Each is designed to anchor a campaign rather than a single encounter.
+Seven patron entities, each designed to anchor a campaign rather than a single encounter.
 
 ---
 
@@ -493,34 +471,32 @@ Seven patron entities are described below. Each is designed to anchor a campaign
 
 ## 5. Ritual Magic
 
-Ritual magic is sorcery that cannot be done in a moment. It is the great working - the demon summoning that requires weeks of preparation, the curse that must be built over seven days, the re-sealing of a door that was better left unopened. Ritual magic is not a separate system; it is the same sorcery, extended in time and usually requiring more PP than any single sorcerer carries.
+Ritual magic is sorcery extended in time - the demon summoning that requires weeks of preparation, the curse built over seven days, the re-sealing of a door that was better left unopened. Not a separate system; the same sorcery, requiring more PP than any single sorcerer carries.
 
 ### 5.1 What Makes a Working Ritual
 
 A ritual working differs from ordinary spellcasting in three ways:
 
-**Extended time.** The working takes hours, days, or weeks of continuous or daily effort. The sorcerer cannot simply cast and be done; they must maintain the working's conditions throughout its duration.
+**Extended time.** Hours, days, or weeks of continuous or daily effort. The sorcerer must maintain the working's conditions throughout.
 
-**High PP cost.** Most ritual workings require more PP than a single sorcerer's pool. This is what Chain of Being (P6 §6) was designed for: the party contributes, and the ritual becomes feasible.
+**High PP cost.** More PP than a single sorcerer's pool. This is what Chain of Being (P6 §6) was designed for.
 
-**Specific conditions.** Ritual workings have conditions that cannot be relaxed: the correct location, the correct timing (new moon, solstice, the anniversary of a death), the correct materials, the correct formulae in the correct order.
+**Specific conditions.** Correct location, timing (new moon, solstice, the anniversary of a death), materials, and formulae in the correct order. These cannot be relaxed.
 
 ### 5.2 The Chain of Being and Ritual Workings
 
-When a sorcerer uses Chain of Being to tap contributors for a ritual working, the following applies:
+When a sorcerer uses Chain of Being to tap contributors for a ritual working:
 
-- The sorcerer declares the working's total PP cost (the GM sets this for unique rituals, or it is the spell's cost multiplied by a duration or scale factor).
+- The sorcerer declares the working's total PP cost.
 - Up to eight willing participants establish the chain, contributing PP across the duration.
-- Participants who contribute more than half their PP maximum in a single working suffer 1 Corruption.
-- Participants who are drained to 0 PP fall unconscious immediately and are removed from the chain; their contribution is not recovered.
+- Participants contributing more than half their PP maximum in a single working suffer 1 Corruption.
+- Participants drained to 0 PP fall unconscious and are removed from the chain; their contribution is not recovered.
 
-**Practical:** A ritual requiring 40 PP across a two-hour working could be sustained by a sorcerer with POW 17 (who contributes 17 PP) plus three participants contributing 8 PP each. The chain makes feasible what no single caster can manage.
-
-**The danger:** The chain requires all participants to be present, willing, and uninterrupted. Attacking a chain ritual is one of the most effective ways to destroy it. Each participant who is struck while contributing must make a Difficult Idea roll or break contact; breaking contact ends their PP contribution immediately.
+A ritual requiring 40 PP over two hours could be sustained by a sorcerer with POW 17 plus three participants contributing 8 PP each. The chain requires all participants present, willing, and uninterrupted. Attacking a chain ritual is one of the most effective ways to destroy it: each participant who is struck must make a Difficult Idea roll or break contact, ending their PP contribution immediately.
 
 ### 5.3 Setting Ritual Costs
 
-For standard spells cast as rituals (summoning a demon, preparing a Brazier of Power, constructing a Ward of unusual extent), multiply the spell's base cost by the duration factor:
+For standard spells cast as rituals, multiply the spell's base cost by the duration factor:
 
 | Duration   | Cost multiplier |
 | ---------- | --------------- |
@@ -530,36 +506,34 @@ For standard spells cast as rituals (summoning a demon, preparing a Brazier of P
 | One week   | x8              |
 | One month  | x20             |
 
-For wholly unique rituals (sealing an ancient evil, calling a cataclysm, reversing a patron's doom), the GM sets the cost directly. These should require more PP than is typically available without Chain of Being and multiple sessions of preparation.
+For wholly unique rituals, the GM sets the cost directly - it should require more PP than is typically available without Chain of Being and multiple sessions of preparation.
 
 ### 5.4 Ritual Failure
 
-If a ritual is interrupted before completion, the work is lost. PP already spent are gone. The materials are consumed. The sorcerer may need to start from the beginning.
+Interrupted before completion: the work is lost, PP already spent are gone, materials consumed. The sorcerer may need to start over.
 
-If a ritual is corrupted - interrupted at a critical moment, or with the wrong materials substituted, or with a participant who was not truly willing - the effect may be partial, reversed, or something other than intended. The GM has latitude here. Corrupted rituals are among the best adventure hooks: the sorcerer attempted to bind a demon and instead tore a hole in the sorcerous current, which is now everyone's problem.
+Corrupted - interrupted at a critical moment, wrong materials substituted, a participant not truly willing - the effect may be partial, reversed, or something other than intended. Corrupted rituals are among the best adventure hooks: the sorcerer attempted to bind a demon and instead tore a hole in the sorcerous current, which is now everyone's problem.
 
 ---
 
 ## 6. Demon Binding: The Deep Dive
 
-The player-facing rules for demon summoning appear in P6 §7. This section covers what happens on the GM's side of the circle.
+Player-facing summoning rules are in P6 §7. This section covers the GM's side of the circle.
 
 ### 6.1 Demon Personality
 
-Every demon has a personality. This is not flavour - it is mechanical information, because the personality determines how the demon behaves in the binding relationship and how it tries to escape.
-
-**Assign four traits.** Before the session in which a demon appears, give it four personality traits from the following categories (or invent your own):
+Personality is mechanical information: it determines how the demon behaves in the binding relationship and how it tries to escape. Before the session in which a demon appears, assign four traits from the following categories (or invent your own):
 
 - **Disposition:** Businesslike / Vindictive / Curious / Contemptuous / Patient / Hungry
 - **Core value:** Honesty (literal) / Strength / Information / Fear / Chaos / Permanence
 - **Relationship to the sorcerer:** Respects them / Tolerates them / Plans against them / Is genuinely afraid of them / Has been tricked before
 - **What it wants most:** Freedom / Knowledge / To cause a specific harm / A body / To serve well and be released honourably / Something specific from its pre-binding existence
 
-These four traits generate all the demon's in-session decisions. A demon with Contempt + Chaos + Plans against + Freedom will look for any loophole in the bargain, test every edge of the binding, and regard the sorcerer as a temporary inconvenience. A demon with Businesslike + Information + Respects + Knowledge will fulfil contracts efficiently and might even warn the sorcerer of threats it perceives, because a dead sorcerer ends the relationship.
+These four traits generate all the demon's in-session decisions. Contempt + Chaos + Plans against + Freedom: looks for loopholes, tests every edge of the binding, regards the sorcerer as a temporary inconvenience. Businesslike + Information + Respects + Knowledge: fulfils contracts efficiently, might even warn the sorcerer of threats - a dead sorcerer ends the relationship.
 
 ### 6.2 The Bargain
 
-When the demon arrives, it comes with demands. The GM should decide these before the session, with reference to the demon's personality and what kind of entity it is.
+When the demon arrives, it comes with demands. Decide these before the session, with reference to the demon's personality.
 
 **Lesser demon demands (choose 2-3):**
 
@@ -577,13 +551,13 @@ When the demon arrives, it comes with demands. The GM should decide these before
 - The sorcerer's agreement not to use See the Unseen on the demon or its activities
 - The destruction of something specific (a rival demon's bond, a specific artifact, a named person)
 
-The demon's demands are binding from the moment the sorcerer agrees. A sorcerer who agrees and then fails to deliver will find the binding straining. See §6.3.
+The demon's demands are binding from the moment the sorcerer agrees. Failure to deliver strains the binding (see §6.3).
 
 ### 6.3 Escape Clauses
 
-Every binding has an escape clause - a condition that, if met, automatically breaks the binding regardless of the sorcerer's will. The GM sets the escape clause before the binding occurs and should not reveal it to the player until it is relevant (or until the sorcerer researches it specifically, which requires a Difficult Knowledge (Occult) roll and appropriate sources).
+Every binding has an escape clause - a condition that automatically breaks the binding regardless of the sorcerer's will. Set it before the binding occurs; do not reveal it until relevant (or until the sorcerer researches it specifically: Difficult Knowledge (Occult) roll and appropriate sources).
 
-**Examples of escape clauses:**
+**Examples:**
 
 - The sorcerer speaks the demon's true name in the presence of another sorcerer without immediately binding that sorcerer too
 - The sorcerer's Patron Score reaches a threshold (patron claims priority over the demon)
@@ -592,114 +566,89 @@ Every binding has an escape clause - a condition that, if met, automatically bre
 - A third party successfully bargains with the demon directly while the sorcerer is unconscious or absent
 - A specific item that was part of the original summoning circle is destroyed
 
-Escape clauses should be discoverable but not obvious. They provide the demon's path to freedom and give the sorcerer's player a reason to investigate the binding they established.
+Escape clauses should be discoverable but not obvious - they give the sorcerer's player a reason to investigate the binding they established.
 
 ### 6.4 When a Demon is Mistreated
 
-A bound demon cannot harm its binder directly - the binding prevents that. But mistreated demons find other ways.
-
-**Signs of mistreatment consequences:**
+A bound demon cannot harm its binder directly - the binding prevents that. But mistreated demons find other ways:
 
 - The demon fulfils commands exactly but perversely - it saves the sorcerer from the enemy by collapsing the building, which also kills three bystanders
 - The demon begins withholding information it would normally share without being asked
 - The demon makes its presence known in social situations in ways that are technically permitted but deeply inconvenient
 - Object-bound or place-bound demons begin attracting the attention of other entities
 
-The longer a demon is mistreated, the more creative its responses become, within the letter of the binding.
+The longer the mistreatment, the more creative its responses, within the letter of the binding.
 
 ### 6.5 When the Binding Breaks
 
-When a binding ends - by the four conditions in P6 §7.5 or by an escape clause - the demon is free. What happens next depends on the relationship.
+When a binding ends - by the four conditions in P6 §7.5 or by an escape clause - what happens next depends on the relationship.
 
-**Well-treated demon:** Leaves. May return someday if called again; will remember the sorcerer with something like professional regard. Will not attack.
+**Well-treated demon:** Leaves. May return someday; remembers the sorcerer with something like professional regard.
 
-**Neutral demon:** Leaves. Will not attack unless the sorcerer makes a sudden threatening move. May or may not answer another summoning.
+**Neutral demon:** Leaves. Will not attack unless provoked. May or may not answer another summoning.
 
-**Mistreated demon:** Does not leave immediately. Stands in its current form and looks at the sorcerer. The sorcerer has, approximately, one round to get inside a valid summoning circle before the demon acts on the years of accumulated resentment.
+**Mistreated demon:** Does not leave immediately. The sorcerer has approximately one round to get inside a valid summoning circle before the demon acts on the years of accumulated resentment.
 
-**Greater Demon, any treatment:** Looks at the sorcerer for a moment. Then does something unexpected. Even a well-treated Greater Demon will not simply leave - it will demonstrate, briefly, what it is, to make sure the sorcerer understands what they bound. Then it goes.
+**Greater Demon, any treatment:** Looks at the sorcerer for a moment. Then does something unexpected - it will demonstrate what it is before it goes, to make sure the sorcerer understands what they bound.
 
 ---
 
 ## 7. The Brazier of Power
 
-The Brazier of Power spell (P6 §6) creates a sorcerer's most important physical possession. This section covers what a Brazier means for campaign play and how to run a sorcerer who has one.
+The Brazier of Power spell (P6 §6) creates a sorcerer's most important physical possession.
 
 ### 7.1 The Lair-Bound Sorcerer
 
-A sorcerer with a Brazier is not the same kind of threat as a wandering sorcerer. In their lair, they are dramatically more powerful - the Brazier's stored PP augments their pool beyond what their POW would normally allow. Outside their lair, they are reduced to their base PP pool and must plan around it.
+In their lair, a sorcerer with a Brazier is dramatically more powerful - the Brazier's stored PP augments their pool beyond what their POW would normally allow. Outside their lair, they are reduced to their base PP pool. An NPC sorcerer who cannot be defeated in direct confrontation at their Brazier can potentially be drawn out, lured away, or have the Brazier destroyed as an alternative.
 
-This distinction is a campaign tool. An NPC sorcerer who cannot be defeated in direct confrontation at their Brazier can potentially be drawn out, lured away from it, or have the Brazier destroyed as an alternative to defeating them directly.
-
-**Destroying a Brazier:** The physical object must be destroyed. It is not a fragile thing - the sorcerer typically builds it into furniture, architecture, or a heavily reinforced vessel. Sorcerous attacks against the object require overcoming the Ward spell the sorcerer almost certainly placed on it. Physical destruction requires getting into the sanctum and applying enough force. Destroying a Brazier causes the stored PP to discharge in an uncontrolled pulse: all creatures within POW x2 metres suffer 1D6 damage and must make a CON roll or be stunned for 1D6 rounds.
+**Destroying a Brazier:** The physical object must be destroyed - the sorcerer typically builds it into furniture, architecture, or a heavily reinforced vessel, protected by a Ward. Physical destruction requires getting into the sanctum and applying enough force. Destroying a Brazier discharges its stored PP in an uncontrolled pulse: all creatures within POW x2 metres suffer 1D6 damage and must make a CON roll or be stunned for 1D6 rounds.
 
 ### 7.2 Multiple Braziers
 
-A sorcerer may construct more than one Brazier. Each costs 1 permanent POW. The sorcerer can draw from all of them simultaneously, but only while within range of each (POW x2 metres). Multiple Braziers in a single location create a layered PP reservoir of considerable depth.
-
-Mireille's example (two Braziers at 50 and 40 PP capacity, plus her base 20 PP and patron reserve) illustrates what a truly entrenched sorcerer looks like: a permanent PP pool of roughly 115 in her home territory, which essentially makes her invulnerable at home. The way to defeat her is not head-on.
+Each additional Brazier costs 1 permanent POW. The sorcerer can draw from all simultaneously, but only while within range of each (POW x2 metres). Mireille's example (two Braziers at 50 and 40 PP, plus her base 20 PP and patron reserve) illustrates the entrenched sorcerer: a permanent PP pool of roughly 115 in her home territory. The way to defeat her is not head-on.
 
 ### 7.3 The Brazier as Target
 
-In any scenario where the PCs are moving against a lair-bound sorcerer, the Brazier should be identifiable through See the Unseen (it radiates stored PP as a strong aura) and potentially removable. A PC sorcerer who steals a Brazier - the physical object, before the former owner can stop them - has stolen the stored PP too. Whoever controls the Brazier controls its contents.
-
-This makes Brazier theft an extremely dangerous heist objective and an extremely satisfying one.
+The Brazier is identifiable through See the Unseen (it radiates stored PP as a strong aura) and potentially removable. A PC sorcerer who steals the physical object before the former owner can stop them has stolen the stored PP too. Whoever controls the Brazier controls its contents - making Brazier theft an extremely dangerous and extremely satisfying heist objective.
 
 ---
 
 ## 8. Apotheosis
 
-Apotheosis is the end-state for a sorcerer whose Patron Score has reached 100 and who has not found a way to stop what is coming. It is not a reward. It is a tragedy. Frame it that way.
+Apotheosis is the end-state for a sorcerer whose Patron Score has reached 100 and who has not found a way to stop what is coming. Not a reward. A tragedy. Frame it that way.
 
 ### 8.1 When It Begins
 
-At Patron Score 100, if the sorcerer is allied to the patron (no rival score within 20 points - which for a WSR sorcerer usually means they have committed to one patron throughout their career), the patron's communication changes.
-
-The sorcerer has always heard from the patron indirectly - through compulsions, through the patron test mechanic, through direct communications after Patron Intercession. At Patron Score 100, the communication becomes constant. The sorcerer begins to hear the patron without invoking it. They receive information they did not ask for. They find themselves acting on the patron's preferences without consciously choosing to.
-
-This is not possession. Not yet. The sorcerer is still themselves. But the border has changed.
+At Patron Score 100, if the sorcerer is allied to one patron (no rival score within 20 points), the patron's communication changes. Where it was always indirect - compulsions, the patron test mechanic, direct communications after Intercession - it becomes constant. The sorcerer hears the patron without invoking it, receives information they did not ask for, finds themselves acting on the patron's preferences without consciously choosing to. Not possession. Not yet. But the border has changed.
 
 ### 8.2 The Offer
 
-The patron eventually makes an explicit offer - a vision, a dream, a direct communication during a quiet moment. The offer is always framed in terms of completion and resolution: the sorcerer's lifelong goal, the patron's agenda, the possibility of something that has been incomplete finally being whole.
+The patron makes an explicit offer - a vision, a dream, a direct communication during a quiet moment. Always framed in terms of completion: the sorcerer's lifelong goal, the patron's agenda, something that has been incomplete finally being whole. What it actually means varies by patron but always involves surrendering something that cannot be recovered: mortality, individual will, the body as currently inhabited, continued existence as a separate entity.
 
-What the offer actually means varies by patron but always involves the sorcerer surrendering something they cannot get back:
-
-- Their mortality
-- Their individual will
-- Their body as they currently inhabit it
-- Their continued existence as a separate entity
-
-The sorcerer can decline. Declining at Patron Score 100 is mechanically unusual - the patron does not doom the sorcerer, because it wants them to choose. But declining comes with consequences: the patron withdraws the PP reserve and Patron Intercession. The Patron Score gradually declines as the patron reduces contact. Over 1D6 months, the sorcerer returns to a state of Patron Score 60-70 with the patron's attention diminished but not fully withdrawn. The patron tries again someday.
+The sorcerer can decline. The patron does not doom them for declining - it wants them to choose. But declining costs: the PP reserve and Patron Intercession are withdrawn, and the Patron Score gradually declines over 1D6 months to 60-70, with the patron's attention diminished but not fully withdrawn. The patron tries again someday.
 
 ### 8.3 The Acceptance
 
-A sorcerer who accepts apotheosis retires from play as a PC. The nature of the retirement varies by patron - see the individual patron entries in §4 - but the broad strokes are:
-
-- The sorcerer is no longer available for ordinary play. They may appear as an NPC, in whatever form the acceptance produced, but they are no longer the player's character.
-- The remaining party is changed by what they witnessed.
-- The patron has gained something. That something will have implications for the campaign world.
+A sorcerer who accepts apotheosis retires from play as a PC. The nature varies by patron (see §4), but the broad strokes: the sorcerer is no longer available for ordinary play (they may appear as an NPC in whatever form the acceptance produced); the remaining party is changed by what they witnessed; the patron has gained something with implications for the campaign world.
 
 ### 8.4 The Apotheosis as Campaign Element
 
-Used well, apotheosis is not a failure state for the sorcerer player - it is the end of a story arc. The sorcerer who accepts apotheosis should have made choices throughout the campaign that made this moment feel inevitable. The patron's demands should have been shaping the campaign for sessions; the player should feel that they walked into this with open eyes.
-
-Used poorly, apotheosis feels like the system taking a character away from a player who was not finished. Avoid this by:
+Used well, apotheosis is the end of a story arc. The sorcerer who accepts should have made choices throughout the campaign that made this moment feel inevitable. Used poorly, it feels like the system taking a character away from a player who was not finished. Avoid this by:
 
 - Making the Patron Score visible to the player throughout.
-- Never disguising what a high Patron Score means. The player knows it means the patron is getting closer.
+- Never disguising what a high Patron Score means.
 - Never forcing acceptance. The sorcerer can always decline, at cost.
-- Giving the player a chance to pursue countermeasures: researching how to reduce the Patron Score (destroying something the patron values, performing a ritual of severance, finding another sorcerer who knows the patron's true name), binding the patron in some way, or achieving the patron's goal by other means that do not require the sorcerer's sacrifice.
+- Giving the player a chance to pursue countermeasures: researching Patron Score reduction, performing a ritual of severance, finding another sorcerer who knows the patron's true name, or achieving the patron's goal by other means that do not require the sorcerer's sacrifice.
 
-If the player engages with the apotheosis arc as a story challenge to be resolved, it becomes one of the best campaigns the table has ever had.
+If the player engages with the apotheosis arc as a story challenge to be resolved, it becomes one of the best campaign arcs the table has ever had.
 
 ### 8.5 Patron Score Reduction
 
-For players who want to fight the trajectory, these are the GM-side tools for Patron Score reduction (rare, difficult, and all carrying their own costs):
+GM-side tools for players who want to fight the trajectory (all rare, difficult, and carrying their own costs):
 
-- **Ritual of severance:** A specific ritual working (the sorcerer must research it; Difficult Knowledge (Occult) roll and appropriate ancient sources) that temporarily severs the patron relationship. Costs 1D6 permanent POW and reduces Patron Score by 2D10. Does not remove the patron's interest - it merely delays.
-- **The patron's loss:** If the patron suffers a significant defeat in the mortal world (something it values destroyed, an enemy of the patron succeeding at a major goal), its attention is briefly elsewhere. During this period, no patron test rolls occur and the Score does not increase. This may reduce it by 1D6 if the sorcerer actively distances themselves.
-- **Another compact:** Establishing a rival patron relationship (a second compact) prevents either patron from advancing toward apotheosis. The Score remains high for both but plateaued. The two patrons become antagonists whose conflict plays out through the sorcerer. This is trading one problem for a different, larger one.
+- **Ritual of severance:** Research required (Difficult Knowledge (Occult) + appropriate sources). Costs 1D6 permanent POW, reduces Patron Score by 2D10. Does not remove the patron's interest - it merely delays.
+- **The patron's loss:** If the patron suffers a significant defeat in the mortal world, its attention is briefly elsewhere. No patron test rolls, Score does not increase; may reduce by 1D6 if the sorcerer actively distances themselves.
+- **Another compact:** Establishing a rival patron relationship plateaus both Patron Scores. The two patrons become antagonists whose conflict plays out through the sorcerer. Trading one problem for a different, larger one.
 
 ---
 

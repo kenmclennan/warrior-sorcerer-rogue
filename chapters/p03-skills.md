@@ -2,7 +2,7 @@
 
 > _"He was what his life had made him: a fighting man, a thief, a wanderer, a lover, a man of many tongues and a thousand guises."_
 
-Skills are what a character can do. They are expressed as percentile ratings and resolved by the same rolling mechanic as everything else - roll equal to or less than the skill to succeed. This chapter is the full skill reference. For the mechanics of rolling - outcome tiers, criticals, fumbles, the PP-buy - see P4.
+Skills are expressed as percentile ratings - roll equal to or less than the skill to succeed. This chapter is the full skill reference. For the mechanics of rolling - outcome tiers, criticals, fumbles, the PP-buy - see P4.
 
 ---
 
@@ -12,9 +12,9 @@ Roll against a skill when two conditions are both true: the task is neither triv
 
 Every skill has a **base chance** - the starting rating before character creation adds to it. A character who has never studied a skill still has that sliver of native human capability.
 
-**Skill categories.** Skills are grouped into six categories: Combat, Communication, Manipulation, Mental, Perception, and Physical. These categories are used in character creation to calculate the Category Bonus, a flat addition derived from the relevant characteristic average. See P2 §3 for the calculation. Category bonuses appear in the skill entries as a parenthetical after the base chance.
+**Skill categories.** Skills are grouped into six categories: Combat, Communication, Manipulation, Mental, Perception, and Physical. Category bonuses (derived from the relevant characteristic average, calculated in P2 §3) appear in the skill entries as a parenthetical after the base chance.
 
-**Skills above 100%.** A skill pushed above 100% through experience and training confers two advantages: the character may attack or act twice in a combat round (once above 100%, again above 50%), and when rolling at a reduced difficulty, the effective skill after difficulty halving may still be well above the normal ceiling. Skills above 100% are the mark of genuine mastery - the blade that moves faster than the eye, the tongue that never missteps.
+**Skills above 100%.** A skill pushed above 100% confers two advantages: the character may attack or act twice in a combat round (once above 100%, again above 50%), and when rolling at a reduced difficulty, the effective skill after difficulty halving may still be well above the normal ceiling.
 
 **Concealed rolls.** For perception, social, and knowledge skills where the character would not know whether they succeeded, the GM rolls on the player's behalf and narrates the result. The player never sees the number. This covers Listen, Spot, Sense, Insight, and some uses of Track and Research.
 
@@ -24,21 +24,19 @@ Every skill has a **base chance** - the starting rating before character creatio
 
 ## 2. Specialty Skills
 
-Many skills have specialties - sub-categories within the broader skill that represent distinct techniques, traditions, or subjects. A character's rating in a specialty is independent of any other specialty within the same skill.
+Many skills have specialties - sub-categories representing distinct techniques, traditions, or subjects. A character's rating in a specialty is independent of any other specialty within the same skill.
 
-**Learning a specialty.** Specialties are learned separately. Skill points spent at character creation and experience gained in play improve one named specialty, not the skill as a whole. You become a swordsman or a spearman, not a generic weapons-handler.
+**Learning a specialty.** Specialties are learned separately. Skill points and experience improve one named specialty, not the skill as a whole.
 
 **Cross-specialty rolls.** If a character needs to use a specialty they have not specifically trained, they may attempt it at half the rating of their nearest related specialty, rounded up. A swordsman forced to use an axe rolls at half their Melee Weapon (Sword) rating. A character with no related specialty uses the base chance only.
 
 **Specialty notation.** Skills with specialties are written with parentheses in this chapter: **Melee Weapon (Sword)**, **Knowledge (Occult)**, **Language (Aramaic)**. When a skill entry says "(various)" in its name heading, this means specialties are required - there is no rating in Craft as a whole, only in Craft (Blacksmithing), Craft (Weaving), and so on.
 
-**Specialty lists.** Where the specialty list is fixed and short, it appears under the skill entry. Where it is open-ended (Language, Knowledge, Craft, Art), the entry gives guidance and typical examples; the full list is whatever is relevant to the campaign.
+**Specialty lists.** Fixed and short lists appear under the skill entry. Open-ended lists (Language, Knowledge, Craft, Art) give guidance and typical examples; the full list is whatever is relevant to the campaign.
 
 ---
 
 ## 3. Complementary Skills and Augments
-
-Two mechanics allow one skill to amplify another. Both represent the real advantage of being broadly capable rather than narrowly excellent.
 
 ### 3.1 Complementary Skill Bonus
 
@@ -46,20 +44,18 @@ A complementary skill is one that logically supports the primary skill being use
 
 A character using Persuade in a formal legal context might add one-fifth of their Knowledge (Law). A scout using Navigate to guide a party through mountain passes might add one-fifth of Navigate to the group's Ride roll. A sorcerer using Perform (Ritual) to prepare a summoning might add one-fifth of Perform to their Sorcery skill.
 
-The GM decides whether the connection is genuine. "I am very good at Brawl, so that helps my Bargain roll" is not a complementary connection. "I know the history of this trade route, so my Knowledge (History) helps my Bargain with the caravan master" is.
+The GM decides whether the connection is genuine. "I am very good at Brawl, so that helps my Bargain roll" is not a complementary connection. "My Knowledge (History) of this trade route helps my Bargain with the caravan master" is.
 
 **Party cooperation.** Complementary bonuses are not limited to the character making the primary roll. One PC may offer their skill as a complementary bonus to another's roll, provided they are in a position to actively assist. A character with Command who rallies the troops provides one-fifth Command as a bonus to each subordinate's relevant roll during that scene.
 
 ### 3.2 Augment
 
-An augment is a riskier, more powerful version of the complementary bonus. Instead of automatically applying one-fifth of a supporting skill, the character makes a full roll against the supporting skill first. The outcome of that roll then modifies the difficulty of the primary action:
+An augment is a riskier, more powerful version of the complementary bonus: the character makes a full roll against the supporting skill, and the outcome modifies the difficulty of the primary action:
 
 - **Critical:** the primary roll is treated as Easy (skill x2)
 - **Success:** the primary roll is treated as Average (no modifier; the same as no augment)
 - **Failure:** the primary roll is treated as Difficult (skill halved)
 - **Fumble:** the primary roll is treated as Difficult and the primary roll itself fumbles on any failure
-
-Augments make sense when the situation genuinely warrants it - when preparation, reconnaissance, or focused effort before an action could make the decisive difference. A thief who cases a building thoroughly before breaking in might augment their Stealth with their Research roll on the building's layout.
 
 A character may not both augment and apply a complementary bonus to the same roll.
 
@@ -82,7 +78,7 @@ If the lead succeeds at any tier, every helper who rolled a success or better ea
 
 ## 4. Skill List
 
-The 44 WSR skills follow in alphabetical order. Each entry gives the skill name, its category in parentheses, its base chance, a description of what it covers and when you roll it, and - for specialty skills - a list of recognised specialties. Five skills carry a **Critical:** line giving the specific numerical outcome on a critical success; all other skills follow the general rule that a critical produces the best achievable version of the success.
+The 44 WSR skills in alphabetical order. Five skills carry a **Critical:** line giving a specific numerical outcome; all others follow the general rule that a critical produces the best achievable version of success.
 
 ---
 
@@ -592,19 +588,17 @@ Roll Track when the character is actively following a trail and the quarry's pas
 
 ## 5. Acting Without a Skill
 
-A character who lacks a skill entirely can still attempt the task. The GM chooses one of two fallbacks:
+A character who lacks a skill can still attempt the task. The GM chooses one of two fallbacks:
 
-**Wild Chance:** roll against the skill category bonus alone. This represents the raw human aptitude underlying the skill without any training.
+**Wild Chance:** roll against the skill category bonus alone.
 
-**Characteristic Roll:** for tasks that directly reflect a characteristic (raw strength, quick reflexes, native intelligence), roll against the relevant characteristic x5 as the target. This is sometimes more forgiving than the category bonus, sometimes less - the GM picks whichever better fits the fiction.
+**Characteristic Roll:** for tasks that directly reflect a characteristic, roll against the relevant characteristic x5. The GM picks whichever better fits the fiction.
 
-Neither fallback earns an experience checkmark. You cannot improve a skill you have never used in a way that counts.
+Neither fallback earns an experience checkmark.
 
 ---
 
 ## 6. The Skill Rating Table
-
-A skill's rating communicates competence level at a glance. This table is a reference for GMs setting difficulty and for players describing what their character can actually do.
 
 | Rating  | Descriptor | What it means in practice                                                             |
 | ------- | ---------- | ------------------------------------------------------------------------------------- |
@@ -615,7 +609,7 @@ A skill's rating communicates competence level at a glance. This table is a refe
 | 91-100% | Master     | At the peak of normal human achievement. Rarely fails.                                |
 | 101%+   | Legend     | Beyond the norm. Multiple actions per round; effective even under extreme conditions. |
 
-WSR PCs begin near the top of the Journeyman range in their core skills and will push into Expert territory through play. Legend-tier ratings are the province of long-lived characters who have been doing one thing exclusively for years.
+WSR PCs begin near the top of the Journeyman range in core skills and push into Expert territory through play.
 
 ---
 

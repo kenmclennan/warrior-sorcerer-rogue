@@ -15,7 +15,7 @@ Locked decisions applied:
 > _"Know, O prince, that between the years when the oceans drank Atlantis and the gleaming cities, and the years of the rise of the sons of Aryas, there was an age undreamed of, when shining kingdoms lay spread across the world like blue mantles beneath the stars."_
 > _- Robert E. Howard_
 
-This chapter is for the GM. It covers the genre you are working in, the principles that should govern your decisions, how to build and run a session, how to connect a group of anti-heroes at the start of play, and how to run combat in the theatre of the mind without a grid. Read it before your first session and return to it whenever a session feels wrong.
+This chapter is for the GM. It covers the genre, the principles that govern your decisions, how to build and run a session, how to connect a group of anti-heroes at session zero, and how to run combat without a grid. Read it before your first session and return to it whenever a session feels wrong.
 
 ---
 
@@ -39,19 +39,17 @@ For the broader list of inspirational influences - additional authors, films, mu
 
 ### 1.2 The Literary Register
 
-Sword & sorcery operates in a specific emotional key. Understanding that key helps you make decisions on the fly.
+Sword & sorcery operates in a specific emotional key.
 
-**The doom-and-decay register.** The world is late. What you see around you - the cities, the courts, the temples, the empires - is the newest and most fragile stratum over something much older and far more dangerous. Civilisations have risen and fallen before the current one was a rumour, and the ruins of those civilisations are everywhere, mostly unmapped, mostly unsafe. Sorcery is one of the things those fallen civilisations left behind: a technology from an older age, inherited without instructions, dangerous precisely because the people using it do not understand what they are touching.
+**The doom-and-decay register.** The world is late. What you see - cities, courts, temples, empires - is the newest and most fragile stratum over something much older and far more dangerous. Civilisations have risen and fallen before the current one was a rumour, and their ruins are everywhere, mostly unmapped, mostly unsafe. Sorcery is one of the things those fallen civilisations left behind: a technology from an older age, dangerous precisely because the people using it do not understand what they are touching.
 
-This is not melancholy for its own sake. The doom-and-decay register produces urgency. If the present is always on borrowed time, then what the PCs do today matters in a way that world-saving heroics never quite manage. They are not improving a stable world. They are scavenging at the edge of a late era, and they know it.
+The doom-and-decay register produces urgency. If the present is always on borrowed time, what the PCs do today matters in a way that world-saving heroics never quite manage. They are scavenging at the edge of a late era, and they know it.
 
-**Cyclic history as setting frame.** Per G7 §1: the world's history is not linear progress but a repeating cycle of rise, over-reach, and collapse. Your players are living in a late period. The ruins they explore are the residue of earlier cycles. This is the adventure engine of the genre, and it gives you an inexhaustible source of scenarios: someone always wants something from the old world, and the old world always wants something in return.
+**Cyclic history as setting frame.** Per G7 §1: the world's history is a repeating cycle of rise, over-reach, and collapse. The ruins the PCs explore are residue of earlier cycles. Someone always wants something from the old world, and the old world always wants something in return. You do not need to know your world's full deep history before play begins. Per G7 §1.2: the edge where your knowledge ends and the genuine unknown begins is where dread lives.
 
-You do not need to know your world's full deep history before play begins. Build what the session requires and leave the rest deliberately vague. Per G7 §1.2: the edge where your knowledge ends and the genuine unknown begins is where dread lives.
+**Anti-heroes with personal codes.** The PCs are not Good People. They are pragmatic outsiders with specific grudges, loyalties, hungers, and lines they will not cross - but the lines are personal, not universal. Conan is a thief and a mercenary who never asked to save the world but will burn down a temple to protect the woman he loves. The anti-hero has a code; the code is just not the one society would prefer.
 
-**Anti-heroes with personal codes.** The PCs are not Good People. They are pragmatic outsiders with specific grudges, loyalties, hungers, and lines they will not cross - but the lines are personal, not universal. Conan is a thief and a mercenary and a king who never asked to save the world but will burn down a temple to protect the woman he loves. Elric is a kinslayer who nevertheless keeps his word to those he has pledged it to. The anti-hero has a code; the code is just not the one society would prefer.
-
-This matters for you as GM because it means your players' characters can make choices you might find uncomfortable, and those choices should be supported by the fiction. A PC who decides to take the money and let the village burn is not playing wrong. A GM who always contrives to punish that choice is running the wrong genre.
+This means your players' characters can make choices you might find uncomfortable, and those choices should be supported by the fiction. A PC who decides to take the money and let the village burn is not playing wrong. A GM who always contrives to punish that choice is running the wrong genre.
 
 ### 1.3 What Sword & Sorcery Is Not
 
@@ -108,13 +106,11 @@ The reckoning is how the short story ends. In sword & sorcery, there are three a
 
 ## 3. GM Principles
 
-These are not guidelines. They are the working assumptions that keep sword & sorcery sword & sorcery at the table. Read them before your first session; they will be the answer to most questions that arise mid-session.
+The working assumptions that keep sword & sorcery sword & sorcery at the table.
 
 ### 3.1 Be Lethal But Fair
 
-Death is in the deck of every session. Per design.md §4.4: "PCs can die." The Major Wounds Table, the matching-dice fumble, the critical hit that ignores armour, the mook that landed an unexpected blow while the PC was distracted - these are not GM cruelties. They are the system doing its job.
-
-Being fair means:
+Death is in the deck of every session. The Major Wounds Table, the matching-dice fumble, the critical hit that ignores armour, the mook that landed an unexpected blow while the PC was distracted - these are not GM cruelties. They are the system doing its job. Being fair means:
 
 - **Telegraph the threat.** A PC who walks into a situation without information about the danger is owed that information before they commit. They should be able to ask questions, spend resources, observe, or send scouts. If they choose to charge in regardless, the consequences are theirs.
 - **Never kill a PC for a die roll alone.** The rules provide multiple layers between a bad roll and death: Deflect the Killing Blow, Stamina rolls, Dying Blows, healing. A PC death should arrive through accumulated bad decisions and misfortune together, not through one unlucky fumble in the first round. If a PC is dying and has PP remaining, remind them that Deflect the Killing Blow exists - let them choose.
@@ -142,17 +138,17 @@ Cleverness in sword & sorcery is frequently the refusal to fight: the bluff, the
 
 ### 3.4 Never Save the Village for Free
 
-Per design.md §1.3: "Heroes can be paid to save the village. They will not do it for free." This is not moral relativism - it is the genre's premise about motivation. The PCs are not heroes by disposition. They are exceptionally capable people with personal agendas, and some of those agendas occasionally align with the villagers' interests.
+Heroes can be paid to save the village. They will not do it for free. The PCs are not heroes by disposition. They are exceptionally capable people with personal agendas, and some of those agendas occasionally align with the villagers' interests.
 
-If a village needs saving, give the PCs a reason. Coin is valid. A personal connection is valid (see P2 §8 for Passions that might apply). Information the PCs need, and the village elder has it, is valid. Glory and Reputation gain is valid. "The right thing to do" as an intrinsic motivation is not a sword & sorcery premise, and building scenarios that depend on it will produce confused sessions.
+If a village needs saving, give the PCs a reason. Coin is valid. A personal connection is valid (see P2 §8 for Passions that might apply). Information the PCs need and the village elder has it, is valid. Glory and Reputation gain is valid. "The right thing to do" as an intrinsic motivation is not a sword & sorcery premise.
 
-This principle does not mean PCs cannot care about people. Conan saves people constantly - because he likes them, because they remind him of someone he lost, because the situation presented itself. The difference is that he would not save the village as an abstract obligation. He would save Natala because she is Natala.
+Conan saves people constantly - because he likes them, because they remind him of someone he lost, because the situation presented itself. The difference is that he would not save the village as an abstract obligation. He would save Natala because she is Natala.
 
 ### 3.5 Honour Personal Stakes
 
-Every PC has Passions. They are not window dressing. They are the game's party-cohesion mechanism, the session-hook engine, and the mechanical structure that makes anti-heroes feel specific rather than generic.
+Every PC has Passions. They are the game's party-cohesion mechanism, the session-hook engine, and the mechanical structure that makes anti-heroes feel specific rather than generic.
 
-**Use them.** Know every PC's Passions before each session. Ask yourself whether any of them are touched by what is about to happen. If none are, either adjust the session slightly to touch one, or accept that this particular hook will engage differently and plan accordingly.
+**Use them.** Know every PC's Passions before each session. If none are touched by what is about to happen, either adjust the session slightly or accept that this hook will engage differently and plan accordingly.
 
 **Respect what PCs care about.** A PC with Loyalty to a mentor should encounter that mentor, occasionally in difficult situations that test the loyalty. A PC with Hatred of the Serpent Throne should find the Serpent Throne's influence reaching into the scenario, sometimes unhelpfully. These are not punishments. They are the fiction acknowledging that these people exist in a world with stakes, and their specific stakes are part of what makes the game worth playing.
 
@@ -162,13 +158,11 @@ Every PC has Passions. They are not window dressing. They are the game's party-c
 
 ## 4. Connecting Characters at Session Zero
 
-A group of strangers with no reason to work together is the weakest starting premise in the genre. Howard, Leiber, and Moorcock all solve the problem differently - Fafhrd and the Grey Mouser have history, shared disasters, and something close to love; Elric always has a companion for at least a while; even solitary Conan usually has a Natala or a Belit beside him during the story in question. The system provides the tools to build this before play begins.
+A group of strangers with no reason to work together is the weakest starting premise in the genre. The system provides the tools to build connection before play begins.
 
 ### 4.1 The Session Zero Practice
 
-Before the first session proper, run a brief session zero. Its purpose is not character creation (which players can do independently) but character connection: giving each PC a reason to be in the same place and some reason to trust the others at least as far as the first job requires.
-
-Do this in two stages.
+Before the first session proper, run a brief session zero. Its purpose is not character creation (which players can do independently) but character connection: giving each PC a reason to be in the same place and some reason to trust the others as far as the first job requires. Do this in two stages.
 
 **Stage one: the shared situation.** Establish a single concrete situation that puts all the PCs in the same place. This does not need to be elaborate. Some options:
 
@@ -187,23 +181,21 @@ The mechanical layer is Passions. When a player establishes a connection to anot
 
 ### 4.2 What This Produces
 
-The session zero connection exercise produces three things the GM can use immediately.
+**Mechanical leverage.** You know which PCs are connected by Passions to which others. When a connection-Passion is engaged - an ally threatened, a Loyalty tested, a Love endangered - the Inspiration mechanic fires. Put connected PCs in situations where the connection is tested.
 
-**Mechanical leverage.** You know which PCs are connected by Passions to which others. When a PC's connection-Passion is engaged (their connected ally is threatened, their Loyalty is tested, their Love is endangered), the Inspiration mechanic fires. You can invoke this deliberately by putting connected PCs in situations where the connection is tested.
+**Niche clarity.** The connection exercise reveals how each player thinks about their character. A player who says "I trust Kethros because I saw him turn down a bribe that would have let him walk away from a fight" has told you something about both characters that a character sheet never would.
 
-**Niche clarity.** The connection exercise reveals how each player is thinking about their character. A player who says "I trust Kethros because I saw him turn down a bribe that would have let him walk away from a fight" has told you something about both characters. This kind of detail does not come out of a character sheet; it comes out of the connection conversation.
-
-**Hook material.** A PC's connection to another PC is material. "The person you said you owe a debt to has just been arrested" is a hook that costs you nothing to construct and is guaranteed to engage at least one player immediately.
+**Hook material.** A PC's connection to another PC is material. "The person you said you owe a debt to has just been arrested" is a hook that costs you nothing and is guaranteed to engage at least one player immediately.
 
 ---
 
 ## 5. Theatre-of-Mind Combat
 
-Warrior \* Sorcerer \* Rogue is designed to be played without a grid. Per design.md §3.1: "No grid, no positional measurements, no flanking geometry." This does not mean combat is abstract. It means combat is described rather than measured, and the GM's job is to make the description carry the weight that geometry carries in a grid-based game.
+Warrior \* Sorcerer \* Rogue is designed to be played without a grid. No grid, no positional measurements, no flanking geometry. Combat is described rather than measured, and the GM's job is to make the description carry the weight that geometry carries in a grid-based game.
 
 ### 5.1 Describing Position in Prose
 
-In a grid game, position is a fact. In theatre-of-mind combat, position is a shared understanding maintained by description. The GM and the players together build a mental picture of the fight, and the picture needs to be specific enough that tactical decisions are meaningful.
+In theatre-of-mind combat, position is a shared understanding maintained by description. The GM and players together build a mental picture of the fight, specific enough that tactical decisions are meaningful.
 
 **Establish the space before combat begins.** Before anyone draws a weapon, describe the room, the courtyard, the alley. Give it one or two specific features: the collapsed pillar on the left side, the narrow passage at the back, the wall of fire burning along the eastern edge. These are not set dressing - they are the tactical resources the PCs can use and the constraints they must navigate.
 
@@ -229,7 +221,7 @@ The four range bands - Near, Normal, Far, Extreme - are defined in P5 §3.7 and 
 
 ### 5.3 Keeping Tactical Pace Without a Grid
 
-The danger in theatre-of-mind combat is that it slows down as players and GM lose track of who is where and arguments about positioning interrupt the pace of the fight. These practices help.
+These practices prevent the tactical pace from slowing as players and GM lose track of position.
 
 **Start each round with a brief reset.** Before statements are declared, give the group a one-sentence summary of the situation: "You are engaged with the two spearmen; Seren is at the far end of the room holding off the captain; Kethros is near the door with a clear line to the sorcerer." One sentence, current, accurate. Players can then declare against a shared picture.
 
@@ -245,7 +237,7 @@ The danger in theatre-of-mind combat is that it slows down as players and GM los
 
 ## 6. Pacing
 
-Pacing is the GM's most powerful tool and most common failure point. It operates at two levels: within a session, and across a campaign.
+Pacing operates at two levels: within a session, and across a campaign.
 
 ### 6.1 Within a Session
 
@@ -261,7 +253,7 @@ A sword & sorcery session has a rhythm. It opens with energy (the hook, the init
 
 ### 6.2 Across a Campaign
 
-A campaign of Warrior \* Sorcerer \* Rogue is an anthology. Per design.md §4.5: "A campaign is a string of stories, like an anthology of Conan tales." The sessions do not need to be connected by a single grand plot. They need recurring elements that give the anthology its coherence.
+A campaign is an anthology - a string of stories, like an anthology of Conan tales. Sessions do not need a single grand plot. They need recurring elements that give the anthology its coherence.
 
 **The recurring antagonist.** Find one antagonist who keeps escaping: a sorcerer with a talent for survival, a criminal broker who is never at the scene, a patron whose agenda the PCs have crossed. This antagonist does not need to appear in every session. They need to cast a shadow over several, and they need to be present for the reckoning when it finally arrives.
 
@@ -269,13 +261,13 @@ A campaign of Warrior \* Sorcerer \* Rogue is an anthology. Per design.md §4.5:
 
 **The debt that grows.** If any PC has a patron compact (P6 §3), that is a campaign-level obligation with increasing weight. If any PC has sworn a vow they have not yet been able to keep, that is a campaign thread. Track these. Let them surface at inconvenient moments. The genre's definition of a campaign arc is not the PCs growing more powerful but the PCs' debts, obligations, and reputations accumulating weight until something has to give.
 
-**Reputation as campaign progress.** Per design.md §4.5: PCs grow in experience and reputation, not raw power. The Reputation mechanic (P2 §9) is the campaign's visible record of what the PCs have done and how the world reads them. Track it. Let it matter. A high-Reputation PC should find that doors open, that enemies have heard of them and plan accordingly, and that some jobs are available to them that a low-Reputation group could never have accessed.
+**Reputation as campaign progress.** PCs grow in experience and reputation, not raw power. The Reputation mechanic (P2 §9) is the campaign's visible record of what the PCs have done. Track it. Let it matter. A high-Reputation PC should find that doors open, that enemies have heard of them and plan accordingly, and that some jobs are available that a low-Reputation group could never have accessed.
 
 ---
 
 ## 7. The Lightweight-vs-Tactical Tension
 
-Every table sits somewhere different on the spectrum between "I want to make meaningful tactical choices" and "I want fast, cinematic resolution with minimal bookkeeping." Warrior \* Sorcerer \* Rogue is designed to serve both simultaneously, but you need to read your table to know how to run it.
+Every table sits somewhere different on the spectrum between meaningful tactical choices and fast, cinematic resolution. Warrior \* Sorcerer \* Rogue is designed to serve both simultaneously, but you need to read your table to know how to run it.
 
 ### 7.1 What the System Gives Both at Once
 
@@ -285,7 +277,7 @@ For players who want **fast, cinematic resolution**: the outcome tiers are simpl
 
 For players who want **tactical depth**: the critical-buy mechanic (P4 §3) creates a continuous decision under pressure - do I spend PP now to push this success to a critical, knowing I may need those PP later? The Fate Point menu has eight distinct options with different costs and different situations where each is optimal. Parry or dodge? Which attack to defend? When to disengage? These are tactical questions with meaningful answers, built into the basic combat structure without adding overhead.
 
-The key insight is that tactical depth lives in player-facing choices, not in resolution complexity. The system is not asking you, as GM, to manage a complicated resolution framework. It is asking the players to make choices about resources, timing, and risk. Your job is to present situations where those choices are real.
+Tactical depth lives in player-facing choices, not in resolution complexity. The system asks the players to make choices about resources, timing, and risk. Your job is to present situations where those choices are real.
 
 ### 7.2 Reading Your Table
 
@@ -303,9 +295,9 @@ Some signals and what to do with them.
 
 ### 7.3 A Note on the Sorcerer at the Table
 
-Sorcerer PCs operate in a distinctive relationship with the PP economy. Every PP they spend on a critical buy or a Fate Point spend is a PP not available for casting. This is intentional (per decisions.md, 2026-05-09: Fate Points share the Power Point pool), and it creates a running decision that distinguishes sorcerer players from warrior and rogue players.
+Every PP a sorcerer spends on a critical buy or a Fate Point spend is a PP not available for casting. This is intentional: it creates a running decision that distinguishes sorcerer players from warrior and rogue players.
 
-Remind sorcerer players of this framing occasionally. A sorcerer who burns their entire PP pool in the first fight and has nothing left for the negotiation scene, or the encounter with the patron, or the sorcerous working they were planning - that is the genre's implicit lesson about the cost of power, expressed mechanically. It is not a punishment. It is the game being faithful to Moorcock's central premise: power always costs more than you expect.
+Remind sorcerer players of this framing occasionally. A sorcerer who burns their entire PP pool in the first fight and has nothing left for the negotiation scene, the encounter with the patron, or the sorcerous working they were planning - that is the genre's implicit lesson about the cost of power, expressed mechanically. It is the game being faithful to Moorcock's central premise: power always costs more than you expect.
 
 ---
 

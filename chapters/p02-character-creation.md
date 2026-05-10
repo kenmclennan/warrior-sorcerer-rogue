@@ -3,9 +3,7 @@
 > _"He had been born on a battlefield, had grown to manhood fighting in a hundred wars, and his life had been one long adventure of peril and wild action."_
 > _- Robert E. Howard_
 
-This chapter walks you through creating a character for Warrior \* Sorcerer \* Rogue. Work through the ten steps in order; each step builds on the last. When you are done you will have a named, skilled, motivated anti-hero ready to bleed for a cause that matters only to them.
-
-The chapter assumes you have read P4 (the percentile mechanic and Power Points) and P3 (how skills work). It references P6 (Sorcery) for the sorcerer-specific step and P7 (Equipment) for starting gear.
+This chapter walks you through creating a character for Warrior \* Sorcerer \* Rogue. Work through the ten steps in order. The chapter assumes you have read P4 (the percentile mechanic and Power Points) and P3 (how skills work). It references P6 (Sorcery) for the sorcerer-specific step and P7 (Equipment) for starting gear.
 
 ---
 
@@ -137,9 +135,7 @@ Add the relevant category bonus to each skill's base chance. Skills granted by C
 
 ## 4. Step 3: Cultural Background
 
-Cultural Background is the civilisation or community that shaped the character's early life. It is distinct from Profession (what they did) and from Passions (what they care about). Culture provides a first language, a handful of cultural skills, and a demeanour that shapes how others read the character before they speak.
-
-Pick one of the following eight backgrounds.
+Cultural Background is the civilisation or community that shaped the character's early life. It provides a first language, a handful of cultural skills, and a demeanour. Pick one of the following eight backgrounds.
 
 ### 4.1 Mediterranean Coastal
 
@@ -219,13 +215,13 @@ Archipelagos, coastal raiders, fisher-kings and sea-traders. A culture navigated
 
 ## 5. Step 4: Profession
 
-Profession is what the character did, not what they are. A character is never simply a Mercenary - they are a person who has spent years as a mercenary, acquiring specific competencies, debts, and enemies. The profession provides a starting skill bundle of twelve skills, each with a percentage added above the base chance.
+Profession is what the character did. The profession provides a starting skill bundle of twelve skills, each with a percentage added above the base chance.
 
 **Heroic profession skill points:** Add 325 points distributed across the twelve profession skills. The maximum starting rating for any skill is 75%. Remaining points after all skills are allocated are lost - they cannot be converted to personal skill points or held over.
 
 **Wealth tier:** Each profession lists a starting wealth tier (see P7 §1.2).
 
-**Profession skill bundles are suggestions, not locks.** A character who was a sailor but learned some medicine from the ship's healer can spend their Personal Skill points (Step 5) to reflect this. The profession bundle covers the baseline.
+**Profession skill bundles are suggestions, not locks.** The profession bundle covers the baseline; Personal Skill points (Step 5) fill out the rest.
 
 ### 5.1 The Fourteen Professions
 
@@ -329,7 +325,7 @@ Born into bondage, or freed from it. Learned skills from whoever owned them - or
 **Reputation start:** 0%
 **Profession skills:** Choose any ten skills of the player's choice (reflecting the specific household, trade, or context of servitude). Add Insight +20% and Stealth +10% as mandatory entries. Total: twelve.
 
-> **Designer note:** The Slave or Freedman profession is deliberately open-ended. The backstory defines the skill spread. A household slave to a sorcerer knows different things than a temple slave, a galley slave, or a slave taken in war. The GM and player should agree on the most dramatically interesting configuration.
+> **Slave or Freedman:** The backstory defines the skill spread - a household slave to a sorcerer knows different things than a galley slave or a slave taken in war. The GM and player should agree on the configuration.
 
 ---
 
@@ -379,33 +375,25 @@ Works for someone who pays to know things other people are hiding. May be attach
 
 **Personal Skill Points = INT x10.**
 
-Spend these freely on any skills in the WSR skill list (P3). You may spread them across many skills or concentrate them. The maximum starting rating for any skill after personal points is 75% (the training cap; scores above this come from in-play experience only).
-
-**Cross-specialty spending:** Each specialty must be purchased separately. If you want Melee Weapon (Sword) and Melee Weapon (Spear), spend points on each independently.
-
-**Cultural and profession bonuses stack:** Personal skill points add on top of what Cultural Background and Profession already provided.
-
-**Purchasing new skill access:** You may spend personal points on any skill, including skills not in your profession bundle, at no additional cost. The first point spent on a skill opens it at its base chance; further points improve it.
+Spend freely on any skills in the WSR skill list (P3). Maximum starting rating for any skill is 75%. Specialties are purchased separately. Personal points add on top of Cultural Background and Profession bonuses. The first point spent on a skill not in the profession bundle opens it at its base chance.
 
 ---
 
 ## 7. Step 6: Talents
 
-At chargen, choose **2 talents** from the four talent tables below. You may not choose both from the same table unless the rules for that table explicitly permit it.
+At chargen, choose **2 talents** from the four talent tables below. You may not choose both from the same table.
 
-**Eligibility constraints:**
+**Eligibility:**
 
-- The **Sorcery Talents** table is available only to characters taking the Scholar of the Dark Arts profession.
-- The **Combat Talents** table requires a martial profession (Tribal Warrior, Mercenary Soldier, Sea-Raider, Charioteer, Gladiator/Arena Fighter) or GM approval. Outcasts and Freedmen from martial backgrounds may qualify.
-- The **Stealth & Finesse** and **Social & Cunning** tables are open to all professions.
+- **Sorcery Talents:** Scholar of the Dark Arts only.
+- **Combat Talents:** martial profession (Tribal Warrior, Mercenary Soldier, Sea-Raider, Charioteer, Gladiator/Arena Fighter) or GM approval.
+- **Stealth & Finesse** and **Social & Cunning:** open to all.
 
-You may choose one Combat talent and one Sorcery talent only if your profession qualifies for both (which it cannot at chargen - Scholar of the Dark Arts is not a martial profession and martial professions are not sorcerer-archetype professions). In practice, each character will choose from two eligible tables.
-
-**Earning additional talents:** Through significant play milestones, the GM may offer an additional talent. The eligibility rules apply at the point of earning, not just at chargen.
+**Earning additional talents:** the GM may offer one through significant play milestones. Eligibility rules apply at that point.
 
 ### 7.1 Combat Talents
 
-Each talent here requires a martial profession or equivalent background. These represent fighting refinements that go beyond ordinary skill: the instinct honed into technique, the trick that wins when nothing else would.
+Requires a martial profession or equivalent background.
 
 ---
 
@@ -433,7 +421,7 @@ Each talent here requires a martial profession or equivalent background. These r
 
 ### 7.2 Sorcery Talents
 
-These talents are available only to Scholar of the Dark Arts characters. They represent refinements in arcane technique that non-sorcerers cannot access - the muscle memory of power, the callus left by repeated contact with the sorcerous current.
+Scholar of the Dark Arts only.
 
 ---
 
@@ -461,7 +449,7 @@ These talents are available only to Scholar of the Dark Arts characters. They re
 
 ### 7.3 Stealth and Finesse Talents
 
-Available to all professions. These talents represent the edge of precision and concealment - the ability to move at the margin where discovery ends and invisibility begins.
+Available to all professions.
 
 ---
 
@@ -489,7 +477,7 @@ Available to all professions. These talents represent the edge of precision and 
 
 ### 7.4 Social and Cunning Talents
 
-Available to all professions. These talents represent social intelligence, strategic thinking, and the arts of manipulation and deception.
+Available to all professions.
 
 ---
 
@@ -517,7 +505,7 @@ Available to all professions. These talents represent social intelligence, strat
 
 ## 8. Step 7: Passions
 
-Passions are the engine of the sword-and-sorcery anti-hero: the grudge that gets them out of bed, the loyalty that keeps them from taking the easiest betrayal, the fear that makes them human. In WSR, Passions are mandatory. Every character has three.
+Passions are mandatory. Every character has three.
 
 ### 8.1 Starting Passions
 
@@ -542,7 +530,7 @@ A Passion can be any of the following:
 | **Vengeance** | "Vengeance against Lord Mekhet for my family's destruction 80%"                     |
 | **Dread**     | "Dread of what I am becoming 60%"                                                   |
 
-**Passions are player-authored.** The type is taken from the list; the specific target and phrasing are yours. "Loyalty to the Crown" and "Loyalty to my captain, Verinax" are both Loyalty passions; they will play very differently.
+**Passions are player-authored.** The type is taken from the list; the specific target and phrasing are yours.
 
 **Guidance on minimum content:** A Passion with no specific target ("Honor in general") is almost always weaker at the table than one with a precise object ("My word to the harbormaster Issa, given at knifepoint, holds"). Precision is a mechanical advantage: the GM can invoke a precise passion more readily, and the Inspiration mechanic rewards the character for engaging with the specificity.
 
@@ -573,9 +561,7 @@ A new Passion gained through events in play starts at 60%, or higher if circumst
 
 ## 9. Step 8: Reputation
 
-Reputation is fame - or notoriety - recognised beyond the character's home ground. It is not the same as Status (see P3 §4 - Status is a skill measuring standing within a specific community). Reputation travels. Status does not.
-
-Reputation is a one-way ratchet: it only increases, never decreases. Old accomplishments are permanent weight. New ones add to the total.
+Reputation is fame - or notoriety - recognised beyond the character's home ground. It is not the same as Status (see P3 §4); Reputation travels. Reputation is a one-way ratchet: it only increases, never decreases.
 
 ### 9.1 Starting Reputation by Profession
 
@@ -598,7 +584,7 @@ Reputation is a one-way ratchet: it only increases, never decreases. Old accompl
 
 **What the character is known for:** Starting Reputation should be tagged with a brief descriptor. A Mercenary Soldier at 10% might be known as "veteran of the Khalash campaign," or "that soldier who refused the order at Mektar." The tag matters - Reputation is not anonymous fame but specific notoriety.
 
-**Reputation from notoriety:** A character can be famous for the wrong reasons. Heinous acts, spectacular failures, and infamous betrayals generate Reputation the same way heroism does. The character may wish otherwise.
+**Reputation from notoriety:** Heinous acts, spectacular failures, and infamous betrayals generate Reputation the same way heroism does.
 
 ### 9.2 Using Reputation
 
@@ -627,7 +613,7 @@ The GM awards Reputation after significant deeds:
 - Extraordinary: defeating a sorcerer or supernatural creature; leading a warband to a decisive victory; committing a famous betrayal.
 - Heroic: single-handedly killing a named demon; overthrowing a temple hierarchy; surviving a widely-witnessed doom.
 
-Reputation is never secret. If you earn it, people talk about it. The minstrel who hears your story will shape what the story becomes.
+Reputation is never secret. If you earn it, people talk about it.
 
 ---
 
@@ -723,7 +709,7 @@ After the profession kit, characters may purchase additional equipment from P7 u
 
 ## 12. Background Questions
 
-Answer these questions in brief. The answers do not require a GM's approval - they are your character's story coming into focus. Each answer gives the GM material to use at the table.
+Answer these questions in brief. Each answer gives the GM material to use at the table.
 
 1. **Who wronged you, and have you settled it yet?** If not: what would settling it require?
 2. **What oath have you sworn that still binds you?** What would it cost you to break it?
@@ -734,7 +720,7 @@ Answer these questions in brief. The answers do not require a GM's approval - th
 7. **What would make you walk away from a job mid-contract?** Has it happened before?
 8. **What does the world get wrong about you?**
 
-Not all questions need long answers. "Settled it when I put a knife in him" is a complete answer to question one.
+Answers need not be long. "Settled it when I put a knife in him" is a complete answer to question one.
 
 ### 12.1 The Significant Possession
 
@@ -752,9 +738,7 @@ The significant possession is not a mechanical item with stats. It is an anchor.
 
 ### 13.1 Name and Physical Description
 
-Choose a name and note two or three physical markers. Ancient-world names from the appropriate cultural background fit the tone; players are encouraged to pick something that sounds right rather than something familiar.
-
-**Distinctive features:** At the player's option, note one or two distinctive features - visible marks of adventure, background, or personality. These are cosmetic unless the player and GM agree otherwise.
+Choose a name and note two or three physical markers. At the player's option, note one or two distinctive features - visible marks of adventure, background, or personality. These are cosmetic unless the player and GM agree otherwise.
 
 > Appropriate distinctive features include: visible scars (location and cause), ritual scarification, tattoos, missing digits from an oath kept too literally, an arcane brand (sorcerers only), a crooked nose, unusual colouring, a distinctive manner of movement or stillness.
 

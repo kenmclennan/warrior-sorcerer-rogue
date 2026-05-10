@@ -2,7 +2,7 @@
 
 > _"The sword caught him beneath the ear and his head left his shoulders before he had time to know that he was dead."_
 
-This appendix contains the critical hit tables referenced by P5 Combat whenever a Critical Success is scored in melee or ranged combat. The tables are organised by damage type and severity band. Every entry describes a wound and its immediate mechanical consequence. The GM reads or paraphrases the result aloud; no grid or miniature is required.
+Critical hit tables for use when a Critical Success is scored in melee or ranged combat (P5). Tables are organised by damage type and severity band. Each entry gives a wound and its immediate mechanical consequence. The GM reads or paraphrases the result aloud.
 
 ---
 
@@ -22,9 +22,7 @@ The weapon's entry in P7 Equipment lists its damage type. When two types apply (
 
 ### 1.2 Severity Bands
 
-Critical results are grouped into five severity bands: A through E. Band A represents the mildest achievable critical; Band E is the most devastating.
-
-The severity band is determined by which matching-dice value triggered the critical:
+Five severity bands, A through E. The severity band is determined by which matching-dice value triggered the critical:
 
 | Matching-Dice Value | Band |
 | ------------------- | ---- |
@@ -34,17 +32,15 @@ The severity band is determined by which matching-dice value triggered the criti
 | 44 or 55            | D    |
 | 66, 77, or 88       | E    |
 
-A character with a low skill rating can only reach Band A or Band B (since only 11 and 22 fall within a skill of 20-29). A master fighter with a skill of 80 or more has access to all five bands, and the likelihood of landing a high matching value increases with every skill point above 60.
+A character with skill 20-29 can only reach Band A or Band B. A fighter with skill 80+ has access to all five bands.
 
 ### 1.3 Selecting the Result Within a Band
 
-Each band contains ten numbered results (1-10). When a critical is confirmed, roll 1d10 to determine which result fires. The GM may substitute the result that best fits the fiction if the dice produce something that makes no sense in context - a result referencing a shield arm when the target has no shield arm, for instance.
-
-Roll lower results tend toward disruption and moderate wounds. Roll higher results within the same band tend toward the more severe end of that band's lethality range. The system has a natural gradient within each band, not just between them.
+Roll 1d10. The GM may substitute the result that best fits the fiction (e.g., a result referencing a shield arm when the target has no shield arm). Lower results trend toward disruption; higher results toward the severe end of the band's lethality range.
 
 ### 1.4 Reading a Result Entry
 
-Each result is written as: **wound description + mechanical effect**. The wound description is narrative - read it or paraphrase it. The mechanical effect is immediate and specific. All effects use the following vocabulary:
+Each result: **wound description + mechanical effect**. Read or paraphrase the description; apply the effect immediately. Vocabulary:
 
 **Round counts.** Conditions last the stated number of full combat rounds. A condition lasting "2 rounds" expires at the start of the affected character's action two rounds after the result is applied.
 
@@ -92,7 +88,7 @@ Band E results can be survived by a PC with PP remaining for a Deflect the Killi
 
 ## 2. Slash Critical Hit Table
 
-Slash criticals carve flesh, open arteries, and sever tendons. They bleed. The higher bands attack limbs, faces, and vital organs with strokes that leave permanent marks.
+Slash criticals carve flesh, open arteries, and sever tendons. Higher bands attack limbs, faces, and vital organs.
 
 **Roll 1d10 to select the result within each band.**
 
@@ -175,7 +171,7 @@ Slash criticals carve flesh, open arteries, and sever tendons. They bleed. The h
 
 ## 3. Pierce Critical Hit Table
 
-Pierce criticals drive past armour into soft tissue. They bleed from deep punctures, damage internal organs, and at the high bands leave wounds that cannot be easily reached and bound.
+Pierce criticals drive past armour into soft tissue. Deep punctures, internal organ damage, and at high bands wounds that cannot be easily reached and bound.
 
 **Roll 1d10 to select the result within each band.**
 
@@ -258,7 +254,7 @@ Pierce criticals drive past armour into soft tissue. They bleed from deep punctu
 
 ## 4. Krush Critical Hit Table
 
-Krush criticals crush bone, rupture organs, and knock targets senseless. They bleed less than Slash wounds but shatter and break more. High-band Krush results destroy joints, cave in skulls, and leave targets who survive them permanently altered.
+Krush criticals crush bone, rupture organs, and knock targets senseless. They bleed less than Slash but shatter and break more. High-band results destroy joints and cave in skulls.
 
 **Roll 1d10 to select the result within each band.**
 
@@ -341,29 +337,19 @@ Krush criticals crush bone, rupture organs, and knock targets senseless. They bl
 
 ## 5. Future Expansion: Burn and Grapple Tables
 
-The following damage types are defined for future expansion. Their tables are not included in this edition. When burning damage or grappling criticals occur, the GM may use the following guidance in lieu of a formal table until a supplementary table is available.
+Burn and Grapple tables are not included in this edition. Interim guidance below.
 
 ### 5.1 Burn (Future Table)
 
-Burn damage arises from sorcerous fire, Greek fire, burning oil, and other heat sources. Burn criticals should emphasise:
+Burn damage arises from sorcerous fire, Greek fire, burning oil, and similar sources.
 
-- Superficial charring and searing at Band A-B (agonising but not immediately incapacitating)
-- Deeper tissue burns and incapacitation at Band C (the heat has penetrated)
-- Permanent disfigurement at Band D (scars that do not heal cleanly without sorcery)
-- Lethal full-body burns and shock at Band E (the body cannot function at this level of damage)
-
-**Interim rule:** until the Burn table is formally drafted, treat Burn criticals as Krush criticals at one band lower (i.e., a Band C Burn is treated as a Band B Krush result). This approximates the blunt-trauma shock of extreme heat.
+**Interim rule:** Treat Burn criticals as Krush criticals at one band lower (Band C Burn = Band B Krush). Approximates the blunt-trauma shock of extreme heat.
 
 ### 5.2 Grapple (Future Table)
 
-Grapple damage arises from unarmed combat, wrestling, creature attacks involving grabs and constriction, and demon-summoning physical contests. Grapple criticals should emphasise:
+Grapple damage arises from unarmed combat, wrestling, creature grabs, and constriction.
 
-- Restraint and positional disruption at Band A-B (the target is off-balance, pinned briefly)
-- Joint locks, strangulation, and throws at Band C (the target is genuinely disadvantaged)
-- Breaking limbs, strangling to unconsciousness at Band D
-- Neck-breaking, spine-snapping, and crushing at Band E
-
-**Interim rule:** until the Grapple table is formally drafted, treat Grapple criticals as Krush criticals. The weapon description references the attacker's grip rather than an implement.
+**Interim rule:** Treat Grapple criticals as Krush criticals. The wound description references the attacker's grip rather than an implement.
 
 ---
 

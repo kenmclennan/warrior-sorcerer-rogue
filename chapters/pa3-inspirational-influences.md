@@ -4,15 +4,11 @@
 >
 > - Robert E. Howard, _The Tower of the Elephant_
 
-This appendix lists works that informed _Warrior \* Sorcerer \* Rogue_'s tone, mood, and texture. It is the "Appendix N" of WSR - what to read, watch, hear, and look at if you want to get the vibe right.
-
-The list is not exhaustive. The genre is rich; pursue what intrigues you. Add what you love.
+The "Appendix N" of WSR - what to read, watch, hear, and look at to get the tone right. The list is not exhaustive; pursue what intrigues you.
 
 ---
 
 ## 1. Films
-
-The visual lexicon of pulp adventure and the pacing of cinematic sword and sorcery:
 
 - **The Seventh Voyage of Sinbad** (1958) - Ray Harryhausen at his prime. The cyclops, the dragon, the singular pleasure of stop-motion menace.
 - **Jason and the Argonauts** (1963) - The skeleton fight is canon. The film establishes the ancient-world flavour the system aims for.
@@ -28,8 +24,6 @@ The visual lexicon of pulp adventure and the pacing of cinematic sword and sorce
 - **John Carter** (2012) - Edgar Rice Burroughs' Mars adapted to film. Establishes the planetary-romance flavour permitted in WSR per the science-fiction allowance.
 
 ## 2. Books
-
-The literary core of the genre:
 
 - **Robert E. Howard** - the centre. Particularly:
   - _The Tower of the Elephant_
@@ -66,19 +60,11 @@ The literary core of the genre:
 
 ## 4. Music
 
-For the table, or for inspiration while writing:
-
 - **The Chronicle of the Black Sword** - Hawkwind. A Moorcock-collaboration concept album drawing on Elric. Plays directly to the Moorcock-doom register.
 - **Conan the Barbarian OST** - Basil Poledouris. The genre's defining soundtrack. _Anvil of Crom_ and _Riders of Doom_ are scene-setters.
 - **Krull OST** - James Horner. Adventurous, cosmic, with a touch of menace.
 
 ## 5. Art
 
-For visual reference and for seeing how others have rendered the genre:
-
 - **Frank Frazetta** - the visual lexicon of sword and sorcery. His Conan covers and Death Dealer paintings define what the genre _looks_ like.
 - **Brom** - particularly his work for the Dark Sun setting. Decadent, brutal, post-apocalyptic; useful reference for the cyclic-history "you have inherited a fallen world" aesthetic in WSR.
-
----
-
-The list is not exhaustive. Add what you love. The genre rewards wide reading, watching, listening, and looking.

@@ -3,11 +3,9 @@
 > _"He had been born on a battlefield, had grown to manhood fighting in a hundred wars, and his life had been one long adventure of peril and wild action."_
 > _- Robert E. Howard_
 
-This appendix contains worked examples for the rules in the Player Book. The examples demonstrate mechanics in action - they are not summaries of the rules. When you want to understand how the percentile roll works, see P4. When you want to see it happen to a specific character in a specific fight, read here.
+Worked examples for the rules in the Player Book. Characters are named throughout; mechanics are called out in parentheses; cross-references use the standard format (e.g., "see P5 §3").
 
-The appendix contains four sections. The first walks through the complete character creation procedure for a City Thief. The second shows a multi-round combat encounter demonstrating Strike Ranks, mooks, a critical hit, and Power Point spends. The third follows a sorcerer through a difficult casting and shows the cost trio in play. The fourth is a short session sketch illustrating the hook-complications-reckoning structure.
-
-Characters are named throughout. Mechanics are called out in parentheses. Cross-references use the standard format: "see P5 §3."
+Four sections: character creation for a City Thief; a multi-round combat demonstrating initiative, mooks, a critical hit, and PP spends; a sorcerer's difficult casting with Corruption; and a session sketch showing the hook-complications-reckoning structure.
 
 ---
 
@@ -491,7 +489,7 @@ Karash is intact. He is 3 Corruption lighter. He smells of copper. He has 8 PP a
 
 ## 4. Session Sketch: The Ledger of Mekhos
 
-_This section offers a half-page sketch of a single session using the hook-complications-reckoning structure from design.md §4.1. It is not a full scenario; it is a framework showing how a session feels from the outside._
+_A single-session sketch using the hook-complications-reckoning structure (design.md §4.1). Not a full scenario - a framework showing how a session feels from the outside._
 
 ---
 

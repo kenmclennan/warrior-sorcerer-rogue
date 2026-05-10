@@ -2,7 +2,7 @@
 
 > _"He was not afraid of men. He was afraid of himself - the thing he might become if his luck ran dry."_
 
-This chapter is the mechanical spine of Warrior \* Sorcerer \* Rogue. Every roll, every contested outcome, every flicker of luck and power finds its resolution here. Read this chapter before any other; every rule in every chapter that follows reaches back to these pages.
+Read this chapter before any other. Every rule in every chapter that follows reaches back to these pages.
 
 ---
 
@@ -12,12 +12,10 @@ When a character attempts something where failure is possible and the outcome ma
 
 ### 1.1 When to Roll
 
-Not every action demands a roll. Two conditions must both be true before the dice come out:
+Two conditions must both be true before the dice come out:
 
-- **The task is neither automatic nor impossible.** A competent character performing a familiar task under no duress does not roll - it simply succeeds. A task that lies beyond any human capacity does not roll - it simply fails. Reserve dice for genuine uncertainty.
-- **Something is at stake.** If success and failure produce the same story, skip the roll. Dice fall when the result changes what happens next.
-
-The GM makes automatic and impossible calls before dice are touched. Challenging the call with a roll is not permitted - if it is ruled impossible, it is impossible.
+- **The task is neither automatic nor impossible.** Reserve dice for genuine uncertainty.
+- **Something is at stake.** If success and failure produce the same story, skip the roll.
 
 ### 1.2 Difficulty
 
@@ -36,23 +34,13 @@ Situational modifiers (unusual equipment, adverse weather, time pressure) stack 
 
 ### 1.3 Characteristic Rolls
 
-When no applicable skill exists, a characteristic roll substitutes. Multiply the relevant characteristic by five and roll against that target.
-
-| Characteristic     | Roll as           |
-| ------------------ | ----------------- |
-| STR, CON, DEX, CHA | Characteristic x5 |
-| INT                | Characteristic x5 |
-| POW (as Luck)      | POW x5            |
-
-Characteristic rolls follow the same outcome tiers as skill rolls. They do not earn experience checkmarks.
+When no applicable skill exists, multiply the relevant characteristic by five and roll against that target. Characteristic rolls follow the same outcome tiers as skill rolls and do not earn experience checkmarks.
 
 ---
 
 ## 2. Outcome Tiers
 
-Every roll produces one of four outcomes. The tier is determined by whether the roll succeeded (fell within the skill or target) and whether both dice showed the same digit - what the rules call a **matching-dice result**.
-
-The matching-dice values are: **11, 22, 33, 44, 55, 66, 77, 88**. The roll 00 (100) is never a matching-dice critical - it is always a fumble.
+Every roll produces one of four outcomes, determined by whether the roll succeeded and whether both dice show the same digit - a **matching-dice result**. Matching-dice values: **11, 22, 33, 44, 55, 66, 77, 88**. The roll 00 (100) is always a fumble, never a critical.
 
 ### 2.1 The Four Outcomes
 
@@ -66,8 +54,6 @@ The matching-dice values are: **11, 22, 33, 44, 55, 66, 77, 88**. The roll 00 (1
 
 ### 2.2 Matching Dice and Skill Level
 
-The matching-dice system scales naturally with ability: a higher-skill character has more matching values within their success range and therefore criticals more often. By the same logic, a lower-skill character has more matching values outside their success range and therefore fumbles more often.
-
 | Skill Rating | Matching Values in Success Range (Criticals) | Matching Values in Failure Range (Fumbles) |
 | ------------ | -------------------------------------------- | ------------------------------------------ |
 | 20           | 11 (1 value)                                 | 22, 33, 44, 55, 66, 77, 88, 00 (8 values)  |
@@ -79,7 +65,7 @@ The matching-dice system scales naturally with ability: a higher-skill character
 | 80           | 11, 22, 33, 44, 55, 66, 77 (7 values)        | 88, 00 (2 values)                          |
 | 90           | 11, 22, 33, 44, 55, 66, 77, 88 (8 values)    | 00 (1 value)                               |
 
-A character with a skill of exactly 90 criticals on any of the eight matching values. A character with a skill of 30 criticals only on rolls of 11 or 22. This is the table in full - no other matching values fall in any skill's success range at these ratings. (At skill 100+, 99 also becomes a critical.)
+At skill 100+, 99 also becomes a critical.
 
 > **Example:** A swordsman with a Sword skill of 55 rolls the dice and gets 33. Both dice match, and 33 is within his skill rating. This is a Critical Success. The same swordsman rolls 66 - both dice match but 66 exceeds his skill of 55. This is a Fumble. He rolls 47 - no matching dice, within his skill. This is an ordinary Success.
 
@@ -91,7 +77,7 @@ A skill reduced to 0% by penalties cannot be attempted.
 
 ### 2.4 Non-Combat Critical Outcomes
 
-Most skills under a matching-dice critical simply produce the best achievable version of success - the lock opens silently and leaves no sign of tampering, the wound is stanched so cleanly that the patient does not even wake. Five skills have specific numerical critical outcomes that supersede this general rule:
+Five skills have specific numerical critical outcomes that supersede the general "best achievable version" rule:
 
 - **First Aid:** Critical = heals 2D3 HP (ordinary success = 1D3 HP).
 - **Medicine:** Critical = heals 2D3 HP or restores 1D3 points to a damaged characteristic (ordinary success = 1D3 HP or stabilises the patient).
@@ -103,9 +89,7 @@ Most skills under a matching-dice critical simply produce the best achievable ve
 
 ## 3. The PP-Buy: Converting a Success to a Critical
 
-A character who rolls an ordinary success may spend Power Points to convert that roll to a Critical Success, as though the dice had shown a matching value.
-
-**How it works:** After rolling an ordinary success, identify the highest matching-dice value that is both (a) less than or equal to the actual roll and (b) within the character's success range. The PP cost to claim that critical is equal to the difference between the actual roll and that matching value.
+After rolling an ordinary success, identify the highest matching-dice value that is both (a) less than or equal to the actual roll and (b) within the character's success range. The PP cost to claim that critical is equal to the difference between the actual roll and that matching value.
 
 > **Example:** A character with a Bow skill of 65 rolls 47. The nearest matching-dice value below 47 that is within his skill is 44. The cost to convert to a Critical is 47 - 44 = 3 Power Points. He pays 3 PP, and his roll is treated as if he had rolled 44 - a Critical Success.
 
@@ -116,7 +100,7 @@ A character who rolls an ordinary success may spend Power Points to convert that
 - The PP cost must be paid in full. If the character does not have enough PP, the conversion is not available.
 - The conversion is declared before the result of the roll is applied. Once the roll's effect has begun to resolve, it is too late to spend PP.
 
-Sorcerer PCs face a sharper version of this choice: every PP spent on a critical buy is a PP unavailable for casting. See P6 §1 for the sorcery cost interaction.
+Sorcerer PCs: every PP spent on a critical buy is a PP unavailable for casting. See P6 §1.
 
 ---
 
@@ -124,11 +108,7 @@ Sorcerer PCs face a sharper version of this choice: every PP spent on a critical
 
 ### 4.1 Opposed Skill Rolls
 
-When two characters directly contest the same action - one striking, one evading; one deceiving, one detecting - both roll against their own skill. The character with the higher degree of success wins. Ties go to the character with the higher die roll, which advantages the more skilled character.
-
-Degree of success, from highest to lowest: Critical Success, Success, Failure, Fumble.
-
-If both characters fumble, the outcome is a mutual disaster - the GM narrates something that is bad for everyone.
+Both characters roll against their own skill. The character with the higher degree of success wins (Critical > Success > Failure > Fumble). Ties go to the higher die roll. If both fumble, the GM narrates a mutual disaster.
 
 ### 4.2 Cooperative Skill Rolls
 
@@ -145,7 +125,7 @@ If the lead succeeds (at any tier), every helper who rolled a success or better 
 
 ### 4.3 Combined Skill Rolls
 
-When a task demands two different skills in sequence - tracking a prey animal while staying quiet, for instance - the GM may call for a combined roll. Use the lower of the two relevant skills as the effective target. If the character succeeds, both skills contributed to the outcome. If they fail on the higher skill alone (they would have succeeded if only the lower skill were used), the result is a partial success: the first element succeeds, the second fails.
+When a task demands two different skills in sequence, the GM may call for a combined roll. Use the lower of the two relevant skills as the effective target. If the character fails on the higher skill alone, the result is a partial success: the first element succeeds, the second fails.
 
 ### 4.4 The Resistance Table
 
@@ -204,9 +184,9 @@ Reference times for common game activities:
 
 ### 6.1 What Power Points Are
 
-Power Points (PP) represent the vital force - the will, the luck, and the sorcerous potential - that a character carries within them. They are not a separate resource for each use: the same pool pays for sorcery, fuels Fate Point spends, enables critical conversions, and activates talent abilities. Every draw on that pool is a draw on the same reservoir.
+Power Points (PP) represent the vital force - the will, the luck, and the sorcerous potential - that a character carries within them. The same pool pays for sorcery, Fate Point spends, critical conversions, and talent abilities.
 
-Starting PP equals the character's POW characteristic. A character with POW 13 starts each day with 13 PP.
+Starting PP equals POW.
 
 ### 6.2 Spending and Recovery
 
@@ -239,9 +219,7 @@ Named antagonists and competent NPC foes have their own PP pools, spent under th
 
 ## 7. Fate Point Spends
 
-A character's Power Points are also their luck and their courage under fire. Spending PP on a Fate Point option is spending something real - the same fuel a sorcerer would pour into a spell, the same reserve a warrior might call on to twist a failure into a critical buy.
-
-The following options are always available to any character with sufficient PP. No additional resource, no tracking beyond the PP pool. Mooks cannot make any Fate Point spend. Named foes can.
+The following options are always available to any character with sufficient PP. Mooks cannot make any Fate Point spend. Named foes can.
 
 ---
 
@@ -297,64 +275,48 @@ The character summons something from deeper than will. Immediately recover 1D6 H
 
 ---
 
-> **Designer's note on the Fate Point menu:** The menu is intentionally lean. The options address the catastrophes that end characters - fumbles, killing blows, incapacitation - without giving players purchase over every outcome. Re-rolling and standing your ground are expensive enough that they demand real choices. Sorcerer PCs will feel the menu most acutely: every PP spent surviving the fight is a PP not available for the spells that make them sorcerers.
->
-> The menu was designed with the Pulp Cthulhu Luck spend structure in mind as an architectural inspiration, but every option and cost is WSR-original, calibrated to the PP pool economy and the matching-dice PP-buy system.
-
----
-
 ## 8. Experience and Improvement
 
 ### 8.1 Earning Experience Checkmarks
 
-When a character uses a skill in a genuinely stressful or dramatically uncertain situation, they earn an experience checkmark on that skill. The checkmark records that this skill was used when it counted. Routine use - practising in a safe courtyard, applying a skill where failure carries no meaningful consequence - does not earn a checkmark.
-
-A character earns at most one checkmark per skill per adventure, regardless of how many times the skill is used. Checkmarks on a skill do not accumulate across adventures; the improvement roll at the end of each adventure clears the slate.
+When a character uses a skill in a genuinely stressful or dramatically uncertain situation, they earn an experience checkmark. Routine use does not. A character earns at most one checkmark per skill per adventure; the improvement roll at the end of each adventure clears the slate.
 
 The GM grants automatic checkmarks (without requiring a successful roll) for sustained immersive exposure: a character who spends a month labouring with master shipwrights earns a checkmark on an appropriate Craft skill without a specific stress test.
 
 ### 8.2 The Improvement Roll
 
-At the end of each adventure, during downtime, the player makes an improvement roll for each skill that earned a checkmark.
+At the end of each adventure, roll D100 and add INT/2 (round up). If the adjusted total exceeds the current skill rating, the skill improves: add 1D6, or take +3 by declaring before rolling (safe option for skills near critical thresholds).
 
-Roll D100. Add INT/2 (round up) to the result as the experience bonus. If the adjusted total **exceeds** the current skill rating, the skill improves. Otherwise, no improvement this adventure.
-
-**Improvement:** add 1D6 to the skill rating. Alternatively, if the player declares before rolling, take +3 instead of rolling 1D6 (the safe option for skills near critical thresholds).
-
-At skill ratings above 75%, improvement becomes harder: the same formula applies, but the experience bonus (INT/2) is increasingly necessary to push the adjusted total past the high base rating. Skills do not improve rapidly once they are already expert-level.
+At skill ratings above 75%, the experience bonus (INT/2) is increasingly necessary to push the adjusted total past the high base rating.
 
 ### 8.3 Skill Training
 
-A character may engage a trainer with a higher skill rating than their own and submit to formal instruction. The training takes time proportional to the current skill level; the trainer then makes a Teach roll.
+A character may engage a trainer with a higher skill rating and submit to formal instruction. The trainer makes a Teach roll:
 
-- **Critical (Teach):** student gains 1D6 to the skill.
-- **Success (Teach):** training proceeds by the standard rules (improvement roll at end of training period).
-- **Failure (Teach):** no improvement this session.
-- **Fumble (Teach):** the student loses 1D3 from the skill - poor instruction has ingrained a bad habit.
+- **Critical:** student gains 1D6 to the skill.
+- **Success:** improvement roll at end of training period.
+- **Failure:** no improvement this session.
+- **Fumble:** student loses 1D3 from the skill.
 
-**Training cap:** training can raise a skill to a maximum of 75%. No amount of formal instruction can push a skill above this threshold. Mastery beyond 75% comes only through in-play experience - from dangerous use in real circumstances, not from the practice yard.
+**Training cap:** 75%. Mastery beyond 75% comes only through in-play experience.
 
 ### 8.4 Research
 
-A character who has access to appropriate materials (a library, a grimoire, an ancient text, a captured sample) may study independently. Research takes the same time as training and requires no teacher, but it costs appropriately in resources and access. A successful improvement roll from research yields 1D6-2 (minimum 0) points of improvement, or take +2 as the safe option.
+Independent study from appropriate materials (a library, a grimoire, an ancient text) takes the same time as training but requires no teacher. A successful improvement roll yields 1D6-2 (minimum 0), or take +2 as the safe option.
 
-Unlike training, research can push a skill above 75%, because immersion in primary sources and original knowledge is not bounded by a trainer's competence ceiling. Sorcerers who mine grimoires for technique may slowly push their sorcery-adjacent knowledge well past what any teacher could provide.
+Unlike training, research can push a skill above 75%: immersion in primary sources is not bounded by a trainer's competence ceiling.
 
 ### 8.5 Characteristic Improvement
 
 Most characteristics do not improve after character creation. The exceptions:
 
-**POW.** A character who wins a POW vs. POW Resistance contest against an opponent whose POW equals or exceeds their own earns an experience checkmark toward POW improvement. When an improvement roll is made for POW, the chance of improvement is:
+**POW.** Winning a POW vs. POW Resistance contest against an opponent whose POW equals or exceeds your own earns a checkmark. Improvement chance: **(Maximum rollable POW + Minimum rollable POW - Current POW) x5**. On success, POW increases by 1D3-1 (0, 1, or 2). Take +1 as the safe option.
 
-**(Maximum rollable POW + Minimum rollable POW - Current POW) x5**
+**STR and CON.** May be raised through training, to a maximum equal to the highest of the character's STR, CON, SIZ values.
 
-On a successful roll: POW increases by 1D3-1 (which may be 0, 1, or 2). Take +1 without rolling by declaring the safe option before rolling. POW does not improve easily, but the contest with another powerful will - mortal or sorcerous - is the crucible for that growth.
+**DEX and CHA.** May be trained to a maximum of 1.5 times the original value.
 
-**STR and CON.** May be raised through training under a demanding physical regimen, to a maximum equal to the highest of the character's three STR, CON, SIZ values. The natural ceiling of the body cannot be exceeded through conditioning.
-
-**DEX and CHA.** May be trained to a maximum of 1.5 times the original characteristic value.
-
-**INT and SIZ.** Do not improve after character creation.
+**INT and SIZ.** Do not improve.
 
 ---
 

@@ -2,45 +2,43 @@
 
 > _"The wilderness harbours things that do not care about your courage, your reputation, or your sword. They are simply hungry, or ancient, or both."_
 
-This chapter provides the GM with stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and elementals. It also includes the Chaotic Features table for generating unique demons and mutated things. Stat blocks are GM-side only; players encounter these creatures through description and dice, not foreknowledge.
+Stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and elementals, plus the Chaotic Features table for generating unique demons and mutated things. Stat blocks are GM-side only; players encounter these creatures through description and dice, not foreknowledge.
 
-Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 §7 (player-side summoning) and G4 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working described in G4.
+Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 §7 (player-side summoning) and G4 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in G4.
 
 ---
 
 ## 1. Creature Entry Format
 
-Each creature entry uses the following structure.
+**Characteristics** - STR, CON, SIZ, INT, POW, DEX, CHA. Typical values listed; for variable creatures, the dice expression is given with average in parentheses.
 
-**Characteristics** - The seven BRP characteristics: STR (Strength), CON (Constitution), SIZ (Size), INT (Intelligence), POW (Power), DEX (Dexterity), CHA (Charisma). Typical values are listed; for variable creatures, the dice expression is given. Average is shown in parentheses.
+**HP** - (CON + SIZ) / 2, round up, unless stated otherwise. 0 HP = dying or dead.
 
-**Hit Points (HP)** - Derived from (CON + SIZ) / 2, round up, unless the entry states otherwise. When a creature reaches 0 HP it is dying or dead per standard rules.
+**Major Wound Threshold** - Half HP (round up). Most creatures do not roll on the Major Wounds Table; the GM narrates the wound's effect from the attack type and creature's nature.
 
-**Major Wound Threshold** - The damage value from a single attack that triggers a Major Wound. Equal to half the creature's HP (round up). Unlike PCs, most creatures do not roll on the Major Wounds Table - the GM narrates the wound's effect based on the attack type and the creature's nature.
+**AV** - Reduces all incoming damage. A single value covers the whole creature.
 
-**Armour Value (AV)** - Reduces all incoming damage. A single value covers the whole creature (no per-location HP, per the locked design decision). Some creatures have tougher natural armour in areas the GM may describe as resisting blows.
+**Move** - Combat movement. Human average Move 8. Flying movement listed separately.
 
-**Move** - Combat movement category. Human average is Move 8. Flying movement is listed separately where applicable.
-
-**Attacks** - Each attack lists skill percentage, damage expression, and damage type (Slash / Pierce / Krush / other) for critical table reference. Special effects on ordinary successes follow from the damage type rules (P5 §7).
+**Attacks** - Skill %, damage expression, damage type (Slash / Pierce / Krush) for critical table reference.
 
 **Special Abilities** - Distinctive powers, immunities, or conditions not covered by standard combat.
 
-**Morale** - A brief note on when the creature breaks, flees, or fights to the death. Mooks among creatures (those used in groups) observe the mook rule (P5 §8): incapacitated at half HP. Named creatures and those listed as "does not flee" are full combatants.
+**Morale** - When the creature breaks, flees, or fights to the death. Mooks (P5 §8) are incapacitated at half HP. Named creatures and those listed as "does not flee" are full combatants.
 
 ### 1.1 Mooks and Creatures
 
-Undead created by sorcery (skeletons, zombies) are inherently mook-scale and use the mook incapacitation rule. Ordinary animals function under standard combat rules - a wolf or lion is not a mook. The GM should exercise judgment: a lone crocodile is a serious threat; a dozen crocodiles in a river are a hazard requiring a different resolution approach.
+Undead created by sorcery (skeletons, zombies) are mook-scale and use the mook incapacitation rule. Ordinary animals use standard combat rules - a wolf or lion is not a mook. A lone crocodile is a serious threat; a dozen crocodiles in a river are a hazard requiring a different resolution approach.
 
 ---
 
 ## 2. Mortal Beasts
 
-The wilderness is hostile. Ancient cities are built against it and still it presses in. The beasts here are natural creatures - large, dangerous, and indifferent to the distinction between adventurers and prey.
+Natural creatures - large, dangerous, indifferent to the distinction between adventurers and prey. The wilderness presses against every city wall.
 
 ### 2.1 Lion
 
-The lion hunts in tall grass, river margins, and the ruins at the edge of inhabited lands. It is not a monster - it is an apex predator that has decided a human is a reasonable meal. Males are territorial and aggressive when cornered; females hunting with a pride are methodical and patient. A lion that has tasted easy prey near a settlement is a serious threat to everyone who travels that road.
+The lion hunts in tall grass, river margins, and the ruins at the edge of inhabited lands - an apex predator that has decided a human is a reasonable meal. Males are territorial and aggressive when cornered; females hunting with a pride are methodical and patient. A lion that has tasted easy prey near a settlement is a serious threat to everyone on that road.
 
 | Characteristic | Value      |
 | -------------- | ---------- |
@@ -90,7 +88,7 @@ Larger and more solitary than a lion, the tiger is a forest and riverside hunter
 
 ### 2.3 Wolf and Wolf Pack
 
-A lone wolf is a moderate threat - watchful, fast, and intelligent enough to probe for weakness before committing. A wolf pack is something else: coordinated, relentless, and capable of cutting an armoured human down through sheer attrition. Wolves in a pack use flanking instinctively. They will bring down a horse. They will run for hours through snow.
+A lone wolf is a moderate threat - watchful, fast, and intelligent enough to probe for weakness before committing. A wolf pack is something else: coordinated, relentless, capable of cutting an armoured human down through sheer attrition, and willing to run for hours through snow to do it.
 
 **Lone Wolf:**
 
@@ -118,7 +116,7 @@ A lone wolf is a moderate threat - watchful, fast, and intelligent enough to pro
 
 ### 2.4 Bear
 
-The bear is not a predator in the usual sense - it does not seek human prey. It is territorial, protective of cubs, and possessed of a temper that can go from placid to lethal in a moment. A bear that decides to fight does so with complete, uninterested ferocity. It does not care about your reputation.
+The bear does not seek human prey. It is territorial, protective of cubs, and possessed of a temper that can go from placid to lethal in a moment. A bear that decides to fight does so with complete, uninterested ferocity.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -168,7 +166,7 @@ The wild boar is low, fast, armoured in tough skin and layers of fat, and posses
 
 ### 2.6 Giant Constrictor Snake
 
-The giant constrictor moves silently through reed beds, river margins, and jungle floors. It does not inject venom - it embraces its prey and squeezes the life from it methodically. The kill is not dramatic; it is slow and quiet, and the snake does not let go. A constrictor large enough to take a human prey is the length of four men laid end to end and as thick as a man's thigh.
+The giant constrictor moves silently through reed beds, river margins, and jungle floors. It does not inject venom - it embraces its prey and squeezes the life from it methodically, and it does not let go. A constrictor large enough to take human prey is the length of four men laid end to end.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -217,7 +215,7 @@ Smaller than the constrictor but faster, the giant venomous snake is found near 
 
 ### 2.8 Giant Spider
 
-In ruins, in cave systems, in ancient crypts and sealed tombs, the giant spider waits. It does not hunt actively - it maintains its web, repairs it, and takes what comes. The webs are strong enough to hold a man; the venom is fast-acting. A spider that has not fed in weeks will risk pursuit.
+In ruins, cave systems, and sealed tombs, the giant spider waits. It does not hunt actively - it maintains its web and takes what comes. A spider that has not fed in weeks will risk pursuit.
 
 | Characteristic | Value      |
 | -------------- | ---------- |
@@ -242,7 +240,7 @@ In ruins, in cave systems, in ancient crypts and sealed tombs, the giant spider 
 
 ### 2.9 Crocodile
 
-The crocodile is ancient. It was old when the first cities were founded. It lies in shallow water or on mud banks, looking like a log until it does not. The bite is not fast - it is an irresistible mechanical clamp, and then the roll, which drowns what the bite did not shred.
+The crocodile was old when the first cities were founded. It lies in shallow water or on mud banks, looking like a log until it does not. The bite is an irresistible mechanical clamp, and then the roll, which drowns what the bite did not shred.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -293,7 +291,7 @@ The great eagle of mountain crags and open plains is not aggressive toward human
 
 ### 2.11 Mammoth
 
-The mammoth survives in the upland steppes and deep wilderness, a relic of the age before the fall of the old empires. It is not aggressive by nature but it is enormous and its perception of threat is not delicate. A herd of mammoths disturbed by an unexpected encounter with humans will panic, and a panicking mammoth does not go around obstacles - it goes through them.
+The mammoth survives in the upland steppes and deep wilderness, a relic of the age before the old empires fell. It is not aggressive by nature, but its perception of threat is not delicate. A herd disturbed by humans will panic, and a panicking mammoth does not go around obstacles - it goes through them.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -346,13 +344,13 @@ Larger than a tiger, heavier-boned, and armed with elongated canine teeth that c
 
 ## 3. Undead
 
-The dead do not always stay dead. In a world layered over older civilisations - tombs sealed in the age before the last cataclysm, curses laid by sorcerers who have been bones for five centuries, burial rites performed wrong or not at all - the undead are not a rare accident. They are a predictable consequence of the deep past.
+In a world layered over older civilisations - tombs sealed before the last cataclysm, curses laid by sorcerers who have been bones for five centuries, burial rites performed wrong or not at all - the undead are not a rare accident. They are a predictable consequence of the deep past.
 
-Undead have no Fate Point access. They do not retreat from wounds the way living creatures do. They must be destroyed or specifically turned aside. Most are immune to fear and pain. They are persistent where a living opponent would have fled or surrendered.
+Undead have no Fate Point access. They must be destroyed or specifically turned aside - they do not retreat from wounds, do not feel fear or pain, and are persistent where a living opponent would have fled or surrendered.
 
 ### 3.1 Skeleton
 
-When a sorcerer or ancient curse animates bare bones, the result is a skeleton: a construction of ossified matter that walks because it has been told to and stops when it is broken. The intelligence animating the frame is minimal or absent. The skeleton guards what it was set to guard. It does not tire. It does not feel the cold.
+A construction of ossified matter that walks because it has been told to and stops when it is broken. The intelligence animating the frame is minimal or absent. It does not tire. It does not feel the cold.
 
 | Characteristic | Value          |
 | -------------- | -------------- |
@@ -379,7 +377,7 @@ When a sorcerer or ancient curse animates bare bones, the result is a skeleton: 
 
 ### 3.2 Zombie
 
-The reanimated corpse is slower and more durable than a skeleton. It has enough residual flesh to absorb damage, and it continues even when it should not. The undead of fresh corpses are worse - recognisable faces, still bleeding from their wounds. The old ones are desiccated, dry, and almost odourless. Both are equally relentless.
+The reanimated corpse is slower and more durable than a skeleton - enough residual flesh to absorb damage, and it continues even when it should not. Fresh corpses are worse: recognisable faces, still bleeding from their wounds. The old ones are desiccated, dry, and almost odourless. Both are equally relentless.
 
 | Characteristic | Value      |
 | -------------- | ---------- |
@@ -406,7 +404,7 @@ The reanimated corpse is slower and more durable than a skeleton. It has enough 
 
 ### 3.3 Mummy
 
-A mummy is not animated by sorcery in the conventional sense - it was preserved and charged with purpose at the moment of interment, and it wakes when that purpose is threatened. The sorcerer-kings and high priests of the old civilisations knew how to do this. Some of their sealed tombs still hold guardians that have been waiting for centuries. The mummy does not know it has been waiting. It only knows the tomb has been violated.
+Not animated by sorcery in the conventional sense - preserved and charged with purpose at interment, it wakes when that purpose is threatened. The sorcerer-kings and high priests of the old civilisations knew how to do this. Some of their sealed tombs still hold guardians that have been waiting for centuries; the mummy does not know it has been waiting.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -434,7 +432,7 @@ A mummy is not animated by sorcery in the conventional sense - it was preserved 
 
 ### 3.4 Ghoul
 
-The ghoul is human-adjacent - it walks upright, it has hands that grasp and tear, and in the right light it might almost pass for what it was. But it feeds on the dead, and the flesh it eats has changed it. Ghouls gather in necropoli, in charnel pits under old cities, in the burial grounds of fallen civilisations. They have a language of sorts - a series of barks and howls - and they remember the places where good bodies can be found.
+The ghoul is human-adjacent: it walks upright, has hands that grasp and tear, and in the right light might almost pass for what it was. It feeds on the dead, and the flesh it eats has changed it. Ghouls gather in necropoli, charnel pits, and the burial grounds of fallen civilisations - they have a language of barks and howls, and they remember where the good bodies are.
 
 | Characteristic | Value      |
 | -------------- | ---------- |
@@ -461,7 +459,7 @@ The ghoul is human-adjacent - it walks upright, it has hands that grasp and tear
 
 ### 3.5 Vampire
 
-The vampire is the most dangerous entry in this section, and one of the most dangerous creatures in the bestiary. It is not simply a predator. It is intelligent, patient, and in the urbane forms, charming enough to have walked openly in society for years before anyone understood what they were. The vampire is ancient, and it remembers things about the current world's predecessors that no living historian does.
+The vampire is not simply a predator. It is intelligent, patient, and in the urbane forms, charming enough to have walked openly in society for years before anyone understood what they were. It is ancient, and it remembers things about the world's predecessors that no living historian does.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -491,7 +489,7 @@ The vampire is the most dangerous entry in this section, and one of the most dan
 
 ### 3.6 Ghost
 
-The ghost is what remains when something terrible happened and did not finish. It is not always malicious - but it is always dangerous, because it is desperate in a way the living cannot quite understand, and it draws on the living to sustain itself. Ghosts appear in ruins, in the sites of massacres, in temples where the rites were interrupted. Some ghosts have been waiting longer than the current civilisation has existed.
+The ghost is what remains when something terrible happened and did not finish. It is not always malicious - but it is desperate in a way the living cannot quite understand, and it draws on the living to sustain itself. Some ghosts have been waiting longer than the current civilisation has existed.
 
 | Characteristic | Value      |
 | -------------- | ---------- |
@@ -547,13 +545,11 @@ The wight is an older form of undead than the mummy - pre-sorcery, pre-city, a w
 
 ## 4. Fantasy Beasts
 
-These creatures belong to the world's mythology as much as its ecology - things that live in the hostile wilderness, in ruins, and in the old places where the deep past is still close to the surface. They are not supernatural in the way undead and demons are, but they are strange. Encountering them is not like encountering a lion.
+Creatures of the world's mythology as much as its ecology - things that live in the hostile wilderness, ruins, and the old places where the deep past is close to the surface. Not supernatural in the way undead and demons are, but strange. Encountering them is not like encountering a lion.
 
 ### 4.1 Dragon
 
-A dragon is a survivor. The great reptiles of the deep past - some of them - did not die when the civilisations built over their territory fell. They retreated to mountain peaks, to sea caves, to ruins where nothing competent was likely to find them. The ones that remain are old, and their lairs contain fragments of every civilisation that has tried to displace them.
-
-A dragon is not a creature to be encountered in a wandering monster roll. It is a campaign event.
+The great reptiles of the deep past did not all die when the civilisations built over their territory fell. They retreated to mountain peaks, sea caves, and ruins where nothing competent was likely to find them. The ones that remain are old, and their lairs contain fragments of every civilisation that tried to displace them. A dragon is a campaign event, not a wandering monster roll.
 
 | Characteristic | Value                                         |
 | -------------- | --------------------------------------------- |
@@ -580,7 +576,7 @@ A dragon is not a creature to be encountered in a wandering monster roll. It is 
 
 ### 4.2 Giant
 
-Giants grow old, and the oldest are the largest. A young giant might stand four metres tall; the ancient hill-giants and sea-giants of old legend measure eight or more. All of them eat flesh when they can get it and have been at war with settled civilisation since settled civilisation began building fences across their old ranges. They are not unintelligent - they speak a language, they hold grudges for decades, and they know the names of the heroes who have wronged them.
+Giants grow old, and the oldest are the largest - a young giant stands four metres; ancient hill-giants and sea-giants measure eight or more. They have been at war with settled civilisation since it began building fences across their old ranges. They are not unintelligent: they speak a language, hold grudges for decades, and know the names of the heroes who have wronged them.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -605,7 +601,7 @@ Giants grow old, and the oldest are the largest. A young giant might stand four 
 
 ### 4.3 Minotaur
 
-The minotaur is a human body with a bull's head, and the merger has done neither half any favours in terms of temperament. They are found in ruins, in ancient labyrinths built for purposes no one now understands, and in the wild places at the edge of the known world where old things go to avoid cities. Some minotaurs speak the language of whatever civilisation built them (or built the ruins they now occupy). Most do not.
+A human body with a bull's head, and the merger has done neither half any favours in temperament. Found in ruins, ancient labyrinths, and the wild places where old things go to avoid cities. Some minotaurs speak the language of whatever civilisation built them; most do not.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -630,7 +626,7 @@ The minotaur is a human body with a bull's head, and the merger has done neither
 
 ### 4.4 Werewolf
 
-A werewolf is a human who has been changed. The change was done to them (a curse, a bite, an old bargain with something) and they may or may not have come to terms with it. In human form they are indistinguishable from anyone else. In hybrid or wolf form they are a weapon that was once a person. The moon does not always trigger the change; strong emotion does. Fear, rage, grief. The creature that surfaces when the change comes is not the person. It has their memories but not their restraint.
+A werewolf is a human who has been changed - by a curse, a bite, an old bargain - and may or may not have come to terms with it. In human form, indistinguishable from anyone else. In hybrid or wolf form, a weapon that was once a person. The change is not triggered by the moon; strong emotion does it. Fear, rage, grief. The creature that surfaces has their memories but not their restraint.
 
 Three forms:
 
@@ -666,7 +662,7 @@ Three forms:
 
 ### 4.5 Troll
 
-The troll is nocturnal and lives in wild places - mountain passes, forest depths, coastal cliffs. It is large, stupid in conversation but cunning in the hunt, and possessed of a regenerative capacity that makes simply wounding it a poor strategy. Fire stops the regeneration. Sunlight reverses it. The trollwife - the female of the species - is smaller, smarter, and significantly more dangerous.
+The troll is nocturnal, lives in wild places, and is large, stupid in conversation but cunning in the hunt. Simply wounding it is a poor strategy: fire stops its regeneration, sunlight reverses it. The trollwife is smaller, smarter, and significantly more dangerous.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -694,7 +690,7 @@ The troll is nocturnal and lives in wild places - mountain passes, forest depths
 
 ### 4.6 Centaur (Steppe Raider)
 
-The centaur of the ancient-world steppe is not the pastoral philosopher of legend. That legend was written by people who encountered them at long range, from behind walls, when they were not hungry. The centaur bands that raid lowland settlements are aggressive cavalry, gifted archers, and willing to follow a strong leader into coordinated raids that leave nothing standing. Some serve as mercenaries for city powers who want a unit that will cross difficult terrain without complaint.
+The centaur of the ancient-world steppe is not the pastoral philosopher of legend. The centaur bands that raid lowland settlements are aggressive cavalry, gifted archers, and willing to follow a strong leader into coordinated raids that leave nothing standing. Some serve as mercenaries for city powers who need a unit that will cross difficult terrain without complaint.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -748,15 +744,13 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
 
 ## 5. Demons
 
-Demons are entities of the outer dark - not from this world, not concerned with its values, and fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
+Demons are entities of the outer dark - not from this world, not concerned with its values, fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
 
-For the GM's full demon design tools, patron relationships, and the mechanics of what happens after a binding breaks, see G4. The entries here provide the stat blocks and core abilities needed to run a demon encounter.
-
-Demons interact with the sorcery system in P6 §7. When a demon appears in your game, it should feel like a significant event - not a random encounter, not a speed bump.
+For GM demon design tools, patron relationships, and what happens when a binding breaks, see G4. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with P6 §7. When a demon appears, it should feel like a significant event.
 
 ### 5.1 Lesser Demon
 
-Lesser demons are the grunts of the outer dark. They are bullied and tormented in the infernal realms, which is why they are willing to appear when called - any time in this world is better than what they were doing. They prefer to avoid direct combat, using their abilities and bargaining positions to achieve what they want. A lesser demon that has been bound behaves very differently from one encountered loose.
+Lesser demons are the grunts of the outer dark, bullied and tormented in the infernal realms - any time in this world is better than what they were doing. They prefer to avoid direct combat, using their abilities and bargaining positions to achieve what they want. A bound lesser demon behaves very differently from one encountered loose.
 
 _The thing crouched at the edge of the circle's light, gargoyle-thin, its wings folded like a question. It was watching him with the patience of something that had nothing to lose._
 
@@ -784,9 +778,9 @@ _The thing crouched at the edge of the circle's light, gargoyle-thin, its wings 
 
 ### 5.2 Greater Demon
 
-Greater demons do not appear for small reasons. They are called because a sorcerer needs something extraordinary, and what they offer in return is proportionally costly. Each greater demon is a named, individual entity - not one of many, but specifically itself, with its own history, preferences, and grievances. A greater demon that the sorcerer has encountered before remembers, and it factors the previous interaction into its opening position.
+Greater demons do not appear for small reasons. Each is a named, individual entity - specifically itself, with its own history, preferences, and grievances. A greater demon that has encountered the sorcerer before remembers, and factors the previous interaction into its opening position.
 
-Greater demons have CHA fixed at 3 (bestial, horrifying to behold, communicates in sensation and compulsion) or 21 (supernaturally charismatic, charming in manner, the most dangerous kind). This is not rolled; the GM decides when designing the demon.
+CHA is fixed at 3 (bestial, horrifying, communicates in sensation and compulsion) or 21 (supernaturally charismatic, the most dangerous kind). The GM decides which when designing the demon.
 
 _It came through the smoke of the summoning circle smelling of old metal and unfamiliar heat. It was twelve feet tall when it chose to be and it wore the face of a man who had been dead for forty years. It said good evening to him by name, and he knew then that the research he had done had not been nearly enough._
 
@@ -817,8 +811,6 @@ _It came through the smoke of the summoning circle smelling of old metal and unf
 - **Morale:** Does not retreat while bound (the binding prevents it). Unbound, it retreats only if its destruction seems probable - which takes considerable firepower. It does not forget. It comes back.
 
 ### 5.3 Yog-Hath the Devourer (Sample Named Greater Demon)
-
-This entry illustrates a fully-designed greater demon suitable for use as a campaign villain or the subject of a summoning gone wrong.
 
 _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckoning - it agreed to destroy the city's enemies in exchange for a single night unbound at the war's end. The sorcerer who made the deal is why there is no temple district anymore. The city rebuilt around the gap. The scholars do not discuss what happened to the sorcerer._
 
@@ -853,17 +845,15 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
 
 ## 6. Elementals
 
-An elemental is not a demon. It does not negotiate in the way a demon does, it does not have a personal agenda against you specifically, and it has no interest in binding. It is a vast and focused intelligence that is also, essentially, a large portion of a primal element made semi-coherent. This does not make it safe.
+An elemental is not a demon. It does not negotiate, does not have a personal agenda, and has no interest in binding. It is a vast and focused intelligence that is also, essentially, a large portion of a primal element made semi-coherent. This does not make it safe.
 
-Elementals are summoned via the Summon Elemental working (G4). Each is a distinct entity - a particular surge of fire or column of earth - rather than a type of creature with interchangeable members. The elemental that was summoned last year in this same circle is gone; the elemental called tonight is new. It does not remember being called before.
+Elementals are summoned via the Summon Elemental working (G4). Each is a distinct entity - a particular surge of fire, a column of earth - not a type of creature with interchangeable members. The elemental called tonight is new; it does not remember being called before. Elementals do not value human life, property, or time. An elemental given direction by a sorcerer will pursue that direction; when it has completed the task or the binding expires, anything in its way back to its element is not its concern.
 
-What elementals have in common is that they are alien. They do not value human life, human property, or human time. They do not sufficiently value your continued existence. An elemental that has been given direction by a sorcerer will pursue that direction; when it has completed the task or the binding expires, it will return to its element, and anything in its way when it does so is not its concern.
-
-The "sylph," "gnome," "salamander," "undine" labels are names given by scholars who needed to call them something. The elementals themselves neither know nor care about these names.
+The "sylph," "gnome," "salamander," "undine" labels are names given by scholars who needed to call them something. The elementals neither know nor care.
 
 ### 6.1 Air Elemental
 
-A column of concentrated wind, a spiralling compression of atmosphere that has been given temporary coherence. It has no fixed shape - it is visible only by its effects: the dust lifted, the hair driven horizontal, the unsettling sound of displacement. Direct sunlight and calm air do not trouble it; enclosed spaces do.
+A column of concentrated wind with no fixed shape - visible only by its effects: the dust lifted, the hair driven horizontal, the unsettling sound of displacement. Enclosed spaces trouble it; open sky does not.
 
 | Characteristic | Value      |
 | -------------- | ---------- |
@@ -890,7 +880,7 @@ A column of concentrated wind, a spiralling compression of atmosphere that has b
 
 ### 6.2 Earth Elemental
 
-A moving mass of stone and soil - not a creature in stone, not a golem, but stone made briefly aware and given direction. It is slow. It is nearly indestructible by conventional means. It travels through stone and packed earth as if through open water, and anything in its direct path is beneath its notice.
+Stone made briefly aware and given direction - not a creature in stone, not a golem. Slow, nearly indestructible by conventional means, travelling through stone and packed earth as if through open water. Anything in its direct path is beneath its notice.
 
 | Characteristic | Value       |
 | -------------- | ----------- |
@@ -917,7 +907,7 @@ A moving mass of stone and soil - not a creature in stone, not a golem, but ston
 
 ### 6.3 Fire Elemental
 
-A crawling pillar of coherent flame, roughly man-shaped but with a man's worst ideas about proportion. Heat radiates from it in waves; the ground it stands on is scorched; wooden floors and thatch are immediate problems. It moves quickly and it does not need a reason to burn things - burning is simply what it is. A fire elemental directed at a target is a problem for everyone standing between here and there.
+A crawling pillar of coherent flame, roughly man-shaped. Heat radiates from it in waves; wooden floors and thatch are immediate problems. A fire elemental directed at a target is a problem for everyone standing between here and there.
 
 | Characteristic | Value      |
 | -------------- | ---------- |
@@ -944,7 +934,7 @@ A crawling pillar of coherent flame, roughly man-shaped but with a man's worst i
 
 ### 6.4 Water Elemental
 
-A surge of coherent water, maintaining its shape by will or binding. In open water - a river, a harbour, a flooded cellar - a water elemental is nearly unstoppable. Out of water, it is still dangerous but its mobility is reduced. It does not breathe. It fills spaces. Drowning is a significant risk in any encounter with a water elemental in an enclosed space.
+A surge of coherent water, nearly unstoppable in open water - a river, a harbour, a flooded cellar - and still dangerous out of it. It does not breathe. It fills spaces. Drowning is a significant risk in any encounter in an enclosed space.
 
 | Characteristic | Value      |
 | -------------- | ---------- |
@@ -973,9 +963,7 @@ A surge of coherent water, maintaining its shape by will or binding. In open wat
 
 ## 7. The Chaotic Features Table
 
-Demons are not standardised. Two lesser demons summoned by different sorcerers are not interchangeable - they are individuals shaped by their time in the infernal realms, their particular natures, and whatever they have absorbed from previous bindings or encounters. This table provides a set of physical mutations and unique abilities for making each demon (or chaotic creature) feel distinct.
-
-Roll or select features when creating a demon, mutated creature, or chaotic antagonist. Features may also be applied to any creature encountered in a place of deep sorcerous corruption - the aftermath of a demon's long presence, a ruined city built over a chaos-gate, a battlefield where too much blood was spilled.
+Demons are not standardised - two lesser demons are individuals shaped by their time in the infernal realms, their particular natures, and whatever they have absorbed from previous bindings. Roll or select features when creating a demon, mutated creature, or chaotic antagonist. Features may also apply to creatures encountered in places of deep sorcerous corruption: the aftermath of a demon's long presence, a ruined city built over a chaos-gate, a battlefield where too much blood was spilled.
 
 Roll 1D20 for one feature; roll twice (or three times) for a more monstrous creature. Reroll results that contradict the creature's basic nature.
 

@@ -2,7 +2,7 @@
 
 > _"He needed a sword, a full skin of wine, and a horse fast enough to leave this city behind. The sword he could steal. The wine he could earn. The horse was the problem."_
 
-This chapter is the gear reference for Warrior \* Sorcerer \* Rogue. It covers currency, weapons, armour, shields, mundane supplies, mounts, vehicles, watercraft, hirelings, encumbrance, and the brief rules for equipment touched by sorcery. All gear reflects an ancient-world register: bronze and iron age, Mediterranean, Levantine, Mesopotamian, Persian, and Steppe cultures. Nothing here is from a later age.
+Gear reference for Warrior \* Sorcerer \* Rogue. Currency, weapons, armour, shields, mundane supplies, mounts, vehicles, watercraft, hirelings, encumbrance, and sorcery-adjacent equipment rules. All gear reflects an ancient-world register: bronze and iron age, Mediterranean, Levantine, Mesopotamian, Persian, and Steppe cultures.
 
 ---
 
@@ -23,7 +23,7 @@ WSR uses a four-tier coin system. The names given here are generic; any GM can s
 
 ### 1.2 Economy Primer
 
-Five wealth tiers describe a character's standing and roughly translate to coin on hand. They are not a hard cap on spending - a Destitute character can still find a patron, win a bet, or steal - but they anchor starting equipment and the baseline of what ordinary life costs.
+Five wealth tiers describe a character's standing and roughly translate to coin on hand. Not a hard cap - a Destitute character can still find a patron, win a bet, or steal - but they anchor starting equipment and the baseline of what ordinary life costs.
 
 | Wealth Tier | Rough Holdings     | Typical Person                                  |
 | ----------- | ------------------ | ----------------------------------------------- |
@@ -288,7 +288,7 @@ Leather armour is repaired with a Craft (Leather) roll and appropriate materials
 
 ## 4. Shields
 
-Shields are both defensive tools and improvised weapons. They provide Armour Points when used to parry, and a parry bonus that improves the effectiveness of the Shield skill.
+Shields are both defensive tools and weapons. They provide Armour Points when used to parry, and a parry bonus to the Shield skill.
 
 ### 4.1 Shield Table
 
@@ -314,11 +314,11 @@ Shields are both defensive tools and improvised weapons. They provide Armour Poi
 
 ## 5. Material Tiers
 
-The standard for all weapon and armour prices in this chapter is **bronze**. Bronze is the default ancient-world metal. Two other material tiers exist: copper (inferior) and iron (superior but dangerous for sorcerers).
+The standard for all weapon and armour prices is **bronze**. Two other tiers exist: copper (inferior) and iron (superior but dangerous for sorcerers).
 
 ### 5.1 Copper
 
-Copper weapons and armour predate the bronze age and appear in especially primitive cultures or as cheap trade goods.
+Copper predates bronze; found in primitive cultures or as cheap trade goods.
 
 - **Weapons:** Damage die reduced by one step (1D8 becomes 1D6; 1D6 becomes 1D4; 1D4 becomes 1D3). No other change.
 - **Armour:** AP reduced by 1 (minimum 1).
@@ -331,12 +331,12 @@ The standard. All stats in §§2-4 assume bronze construction.
 
 ### 5.3 Iron
 
-Iron is rarer, harder, and sharper than bronze. It is also inert to sorcery in a way that bronze is not - a fact every sorcerer learns to respect.
+Iron is rarer, harder, and sharper than bronze, and inert to sorcery in a way that bronze is not.
 
 - **Weapons:** HP increased by half (round up). Iron weapons hold an edge better and break less easily.
 - **Armour:** AP increased by 1. Iron armour is markedly superior to its bronze equivalent.
 - **Durability:** HP increased by half (round up).
-- **Cost:** Iron weapons cost 5-10 times their bronze equivalent; iron armour costs 10-20 times. Iron is rare and expensive. Most warriors who own iron have taken it from a fallen enemy or paid dearly.
+- **Cost:** Iron weapons cost 5-10 times their bronze equivalent; iron armour 10-20 times. Most warriors who own iron have taken it from a fallen enemy or paid dearly.
 
 **Enchanted iron:** An iron item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in G5.
 
@@ -507,9 +507,9 @@ The prices below reflect standard market animals. War-trained animals - horses a
 | Camel                | 2-4 Staters   | 150 kg         | Normal    | Desert travel; can go days without water; difficult temperament |
 | Elephant, War        | 20-50 Staters | 500 kg         | Normal    | Rare; requires specialist handler; formidable in battle         |
 
-**War Horse:** A war horse is not merely a fast horse. It is trained to carry an armoured rider, to move toward screaming men and clashing metal, and to respond to knee pressure when the rider's hands are occupied with weapons. Untrained horses near combat must make a CON roll (Difficulty: Easy for loud noise, Average for combat nearby, Difficult for close melee) or bolt.
+**War Horse:** Trained to carry an armoured rider into combat and respond to knee pressure when the rider's hands are occupied. Untrained horses near combat must make a CON roll (Easy for loud noise, Average for combat nearby, Difficult for close melee) or bolt.
 
-**War Elephant:** An elephant in battle is an engine of destruction that tramples, gores, and causes enemy horses and men to flee from sheer panic. Enemy troops (and horses) must make a Difficult Luck or Morale roll when first confronted with war elephants. Routing an elephant causes it to turn and trample its own side. Maintaining a war elephant requires dedicated handlers, enormous quantities of food, and a specialist called a mahout (use as a skilled Hireling; see §10).
+**War Elephant:** Tramples, gores, and routs enemy troops and horses. Enemy troops (and horses) must make a Difficult Luck or Morale roll when first confronted with war elephants. A routing elephant turns on its own side. Requires dedicated handlers and a mahout specialist (see §10).
 
 **Move** descriptions: Very Slow = roughly half walking pace; Slow = walking pace; Normal = horse-and-rider pace at a sustainable canter; Fast = cavalry charge pace, sustainable for short distances only.
 
@@ -543,7 +543,7 @@ The prices below reflect standard market animals. War-trained animals - horses a
 | Chariot, Heavy      | 5 Staters   | 2-4 horses       | Driver + up to 3 warriors       | Normal    | Bronze-rimmed wheels; trampling       |
 | Chariot, Command    | 6+ Staters  | 6 horses         | Driver + war leader + bodyguard | Slow      | Mobile command platform               |
 
-**Chariots** are among the most powerful mobile weapon systems of the ancient world. A chariot moving at full speed and driving through enemy infantry is a terrifying event. Light chariots are fast enough to outpace foot soldiers; heavy chariots with bladed or bronze-rimmed wheels deal trampling damage to anything they ride over. The Drive skill governs chariot handling. A combat manoeuvre with a chariot uses the Drive skill against a Difficulty set by the terrain and the speed.
+**Chariots:** Light chariots outpace foot soldiers; heavy chariots with bladed or bronze-rimmed wheels deal trampling damage. The Drive skill governs chariot handling and combat manoeuvres (Difficulty set by terrain and speed).
 
 **Chariot modifications** (additional cost):
 
@@ -612,7 +612,7 @@ These rates assume favourable conditions. The GM may adjust for storms, head win
 
 ### 10.1 Common Services and Hirelings
 
-Hirelings are contracted by the day or week. Equipment is typically not included unless otherwise negotiated - a hired mercenary provides their own weapons and armour, but the employer is expected to provide food and lodgings.
+Hirelings are contracted by the day or week. Equipment not included unless negotiated - a hired mercenary provides their own weapons and armour; the employer provides food and lodgings.
 
 | Service                                    | Rate             | Notes                                     |
 | ------------------------------------------ | ---------------- | ----------------------------------------- |
@@ -639,7 +639,7 @@ Hirelings are contracted by the day or week. Equipment is typically not included
 | Decent Inn | 4 Drams/night   | 3-5 Drams  | 3 Drams              |
 | Good Inn   | 10 Drams/night  | 6-10 Drams | 6 Drams              |
 
-A flophouse is a shared floor and a questionable blanket. A decent inn has private rooms. A good inn has private rooms with proper furniture, a separate stable yard, and a cook who knows what they are doing.
+A flophouse is a shared floor and a questionable blanket. A decent inn has private rooms. A good inn has private rooms, a separate stable yard, and a proper cook.
 
 ---
 
@@ -647,9 +647,7 @@ A flophouse is a shared floor and a questionable blanket. A decent inn has priva
 
 ### 11.1 The ENC System
 
-Encumbrance (ENC) measures the physical burden a character carries. It matters for two things: determining when a character is overloaded, and (for sorcerer characters) calculating the iron-vs-sorcery penalty (see §12.1).
-
-WSR uses a deliberately simple ENC system. Significant items count as 1 ENC or more. Very small items (a knife, a vial of ink, a pouch of coins) individually count as negligible but accumulate.
+Encumbrance (ENC) measures the physical burden a character carries. It governs overload penalties and (for sorcerers) the iron-vs-sorcery calculation (see §12.1). Significant items count as 1 ENC or more; very small items individually count as negligible but accumulate.
 
 **ENC guidelines:**
 
@@ -685,23 +683,19 @@ Characters with both high STR and high SIZ carry more naturally. At the GM's opt
 
 ### 12.1 Iron Disrupts Sorcery
 
-Unenchanted iron is inimical to the sorcerous current. A sorcerer who carries unenchanted iron feels its interference in every working - a subtle wrongness in the flow of power, a gap where the spell should lock into place.
+Unenchanted iron is inimical to the sorcerous current.
 
 **Rule:** Each 1 ENC of unenchanted iron a sorcerer carries imposes a **-5% penalty to all sorcery skill rolls** and sorcery-related characteristic rolls.
 
 **What counts:** Iron weapons, iron armour, iron manacles, iron chains - any significant iron item. Small iron fittings (buckles, rivets) on primarily leather or bronze items do not count unless the GM rules the iron proportion is significant.
 
-**What does not count:** Bronze, copper, leather, wood, stone, bone, or other non-iron materials carry no penalty. Enchanted iron (see §5.3) is harmonised with the sorcerous current and does not impose the penalty.
+**What does not count:** Bronze, copper, leather, wood, stone, bone, or other non-iron materials. Enchanted iron (see §5.3) does not impose the penalty.
 
-**Practical effect:** A sorcerer carrying an iron sword (ENC 1), iron armour (ENC 9), and an iron helm (ENC 1) is carrying 11 ENC of iron. Their sorcery rolls suffer -55%. Most sorcerers travel in bronze or leather, keep iron at arm's length, and leave the heavy martial kit to their companions.
-
-This rule is a deliberate design element. Sorcerer PCs have a visible reason to travel light, favour bronze, and depend on others for physical protection. Warriors and rogues face no such restriction. The distinction between archetypes is reflected in what they wear.
+**Practical effect:** A sorcerer carrying an iron sword (ENC 1), iron armour (ENC 9), and an iron helm (ENC 1) carries 11 ENC of iron - sorcery rolls suffer -55%. Most sorcerers travel in bronze or leather and leave the heavy martial kit to their companions.
 
 ### 12.2 Artifact Basics
 
-Equipment can be permanently enhanced through sorcery. Such items are called **artifacts**. They are rare - creation requires a sorcerer to sacrifice permanent POW - and they are a genuine mark of power and danger.
-
-An artifact is any item into which a sorcerer has bound one or more sorcery spells. The item holds its own PP reservoir, separate from the creator's own PP pool. That reservoir powers the bound spells.
+**Artifacts** are items into which a sorcerer has bound one or more sorcery spells. Creation requires permanent POW sacrifice. The item holds its own PP reservoir, separate from the creator's pool.
 
 **Key properties:**
 
@@ -711,7 +705,7 @@ An artifact is any item into which a sorcerer has bound one or more sorcery spel
 - Recharging: the creator (or any sorcerer who has attuned to the item) may transfer 1 PP per combat round from their own body to the artifact's reservoir. This is a concentration action.
 - The artifact's HP equals its SIZ characteristic. If destroyed, any POW invested in it is permanently lost.
 
-The full rules for designing and creating artifacts - including the ritual requirements, the costs, and the dangers of artifacts falling into the wrong hands - are in G5. This section covers only the essentials a player needs to know when acquiring or using an artifact.
+Full creation rules - ritual requirements, costs, and dangers - are in G5.
 
 **Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §5.3). The enchantment is part of the binding process and is noted when the artifact is described.
 
