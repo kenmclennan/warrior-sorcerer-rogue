@@ -1,0 +1,729 @@
+# P7. Equipment
+
+> *"He needed a sword, a full skin of wine, and a horse fast enough to leave this city behind. The sword he could steal. The wine he could earn. The horse was the problem."*
+
+This chapter is the gear reference for Warrior \* Sorcerer \* Rogue. It covers currency, weapons, armour, shields, mundane supplies, mounts, vehicles, watercraft, hirelings, encumbrance, and the brief rules for equipment touched by sorcery. All gear reflects an ancient-world register: bronze and iron age, Mediterranean, Levantine, Mesopotamian, Persian, and Steppe cultures. Nothing here is from a later age.
+
+---
+
+## 1. Currency
+
+### 1.1 Coins
+
+WSR uses a four-tier coin system. The names given here are generic; any GM can substitute the coinage of a specific culture in play.
+
+| Coin | Common Name | Metal | Exchange |
+|------|-------------|-------|----------|
+| Shard | copper chip | copper | 20 per Dram |
+| Dram | copper coin | copper/bronze alloy | 1/20 of a Stater |
+| Stater | silver coin | silver | 20 Drams / 1/20 of a Sun |
+| Sun | gold coin | gold | 20 Staters |
+
+**Reading prices:** Most gear in this chapter is priced in Drams. Weapons and armour tend to range in Staters. A Sun is a merchant's transaction or a year's income for a labourer.
+
+### 1.2 Economy Primer
+
+Five wealth tiers describe a character's standing and roughly translate to coin on hand. They are not a hard cap on spending - a Destitute character can still find a patron, win a bet, or steal - but they anchor starting equipment and the baseline of what ordinary life costs.
+
+| Wealth Tier | Rough Holdings | Typical Person |
+|-------------|---------------|----------------|
+| Destitute | Less than 10 Drams | Beggar, slave, prisoner |
+| Poor | 10-100 Drams | Labourer, apprentice, pilgrim |
+| Average | 1-10 Staters | Craftsman, mercenary, merchant guard |
+| Affluent | 10-100 Staters | Caravan master, minor official, skilled soldier |
+| Wealthy | 1+ Suns | Merchant, city official, landed noble |
+
+**Daily costs of living:** A plain meal and a place to sleep costs roughly 1-2 Drams per day at Poor conditions. An average inn runs 2-5 Drams for bed and meal. A good inn runs 1-2 Staters per night.
+
+### 1.3 Starting Equipment
+
+At character creation, starting equipment is purchased using the character's starting Wealth tier (defined in P2 §6). The GM may also allocate specific items thematically - a sea-raider starts with appropriate kit even before any coin is counted.
+
+---
+
+## 2. Weapons
+
+### 2.1 Reading the Weapon Tables
+
+Each weapon entry lists:
+
+- **Damage:** Dice rolled, plus damage modifier (dm) where applicable. The dm is derived from STR and SIZ (see P2 §3.1).
+- **SR (Strike Rank):** The weapon's position in the initiative sequence. Lower SR acts sooner.
+- **Hands:** 1H (one-handed), 2H (two-handed), or 1H/2H (can be used either way).
+- **ENC:** Encumbrance. See §11 for the encumbrance rules.
+- **HP:** The weapon's own hit points (for the purposes of parrying and weapon destruction).
+- **Parry:** Whether the weapon can be used to parry an incoming blow.
+- **STR/DEX:** Minimum STR and DEX required to use the weapon effectively. A character below these values takes a -20% penalty.
+- **Special:** The damage type used to look up critical results (see PA1). Also notes unusual rules (Entangle, etc.).
+- **Cost:** Expressed in the coin tier most appropriate to the weapon.
+
+**Damage modifier (dm):** Calculated from the average of STR and SIZ. See P2 §3.1 for the dm table.
+
+**Narrative range:** Weapon reach is described as Short (arm's length), Medium (sword reach), Long (spear reach), or All (the quarterstaff's versatility). These interact with combat spacing as described in P5 §2.3.
+
+### 2.2 Melee Weapons
+
+#### Unarmed and Improvised
+
+| Weapon | Damage | SR | Hands | ENC | HP | Parry | STR/DEX | Special | Cost |
+|--------|--------|-----|-------|-----|----|-------|---------|---------|------|
+| Fist | 1D3+dm | 3 | 1H | - | - | No | -/- | Krush | - |
+| Kick | 1D3+dm | 4 | - | - | - | No | -/- | Krush | - |
+| Head Butt | 1D3+dm | 4 | - | - | - | No | -/- | Krush | - |
+| Grapple | Special | 3 | 1H | - | - | No | -/- | Entangle | - |
+| Improvised (small) | 1D4+dm | 4 | 1H | 1 | 6 | No | 5/5 | Krush | - |
+| Improvised (large) | 1D6+dm | 5 | 2H | 2 | 8 | No | 9/5 | Krush | - |
+| Torch (as weapon) | 1D4+flame | 4 | 1H | 1 | 8 | No | 5/5 | Krush | - |
+
+#### Daggers and Short Blades
+
+| Weapon | Damage | SR | Hands | ENC | HP | Parry | STR/DEX | Special | Cost |
+|--------|--------|-----|-------|-----|----|-------|---------|---------|------|
+| Knife | 1D3+1+dm | 2 | 1H | - | 8 | Yes | 4/4 | Pierce | Cheap |
+| Dagger | 1D4+2+dm | 2 | 1H | - | 10 | Yes | 4/4 | Pierce | Average |
+| Dagger, Main-gauche | 1D4+1+dm | 2 | 1H | - | 8 | Yes | 5/9 | Pierce | Average |
+| Sica | 1D6+dm | 2 | 1H | 1 | 8 | Yes | 7/9 | Slash | Average |
+| Sai | 1D6+dm | 2 | 1H | 1 | 12 | Yes | 5/11 | Krush | Average |
+
+The main-gauche is designed for off-hand use; it provides a +1 AP defensive benefit when parrying while the other hand carries a weapon. The sica is a curved short sword common in the arenas and among city thugs.
+
+#### Swords
+
+| Weapon | Damage | SR | Hands | ENC | HP | Parry | STR/DEX | Special | Cost |
+|--------|--------|-----|-------|-----|----|-------|---------|---------|------|
+| Sword, Short | 1D6+1+dm | 3 | 1H | 1 | 14 | Yes | 5/5 | Slash/Pierce | Inexpensive |
+| Sword, Long | 1D8+dm | 3 | 1H | 1 | 14 | Yes | 7/9 | Slash | Average |
+| Sword, Broad | 1D8+1+dm | 3 | 1H | 1 | 16 | Yes | 9/7 | Slash | Average |
+| Sword, Bastard | 1D10+1+dm | 3 | 1H/2H | 2 | 16 | Yes | 13/9 (1H) / 9/9 (2H) | Slash | Average |
+| Sword, Great | 2D8+dm | 4 | 2H | 3 | 16 | Yes | 14/13 | Slash | Expensive |
+| Falchion | 1D6+2+dm | 3 | 1H | 1 | 10 | Yes | 7/7 | Slash | Average |
+| Scimitar | 1D8+1+dm | 3 | 1H | 1 | 16 | Yes | 8/8 | Slash | Average |
+| Khopesh | 1D8+dm | 3 | 1H | 2 | 10 | Yes | 9/7 | Slash | Average |
+| Saber | 1D8+1+dm | 3 | 1H | 1 | 16 | Yes | 7/11 | Slash | Average |
+| Rapier | 1D6+1+dm | 2 | 1H | 1 | 12 | Yes | 7/13 | Pierce | Expensive |
+
+The **khopesh** - the sickle-sword - is the iconic blade of the ancient Near East and Egypt. Its inward-curving blade can hook around a shield edge or catch a wrist. The **falchion** is a heavy single-edged slashing sword, blunt on the spine. The **rapier** as listed here represents any fine-bladed thrusting sword designed for duels; at the GM's discretion it may be unavailable in settings with a strictly ancient-world tech level.
+
+The bastard sword can be used one-handed at STR 13/DEX 9 or two-handed at STR 9/DEX 9; both options are listed.
+
+#### Axes
+
+| Weapon | Damage | SR | Hands | ENC | HP | Parry | STR/DEX | Special | Cost |
+|--------|--------|-----|-------|-----|----|-------|---------|---------|------|
+| Axe, Hand | 1D6+1+dm | 3 | 1H | 1 | 12 | Yes | 7/9 | Slash | Cheap |
+| Axe, Battle | 1D8+2+dm | 3 | 1H | 2 | 14 | Yes | 9/9 | Slash | Average |
+| Axe, Great | 2D6+2+dm | 4 | 2H | 3 | 14 | Yes | 11/9 | Slash | Average |
+
+#### Clubs, Maces, and Hammers
+
+| Weapon | Damage | SR | Hands | ENC | HP | Parry | STR/DEX | Special | Cost |
+|--------|--------|-----|-------|-----|----|-------|---------|---------|------|
+| Club, Light | 1D6+dm | 3 | 1H | 1 | 14 | Yes | 7/7 | Krush | Cheap |
+| Club, Heavy | 1D8+dm | 4 | 2H | 3 | 20 | Yes | 9/7 | Krush | Cheap |
+| Blackjack | 1D6+dm | 2 | 1H | - | 8 | No | 7/7 | Krush | Inexpensive |
+| Mace, Light | 1D6+2+dm | 3 | 1H | 2 | 18 | Yes | 7/7 | Krush | Average |
+| Mace, Heavy | 1D8+2+dm | 4 | 2H | 3 | 18 | Yes | 14/9 | Krush | Average |
+| Hammer, War | 1D6+2+dm | 3 | 1H | 2 | 18 | Yes | 11/9 | Krush | Average |
+| Maul, Great | 2D6+dm | 5 | 2H | 4 | 18 | Yes | 13/7 | Krush | Average |
+| Flail | 1D6+dm | 3 | 1H | 1 | 7 | Yes | 7/6 | Krush | Average |
+| Flail, Morningstar | 1D10+1+dm | 4 | 2H | 3 | 12 | Yes | 11/7 | Krush | Average |
+| Cestus | 1D3+2+dm | 2 | 1H | - | 10 | Yes | 11/7 | Krush | Average |
+
+The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool - compact, concealable, and designed to knock out rather than kill.
+
+#### Spears and Polearms
+
+| Weapon | Damage | SR | Hands | ENC | HP | Parry | STR/DEX | Special | Cost |
+|--------|--------|-----|-------|-----|----|-------|---------|---------|------|
+| Spear, Short | 1D6+1+dm | 3 | 1H/2H | 2 | 14 | Yes | 7/8 | Pierce | Cheap |
+| Spear, Long | 1D10+1+dm | 4 | 2H | 2 | 14 | Yes | 11/9 | Pierce | Cheap |
+| Lance | 1D8+1+dm | 3 | 1H | 2 | 14 | Yes | 9/8 | Pierce | Inexpensive |
+| Trident | 1D6+1+dm | 3 | 1H/2H | 2 | 16 | Yes | 9/7 | Pierce | Average |
+| Pike | 1D10+2+dm | 5 | 2H | 3 | 14 | Yes | 11/7 | Pierce | Inexpensive |
+| Halberd | 3D6+dm | 5 | 2H | 4 | 22 | Yes | 13/9 | Slash | Average |
+| Staff, Quarter | 1D8+dm | 3 | 2H | 2 | 20 | Yes | 9/9 | Krush | Cheap |
+| Staff, Short | 1D6+dm | 3 | 1H | 1 | 14 | Yes | 7/9 | Krush | Cheap |
+
+#### Specialty and Entangling Weapons
+
+| Weapon | Damage | SR | Hands | ENC | HP | Parry | STR/DEX | Special | Cost |
+|--------|--------|-----|-------|-----|----|-------|---------|---------|------|
+| Net, Combat | - | 4 | 1H/2H | 2 | 6 | No | 9/13 | Entangle | Cheap |
+| Whip | 1D3 | 3 | 1H | 1 | 4 | No | 7/11 | Entangle | Cheap |
+| Garrote | Special | 3 | 2H | - | 1 | No | 8/12 | - | Inexpensive |
+| Lasso | - | 4 | 2H | 2 | 4 | No | 9/11 | Entangle | Cheap |
+| Scythe | 2D6+1+dm | 5 | 2H | 3 | 18 | Yes | 12/10 | Pierce | Inexpensive |
+| Sickle | 1D6+1+dm | 3 | 1H | 1 | 10 | Yes | 7/9 | Pierce | Inexpensive |
+
+**Net, Combat:** On a successful attack, the target is Entangled (Difficult DEX or STR roll to break free; takes an action). The net has 6 HP and can be cut free (any blade, one action). Used by gladiators and those who fight to capture. The whip similarly entangles but has limited penetrating power; its damage does not include the user's damage modifier.
+
+**Garrote:** On a successful grapple from behind, the garrote pins the target's throat. Each round the garrote is held, the target takes 1D3 damage directly to HP (no armour applies) and must make a Difficult CON roll or fall unconscious from asphyxiation.
+
+### 2.3 Missile Weapons
+
+#### Primitive Missile Weapons
+
+| Weapon | Damage | SR | Hands | ENC | HP | Range | STR/DEX | Special | Cost |
+|--------|--------|-----|-------|-----|----|-------|---------|---------|------|
+| Dart, Thrown | 1D4+1/2dm | 2 | 1H | - | 4 | Short | 7/11 | Pierce | Cheap |
+| Javelin | 1D6+1/2dm | 3 | 1H | 2 | 10 | Medium | 9/9 | Pierce | Cheap |
+| Axe, Hand (thrown) | 1D6+1/2dm | 4 | 1H | 1 | 12 | Short | 9/11 | Slash | Cheap |
+| Knife (thrown) | 1D3+1/2dm | 3 | 1H | - | 8 | Short | 7/11 | Pierce | Cheap |
+| Rock (thrown) | 1D2+1/2dm | 4 | 1H | - | - | Short | 5/5 | Krush | - |
+| Bola | 1D4+1/2dm | 4 | 1H | 1 | 1 | Short | 9/13 | Entangle | Cheap |
+| Sling | 1D8+1/2dm | 3 | 1H | - | 2 | Long | 7/11 | Krush | Cheap |
+| Sling, Staff | 1D8+1/2dm | 4 | 2H | 2 | 4 | Far | 9/7 | Krush | Cheap |
+| Bow, Self | 1D6+1+1/2dm | 3 | 2H | 1 | 6 | Long | 9/9 | Pierce | Cheap |
+| Blowgun | 1D3 | 2 | 2H | 1 | 4 | Short | -/11 | Pierce | Cheap |
+| Lasso (thrown) | - | 4 | 2H | 2 | 4 | Short | 9/13 | Entangle | Cheap |
+| Boomerang | 1D4+1/2dm | 3 | 1H | - | 3 | Medium | 9/11 | Krush | Cheap |
+
+**Bola:** Entangles the target's legs on a hit (Difficult DEX roll or fall prone). Can also be used as a damaging throw (use the listed damage). The thrown lasso entangles on a hit; the target makes a Difficult STR or DEX roll to break free.
+
+**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See G6 §2 for poison rules.
+
+**Sling, staff:** A longer staff-mounted sling with superior range. Requires two hands but outranges a self-bow.
+
+**1/2dm notation:** For thrown and missile weapons, the attacker adds half their damage modifier (round down). A dm of +1D4 becomes +1D2; a dm of +1D6 becomes +1D3; zero remains zero.
+
+#### Historic Missile Weapons
+
+| Weapon | Damage | SR | Hands | ENC | HP | Range | STR/DEX | Special | Cost |
+|--------|--------|-----|-------|-----|----|-------|---------|---------|------|
+| Bow, Composite | 1D8+1+1/2dm | 3 | 2H | 2 | 12 | Far | 13/9 | Pierce | Average |
+| Bow, Long | 1D8+1+1/2dm | 3 | 2H | 2 | 10 | Far | 11/9 | Pierce | Cheap |
+| Crossbow, Light | 1D6+2 | 3 | 2H | 1 | 10 | Medium | 9/7 | Pierce | Average |
+| Crossbow, Medium | 2D4+2 | 4 | 2H | 2 | 14 | Far | 11/7 | Pierce | Average |
+| Crossbow, Heavy | 2D6+2 | 5 | 2H | 3 | 18 | Far | 13/7 | Pierce | Average |
+| Arbalest | 2D6+4 | 6 | 2H | 3 | 14 | Extreme | 11/9 | Pierce | Average |
+| Knife, Throwing | 1D4+1/2dm | 2 | 1H | - | 10 | Short | -/11 | Pierce | Cheap |
+
+**Composite bow:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
+
+**Crossbows:** Crossbow damage does not add the attacker's damage modifier - the bow's draw weight is fixed at manufacture. Rate of fire: Light crossbow (1/2 rounds), Medium and Heavy (1/3 rounds), Arbalest (1/4 rounds, requires a cranequin or windlass to cock).
+
+**Range bands:** Short = arm's throw distance; Medium = javelin range; Long = bow range; Far = extreme bow or crossbow range; Extreme = arbalest range. The GM narrates these as fiction. Shooting at longer than the listed range imposes a Difficult penalty; shooting beyond Extreme is impossible.
+
+### 2.4 Weapon Quality
+
+Three quality levels affect weapons:
+
+| Quality | Cost Modifier | Effect |
+|---------|--------------|--------|
+| Inferior | x1/3 | -20% to applicable skill rolls |
+| Standard | x1 | No modification |
+| Superior | x3 | +20% to applicable skill rolls |
+
+Superior weapons also tend to have slightly higher HP (add 2-4 at the GM's discretion). They may carry makers' marks, names, and reputation in the fiction.
+
+---
+
+## 3. Armour
+
+### 3.1 How Armour Works
+
+Armour provides **Armour Points (AP)** - a flat reduction applied to any damage the wearer takes before HP are subtracted. WSR uses a single AP value per armour piece, not per-location ratings. When a hit lands, subtract the armour's AP from the damage; the remainder reaches the wearer's HP.
+
+Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Athletics, Brawl, Dodge, Stealth, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §12.1).
+
+**Layering:** Soft armour (leather, padded, gambeson) may be worn under hard armour. Add their AP values. However, layering adds the ENC of both pieces, and any skill modifier from the outer armour is used at full (not combined). Layering hard armour under hard armour is impractical and not supported.
+
+### 3.2 Putting On and Removing Armour
+
+Armour takes time to don properly. Rushing or abandoning armour mid-combat is possible but leaves gaps.
+
+- To don armour: 1 round per AP of the piece (chain at 6 AP takes 6 rounds).
+- To remove armour: 3 AP per round, or 4 AP per round on a successful DEX roll.
+- Helmets are always 1 round to don or remove.
+- A character can strip armour in pieces during combat but until a piece is fully removed, it counts as worn.
+
+### 3.3 Armour Table
+
+| Armour | AP | ENC | Skill Modifier | Notes | Cost |
+|--------|----|-----|----------------|-------|------|
+| Heavy Clothing | 1 | 2 | None | Padded wool or linen layers | Cheap |
+| Padded/Quilted | 1 | 3 | None | Linen or wool quilting | Inexpensive |
+| Gambeson, Heavy | 2 | 4 | -5% | Thick quilted coat; good padding | Inexpensive |
+| Leather, Soft | 1 | 3 | None | Tanned hide; flexible | Inexpensive |
+| Leather, Hard | 2 | 5 | -10% | Hardened, shaped hide | Average |
+| Leather, Cuirbouilli | 3 | 5 | -10% | Boiled, moulded leather; often ornate | Expensive |
+| Linothorax | 3 | 4 | -5% | Layers of linen glued rigid; Greek/Egyptian | Average |
+| Hide | 1 | 3 | None | Raw or cured animal hide | Cheap |
+| Ring | 4 | 9 | -10% | Bronze rings sewn to leather backing | Average |
+| Scale, Bronze | 5 | 10 | -15% | Overlapping bronze scales | Average |
+| Lamellar, Bronze | 5 | 11 | -15% | Laced bronze plates; Mesopotamian, Persian | Expensive |
+| Mail, Bronze | 5 | 9 | -15% | Interlocked bronze rings | Expensive |
+| Mail, Iron | 6 | 9 | -15% | Interlocked iron rings; rare | Expensive |
+| Breastplate, Bronze | 5 | 6 | -10% | Chest and back only; heroic aesthetic | Expensive |
+| Plate, Half | 6 | 18 | -20% | Arms, legs, torso plates; military elite | Expensive |
+| Plate, Full | 7 | 24 | -25% | Complete plate coverage; court knights | Expensive |
+
+**Linothorax:** Layers of linen cloth glued together until stiff. Worn by Greek hoplites and Egyptian soldiers. Lighter than scale but provides surprisingly effective protection against slashing blows.
+
+**Lamellar:** Horizontal rows of small plates laced together. Durable, maintainable in the field, and common across the Persian empire and steppe cultures. Distinguished from scale by the lacing direction (horizontal bands rather than overlapping fish-scales).
+
+**Breastplate:** Covers chest and back only; it is paired with other armour (leather arms, helmet). Worn as status armour by heroes and commanders. Its AP applies only to torso hits; the GM may rule a hit to an unarmoured limb receives less protection.
+
+**Full and Half Plate:** These are the equipment of the most powerful and wealthy soldiers - court knights, elite cataphracts, a king's household guard. At the GM's discretion, full plate may not be readily available outside major cities.
+
+### 3.4 Helmets
+
+Helmets are purchased separately and provide additional AP to the wearer's head. In the Major Wounds system, a helmet's AP stacks with the body armour AP against any hit; however, if the GM narrates a blow that specifically targeted an exposed head (through an open-faced helm, for instance), only the helmet's AP applies.
+
+| Helmet | AP | ENC | Skill Modifier | Notes | Cost |
+|--------|----|-----|----------------|-------|------|
+| Cap, Leather | 1 | 1 | None | Minimal; better than nothing | Cheap |
+| Cap, Bronze | 2 | 1 | None | Simple skullcap | Inexpensive |
+| Helm, Open-faced | 3 | 1 | -15% Perception | Nasal or cheek guards | Average |
+| Helm, Full (bronze) | 4 | 2 | -25% Perception | Corinthian or similar; face covered | Average |
+| Helm, Crested | +0 | +1 | None | Decorative crest; adds Reputation in appropriate settings | +Inexpensive |
+
+A crested helm does not add AP but marks its wearer as a person of note. In settings where reputation matters, it may grant a +5% to social skills when appearing before those who respect martial display.
+
+### 3.5 Armour Repair
+
+Leather armour is repaired with a Craft (Leather) roll and appropriate materials. Metal armour requires Craft (Armourer) and access to a forge; field repairs restore partial AP at the GM's discretion. Full restoration of badly damaged armour always requires a smithy and time.
+
+---
+
+## 4. Shields
+
+Shields are both defensive tools and improvised weapons. They provide Armour Points when used to parry, and a parry bonus that improves the effectiveness of the Shield skill.
+
+### 4.1 Shield Table
+
+| Shield | AP | HP | ENC | Parry Bonus | STR/DEX | Notes | Cost |
+|--------|----|----|-----|-------------|---------|-------|------|
+| Buckler | 4 | 9 | 1 | +5% | 5/7 | Small arm-strapped disc | Average |
+| Target Shield | 6 | 12 | 2 | +10% | 7/7 | Standard round shield | Average |
+| Hoplon | 8 | 16 | 3 | +15% | 12/8 | Greek phalanx shield; formation use | Average |
+| Scutum | 9 | 18 | 4 | +15% | 11/9 | Curved rectangular; good body cover | Average |
+| Kite Shield | 8 | 16 | 4 | +15% | 11/9 | Elongated; cavalry use | Average |
+| Tower Shield | 10 | 22 | 5 | +10% | 13/9 | Full-body; -10% movement penalties | Average |
+| Primitive Shield | 4 | 10 | 2 | +5% | 5/7 | Wood frame and hide; barbaric cultures | Cheap |
+
+**Parry Bonus:** Add this percentage to the Shield skill when making a Parry action with this shield. The Shield skill default is 15% (see P3).
+
+**Shield as weapon:** Any shield can be used to strike (Krush, 1D3+dm damage for small shields; 1D4+dm for large). The shield skill applies. A spiked shield (customised; +Inexpensive cost) deals 1D3+dm Pierce damage on a successful strike.
+
+**Throwing a shield:** A thrown shield is an improvised missile attack using the Shield skill at Difficult, Short range only. No parry value after throwing.
+
+**Slung shield:** A shield carried on the back provides half its AP (round up) against hits from behind, without requiring any defensive action.
+
+---
+
+## 5. Material Tiers
+
+The standard for all weapon and armour prices in this chapter is **bronze**. Bronze is the default ancient-world metal. Two other material tiers exist: copper (inferior) and iron (superior but dangerous for sorcerers).
+
+### 5.1 Copper
+
+Copper weapons and armour predate the bronze age and appear in especially primitive cultures or as cheap trade goods.
+
+- **Weapons:** Damage die reduced by one step (1D8 becomes 1D6; 1D6 becomes 1D4; 1D4 becomes 1D3). No other change.
+- **Armour:** AP reduced by 1 (minimum 1).
+- **Durability:** HP halved (round up).
+- **Cost:** One-third of the bronze price.
+
+### 5.2 Bronze
+
+The standard. All stats in §§2-4 assume bronze construction.
+
+### 5.3 Iron
+
+Iron is rarer, harder, and sharper than bronze. It is also inert to sorcery in a way that bronze is not - a fact every sorcerer learns to respect.
+
+- **Weapons:** HP increased by half (round up). Iron weapons hold an edge better and break less easily.
+- **Armour:** AP increased by 1. Iron armour is markedly superior to its bronze equivalent.
+- **Durability:** HP increased by half (round up).
+- **Cost:** Iron weapons cost 5-10 times their bronze equivalent; iron armour costs 10-20 times. Iron is rare and expensive. Most warriors who own iron have taken it from a fallen enemy or paid dearly.
+
+**Enchanted iron:** An iron item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in G5.
+
+See §12.1 for the iron-vs-sorcery rules that make iron equipment a meaningful choice for sorcerer characters.
+
+---
+
+## 6. Mundane Gear
+
+### 6.1 Clothing
+
+Clothing is social armour. Fine clothes matter in courts and markets; rough traveling gear matters on the road. Clothing quality tiers are: Plain (half listed cost), Standard, Good (2-3 times), Fine (5-10 times), Noble (10-50 times). Only the standard cost is listed.
+
+| Item | Cost (Drams) | ENC | Notes |
+|------|-------------|-----|-------|
+| Belt | 1 | - | Leather |
+| Boots, Riding | 5 | - | |
+| Boots, Sandals | 2 | - | |
+| Boots, Walking | 3 | - | |
+| Cloak | 4 | 1 | Wool or linen |
+| Gloves, Leather | 2 | - | |
+| Hat / Hood | 1 | - | Linen or felt |
+| Loincloth / Breeches | 2 | - | |
+| Robe | 4 | 1 | Full length |
+| Shirt / Tunic | 2 | - | |
+| Trousers | 3 | - | |
+| Undergarments | 1 | - | |
+
+Items marked - for ENC weigh too little to track individually. Ten such items together count as 1 ENC.
+
+### 6.2 Tools
+
+| Item | Cost (Drams) | ENC | Notes |
+|------|-------------|-----|-------|
+| Chisel | 2 | - | |
+| Flint and Steel | 2 | - | Ignites tinder; reliable |
+| Hammer | 2 | 1 | |
+| Knife (tool, not weapon) | 2 | - | |
+| Magnifying Lens | 10 | - | Bronze or rock crystal |
+| Needle and Thread | 1 | - | |
+| Pick, Miner's | 5 | 2 | |
+| Saw | 5 | 1 | |
+| Shovel / Spade | 4 | 2 | |
+| Toolkit, Artisan | 20-100 | 3-5 | By craft: smith, leather, masonry, scribe |
+| Toolkit, Thief | 20 | 1 | Picks, files, pry tools |
+| Whetstone | 2 | - | Restores blade edge |
+
+### 6.3 Writing and Records
+
+| Item | Cost (Drams) | ENC | Notes |
+|------|-------------|-----|-------|
+| Clay Tablet | 1 | - | Cheap; reusable before firing; fragile when dry |
+| Ink, Vial | 4 | - | |
+| Papyrus / Parchment, sheet | 2-4 | - | |
+| Scroll Case | 4 | - | Protects documents from moisture |
+| Wax Tablet | 5 | - | Reusable; wooden frame |
+| Writing Reed / Stylus | 1 | - | |
+
+### 6.4 Containers
+
+| Item | Cost (Drams) | ENC | Notes |
+|------|-------------|-----|-------|
+| Backpack | 4 | - | Holds up to 20 ENC |
+| Bag, Belt | 2 | - | Small; coin-purse scale |
+| Sack, Large | 1 | - | Rough cloth; holds up to 10 ENC |
+| Barrel, Large | 10 | 4 | Holds ~80 litres liquid |
+| Barrel, Small | 4 | 2 | Holds ~20 litres |
+| Basket | 1 | - | Woven reed or willow |
+| Chest, Iron-bound | 20 | 5 | Lockable |
+| Chest, Wooden | 6 | 3 | Basic; not lockable |
+| Jar, Ceramic | 2-6 | 1-3 | By size; for oil, grain, wine |
+| Pot, Cooking | 4 | 2 | Bronze or ceramic |
+| Pouch, Belt | 2 | - | Leather; standard adventurer carry |
+| Quiver | 2 | - | Holds 20 arrows or bolts |
+| Waterskin | 2 | 1 (full) | 1 day's water; negligible when empty |
+| Wineskin | 3 | 1 (full) | |
+
+### 6.5 Light Sources
+
+| Item | Cost (Drams) | ENC | Burn Time | Notes |
+|------|-------------|-----|-----------|-------|
+| Candle | - | - | 4 hours | Dim light; easily blown out |
+| Lamp, Clay | 1 | - | 6 hours per oil flask | Cheap; fragile; burns olive oil |
+| Lamp, Bronze | 4 | - | 6 hours per oil flask | More durable; steady flame |
+| Lantern, Hooded | 10 | 1 | 6 hours per oil flask | Directable beam; windproof |
+| Oil, Lamp (flask) | 2 | 1 | 6 hours | Also useful as incendiary (see G6 §3) |
+| Torch | - | 1 | 1 hour | Obvious; hard to hide; good bright light |
+
+A dash (-) in the Cost column means the item is too inexpensive to track by the Dram - a handful of coin covers it. Ten such items count as 1 Dram for purchasing purposes.
+
+### 6.6 Rope and Cordage
+
+| Item | Cost (Drams) | ENC | Notes |
+|------|-------------|-----|-------|
+| Chain, Iron (per metre) | 6 | 1 | HP 10 per link; holds ~150 kg |
+| Grappling Hook | 6 | 1 | With short rope loop |
+| Net, Fishing | 6 | 2 | |
+| Net, Hunting | 10 | 3 | Heavier mesh |
+| Rope, Hemp (10 m) | 2 | 2 | Holds ~100 kg |
+| Rope, Silk (10 m) | 20 | 1 | Lighter; holds ~75 kg |
+| Wire, Bronze (per metre) | 1 | - | Snares; lashings |
+
+### 6.7 Adventuring Supplies
+
+| Item | Cost (Drams) | ENC | Notes |
+|------|-------------|-----|-------|
+| Blanket | 4 | 1 | Wool |
+| Chalk | - | - | Marking; used by scouts and thieves |
+| Crowbar | 4 | 2 | +20% to STR rolls for forcing |
+| First Aid Kit | 5 | 1 | Bandages, tools; used with First Aid skill |
+| Herbalist's Kit | 10 | 2 | Poultices, needles, herb remedies; used with Medicine skill |
+| Ladder, Rope (3 m) | 6 | 2 | |
+| Manacles | 10 | 1 | Iron; requires a key |
+| Mirror, Bronze | 6-20 | - | Signaling; quality varies |
+| Pole, 3 m | 1 | 2 | |
+| Tent, One-person | 10 | 3 | Hide or linen |
+| Tent, Group (6 persons) | 40 | 10 | |
+| Tinderbox | 4 | - | Flint, steel, tinder; more reliable than flint and steel alone |
+
+### 6.8 Food and Drink
+
+Prices are per unit as described.
+
+| Item | Cost (Drams) | Notes |
+|------|-------------|-------|
+| Ale / Beer, mug | - | Standard tavern drink |
+| Beer, small barrel | 4 | Travel / camp supply; ~20 mugs |
+| Bread, loaf | - | One day's basic food |
+| Dried / Salted Meat, per week | 6 | Travel rations; 7 days' supply |
+| Fresh Meat, meal | 1 | Per serving |
+| Grain, week's supply | 2 | Bulk travel food; requires cooking |
+| Honey, jar | 4 | Preservative and trade good |
+| Olive Oil, flask | 2 | Food and lamp fuel |
+| Rations, Standard (per day) | 1 | Preserved mixed food for travel |
+| Wine, amphora | 10 | High-quality storage vessel; ~20 litres |
+| Wine, cup | - | Tavern; typically watered |
+
+### 6.9 Herbs, Medicines, and Musical Instruments
+
+| Item | Cost | ENC | Notes |
+|------|------|-----|-------|
+| Bandages (10 uses) | 2 Drams | - | Cloth strips |
+| Healing Herbs, dose | 4-10 Drams | - | Varies by type and region; GM sets precise effect |
+| Poison Antidote | 20-100 Drams | - | By poison type; rare; often only available in cities |
+| Salve, Wound | 6 Drams | - | Prevents infection in fiction |
+| Drum | 6 Drams | 2 | Hand or frame drum |
+| Flute / Reed Pipe | 4 Drams | - | |
+| Harp, Small | 20 Drams | 2 | |
+| Horn / Trumpet | 10 Drams | 1 | Signaling and performance |
+| Lute / Lyre | 15 Drams | 2 | String instrument |
+
+---
+
+## 7. Mounts
+
+### 7.1 Riding and Working Animals
+
+The prices below reflect standard market animals. War-trained animals - horses accustomed to the noise and press of battle, camels bred for desert endurance - may cost two to three times the listed price.
+
+| Animal | Cost | Carry Capacity | Move | Notes |
+|--------|------|---------------|------|-------|
+| Donkey | 30-60 Drams | 60 kg | Slow | Reliable pack animal; stubborn |
+| Horse, Light Riding | 1-2 Staters | 75 kg | Fast | Speed; poor armour load |
+| Horse, Medium Riding | 2-3 Staters | 90 kg | Normal | General-purpose mount |
+| Horse, War | 4-10 Staters | 120 kg | Normal | Combat-trained; will not baulk at blood |
+| Mule | 40-80 Drams | 80 kg | Slow | Sure-footed; crossbreeds are infertile |
+| Ox | 40-80 Drams | 200 kg | Very Slow | Draft animal; not a riding animal |
+| Camel | 2-4 Staters | 150 kg | Normal | Desert travel; can go days without water; difficult temperament |
+| Elephant, War | 20-50 Staters | 500 kg | Normal | Rare; requires specialist handler; formidable in battle |
+
+**War Horse:** A war horse is not merely a fast horse. It is trained to carry an armoured rider, to move toward screaming men and clashing metal, and to respond to knee pressure when the rider's hands are occupied with weapons. Untrained horses near combat must make a CON roll (Difficulty: Easy for loud noise, Average for combat nearby, Difficult for close melee) or bolt.
+
+**War Elephant:** An elephant in battle is an engine of destruction that tramples, gores, and causes enemy horses and men to flee from sheer panic. Enemy troops (and horses) must make a Difficult Luck or Morale roll when first confronted with war elephants. Routing an elephant causes it to turn and trample its own side. Maintaining a war elephant requires dedicated handlers, enormous quantities of food, and a specialist called a mahout (use as a skilled Hireling; see §10).
+
+**Move** descriptions: Very Slow = roughly half walking pace; Slow = walking pace; Normal = horse-and-rider pace at a sustainable canter; Fast = cavalry charge pace, sustainable for short distances only.
+
+### 7.2 Riding Gear
+
+| Item | Cost | ENC | Notes |
+|------|------|-----|-------|
+| Bit and Bridle | 10 Drams | 1 | Required to control a horse effectively |
+| Halter and Lead | 2 Drams | - | Basic; used for leading, not riding |
+| Horse Armour (bronze, partial) | 2-4 Staters | 6 | Chest and head; -1 Move |
+| Saddle | 20-40 Drams | 2 | Improves riding comfort and control |
+| Saddle Bags | 10 Drams | 1 | Holds 10 ENC per side |
+| Saddle Blanket | 4 Drams | 1 | |
+
+**Stirrups:** Not universally available. Many ancient cultures rode without them. The GM decides whether stirrups exist in the current setting. If available, stirrups cost 10 Drams and provide +10% to Ride skill for mounted combat.
+
+---
+
+## 8. Vehicles
+
+### 8.1 Land Vehicles
+
+| Vehicle | Cost | Draft Animals | Passengers / Cargo | Move | Notes |
+|---------|------|--------------|-------------------|------|-------|
+| Cart, Two-wheeled | 8 Drams | 1-2 | 2 persons or light cargo | Slow | Common; farmer's cart |
+| Cart, Four-wheeled | 20 Drams | 2-4 | 4 persons or heavy cargo | Very Slow | Supply and trade |
+| Wagon, Four-wheeled | 30-40 Drams | 2-4 | Large cargo | Very Slow | Canvas cover optional (+10 Drams) |
+| Palanquin | 10-40 Drams | None (4 bearers) | 1-2 persons | Slow | Luxury urban transport; status marker |
+| Chariot, Light | 4 Staters | 2 horses | Driver + 1 archer | Fast | Maneuverable; screened for archer use |
+| Chariot, Standard | 4 Staters | 2 horses | Driver + 2 passengers | Normal | Standard battlefield chariot |
+| Chariot, Heavy | 5 Staters | 2-4 horses | Driver + up to 3 warriors | Normal | Bronze-rimmed wheels; trampling |
+| Chariot, Command | 6+ Staters | 6 horses | Driver + war leader + bodyguard | Slow | Mobile command platform |
+
+**Chariots** are among the most powerful mobile weapon systems of the ancient world. A chariot moving at full speed and driving through enemy infantry is a terrifying event. Light chariots are fast enough to outpace foot soldiers; heavy chariots with bladed or bronze-rimmed wheels deal trampling damage to anything they ride over. The Drive skill governs chariot handling. A combat manoeuvre with a chariot uses the Drive skill against a Difficulty set by the terrain and the speed.
+
+**Chariot modifications** (additional cost):
+- Bronze armour plating: +2 HP to chariot, -1 Move; 30 Drams
+- Bladed wheels: 1D6+2 Slash on a successful drive-through; 30 Drams
+- Bronze-rimmed wheels: +2 trampling damage; 15 Drams
+- Quick-release traces: unyoke on a successful Drive roll; 6 Drams
+
+### 8.2 Vehicle HP and Armour
+
+| Vehicle | HP | AP | Notes |
+|---------|----|----|-------|
+| Cart or Wagon | 15-25 | 4 | Mostly wood |
+| Chariot, Light | 12 | 4 | |
+| Chariot, Heavy | 22 | 6 | |
+
+Vehicles are not destroyed at 0 HP but become non-functional (wheel collapses, axle shatters). Animals pulling a destroyed vehicle are not automatically harmed.
+
+---
+
+## 9. Watercraft
+
+### 9.1 Vessel Table
+
+| Vessel | Structure | Length | Cargo | Crew | Cost | Notes |
+|--------|-----------|--------|-------|------|------|-------|
+| Coracle | 4 | 1 m | 0.2 t | 1 | 4 Drams | Hide over wicker; river use |
+| Dugout | 5 | 3 m | 0.2 t | 1-2 | 6 Drams | Simple; inland waters |
+| Raft, Small | 5 | 3 m | 1 t | 1-2 | 10 Drams or improvised | Logs or reeds |
+| Raft, Large | 8 | 6 m | 4 t | 3-6 | 4 Drams | Downstream only |
+| Reed Boat, Small | 15 | 3 m | 0.5 t | 2 | 10 Drams | Mesopotamian style |
+| Reed Boat, Large | 20 | 5 m | 1 t | 1+ | 40 Drams | |
+| Rowboat | 18 | 5 m | 0.5 t | 2-4 | 6-15 Drams | River and harbour use |
+| Barge | 30 | 8 m | 2 t | 2 | 12 Drams | Flat-bottomed; river cargo |
+| Flat-boat | 25 | 16 m | 10 t | 6-8 | 15 Drams | |
+| Merchant Ship | 55 | 20 m | 60 t | 25 | 2-4 Staters | Sailing; coastal and ocean |
+| Warship (Trireme) | 80 | 37 m | 1 t | 170+ | 2+ Suns | Rowed warship; oared speed |
+
+**Structure Points** function like HP for the vessel; at 0 the vessel is sinking or wrecked. The Pilot skill governs vessel handling. Heavy weather, rocks, and combat may damage a vessel directly.
+
+### 9.2 Travel Rates
+
+| Condition | Rate |
+|-----------|------|
+| Open sea, sail | ~300 km per day |
+| Coast or river, downstream | ~75 km per day |
+| River, upstream (oars) | ~25 km per day |
+| River, upstream (sail) | ~15 km per day |
+
+These rates assume favourable conditions. The GM may adjust for storms, head winds, currents, or navigation difficulty.
+
+### 9.3 Boat Passage Prices
+
+| Route | Accommodation | Cost |
+|-------|---------------|------|
+| Short river journey (1 day) | Deck | 2-4 Drams |
+| River voyage (per day) | Deck | 4 Drams/day |
+| River voyage (per day) | Cabin | 1 Stater/day |
+| Ocean vessel (per day) | Trade berth | 1-2 Staters/day |
+| Whole ship hire | - | 40-60 Drams/trip |
+| Animal on deck | - | Double human cost + 2 Drams/day feed |
+
+---
+
+## 10. Hirelings and Inn Prices
+
+### 10.1 Common Services and Hirelings
+
+Hirelings are contracted by the day or week. Equipment is typically not included unless otherwise negotiated - a hired mercenary provides their own weapons and armour, but the employer is expected to provide food and lodgings.
+
+| Service | Rate | Notes |
+|---------|------|-------|
+| Guide, Local | 2-6 Drams/day | Knows local roads, landmarks |
+| Guide, Wilderness | 6-10 Drams/day | Desert, steppe, mountain routes |
+| Labourer, Unskilled | 2-3 Drams/day | Digging, carrying, rowing |
+| Porter | 3-4 Drams/day | 40-60 kg carry capacity |
+| Sailor | 6-10 Drams/week | Specialized by vessel type |
+| Scribe | 6-10 Drams/day | Literacy; contracts, letters, translating |
+| Mercenary, Light | 10 Drams/week | Basic weapons; not armoured |
+| Mercenary, Heavy | 20 Drams/week | Armoured; professional soldier |
+| Mercenary, Cavalry | 30-40 Drams/week | Horse and equipment included |
+| Mercenary, Archer | 15-25 Drams/week | Specialized ranged fighter |
+| Specialist (mahout, siege crew, physician) | 10-20 Drams/day | Highly variable; negotiated |
+
+**Loyalty:** Hirelings serve the agreed terms. They will not follow PCs into obviously suicidal situations for standard pay. Bonus pay, Reputation, and Passion mechanics (P3) affect hireling loyalty at the GM's discretion.
+
+### 10.2 Inn Prices
+
+| Quality | Bed | Meal | Stabling (per night) |
+|---------|-----|------|---------------------|
+| Flophouse | 2 Drams/night | 1-2 Drams | None |
+| Common Inn | 5-15 Drams/week | 2-3 Drams | 2 Drams |
+| Decent Inn | 4 Drams/night | 3-5 Drams | 3 Drams |
+| Good Inn | 10 Drams/night | 6-10 Drams | 6 Drams |
+
+A flophouse is a shared floor and a questionable blanket. A decent inn has private rooms. A good inn has private rooms with proper furniture, a separate stable yard, and a cook who knows what they are doing.
+
+---
+
+## 11. Encumbrance
+
+### 11.1 The ENC System
+
+Encumbrance (ENC) measures the physical burden a character carries. It matters for two things: determining when a character is overloaded, and (for sorcerer characters) calculating the iron-vs-sorcery penalty (see §12.1).
+
+WSR uses a deliberately simple ENC system. Significant items count as 1 ENC or more. Very small items (a knife, a vial of ink, a pouch of coins) individually count as negligible but accumulate.
+
+**ENC guidelines:**
+
+| Item Category | ENC |
+|--------------|-----|
+| Negligible items (coins, small tools, vials) | 10 together = 1 ENC |
+| Light items (dagger, cloak, pouch) | - (negligible individually) |
+| Standard items (sword, shield, armour piece, backpack) | 1-3 ENC |
+| Heavy items (great sword, heavy armour, a filled barrel) | 4+ ENC |
+
+Use the ENC values listed in the weapon and armour tables. If an item does not have a listed ENC, the GM assigns one using the table above.
+
+### 11.2 Carry Capacity
+
+A character can carry ENC up to their STR score without penalty. Beyond that:
+
+| ENC carried | Effect |
+|-------------|--------|
+| Up to STR | No penalty |
+| STR+1 to STR+5 | -20% to all physical skills; move at 3/4 speed |
+| STR+6 to STR x2 | -40% to all physical skills; move at half speed |
+| Above STR x2 | Cannot move; -60% to all physical skills |
+
+**Worn armour:** Armour worn on the body contributes half its ENC to the carry total (armour worn is supported by the body, not carried in the hands). Armour carried in a pack counts at full ENC.
+
+### 11.3 STR, SIZ, and Heavy Loads
+
+Characters with both high STR and high SIZ carry more naturally. At the GM's option, characters whose SIZ exceeds their STR may use SIZ instead for the carry capacity baseline.
+
+---
+
+## 12. Equipment and Sorcery
+
+### 12.1 Iron Disrupts Sorcery
+
+Unenchanted iron is inimical to the sorcerous current. A sorcerer who carries unenchanted iron feels its interference in every working - a subtle wrongness in the flow of power, a gap where the spell should lock into place.
+
+**Rule:** Each 1 ENC of unenchanted iron a sorcerer carries imposes a **-5% penalty to all sorcery skill rolls** and sorcery-related characteristic rolls.
+
+**What counts:** Iron weapons, iron armour, iron manacles, iron chains - any significant iron item. Small iron fittings (buckles, rivets) on primarily leather or bronze items do not count unless the GM rules the iron proportion is significant.
+
+**What does not count:** Bronze, copper, leather, wood, stone, bone, or other non-iron materials carry no penalty. Enchanted iron (see §5.3) is harmonised with the sorcerous current and does not impose the penalty.
+
+**Practical effect:** A sorcerer carrying an iron sword (ENC 1), iron armour (ENC 9), and an iron helm (ENC 1) is carrying 11 ENC of iron. Their sorcery rolls suffer -55%. Most sorcerers travel in bronze or leather, keep iron at arm's length, and leave the heavy martial kit to their companions.
+
+This rule is a deliberate design element. Sorcerer PCs have a visible reason to travel light, favour bronze, and depend on others for physical protection. Warriors and rogues face no such restriction. The distinction between archetypes is reflected in what they wear.
+
+### 12.2 Artifact Basics
+
+Equipment can be permanently enhanced through sorcery. Such items are called **artifacts**. They are rare - creation requires a sorcerer to sacrifice permanent POW - and they are a genuine mark of power and danger.
+
+An artifact is any item into which a sorcerer has bound one or more sorcery spells. The item holds its own PP reservoir, separate from the creator's own PP pool. That reservoir powers the bound spells.
+
+**Key properties:**
+
+- The creator sacrifices 1 point of permanent POW for each sorcery spell bound into the item.
+- The artifact's PP reservoir equals the creator's normal maximum PP at the time of creation.
+- When the reservoir reaches 0 PP, the artifact is inert (no spells available) until recharged.
+- Recharging: the creator (or any sorcerer who has attuned to the item) may transfer 1 PP per combat round from their own body to the artifact's reservoir. This is a concentration action.
+- The artifact's HP equals its SIZ characteristic. If destroyed, any POW invested in it is permanently lost.
+
+The full rules for designing and creating artifacts - including the ritual requirements, the costs, and the dangers of artifacts falling into the wrong hands - are in G5. This section covers only the essentials a player needs to know when acquiring or using an artifact.
+
+**Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §5.3). The enchantment is part of the binding process and is noted when the artifact is described.
+
+---
+
+## Source notes cited
+
+- `notes/source-13-equipment.md`
+- `notes/runequest-weapons-equipment.md`
+
+## Locked decisions applied
+
+- 2026-05-10 - Equipment chapter: borrow extensively from RuneQuest W&E (mechanism only; WSR-original tables)
+- 2026-05-10 - Iron-vs-sorcery rule: -5% sorcery skill per ENC of unenchanted iron carried
+- 2026-05-09 - Combat: Major Wounds as default, no per-location HP (single AP value per armour item)
+- 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources
