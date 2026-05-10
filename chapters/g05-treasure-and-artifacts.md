@@ -1,6 +1,6 @@
 # G5. Treasure and Artifacts
 
-> *"He had come to loot the tomb - but the tomb had been waiting for him."*
+> _"He had come to loot the tomb - but the tomb had been waiting for him."_
 
 This chapter is for GMs. It covers what heroes find, what they can make, and what they might wish they had never touched. Mundane treasure is the bread and butter of adventure: coin to spend, gems to fence, art objects to carry across three borders and sell before the original owner sends someone to collect. Artifacts are rarer and more dangerous: weapons and tools that sorcerers have permanently diminished themselves to create. And cursed items are the genre's dark mirror: desire satisfied at unbearable cost.
 
@@ -16,12 +16,12 @@ Treasure is the reason most of the characters in this game are where they are. N
 
 The four-tier coin system (see P7 §1 for the full currency table) gives you an economy that feels ancient without becoming an accounting exercise.
 
-| Coin | Metal | Approx. Value |
-|------|-------|---------------|
-| Shard | Copper chip | A loaf of bread; a beggar's day |
-| Dram | Copper/bronze | A laborer's daily wage; a cheap meal and a bed |
-| Stater | Silver | A craftsman's weekly income; a quality weapon |
-| Sun | Gold | A merchant's transaction; a year's income |
+| Coin   | Metal         | Approx. Value                                  |
+| ------ | ------------- | ---------------------------------------------- |
+| Shard  | Copper chip   | A loaf of bread; a beggar's day                |
+| Dram   | Copper/bronze | A laborer's daily wage; a cheap meal and a bed |
+| Stater | Silver        | A craftsman's weekly income; a quality weapon  |
+| Sun    | Gold          | A merchant's transaction; a year's income      |
 
 **Presenting coin as treasure:** Coin found in a ruin or on a dead enemy is not an abstraction. Describe it. Old coins are different from current coins - a fistful of gold Suns minted by a dynasty that has been ash for three hundred years is treasure and a historical document simultaneously. The GM Book chapter G7 has suggestions for linking coin lineages to fallen empires.
 
@@ -33,16 +33,16 @@ Gems are portable wealth. Unlike coin, they have no issuing authority, which mak
 
 To generate gem value, roll or choose from this table:
 
-| D20 | Gem Type | Value |
-|----|----------|-------|
-| 1-3 | Semiprecious chip (agate, jasper, carnelian) | 2-8 Drams |
-| 4-6 | Semiprecious cut (amethyst, turquoise, lapis) | 10-30 Drams |
-| 7-9 | Small precious (garnet, onyx, amber) | 1-3 Staters |
-| 10-12 | Cut precious (topaz, aquamarine, spinel) | 3-10 Staters |
-| 13-15 | Fine ruby or sapphire | 10-30 Staters |
-| 16-17 | Fine emerald | 15-40 Staters |
-| 18-19 | Exceptional quality (any category) | Triple standard value |
-| 20 | Named stone with provenance (see sidebar) | 5-20 Suns |
+| D20   | Gem Type                                      | Value                 |
+| ----- | --------------------------------------------- | --------------------- |
+| 1-3   | Semiprecious chip (agate, jasper, carnelian)  | 2-8 Drams             |
+| 4-6   | Semiprecious cut (amethyst, turquoise, lapis) | 10-30 Drams           |
+| 7-9   | Small precious (garnet, onyx, amber)          | 1-3 Staters           |
+| 10-12 | Cut precious (topaz, aquamarine, spinel)      | 3-10 Staters          |
+| 13-15 | Fine ruby or sapphire                         | 10-30 Staters         |
+| 16-17 | Fine emerald                                  | 15-40 Staters         |
+| 18-19 | Exceptional quality (any category)            | Triple standard value |
+| 20    | Named stone with provenance (see sidebar)     | 5-20 Suns             |
 
 **Named stones:** A gem with a history - the Eye of the Serpent-Queen, the Blood-Drop of the Warlord - can be worth multiples of its base value to the right buyer. It can also attract attention from people who consider it theirs. Named stones are adventure hooks wearing the costume of treasure.
 
@@ -50,18 +50,18 @@ To generate gem value, roll or choose from this table:
 
 ### 1.3 Art Objects and Valuables
 
-| Object Category | Value Range | Notes |
-|-----------------|-------------|-------|
-| Carved bone or ivory (small) | 4-12 Drams | Pins, amulets, gaming pieces |
-| Decorated bronze vessel | 8-30 Drams | Cups, lamps, serving ware |
-| Tapestry or fine cloth | 1-6 Staters | Heavy; 3-5 ENC |
-| Silver or gilt household item | 1-4 Staters | Mirrors, cups, incense burners |
-| Bronze or terracotta figure | 1-5 Staters | Religious or decorative |
-| Gold object (small) | 2-10 Staters | Rings, pins, belt fittings |
-| Ivory or jade carvings | 3-15 Staters | Prestigious; restricted import |
-| Fine painted vessel | 2-8 Staters | Ceramic; fragile; 1-2 ENC |
-| Ceremonial arms (non-functional) | 3-20 Staters | Votive weapons, parade armor |
-| Cult idol (bronze or stone) | 2-10 Suns | Intensely dangerous to sell in origin city |
+| Object Category                  | Value Range  | Notes                                      |
+| -------------------------------- | ------------ | ------------------------------------------ |
+| Carved bone or ivory (small)     | 4-12 Drams   | Pins, amulets, gaming pieces               |
+| Decorated bronze vessel          | 8-30 Drams   | Cups, lamps, serving ware                  |
+| Tapestry or fine cloth           | 1-6 Staters  | Heavy; 3-5 ENC                             |
+| Silver or gilt household item    | 1-4 Staters  | Mirrors, cups, incense burners             |
+| Bronze or terracotta figure      | 1-5 Staters  | Religious or decorative                    |
+| Gold object (small)              | 2-10 Staters | Rings, pins, belt fittings                 |
+| Ivory or jade carvings           | 3-15 Staters | Prestigious; restricted import             |
+| Fine painted vessel              | 2-8 Staters  | Ceramic; fragile; 1-2 ENC                  |
+| Ceremonial arms (non-functional) | 3-20 Staters | Votive weapons, parade armor               |
+| Cult idol (bronze or stone)      | 2-10 Suns    | Intensely dangerous to sell in origin city |
 
 Art objects are inconvenient treasure. A Scythian gold-work pectoral with detailed battle scenes is worth 4 Suns, weighs 2 ENC, and is identifiable. Anyone who has heard of the Tomb of the Golden Riders will know what it is the moment they see it. The GM is within their rights to make art objects lucrative but complicated.
 
@@ -71,18 +71,18 @@ Art objects are inconvenient treasure. A Scythian gold-work pectoral with detail
 
 Trade goods as treasure. These are things that have extraordinary value in one place because they are rare there, and are available as loot in another place because they are produced there.
 
-| Good | Base Value | Why It Matters |
-|------|-----------|----------------|
-| Spices (pepper, cinnamon, saffron) | 5-20 Drams/small jar | Weight: negligible; profit: significant |
-| Incense (myrrh, frankincense) | 8-30 Drams/brick | Religious market; temple trade |
-| Dyes (Tyrian purple, madder, indigo) | 10-50 Drams/flask | Purple = royal; huge markup in the west |
-| Perfumed oils | 5-20 Drams/vial | Aristocratic market |
-| Fine glasswork | 1-3 Staters/piece | Fragile; 1 ENC; rare outside the east |
-| Ivory (raw, per kg) | 1-3 Staters/kg | Heavy; restricted in some regions |
-| Raw silk (bolt) | 2-8 Staters | 2 ENC; extraordinary luxury good |
-| Papyrus (blank, bundle) | 2-5 Drams | Writing material; urban demand |
-| Rare medicinal plants | 10-50 Drams/dose | Healer's market; variable efficacy |
-| Narcotics (poppy, khat) | 10-40 Drams/dose | Illegal in some cities; medical use in others |
+| Good                                 | Base Value           | Why It Matters                                |
+| ------------------------------------ | -------------------- | --------------------------------------------- |
+| Spices (pepper, cinnamon, saffron)   | 5-20 Drams/small jar | Weight: negligible; profit: significant       |
+| Incense (myrrh, frankincense)        | 8-30 Drams/brick     | Religious market; temple trade                |
+| Dyes (Tyrian purple, madder, indigo) | 10-50 Drams/flask    | Purple = royal; huge markup in the west       |
+| Perfumed oils                        | 5-20 Drams/vial      | Aristocratic market                           |
+| Fine glasswork                       | 1-3 Staters/piece    | Fragile; 1 ENC; rare outside the east         |
+| Ivory (raw, per kg)                  | 1-3 Staters/kg       | Heavy; restricted in some regions             |
+| Raw silk (bolt)                      | 2-8 Staters          | 2 ENC; extraordinary luxury good              |
+| Papyrus (blank, bundle)              | 2-5 Drams            | Writing material; urban demand                |
+| Rare medicinal plants                | 10-50 Drams/dose     | Healer's market; variable efficacy            |
+| Narcotics (poppy, khat)              | 10-40 Drams/dose     | Illegal in some cities; medical use in others |
 
 **Practical note:** Exotic goods are better loot than art objects in most cases. They are less identifiable, more divisible, and have a more stable market. A party that loots a warehouse rather than a tomb has chosen practicality over glory. Conan would understand.
 
@@ -92,32 +92,32 @@ For improvised treasure when the party searches an unexpected place:
 
 **Mook's purse or belt pouch (roll 1D6):**
 
-| Roll | Contents |
-|------|----------|
-| 1-2 | 2D6 Shards and a knife worth keeping |
-| 3-4 | 1D6 Drams and a small personal item (talisman, ring, lucky token) |
-| 5 | 2D6 Drams and one trade item (spice, vial, tool) worth 3-8 Drams |
-| 6 | 1D6 Staters (this person was flush) |
+| Roll | Contents                                                          |
+| ---- | ----------------------------------------------------------------- |
+| 1-2  | 2D6 Shards and a knife worth keeping                              |
+| 3-4  | 1D6 Drams and a small personal item (talisman, ring, lucky token) |
+| 5    | 2D6 Drams and one trade item (spice, vial, tool) worth 3-8 Drams  |
+| 6    | 1D6 Staters (this person was flush)                               |
 
 **Professional or officer (roll 1D6):**
 
-| Roll | Contents |
-|------|----------|
-| 1-2 | 1D10 Staters in mixed coin |
-| 3-4 | 2D6 Staters plus a piece of jewellery worth 1-4 Staters |
-| 5 | 1D6 Staters plus a sealed letter (information is treasure too) |
-| 6 | 2D10 Staters, a quality weapon, and a key |
+| Roll | Contents                                                       |
+| ---- | -------------------------------------------------------------- |
+| 1-2  | 1D10 Staters in mixed coin                                     |
+| 3-4  | 2D6 Staters plus a piece of jewellery worth 1-4 Staters        |
+| 5    | 1D6 Staters plus a sealed letter (information is treasure too) |
+| 6    | 2D10 Staters, a quality weapon, and a key                      |
 
 **Ancient ruin (roll 2D6):**
 
-| Roll | Contents |
-|------|----------|
-| 2-4 | Dust and disappointment; the tomb was already looted |
-| 5-6 | 2D6 Drams worth of antique coin, corroded and stuck together |
-| 7-8 | A small art object (roll §1.3), corroded but restorable |
-| 9-10 | 1D6 gems (roll §1.2 twice, take the better result) |
-| 11 | An art object plus 2D6 Staters in old coin |
-| 12 | A minor artifact or a named gem - something worth the risk |
+| Roll | Contents                                                     |
+| ---- | ------------------------------------------------------------ |
+| 2-4  | Dust and disappointment; the tomb was already looted         |
+| 5-6  | 2D6 Drams worth of antique coin, corroded and stuck together |
+| 7-8  | A small art object (roll §1.3), corroded but restorable      |
+| 9-10 | 1D6 gems (roll §1.2 twice, take the better result)           |
+| 11   | An art object plus 2D6 Staters in old coin                   |
+| 12   | A minor artifact or a named gem - something worth the risk   |
 
 ---
 
@@ -523,21 +523,21 @@ Most valuable treasure passes through someone before it reaches its final buyer.
 
 **Standard fence rates:**
 
-| Goods | Fence takes | Seller receives |
-|-------|------------|----------------|
-| Obvious provenance (identifiable) | 50-70% | 30-50% of value |
-| Unclear provenance | 30-40% | 60-70% of value |
-| No provenance (anonymous goods) | 20-30% | 70-80% of value |
-| Genuinely unique (named items) | 40-60% + 1 favour | 40-60% of value + the favour is owed |
+| Goods                             | Fence takes       | Seller receives                      |
+| --------------------------------- | ----------------- | ------------------------------------ |
+| Obvious provenance (identifiable) | 50-70%            | 30-50% of value                      |
+| Unclear provenance                | 30-40%            | 60-70% of value                      |
+| No provenance (anonymous goods)   | 20-30%            | 70-80% of value                      |
+| Genuinely unique (named items)    | 40-60% + 1 favour | 40-60% of value + the favour is owed |
 
 **Reputation adjustments:**
 
-| Reputation | Effect on fence rates |
-|-----------|----------------------|
-| Under 20% (anonymous) | Rates as above; fence treats this as a clean deal |
-| 20-40% (locally known) | Fence may push toward better rates on identifiable goods (-5% cut) or worse (-10%) depending on political alignment |
-| 40-60% (widely known) | Fence is nervous about identifiable goods; may refuse or double their cut. Unknown goods negotiate normally. |
-| 60%+ (very famous) | Fence will deal but adds a 10-20% risk premium across all goods. They are not being unfair; they are pricing the risk accurately. |
+| Reputation             | Effect on fence rates                                                                                                             |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Under 20% (anonymous)  | Rates as above; fence treats this as a clean deal                                                                                 |
+| 20-40% (locally known) | Fence may push toward better rates on identifiable goods (-5% cut) or worse (-10%) depending on political alignment               |
+| 40-60% (widely known)  | Fence is nervous about identifiable goods; may refuse or double their cut. Unknown goods negotiate normally.                      |
+| 60%+ (very famous)     | Fence will deal but adds a 10-20% risk premium across all goods. They are not being unfair; they are pricing the risk accurately. |
 
 **The favour economy:** High-value transactions - named stones, major artifacts, unique art objects - rarely settle for coin. The broker who connects a buyer to a named artifact expects something more durable than a percentage. Favours, information, access, future services. This is the economy that operates above the coin tier, and it runs on Reputation entirely.
 

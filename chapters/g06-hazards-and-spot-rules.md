@@ -1,7 +1,7 @@
 # G6. Hazards and Spot Rules
 
-> *"The desert has its own laws, older and crueller than the laws of men."*
-> *- Robert E. Howard*
+> _"The desert has its own laws, older and crueller than the laws of men."_
+> _- Robert E. Howard_
 
 This chapter is a GM reference for environmental threats, natural hazards, and the rules that govern situations outside ordinary combat. The entries are short and clinical: look up the hazard, apply the mechanic, move on. The genre requires that the world be hostile between fights as much as during them.
 
@@ -21,26 +21,26 @@ Infection follows exposure to disease sources: a plague victim's wounds, foul wa
 
 **Illness Severity.** The number of consecutive daily failures determines how badly the disease manifests:
 
-| Consecutive failures | Severity | Characteristic loss rate |
-|---|---|---|
-| 0 | None - infection thrown off | - |
-| 1 | Mild | 1 point per week |
-| 2 | Acute | 1 point per day |
-| 3 | Severe | 1 point per hour |
-| 4+ | Terminal | 1 point per minute |
+| Consecutive failures | Severity                    | Characteristic loss rate |
+| -------------------- | --------------------------- | ------------------------ |
+| 0                    | None - infection thrown off | -                        |
+| 1                    | Mild                        | 1 point per week         |
+| 2                    | Acute                       | 1 point per day          |
+| 3                    | Severe                      | 1 point per hour         |
+| 4+                   | Terminal                    | 1 point per minute       |
 
 ### 1.1 Disease Types
 
 Each disease attacks a different characteristic. The GM may use these as written or rename them to suit the setting. All have the same recovery mechanic; only the target characteristic differs.
 
-| Disease type | Characteristic attacked | Genre examples |
-|---|---|---|
-| Atrophy | STR | Wasting sickness, creeping paralysis |
-| Chills | CON | Marsh fever, sweating sickness, hypothermic infection |
-| Delirium | INT | Brain fever, poison-induced confusion, cursed sleep |
-| Malaise | POW | Soul-drain, arcane exhaustion, spirit sickness |
-| Shakes | DEX | Palsy, nerve damage, black-tongue fever |
-| Pox | APP (or CHA) | Disfiguring plague, brands of corruption, plague-god's mark |
+| Disease type | Characteristic attacked | Genre examples                                              |
+| ------------ | ----------------------- | ----------------------------------------------------------- |
+| Atrophy      | STR                     | Wasting sickness, creeping paralysis                        |
+| Chills       | CON                     | Marsh fever, sweating sickness, hypothermic infection       |
+| Delirium     | INT                     | Brain fever, poison-induced confusion, cursed sleep         |
+| Malaise      | POW                     | Soul-drain, arcane exhaustion, spirit sickness              |
+| Shakes       | DEX                     | Palsy, nerve damage, black-tongue fever                     |
+| Pox          | APP (or CHA)            | Disfiguring plague, brands of corruption, plague-god's mark |
 
 **Sorcerers and Malaise.** A sorcerer suffering from Malaise disease has their POW reduced - and with it, their PP pool. A sorcerer at POW 8 from a Malaise infection has 8 PP instead of their full pool. Every PP spent on spells or Fate Points is one less point available to resist the next day's recovery roll through the Stamina mechanic. The spiral is genre-appropriate.
 
@@ -62,19 +62,19 @@ Poisons work through a resistance roll: the poison's Potency (POT) against the t
 
 The following are representative ancient-world poisons for GM use. POT values assume a full dose; fractional doses halve POT. The GM may create further poisons using these as calibration points.
 
-| Poison | POT | Delay | Primary effect | Notes |
-|---|---|---|---|---|
-| Hemlock | 14 | Slow | HP damage; limb paralysis precedes fatal collapse | Socrates. The limbs go cold first. |
-| Henbane (Hyoscyamus) | 10 | Slow | Delirium (INT attack, -1D3 INT), HP damage | Causes vivid hallucinations before unconsciousness. |
-| Nightshade (Belladonna) | 13 | Slow | HP damage; rapid heart failure | Small doses cause dilated pupils and mania first. |
-| Manchineel sap | 8 | Fast | HP damage to skin and throat; blindness if eyes contacted | Burning, blistering on contact; ingestion is quickly lethal. |
-| Viper venom | 9 | Slow | HP damage; CON roll or severe swelling, -1D3 STR | Desert asp; common in ruins and grain stores. |
-| Scorpion sting | 6 | Fast | HP damage; failed CON roll = muscle spasms, actions Difficult for 1D6 hours | Large desert scorpions may reach POT 10. |
-| Stonefish toxin | 12 | Fast | Agonising HP damage; failed CON roll = unconscious 1D6 hours | Coastal/river encounters; wound site turns black. |
-| Spider venom (large) | 8 | Slow | HP damage; CON roll or paralysis for 1D6 hours | Giant spiders (Bestiary G3 §2) inflict POT 10-14. |
-| Ergot (grain contamination) | 6 | Slow | Delirium, Shakes (as disease onset); cumulative with repeated exposure | Affects whole groups if a food supply is contaminated. |
-| Black lotus extract | 16 | Slow | HP damage; failed CON roll = coma for 1D6 days | Extremely rare, sorcerer-adjacent. The GM may add Corruption implications for the harvester. |
-| Alchemical acid | varies | Fast | HP damage to flesh; armour degraded 1 point per round of contact | See §3 for full fire/acid rules. POT equals the 1D6 type used. |
+| Poison                      | POT    | Delay | Primary effect                                                              | Notes                                                                                        |
+| --------------------------- | ------ | ----- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Hemlock                     | 14     | Slow  | HP damage; limb paralysis precedes fatal collapse                           | Socrates. The limbs go cold first.                                                           |
+| Henbane (Hyoscyamus)        | 10     | Slow  | Delirium (INT attack, -1D3 INT), HP damage                                  | Causes vivid hallucinations before unconsciousness.                                          |
+| Nightshade (Belladonna)     | 13     | Slow  | HP damage; rapid heart failure                                              | Small doses cause dilated pupils and mania first.                                            |
+| Manchineel sap              | 8      | Fast  | HP damage to skin and throat; blindness if eyes contacted                   | Burning, blistering on contact; ingestion is quickly lethal.                                 |
+| Viper venom                 | 9      | Slow  | HP damage; CON roll or severe swelling, -1D3 STR                            | Desert asp; common in ruins and grain stores.                                                |
+| Scorpion sting              | 6      | Fast  | HP damage; failed CON roll = muscle spasms, actions Difficult for 1D6 hours | Large desert scorpions may reach POT 10.                                                     |
+| Stonefish toxin             | 12     | Fast  | Agonising HP damage; failed CON roll = unconscious 1D6 hours                | Coastal/river encounters; wound site turns black.                                            |
+| Spider venom (large)        | 8      | Slow  | HP damage; CON roll or paralysis for 1D6 hours                              | Giant spiders (Bestiary G3 §2) inflict POT 10-14.                                            |
+| Ergot (grain contamination) | 6      | Slow  | Delirium, Shakes (as disease onset); cumulative with repeated exposure      | Affects whole groups if a food supply is contaminated.                                       |
+| Black lotus extract         | 16     | Slow  | HP damage; failed CON roll = coma for 1D6 days                              | Extremely rare, sorcerer-adjacent. The GM may add Corruption implications for the harvester. |
+| Alchemical acid             | varies | Fast  | HP damage to flesh; armour degraded 1 point per round of contact            | See §3 for full fire/acid rules. POT equals the 1D6 type used.                               |
 
 **Named poisons and the genre.** Howard, Leiber, and Moorcock all use poison as an assassination tool and a villain's shortcut. The genre convention is that poison is cowardly and honourable characters regard it with contempt - which does not stop rogues from using it. The GM should feel free to name poisons for their setting; "Black Tears of Stygia" is more evocative than "Nightshade (POT 13)."
 
@@ -86,13 +86,13 @@ Fire causes HP damage each round a character is exposed. Armour provides protect
 
 ### 3.1 Fire Intensity
 
-| Source | Damage per round | Notes |
-|---|---|---|
-| Tiny flame (candle, small torch spark) | 1 HP | Rarely dangerous unless sustained against skin |
-| Torch held against target | 1D6 HP | Luck roll each round or character's clothing catches fire |
-| Large open fire (bonfire, brazier) | 1D6+2 HP | POW x1 Luck roll each round to avoid catching fire |
-| Building fire (room fully alight) | 2D6 HP | Plus smoke inhalation (see §3.2). Character automatically catches fire unless armoured. |
-| Intense fire (forge, molten metal, alchemical flame) | 3D6 HP | Character automatically catches fire; armour provides no protection from the heat. |
+| Source                                               | Damage per round | Notes                                                                                   |
+| ---------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------------- |
+| Tiny flame (candle, small torch spark)               | 1 HP             | Rarely dangerous unless sustained against skin                                          |
+| Torch held against target                            | 1D6 HP           | Luck roll each round or character's clothing catches fire                               |
+| Large open fire (bonfire, brazier)                   | 1D6+2 HP         | POW x1 Luck roll each round to avoid catching fire                                      |
+| Building fire (room fully alight)                    | 2D6 HP           | Plus smoke inhalation (see §3.2). Character automatically catches fire unless armoured. |
+| Intense fire (forge, molten metal, alchemical flame) | 3D6 HP           | Character automatically catches fire; armour provides no protection from the heat.      |
 
 **Catching fire.** A character whose clothing catches fire takes ongoing 1D4 HP per round at the start of each Phase Four. Putting out the fire requires a full round of action (rolling on the ground, dousing with liquid, stripping burning clothing). A character who is on fire and continues to act in combat makes all rolls at Difficult while burning.
 
@@ -104,10 +104,10 @@ Fire causes HP damage each round a character is exposed. Armour provides protect
 
 Dense smoke in an enclosed space (burning building, smoke-filled tunnel, burning ship) imposes the following in addition to fire damage:
 
-| Smoke density | HP per round | Additional effect |
-|---|---|---|
-| Smoke (visible, billowing) | 1D4 HP | Spot and Perception rolls Difficult |
-| Dense smoke (choking, near-zero visibility) | 1D6 HP | All rolls Difficult; Stamina roll each round or character falls unconscious |
+| Smoke density                               | HP per round | Additional effect                                                           |
+| ------------------------------------------- | ------------ | --------------------------------------------------------------------------- |
+| Smoke (visible, billowing)                  | 1D4 HP       | Spot and Perception rolls Difficult                                         |
+| Dense smoke (choking, near-zero visibility) | 1D6 HP       | All rolls Difficult; Stamina roll each round or character falls unconscious |
 
 A character who falls unconscious from smoke inhalation continues to take smoke damage each round until removed from the area.
 
@@ -131,13 +131,13 @@ Warming a hypothermic character (fire, shelter, warm liquid, body heat) halts fu
 
 When the character's CON is reduced to half or less by cold exposure, roll on the following table (1D6):
 
-| Roll | Frostbite location | Permanent effect |
-|---|---|---|
-| 1-2 | Fingers | DEX reduced by 1 (permanent if not treated within one day) |
-| 3 | Toes | Movement reduced permanently unless treated within one day |
-| 4 | Nose, ears | APP/CHA reduced by 1D3 (permanent) |
-| 5 | Feet | Movement halved (permanent unless treated within one day) |
-| 6 | Hands | Both hands affected; weapon use Difficult permanently unless treated within one day |
+| Roll | Frostbite location | Permanent effect                                                                    |
+| ---- | ------------------ | ----------------------------------------------------------------------------------- |
+| 1-2  | Fingers            | DEX reduced by 1 (permanent if not treated within one day)                          |
+| 3    | Toes               | Movement reduced permanently unless treated within one day                          |
+| 4    | Nose, ears         | APP/CHA reduced by 1D3 (permanent)                                                  |
+| 5    | Feet               | Movement halved (permanent unless treated within one day)                           |
+| 6    | Hands              | Both hands affected; weapon use Difficult permanently unless treated within one day |
 
 Frostbite treatment requires warmth, clean bindings, and a successful Medicine roll. On a critical Medicine result, no permanent effect occurs even if the one-day window has passed.
 
@@ -173,13 +173,13 @@ Extended exertion without rest degrades performance. Use this rule when characte
 
 **Fatigue track.** A character's fatigue is tracked in steps: Fresh, Winded, Tired, Exhausted, Spent.
 
-| State | Effect |
-|---|---|
-| Fresh | No penalty |
-| Winded | -10% to all physical skills |
-| Tired | -20% to all physical skills; Stamina rolls required for sustained exertion |
-| Exhausted | -40% to all skills; Stamina roll each turn or collapse |
-| Spent | Cannot act; must rest |
+| State     | Effect                                                                     |
+| --------- | -------------------------------------------------------------------------- |
+| Fresh     | No penalty                                                                 |
+| Winded    | -10% to all physical skills                                                |
+| Tired     | -20% to all physical skills; Stamina rolls required for sustained exertion |
+| Exhausted | -40% to all skills; Stamina roll each turn or collapse                     |
+| Spent     | Cannot act; must rest                                                      |
 
 **Moving along the track.** The GM moves a character one step down the track for each of the following: a full combat (3+ rounds of actual fighting); a significant overland march (half a day's travel at speed); extended swimming, climbing, or carrying heavy loads. A Short Rest (one turn without significant exertion) recovers one step. A full night's rest returns the character to Fresh.
 
@@ -193,12 +193,12 @@ Extended exertion without rest degrades performance. Use this rule when characte
 
 Falling damage is determined by the height of the fall, expressed in narrative categories. The GM assigns the category based on the fiction.
 
-| Fall category | Damage | Examples |
-|---|---|---|
-| Short | 1D6 | Knocked from a horse; tumbled from a low wall; stumbled off a loading platform |
-| Significant | 2D6 to 3D6 | Two stories; a cliff edge; from a ship's mast to the deck |
-| Long | 4D6 to 6D6 | A tall tower; a high cliff; from a bridge over a gorge |
-| Extreme | 7D6+ | A very great height; a fall into a deep shaft; from a rampart of a citadel tower |
+| Fall category | Damage     | Examples                                                                         |
+| ------------- | ---------- | -------------------------------------------------------------------------------- |
+| Short         | 1D6        | Knocked from a horse; tumbled from a low wall; stumbled off a loading platform   |
+| Significant   | 2D6 to 3D6 | Two stories; a cliff edge; from a ship's mast to the deck                        |
+| Long          | 4D6 to 6D6 | A tall tower; a high cliff; from a bridge over a gorge                           |
+| Extreme       | 7D6+       | A very great height; a fall into a deep shaft; from a rampart of a citadel tower |
 
 **Armour.** Armour provides half its normal AV against a Short fall only. For Significant falls and above, the impact overwhelms any mundane protection.
 
@@ -213,14 +213,14 @@ Falling damage is determined by the height of the fall, expressed in narrative c
 A character who is submerged, strangled, or otherwise deprived of air makes Stamina rolls at decreasing ease as each round passes.
 
 | Round | Stamina roll required |
-|---|---|
-| 1 | CON x10 (Easy) |
-| 2 | CON x5 |
-| 3 | CON x4 |
-| 4 | CON x3 |
-| 5 | CON x2 |
-| 6 | CON x1 |
-| 7+ | Automatic failure |
+| ----- | --------------------- |
+| 1     | CON x10 (Easy)        |
+| 2     | CON x5                |
+| 3     | CON x4                |
+| 4     | CON x3                |
+| 5     | CON x2                |
+| 6     | CON x1                |
+| 7+    | Automatic failure     |
 
 **Failure at any point:** the character is unconscious and drowning. They take 1D8 HP damage per round from water inhalation. Without immediate rescue, death follows when HP reaches negative CON.
 
@@ -253,23 +253,23 @@ Establish six elements before running the chase:
 
 Five narrative positions describe the distance between pursuer and quarry. Track this verbally; no physical prop is required.
 
-| Position | Description | What is possible |
-|---|---|---|
-| **Side by Side** | Within arm's reach | Full melee combat; grappling; the quarry is effectively caught |
-| **Closing** | A stride or two ahead | Melee attacks are possible but Difficult; thrown weapons at Near range |
-| **Engaged** | Visible, a short sprint away | Missile fire at Normal range; the chase is active |
-| **Distant** | Visible but losing ground | Missile fire at Far range (Difficult); no melee possible |
-| **Out of Sight** | Lost in crowd, darkness, or terrain | The chase ends unless tracking or knowledge of destination |
+| Position         | Description                         | What is possible                                                       |
+| ---------------- | ----------------------------------- | ---------------------------------------------------------------------- |
+| **Side by Side** | Within arm's reach                  | Full melee combat; grappling; the quarry is effectively caught         |
+| **Closing**      | A stride or two ahead               | Melee attacks are possible but Difficult; thrown weapons at Near range |
+| **Engaged**      | Visible, a short sprint away        | Missile fire at Normal range; the chase is active                      |
+| **Distant**      | Visible but losing ground           | Missile fire at Far range (Difficult); no melee possible               |
+| **Out of Sight** | Lost in crowd, darkness, or terrain | The chase ends unless tracking or knowledge of destination             |
 
 Each round, each side makes the relevant skill roll. Compare results:
 
-| Pursuer result vs. quarry result | Position shift |
-|---|---|
-| Pursuer crits, quarry does not | Move two positions closer |
-| Pursuer succeeds, quarry fails | Move one position closer |
-| Both succeed or both fail | No change |
-| Quarry succeeds, pursuer fails | Move one position further |
-| Quarry crits, pursuer does not | Move two positions further |
+| Pursuer result vs. quarry result | Position shift             |
+| -------------------------------- | -------------------------- |
+| Pursuer crits, quarry does not   | Move two positions closer  |
+| Pursuer succeeds, quarry fails   | Move one position closer   |
+| Both succeed or both fail        | No change                  |
+| Quarry succeeds, pursuer fails   | Move one position further  |
+| Quarry crits, pursuer does not   | Move two positions further |
 
 **Starting position.** A chase that begins from ambush or discovery at short range starts at Closing. A chase that begins across a market square starts at Engaged. A fugitive who had a head start begins at Distant.
 
@@ -293,12 +293,12 @@ When PCs are caught up in a larger battle - a siege, a mercenary skirmish, a des
 
 **The mass combat abstraction.** Each turn (approximately 5 minutes of battle time), every PC involved in the larger engagement makes a Luck roll (POW x5):
 
-| Result | Effect |
-|---|---|
+| Result           | Effect                                                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Critical success | The PC has a moment of clear action; they may target one specific named NPC or achieve one narrative objective this turn with an Easy roll |
-| Success | No damage; the PC survives the turn without serious threat |
-| Failure | 1D6 HP damage; the PC has been struck by a random attacker, a stray missile, a falling obstacle, or the press of bodies |
-| Fumble | 2D6 HP damage; the PC is in serious danger - knocked down, surrounded, pinned, or otherwise in a perilous situation |
+| Success          | No damage; the PC survives the turn without serious threat                                                                                 |
+| Failure          | 1D6 HP damage; the PC has been struck by a random attacker, a stray missile, a falling obstacle, or the press of bodies                    |
+| Fumble           | 2D6 HP damage; the PC is in serious danger - knocked down, surrounded, pinned, or otherwise in a perilous situation                        |
 
 **Armour applies.** Subtract AV from damage on both failure and fumble results.
 

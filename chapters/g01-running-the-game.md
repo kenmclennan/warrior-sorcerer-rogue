@@ -12,8 +12,8 @@ Locked decisions applied:
 
 # G1. Running the Game
 
-> *"Know, O prince, that between the years when the oceans drank Atlantis and the gleaming cities, and the years of the rise of the sons of Aryas, there was an age undreamed of, when shining kingdoms lay spread across the world like blue mantles beneath the stars."*
-> *- Robert E. Howard*
+> _"Know, O prince, that between the years when the oceans drank Atlantis and the gleaming cities, and the years of the rise of the sons of Aryas, there was an age undreamed of, when shining kingdoms lay spread across the world like blue mantles beneath the stars."_
+> _- Robert E. Howard_
 
 This chapter is for the GM. It covers the genre you are working in, the principles that should govern your decisions, how to build and run a session, how to connect a group of anti-heroes at the start of play, and how to run combat in the theatre of the mind without a grid. Read it before your first session and return to it whenever a session feels wrong.
 
@@ -27,11 +27,11 @@ Warrior \* Sorcerer \* Rogue is a sword & sorcery game. That phrase describes a 
 
 Three authors define the tradition and define this game. Know them before you run.
 
-**Robert E. Howard** is the centre of gravity. His Conan stories - *The Tower of the Elephant*, *Red Nails*, *Beyond the Black River*, *The People of the Black Circle* - establish the dominant tone: primal, brutal, fast. A barbarian in a decadent city. A stolen treasure. An encounter with something that should have stayed buried. Adventures end in blood and the hero walking away. Howard's world is dangerous by default. Civilization is hypocritical, its priests corrupt, its aristocrats vicious. The outsider sees clearly because he is not of it. Kull, Solomon Kane, and Bran Mak Morn extend the range: different times, different registers, but the same conviction that the world is older and stranger than anyone in it fully admits.
+**Robert E. Howard** is the centre of gravity. His Conan stories - _The Tower of the Elephant_, _Red Nails_, _Beyond the Black River_, _The People of the Black Circle_ - establish the dominant tone: primal, brutal, fast. A barbarian in a decadent city. A stolen treasure. An encounter with something that should have stayed buried. Adventures end in blood and the hero walking away. Howard's world is dangerous by default. Civilization is hypocritical, its priests corrupt, its aristocrats vicious. The outsider sees clearly because he is not of it. Kull, Solomon Kane, and Bran Mak Morn extend the range: different times, different registers, but the same conviction that the world is older and stranger than anyone in it fully admits.
 
-**Fritz Leiber** provides the urban accent. His Lankhmar stories - *Swords and Deviltry*, *Swords Against Death*, *Ill Met in Lankhmar* - put sword & sorcery inside the city: fog-shrouded alleys, thieves' guilds, sardonic wit, picaresque capers. Fafhrd and the Grey Mouser are the first enduring duo of the genre; their bickering loyalty is the party-cohesion model. Leiber's adventures end in wit and a stolen purse, and often in something bittersweet - the companion not saved, the treasure cursed. His register is the one to reach for when your scenario involves politics, con artistry, and schemes within schemes.
+**Fritz Leiber** provides the urban accent. His Lankhmar stories - _Swords and Deviltry_, _Swords Against Death_, _Ill Met in Lankhmar_ - put sword & sorcery inside the city: fog-shrouded alleys, thieves' guilds, sardonic wit, picaresque capers. Fafhrd and the Grey Mouser are the first enduring duo of the genre; their bickering loyalty is the party-cohesion model. Leiber's adventures end in wit and a stolen purse, and often in something bittersweet - the companion not saved, the treasure cursed. His register is the one to reach for when your scenario involves politics, con artistry, and schemes within schemes.
 
-**Michael Moorcock** provides the sorcerous and cosmic accent. His Elric stories - *Elric of Melniboné*, *Stormbringer*, *The Sleeping Sorceress* - take the genre to its darkest register: a doomed prince, a cursed blade, a patron that is also a predator. Magic in Moorcock's world is not a toolkit; it is a relationship with something vast and indifferent, and the cost of that relationship is always more than the sorcerer initially paid. The Eternal Champion framework gives Moorcock's world a cyclic, fatalistic quality - nothing is preserved forever, the wheel turns, empires fall. His register is the one to reach for when a sorcerer enters your scenario, or when the world's deep past begins to surface.
+**Michael Moorcock** provides the sorcerous and cosmic accent. His Elric stories - _Elric of Melniboné_, _Stormbringer_, _The Sleeping Sorceress_ - take the genre to its darkest register: a doomed prince, a cursed blade, a patron that is also a predator. Magic in Moorcock's world is not a toolkit; it is a relationship with something vast and indifferent, and the cost of that relationship is always more than the sorcerer initially paid. The Eternal Champion framework gives Moorcock's world a cyclic, fatalistic quality - nothing is preserved forever, the wheel turns, empires fall. His register is the one to reach for when a sorcerer enters your scenario, or when the world's deep past begins to surface.
 
 A session can sit anywhere on this triangle. A Howard-flavoured adventure turns Moorcock the moment a patron's demands are revealed. A Leiber-flavoured caper turns Howard the moment the sword comes out. You do not need to pick one and stay there; you need to know all three so you can navigate between them deliberately.
 
@@ -113,6 +113,7 @@ These are not guidelines. They are the working assumptions that keep sword & sor
 Death is in the deck of every session. Per design.md §4.4: "PCs can die." The Major Wounds Table, the matching-dice fumble, the critical hit that ignores armour, the mook that landed an unexpected blow while the PC was distracted - these are not GM cruelties. They are the system doing its job.
 
 Being fair means:
+
 - **Telegraph the threat.** A PC who walks into a situation without information about the danger is owed that information before they commit. They should be able to ask questions, spend resources, observe, or send scouts. If they choose to charge in regardless, the consequences are theirs.
 - **Never kill a PC for a die roll alone.** The rules provide multiple layers between a bad roll and death: Deflect the Killing Blow, Stamina rolls, Dying Blows, healing. A PC death should arrive through accumulated bad decisions and misfortune together, not through one unlucky fumble in the first round. If a PC is dying and has PP remaining, remind them that Deflect the Killing Blow exists - let them choose.
 - **Named antagonists earn their danger.** A sorcerer villain who can actually threaten the PCs is not unfair; it is the genre. What is unfair is a threat the PCs cannot understand, assess, or react to.
@@ -130,6 +131,7 @@ Do not overload dread. One or two specific wrong details per scene is enough. Th
 The PP-buy system, the Fate Point menu, the skills, and the Passions all exist to let PCs do things. They should be used. A session where no one invoked a Passion, no one spent PP on a critical buy, and no one attempted an unexpected application of an obscure skill is a session where the system was not doing its job - and that is usually a GM problem, not a player problem.
 
 Reward cleverness specifically and concretely:
+
 - A PC who uses Knowledge (Architecture) to identify a structural weakness in the tower gets information that actually affects what happens next.
 - A PC who spends 5 PP to re-roll a Persuade that would have gotten the party arrested gets the re-roll and the knowledge that they spent something real.
 - A PC who navigates a social situation using their Passion rather than a straight skill gets the Passion bonus and a scene that reflects their character, not just a die roll.
@@ -167,6 +169,7 @@ Before the first session proper, run a brief session zero. Its purpose is not ch
 Do this in two stages.
 
 **Stage one: the shared situation.** Establish a single concrete situation that puts all the PCs in the same place. This does not need to be elaborate. Some options:
+
 - They share an employer or patron at the start of play.
 - They are all stranded in the same city, for different reasons, and they have collectively met in a specific location.
 - They have one shared enemy - someone they have each, independently, made problems for.

@@ -1,7 +1,7 @@
 # Character Creation
 
-> *"He had been born on a battlefield, had grown to manhood fighting in a hundred wars, and his life had been one long adventure of peril and wild action."*
-> *- Robert E. Howard*
+> _"He had been born on a battlefield, had grown to manhood fighting in a hundred wars, and his life had been one long adventure of peril and wild action."_
+> _- Robert E. Howard_
 
 This chapter walks you through creating a character for Warrior \* Sorcerer \* Rogue. Work through the ten steps in order; each step builds on the last. When you are done you will have a named, skilled, motivated anti-hero ready to bleed for a cause that matters only to them.
 
@@ -13,18 +13,18 @@ The chapter assumes you have read P4 (the percentile mechanic and Power Points) 
 
 The ten steps are:
 
-| Step | What you decide |
-|------|----------------|
-| 1. Characteristics | Roll or allocate seven core stats |
-| 2. Derived Stats | Calculate HP, PP, damage modifier, and MOV |
-| 3. Cultural Background | Pick one of eight ancient-world backgrounds |
-| 4. Profession | Pick one of fourteen WSR professions; gain the profession skill bundle |
-| 5. Personal Skills | Spend INT x10 free points across any skills |
-| 6. Talents | Choose 2 talents from the four talent tables |
-| 7. Passions | Record three passions (1 at 80%, 2 at 60%) |
-| 8. Reputation | Record starting Reputation by profession |
-| 9. Sorcerer-specific | POW check; patron decision; starting spell; Corruption (sorcerer-archetype only) |
-| 10. Starting Equipment | Take the profession kit; spend starting coin |
+| Step                   | What you decide                                                                  |
+| ---------------------- | -------------------------------------------------------------------------------- |
+| 1. Characteristics     | Roll or allocate seven core stats                                                |
+| 2. Derived Stats       | Calculate HP, PP, damage modifier, and MOV                                       |
+| 3. Cultural Background | Pick one of eight ancient-world backgrounds                                      |
+| 4. Profession          | Pick one of fourteen WSR professions; gain the profession skill bundle           |
+| 5. Personal Skills     | Spend INT x10 free points across any skills                                      |
+| 6. Talents             | Choose 2 talents from the four talent tables                                     |
+| 7. Passions            | Record three passions (1 at 80%, 2 at 60%)                                       |
+| 8. Reputation          | Record starting Reputation by profession                                         |
+| 9. Sorcerer-specific   | POW check; patron decision; starting spell; Corruption (sorcerer-archetype only) |
+| 10. Starting Equipment | Take the profession kit; spend starting coin                                     |
 
 After all ten steps: name your character, answer the Background Questions (§11), and agree one significant possession with a story attached.
 
@@ -34,29 +34,29 @@ After all ten steps: name your character, answer the Background Questions (§11)
 
 Seven characteristics define the raw material of a character. They are expressed as numbers, usually in the range 3-18.
 
-| Characteristic | Abbreviation | What it covers |
-|---|---|---|
-| Strength | STR | Physical power, lifting, throwing, melee damage |
-| Constitution | CON | Endurance, resistance to damage, stamina |
-| Size | SIZ | Body mass and height; affects damage and HP |
-| Intelligence | INT | Wit, memory, problem-solving; governs skill points |
-| Power | POW | Vital force, spiritual strength, luck; maximum PP |
-| Dexterity | DEX | Speed, agility, fine motor control |
-| Charisma | CHA | Persuasion, leadership, social force |
+| Characteristic | Abbreviation | What it covers                                     |
+| -------------- | ------------ | -------------------------------------------------- |
+| Strength       | STR          | Physical power, lifting, throwing, melee damage    |
+| Constitution   | CON          | Endurance, resistance to damage, stamina           |
+| Size           | SIZ          | Body mass and height; affects damage and HP        |
+| Intelligence   | INT          | Wit, memory, problem-solving; governs skill points |
+| Power          | POW          | Vital force, spiritual strength, luck; maximum PP  |
+| Dexterity      | DEX          | Speed, agility, fine motor control                 |
+| Charisma       | CHA          | Persuasion, leadership, social force               |
 
 ### 2.1 Rolling Characteristics
 
 Roll the following and record each result as it comes. **Heroic scale** is the WSR default: PCs start exceptional.
 
 | Characteristic | Method |
-|---|---|
-| STR | 3D6 |
-| CON | 3D6 |
-| SIZ | 2D6+6 |
-| INT | 2D6+6 |
-| POW | 3D6 |
-| DEX | 3D6 |
-| CHA | 3D6 |
+| -------------- | ------ |
+| STR            | 3D6    |
+| CON            | 3D6    |
+| SIZ            | 2D6+6  |
+| INT            | 2D6+6  |
+| POW            | 3D6    |
+| DEX            | 3D6    |
+| CHA            | 3D6    |
 
 **Redistribution:** After rolling all seven, you may shift up to 3 points between any characteristics. No characteristic may be raised above 21 by redistribution. No characteristic may be reduced below 3. Moving a point from SIZ is unusual: the GM may rule that SIZ cannot be reduced below 8.
 
@@ -66,14 +66,14 @@ Roll the following and record each result as it comes. **Heroic scale** is the W
 
 Each characteristic doubles as a fallback target for tasks that have no appropriate skill. Multiply the relevant characteristic by five and roll against that target.
 
-| Roll | Covers |
-|---|---|
-| STR x5 (Effort) | Raw physical force without a specific skill |
-| CON x5 (Stamina) | Enduring pain, resisting disease, holding breath |
-| INT x5 (Idea) | Sudden insight, recalling a half-forgotten detail |
-| POW x5 (Luck) | Pure fortunate chance |
-| DEX x5 (Agility) | Balance, quick reactions when no skill applies |
-| CHA x5 (Charm) | First impression, raw force of personality |
+| Roll             | Covers                                            |
+| ---------------- | ------------------------------------------------- |
+| STR x5 (Effort)  | Raw physical force without a specific skill       |
+| CON x5 (Stamina) | Enduring pain, resisting disease, holding breath  |
+| INT x5 (Idea)    | Sudden insight, recalling a half-forgotten detail |
+| POW x5 (Luck)    | Pure fortunate chance                             |
+| DEX x5 (Agility) | Balance, quick reactions when no skill applies    |
+| CHA x5 (Charm)   | First impression, raw force of personality        |
 
 Characteristic rolls follow the same four outcome tiers as skill rolls (Critical, Success, Failure, Fumble). They do not earn experience checkmarks.
 
@@ -98,15 +98,15 @@ PP is the character's vital force - spent on sorcery, Fate Point actions, talent
 The damage modifier (dm) reflects the brute-force contribution of size and strength to weapon damage. Add STR + SIZ, then consult:
 
 | STR + SIZ | Damage Modifier |
-|---|---|
-| 1-12 | -1D6 |
-| 13-16 | -1D4 |
-| 17-24 | None |
-| 25-32 | +1D4 |
-| 33-40 | +1D6 |
-| 41-56 | +2D6 |
-| 57-72 | +3D6 |
-| 73+ | +4D6 |
+| --------- | --------------- |
+| 1-12      | -1D6            |
+| 13-16     | -1D4            |
+| 17-24     | None            |
+| 25-32     | +1D4            |
+| 33-40     | +1D6            |
+| 41-56     | +2D6            |
+| 57-72     | +3D6            |
+| 73+       | +4D6            |
 
 The damage modifier applies to all melee and thrown weapon attacks. For thrown and missile weapons, use half the dm (round down). A character with a -1D6 modifier takes that off their roll, to a minimum of 1 point of damage.
 
@@ -122,14 +122,14 @@ The damage modifier applies to all melee and thrown weapon attacks. For thrown a
 
 Each skill belongs to a category. Skills in that category receive a small bonus derived from the governing characteristic:
 
-| Category | Governing Characteristic | Bonus |
-|---|---|---|
-| Combat | (STR + DEX) / 2 | +half the average, rounded up |
-| Communication | (INT + CHA) / 2 | +half the average, rounded up |
-| Manipulation | (DEX + INT) / 2 | +half the average, rounded up |
-| Mental | (INT + POW) / 2 | +half the average, rounded up |
-| Perception | (INT + CON) / 2 | +half the average, rounded up |
-| Physical | (STR + DEX + CON) / 3 | +half the average, rounded up |
+| Category      | Governing Characteristic | Bonus                         |
+| ------------- | ------------------------ | ----------------------------- |
+| Combat        | (STR + DEX) / 2          | +half the average, rounded up |
+| Communication | (INT + CHA) / 2          | +half the average, rounded up |
+| Manipulation  | (DEX + INT) / 2          | +half the average, rounded up |
+| Mental        | (INT + POW) / 2          | +half the average, rounded up |
+| Perception    | (INT + CON) / 2          | +half the average, rounded up |
+| Physical      | (STR + DEX + CON) / 3    | +half the average, rounded up |
 
 Add the relevant category bonus to each skill's base chance. Skills granted by Cultural Background, Profession, or Personal Skill points are added on top of the adjusted base.
 
@@ -394,6 +394,7 @@ Spend these freely on any skills in the WSR skill list (P3). You may spread them
 At chargen, choose **2 talents** from the four talent tables below. You may not choose both from the same table unless the rules for that table explicitly permit it.
 
 **Eligibility constraints:**
+
 - The **Sorcery Talents** table is available only to characters taking the Scholar of the Dark Arts profession.
 - The **Combat Talents** table requires a martial profession (Tribal Warrior, Mercenary Soldier, Sea-Raider, Charioteer, Gladiator/Arena Fighter) or GM approval. Outcasts and Freedmen from martial backgrounds may qualify.
 - The **Stealth & Finesse** and **Social & Cunning** tables are open to all professions.
@@ -529,17 +530,17 @@ Choose three Passions at chargen, player-authored:
 
 A Passion can be any of the following:
 
-| Passion | Examples |
-|---|---|
-| **Love** | "Love of my brother Khess 80%" / "Love of the sea 60%" |
-| **Hate** | "Hatred of the Serpent Throne 80%" / "Hatred of slavers 60%" |
-| **Loyalty** | "Loyalty to my mercenary company 80%" / "Loyalty to Aara who bought my freedom 60%" |
-| **Fear** | "Fear of sorcery 60%" / "Fear of returning to the place of my exile 60%" |
-| **Honor** | "My word, once given, holds 80%" |
-| **Devotion** | "Devotion to the aspect of the storm-god I have sworn by 60%" |
-| **Greed** | "Greed for the treasury of Aktar-Ur 80%" |
-| **Vengeance** | "Vengeance against Lord Mekhet for my family's destruction 80%" |
-| **Dread** | "Dread of what I am becoming 60%" |
+| Passion       | Examples                                                                            |
+| ------------- | ----------------------------------------------------------------------------------- |
+| **Love**      | "Love of my brother Khess 80%" / "Love of the sea 60%"                              |
+| **Hate**      | "Hatred of the Serpent Throne 80%" / "Hatred of slavers 60%"                        |
+| **Loyalty**   | "Loyalty to my mercenary company 80%" / "Loyalty to Aara who bought my freedom 60%" |
+| **Fear**      | "Fear of sorcery 60%" / "Fear of returning to the place of my exile 60%"            |
+| **Honor**     | "My word, once given, holds 80%"                                                    |
+| **Devotion**  | "Devotion to the aspect of the storm-god I have sworn by 60%"                       |
+| **Greed**     | "Greed for the treasury of Aktar-Ur 80%"                                            |
+| **Vengeance** | "Vengeance against Lord Mekhet for my family's destruction 80%"                     |
+| **Dread**     | "Dread of what I am becoming 60%"                                                   |
 
 **Passions are player-authored.** The type is taken from the list; the specific target and phrasing are yours. "Loyalty to the Crown" and "Loyalty to my captain, Verinax" are both Loyalty passions; they will play very differently.
 
@@ -550,6 +551,7 @@ A Passion can be any of the following:
 When a Passion is directly relevant to what the character is attempting, the player may invoke it before making a skill roll.
 
 **Roll against the Passion rating:**
+
 - **Critical:** The character is inspired. Add +50% to the relevant skill for the rest of the scene.
 - **Success:** Add +20% to the relevant skill for the rest of the scene.
 - **Failure:** No bonus. The passion was touched but did not fire. Apply -10% to all further rolls in this scene (distracted and troubled).
@@ -577,22 +579,22 @@ Reputation is a one-way ratchet: it only increases, never decreases. Old accompl
 
 ### 9.1 Starting Reputation by Profession
 
-| Profession | Starting Reputation |
-|---|---|
-| Tribal Warrior | 5% |
-| Mercenary Soldier | 10% |
-| Sea-Raider | 10% |
-| City Thief | 5% |
-| Outlaw-Bard | 15% |
-| Hunter-Tracker | 5% |
-| Charioteer | 15% |
-| Temple Hierophant | 25% |
-| Merchant | 10% |
-| Slave or Freedman | 0% |
-| Scholar of the Dark Arts | 10% |
-| Outcast | 5% |
-| Gladiator or Arena Fighter | 15% |
-| Spy or Infiltrator | 0% |
+| Profession                 | Starting Reputation |
+| -------------------------- | ------------------- |
+| Tribal Warrior             | 5%                  |
+| Mercenary Soldier          | 10%                 |
+| Sea-Raider                 | 10%                 |
+| City Thief                 | 5%                  |
+| Outlaw-Bard                | 15%                 |
+| Hunter-Tracker             | 5%                  |
+| Charioteer                 | 15%                 |
+| Temple Hierophant          | 25%                 |
+| Merchant                   | 10%                 |
+| Slave or Freedman          | 0%                  |
+| Scholar of the Dark Arts   | 10%                 |
+| Outcast                    | 5%                  |
+| Gladiator or Arena Fighter | 15%                 |
+| Spy or Infiltrator         | 0%                  |
 
 **What the character is known for:** Starting Reputation should be tagged with a brief descriptor. A Mercenary Soldier at 10% might be known as "veteran of the Khalash campaign," or "that soldier who refused the order at Mektar." The tag matters - Reputation is not anonymous fame but specific notoriety.
 
@@ -613,13 +615,14 @@ Reputation is a one-way ratchet: it only increases, never decreases. Old accompl
 
 The GM awards Reputation after significant deeds:
 
-| Deed Tier | Gain |
-|---|---|
-| **Notable** deed | +1D3% |
-| **Extraordinary** deed | +1D6% |
-| **Heroic** deed | +2D6% or more |
+| Deed Tier              | Gain          |
+| ---------------------- | ------------- |
+| **Notable** deed       | +1D3%         |
+| **Extraordinary** deed | +1D6%         |
+| **Heroic** deed        | +2D6% or more |
 
 **WSR examples:**
+
 - Notable: besting a known fighter in public combat; breaking a gate single-handed; surviving a place with a deadly reputation.
 - Extraordinary: defeating a sorcerer or supernatural creature; leading a warband to a decisive victory; committing a famous betrayal.
 - Heroic: single-handedly killing a named demon; overthrowing a temple hierarchy; surviving a widely-witnessed doom.
@@ -649,6 +652,7 @@ Choose starting spells from the spell list in P6 §6. The GM may restrict certai
 A starting sorcerer may choose to have already entered a patron compact. This is an opt-in decision. Not every sorcerer has a patron; unbonded sorcerers are more independent but lack the emergency PP reserve.
 
 **If you take a patron:**
+
 1. Name the patron or describe its nature (demon lord, chaos power, dead god, old elemental intelligence). The specifics are yours and the GM's to develop.
 2. Record **Patron Score = 1D6+5** (roughly 6-11 at creation).
 3. You receive the patron's PP reserve benefit and Patron Intercession access as described in P6 §3.2.
@@ -685,22 +689,22 @@ The grimoire is the sorcerer's most valuable possession. Losing it is not the en
 
 Each profession has a typical starting kit. This is the gear the character arrives at the table with; it reflects what someone of that profession would plausibly own and carry. Items in the kit are free; they come with the profession.
 
-| Profession | Starting Kit |
-|---|---|
-| Tribal Warrior | Weapon of choice (hand axe or spear, standard quality), leather armour or hide, belt knife, 5 Drams |
-| Mercenary Soldier | Sword or spear (standard), light shield, leather or scale armour, belt knife, 10 Drams |
-| Sea-Raider | Axe or sword (standard), dagger, light hide armour, 50m rope, 8 Drams |
-| City Thief | Dagger, lockpicks (Fine Manipulation +10% for these specific tools), dark clothing, 5 Drams |
-| Outlaw-Bard | Instrument or storyteller's props, dagger, travelling cloak, 8 Drams |
-| Hunter-Tracker | Spear or bow (standard, with 20 arrows if bow), hunting knife, hide armour, 3 Drams |
-| Charioteer | Composite bow (standard) with 30 arrows, dagger, scale armour, 15 Drams |
-| Temple Hierophant | Ceremonial robes, seal-ring of office, writing tools and blank scrolls, dagger, 2 Staters |
-| Merchant | Accounting tablets and seal, quality travelling clothes, dagger, donkey or pack animal, 3 Staters |
-| Slave or Freedman | Belt knife, worn but functional clothing, 2 Drams |
-| Scholar of the Dark Arts | Grimoire (chosen format), writing materials, dark or travelling clothes, dagger, 5 Drams |
-| Outcast | Whatever they could carry when they left (GM-negotiated starting kit within Poor wealth level) |
-| Gladiator or Arena Fighter | Arena weapon of choice (standard quality), arena armour (light, 3 AP), street clothes, 8 Drams |
-| Spy or Infiltrator | Disguise kit (+15% Disguise for these materials), quality street clothes, thin blade, 15 Drams |
+| Profession                 | Starting Kit                                                                                        |
+| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| Tribal Warrior             | Weapon of choice (hand axe or spear, standard quality), leather armour or hide, belt knife, 5 Drams |
+| Mercenary Soldier          | Sword or spear (standard), light shield, leather or scale armour, belt knife, 10 Drams              |
+| Sea-Raider                 | Axe or sword (standard), dagger, light hide armour, 50m rope, 8 Drams                               |
+| City Thief                 | Dagger, lockpicks (Fine Manipulation +10% for these specific tools), dark clothing, 5 Drams         |
+| Outlaw-Bard                | Instrument or storyteller's props, dagger, travelling cloak, 8 Drams                                |
+| Hunter-Tracker             | Spear or bow (standard, with 20 arrows if bow), hunting knife, hide armour, 3 Drams                 |
+| Charioteer                 | Composite bow (standard) with 30 arrows, dagger, scale armour, 15 Drams                             |
+| Temple Hierophant          | Ceremonial robes, seal-ring of office, writing tools and blank scrolls, dagger, 2 Staters           |
+| Merchant                   | Accounting tablets and seal, quality travelling clothes, dagger, donkey or pack animal, 3 Staters   |
+| Slave or Freedman          | Belt knife, worn but functional clothing, 2 Drams                                                   |
+| Scholar of the Dark Arts   | Grimoire (chosen format), writing materials, dark or travelling clothes, dagger, 5 Drams            |
+| Outcast                    | Whatever they could carry when they left (GM-negotiated starting kit within Poor wealth level)      |
+| Gladiator or Arena Fighter | Arena weapon of choice (standard quality), arena armour (light, 3 AP), street clothes, 8 Drams      |
+| Spy or Infiltrator         | Disguise kit (+15% Disguise for these materials), quality street clothes, thin blade, 15 Drams      |
 
 ### 11.2 Starting Coin Allowance
 

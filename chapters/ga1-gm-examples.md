@@ -16,8 +16,8 @@ Locked decisions applied:
 
 # GA1. Appendix: GM Examples
 
-> *"Men of the waste lands were not accustomed to the subtleties of civilized intrigue, but they could read signs."*
-> *- Robert E. Howard*
+> _"Men of the waste lands were not accustomed to the subtleties of civilized intrigue, but they could read signs."_
+> _- Robert E. Howard_
 
 This appendix contains worked examples for the GM Book. Each section walks through a specific GM-side task in detail - the thinking, the choices, and the mechanical callouts - so you can see the tools from G1-G7 in action rather than simply described. The player-facing counterpart to this appendix is PA2; where a situation appears in both, the cross-reference is noted.
 
@@ -29,7 +29,7 @@ Characters from PA2 - Khess the Knife, Orryn, and Karash - appear throughout. Us
 
 ## 1. Designing a Session
 
-*This example shows a GM building a single session using the G1 hook-complications-reckoning framework. The GM is preparing between sessions. The group already has established PCs: Khess the Knife (City Thief), Orryn (Mercenary Soldier), and Karash (Scholar of the Dark Arts).*
+_This example shows a GM building a single session using the G1 hook-complications-reckoning framework. The GM is preparing between sessions. The group already has established PCs: Khess the Knife (City Thief), Orryn (Mercenary Soldier), and Karash (Scholar of the Dark Arts)._
 
 ---
 
@@ -73,7 +73,7 @@ The hook needs to be specific, engage a Passion, and make the stakes clear (G1 �
 
 **The Passion hook:** Brine is asking for help on behalf of someone she vouches for. Khess's Loyalty to Brine (60%) is directly engaged. The framing also touches her Hatred of the Syndicate (80%) because the Syndicate is behind the false accusation.
 
-*The GM plans that a Passion invocation here - Khess rolling against Loyalty to Brine - will give +20% to negotiation and information-gathering rolls in the first scene. The player may invoke either Passion; the Syndicate connection makes the Hatred invoke legitimate too.*
+_The GM plans that a Passion invocation here - Khess rolling against Loyalty to Brine - will give +20% to negotiation and information-gathering rolls in the first scene. The player may invoke either Passion; the Syndicate connection makes the Hatred invoke legitimate too._
 
 **The stakes:** The prefect will sell Essa to a labour contractor if she is not bailed within three days. This engages Orryn's Hatred of slavers if it comes out - and the GM plans to have it come out at the end of the hook scene, when Brine mentions where the contractor ships his labour. This gives the GM two Passions firing by the end of the hook, before the PCs have left the room.
 
@@ -87,7 +87,7 @@ Per G1 §2.2: the situation gets worse while the PCs are looking the other way. 
 
 **Complication two - the sorcerous residue.** When Karash enters the lower archive (which he will, because a sorcerer's player never passes up "ancient ruin beneath the city"), See the Unseen will immediately reveal three things: the Ward on the inner sanctum (a moderate-strength working, Intensity 3), the encoded sorcery in the walls pulsing with recent activation, and a second presence - another sorcerer's recent casting signature, overlaid on the Syndicate clerk's lamp oil smell. Someone else has been working in here.
 
-*This complication pulls Karash's player into the mystery and gives the session a secondary threat that has nothing to do with the Passions driving the first complication. Good complication design uses a different PC as the locus.*
+_This complication pulls Karash's player into the mystery and gives the session a secondary threat that has nothing to do with the Passions driving the first complication. Good complication design uses a different PC as the locus._
 
 ---
 
@@ -109,17 +109,17 @@ Per G1 §2.3: three acceptable endings. The GM decides the default reckoning is 
 
 The GM needs the Syndicate clerk who makes the forgeries. This is a professional, not a mook (G2 §1.2). Name: Perrak. Function: document forger, occasionally sorcerous dabbler (low-tier, self-taught, no patron).
 
-*Perrak's stat block is drafted in fifteen minutes using G2 §3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10), no Patron, Corruption 78 (self-taught sorcerers who do not know the Corruption rules pay a heavy price). He has See the Unseen as his only memorised spell and uses it obsessively to check for intruders - which is how the secondary casting signature in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and his Corruption is leaking into the encoded walls.*
+_Perrak's stat block is drafted in fifteen minutes using G2 §3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10), no Patron, Corruption 78 (self-taught sorcerers who do not know the Corruption rules pay a heavy price). He has See the Unseen as his only memorised spell and uses it obsessively to check for intruders - which is how the secondary casting signature in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and his Corruption is leaking into the encoded walls._
 
 This changes the deep-past texture of the archive from "dangerous unknown" to "dangerous known plus Perrak's unknowing amplification" - which is funnier and more human, and makes the PCs' choice about what to do with Perrak a genuine moral one. They can turn him in alongside the forged document. They can let him go, knowing what he is sitting on. They can warn him what the walls are doing with his castings.
 
-*Per G1 §3.4: the GM does not resolve this for the PCs. Perrak is in the archive. What happens to him is their call.*
+_Per G1 §3.4: the GM does not resolve this for the PCs. Perrak is in the archive. What happens to him is their call._
 
 ---
 
 ## 2. Designing an NPC Sorcerer Step-by-Step
 
-*This example walks through the G4 §1 framework to build a mid-tier patron sorcerer as a named antagonist. The result is a character the GM can drop into any scenario that involves a regional cult or a patron's local instrument.*
+_This example walks through the G4 §1 framework to build a mid-tier patron sorcerer as a named antagonist. The result is a character the GM can drop into any scenario that involves a regional cult or a patron's local instrument._
 
 ---
 
@@ -148,16 +148,17 @@ She is not hunting them. She is working a parallel angle on the same artifact. W
 **Characteristics:**
 
 | Characteristic | Value |
-|---|---|
-| STR | 10 |
-| CON | 11 |
-| SIZ | 11 |
-| INT | 18 |
-| POW | 19 |
-| DEX | 14 |
-| CHA | 13 |
+| -------------- | ----- |
+| STR            | 10    |
+| CON            | 11    |
+| SIZ            | 11    |
+| INT            | 18    |
+| POW            | 19    |
+| DEX            | 14    |
+| CHA            | 13    |
 
 **Derived:**
+
 - **HP:** (CON + SIZ) / 2 = (11 + 11) / 2 = **11 HP**
 - **PP:** Equal to POW = **19 PP** (plus patron reserve: up to 3 PP per draw, three times per session at Patron Score 28)
 - **Major Wound Threshold:** 5 (half of 11, rounded up - she is fragile)
@@ -170,15 +171,15 @@ She is not hunting them. She is working a parallel angle on the same artifact. W
 
 Ysolde spent twelve years in study and field research. Her profession skills reflect a Scholarly background.
 
-| Skill | Rating |
-|---|---|
-| Knowledge (Blasphemous Lore) | 70% |
-| Knowledge (History) | 65% |
-| Research | 65% |
-| Insight | 55% |
-| Deceive | 50% |
-| Persuade | 45% |
-| Dagger | 30% |
+| Skill                        | Rating |
+| ---------------------------- | ------ |
+| Knowledge (Blasphemous Lore) | 70%    |
+| Knowledge (History)          | 65%    |
+| Research                     | 65%    |
+| Insight                      | 55%    |
+| Deceive                      | 50%    |
+| Persuade                     | 45%    |
+| Dagger                       | 30%    |
 
 She can fight in an emergency. She would strongly prefer not to.
 
@@ -191,7 +192,7 @@ Ysolde is bonded to the Charnel Heir (G4 §4.3). The relevant mechanics:
 - **Patron Score:** 28. PP reserve: up to 3 PP per draw, three times per session.
 - **Demands she is actively fulfilling:** "Advance the lineage" (she is hunting the bloodline artifact); "Read the record" (monthly commune, which she finds increasingly distressing).
 - **Demand she has avoided:** "The dead are owed" - she has not been able to bring herself to perform the post-death property ritual. This is the fracture in her compact she does not want the PCs to see.
-- **Gift active:** *Speak to the Dead* - she may question recently dead persons. She has used this three times. All three experiences reinforced that she is not ready for what the Charnel Heir wants from her.
+- **Gift active:** _Speak to the Dead_ - she may question recently dead persons. She has used this three times. All three experiences reinforced that she is not ready for what the Charnel Heir wants from her.
 
 ---
 
@@ -199,20 +200,20 @@ Ysolde is bonded to the Charnel Heir (G4 §4.3). The relevant mechanics:
 
 Ysolde's INT is 18, so she may hold 18 levels of spells in memory. She has chosen carefully.
 
-| Spell | Level | Use |
-|---|---|---|
-| See the Unseen | 1 | Constant - she is always watching |
-| Veil of the Ancient | 2 | She has a perimeter alarm on her current lodgings |
-| Iron Ward (Intensity 2) | 2 | Her first defensive response |
-| Bird's Eye (Intensity 3) | 3 | Research and surveillance |
-| Vermin's Eye (Intensity 2) | 2 | Her preferred infiltration tool |
-| Liken Shape (Intensity 2) | 2 | She travels under other faces regularly |
-| Still the Mind | 2 | For ending conversations before they escalate |
-| Inescapable Bonds (Intensity 2) | 2 | Last resort before retreat |
+| Spell                           | Level | Use                                               |
+| ------------------------------- | ----- | ------------------------------------------------- |
+| See the Unseen                  | 1     | Constant - she is always watching                 |
+| Veil of the Ancient             | 2     | She has a perimeter alarm on her current lodgings |
+| Iron Ward (Intensity 2)         | 2     | Her first defensive response                      |
+| Bird's Eye (Intensity 3)        | 3     | Research and surveillance                         |
+| Vermin's Eye (Intensity 2)      | 2     | Her preferred infiltration tool                   |
+| Liken Shape (Intensity 2)       | 2     | She travels under other faces regularly           |
+| Still the Mind                  | 2     | For ending conversations before they escalate     |
+| Inescapable Bonds (Intensity 2) | 2     | Last resort before retreat                        |
 
 **Total levels memorised:** 16 of 18. She has two levels of capacity in reserve.
 
-**Grimoire notes:** Ysolde's grimoire also contains Moonrise, Undo Sorcery (she calls it *The Erasure*), and a partial formula for a unique spell she has not completed - a working she has been building from fragments of the Charnel Heir's historical records for eight months. The GM does not define the partial spell further until it becomes scenario-relevant.
+**Grimoire notes:** Ysolde's grimoire also contains Moonrise, Undo Sorcery (she calls it _The Erasure_), and a partial formula for a unique spell she has not completed - a working she has been building from fragments of the Charnel Heir's historical records for eight months. The GM does not define the partial spell further until it becomes scenario-relevant.
 
 ---
 
@@ -256,9 +257,9 @@ Fate Point access: Yes (full named-antagonist PP pool, spends normally).
 
 ## 3. Running a Chase Scene at the Table
 
-*Khess has been spotted in the Syndicate archive. Two professional Syndicate enforcers and a mook are in pursuit. Khess is on foot; the enforcers are on foot; the mook is on horseback but the route is through the merchant quarter's narrow streets.*
+_Khess has been spotted in the Syndicate archive. Two professional Syndicate enforcers and a mook are in pursuit. Khess is on foot; the enforcers are on foot; the mook is on horseback but the route is through the merchant quarter's narrow streets._
 
-*This example runs three chase rounds and a conclusion. Cross-reference G6 §7 for the full framework being applied here.*
+_This example runs three chase rounds and a conclusion. Cross-reference G6 §7 for the full framework being applied here._
 
 ---
 
@@ -284,11 +285,11 @@ Fate Point access: Yes (full named-antagonist PP pool, spends normally).
 
 **Starting position:** Engaged.
 
-**Khess** rolls Agility (she is using the market crowds, so the GM rules this is the relevant skill rather than CON). Agility base for Khess: she has DEX 18; Agility is typically DEX x4 = 72%. She rolls **34** - success. *Matching-dice check: 33 is a matching value and within her skill. But she rolled 34, not 33. She did not roll a critical.*
+**Khess** rolls Agility (she is using the market crowds, so the GM rules this is the relevant skill rather than CON). Agility base for Khess: she has DEX 18; Agility is typically DEX x4 = 72%. She rolls **34** - success. _Matching-dice check: 33 is a matching value and within her skill. But she rolled 34, not 33. She did not roll a critical._
 
 **Lead enforcer** (Professional, Agility 50%). Rolls **63** - failure.
 
-*Result: Pursuer failed, quarry succeeded. Position shifts one step further away. Engaged becomes Distant.*
+_Result: Pursuer failed, quarry succeeded. Position shifts one step further away. Engaged becomes Distant._
 
 **Narration:** "You scatter three tiers of pomegranates off a trestle table as you cut through - the vendor's shout covers the sound of your boots - and when you glance back through the crowd, the first enforcer has stumbled into the cleared space and lost you for a beat. You are pulling away."
 
@@ -302,11 +303,11 @@ Khess reaches the chandler's shop. The low roof connection is her planned escape
 
 **Lead enforcer Climb roll** (his Climb is 40%): rolls **67** - failure. He fails the obstacle - loses one additional position from the standard result.
 
-**Khess's chase roll (CON this round - the climb is physical effort):** CON for Khess is 10; CON x5 = 50%. Rolls **23** - success. *Matching-dice check: 22 is a matching value and within 50%. She rolled 23. Not a critical.*
+**Khess's chase roll (CON this round - the climb is physical effort):** CON for Khess is 10; CON x5 = 50%. Rolls **23** - success. _Matching-dice check: 22 is a matching value and within 50%. She rolled 23. Not a critical._
 
 **Lead enforcer's chase roll** (CON x5 = 55%): rolls **78** - failure.
 
-*Result: Standard chase - quarry succeeds, pursuer fails - position moves one further away (Distant to Out of Sight). Plus the enforcer's obstacle failure means one additional position, but Out of Sight is already the end of the track. The GM narrates the obstacle failure as the enforcer landing badly on the roof edge and losing ground dramatically.*
+_Result: Standard chase - quarry succeeds, pursuer fails - position moves one further away (Distant to Out of Sight). Plus the enforcer's obstacle failure means one additional position, but Out of Sight is already the end of the track. The GM narrates the obstacle failure as the enforcer landing badly on the roof edge and losing ground dramatically._
 
 **Position: Out of Sight (first consecutive round).**
 
@@ -320,7 +321,7 @@ Khess has one round of Out of Sight. She needs a second to end the chase.
 
 **Khess's final roll:** CON x5 = 50%. Rolls **18** - success.
 
-*No pursuer succeeds this round. Position remains Out of Sight - second consecutive round.*
+_No pursuer succeeds this round. Position remains Out of Sight - second consecutive round._
 
 **Chase ends: Khess has escaped.**
 
@@ -341,9 +342,9 @@ Khess has one round of Out of Sight. She needs a second to end the chase.
 
 ## 4. Adjudicating Sorcery Costs in Play
 
-*This example shows the GM's side of a sorcerer PC's major casting. The player-side version of this mechanics appears in PA2 §3; read that first. This section shows what the GM is doing and deciding while the player runs Karash through the same casting.*
+_This example shows the GM's side of a sorcerer PC's major casting. The player-side version of this mechanics appears in PA2 §3; read that first. This section shows what the GM is doing and deciding while the player runs Karash through the same casting._
 
-*Context: Karash wants to cast Bind the Raging Heart at Intensity 3 on a named professional antagonist who is mid-combat. The spell will remove the target from the fight. The PP cost is significant, the Corruption risk is real, and the iron check matters because the GM placed iron weapons on the antagonist.*
+_Context: Karash wants to cast Bind the Raging Heart at Intensity 3 on a named professional antagonist who is mid-combat. The spell will remove the target from the fight. The PP cost is significant, the Corruption risk is real, and the iron check matters because the GM placed iron weapons on the antagonist._
 
 ---
 
@@ -359,7 +360,7 @@ Bind the Raging Heart at Intensity 3: base cost 3 PP (one PP per intensity). Kar
 
 The antagonist is not wearing iron - he is a desert mercenary in leather armour with a bronze khopesh. No iron problem for the target. But Karash himself - the GM checks the PC sheet. Karash has dressed carefully for this job (per PA2 §3.2 - the player established this earlier). No iron penalty on the caster.
 
-*If the GM had placed iron on Karash - say, if he had picked up a utility knife with an iron blade earlier in the session without flagging it - the penalty would apply now: -5% per ENC of iron on his person, deducted from his Sorcery skill. The GM reminds players of this possibility when they take iron items, not retroactively at a bad moment.*
+_If the GM had placed iron on Karash - say, if he had picked up a utility knife with an iron blade earlier in the session without flagging it - the penalty would apply now: -5% per ENC of iron on his person, deducted from his Sorcery skill. The GM reminds players of this possibility when they take iron items, not retroactively at a bad moment._
 
 **3. What is the Corruption cost?**
 
@@ -371,7 +372,7 @@ The GM flags this to himself. The player may not know this specific nuance until
 
 Bind the Raging Heart requires the target to fail a POW resistance roll (the spell's active vs. passive is Karash's remaining PP after casting vs. the target's POW). The antagonist has POW 13. Karash will have 9 PP remaining after the cost. Base chance = 50% + (9x5) - (13x5) = 50% + 45 - 65 = **30%.** The spell has a 30% chance of taking hold.
 
-*The GM calculates this silently. The player should know what the base casting roll is; the resistance roll is disclosed once the casting succeeds.*
+_The GM calculates this silently. The player should know what the base casting roll is; the resistance roll is disclosed once the casting succeeds._
 
 **5. What is the casting drama?**
 
@@ -413,7 +414,7 @@ More importantly: the Faceless One's demands (G4 §4.2) include "No attachments"
 
 The GM does not say this out loud. But the GM knows it. If the player invokes the Faceless One and the allegiance roll succeeds, the intervention will arrive in a way that aligns with the patron's domain - transformation, loss, irreversible change - rather than simply binding the mercenary. The intervention might work on the mercenary, or it might work on something else in the scene. The Faceless One is not a precise tool.
 
-*This is the GM's side of the patron compact: knowing what the patron would and would not do, and running that honestly even when it is inconvenient for the PC. The player knows their patron's demands from their character sheet (P6 §3.2). The GM knows what those demands mean in practice.*
+_This is the GM's side of the patron compact: knowing what the patron would and would not do, and running that honestly even when it is inconvenient for the PC. The player knows their patron's demands from their character sheet (P6 §3.2). The GM knows what those demands mean in practice._
 
 Karash does not invoke. The player decides 9 PP is enough for a Deflect the Killing Blow if needed, and the mercenary is already badly wounded from Orryn's earlier attack. They will finish the fight the old way.
 

@@ -1,7 +1,7 @@
 # PA2. Appendix: Examples
 
-> *"He had been born on a battlefield, had grown to manhood fighting in a hundred wars, and his life had been one long adventure of peril and wild action."*
-> *- Robert E. Howard*
+> _"He had been born on a battlefield, had grown to manhood fighting in a hundred wars, and his life had been one long adventure of peril and wild action."_
+> _- Robert E. Howard_
 
 This appendix contains worked examples for the rules in the Player Book. The examples demonstrate mechanics in action - they are not summaries of the rules. When you want to understand how the percentile roll works, see P4. When you want to see it happen to a specific character in a specific fight, read here.
 
@@ -34,14 +34,14 @@ No characteristic rolled a 1, so no reroll is triggered (see P2 §2.1).
 **Redistribution.** The player moves 2 points: 1 from STR (dropping it to 9) into DEX (raising it to 17), and 1 from CON (dropping it to 10) into DEX (raising it to 18). No characteristic may be raised above 21 or reduced below 3. Final:
 
 | Characteristic | Value |
-|---|---|
-| STR | 9 |
-| CON | 10 |
-| SIZ | 13 |
-| INT | 14 |
-| POW | 13 |
-| DEX | 18 |
-| CHA | 12 |
+| -------------- | ----- |
+| STR            | 9     |
+| CON            | 10    |
+| SIZ            | 13    |
+| INT            | 14    |
+| POW            | 13    |
+| DEX            | 18    |
+| CHA            | 12    |
 
 Khess is fast and clever. She is not strong.
 
@@ -63,14 +63,14 @@ Khess is fast and clever. She is not strong.
 
 **Skill Category Bonuses.** (See P2 §3.6.)
 
-| Category | Governing Characteristics | Bonus |
-|---|---|---|
-| Combat | (STR + DEX) / 2 = (9 + 18) / 2 = 13.5 | +7 |
-| Communication | (INT + CHA) / 2 = (14 + 12) / 2 = 13 | +7 |
-| Manipulation | (DEX + INT) / 2 = (18 + 14) / 2 = 16 | +8 |
-| Mental | (INT + POW) / 2 = (14 + 13) / 2 = 13.5 | +7 |
-| Perception | (INT + CON) / 2 = (14 + 10) / 2 = 12 | +6 |
-| Physical | (STR + DEX + CON) / 3 = (9 + 18 + 10) / 3 = 12.3 | +6 |
+| Category      | Governing Characteristics                        | Bonus |
+| ------------- | ------------------------------------------------ | ----- |
+| Combat        | (STR + DEX) / 2 = (9 + 18) / 2 = 13.5            | +7    |
+| Communication | (INT + CHA) / 2 = (14 + 12) / 2 = 13             | +7    |
+| Manipulation  | (DEX + INT) / 2 = (18 + 14) / 2 = 16             | +8    |
+| Mental        | (INT + POW) / 2 = (14 + 13) / 2 = 13.5           | +7    |
+| Perception    | (INT + CON) / 2 = (14 + 10) / 2 = 12             | +6    |
+| Physical      | (STR + DEX + CON) / 3 = (9 + 18 + 10) / 3 = 12.3 | +6    |
 
 ---
 
@@ -81,6 +81,7 @@ Khess grew up in a Levantine trading port: merchants, scribes, priests, and spie
 **Starting language:** Aramaic (INT x5 = 70%).
 
 **Cultural skills gained:**
+
 - Bargain +15%
 - Insight +10%
 - Language (one additional) +20% - she takes Greek
@@ -100,26 +101,27 @@ Khess spent several years working the markets, warehouses, and back-alleys of he
 
 **Heroic profession skill allocation:** 325 points distributed across the twelve profession skills. No single skill may start above 75%.
 
-*Starting from base chance + category bonus, then add profession points:*
+_Starting from base chance + category bonus, then add profession points:_
 
-| Skill | Base | Category Bonus | Adjusted Base | Profession Points Added | Total |
-|---|---|---|---|---|---|
-| Bargain | 05% | +7 | 12% | +30 | 42% |
-| Climb | 40% | +6 | 46% | +15 | 61% |
-| Disguise | 01% | +7 | 08% | +20 | 28% |
-| Dodge | DEX x2 = 36% | +7 | 43% | +20 | 63% |
-| Etiquette (Thieves' Guild) | 05% | +7 | 12% | +20 | 32% |
-| Fine Manipulation | 05% | +8 | 13% | +30 | 43% |
-| Hide | 10% | +6 | 16% | +30 | 46% |
-| Insight | 05% | +6 | 11% | +35 | 46% |
-| Sleight of Hand | 05% | +8 | 13% | +35 | 48% |
-| Spot | 25% | +6 | 31% | +30 | 61% |
-| Stealth | 10% | +6 | 16% | +35 | 51% |
-| Fast Talk | 05% | +7 | 12% | +25 | 37% |
+| Skill                      | Base         | Category Bonus | Adjusted Base | Profession Points Added | Total |
+| -------------------------- | ------------ | -------------- | ------------- | ----------------------- | ----- |
+| Bargain                    | 05%          | +7             | 12%           | +30                     | 42%   |
+| Climb                      | 40%          | +6             | 46%           | +15                     | 61%   |
+| Disguise                   | 01%          | +7             | 08%           | +20                     | 28%   |
+| Dodge                      | DEX x2 = 36% | +7             | 43%           | +20                     | 63%   |
+| Etiquette (Thieves' Guild) | 05%          | +7             | 12%           | +20                     | 32%   |
+| Fine Manipulation          | 05%          | +8             | 13%           | +30                     | 43%   |
+| Hide                       | 10%          | +6             | 16%           | +30                     | 46%   |
+| Insight                    | 05%          | +6             | 11%           | +35                     | 46%   |
+| Sleight of Hand            | 05%          | +8             | 13%           | +35                     | 48%   |
+| Spot                       | 25%          | +6             | 31%           | +30                     | 61%   |
+| Stealth                    | 10%          | +6             | 16%           | +35                     | 51%   |
+| Fast Talk                  | 05%          | +7             | 12%           | +25                     | 37%   |
 
-*(Total profession points spent: 325.)*
+_(Total profession points spent: 325.)_
 
 **Cultural bonuses applied on top** (these stack):
+
 - Bargain +15%: now **57%**
 - Insight +10%: now **56%**
 - Research +10% (added as a new skill not in bundle): Research = 25% base + 6% category + 10% = **41%**
@@ -132,16 +134,16 @@ Khess spent several years working the markets, warehouses, and back-alleys of he
 
 The player spreads these across skills, choosing what Khess picked up outside her formal criminal career. No skill may be raised above 75%.
 
-| Skill | Points Spent | Resulting Total |
-|---|---|---|
-| Dagger (Melee Weapon specialty) | +35 | 20% base + 7% cat + 35 = **62%** |
-| Parry (Dagger) | +25 | 10% base + 7% cat + 25 = **42%** |
-| Swim | +20 | 25% base + 6% cat + 20 = **51%** |
-| Language (Greek) | +15 | 0% base + 20% cultural + 15 = **35%** |
-| Knowledge (Streetwise) | +20 | 01% base + 7% cat + 20 = **28%** |
-| Listen | +25 | 25% base + 6% cat + 25 = **56%** |
+| Skill                           | Points Spent | Resulting Total                       |
+| ------------------------------- | ------------ | ------------------------------------- |
+| Dagger (Melee Weapon specialty) | +35          | 20% base + 7% cat + 35 = **62%**      |
+| Parry (Dagger)                  | +25          | 10% base + 7% cat + 25 = **42%**      |
+| Swim                            | +20          | 25% base + 6% cat + 20 = **51%**      |
+| Language (Greek)                | +15          | 0% base + 20% cultural + 15 = **35%** |
+| Knowledge (Streetwise)          | +20          | 01% base + 7% cat + 20 = **28%**      |
+| Listen                          | +25          | 25% base + 6% cat + 25 = **56%**      |
 
-*(Total personal points spent: 140.)*
+_(Total personal points spent: 140.)_
 
 ---
 
@@ -149,9 +151,9 @@ The player spreads these across skills, choosing what Khess picked up outside he
 
 Khess chooses 2 talents. She qualifies for the Stealth and Finesse table and the Social and Cunning table. She takes one from each.
 
-**Stealth and Finesse:** *The Quiet Knife* (4 PP). When attacking a target who has not yet acted in the round and is not in active combat, her attack is treated as having initiative advantage regardless of Strike Rank. The target cannot declare a parry or dodge before the attack resolves.
+**Stealth and Finesse:** _The Quiet Knife_ (4 PP). When attacking a target who has not yet acted in the round and is not in active combat, her attack is treated as having initiative advantage regardless of Strike Rank. The target cannot declare a parry or dodge before the attack resolves.
 
-**Social and Cunning:** *Cold Read* (2 PP). On an Insight roll, she also determines whether the target is armed and where the weapon is, what they would most readily trade, and whether they have a patron or superior they fear.
+**Social and Cunning:** _Cold Read_ (2 PP). On an Insight roll, she also determines whether the target is armed and where the weapon is, what they would most readily trade, and whether they have a patron or superior they fear.
 
 ---
 
@@ -167,7 +169,7 @@ Khess must record three passions: one at 80%, two at 60%. Passions are player-au
 
 ### 1.8 Step 8: Reputation
 
-Starting Reputation for City Thief: **5%.** Khess tags it: *"the girl who climbed the Harbormaster's archive and came back with something nobody was supposed to see."*
+Starting Reputation for City Thief: **5%.** Khess tags it: _"the girl who climbed the Harbormaster's archive and came back with something nobody was supposed to see."_
 
 ---
 
@@ -206,14 +208,14 @@ Khess is not a sorcerer. She skips this step.
 **Distinctive features:** A scar across the bridge of her nose from a knife-fight she won when she was fourteen. She has a habit of standing with her back to the wall and her eyes on the exits.
 
 | Characteristic | Value |
-|---|---|
-| STR | 9 |
-| CON | 10 |
-| SIZ | 13 |
-| INT | 14 |
-| POW | 13 |
-| DEX | 18 |
-| CHA | 12 |
+| -------------- | ----- |
+| STR            | 9     |
+| CON            | 10    |
+| SIZ            | 13    |
+| INT            | 14    |
+| POW            | 13    |
+| DEX            | 18    |
+| CHA            | 12    |
 
 **HP:** 12 | **PP:** 13 | **dm:** None | **MOV:** 10 | **Exp Bonus:** 7
 
@@ -223,7 +225,7 @@ Khess is not a sorcerer. She skips this step.
 
 **Passions:** Hatred of the Serpent Syndicate 80%, Loyalty to Brine 60%, Greed for the treasury of Aktar-Ur 60%
 
-**Reputation:** 5% - *"the girl who climbed the Harbormaster's archive"*
+**Reputation:** 5% - _"the girl who climbed the Harbormaster's archive"_
 
 **Starting kit:** Dagger, lockpicks, dark clothing, belt pouch, 2 Drams
 
@@ -233,29 +235,34 @@ Khess is not a sorcerer. She skips this step.
 
 ## 2. Combat Example: The Ambush at the Salt Causeway
 
-*Khess the Knife (from Section 1 above) is working with two companions: Orryn, a Mercenary Soldier, and the unnamed sorcerer Karash. They have been hired to escort a salt merchant's ledger to a buyer across the city. Three members of the Serpent Syndicate are waiting in an alley mouth on the Salt Causeway: one named enforcer, Davan the Flayer, and two hired mooks.*
+_Khess the Knife (from Section 1 above) is working with two companions: Orryn, a Mercenary Soldier, and the unnamed sorcerer Karash. They have been hired to escort a salt merchant's ledger to a buyer across the city. Three members of the Serpent Syndicate are waiting in an alley mouth on the Salt Causeway: one named enforcer, Davan the Flayer, and two hired mooks._
 
 ---
 
 ### 2.1 Set-Up: Characteristics at the Moment of the Fight
 
 **Khess the Knife** (City Thief, from Section 1):
+
 - HP 12, PP 13, DEX 18, Dagger 62%, Dodge 63%, Stealth 51%
 
 **Orryn** (Mercenary Soldier, abbreviated stat block):
+
 - HP 14, PP 11, DEX 13, Sword 65%, Parry (Sword) 55%, Dodge 38%
 
 **Karash** (Scholar of the Dark Arts, abbreviated stat block):
+
 - HP 10, PP 16, POW 17, DEX 11, Corruption 85
 
 **Davan the Flayer** (named antagonist):
+
 - HP 12, PP 9, DEX 15, Khopesh 60%, Parry (Khopesh) 50%
-- *Reputation: a known enforcer for the Syndicate.*
+- _Reputation: a known enforcer for the Syndicate._
 
 **Mook A and Mook B** (hired swords):
+
 - HP 9 each, DEX 11, Sword 35%
-- *Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a mook (P5 §8).*
-- *No PP. No Fate Point access.*
+- _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a mook (P5 §8)._
+- _No PP. No Fate Point access._
 
 ---
 
@@ -264,6 +271,7 @@ Khess is not a sorcerer. She skips this step.
 The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the mooks flank him.
 
 **Initiative order by DEX (highest goes last in the Statements phase; acts first in Action phase):**
+
 1. Khess - DEX 18 (declares last; acts first)
 2. Davan - DEX 15
 3. Orryn - DEX 13
@@ -273,7 +281,7 @@ The ambush breaks as the party rounds a corner. Three men step out of an alley m
 
 **Statements phase (declared from DEX 11 upward - lowest DEX declares first):**
 
-Karash (DEX 11) declares: he will cast *Cloak of Night* at Intensity 1 on Khess, next Phase Two.
+Karash (DEX 11) declares: he will cast _Cloak of Night_ at Intensity 1 on Khess, next Phase Two.
 
 Mook A and B declare: each will advance and attack Orryn.
 
@@ -285,13 +293,13 @@ Khess declares last, with the most information: she will move to flank Davan and
 
 **Phase Two (Powers):**
 
-Karash casts *Cloak of Night* at Intensity 1 (see P6 §6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Stealth. Her Stealth is now effectively 71% for the duration.
+Karash casts _Cloak of Night_ at Intensity 1 (see P6 §6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Stealth. Her Stealth is now effectively 71% for the duration.
 
 No Corruption roll: Intensity 1 and 2 spells trigger the Corruption roll only on failure; standard casting Corruption applies (see P6 §3.3 - casting Intensity 1: 0 / 1 Corruption). Karash rolls against his Corruption of 85: he rolls 44. Success. No Corruption lost this round.
 
 **Phase Three (Action - descending DEX):**
 
-**Khess acts first (DEX 18).** Davan has not yet acted. Khess spends 4 PP to activate *The Quiet Knife*: her attack is treated as having initiative advantage; Davan cannot parry or dodge.
+**Khess acts first (DEX 18).** Davan has not yet acted. Khess spends 4 PP to activate _The Quiet Knife_: her attack is treated as having initiative advantage; Davan cannot parry or dodge.
 
 She moves from the entry of the alley to Davan's flank (Short Move - no DEX penalty). She attacks with her dagger: rolls **47** against Dagger 62%.
 
@@ -299,9 +307,9 @@ She moves from the entry of the alley to Davan's flank (Short Move - no DEX pena
 >
 > Khess's player considers a PP-buy. The nearest matching value below 47 within her skill (62%) is 44. Cost: 47 - 44 = **3 PP.** She has 9 PP remaining (13 - 4 for The Quiet Knife = 9). She pays 3 PP. Her roll is now treated as **44** - a Critical Success. Severity band: 44 = Band D (see PA1 §1.2 and P5 §10.2).
 
-Khess's player announces: *"She bought that critical. Dagger, Pierce type."* No defence is available because of The Quiet Knife talent.
+Khess's player announces: _"She bought that critical. Dagger, Pierce type."_ No defence is available because of The Quiet Knife talent.
 
-The GM rolls 1d10 on the Pierce, Band D table: result is **5**. The entry reads: *"The stiletto finds a gap between ribs and the blade punches into the lung; the target makes a grotesque wet noise when they breathe - stunned for 2 rounds, +7 bonus damage, and bleeds 1 HP per round."*
+The GM rolls 1d10 on the Pierce, Band D table: result is **5**. The entry reads: _"The stiletto finds a gap between ribs and the blade punches into the lung; the target makes a grotesque wet noise when they breathe - stunned for 2 rounds, +7 bonus damage, and bleeds 1 HP per round."_
 
 Khess rolls dagger damage: 1D4+2 = 2+2 = **4.** Plus +7 bonus damage = **11 total damage.** Davan has HP 12. He takes 11 damage, dropping to HP 1. He is stunned for 2 rounds. He bleeds 1 HP per round.
 
@@ -330,13 +338,13 @@ Result: Success vs. Failure - Orryn's attack hits normally, armour applies. Mook
 
 On his DEX rank (15), Davan declares a **Dying Blow** (P5 §9). He makes a Stamina roll (CON x5) to attempt one final action. His CON is 12; CON x5 = 60%. He rolls **37.** Success. He can take one final Difficult action.
 
-He shouts in a ragged voice: *"Syndicate! The Knife is here! Salt Causeway!"* - alerting any Syndicate members within earshot. This is a noncombat action (shouting). It is Difficult, but shouting is not a roll-dependent task. The GM rules it succeeds: the warning is out. Davan collapses.
+He shouts in a ragged voice: _"Syndicate! The Knife is here! Salt Causeway!"_ - alerting any Syndicate members within earshot. This is a noncombat action (shouting). It is Difficult, but shouting is not a roll-dependent task. The GM rules it succeeds: the warning is out. Davan collapses.
 
 **Khess acts (DEX 18).** She turns to engage Mook B. She attacks with her dagger: rolls **22** against Dagger 62%.
 
 > Matching-dice check: 22 is both a matching-dice value and within her skill of 62%. **Critical Success automatically.** Matching value 22 = Band B (Pierce).
 
-The GM rolls 1d10 on Pierce, Band B: result is **3**. The entry reads: *"The blade enters between shoulder and neck; the target loses all feeling in the arm for 3 rounds - parries Difficult, +4 bonus damage."*
+The GM rolls 1d10 on Pierce, Band B: result is **3**. The entry reads: _"The blade enters between shoulder and neck; the target loses all feeling in the arm for 3 rounds - parries Difficult, +4 bonus damage."_
 
 Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Mook B's half-HP threshold is 5. 9 exceeds 5. **Mook B is automatically incapacitated.** He drops to the cobblestones, arm hanging useless.
 
@@ -346,11 +354,11 @@ Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Mook B'
 
 ### 2.4 Combat Bookkeeping: Where the PP Went
 
-| Character | Starting PP | Spent | Remaining |
-|---|---|---|---|
-| Khess | 13 | 4 (Quiet Knife) + 3 (PP-buy to 44) | **6 PP** |
-| Orryn | 11 | 0 | **11 PP** |
-| Karash | 16 | 1 (Cloak of Night, Intensity 1) | **15 PP** |
+| Character | Starting PP | Spent                              | Remaining |
+| --------- | ----------- | ---------------------------------- | --------- |
+| Khess     | 13          | 4 (Quiet Knife) + 3 (PP-buy to 44) | **6 PP**  |
+| Orryn     | 11          | 0                                  | **11 PP** |
+| Karash    | 16          | 1 (Cloak of Night, Intensity 1)    | **15 PP** |
 
 Khess spent 7 PP to take Davan from full health to dying in a single action. She is below half her pool. Fate Point spends are now expensive for her.
 
@@ -371,15 +379,16 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 
 ## 3. Sorcery Example: Karash Casts the Curse
 
-*Two days after the Salt Causeway ambush. Davan the Flayer, despite his wounds, talked freely about the man who gave the order to kill Verinax: a Syndicate treasurer called Mekhos, who keeps offices above a spice warehouse in the merchant quarter. Khess wants him marked. Karash owes Khess a favour - or rather, Karash's patron does, and the sorcerer prefers to pay debts with someone else's currency.*
+_Two days after the Salt Causeway ambush. Davan the Flayer, despite his wounds, talked freely about the man who gave the order to kill Verinax: a Syndicate treasurer called Mekhos, who keeps offices above a spice warehouse in the merchant quarter. Khess wants him marked. Karash owes Khess a favour - or rather, Karash's patron does, and the sorcerer prefers to pay debts with someone else's currency._
 
-*Karash is at his casting spot: a rented room with a cleared floor, a brazier burning cedarwood, and the window shuttered. He intends to cast Curse of the Withered Hand on Mekhos, who is three streets away in his counting-house. For this, Karash will need the spell's range to reach Mekhos.*
+_Karash is at his casting spot: a rented room with a cleared floor, a brazier burning cedarwood, and the window shuttered. He intends to cast Curse of the Withered Hand on Mekhos, who is three streets away in his counting-house. For this, Karash will need the spell's range to reach Mekhos._
 
 ---
 
 ### 3.1 The Set-Up: Karash's Current State
 
 **Karash** (Scholar of the Dark Arts):
+
 - POW 17, INT 15, Corruption 85 (Breaking Point: 42)
 - PP: 15 (he spent 1 on Cloak of Night two days ago; has mostly recovered)
 - Patron: a named entity called the Faceless One (Patron Score 14)
@@ -388,7 +397,7 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 
 **Memorised spells (INT = 15 spell levels):** Curse of the Withered Hand (level 4), Cloak of Night (level 1), See the Unseen (level 3), Moonrise (level 1), Shadow-Wrap (level 2), Midnight (level 1), Bird's Eye (level 3) - total: 15 levels. He is at capacity.
 
-**Spell to cast:** *Curse of the Withered Hand.* Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (P4 §4.4). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
+**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (P4 §4.4). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
 
 ---
 
@@ -400,13 +409,13 @@ Karash reviews what he is carrying before casting. He has a bronze dagger at his
 
 ### 3.3 Extending the Range: The Sorcerer's Reach Talent
 
-*Curse of the Withered Hand* has its standard range (the target must be in the sorcerer's presence, typically within POW x5 metres = 85 metres for Karash). Mekhos is three streets away - perhaps 400 metres. The spell cannot reach him at standard range.
+_Curse of the Withered Hand_ has its standard range (the target must be in the sorcerer's presence, typically within POW x5 metres = 85 metres for Karash). Mekhos is three streets away - perhaps 400 metres. The spell cannot reach him at standard range.
 
-Karash has the Sorcery Talent *The Sorcerer's Reach* (P2 §7.2): for 3 PP, a spell he casts this round takes effect at double its normal range. But double 85 metres is 170 metres - still not enough.
+Karash has the Sorcery Talent _The Sorcerer's Reach_ (P2 §7.2): for 3 PP, a spell he casts this round takes effect at double its normal range. But double 85 metres is 170 metres - still not enough.
 
-However, Karash also has *Bird's Eye* memorised. He casts *Bird's Eye* at Intensity 3 (cost: 3 PP) to perceive through a raven perched on Mekhos's counting-house roof - putting him, perceptually, in the same location as his target. He intends to cast the Curse while maintaining the Bird's Eye.
+However, Karash also has _Bird's Eye_ memorised. He casts _Bird's Eye_ at Intensity 3 (cost: 3 PP) to perceive through a raven perched on Mekhos's counting-house roof - putting him, perceptually, in the same location as his target. He intends to cast the Curse while maintaining the Bird's Eye.
 
-*This is a two-casting night.* Karash will cast Bird's Eye first (Phase Two of round one), then sustain the working while he casts the Curse in a second round.
+_This is a two-casting night._ Karash will cast Bird's Eye first (Phase Two of round one), then sustain the working while he casts the Curse in a second round.
 
 ---
 
@@ -432,15 +441,15 @@ Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, co
 
 The GM rolls the resistance roll for Mekhos (since Mekhos is unaware): **76.** The result exceeds 40% - **the curse fails to set.** Mekhos does not feel it. His POW was enough, at that distance, to shrug it off without knowing.
 
-> *This is not a Fumble and it is not Karash's failure.* The PP were spent. The casting was correct. The target simply resisted. This is a sorcery failure mode that comes from outside the caster (P6 §2.1): the target's resistance was sufficient.
+> _This is not a Fumble and it is not Karash's failure._ The PP were spent. The casting was correct. The target simply resisted. This is a sorcery failure mode that comes from outside the caster (P6 §2.1): the target's resistance was sufficient.
 
 **Corruption roll (Curse of the Withered Hand, Intensity 4).** Even though the curse failed to take hold, the PP were spent and the casting occurred. Corruption applies regardless of target resistance.
 
 First, the standard Corruption table (P6 §3.3 - casting Intensity 4 or higher: 1/1D3): Karash rolls against his current Corruption of 85: **31.** Success. He takes the lower result: **1 Corruption.** His Corruption drops from 85 to **84.**
 
-Second, the spell's specific Cost Notes: *Curse of the Withered Hand always causes 1D3 Corruption in addition to the standard cost.* Karash rolls 1D3: **2.** He takes 2 more Corruption. His Corruption drops from 84 to **82.**
+Second, the spell's specific Cost Notes: _Curse of the Withered Hand always causes 1D3 Corruption in addition to the standard cost._ Karash rolls 1D3: **2.** He takes 2 more Corruption. His Corruption drops from 84 to **82.**
 
-*Total Corruption lost this casting: 3. From 85 to 82.*
+_Total Corruption lost this casting: 3. From 85 to 82._
 
 Karash notes this on his sheet. His Breaking Point is 42. He is nowhere near the immediate crisis threshold for an acute episode (losing more than 42 in a single session), but the ceiling is visible. Every casting like this moves him closer to the edge.
 
@@ -460,7 +469,7 @@ Karash does not invoke. Instead he makes a practical decision: he will find anot
 
 ### 3.7 The Visible Drama
 
-Per *design.md* §2.2: magic is theatrical. The following happened whether anyone outside the room saw it or not:
+Per _design.md_ §2.2: magic is theatrical. The following happened whether anyone outside the room saw it or not:
 
 When the Curse was cast and failed, the room shuddered. The cedarwood brazier flared orange-white, held for three seconds, then died to ash. The shadow on the wall - which had been falling at the wrong angle all evening - went flat and correct, and that was somehow worse. The smell of burning copper was so strong that Khess, in the room next door, knocked on the wall to ask if something was on fire.
 
@@ -482,7 +491,7 @@ Karash is intact. He is 3 Corruption lighter. He smells of copper. He has 8 PP a
 
 ## 4. Session Sketch: The Ledger of Mekhos
 
-*This section offers a half-page sketch of a single session using the hook-complications-reckoning structure from design.md §4.1. It is not a full scenario; it is a framework showing how a session feels from the outside.*
+_This section offers a half-page sketch of a single session using the hook-complications-reckoning structure from design.md §4.1. It is not a full scenario; it is a framework showing how a session feels from the outside._
 
 ---
 
@@ -490,7 +499,7 @@ Karash is intact. He is 3 Corruption lighter. He smells of copper. He has 8 PP a
 
 A minor spice merchant called Hattu approaches the three characters at a harbourside wine-house. He has a problem: his business ledger has been seized by the Serpent Syndicate as collateral on a debt he cannot pay. The ledger contains entries that would destroy him if they were ever read by the city prefect - nothing he did, exactly, but payments he received that he should have refused. He wants the ledger back. He offers 30 Staters.
 
-**The personal stake:** Khess recognises the Syndicate connection immediately. Any job that hurts the Syndicate is a job worth doing, regardless of the coin. Her Hatred of the Serpent Syndicate (80%) is directly engaged. *The player invokes the Passion before the negotiation even ends: she rolls 63 against her 80%, a success. She gains +20% to all relevant rolls in this scene. Khess talks Hattu up to 40 Staters and asks for half in advance.*
+**The personal stake:** Khess recognises the Syndicate connection immediately. Any job that hurts the Syndicate is a job worth doing, regardless of the coin. Her Hatred of the Serpent Syndicate (80%) is directly engaged. _The player invokes the Passion before the negotiation even ends: she rolls 63 against her 80%, a success. She gains +20% to all relevant rolls in this scene. Khess talks Hattu up to 40 Staters and asks for half in advance._
 
 ---
 
@@ -500,15 +509,15 @@ The ledger is in the Syndicate's counting-house in the merchant quarter - which 
 
 **Complication one:** The ledger is not in Mekhos's counting-house. It was moved to a Syndicate vault two streets north. Mekhos is not the principal here; he is the middleman. The job is bigger than Hattu described.
 
-**Complication two:** The vault is guarded by a professional enforcer - not mooks. A named fighter called Selka the Rope, who Orryn recognises from the Khalash campaign. Orryn and Selka have history. Orryn's player invokes his Passion: *Loyalty to the mercenary company I once served (60%).* He rolls 47 - success, +20% to relevant rolls. He knows Selka's fighting style, her preference for entangling weapons, her tendency to hold the defensive line. This gives the party information. It does not make the fight safe.
+**Complication two:** The vault is guarded by a professional enforcer - not mooks. A named fighter called Selka the Rope, who Orryn recognises from the Khalash campaign. Orryn and Selka have history. Orryn's player invokes his Passion: _Loyalty to the mercenary company I once served (60%)._ He rolls 47 - success, +20% to relevant rolls. He knows Selka's fighting style, her preference for entangling weapons, her tendency to hold the defensive line. This gives the party information. It does not make the fight safe.
 
-**Complication three (sorcerous):** Karash detects a warding on the vault door with *See the Unseen.* The ward is not complex, but it is real: a minor sorcerous alarm (based on the Veil of the Ancient spell). Someone in the Syndicate's employ is sorcerously trained, or has access to someone who is. If the ward triggers, the Syndicate knows the vault has been entered within seconds.
+**Complication three (sorcerous):** Karash detects a warding on the vault door with _See the Unseen._ The ward is not complex, but it is real: a minor sorcerous alarm (based on the Veil of the Ancient spell). Someone in the Syndicate's employ is sorcerously trained, or has access to someone who is. If the ward triggers, the Syndicate knows the vault has been entered within seconds.
 
 ---
 
 ### 4.3 The Reckoning
 
-The party finds a solution: Karash uses *Iron Ward* at Intensity 2 to suppress the vault ward while Khess picks the lock (Fine Manipulation, augmented with Research from her case study). They enter before Selka is alerted.
+The party finds a solution: Karash uses _Iron Ward_ at Intensity 2 to suppress the vault ward while Khess picks the lock (Fine Manipulation, augmented with Research from her case study). They enter before Selka is alerted.
 
 The fight with Selka is brief and hard. Selka is a professional (full HP, full PP, no mook rule applies). Orryn takes a significant wound - not a Major Wound, but enough that Khess has to choose between pressing the attack and spending a round applying First Aid (1D3 HP). She applies First Aid. Orryn stays standing.
 

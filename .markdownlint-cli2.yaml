@@ -1,0 +1,39 @@
+# Markdownlint config for the WSR project.
+# Run: npx markdownlint-cli2 'chapters/p*.md' 'chapters/g*.md'
+
+config:
+  # Line length: not meaningful for prose markdown. Prettier handles wrapping
+  # decisions; we don't need a hard 80-char limit on narrative paragraphs.
+  MD013: false
+
+  # Duplicate headings: chapter sections frequently re-use generic subsection
+  # titles ("Notes", "Format", "Examples") within different parents.
+  MD024: false
+
+  # Inline HTML: chapter template uses HTML comments; some chapters may use
+  # <br>, <sup>, etc. for layout.
+  MD033: false
+
+  # Emphasis used as heading: false positives on legitimate uses such as
+  # standalone skill-category labels ("**(Communication, base 05%)**"),
+  # quoted demonic dialogue, and footer accounting notes.
+  MD036: false
+
+  # Fenced code language: chapters use fenced blocks for stat blocks (text,
+  # not code). Requiring a language tag would be wrong here.
+  MD040: false
+
+  # First line should be a top-level heading: the chapter template starts with
+  # an HTML comment block before the title. Disable.
+  MD041: false
+
+  # No trailing spaces: keep on (catches accidental whitespace).
+  MD009: true
+
+  # No multiple blank lines: keep on (Prettier collapses, but catches drift).
+  MD012:
+    maximum: 1
+
+ignores:
+  # Template is intentionally not a real chapter and contains placeholders.
+  - "chapters/_template.md"

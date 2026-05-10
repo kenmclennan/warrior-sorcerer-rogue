@@ -1,6 +1,6 @@
 # G4. NPC Sorcery and Patrons
 
-> *"I have made a pact with powers that have no name in your tongue. I do not ask for your understanding. Only your service - or your life."*
+> _"I have made a pact with powers that have no name in your tongue. I do not ask for your understanding. Only your service - or your life."_
 
 This chapter is for the GM. It covers the mechanics and craft of building sorcerer antagonists, naming and running patron entities, conducting ritual workings, managing bound demons as ongoing campaign elements, and running the Apotheosis trajectory for patron-bonded sorcerers who have gone too far.
 
@@ -78,6 +78,7 @@ The five entries below are scenario seeds, not finished characters. Each gives t
 **Background:** Haraka was a travelling physician who found a sealed clay tablet in a patient's house. He spent six years learning to read it. What he found inside changed him. He now leads a cult of sixty devotees who believe he channels the blessing of an unnamed Serpent Lord - which is not entirely untrue. The cult provides labour, sacrifice, and privacy; Haraka provides miracles, protection, and a sense of meaning.
 
 **Statistics:**
+
 - STR 11, CON 13, SIZ 12, INT 17, POW 18, DEX 14, CHA 16
 - HP 13, PP 18 (plus patron reserve)
 - Skills: Knowledge (Blasphemous Lore) 65%, Persuade 70%, Deceive 60%, Medicine 55%, Insight 50%
@@ -87,12 +88,13 @@ The five entries below are scenario seeds, not finished characters. Each gives t
 **Casting signature:** When Haraka casts, the air thickens with a smell of dry scales and old earth. His shadow sometimes moves a moment after he does.
 
 **Spell loadout (in memory):**
-- *Bind the Raging Heart* (intensity 2) - used to discipline cultists who waver
-- *See the Unseen* - always active before any significant encounter
-- *Inescapable Bonds* - for capturing useful prisoners
-- *Still the Mind* - for quieting witnesses
-- *Pox of the Sorcerer* - for punishing enemies who survive the first response
-- *Summon Demon* - the central ritual, used monthly; Haraka's patron connection is renewed through sacrifice and summoning
+
+- _Bind the Raging Heart_ (intensity 2) - used to discipline cultists who waver
+- _See the Unseen_ - always active before any significant encounter
+- _Inescapable Bonds_ - for capturing useful prisoners
+- _Still the Mind_ - for quieting witnesses
+- _Pox of the Sorcerer_ - for punishing enemies who survive the first response
+- _Summon Demon_ - the central ritual, used monthly; Haraka's patron connection is renewed through sacrifice and summoning
 
 **Unique spell - Serpent's Tongue:** (cost 2 PP, 1 Corruption; duration: POW hours) The sorcerer's words carry sorcerous compulsion. Any creature that hears Haraka speak while this spell is active must succeed at a POW resistance roll or take his words as genuine and reasonable, regardless of content. They will not remember the spell was cast. Price: each use increases Patron Score by 1.
 
@@ -109,6 +111,7 @@ The five entries below are scenario seeds, not finished characters. Each gives t
 **Background:** Verethane has served three kings and outlasted them all. She arrived at court thirty years ago as a young scholar, demonstrated useful abilities, and quietly became indispensable. She does not rule but nothing of consequence happens in this court without her knowledge or approval. She has no patron - she has survived this long by owing nothing to any power larger than herself - but she has a Brazier of Power in her private chambers and two bound lesser demons.
 
 **Statistics:**
+
 - STR 8, CON 12, SIZ 11, INT 21, POW 17 (was 20; -3 from demon bindings)
 - HP 12, PP 17 (plus Brazier reserve; see below)
 - Skills: Knowledge (Blasphemous Lore) 80%, Insight 85%, Bureaucracy 70%, History 65%, Persuade 60%, Deceive 75%
@@ -118,19 +121,21 @@ The five entries below are scenario seeds, not finished characters. Each gives t
 **Brazier of Power:** Located in Verethane's inner sanctum. Current capacity: 34 PP. The Brazier cost her 2 permanent POW over two years. She can draw from it while within POW x2 metres (34 metres). The sanctum is where she sleeps, works, and receives visitors she trusts. Nobody she does not trust enters it alive.
 
 **Bound demons:**
-- *Whisper in the Dark* (lesser demon, object-bound in a silver ring she wears): a demon of information that overhears conversations within a quarter-mile of the ring and reports to Verethane. Combat-useless; intelligence-invaluable.
-- *Keth-Sarras* (lesser demon, flesh-bound): a creature of raw force that manifests as a thickening of the air and invisible weight when Verethane commands it. Capable of inflicting 2D6 damage per round to a single target within 10 metres. Keth-Sarras resents Verethane and is looking for the escape clause in their contract (see §6.3).
+
+- _Whisper in the Dark_ (lesser demon, object-bound in a silver ring she wears): a demon of information that overhears conversations within a quarter-mile of the ring and reports to Verethane. Combat-useless; intelligence-invaluable.
+- _Keth-Sarras_ (lesser demon, flesh-bound): a creature of raw force that manifests as a thickening of the air and invisible weight when Verethane commands it. Capable of inflicting 2D6 damage per round to a single target within 10 metres. Keth-Sarras resents Verethane and is looking for the escape clause in their contract (see §6.3).
 
 **Casting signature:** No smell. No visible effect. A temperature drop of two degrees - enough to see breath in summer.
 
 **Spell loadout (in memory):**
-- *See the Unseen* - the first thing she does on waking
-- *Bird's Eye* (intensity 3) - she has seven ravens on the palace roof
-- *Vermin's Eye* (intensity 3) - the palace is full of rats. They all report to her.
-- *Liken Shape* - for when she must move through the city unrecognised
-- *Iron Ward* (intensity 3) - her first response in any sorcerous contest
-- *Hell's Razor* - applied to Keth-Sarras's attacks when the demon manifests
-- *Still the Mind* - for ending conversations that are becoming inconvenient
+
+- _See the Unseen_ - the first thing she does on waking
+- _Bird's Eye_ (intensity 3) - she has seven ravens on the palace roof
+- _Vermin's Eye_ (intensity 3) - the palace is full of rats. They all report to her.
+- _Liken Shape_ - for when she must move through the city unrecognised
+- _Iron Ward_ (intensity 3) - her first response in any sorcerous contest
+- _Hell's Razor_ - applied to Keth-Sarras's attacks when the demon manifests
+- _Still the Mind_ - for ending conversations that are becoming inconvenient
 
 **Unique spell - The Record:** (cost 3 PP; no Corruption; duration: permanent) Verethane can inscribe a perfect record of anything she has witnessed - a conversation, an image, a map, a face - into a material object (a wax tablet, a wall, a piece of cloth). The record is indelible and exactly accurate. She cannot record things she did not personally witness. She has thirty years of records. The room containing them is the most dangerous archive in the kingdom.
 
@@ -147,6 +152,7 @@ The five entries below are scenario seeds, not finished characters. Each gives t
 **Background:** Ossian was the court mage before Verethane. He was removed when he refused to participate in a royal assassination. He has lived in a tower in the desert for nineteen years. He has a Patron Score of 61 with an entity he calls "the Empty One" - a barely-aware cosmic presence that notices him from very far away. He is looking for a student to pass his grimoire to and then die in peace. He will not find peace, because he knows something that powerful people want to bury.
 
 **Statistics:**
+
 - STR 9, CON 10, SIZ 10, INT 20, POW 19 (was 21; -2 from one demon binding, now ended)
 - HP 10, PP 19
 - Skills: Knowledge (Blasphemous Lore) 90%, Knowledge (History) 75%, Knowledge (Occult) 85%, Insight 70%, Teach 65%
@@ -156,11 +162,12 @@ The five entries below are scenario seeds, not finished characters. Each gives t
 **Casting signature:** A sound like wind through an open door that is not there. Ossian himself does not notice it anymore.
 
 **Spell loadout (in memory):**
-- *See the Unseen* - constant
-- *Veil of the Ancient* - his tower has three nested perimeter alarms
-- *Iron Ward* (intensity 4) - his first and most important defensive working
-- *Undo Sorcery* (he calls it *The Refusal*, intensity 3) - he can unmake most workings he encounters
-- *Chain of Being* - he teaches this to any student; believes cooperative casting is the only honest form of great sorcery
+
+- _See the Unseen_ - constant
+- _Veil of the Ancient_ - his tower has three nested perimeter alarms
+- _Iron Ward_ (intensity 4) - his first and most important defensive working
+- _Undo Sorcery_ (he calls it _The Refusal_, intensity 3) - he can unmake most workings he encounters
+- _Chain of Being_ - he teaches this to any student; believes cooperative casting is the only honest form of great sorcery
 
 **Unique spell - The Long Sight:** (cost 2 PP, no Corruption; duration: 1 hour per intensity, max 4) Ossian sees anything that has happened in a specific place. He does not see the future. He sees the past - exactly what occurred, with no interpretation. The longer ago, the higher the intensity required: intensity 1 = within the past day; intensity 2 = within a year; intensity 3 = within a century; intensity 4 = within the deep past (at GM discretion). He has used this spell to watch the royal assassination he refused to participate in. He has watched it many times.
 
@@ -177,6 +184,7 @@ The five entries below are scenario seeds, not finished characters. Each gives t
 **Background:** Mireille was a minor noble who inherited a ruin and found a chamber beneath it. The chamber was old. Very old. What she found in the chamber found her first. That was forty years ago. She is now the acknowledged ruler of a territory of seven thousand people, feared by four neighbouring kingdoms, and has a Patron Score of 89 with a patron she calls "the Drowned Goddess" (see §4.3 for the patron entry). She is three points away from the Apotheosis threshold.
 
 **Statistics:**
+
 - STR 7, CON 9, SIZ 9, INT 18, POW 20 (was 27; -7 from demon bindings and ritual costs over forty years)
 - HP 9, PP 20 (plus patron reserve and Brazier)
 - Skills: Knowledge (Blasphemous Lore) 95%, Command 80%, Insight 75%, Intimidate 70%, Persuade 60%
@@ -186,20 +194,22 @@ The five entries below are scenario seeds, not finished characters. Each gives t
 **Brazier of Power:** Two braziers: one in her throne room (capacity 50 PP), one in her private chamber (capacity 40 PP). She can reach both from most of the palace. Combined with patron reserve, she effectively never runs out of power in her home territory.
 
 **Bound demons:**
-- *The Chain-Lord* (greater demon, place-bound to the palace dungeon): Mireille's executioner. It cannot leave the dungeon but within those walls it is absolute. Cost her 4 permanent POW to bind. It has been waiting for her error for thirty-five years.
-- *Vel-Naar* (lesser demon, object-bound to her crown): a demon of command that amplifies her presence. Anyone who sees Mireille wearing the crown and hears her speak must succeed at a Difficult POW roll or feel compelled to obey.
+
+- _The Chain-Lord_ (greater demon, place-bound to the palace dungeon): Mireille's executioner. It cannot leave the dungeon but within those walls it is absolute. Cost her 4 permanent POW to bind. It has been waiting for her error for thirty-five years.
+- _Vel-Naar_ (lesser demon, object-bound to her crown): a demon of command that amplifies her presence. Anyone who sees Mireille wearing the crown and hears her speak must succeed at a Difficult POW roll or feel compelled to obey.
 
 **Casting signature:** The temperature does not drop. The light dims, slowly, in a perfect circle around her. Candles burn blue. Water in nearby vessels begins to move as though there is a current in it.
 
 **Spell loadout (in memory):**
-- *See the Unseen* - constant
-- *Bind the Raging Heart* (intensity 4) - her first response to physical threats; she turns guards into berserkers
-- *Shadow-Wrap* (intensity 4) - AP 8; she is rarely unprotected
-- *Inescapable Bonds* - she prefers to take things alive and at her leisure
-- *Liken Shape* - she travels under other faces
-- *Shape Thief* - reserved for situations that require more than appearance
-- *Summon Demon* - monthly ritual; the Drowned Goddess expects it
-- *Chain of Being* - she has a circle of twelve dedicated cultists who contribute to her great workings
+
+- _See the Unseen_ - constant
+- _Bind the Raging Heart_ (intensity 4) - her first response to physical threats; she turns guards into berserkers
+- _Shadow-Wrap_ (intensity 4) - AP 8; she is rarely unprotected
+- _Inescapable Bonds_ - she prefers to take things alive and at her leisure
+- _Liken Shape_ - she travels under other faces
+- _Shape Thief_ - reserved for situations that require more than appearance
+- _Summon Demon_ - monthly ritual; the Drowned Goddess expects it
+- _Chain of Being_ - she has a circle of twelve dedicated cultists who contribute to her great workings
 
 **Unique spell - Drown the Light:** (cost 5 PP, 1D3 Corruption; duration: POW hours) Mireille can extinguish all light sources within POW x10 metres. Not merely darkness - the light sources do not even flicker. They are simply gone, and cannot be relit until the spell ends. Sorcerous light is not extinguished, but it is dimmed to a fraction of its normal effectiveness. She uses this when she wants enemies to run.
 
@@ -220,6 +230,7 @@ The five entries below are scenario seeds, not finished characters. Each gives t
 Tamas is now a sorcerer with a powerful bound demon who is structurally dependent on that demon's goodwill and cannot afford to let it go. He knows the demon is looking for a way out of the bargain. He has been trying to find another sorcerer who can help him re-negotiate or re-bind for three years.
 
 **Statistics:**
+
 - STR 12, CON 13, SIZ 12, INT 15, POW 10 (was 17; -7 from binding Vas-Saroth)
 - HP 13, PP 10
 - Skills: Knowledge (Blasphemous Lore) 40%, Bargain 60%, Deceive 55%, Persuade 50%
@@ -233,9 +244,10 @@ Tamas is now a sorcerer with a powerful bound demon who is structurally dependen
 **Casting signature:** Tamas's magic is stuttered and wrong-sounding. He can feel the demon listening through his castings.
 
 **Spell loadout (in memory):**
-- *Inescapable Bonds* - his most-used spell; he keeps distance between himself and threats
-- *Still the Mind* - for when bonds are not enough
-- *See the Unseen* - used obsessively; he checks everything
+
+- _Inescapable Bonds_ - his most-used spell; he keeps distance between himself and threats
+- _Still the Mind_ - for when bonds are not enough
+- _See the Unseen_ - used obsessively; he checks everything
 
 **Motivation:** Tamas needs help. He will approach PCs who have sorcerous capability, tell them a version of his story that makes him seem more sympathetic than culpable, and offer something in return - Vas-Saroth's labour for a defined task, the name of a sorcerer who could teach them, or information about the court mage whose grimoire he still has.
 
@@ -265,7 +277,7 @@ Every patron has a name the sorcerer uses and usually a deeper nature. The name 
 
 What area of power does this patron grant access to? The domain shapes what spells are available through patron-specific intercession (see §3.4) and what kinds of deeds earn Patron Score.
 
-A domain is expressed as one or two nouns and a verb: "the Drowned Goddess governs *water and forgetting*." "The Charnel Heir commands *death and inheritance*." "The Nameless Architect rebuilds *architecture and time*." The domain does not need to be logically coherent - patrons predate logic.
+A domain is expressed as one or two nouns and a verb: "the Drowned Goddess governs _water and forgetting_." "The Charnel Heir commands _death and inheritance_." "The Nameless Architect rebuilds _architecture and time_." The domain does not need to be logically coherent - patrons predate logic.
 
 ### 3.3 Demands
 
@@ -321,13 +333,15 @@ Seven patron entities are described below. Each is designed to anchor a campaign
 **Domain:** Water and forgetting.
 
 **Demands:**
-- *Return what the sea reclaims.* When the Drowned Goddess claims a life through drowning, the sorcerer must not interfere with the body - it belongs to her. The sorcerer may not attempt to revive drowning victims.
-- *Spread forgetting.* At least once per adventure, something that should be remembered is ensured not to be: a record destroyed, a witness silenced, a memory of a deed erased.
-- *The tide offering.* Monthly, the sorcerer makes an offering at running water: something they value cast in, followed by three words in her language.
+
+- _Return what the sea reclaims._ When the Drowned Goddess claims a life through drowning, the sorcerer must not interfere with the body - it belongs to her. The sorcerer may not attempt to revive drowning victims.
+- _Spread forgetting._ At least once per adventure, something that should be remembered is ensured not to be: a record destroyed, a witness silenced, a memory of a deed erased.
+- _The tide offering._ Monthly, the sorcerer makes an offering at running water: something they value cast in, followed by three words in her language.
 
 **Gifts:**
-- *Walking the Current:* the sorcerer cannot drown. They breathe water as easily as air.
-- *The Calling of Waters* (as described in Mireille's entry above; this is the Drowned Goddess's signature patron spell).
+
+- _Walking the Current:_ the sorcerer cannot drown. They breathe water as easily as air.
+- _The Calling of Waters_ (as described in Mireille's entry above; this is the Drowned Goddess's signature patron spell).
 
 **Doom:** The Drowned Goddess's doom is forgetting. A sorcerer who fails her does not suffer pain. They begin to forget things - the names of companions, the reason they are in this city, what they ate this morning. The forgetting is total and permanent for lost memories. After three adventures without penance, the sorcerer has lost something they cannot recover.
 
@@ -344,13 +358,15 @@ Seven patron entities are described below. Each is designed to anchor a campaign
 **Domain:** Transformation and loss.
 
 **Demands:**
-- *Change something irreversibly.* Every major adventure, one thing that was stable must be made permanently otherwise.
-- *Offer a piece.* Monthly. Something the sorcerer is: a physical characteristic reduced by 1 (STR, CON, DEX, CHA, not INT or POW), permanently. The Faceless One accepts what is given.
-- *No attachments.* The Faceless One rewards sorcerers who do not accumulate. A sorcerer who has people they love, places they call home, or objects they consider indispensable is accumulating. This will be addressed.
+
+- _Change something irreversibly._ Every major adventure, one thing that was stable must be made permanently otherwise.
+- _Offer a piece._ Monthly. Something the sorcerer is: a physical characteristic reduced by 1 (STR, CON, DEX, CHA, not INT or POW), permanently. The Faceless One accepts what is given.
+- _No attachments._ The Faceless One rewards sorcerers who do not accumulate. A sorcerer who has people they love, places they call home, or objects they consider indispensable is accumulating. This will be addressed.
 
 **Gifts:**
-- *The Mask:* the sorcerer may suppress their casting signature entirely, for any duration. The Faceless One approves of invisibility.
-- *Wearing Nothing:* once per session, when reduced to 0 PP, the sorcerer may take 1D6 Corruption to not collapse. They continue to act on nothing for one round, then collapse.
+
+- _The Mask:_ the sorcerer may suppress their casting signature entirely, for any duration. The Faceless One approves of invisibility.
+- _Wearing Nothing:_ once per session, when reduced to 0 PP, the sorcerer may take 1D6 Corruption to not collapse. They continue to act on nothing for one round, then collapse.
 
 **Doom:** The Faceless One does not punish. It simply is no longer interested. The sorcerer's Patron Score drops to 0. The casting signature returns, now permanent and uncontrollable. The sorcerer smells of the chaos current all the time. It does not end.
 
@@ -365,13 +381,15 @@ Seven patron entities are described below. Each is designed to anchor a campaign
 **Domain:** Death and inheritance.
 
 **Demands:**
-- *Advance the lineage.* The Charnel Heir is looking for the rightful heir to something stolen from the dynasty. The sorcerer must actively work to identify and retrieve it.
-- *The dead are owed.* When a significant enemy of the sorcerer dies, a portion of their property must be given to the Charnel Heir in a specific ritual.
-- *Read the record.* Monthly. The sorcerer must spend one hour communing with the Charnel Heir, receiving historical information about the dynasty and its enemies. This information is useful and also distressing.
+
+- _Advance the lineage._ The Charnel Heir is looking for the rightful heir to something stolen from the dynasty. The sorcerer must actively work to identify and retrieve it.
+- _The dead are owed._ When a significant enemy of the sorcerer dies, a portion of their property must be given to the Charnel Heir in a specific ritual.
+- _Read the record._ Monthly. The sorcerer must spend one hour communing with the Charnel Heir, receiving historical information about the dynasty and its enemies. This information is useful and also distressing.
 
 **Gifts:**
-- *Speak to the Dead:* the sorcerer may address the spirit of a person recently dead (within three days) and ask three questions. The spirit cannot lie but can decline to answer. It always knows it is being questioned by someone with the Charnel Heir's patronage, and it always knows what that means.
-- *The Withered Crown:* the sorcerer appears, to anyone who looks at them, to have authority. It is not a glamour - it does not change their appearance. It is simply that strangers yield to them more readily. All social rolls when exercising authority are at +20%.
+
+- _Speak to the Dead:_ the sorcerer may address the spirit of a person recently dead (within three days) and ask three questions. The spirit cannot lie but can decline to answer. It always knows it is being questioned by someone with the Charnel Heir's patronage, and it always knows what that means.
+- _The Withered Crown:_ the sorcerer appears, to anyone who looks at them, to have authority. It is not a glamour - it does not change their appearance. It is simply that strangers yield to them more readily. All social rolls when exercising authority are at +20%.
 
 **Doom:** The Charnel Heir's doom is debt. A sorcerer who fails it becomes the subject of a claim. The Heir's agents - dead-eyed scholars, animate servants, things that should have stayed buried - begin collecting what the sorcerer owes. They are patient. They do not stop.
 
@@ -386,14 +404,16 @@ Seven patron entities are described below. Each is designed to anchor a campaign
 **Domain:** Serpents, poison, and hidden knowledge.
 
 **Demands:**
-- *Spread Set's knowledge.* The sorcerer must teach others specific things: the properties of venom, the true nature of a serpent they have encountered, the name of Set's cult if asked. This is evangelism, not preaching.
-- *Do not act in haste.* Set values patience. A sorcerer who acts rashly (rushing a decision, striking before understanding the situation, fleeing before assessing the threat) has failed Set's standard.
-- *The annual shedding.* Once per year, the sorcerer must fast for three days, commune with Set, and formally renounce something they were the previous year.
+
+- _Spread Set's knowledge._ The sorcerer must teach others specific things: the properties of venom, the true nature of a serpent they have encountered, the name of Set's cult if asked. This is evangelism, not preaching.
+- _Do not act in haste._ Set values patience. A sorcerer who acts rashly (rushing a decision, striking before understanding the situation, fleeing before assessing the threat) has failed Set's standard.
+- _The annual shedding._ Once per year, the sorcerer must fast for three days, commune with Set, and formally renounce something they were the previous year.
 
 **Gifts:**
-- *Serpent-sense:* the sorcerer can detect the presence and direction of poison in any substance they touch or closely examine, and can identify venoms they have encountered before.
-- *Cold blood:* the sorcerer is immune to naturally occurring venoms and can handle serpents without provoking them.
-- *The Long Patient Gaze:* once per session, the sorcerer may make a Difficult POW roll. On success, they know one true thing about the scene before them that no ordinary observation would reveal - a lie someone is telling, a hidden passage, an enemy's weakness.
+
+- _Serpent-sense:_ the sorcerer can detect the presence and direction of poison in any substance they touch or closely examine, and can identify venoms they have encountered before.
+- _Cold blood:_ the sorcerer is immune to naturally occurring venoms and can handle serpents without provoking them.
+- _The Long Patient Gaze:_ once per session, the sorcerer may make a Difficult POW roll. On success, they know one true thing about the scene before them that no ordinary observation would reveal - a lie someone is telling, a hidden passage, an enemy's weakness.
 
 **Doom:** Set does not hurry his dooms. A sorcerer who offends him simply finds that the Long Patient Gaze turns inward - they receive information about themselves, about their own failings, about what Set knows about them. This escalates until the sorcerer performs penance.
 
@@ -408,13 +428,15 @@ Seven patron entities are described below. Each is designed to anchor a campaign
 **Domain:** Absence and architecture.
 
 **Demands:**
-- *Leave things emptier than you found them.* Not violence - the Empty Throne does not value violence specifically - but depletion. A treasury should have less gold when the sorcerer leaves than when they arrived. A library should have fewer books. A relationship should have less trust.
-- *Do not occupy space unnecessarily.* The Empty Throne is disturbed by permanence. The sorcerer should not establish a permanent home, a permanent identity, or a permanent purpose. Move on.
-- *The monthly nothing.* One full day of complete stillness and non-action per month. The sorcerer does nothing, goes nowhere, wants nothing.
+
+- _Leave things emptier than you found them._ Not violence - the Empty Throne does not value violence specifically - but depletion. A treasury should have less gold when the sorcerer leaves than when they arrived. A library should have fewer books. A relationship should have less trust.
+- _Do not occupy space unnecessarily._ The Empty Throne is disturbed by permanence. The sorcerer should not establish a permanent home, a permanent identity, or a permanent purpose. Move on.
+- _The monthly nothing._ One full day of complete stillness and non-action per month. The sorcerer does nothing, goes nowhere, wants nothing.
 
 **Gifts:**
-- *Absence:* the sorcerer does not register as present to See the Unseen or similar perception spells. Their aura is not visible. They read as an absence.
-- *Pass Through:* once per day, the sorcerer may pass through a single solid barrier of up to 1 metre thickness. This takes one full round and costs 2 PP.
+
+- _Absence:_ the sorcerer does not register as present to See the Unseen or similar perception spells. Their aura is not visible. They read as an absence.
+- _Pass Through:_ once per day, the sorcerer may pass through a single solid barrier of up to 1 metre thickness. This takes one full round and costs 2 PP.
 
 **Doom:** The Empty Throne does not doom. It simply stops noticing. The Patron Score drops and does not recover. The sorcerer who served it long enough to lose it feels an absence they cannot name - a gap in the centre of their experience that was not there before.
 
@@ -429,14 +451,16 @@ Seven patron entities are described below. Each is designed to anchor a campaign
 **Domain:** Disease and selection.
 
 **Demands:**
-- *Select.* The sorcerer must periodically demonstrate they understand which things deserve to survive and which do not. This requires choices: saving one person and letting another die, recommending one candidate and disqualifying another.
-- *Carry the gift.* The sorcerer carries the Plague-Bride's attention everywhere they go. Minor ailments occur more frequently around them. This is not under their control.
-- *Introduce the gift in new places.* When the sorcerer travels somewhere new, they must perform a small ritual that opens the location to the Plague-Bride's attention. Nothing dramatic - a drop of blood on the threshold, a word in the right direction.
+
+- _Select._ The sorcerer must periodically demonstrate they understand which things deserve to survive and which do not. This requires choices: saving one person and letting another die, recommending one candidate and disqualifying another.
+- _Carry the gift._ The sorcerer carries the Plague-Bride's attention everywhere they go. Minor ailments occur more frequently around them. This is not under their control.
+- _Introduce the gift in new places._ When the sorcerer travels somewhere new, they must perform a small ritual that opens the location to the Plague-Bride's attention. Nothing dramatic - a drop of blood on the threshold, a word in the right direction.
 
 **Gifts:**
-- *Immunity:* the sorcerer cannot contract disease.
-- *The Diagnosis:* by touching a living creature, the sorcerer knows exactly what diseases it carries, what it is susceptible to, and how long it will live unless something changes.
-- *Send the Gift:* once per session, the sorcerer may target a creature with the Plague-Bride's attention. That creature contracts a disease of the GM's selection within 1D6 days. The disease is always real and always serious.
+
+- _Immunity:_ the sorcerer cannot contract disease.
+- _The Diagnosis:_ by touching a living creature, the sorcerer knows exactly what diseases it carries, what it is susceptible to, and how long it will live unless something changes.
+- _Send the Gift:_ once per session, the sorcerer may target a creature with the Plague-Bride's attention. That creature contracts a disease of the GM's selection within 1D6 days. The disease is always real and always serious.
 
 **Doom:** The Plague-Bride's doom is revocation of immunity. The sorcerer becomes vulnerable to every disease they have carried and avoided. They do not all manifest at once; they emerge over months, one after another, until the sorcerer performs satisfactory penance.
 
@@ -451,13 +475,15 @@ Seven patron entities are described below. Each is designed to anchor a campaign
 **Domain:** Law, contracts, and debts.
 
 **Demands:**
-- *Honour all agreements.* The Brass Warden requires literal, complete fulfillment of every commitment the sorcerer makes. Not in spirit - in letter. Every agreement is a contract under the Warden's law.
-- *Collect outstanding debts.* When the sorcerer is owed something and it is not paid, the Warden expects collection.
-- *Testify truly.* The sorcerer cannot lie to someone who sincerely asks their name. This is absolute and enforced by the Warden; attempts to circumvent it give the sorcerer a headache severe enough to impose -20% on all rolls for one hour.
+
+- _Honour all agreements._ The Brass Warden requires literal, complete fulfillment of every commitment the sorcerer makes. Not in spirit - in letter. Every agreement is a contract under the Warden's law.
+- _Collect outstanding debts._ When the sorcerer is owed something and it is not paid, the Warden expects collection.
+- _Testify truly._ The sorcerer cannot lie to someone who sincerely asks their name. This is absolute and enforced by the Warden; attempts to circumvent it give the sorcerer a headache severe enough to impose -20% on all rolls for one hour.
 
 **Gifts:**
-- *The Warden's Record:* the sorcerer always knows exactly what agreements they have made and with whom. They also know, without research, what the standard terms of any agreement in this culture or region should be - what fair labour payment looks like, what a reasonable trade deal contains.
-- *The Binding Word:* when the sorcerer states a deal out loud in the Warden's language (a dead tongue; must be learned), the agreement is supernaturally enforced. Breaking it causes both parties to feel it as a physical pain and alerts the Warden.
+
+- _The Warden's Record:_ the sorcerer always knows exactly what agreements they have made and with whom. They also know, without research, what the standard terms of any agreement in this culture or region should be - what fair labour payment looks like, what a reasonable trade deal contains.
+- _The Binding Word:_ when the sorcerer states a deal out loud in the Warden's language (a dead tongue; must be learned), the agreement is supernaturally enforced. Breaking it causes both parties to feel it as a physical pain and alerts the Warden.
 
 **Doom:** The Brass Warden's doom is precedent. When a sorcerer fails the Warden, every agreement they make from that point becomes the subject of scrutiny - by the Warden's agents (who manifest as figures in brass-coloured armour that only the sorcerer can see), by strangers who find fault with their contracts, by authorities who question their dealings. The world decides they are not to be trusted. This continues until penance.
 
@@ -496,13 +522,13 @@ When a sorcerer uses Chain of Being to tap contributors for a ritual working, th
 
 For standard spells cast as rituals (summoning a demon, preparing a Brazier of Power, constructing a Ward of unusual extent), multiply the spell's base cost by the duration factor:
 
-| Duration | Cost multiplier |
-|---|---|
-| 1-4 hours | x1 (base cost) |
-| A day | x2 |
-| Three days | x4 |
-| One week | x8 |
-| One month | x20 |
+| Duration   | Cost multiplier |
+| ---------- | --------------- |
+| 1-4 hours  | x1 (base cost)  |
+| A day      | x2              |
+| Three days | x4              |
+| One week   | x8              |
+| One month  | x20             |
 
 For wholly unique rituals (sealing an ancient evil, calling a cataclysm, reversing a patron's doom), the GM sets the cost directly. These should require more PP than is typically available without Chain of Being and multiple sessions of preparation.
 
@@ -536,6 +562,7 @@ These four traits generate all the demon's in-session decisions. A demon with Co
 When the demon arrives, it comes with demands. The GM should decide these before the session, with reference to the demon's personality and what kind of entity it is.
 
 **Lesser demon demands (choose 2-3):**
+
 - Blood offering at specific intervals (weekly, monthly)
 - PP transferred to the demon at the end of each session the sorcerer uses it (1D3 PP)
 - A specific task to be completed within a defined time
@@ -543,6 +570,7 @@ When the demon arrives, it comes with demands. The GM should decide these before
 - Not to be bound into an object (if the sorcerer intends that)
 
 **Greater demon demands (choose 3-5, weighted toward cost):**
+
 - Permanent POW from the sorcerer above the binding cost (1D3 additional)
 - A third party delivered into the demon's reach for a specific purpose (the demon's choice)
 - A service to be called in at the demon's convenience, undefined but significant
@@ -556,6 +584,7 @@ The demon's demands are binding from the moment the sorcerer agrees. A sorcerer 
 Every binding has an escape clause - a condition that, if met, automatically breaks the binding regardless of the sorcerer's will. The GM sets the escape clause before the binding occurs and should not reveal it to the player until it is relevant (or until the sorcerer researches it specifically, which requires a Difficult Knowledge (Occult) roll and appropriate sources).
 
 **Examples of escape clauses:**
+
 - The sorcerer speaks the demon's true name in the presence of another sorcerer without immediately binding that sorcerer too
 - The sorcerer's Patron Score reaches a threshold (patron claims priority over the demon)
 - The sorcerer crosses a specific threshold of Corruption
@@ -570,6 +599,7 @@ Escape clauses should be discoverable but not obvious. They provide the demon's 
 A bound demon cannot harm its binder directly - the binding prevents that. But mistreated demons find other ways.
 
 **Signs of mistreatment consequences:**
+
 - The demon fulfils commands exactly but perversely - it saves the sorcerer from the enemy by collapsing the building, which also kills three bystanders
 - The demon begins withholding information it would normally share without being asked
 - The demon makes its presence known in social situations in ways that are technically permitted but deeply inconvenient

@@ -1,7 +1,7 @@
 # P5. Combat
 
-> *"He was bleeding from a score of wounds, but the fires in his eyes burned brighter than ever."*
-> *- Robert E. Howard*
+> _"He was bleeding from a score of wounds, but the fires in his eyes burned brighter than ever."_
+> _- Robert E. Howard_
 
 Combat in Warrior \* Sorcerer \* Rogue is brutal, fast, and decisive. Fights cost something even when won. This chapter covers everything that happens once blades are drawn: the structure of a combat round, how attacks and defences resolve, what wounds mean, and the rules that cover common situations at the edge of the action. Read P4 first - the percentile roll, outcome tiers, matching-dice criticals, and the PP spend menu are all defined there and used throughout.
 
@@ -66,15 +66,15 @@ To attack, roll D100 against the relevant weapon skill. Consult the outcome tier
 
 When an attack succeeds, the defender may attempt a parry or dodge. Both attack and defence generate an outcome tier. The interaction between the two tiers determines the result:
 
-| Attack result | Defence result | Outcome |
-|---|---|---|
-| Critical | Critical | Attack parried/dodged; both combatants hold ground - neither gains the crit result |
-| Critical | Success | Attack partially deflected: half damage, ignores armour |
-| Critical | Failure or Fumble | Full damage, ignores armour |
-| Success | Critical | Attack fully parried or dodged; defender has momentary advantage |
-| Success | Success | Attack partially deflected: half damage, armour applies |
-| Success | Failure | Normal damage, armour applies |
-| Success | Fumble | Normal damage, armour applies; defender additionally suffers their fumble's consequences |
+| Attack result | Defence result    | Outcome                                                                                  |
+| ------------- | ----------------- | ---------------------------------------------------------------------------------------- |
+| Critical      | Critical          | Attack parried/dodged; both combatants hold ground - neither gains the crit result       |
+| Critical      | Success           | Attack partially deflected: half damage, ignores armour                                  |
+| Critical      | Failure or Fumble | Full damage, ignores armour                                                              |
+| Success       | Critical          | Attack fully parried or dodged; defender has momentary advantage                         |
+| Success       | Success           | Attack partially deflected: half damage, armour applies                                  |
+| Success       | Failure           | Normal damage, armour applies                                                            |
+| Success       | Fumble            | Normal damage, armour applies; defender additionally suffers their fumble's consequences |
 
 A Critical attack that is not defended against (the defender chose not to parry or dodge, or had no defence remaining) deals full damage and ignores armour.
 
@@ -104,22 +104,22 @@ Missile attacks follow the same success tiers as melee attacks. Missiles cannot 
 
 Shields can intercept missile attacks based on shield size:
 
-| Shield type | Chance to intercept a missile |
-|---|---|
-| Small or buckler | 15% |
-| Full | 30% |
-| Large | 60% |
+| Shield type      | Chance to intercept a missile |
+| ---------------- | ----------------------------- |
+| Small or buckler | 15%                           |
+| Full             | 30%                           |
+| Large            | 60%                           |
 
 This is a separate roll, not a parry: the shield either blocks the missile or the missile passes. A shield roll does not count against the parry-attempts limit.
 
 **Range bands.** Range affects all missile attacks:
 
-| Range | Modifier |
-|---|---|
-| Near (within arm's reach) | Easy - but bow attacks become Difficult or Impossible; throwing weapons use close combat rules |
-| Normal (standard distance) | Skill as rated |
-| Far (challenging distance) | Difficult |
-| Extreme (edge of capability) | 1/5 skill; any success counts as a normal success only |
+| Range                        | Modifier                                                                                       |
+| ---------------------------- | ---------------------------------------------------------------------------------------------- |
+| Near (within arm's reach)    | Easy - but bow attacks become Difficult or Impossible; throwing weapons use close combat rules |
+| Normal (standard distance)   | Skill as rated                                                                                 |
+| Far (challenging distance)   | Difficult                                                                                      |
+| Extreme (edge of capability) | 1/5 skill; any success counts as a normal success only                                         |
 
 The GM determines which band applies based on the description of the scene.
 
@@ -162,6 +162,7 @@ Three wound thresholds govern how damage affects a character.
 **Major Wound.** A single attack deals damage equal to or greater than half the character's maximum HP. This is a fight-altering event. Roll on the Major Wounds Table (§5.2), or the GM may choose an appropriate result based on the nature of the attack and the wound location.
 
 After a Major Wound, the character makes a Luck roll (POW x5):
+
 - **Success:** the wound heals cleanly over time; no permanent characteristic loss.
 - **Failure:** the Major Wound result is permanent until addressed (extensive medical care, or sorcerous healing in rare cases).
 
@@ -175,27 +176,27 @@ A character reduced to negative HP equal to their CON is dead beyond any mundane
 
 Roll 1D100 when a character sustains a Major Wound (unless the GM chooses an appropriate result):
 
-| Roll | Result |
-|---|---|
-| 01-05 | Knocked senseless. Unconscious for 1D6 rounds; no permanent effect. |
-| 06-10 | Leg wound. Movement is halved. Agility rolls Difficult. |
-| 11-15 | Arm wound. One arm is weakened; attack or parry with that arm is Difficult. |
-| 16-20 | Blow to the ribs. All physical actions Difficult. Coughing fits prevent sustained effort. |
-| 21-25 | Gash to the face. Bleeding 1 HP/round until stanched. CHA reduced by 1D3 (permanent on failed Luck roll). |
-| 26-30 | Shoulder wound. Shield or weapon arm at Difficult. STR reduced by 1D3 (permanent on failed Luck roll). |
-| 31-35 | Deep cut to the thigh. Movement halved. Ongoing 1 HP/round bleed until treated. |
-| 36-40 | Hand wound. Fingers severed or tendons cut. That hand cannot grip a weapon without a Stamina roll. DEX reduced by 1D3 (permanent on failed Luck roll). |
-| 41-45 | Gut wound. Stamina roll each round or fall unconscious; CON reduced by 1D3 (permanent on failed Luck roll). |
-| 46-50 | Back blow. Character knocked prone. STR and DEX each reduced by 1D3 (permanent on failed Luck roll). |
-| 51-55 | Head blow. Stunned 1D6 rounds; INT reduced by 1D3 (permanent on failed Luck roll). |
-| 56-60 | Knee injury. Movement reduced to short moves only. DEX reduced by 1D3 (permanent on failed Luck roll). |
-| 61-65 | Chest wound. All actions Difficult; CON reduced by 1D3. Ongoing 1 HP/round until treated. |
-| 66-70 | Eye wound. Vision impaired; Difficult on all sight-dependent rolls. CHA reduced by 1D3 (permanent). |
-| 71-75 | Broken weapon arm. Cannot use that arm. STR of that arm effectively 0 until healed. |
-| 76-80 | Ear lost or hearing damaged. Difficult on all hearing-dependent rolls; CHA reduced by 1 (permanent). |
-| 81-85 | Crippled leg. Cannot stand without support; requires weeks of recovery. DEX reduced by 1D3 (permanent on failed Luck roll). |
-| 86-90 | Severe internal damage. Unconscious immediately. Stamina roll each hour or CON reduces by 1. |
-| 91-95 | Severed or ruined limb. The limb is lost or destroyed. STR and DEX each reduced by 1D3 permanently. |
+| Roll  | Result                                                                                                                                                           |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-05 | Knocked senseless. Unconscious for 1D6 rounds; no permanent effect.                                                                                              |
+| 06-10 | Leg wound. Movement is halved. Agility rolls Difficult.                                                                                                          |
+| 11-15 | Arm wound. One arm is weakened; attack or parry with that arm is Difficult.                                                                                      |
+| 16-20 | Blow to the ribs. All physical actions Difficult. Coughing fits prevent sustained effort.                                                                        |
+| 21-25 | Gash to the face. Bleeding 1 HP/round until stanched. CHA reduced by 1D3 (permanent on failed Luck roll).                                                        |
+| 26-30 | Shoulder wound. Shield or weapon arm at Difficult. STR reduced by 1D3 (permanent on failed Luck roll).                                                           |
+| 31-35 | Deep cut to the thigh. Movement halved. Ongoing 1 HP/round bleed until treated.                                                                                  |
+| 36-40 | Hand wound. Fingers severed or tendons cut. That hand cannot grip a weapon without a Stamina roll. DEX reduced by 1D3 (permanent on failed Luck roll).           |
+| 41-45 | Gut wound. Stamina roll each round or fall unconscious; CON reduced by 1D3 (permanent on failed Luck roll).                                                      |
+| 46-50 | Back blow. Character knocked prone. STR and DEX each reduced by 1D3 (permanent on failed Luck roll).                                                             |
+| 51-55 | Head blow. Stunned 1D6 rounds; INT reduced by 1D3 (permanent on failed Luck roll).                                                                               |
+| 56-60 | Knee injury. Movement reduced to short moves only. DEX reduced by 1D3 (permanent on failed Luck roll).                                                           |
+| 61-65 | Chest wound. All actions Difficult; CON reduced by 1D3. Ongoing 1 HP/round until treated.                                                                        |
+| 66-70 | Eye wound. Vision impaired; Difficult on all sight-dependent rolls. CHA reduced by 1D3 (permanent).                                                              |
+| 71-75 | Broken weapon arm. Cannot use that arm. STR of that arm effectively 0 until healed.                                                                              |
+| 76-80 | Ear lost or hearing damaged. Difficult on all hearing-dependent rolls; CHA reduced by 1 (permanent).                                                             |
+| 81-85 | Crippled leg. Cannot stand without support; requires weeks of recovery. DEX reduced by 1D3 (permanent on failed Luck roll).                                      |
+| 86-90 | Severe internal damage. Unconscious immediately. Stamina roll each hour or CON reduces by 1.                                                                     |
+| 91-95 | Severed or ruined limb. The limb is lost or destroyed. STR and DEX each reduced by 1D3 permanently.                                                              |
 | 96-00 | Killing wound. The character is dying even if HP have not reached zero. Stamina roll each round or lose 1D3 HP; medical intervention required within 1D3 rounds. |
 
 **Criticals and Major Wounds.** When a critical attack triggers a Major Wound, the player may forgo consulting the Major Wounds Table and instead look up the crit result in PA1 (applying the severity band per §8). The crit result supersedes the table roll. This is often preferable when a crit is involved - the PA1 results are more specific and frequently more dramatic.
@@ -204,10 +205,10 @@ Roll 1D100 when a character sustains a Major Wound (unless the GM chooses an app
 
 Natural healing is slow. Without complications, a character recovers 1D3 HP per game week. The quality of care modifies this:
 
-| Conditions | Healing rate |
-|---|---|
-| Poor (wilderness, no rest, no supplies) | 1D3 HP per two weeks |
-| Restful (inn, adequate food, warmth) | 1D3 HP per week |
+| Conditions                                 | Healing rate         |
+| ------------------------------------------ | -------------------- |
+| Poor (wilderness, no rest, no supplies)    | 1D3 HP per two weeks |
+| Restful (inn, adequate food, warmth)       | 1D3 HP per week      |
 | Excellent (physician's care, herbs, quiet) | 1D3 HP per four days |
 
 First Aid applied immediately after a wound heals 1D3 HP (Critical: 2D3 HP) and halts any ongoing bleeding. First Aid must be applied within one turn of the wound to achieve these benefits; later application only halts bleeding.
@@ -374,14 +375,14 @@ Some weapons may fall into more than one type (a falchion used for a hacking cut
 
 The severity band (A through E) is determined by the matching-dice value that triggered or was bought into the critical:
 
-| Matching-dice value | Severity band |
-|---|---|
-| 11 | A (least severe) |
-| 22 | B |
-| 33 | C |
-| 44 | D |
-| 55 | E (most severe, within normal success range) |
-| 66, 77, 88 | E (accessible only to characters with skill 66, 77, 88 or above respectively) |
+| Matching-dice value | Severity band                                                                 |
+| ------------------- | ----------------------------------------------------------------------------- |
+| 11                  | A (least severe)                                                              |
+| 22                  | B                                                                             |
+| 33                  | C                                                                             |
+| 44                  | D                                                                             |
+| 55                  | E (most severe, within normal success range)                                  |
+| 66, 77, 88          | E (accessible only to characters with skill 66, 77, 88 or above respectively) |
 
 A PP-buy critical uses the matching-dice value that was purchased. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is D.
 

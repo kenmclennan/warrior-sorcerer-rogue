@@ -1,7 +1,7 @@
 # G2. NPCs and Adversaries
 
-> *"There were at least a score of them - hard, lean, wolfish men, with a sprinkling of black-bearded nomads among them."*
-> *- Robert E. Howard*
+> _"There were at least a score of them - hard, lean, wolfish men, with a sprinkling of black-bearded nomads among them."_
+> _- Robert E. Howard_
 
 This chapter gives you the tools to build every human enemy the PCs will face: the faceless rabble who can be scattered with a shout, the seasoned professionals who earn their pay, and the named antagonists who will make the players hate them and dread them in equal measure. It covers stat block formats, design principles for each tier, and five ready-to-use examples drawn from WSR's ancient-world frame.
 
@@ -101,6 +101,7 @@ The villain takes no damage from this attack.
 A GM should deploy Look Out Master! once per encounter, at the moment of maximum dramatic tension. The first time a PC gets through the villain's defences and lands a serious blow is ideal. When it triggers, name the mook who dies for it. Give them one descriptive line. Let the horror of the exchange land.
 
 **Constraints.** The villain must have a mook within range. "Range" is defined by the attack type:
+
 - Melee attack: one mook who is engaged or adjacent to the villain.
 - Missile or thrown attack: one mook who is physically between the villain and the projectile's line.
 
@@ -194,6 +195,7 @@ Notes: [drives, behavioural limits, escalation notes, scenario hooks]
 The villain's Power Points are the GM's primary pacing tool. A named antagonist who arrives at a final confrontation with full PP (equal to their POW) is nearly impossible to finish. One whose PP have been depleted through earlier encounters and Look Out Master! expenditures is vulnerable.
 
 **Starting PP at encounter.** Decide at session prep how many PP the antagonist has available when the PCs finally confront them. This is a story decision, not a random determination:
+
 - **Full PP:** The villain has been resting, prepared, and protected. This should be rare for a climactic encounter unless the PCs forced the confrontation early.
 - **Half PP:** One earlier encounter, one Look Out Master! spend, or one costly spell already cast. This is the standard assumption for a mid-campaign confrontation.
 - **Low PP (8 or fewer):** The villain has been grinding through the session, burning resources to survive. They are now close to the "no Look Out Master! possible" threshold. A desperate, brittle antagonist who can die in this fight.

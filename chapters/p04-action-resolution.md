@@ -1,6 +1,6 @@
 # P4. Action Resolution
 
-> *"He was not afraid of men. He was afraid of himself - the thing he might become if his luck ran dry."*
+> _"He was not afraid of men. He was afraid of himself - the thing he might become if his luck ran dry."_
 
 This chapter is the mechanical spine of Warrior \* Sorcerer \* Rogue. Every roll, every contested outcome, every flicker of luck and power finds its resolution here. Read this chapter before any other; every rule in every chapter that follows reaches back to these pages.
 
@@ -23,12 +23,12 @@ The GM makes automatic and impossible calls before dice are touched. Challenging
 
 The four difficulty levels adjust the effective skill used for the roll:
 
-| Difficulty | Modifier |
-|---|---|
-| Easy | Skill x2 (or characteristic x10) |
-| Average (default) | Skill as rated |
-| Difficult | Half skill, rounding up |
-| Impossible | No roll; automatic failure |
+| Difficulty        | Modifier                         |
+| ----------------- | -------------------------------- |
+| Easy              | Skill x2 (or characteristic x10) |
+| Average (default) | Skill as rated                   |
+| Difficult         | Half skill, rounding up          |
+| Impossible        | No roll; automatic failure       |
 
 Only one difficulty level applies at a time. If multiple factors would change difficulty, assess the net result and apply a single modifier.
 
@@ -38,11 +38,11 @@ Situational modifiers (unusual equipment, adverse weather, time pressure) stack 
 
 When no applicable skill exists, a characteristic roll substitutes. Multiply the relevant characteristic by five and roll against that target.
 
-| Characteristic | Roll as |
-|---|---|
+| Characteristic     | Roll as           |
+| ------------------ | ----------------- |
 | STR, CON, DEX, CHA | Characteristic x5 |
-| INT | Characteristic x5 |
-| POW (as Luck) | POW x5 |
+| INT                | Characteristic x5 |
+| POW (as Luck)      | POW x5            |
 
 Characteristic rolls follow the same outcome tiers as skill rolls. They do not earn experience checkmarks.
 
@@ -69,15 +69,15 @@ The matching-dice values are: **11, 22, 33, 44, 55, 66, 77, 88**. The roll 00 (1
 The matching-dice system scales naturally with ability: a higher-skill character has more matching values within their success range and therefore criticals more often. By the same logic, a lower-skill character has more matching values outside their success range and therefore fumbles more often.
 
 | Skill Rating | Matching Values in Success Range (Criticals) | Matching Values in Failure Range (Fumbles) |
-|---|---|---|
-| 20 | 11 (1 value) | 22, 33, 44, 55, 66, 77, 88, 00 (8 values) |
-| 30 | 11, 22 (2 values) | 33, 44, 55, 66, 77, 88, 00 (7 values) |
-| 40 | 11, 22, 33 (3 values) | 44, 55, 66, 77, 88, 00 (6 values) |
-| 50 | 11, 22, 33, 44 (4 values) | 55, 66, 77, 88, 00 (5 values) |
-| 60 | 11, 22, 33, 44, 55 (5 values) | 66, 77, 88, 00 (4 values) |
-| 70 | 11, 22, 33, 44, 55, 66 (6 values) | 77, 88, 00 (3 values) |
-| 80 | 11, 22, 33, 44, 55, 66, 77 (7 values) | 88, 00 (2 values) |
-| 90 | 11, 22, 33, 44, 55, 66, 77, 88 (8 values) | 00 (1 value) |
+| ------------ | -------------------------------------------- | ------------------------------------------ |
+| 20           | 11 (1 value)                                 | 22, 33, 44, 55, 66, 77, 88, 00 (8 values)  |
+| 30           | 11, 22 (2 values)                            | 33, 44, 55, 66, 77, 88, 00 (7 values)      |
+| 40           | 11, 22, 33 (3 values)                        | 44, 55, 66, 77, 88, 00 (6 values)          |
+| 50           | 11, 22, 33, 44 (4 values)                    | 55, 66, 77, 88, 00 (5 values)              |
+| 60           | 11, 22, 33, 44, 55 (5 values)                | 66, 77, 88, 00 (4 values)                  |
+| 70           | 11, 22, 33, 44, 55, 66 (6 values)            | 77, 88, 00 (3 values)                      |
+| 80           | 11, 22, 33, 44, 55, 66, 77 (7 values)        | 88, 00 (2 values)                          |
+| 90           | 11, 22, 33, 44, 55, 66, 77, 88 (8 values)    | 00 (1 value)                               |
 
 A character with a skill of exactly 90 criticals on any of the eight matching values. A character with a skill of 30 criticals only on rolls of 11 or 22. This is the table in full - no other matching values fall in any skill's success range at these ratings. (At skill 100+, 99 also becomes a critical.)
 
@@ -157,13 +157,13 @@ A difference of 10 or more between active and passive results in an automatic su
 
 Common resistance contests:
 
-| Active | Passive | Used for |
-|---|---|---|
-| POW | POW | Spell resistance; willpower contests |
-| PP | PP | Competing magical effects |
-| POT | CON | Poisons and venoms against the body |
-| STR | STR | Raw strength contests |
-| Damage | CON | Knockback and stun effects |
+| Active | Passive | Used for                             |
+| ------ | ------- | ------------------------------------ |
+| POW    | POW     | Spell resistance; willpower contests |
+| PP     | PP      | Competing magical effects            |
+| POT    | CON     | Poisons and venoms against the body  |
+| STR    | STR     | Raw strength contests                |
+| Damage | CON     | Knockback and stun effects           |
 
 A successful win in a POW vs. POW contest against an opponent with equal or greater POW earns the winner an experience checkmark toward improving POW. See §8.4 for POW improvement.
 
@@ -187,16 +187,16 @@ The game uses four time scales. The GM shifts between them as the fiction demand
 
 Reference times for common game activities:
 
-| Activity | Time Required |
-|---|---|
-| Recover 1 Power Point (sleeping) | 1 hour |
-| Recover 1 Power Point (awake) | 2 hours |
-| Recover all Power Points | 1 game day (24 hours) |
-| Natural healing: 1D3 HP | 1 game week |
-| Experience roll opportunity | 1 downtime period (end of adventure) |
-| Skill training roll | Current skill x1 hour (up to 50 hours/week) |
-| Training roll, combat skills | ~3 game weeks |
-| Training roll, non-combat skills | ~12 game weeks or less |
+| Activity                         | Time Required                               |
+| -------------------------------- | ------------------------------------------- |
+| Recover 1 Power Point (sleeping) | 1 hour                                      |
+| Recover 1 Power Point (awake)    | 2 hours                                     |
+| Recover all Power Points         | 1 game day (24 hours)                       |
+| Natural healing: 1D3 HP          | 1 game week                                 |
+| Experience roll opportunity      | 1 downtime period (end of adventure)        |
+| Skill training roll              | Current skill x1 hour (up to 50 hours/week) |
+| Training roll, combat skills     | ~3 game weeks                               |
+| Training roll, non-combat skills | ~12 game weeks or less                      |
 
 ---
 

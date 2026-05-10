@@ -1,7 +1,7 @@
 # P1. Introduction
 
-> *"Conan the Cimmerian had visited many strange cities and kingdoms in his wild, wandering life, but he had never before been to Zamora, the ancient, city of thieves and sorcerers."*
-> *- Robert E. Howard*
+> _"Conan the Cimmerian had visited many strange cities and kingdoms in his wild, wandering life, but he had never before been to Zamora, the ancient, city of thieves and sorcerers."_
+> _- Robert E. Howard_
 
 This is Warrior \* Sorcerer \* Rogue. You are holding the Player Book - everything a player needs to create a character, understand the rules, and take a seat at the table. This chapter introduces the genre, describes the system in brief, explains the conventions used throughout both books, and gives you a one-page primer you can use the moment the dice are in your hand.
 
@@ -31,7 +31,7 @@ It is **not pseudo-medieval European fantasy**. No knights, no jousts, no serial
 
 It is **not a world of helpful magic**. Sorcery in this game is not a utility toolkit. It is a set of transactions with powers that do not care about you, paid in the vital force that also keeps you lucky and alive.
 
-It is **not a redemption arc**. The heroes are pragmatic outsiders, not Good People With Quirks. Conan is a thief, mercenary, raider, and king - but never *noble*. The characters in this game have personal codes, but those codes are their own, not civilization's.
+It is **not a redemption arc**. The heroes are pragmatic outsiders, not Good People With Quirks. Conan is a thief, mercenary, raider, and king - but never _noble_. The characters in this game have personal codes, but those codes are their own, not civilization's.
 
 It is **not a zero-to-hero arc**. Characters in WSR start exceptional. They grow in experience and reputation, not raw capability. A twentieth-session Conan is more famous and more scarred than a first-session Conan; he is not a demigod.
 
@@ -73,25 +73,25 @@ WSR is a tabletop roleplaying game built on Chaosium's **Basic Roleplaying Unive
 
 The Player Book and GM Book each use chapter codes for cross-reference:
 
-| Code | Chapter |
-|------|---------|
-| **P1** | Introduction (this chapter) |
-| **P2** | Character Creation |
-| **P3** | Skills |
-| **P4** | Action Resolution |
-| **P5** | Combat |
-| **P6** | Sorcery |
-| **P7** | Equipment |
+| Code    | Chapter                       |
+| ------- | ----------------------------- |
+| **P1**  | Introduction (this chapter)   |
+| **P2**  | Character Creation            |
+| **P3**  | Skills                        |
+| **P4**  | Action Resolution             |
+| **P5**  | Combat                        |
+| **P6**  | Sorcery                       |
+| **P7**  | Equipment                     |
 | **PA1** | Appendix: Critical Hit Tables |
-| **PA2** | Appendix: Examples |
-| **G1** | Running the Game |
-| **G2** | NPCs and Adversaries |
-| **G3** | Bestiary |
-| **G4** | NPC Sorcery and Patrons |
-| **G5** | Treasure and Artifacts |
-| **G6** | Hazards and Spot Rules |
-| **G7** | The Deep Past |
-| **GA1** | Appendix: GM Examples |
+| **PA2** | Appendix: Examples            |
+| **G1**  | Running the Game              |
+| **G2**  | NPCs and Adversaries          |
+| **G3**  | Bestiary                      |
+| **G4**  | NPC Sorcery and Patrons       |
+| **G5**  | Treasure and Artifacts        |
+| **G6**  | Hazards and Spot Rules        |
+| **G7**  | The Deep Past                 |
+| **GA1** | Appendix: GM Examples         |
 
 ### 3.2 Cross-Reference Syntax
 
@@ -116,6 +116,7 @@ This section is the minimum you need to sit down and roll dice. Every part of it
 **Make a roll (P4).** When something uncertain and meaningful is at stake, roll two d10 as a percentile number (01-00). Roll equal to or less than your skill to succeed. Your GM sets difficulty: Easy doubles the effective skill, Difficult halves it.
 
 **Read the outcome (P4 §2).** The four tiers are:
+
 - **Critical Success** - your roll is a success AND both dice show the same digit (11, 22, 33, 44, 55, 66, 77, 88). The best possible result.
 - **Success** - roll equals or beats the target; dice do not match.
 - **Failure** - roll exceeds the target; dice do not match.
@@ -166,11 +167,11 @@ None of these systems are reproduced in WSR. Their game mechanics are not copyri
 
 Warrior \* Sorcerer \* Rogue draws on a century of sword & sorcery fiction. The following authors and works are the primary sources of the game's tone, world-assumptions, and the register in which it is meant to be played:
 
-- **Robert E. Howard** - the Conan stories, the Kull stories, the Solomon Kane stories; published in *Weird Tales* and collected in numerous editions.
-- **Fritz Leiber** - the Fafhrd and the Grey Mouser stories; published across several decades and collected as the *Swords* sequence.
+- **Robert E. Howard** - the Conan stories, the Kull stories, the Solomon Kane stories; published in _Weird Tales_ and collected in numerous editions.
+- **Fritz Leiber** - the Fafhrd and the Grey Mouser stories; published across several decades and collected as the _Swords_ sequence.
 - **Michael Moorcock** - the Elric of Melniboné novels and the broader Eternal Champion cycle.
 - **Edgar Rice Burroughs** - the Barsoom/John Carter of Mars series; the Pellucidar series.
-- **Clark Ashton Smith** - the Hyperborea, Zothique, and Averoigne story cycles; published in *Weird Tales* and related pulp magazines.
+- **Clark Ashton Smith** - the Hyperborea, Zothique, and Averoigne story cycles; published in _Weird Tales_ and related pulp magazines.
 
 No text from these works is reproduced in this game. The literary inspirations are acknowledged because this game would not exist without them, and because the players and GMs who recognise these names will understand immediately what kind of game they are about to play.
 

@@ -12,6 +12,32 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-10 - Publishing pipeline: GitHub Actions to GitHub Pages (deferred to Phase 3)
+
+**Context:** Phase 2 produces Markdown chapters only (per user direction). The question of how to publish them surfaced when the chapters were complete. User preference: GitHub Actions building a styled site to GitHub Pages, rather than local PDF generation.
+
+**Decision:** **Deferred to Phase 3 (Publishing).** Captured here so the direction is recorded.
+
+The rough shape of Phase 3:
+
+- Chapters remain as canonical Markdown in `chapters/`.
+- A GitHub Action (likely Pandoc-based, or a static-site generator) builds the chapters into a styled HTML site.
+- Output is published to GitHub Pages.
+- Styling: sword-and-sorcery flavoured layout with appropriate typography. Specific theme TBD.
+- PDF output may be added to the same pipeline later if desired.
+
+**Reasoning:** Markdown is the canonical source; HTML / GitHub Pages is the published artifact. This keeps the editing workflow simple (Markdown only, lint-clean) and pushes presentation concerns to a separate, automatable pipeline. Deferring to Phase 3 keeps Phase 2 closeout focused on Markdown completeness.
+
+**Implications for Phase 3 planning:**
+
+- Choose a static-site generator (Pandoc + custom HTML, Hugo, MkDocs, Eleventy, etc.) or a direct Pandoc-to-HTML pipeline.
+- Design the styling (typography, layout, sidebar treatment, table styling, palette).
+- Set up the GitHub Action workflow.
+- Configure GitHub Pages deployment.
+- Decide whether the repo gets pushed to GitHub at this point (currently local-only).
+
+---
+
 ## 2026-05-10 - Phase 2 batch 2 chapter-time decisions (P5, PA1, P3, P7)
 
 **Context:** Phase 2 chapter dispatches for P5 Combat, PA1 Critical Hit Tables, P3 Skills, and P7 Equipment all returned together. Each subagent made local chapter-time decisions that need to be locked because downstream chapters and cross-references depend on them.

@@ -1,7 +1,7 @@
 # P6. Sorcery
 
-> *"He was a sorcerer and men feared him and he was doomed and he knew it and the knowledge had become a kind of pleasure."*
-> *- Michael Moorcock*
+> _"He was a sorcerer and men feared him and he was doomed and he knew it and the knowledge had become a kind of pleasure."_
+> _- Michael Moorcock_
 
 This chapter is for sorcerer characters. It covers what you must do to become a sorcerer, how spells work, what every casting costs you, what iron does to your power, how grimoires work, and the full spell list. The GM Book chapter G4 covers the other side of all this: what patrons actually want, what demons look like when they arrive, and what happens when a sorcerer crosses too far into the dark.
 
@@ -158,47 +158,47 @@ The permanent cost. Every sorcerer has a Corruption track, expressed as a score 
 
 **Losing Corruption:** The table below lists the circumstances that cost Corruption. When a triggering event occurs, make a D100 roll against the sorcerer's current Corruption. On a success, the sorcerer sustains the lower loss. On a failure, they sustain the higher.
 
-| Trigger | Corruption Loss (success/failure) |
-|---|---|
-| Casting a spell of intensity 3 or lower | 0 / 1 |
-| Casting a spell of intensity 4 or higher | 1 / 1D3 |
-| Summoning a lesser demon (player side) | 1 / 1D6 |
-| Binding a demon (any type) | 1D3 / 1D6 |
-| Casting past PP exhaustion (see §3.1) | 1D6 / 2D6 |
-| Patron Intercession (the patron manifesting) | 1 / 1D3 |
-| Encountering a Greater Demon unbound | 1D3 / 1D6 |
-| Direct contact with an Old Power | 1D10 / 1D100 |
-| Suffering a sorcerous curse or transformation | 1D6 / 2D10 |
+| Trigger                                       | Corruption Loss (success/failure) |
+| --------------------------------------------- | --------------------------------- |
+| Casting a spell of intensity 3 or lower       | 0 / 1                             |
+| Casting a spell of intensity 4 or higher      | 1 / 1D3                           |
+| Summoning a lesser demon (player side)        | 1 / 1D6                           |
+| Binding a demon (any type)                    | 1D3 / 1D6                         |
+| Casting past PP exhaustion (see §3.1)         | 1D6 / 2D6                         |
+| Patron Intercession (the patron manifesting)  | 1 / 1D3                           |
+| Encountering a Greater Demon unbound          | 1D3 / 1D6                         |
+| Direct contact with an Old Power              | 1D10 / 1D100                      |
+| Suffering a sorcerous curse or transformation | 1D6 / 2D10                        |
 
 **Desensitisation:** Repeated exposure to the same ordinary source of Corruption (encountering the same class of lesser demon, casting the same minor spells) eventually loses its impact. The GM may reduce or waive the Corruption cost for situations the sorcerer has faced many times before. Greater Demons and Old Powers never desensitise.
 
 **Corruption thresholds:** The track has three important levels.
 
-*At half starting value (the Breaking Point):* if the sorcerer loses Corruption points equal to or greater than their Breaking Point (half starting value) in a single session, they suffer an **acute episode**. Roll 1D6 on the Acute Episode table and 1D8 on the Duration table.
+_At half starting value (the Breaking Point):_ if the sorcerer loses Corruption points equal to or greater than their Breaking Point (half starting value) in a single session, they suffer an **acute episode**. Roll 1D6 on the Acute Episode table and 1D8 on the Duration table.
 
-| 1D6 | Acute Episode |
-|---|---|
-| 1 | **Fugue Possession.** The sorcerer stares, unmoving, as something looks out through their eyes. They are present but not controlling their body. Duration applies. |
-| 2 | **Speaking in the Dead Tongue.** The sorcerer speaks only in a dead arcane language they may or may not know. They can still understand others. Duration applies. |
-| 3 | **Demonic Certainty.** The sorcerer becomes convinced they are being surveilled by a specific supernatural entity. They may still act but with paranoia-driven decisions. Duration applies. |
-| 4 | **Offering Compulsion.** The sorcerer is gripped by the need to make an offering - of blood, of something precious, of something irreversible. They resist with a Difficult Willpower roll or are compelled. |
-| 5 | **The Sorcerer's Mark.** A permanent physical mark appears - an arcane brand, a changed eye colour, scales along the wrist, a cold spot at the temples. This mark does not fade when the episode ends. |
-| 6 | **Ecstatic Clarity.** For the duration, the sorcerer casts all spells at no PP cost. They also cannot be reasoned with and will not stop. |
+| 1D6 | Acute Episode                                                                                                                                                                                                |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Fugue Possession.** The sorcerer stares, unmoving, as something looks out through their eyes. They are present but not controlling their body. Duration applies.                                           |
+| 2   | **Speaking in the Dead Tongue.** The sorcerer speaks only in a dead arcane language they may or may not know. They can still understand others. Duration applies.                                            |
+| 3   | **Demonic Certainty.** The sorcerer becomes convinced they are being surveilled by a specific supernatural entity. They may still act but with paranoia-driven decisions. Duration applies.                  |
+| 4   | **Offering Compulsion.** The sorcerer is gripped by the need to make an offering - of blood, of something precious, of something irreversible. They resist with a Difficult Willpower roll or are compelled. |
+| 5   | **The Sorcerer's Mark.** A permanent physical mark appears - an arcane brand, a changed eye colour, scales along the wrist, a cold spot at the temples. This mark does not fade when the episode ends.       |
+| 6   | **Ecstatic Clarity.** For the duration, the sorcerer casts all spells at no PP cost. They also cannot be reasoned with and will not stop.                                                                    |
 
-| 1D8 | Duration |
-|---|---|
-| 1 | One combat round |
-| 2 | Five minutes (one turn) |
-| 3 | One hour |
-| 4 | Two hours |
-| 5 | Twelve hours |
-| 6 | One day |
-| 7 | One week |
-| 8 | Two weeks |
+| 1D8 | Duration                |
+| --- | ----------------------- |
+| 1   | One combat round        |
+| 2   | Five minutes (one turn) |
+| 3   | One hour                |
+| 4   | Two hours               |
+| 5   | Twelve hours            |
+| 6   | One day                 |
+| 7   | One week                |
+| 8   | Two weeks               |
 
-*At Corruption 25 or lower:* the sorcerer is visibly marked by their practice. They cannot easily pass as an ordinary person. Strangers feel unease in their presence. Animals will not approach willingly. The casting signature has become involuntary - it appears even in ordinary moments.
+_At Corruption 25 or lower:_ the sorcerer is visibly marked by their practice. They cannot easily pass as an ordinary person. Strangers feel unease in their presence. Animals will not approach willingly. The casting signature has become involuntary - it appears even in ordinary moments.
 
-*At Corruption 0:* the sorcerer is lost. They are either retired from play as an NPC or - at the GM's discretion - become an entity under GM control that may still speak with their voice but no longer has their goals. Reaching zero Corruption is the end of the character's story. It is not death, but it is worse.
+_At Corruption 0:_ the sorcerer is lost. They are either retired from play as an NPC or - at the GM's discretion - become an entity under GM control that may still speak with their voice but no longer has their goals. Reaching zero Corruption is the end of the character's story. It is not death, but it is worse.
 
 **Recovering Corruption:** Two paths exist.
 
@@ -290,7 +290,7 @@ The sorcerer bends another's will, inducing a state of uncontrolled violence in 
 
 When the spell ends, the target collapses unless their wounds were minor.
 
-*Something looked out through those eyes and it was not the man they had known. It was older, and it did not care which of them it killed first.*
+_Something looked out through those eyes and it was not the man they had known. It was older, and it did not care which of them it killed first._
 
 **Cost Notes:** Casting at intensity 3 or higher increases Corruption by 1 (in addition to standard casting cost).
 
@@ -306,7 +306,7 @@ The sorcerer sees through the eyes of a bird within range (intensity 1: line of 
 
 At intensity 3, the sorcerer may leap from one bird to another within range with a Difficult Idea roll.
 
-*The raven landed on the gate arch, and somewhere a mile away a man stared at nothing and smiled at what it saw.*
+_The raven landed on the gate arch, and somewhere a mile away a man stared at nothing and smiled at what it saw._
 
 ---
 
@@ -322,7 +322,7 @@ A sorcerer may draw from the brazier as if drawing from their own pool, but only
 
 If the brazier is destroyed, the permanent POW investment is lost. If the sorcerer dies, the brazier's stored power dissipates over POW hours.
 
-*The heart of any true sorcerer's sanctum is the focus: the object that holds what they have poured into it. Touch it and feel what they sacrificed.*
+_The heart of any true sorcerer's sanctum is the focus: the object that holds what they have poured into it. Touch it and feel what they sacrificed._
 
 **Cost Notes:** Costs 1 permanent POW. Losing the brazier cannot restore this cost. Gaining a new brazier requires the full creation cost again.
 
@@ -338,7 +338,7 @@ The sorcerer becomes the focal point of a PP chain, drawing on the vital force o
 
 The sorcerer uses the combined PP pool for the linked working (usually a demon summoning or great ritual). Once the chain is released, participants recover PP normally.
 
-*In the old stories, great summoners had a circle of volunteers - servants, students, the devout, the afraid - and they drew from each in turn. The circle always had fewer at its end than at its beginning.*
+_In the old stories, great summoners had a circle of volunteers - servants, students, the devout, the afraid - and they drew from each in turn. The circle always had fewer at its end than at its beginning._
 
 **Cost Notes:** Participants who contribute more than half their PP in a single session each suffer 1 Corruption.
 
@@ -354,7 +354,7 @@ Enhances the target's Stealth skill: intensity 1 = +20%; intensity 2 = +40%; int
 
 The effect is precisely what it sounds like: the shadow thickens around the target, as if the night recognises one of its own.
 
-*She had been standing there the whole time. He simply had not been able to see her.*
+_She had been standing there the whole time. He simply had not been able to see her._
 
 ---
 
@@ -370,7 +370,7 @@ The disfigurement is permanent and visible. The target takes a -20% penalty to a
 
 The curse can only be broken by Undo Sorcery at equal or greater intensity, or by killing the caster.
 
-*"I will not kill you. I will make you something people cross the street to avoid."*
+_"I will not kill you. I will make you something people cross the street to avoid."_
 
 **Cost Notes:** Casting this spell increases Corruption by 1D3 (in addition to standard casting cost). Every sorcerer who casts it knows what they are becoming.
 
@@ -386,7 +386,7 @@ The sorcerer sheathes a blade in sorcerous force, making it supernaturally keen.
 
 The weapon glows faintly during the working and leaves wounds that do not clot normally. A character who takes a Major Wound from a Flaying Blade-enhanced weapon loses 1 HP per round from the wound until it is treated with a First Aid roll.
 
-*The blade sang through the shield and the arm behind it and none of them understood why until it was over.*
+_The blade sang through the shield and the arm behind it and none of them understood why until it was over._
 
 ---
 
@@ -400,7 +400,7 @@ The sorcerer wraps a crushing weapon (mace, hammer, club, maul) in sorcerous for
 
 The weapon makes a deep resonant sound on impact, audible at long range.
 
-*It struck the bronze gate and the gate was simply gone. Not broken. Gone.*
+_It struck the bronze gate and the gate was simply gone. Not broken. Gone._
 
 ---
 
@@ -414,7 +414,7 @@ As Flaying Blade, but for a slashing or piercing weapon. The enhanced weapon gai
 
 Unlike Flaying Blade (designed for bludgeoning weapons), Hell's Razor is the more commonly known version and appears in most grimoires. The two spells cannot both be active on the same weapon simultaneously.
 
-*Every man in the courtyard had seen a sword drawn before. Not one of them had seen a sword like that.*
+_Every man in the courtyard had seen a sword drawn before. Not one of them had seen a sword like that._
 
 ---
 
@@ -428,7 +428,7 @@ The target is seized by invisible bonds of sorcerous force. They must fail a STR
 
 Each round, the target may attempt a STR resistance roll to break free, but the difficulty is Difficult (halved STR). Once free, the spell is spent.
 
-*He was not chained. There was nothing to see. He simply could not move, no matter how hard he tried, and that was the worst part.*
+_He was not chained. There was nothing to see. He simply could not move, no matter how hard he tried, and that was the worst part._
 
 ---
 
@@ -442,7 +442,7 @@ Counter-magic. When cast before a specific spell or sorcerous effect, Iron Ward 
 
 When two sorcerers are contesting with Iron Ward and a competing spell, compare PP pools after casting costs. The working with the higher remaining PP behind it prevails.
 
-*She smiled when she saw what he was preparing. She had seen that spell before.*
+_She smiled when she saw what he was preparing. She had seen that spell before._
 
 ---
 
@@ -454,7 +454,7 @@ When two sorcerers are contesting with Iron Ward and a competing spell, compare 
 
 Enhances the target's Athletics (jump and climb) and Acrobatics skills: intensity 1 = +20%; intensity 2 = +40%; intensity 3 = +60%; intensity 4 = +80%. At intensity 4 the target can traverse vertical surfaces at normal movement speed and their falls never exceed 3 metres of effective height.
 
-*She went up the palace wall like she was born to it. Which she was not. Which made watching it deeply unsettling.*
+_She went up the palace wall like she was born to it. Which she was not. Which made watching it deeply unsettling._
 
 ---
 
@@ -470,7 +470,7 @@ Maintaining the shape requires the sorcerer's concentration; they cannot cast ot
 
 A sorcerer who uses this spell to impersonate someone and is later seen through suffers a -30% social penalty with anyone present for the revelation.
 
-*He wore the general's face for three hours. The general never learned what had been decided in his name.*
+_He wore the general's face for three hours. The general never learned what had been decided in his name._
 
 ---
 
@@ -484,7 +484,7 @@ The sorcerer knits a wound in themselves or a touched target, burning something 
 
 This spell does not restore lost limbs, cure disease, or reverse Corruption. It closes wounds. Nothing more.
 
-*He screamed when the sorcerer's hands touched the wound, and the scream cut short when the pain was gone. He was alive. He did not ask how. Smart men did not ask.*
+_He screamed when the sorcerer's hands touched the wound, and the scream cut short when the pain was gone. He was alive. He did not ask how. Smart men did not ask._
 
 **Cost Notes:** Casting this spell always causes 1D3 Corruption regardless of the standard casting Corruption roll. Sorcerous healing is not without its cost - the power drawn to knit flesh comes from the same place everything else comes from. This spell is not a routine tool. It is an emergency measure.
 
@@ -500,7 +500,7 @@ Creates an area of complete and unnatural darkness within a radius of POW metres
 
 The darkness has a quality beyond mere absence of light. It presses.
 
-*The torch went out. They all went out. And then something moved in the dark that was not one of them.*
+_The torch went out. They all went out. And then something moved in the dark that was not one of them._
 
 ---
 
@@ -514,7 +514,7 @@ Creates a floating light source roughly equivalent to full moonlight, illuminati
 
 At the GM's option, creatures of the deep dark (certain undead, certain demons) are uncomfortable in moonrise light and take a -10% penalty to actions while within it.
 
-*The light was beautiful and wrong and it cast shadows that moved when it shouldn't.*
+_The light was beautiful and wrong and it cast shadows that moved when it shouldn't._
 
 ---
 
@@ -528,7 +528,7 @@ The sorcerer's hearing becomes supernaturally precise. They can hear a whispered
 
 At the GM's option, sudden loud noises while under Night Ear cause 1D6 PP loss as the sorcerer recoils from the assault.
 
-*He had heard the conversation from the other side of the palace wall. He had heard every word. He wished he had not.*
+_He had heard the conversation from the other side of the palace wall. He had heard every word. He wished he had not._
 
 ---
 
@@ -542,7 +542,7 @@ The sorcerer drains vitality from a target, reducing their PP pool by 1D3 per ro
 
 A target drained to 0 PP collapses, unconscious, as per the standard rules.
 
-*He felt his strength leaving him with each breath, and could not tell if it was fear or something else, and eventually it did not matter.*
+_He felt his strength leaving him with each breath, and could not tell if it was fear or something else, and eventually it did not matter._
 
 ---
 
@@ -556,7 +556,7 @@ The sorcerer perceives the strength and nature of magical auras within POW x5 me
 
 This spell is essential before attempting to summon and bind a demon - it reveals whether the demon's POW is beyond the sorcerer's ability to contain.
 
-*"Do not try to bind that one," he said quietly. "You cannot see what I see. I can. Do not try."*
+_"Do not try to bind that one," he said quietly. "You cannot see what I see. I can. Do not try."_
 
 ---
 
@@ -570,7 +570,7 @@ The sorcerer wraps themselves or a touched target in sorcerous protection. The e
 
 Shadow-Wrap appears to observers as a faint darkening of the air around the protected target, as if they cast shadows that belong to somewhere else.
 
-*The blade struck. It should have opened him from shoulder to hip. Instead the sorcerer turned, uninjured, and the attacker's sword was cold.*
+_The blade struck. It should have opened him from shoulder to hip. Instead the sorcerer turned, uninjured, and the attacker's sword was cold._
 
 ---
 
@@ -584,7 +584,7 @@ A more extreme version of Liken Shape. The sorcerer does not merely appear as th
 
 The sorcerer retains their own INT and POW throughout. They cannot cast other spells while maintaining Shape Thief.
 
-*He had been the wolf for an hour. When he returned to his own skin, he was quiet for a long time, and then he was not quite the same man again.*
+_He had been the wolf for an hour. When he returned to his own skin, he was quiet for a long time, and then he was not quite the same man again._
 
 **Cost Notes:** Each use of Shape Thief to take on a non-human form causes 1 Corruption (in addition to the standard casting cost). The soul leaves a mark when it has worn a different body.
 
@@ -600,7 +600,7 @@ The sorcerer confounds a target's reasoning. The target must fail a POW resistan
 
 A target who is attacked while under Still the Mind may make a new POW resistance roll at the start of each following round to shake free.
 
-*He opened his mouth to say the words. Nothing came. He stood there, sword in hand, unable to remember what swords were for.*
+_He opened his mouth to say the words. Nothing came. He stood there, sword in hand, unable to remember what swords were for._
 
 ---
 
@@ -614,7 +614,7 @@ The sorcerer prepares a summoning circle, invokes a demon by the appropriate for
 
 The mechanical procedure for the player's side of a summoning is covered in §7. The demon's behaviour, personality, demands, and what happens when the binding is broken are described in G4.
 
-*The circle held. That was the important thing. As long as the circle held, everything was still a negotiation.*
+_The circle held. That was the important thing. As long as the circle held, everything was still a negotiation._
 
 **Cost Notes:** Summoning a lesser demon causes Corruption as per the §3.3 table. Summoning a Greater Demon costs 1D3 additional Corruption regardless of the Corruption roll result.
 
@@ -628,7 +628,7 @@ The mechanical procedure for the player's side of a summoning is covered in §7.
 
 Enhances the target's manual or ranged combat skill: intensity 1 = +20%; intensity 2 = +40%; intensity 3 = +60%; intensity 4 = +80%. At intensity 4, the target's hands do not shake even under intense stress, and they receive a +10% bonus to any action that requires precise fine manipulation (a sorcerer enhancing a rogue's picklocking or a crossbow user's shot).
 
-*"Just stay calm," the sorcerer said, and her hands were suddenly steady, and she made the shot.*
+_"Just stay calm," the sorcerer said, and her hands were suddenly steady, and she made the shot._
 
 ---
 
@@ -644,7 +644,7 @@ At intensity 3, the target can lift objects that would ordinarily require a crew
 
 When the spell ends, the target takes 1D3 fatigue damage (applied to HP) as the body pays the arrears.
 
-*He picked up the gate - not opened it, picked it up - and threw it into the canal.*
+_He picked up the gate - not opened it, picked it up - and threw it into the canal._
 
 ---
 
@@ -658,7 +658,7 @@ The sorcerer drains vitality from a touched target, healing themselves or a thir
 
 The beneficiary cannot be healed above their maximum HP. The drained HP are transferred, not destroyed - the target has simply lost something the beneficiary now has.
 
-*She touched him and he felt cold all the way through, and the woman beside him breathed easier, and he understood, finally, what he was for.*
+_She touched him and he felt cold all the way through, and the woman beside him breathed easier, and he understood, finally, what he was for._
 
 **Cost Notes:** Each use of this spell causes 1 Corruption (in addition to standard casting cost). Taking life to sustain life is not a neutral act.
 
@@ -674,7 +674,7 @@ Creates a magical alarm on a defined perimeter - a room's walls, the edges of a 
 
 The alarm does not stop intruders. It tells the sorcerer someone is there.
 
-*He slept well in bad places, always. He always knew when someone came.*
+_He slept well in bad places, always. He always knew when someone came._
 
 ---
 
@@ -688,7 +688,7 @@ As Bird's Eye, but the sorcerer perceives through the eyes of a rat, snake, inse
 
 At intensity 3, the sorcerer may share perception with multiple creatures simultaneously, receiving overlapping sensory information that is difficult to parse (Difficult Idea roll to act on specific information from a particular creature).
 
-*The rat had been under the table for the entire meeting. The sorcerer, in her room a street away, had heard every word.*
+_The rat had been under the table for the entire meeting. The sorcerer, in her room a street away, had heard every word._
 
 ---
 
@@ -702,7 +702,7 @@ The sorcerer examines a wound, a body, a patient in extremis, and reads what hap
 
 This is a diagnostic tool. It does not heal. It only knows.
 
-*"Three different blades. Two different nights. And the poison is something I've only read about." He paused. "Someone has gone to considerable trouble."*
+_"Three different blades. Two different nights. And the poison is something I've only read about." He paused. "Someone has gone to considerable trouble."_
 
 ---
 
@@ -743,9 +743,10 @@ If the sorcerer wants the demon to serve for an extended period (rather than sim
 **Binding costs:** 1 permanent POW per binding, plus the demon must fail a POW resistance roll against the sorcerer's current PP total. If the demon succeeds, it is not bound. This is a real risk. If the binding fails, the demon is still present and is usually unhappy.
 
 **Types of binding:**
-- *Flesh binding:* the demon is bound to the sorcerer's service directly. It follows the sorcerer, executes commands, and cannot harm the sorcerer for the duration.
-- *Object binding:* the demon is bound into an object (a weapon, an amulet, a sealed container). The demon's power is accessible through the object; the demon cannot act independently of it.
-- *Place binding:* the demon is bound to a location. It cannot leave that location but has great power within it.
+
+- _Flesh binding:_ the demon is bound to the sorcerer's service directly. It follows the sorcerer, executes commands, and cannot harm the sorcerer for the duration.
+- _Object binding:_ the demon is bound into an object (a weapon, an amulet, a sealed container). The demon's power is accessible through the object; the demon cannot act independently of it.
+- _Place binding:_ the demon is bound to a location. It cannot leave that location but has great power within it.
 
 **True name:** Once bound, the demon's true name is surrendered to the sorcerer. Knowing the name lets the sorcerer call and dismiss the demon at will (costing 1 PP each time) for the duration of the binding.
 
