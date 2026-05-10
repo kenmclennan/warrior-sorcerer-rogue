@@ -12,6 +12,37 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-10 - Combat resolution: matching-dice criticals + weapon-type tables; matching-dice fumbles
+
+**Context:** BRP UGE uses a percentile system with five outcome tiers: Critical (1/20 of skill), Special (1/5 of skill), Success, Failure, Fumble. The Special and Critical tiers carry weapon-type damage results. The Special-Success calculation (1/5 of skill) is mental-arithmetic-heavy at the table. We considered replacements after reviewing Delta Green's matching-dice mechanism (`notes/delta-green.md`), Rolemaster Arms Law's per-weapon critical tables (`notes/rolemaster-arms-law.md`), and an audit of where Special Success has mechanical effect outside combat (`notes/special-success-audit.md`, verdict: mostly combat, with five clean non-combat exceptions).
+
+**Decision:** Replace BRP UGE's Critical + Special two-tier ladder with a **single Critical tier triggered by matching dice within success range**, plus weapon-type critical tables for the effects. Fumbles use the Delta Green matching-dice trigger.
+
+Specifically:
+
+- **Critical trigger:** a roll that is both a success (≤ skill) AND a matching-dice value (11, 22, 33, 44, 55, 66, 77, 88). At skill 30, only 11 and 22 crit; at skill 90, all eight do. (00 is not a critical - it's the always-fumble.)
+- **Fumble trigger:** 00 OR a matching-dice failure (where the roll is > skill). At skill 30, rolls of 33, 44, 55, 66, 77, 88, 99 fumble (plus 00).
+- **PP-buy mechanic:** a player who rolled a normal success may spend Power Points equal to `(current_roll - nearest_lower_matching-dice_value)` to convert their roll to that critical. The double must still be within their success range (≤ skill). A failed roll cannot be PP-bought into a critical.
+- **Effects:** weapon-type critical tables inspired by Rolemaster Arms Law, with severity bands A-E (mapping to roll bands within the success range - the higher the matching-dice value, the more powerful the band). WSR-original prose results per band. Damage types initially: Slash, Pierce, Krush. Possibly Burn and Grapple if scoped.
+- **Non-combat criticals:** five BRP UGE skills had numerically meaningful Special Success effects (First Aid, Medicine, Teach, Cooperative Rolls, Jump). Under the new model their previous Special Success outcomes simply become their Critical outcomes - no new mechanics, just explicit "Critical:" rulings in the Skills chapter.
+
+**Reasoning:**
+
+- **Simpler arithmetic** at the table: matching dice is recognised at a glance vs. computing 1/5 of skill. Serves `design.md` §3.1 (theatre-of-mind, lean rules).
+- **Skill-scaled criticality** without lookups: a higher-skill character has more matching-dice values within their success range, so they crit more (and fumble less) automatically.
+- **PP-buy is a meaningful new use** for Power Points, compounding with the locked Fate Points = PP architecture and the Patron Score / Corruption layers. Sorcerer PCs face an even sharper tradeoff: spend PP to push for a critical, leave less for spells.
+- **Per-weapon-type crit tables** preserve and *expand* what BRP UGE's Special Success carried (weapon-type damage flavor). They serve `design.md` §2.3 ("muscular, decisive, brutal") at a much higher resolution.
+- **Rolemaster Arms Law is INSPIRE ONLY**: adopt the A-E band concept and prose result format, not the resolution chassis. WSR-original tables (estimated 150-250 prose entries to author across damage types).
+- **The five non-combat skills** are well-bounded; collapsing their Special Success effects into Critical effects is a clean port (per `notes/special-success-audit.md`).
+
+**Implications for downstream work:**
+
+- Combat chapter (Player Book) describes the matching-dice trigger, fumble trigger, PP-buy mechanic, and how to read the crit tables.
+- Crit tables themselves live in an appendix or dedicated end-of-Player-Book section (Phase 2 prose work, sized 150-250 entries).
+- Five non-combat skills (First Aid, Medicine, Teach, Cooperative Rolls, Jump) carry one-line "Critical:" rulings in the Skills chapter.
+
+---
+
 ## 2026-05-09 - Magic (secondary system) dropped entirely
 
 **Context:** BRP UGE Chapter 4 has two magic systems: Sorcery (pp 87-102, our primary) and Magic (pp 56-70, the alternative). The Magic dispatch (`notes/source-8-magic.md`) recommended keeping ~5-9 spells as a "hedge magic" sub-system for cunning-folk archetypes, while a hard drop was option A.
