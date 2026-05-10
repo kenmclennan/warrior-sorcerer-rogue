@@ -31,7 +31,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 2 | P5 Combat | Player | `[x]` | Locks the matching-dice critical mechanic |
 | 3 | PA1 Critical Hit Tables | Player | `[x]` | 150 entries, 3 damage types (Slash/Pierce/Krush); Burn/Grapple deferred with interim guidance |
 | 4 | P3 Skills | Player | `[x]` | Skill list reference |
-| 5 | P7 Equipment | Player | `[ ]` | Weapons, armour, gear, currency, mounts |
+| 5 | P7 Equipment | Player | `[x]` | Weapons, armour, gear, currency, mounts |
 | 6 | P6 Sorcery (player-facing) | Player | `[ ]` | Casting, costs, spell list - blocks P2 |
 | 7 | P2 Character Creation | Player | `[ ]` | Depends on P3, P6, P7 |
 | 8 | P1 Introduction | Player | `[ ]` | Synthesises everything else |
