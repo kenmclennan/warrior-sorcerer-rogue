@@ -36,7 +36,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 7 | P2 Character Creation | Player | `[x]` | 8,205 words; 8 cultural backgrounds; 14 professions; 40 talents (4 tables x 10); Passions + Reputation mechanics; sorcerer step |
 | 8 | P1 Introduction | Player | `[ ]` | Synthesises everything else |
 | 9 | PA2 Examples | Player | `[ ]` | Worked examples appendix |
-| 10 | G1 Running the Game | GM | `[ ]` | GM principles + deeper genre primer |
+| 10 | G1 Running the Game | GM | `[x]` | GM principles + deeper genre primer |
 | 11 | G2 NPCs and Adversaries | GM | `[x]` | Mooks, professionals, named foes |
 | 12 | G4 NPC Sorcery and Patrons | GM | `[ ]` | Patron design, ritual, demon binding |
 | 13 | G3 Bestiary | GM | `[ ]` | Creatures, demons, elementals |
@@ -72,3 +72,4 @@ When reading through BRP UGE, keep a specific eye out for:
 - **2026-05-10:** **Phase 1 complete.** Source review (BRP UGE + Pulp Cthulhu + Delta Green + RuneQuest W&E + Rolemaster Arms Law), 11 locked design decisions, 17-chapter mapping with extraction order. Phase 1 plan archived to `plans/2026-05-09-phase-1-source-review.md`.
 - **2026-05-10:** **P6 Sorcery (player-facing) complete.** 8,818 words; 29 spells with WSR-original tone descriptions; full cost trio (PP, Patron Score, Corruption) mechanically specified; iron-vs-sorcery cross-referenced to P7; 2 healing spells (Mend the Mortal Frame, Vampire's Kiss) each with mandatory Corruption cost; player-side demon summoning procedure drafted. P2 Character Creation now unblocked.
 - **2026-05-10:** **P2 Character Creation complete.** 8,205 words; 8 cultural backgrounds; 14 professions; 40 WSR-original talents (4 tables x 10); Passions (mandatory, 3 at chargen) + Reputation mechanics; sorcerer-specific step with POW threshold, patron compact, starting Corruption.
+- **2026-05-10:** **G1 Running the Game complete.** 6,643 words; 7 sections covering genre primer (Howard/Leiber/Moorcock with named works), session structure (hook/complications/reckoning), 5 GM principles, Passions-based session zero, theatre-of-mind combat guidance, pacing (within session and across campaign), lightweight-vs-tactical tension.
