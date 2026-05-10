@@ -12,6 +12,27 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-10 - Healing magic revision: rare and costly, not absent
+
+**Context:** The original design doc stated "No healing magic" (`design.md` §1.3 and §2.2). The Magic dispatch (`notes/source-8-magic.md`) flagged BRP Magic's Heal spell as a mandatory drop on this basis. The user amended this position: healing magic IS permitted, as long as it is not the *expected* or *default* way to heal.
+
+**Decision:** Revise the position on healing magic:
+
+- **Routine healing magic remains rejected** - no white mage Cure spells, no out-of-combat heal-to-full mechanics, no D&D-style hit-point batteries.
+- **Sorcerous healing is permitted** as rare, costly, dramatic spells in the Sorcery list. Examples could include "Mend the Mortal Frame" (sorcerer pays Corruption / PP / patron debt to knit a wound) or "Vampire's Kiss" (heal yourself by draining another character's vitality).
+- **Naturalistic healing remains the default** - herbs, rest, salves, time. The Player Book's healing rules are built around this; sorcerous healing is a chapter-time addition to the Sorcery spell list, not a separate healing chapter.
+- `design.md` §1.3 and §2.2 wording updated to reflect this.
+
+**Reasoning:** Per the user: "I think it is OK to have healing magic as long as it's not expected that this is the main way to heal in the game." The genre-fit case is strong - Howard's Conan stories use healing potions and salves; Moorcock's Elric draws health from Stormbringer at terrible cost; Leiber has tavern wenches with herbal cures. The locked sorcery cost architecture (PP / Patron / Corruption) already enforces cost, so healing-themed sorcery spells fit cleanly without a new mechanic.
+
+**Implications for downstream work:**
+
+- The Sorcery spell list (P6) may include 1-3 healing-themed spells, each paying the standard sorcery cost.
+- The dropped secondary Magic system (`decisions.md` 2026-05-09 "Magic (secondary system) dropped") remains dropped - this revision is about Sorcery, not about reviving the alternate system.
+- The Hazards chapter (G6) and Equipment chapter (P7) keep naturalistic healing (herbalism, salves, etc.) as the default mechanism.
+
+---
+
 ## 2026-05-10 - Chapter extraction order finalised
 
 **Context:** Phase 1 produced the chapter mapping (`notes/chapter-mapping.md`). Sequencing the extraction order for Phase 2 requires balancing dependencies (chassis-first), risk (new mechanics need early validation), and value (a playable subset emerges quickly).

@@ -42,7 +42,7 @@ To sharpen the positive choices, the system explicitly rejects:
 - **Pseudo-medieval fantasy.** No knights, no jousts, no serial-numbers-filed-off feudal Europe.
 - **Tolkien-style demi-humans as PCs.** No elves, dwarves, halflings.
 - **Magic as utility.** Sorcery is not a helpful toolkit of useful spells.
-- **Healing magic.** No Cure Light Wounds.
+- **Routine healing magic.** No Cure Light Wounds, no white mages dropping heals between fights. Sorcerous healing exists but is rare, costly, and never the default recovery path.
 - **Zero-to-hero arcs.** PCs start exceptional. Growth happens in *experience and reputation*, not raw capability.
 - **Save-the-village morality.** Heroes can be *paid* to save the village. They will not do it for free.
 - **Pulp-era prejudice.** The genre's regrettable racial and gender attitudes do not survive the port.
@@ -72,7 +72,7 @@ Aesthetic principles for the spell list, regardless of the eventual mechanic:
 
 - **No flavorless spells.** Each entry carries narrative weight in its description.
 - **No "helpful" magic.** Useful, yes - but never wholesome.
-- **No healing magic.** Recovery is naturalistic.
+- **Healing magic is rare and costly, never the default.** Recovery is primarily naturalistic - herbs, rest, salves, time. Sorcerous healing may exist but it is dramatic, dread-laden, and pays the standard sorcery cost.
 - **Visual drama.** Magic is theatrical. A spell rarely happens silently or invisibly.
 
 ### 2.3 Combat
