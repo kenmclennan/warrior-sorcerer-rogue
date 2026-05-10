@@ -3,37 +3,44 @@
 > _"He was bleeding from a score of wounds, but the fires in his eyes burned brighter than ever."_
 > _- Robert E. Howard_
 
-Combat in Warrior \* Sorcerer \* Rogue is brutal, fast, and decisive. Fights cost something even when won. This chapter covers everything that happens once blades are drawn: the structure of a combat round, how attacks and defences resolve, what wounds mean, and the rules that cover common situations at the edge of the action. Read P4 first - the percentile roll, outcome tiers, matching-dice criticals, and the PP spend menu are all defined there and used throughout.
+Combat is brutal, fast, and decisive. Fights cost something even when won. Read P4 first - the percentile roll, outcome tiers, matching-dice criticals, and the PP spend menu are all defined there and used throughout.
 
 ---
 
 ## 1. The Combat Round
 
-Each combat round represents twelve seconds of action. A round is divided into four phases, resolved in sequence.
+Each combat round represents twelve seconds of action, divided into four phases resolved in sequence.
+
+**Combat Round Sequence**
+
+1. **Statements.** All participants declare intent in reverse DEX order (lowest DEX declares first).
+2. **Powers.** Spells and power-based actions resolve in DEX order.
+3. **Action.** Attacks, parries, dodges, and movement resolve in descending DEX order.
+4. **Resolution.** Ongoing effects apply; next round begins.
 
 ### 1.1 Phase One: Statements
 
-At the start of each round, every participant declares their intended action. Characters with higher DEX declare last, giving them the most information before committing. Characters with lower DEX declare first, with less knowledge of what their opponents intend.
+Every participant declares their intended action. Lower DEX declares first; higher DEX declares last (more information, later commitment).
 
 Typical actions: move and attack, hold position and attack, disengage, perform a noncombat action, cast a spell (in Phase Two), or fight defensively.
 
-Declarations are intentions, not contracts. When a character's turn arrives in Phase Three, they may change what they do - but only based on events that have already occurred in that round. They may not wait to see what a faster character does and then revise accordingly.
+Declarations are intentions, not contracts. A character may change their action when their turn arrives in Phase Three, but only based on events that have already occurred - not by waiting to see what a faster character does.
 
 **Ties in DEX:** if two characters share the same DEX, the character with the higher relevant weapon skill declares last. If still tied, both declare simultaneously.
 
 ### 1.2 Phase Two: Powers
 
-Sorcerers and other characters activating abilities that precede physical action resolve them now, in DEX order. A spell cast in this phase takes effect before melee strikes in Phase Three, unless the caster is interrupted (see §6.5).
+Spells and power-based abilities resolve in DEX order. A spell takes effect before melee strikes in Phase Three, unless the caster is interrupted (see §6.5).
 
 ### 1.3 Phase Three: Action
 
-Characters act in descending DEX rank order. Each character takes their declared action when their DEX rank comes up. Within a DEX rank, actions resolve in weapon-length order: missiles strike before long weapons, long weapons before medium, medium before short and unarmed. This approximates reach without requiring measurement.
+Characters act in descending DEX order. Within a DEX rank, resolve in weapon-length order: missiles before long weapons, long before medium, medium before short and unarmed.
 
 **Delaying action.** A character may delay their action, acting at any lower DEX rank in the same round. Once delayed, they cannot return to their original rank. A character who delays to after the last rank loses their action for the round.
 
 ### 1.4 Phase Four: Resolution
 
-Ongoing effects are applied: bleeding damage, conditions expiring, any end-of-round bookkeeping. The next round then begins with a new Statements phase.
+Apply ongoing effects: bleeding, expiring conditions, end-of-round bookkeeping. The next round begins.
 
 ---
 
@@ -41,13 +48,11 @@ Ongoing effects are applied: bleeding damage, conditions expiring, any end-of-ro
 
 Movement in combat is described, not measured. Three categories cover most situations:
 
-**Short Move.** The character shifts position within the immediate area - a step back, a sidestep to flank, a lunge forward. Acts at their normal DEX rank.
+**Short Move.** Within the immediate area. Acts at normal DEX rank.
 
-**Long Move.** The character crosses a significant portion of the fighting ground - across a room, to the far side of a courtyard. Acts at half DEX rank (round down).
+**Long Move.** Across a significant portion of the fighting ground. Acts at half DEX rank (round down).
 
-**Full Sprint.** The character runs as fast as possible. Acts at quarter DEX rank (round down), cannot make an attack, and can only attempt defensive actions if directly threatened.
-
-A character who moves significantly in a round and makes an attack does so at the reduced DEX rank their move imposes.
+**Full Sprint.** Maximum speed. Acts at quarter DEX rank (round down); cannot attack; defensive actions only if directly threatened.
 
 ---
 
@@ -157,20 +162,18 @@ Shields are both weapons (use Shield skill to attack) and parrying tools (use Sh
 
 Three wound thresholds govern how damage affects a character.
 
-**Minor Wound.** A single attack deals less than half the character's maximum HP. The character takes the damage and continues. Multiple minor wounds that together equal or exceed half the character's maximum HP trigger a Stamina roll (CON x5): on a failure, the character falls unconscious from accumulated injury.
+**Minor Wound.** A single attack deals less than half the character's maximum HP. Multiple minor wounds that together equal or exceed half maximum HP trigger a Stamina roll (CON x5): on a failure, the character falls unconscious.
 
-**Major Wound.** A single attack deals damage equal to or greater than half the character's maximum HP. This is a fight-altering event. Roll on the Major Wounds Table (§5.2), or the GM may choose an appropriate result based on the nature of the attack and the wound location.
+**Major Wound.** A single attack deals damage equal to or greater than half the character's maximum HP. Roll on the Major Wounds Table (§5.2), or the GM may choose an appropriate result.
 
 After a Major Wound, the character makes a Luck roll (POW x5):
 
-- **Success:** the wound heals cleanly over time; no permanent characteristic loss.
-- **Failure:** the Major Wound result is permanent until addressed (extensive medical care, or sorcerous healing in rare cases).
+- **Success:** the wound heals cleanly; no permanent characteristic loss.
+- **Failure:** the Major Wound result is permanent until addressed.
 
-A character who sustains a Major Wound can often still act in the same round - they are not automatically incapacitated. But they fight at impaired capacity and may be on a countdown.
+A character who sustains a Major Wound is not automatically incapacitated - they may still act in the same round, but at impaired capacity.
 
-**Fatal Wound.** A single attack reduces the character's HP to 0 or below. The character falls immediately - they are prone, unable to act, and dying. Unless a character with First Aid or Medicine skill intervenes in the same or the following round, death follows.
-
-A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
+**Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
 
 ### 5.2 Major Wounds Table
 
@@ -199,11 +202,11 @@ Roll 1D100 when a character sustains a Major Wound (unless the GM chooses an app
 | 91-95 | Severed or ruined limb. The limb is lost or destroyed. STR and DEX each reduced by 1D3 permanently.                                                              |
 | 96-00 | Killing wound. The character is dying even if HP have not reached zero. Stamina roll each round or lose 1D3 HP; medical intervention required within 1D3 rounds. |
 
-**Criticals and Major Wounds.** When a critical attack triggers a Major Wound, the player may forgo consulting the Major Wounds Table and instead look up the crit result in PA1 (applying the severity band per §8). The crit result supersedes the table roll. This is often preferable when a crit is involved - the PA1 results are more specific and frequently more dramatic.
+**Criticals and Major Wounds.** When a critical attack triggers a Major Wound, the player may forgo the Major Wounds Table and look up the crit result in PA1 instead (applying the severity band per §8). The crit result supersedes the table roll.
 
 ### 5.3 Healing
 
-Natural healing is slow. Without complications, a character recovers 1D3 HP per game week. The quality of care modifies this:
+Natural healing is slow. A character recovers 1D3 HP per game week, modified by conditions:
 
 | Conditions                                 | Healing rate         |
 | ------------------------------------------ | -------------------- |
@@ -223,7 +226,7 @@ Sorcerous healing exists as rare, costly spells in the sorcery list (see P6 §3)
 
 ### 6.1 Engaging and Disengaging
 
-**Engaging.** Moving into hand-to-hand range of an opponent (becoming "engaged") costs a Short Move action. An engaged character is within weapon's reach of their opponent and subject to melee attack without penalty.
+**Engaging.** Moving into hand-to-hand range costs a Short Move. An engaged character is within weapon's reach and subject to melee attack without penalty.
 
 **Disengaging.** Breaking out of melee is dangerous. Choose one method:
 
@@ -235,45 +238,37 @@ Sorcerous healing exists as rare, costly spells in the sorcery list (see P6 §3)
 
 ### 6.2 Knockout and Subdual
 
-**Knockout attack.** Declare at the start of Phase Three. The attack targets the head or equivalent vital point; the roll is Difficult. If successful, resolve damage normally but subtract armour. Then make a resistance roll: rolled damage vs. target's CON. On a success, the target is knocked unconscious for 1D10+10 rounds (secretly rolled by the GM). Slashing and knockback special effects do not apply to knockout attacks. The target is not killed.
+**Knockout attack.** Declare at the start of Phase Three. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). No Slash or knockback special effects. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
 
-A character who is already unconscious is simply knocked out longer: roll the resistance roll and, if it succeeds, the unconsciousness period begins again from the new roll.
-
-**Subduing.** Pulling a blow (declaring at the start of Phase Three) means the attacker reduces the damage dice or omits their damage modifier entirely, to a minimum of 1D2 damage. This allows controlled violence - warning strikes, practice bouts, demonstrations of superiority.
+**Subduing.** Declare at the start of Phase Three. The attacker reduces the damage dice or omits the damage modifier, to a minimum of 1D2.
 
 **Grapple and restrain.** A successful Grapple roll (Brawl or Grapple skill) establishes a hold. The restrained character must make an opposed STR vs. STR or DEX vs. DEX resistance roll to break free (their choice). An immobilised character cannot attack but can still speak.
 
 ### 6.3 Surprise
 
-A character who is completely unaware of an attack cannot parry or dodge. The attacker gains an Easy attack roll against them.
+A completely unaware character cannot parry or dodge; the attacker gains an Easy roll. A partially surprised character (knew a fight was possible but did not see this attack) may attempt a Difficult parry or dodge.
 
-When both sides are surprised (neither was expecting a fight), an opposed Spot or Listen roll determines who acts first. On a tie, both sides freeze for one round while they register what is happening.
+When both sides are surprised, an opposed Spot or Listen roll determines who acts first. On a tie, both sides freeze for one round.
 
-A character who is partially surprised (they know a fight may happen but did not see this specific attack coming) may attempt a Difficult parry or dodge.
-
-**Ambush.** Attackers who are hidden and unseen when they open combat get Easy attacks on the first round. The ambush victims may not parry or dodge until the following round, when they have located the threat. If some ambush victims succeed at a Spot or Listen roll before the attack lands, those individuals may defend normally.
+**Ambush.** Hidden attackers get Easy attacks on the first round. Victims may not parry or dodge until the following round - unless some succeed at a Spot or Listen roll before the attack lands, in which case those individuals may defend normally.
 
 ### 6.4 Multiple Attackers
 
-No more than five human-sized opponents can surround and meaningfully engage a single target simultaneously. Large weapons reduce this - a pair of opponents with long spears effectively fills the fighting space available to a closer attacker. The GM evaluates the available space and weapon lengths to set the limit; attackers beyond the limit are crowded out and cannot strike.
+No more than five human-sized opponents can meaningfully engage a single target simultaneously. Large weapons reduce this number further. Attackers beyond the limit are crowded out.
 
-When a character is attacked by more opponents than they have parry and dodge attempts remaining in the round, some attacks will land undefended. Choose which attacks to defend - the undefended ones hit automatically.
+When a character is attacked by more opponents than they have parry and dodge attempts remaining, some attacks land undefended. Choose which to defend; the rest hit automatically.
 
 ### 6.5 Casting in Combat
 
-A sorcerer who declares a spell in Phase Two must not be struck before Phase Two resolves. If a faster attacker (higher DEX) succeeds in landing a hit in Phase Three before the spell resolves, the casting is interrupted: the sorcerer must make a Stamina roll (CON x5) or the spell collapses. Any PP already spent is lost.
+A sorcerer struck before Phase Two resolves must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if they act first. Disengage first or accept the risk.
 
-A sorcerer who is engaged in melee (see §6.1) faces the additional constraint that incoming attacks may interrupt Phase Two casting even if the sorcerer acts first overall. An engaged sorcerer who wants to cast must either disengage first or accept the risk.
-
-See P6 §2 for sorcery casting rules.
+See P6 §2 for full sorcery casting rules.
 
 ### 6.6 Close Combat and Weapon Length
 
-A long weapon (spear, glaive, two-handed sword) attacks first within a DEX rank. But once a short-weapon fighter closes to grappling distance, the long weapon becomes a liability: parries with a long weapon at close range are Difficult, and the long-weapon fighter cannot use the weapon's full reach. The shorter fighter has the advantage at close range.
+Long weapons attack first within a DEX rank. Once a short-weapon fighter closes to grappling distance, long-weapon parries become Difficult and the full reach cannot be used. To close, the short-weapon fighter must survive the initial strike (long weapon attacks first in that exchange); subsequent rounds at close range penalise the long-weapon fighter.
 
-Closing: the short-weapon fighter who closes with a long-weapon user must survive the initial strike (the long weapon attacks first in that exchange) to claim the close-combat advantage. If they survive, subsequent rounds at close range penalise the long-weapon fighter.
-
-Very short weapons (daggers, punches, improvised tools) are unaffected by enclosed spaces and close combat. Very long weapons (two-handed polearms, great spears) may be unusable in tight spaces where there is insufficient room to swing.
+Daggers and unarmed strikes are unaffected by close quarters. Two-handed polearms may be unusable in tight spaces.
 
 ### 6.7 Cover
 
@@ -283,29 +278,23 @@ A character who is kneeling or prone behind a full shield or wall gains substant
 
 ### 6.8 Knockback
 
-A successful attack that deals enough damage may knock the defender backward. The specific trigger is the crushing special effect (see §7.4): when a blunt weapon's critical attack lands, the attacker may impose a knockback. Resist with a STR vs. damage resistance roll. On a failure, the defender is knocked back and falls prone. The distance is narratively described by the GM based on the severity.
-
-A prone character is at disadvantage: attacks against them are Easy, their own attacks and parries are Difficult. Rising from prone costs the character's attack action and leaves them open to Easy attacks on the round they stand.
+Triggered by the crushing special effect (§7.3): when a blunt weapon's critical lands, the attacker may impose knockback. Resist with a STR vs. damage resistance roll. On a failure, the defender falls prone. A prone character suffers Easy attacks against them and Difficult attacks and parries of their own. Rising costs the attack action.
 
 ### 6.9 Fighting While Down
 
-A character who has been knocked prone is not out. All their attacks, parries, and dodges are Difficult. Attacks against them are Easy.
+All attacks, parries, and dodges are Difficult while prone; attacks against the character are Easy. Rising takes an attack slot, during which these penalties still apply.
 
-Rising from prone takes an attack slot. While rising, parries and dodges remain Difficult, and attacks against the character are still Easy until they are fully standing.
-
-**Difficult Dodge to rise.** A prone character may attempt a Difficult Dodge roll on their DEX rank. If it succeeds, they rise and may still make an attack that round. If it fails, they remain prone.
+**Difficult Dodge to rise.** A prone character may attempt a Difficult Dodge on their DEX rank. Success: they rise and may still attack. Failure: they remain prone.
 
 ### 6.10 Aimed Attacks
 
-A character may take more time to aim, sacrificing DEX rank speed for accuracy. For every 5 DEX ranks the character spends preparing (delaying their action), add +10% to the skill used for that attack, up to a maximum equal to the base skill. Announce the intention to aim at the start of Phase Three and count off the ranks openly.
+For every 5 DEX ranks spent delaying, add +10% to the attack skill, up to the base skill maximum. Announce at the start of Phase Three; count off the ranks openly.
 
 ---
 
 ## 7. Special Damage Types
 
-When a weapon achieves a critical success (matching dice within success range, or PP-buy conversion), the nature of the damage type determines the critical's effects. In non-critical hits, the damage type governs the "special effect" available on ordinary successes. These are the weapons' characters - what makes fighting with a spear different from fighting with a mace.
-
-The full crit effects for each damage type are in PA1. The special effects on ordinary successes are described below.
+Damage type governs critical effects (see PA1) and the special effect available on ordinary successes. The special effects on ordinary successes are described below.
 
 ### 7.1 Slashing (swords, axes, daggers, claws)
 
@@ -329,31 +318,27 @@ A character may also declare an entangle intent without a special success: the a
 
 ## 8. Mooks
 
-Most enemies a PC faces are ordinary soldiers, hired thugs, city guards, and bandit conscripts. These are mooks: fighters without exceptional qualities, with no access to Fate Point spends, and no will to fight to the death.
+Mooks are ordinary soldiers, hired thugs, city guards, and bandit conscripts - fighters without exceptional qualities, without Fate Point access, and without the will to fight to the death.
 
-**The mook rule.** A mook who takes damage equal to or greater than half their HP total - from any combination of hits - is automatically incapacitated. They do not roll on the Major Wounds Table. They are knocked out, driven off, broken by the wound, or simply decide the coin is not worth dying for. The GM narrates which, based on the fiction.
+**The mook rule.** A mook who takes cumulative damage equal to or greater than half their HP total is automatically incapacitated. No Major Wounds Table. The GM narrates the result: knocked out, driven off, or unwilling to die for six coins. Mooks still attack, parry, and roll to hit normally - only the incapacitation threshold is simplified.
 
-Mooks use the standard combat round and resolution. The half-HP threshold is the only simplified element - they still attack, still parry (within their skill), still roll to hit. The threshold means that a solid strike nearly always ends a mook's fight without further complications.
+A mook is never a named character. The moment an NPC becomes plot-relevant or individually characterised, they resolve under full combat rules.
 
-A mook is never a named character. The moment an NPC becomes plot-relevant or individually characterised, they cease to be a mook and resolve under full combat rules. The GM makes this call.
+**Mooks have no Fate Point access.** They cannot spend PP on any option from the menu in P4 §7.
 
-**Mooks have no Fate Point access.** They cannot spend PP on any option from the menu in P4 §7. They do not deflect killing blows; they do not stand their ground; they do not rally from wounds. This is the primary mechanical distinction between a mook and a professional antagonist.
-
-For the GM-side design of mook stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see G2 §1.
+For mook stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see G2 §1.
 
 ---
 
 ## 9. Dying Blows
 
-A character at the Fatal Wound threshold - HP at 0 or below, dying - is not yet finished. They may attempt one last act.
+A character at 0 HP or below may attempt one last act before falling.
 
-**Declaring a Dying Blow.** On their DEX rank, before falling unconscious, the character declares their Dying Blow. Make a Stamina roll (CON x5). If it succeeds, the character takes one final action: a single attack, a shouted warning, a dropped potion to an ally, the triggering of a prepared sorcerous effect. The action is Difficult regardless of circumstances.
+**Declaring a Dying Blow.** On their DEX rank, declare the Dying Blow and make a Stamina roll (CON x5). On a success, take one final action - a single attack, a warning shout, a dropped potion, the triggering of a prepared sorcerous effect. The action is Difficult. After it resolves, the character falls unconscious and is dying as normal.
 
-After the action resolves, the character falls unconscious and is dying as normal.
+**Actions already spent.** If the character has exhausted their action for the round when the killing wound arrives, the Dying Blow is still available, but the Stamina roll is Difficult (halved).
 
-**Actions already spent.** If the character has already used their full action for the round when the killing wound arrives, a Dying Blow may still be declared: this is an additional desperate action taken after the round's normal action. In this case, the Stamina roll is Difficult (halved). If it fails, the character simply falls.
-
-A Dying Blow cannot be used for a defensive action - it is one last offensive or purposeful act, not a last parry. It can be used to trigger a Fate Point spend (including Deflect the Killing Blow, if the character has PP remaining - see P4 §7.6).
+A Dying Blow cannot be a defensive action. It can trigger a Fate Point spend, including Deflect the Killing Blow (see P4 §7.6).
 
 ---
 
@@ -384,19 +369,15 @@ The severity band (A through E) is determined by the matching-dice value that tr
 | 55                  | E (most severe, within normal success range)                                  |
 | 66, 77, 88          | E (accessible only to characters with skill 66, 77, 88 or above respectively) |
 
-A PP-buy critical uses the matching-dice value that was purchased. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is D.
-
-Band A crits are disruptive but survivable. Band C is fight-altering. Band E at high rolls is potentially lethal. See PA1 §1 for the full lethality gradient.
+A PP-buy critical uses the purchased value. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is D. See PA1 §1 for the full lethality gradient.
 
 ### 10.3 Find the Roll
 
-Within the damage type table and severity band column, roll 1D100. Find the row that contains the result, and read the crit aloud. Every result is a sentence or two: what the wound is, what ongoing damage it causes, what penalties apply and for how long.
-
-The crit result can be modified by Fate Point spends. A character who has just received a lethal crit result may spend PP from the menu (P4 §7) - Shrug Off a Blow, Stand Your Ground, or Deflect the Killing Blow - after hearing the result but before it takes full effect.
+Within the damage type table and severity band column, roll 1D100 and read the result. A character who has received a lethal crit may spend PP (P4 §7) after hearing the result but before it takes full effect.
 
 ### 10.4 Criticals and Mooks
 
-Mooks do not consult the crit tables. A critical hit against a mook simply deals full damage ignoring armour. If that damage equals or exceeds half the mook's HP, they are automatically incapacitated by the mook rule (§8). Consulting the crit table for a mook is optional - for descriptive colour only, with no mechanical effect beyond the incapacitation threshold.
+Mooks do not consult the crit tables. A critical hit deals full damage ignoring armour; if this reaches the incapacitation threshold (§8), the mook is done. The crit table may be consulted for descriptive colour only.
 
 ---
 
