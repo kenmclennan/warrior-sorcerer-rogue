@@ -39,7 +39,7 @@ Chapters in extraction order (per `decisions.md` and `notes/chapter-mapping.md`)
 | 10 | G1 Running the Game | GM | `[x]` | GM principles + deeper genre primer |
 | 11 | G2 NPCs and Adversaries | GM | `[x]` | Mooks, professionals, named foes |
 | 12 | G4 NPC Sorcery and Patrons | GM | `[x]` | 9,906 words; 5 sample NPC sorcerers; 7 sample patrons; ritual magic, demon binding deep-dive, Brazier, Apotheosis arc |
-| 13 | G3 Bestiary | GM | `[ ]` | Creatures, demons, elementals |
+| 13 | G3 Bestiary | GM | `[x]` | 12,149 words; 12 mortal beasts, 7 undead, 7 fantasy beasts, 3 demon entries (incl. Yog-Hath sample), 4 elementals; 20-entry Chaotic Features table |
 | 14 | G5 Treasure and Artifacts | GM | `[ ]` | Loot + artifact creation |
 | 15 | G6 Hazards and Spot Rules | GM | `[ ]` | Disease, poison, chases, mass combat |
 | 16 | G7 The Deep Past | GM | `[x]` | World-building generators |
@@ -74,3 +74,4 @@ When reading through BRP UGE, keep a specific eye out for:
 - **2026-05-10:** **P2 Character Creation complete.** 8,205 words; 8 cultural backgrounds; 14 professions; 40 WSR-original talents (4 tables x 10); Passions (mandatory, 3 at chargen) + Reputation mechanics; sorcerer-specific step with POW threshold, patron compact, starting Corruption.
 - **2026-05-10:** **G1 Running the Game complete.** 6,643 words; 7 sections covering genre primer (Howard/Leiber/Moorcock with named works), session structure (hook/complications/reckoning), 5 GM principles, Passions-based session zero, theatre-of-mind combat guidance, pacing (within session and across campaign), lightweight-vs-tactical tension.
 - **2026-05-10:** **G4 NPC Sorcery and Patrons complete.** 9,906 words; 8 sections; 5 sample NPC sorcerers (Cult Leader, Court Mage, Hermit, Witch-Queen, Apprentice-Risen); 7 sample patrons (Drowned Goddess, Faceless One, Charnel Heir, Set the Serpent, Empty Throne, Plague-Bride, Brass Warden); ritual magic with Chain of Being procedure; demon binding deep-dive including escape clauses; Brazier of Power campaign rules; Apotheosis arc with score reduction tools.
+- **2026-05-10:** **G3 Bestiary complete.** 12,149 words; 7 sections; 12 mortal beasts (lion, tiger, wolf/pack, bear, boar, 2 snakes, giant spider, crocodile, eagle, mammoth, sabre-tooth cat); 7 undead (skeleton, zombie, mummy+sorcerer variant, ghoul, vampire, ghost, wight); 7 fantasy beasts (dragon, giant, minotaur, werewolf, troll+trollwife, centaur, griffin); 3 demon entries (Lesser, Greater, Yog-Hath sample named greater demon); 4 elementals (air, earth, fire, water) reframed as alien intelligences; 20-entry Chaotic Features table weighted toward qualitative narrative features.
