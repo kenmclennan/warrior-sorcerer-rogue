@@ -44,7 +44,9 @@ Seven characteristics define the raw material of a character. They are expressed
 
 ### 2.1 Rolling Characteristics
 
-Roll the following and record each result as it comes. **Heroic scale** is the WSR default: PCs start exceptional.
+**Heroic scale** is the WSR default: PCs start exceptional. Two methods are offered; pick one at the start of chargen.
+
+**Method A: Rolled in Order (default).** Roll the following and record each result as it comes:
 
 | Characteristic | Method |
 | -------------- | ------ |
@@ -56,9 +58,11 @@ Roll the following and record each result as it comes. **Heroic scale** is the W
 | DEX            | 3D6    |
 | CHA            | 3D6    |
 
-**Redistribution:** After rolling all seven, you may shift up to 3 points between any characteristics. No characteristic may be raised above 21 by redistribution. No characteristic may be reduced below 3. Moving a point from SIZ is unusual: the GM may rule that SIZ cannot be reduced below 8.
+After rolling all seven, you may shift up to 3 points between any characteristics. No characteristic may be raised above 21 by redistribution. No characteristic may be reduced below 3. SIZ may not be reduced below 8.
 
-**Reroll option:** Before redistribution, if any characteristic rolls a 1 (i.e. three dice all showing 1, or two dice both showing 1 for 2D6+6), reroll that characteristic once. The second result stands.
+If any characteristic rolls all three dice showing 1 (or both dice showing 1 for 2D6+6), re-roll that characteristic once. The second result stands.
+
+**Method B: Choose Placement (option).** Roll 3D6 seven times. Assign each result to a characteristic of your choice. Under this method, SIZ and INT may not be set below 8. No redistribution.
 
 ### 2.2 Characteristic Rolls
 

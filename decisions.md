@@ -50,7 +50,7 @@ The rough shape of Phase 3:
    - 33 = Band C
    - 44, 55 = Band D
    - 66, 77, 88 = Band E (devastating)
-   The matching-dice value of the roll IS the band selector. Within-band entry selection: 1d10.
+     The matching-dice value of the roll IS the band selector. Within-band entry selection: 1d10.
 
 2. **Status (skill) and Reputation (mechanic) kept separate** (Option A from `notes/chapter-mapping.md` open decisions). Status = standing within a single community (skill in P3); Reputation = fame across cultures (mechanic in P2).
 
@@ -80,24 +80,42 @@ The rough shape of Phase 3:
 
 ---
 
+## 2026-05-11 - Character generation: Method B "Choose Placement" added as option
+
+**Context:** During chapter review, the user requested an alternative to the default "rolled in order with 3 points redistribution" characteristic generation method. User text: _"Choosing Characteristic Values (Option): Traditionally, characteristics are rolled in order, with up to 3 points redistributed. Instead, you may roll 3D6 seven times and choose where results go. In this case, SIZ and INT cannot be below 8."_
+
+**Decision:** Add **Method B: Choose Placement** as an optional alternative to Method A (the existing in-order method) in P2 §2.1:
+
+- **Method A (default):** rolled in order using 3D6 / 2D6+6 mix; up to 3 points redistributed after rolling; the original WSR rule, unchanged.
+- **Method B (option):** roll 3D6 seven times, assign results to characteristics in any order. SIZ and INT may not be set below 8. No redistribution.
+
+**Reasoning:** Player choice. Method A is reactive (the character emerges through the dice); Method B is authorial (the player designs the character and accepts variance on top). The two methods produce roughly equivalent power levels - Method A's 2D6+6 floors SIZ and INT at 8 automatically; Method B replicates that floor as an explicit constraint because all seven rolls are pure 3D6. Offering both costs nothing and respects player taste.
+
+**Implications for downstream work:**
+
+- No other chapter affected. Combat, sorcery, equipment, and chargen-downstream steps (skills, talents, passions) all read the same final characteristic values whichever method was used.
+
+---
+
 ## 2026-05-10 - Fate Point spend menu finalised
 
 **Context:** P4 Action Resolution required the WSR-original Fate Point spend menu (per the locked Combat Resolution and Fate Points = PP decisions). Subagent designed the menu drawing on Pulp Cthulhu's structure as inspiration only (mechanism borrowable, prose WSR-original). User reviewed and confirmed the menu plus three chapter-time rulings.
 
 **Decision:** The Fate Point spend menu and its associated rulings are:
 
-| Option | Cost | Effect |
-|---|---|---|
-| Re-roll | 5 PP | Re-roll any one roll; second result is final; no experience checkmark |
-| Trust the Fates | 5 PP | Substitute a Difficult Luck roll (POW×5, halved) for a skill roll |
-| Shrug Off a Blow | 2 PP per point | Reduce damage of one attack by 1 point per 2 PP spent (minimum 1 damage remains) |
-| Ignore a Fumble | 6 PP | Convert a fumble to ordinary failure; complication does not occur |
-| Stand Your Ground | 2/4/8 PP escalating | Prevent incapacitation for one more round (cost doubles each round) |
-| Deflect the Killing Blow | All remaining PP (min 8 PP) | Survive a killing blow; drop to 1 HP, fall unconscious but alive |
-| Steady Blade | 3 PP | Ignore all situational penalties on one roll this round |
-| Rally From the Wound | 8 PP | Immediately recover 1D6 HP; once per scene |
+| Option                   | Cost                        | Effect                                                                           |
+| ------------------------ | --------------------------- | -------------------------------------------------------------------------------- |
+| Re-roll                  | 5 PP                        | Re-roll any one roll; second result is final; no experience checkmark            |
+| Trust the Fates          | 5 PP                        | Substitute a Difficult Luck roll (POW×5, halved) for a skill roll                |
+| Shrug Off a Blow         | 2 PP per point              | Reduce damage of one attack by 1 point per 2 PP spent (minimum 1 damage remains) |
+| Ignore a Fumble          | 6 PP                        | Convert a fumble to ordinary failure; complication does not occur                |
+| Stand Your Ground        | 2/4/8 PP escalating         | Prevent incapacitation for one more round (cost doubles each round)              |
+| Deflect the Killing Blow | All remaining PP (min 8 PP) | Survive a killing blow; drop to 1 HP, fall unconscious but alive                 |
+| Steady Blade             | 3 PP                        | Ignore all situational penalties on one roll this round                          |
+| Rally From the Wound     | 8 PP                        | Immediately recover 1D6 HP; once per scene                                       |
 
 Confirmed chapter-time rulings:
+
 - **Deflect the Killing Blow** minimum cost is 8 PP (calibrated to WSR's smaller PP pools, max POW typically 10-16).
 - **Shrug Off a Blow** cannot reduce damage below 1 (preserves the fiction of being struck).
 - **Rally From the Wound** limited to once per scene (prevents HP-battery abuse).
@@ -114,7 +132,7 @@ Confirmed chapter-time rulings:
 
 ## 2026-05-10 - Healing magic revision: rare and costly, not absent
 
-**Context:** The original design doc stated "No healing magic" (`design.md` §1.3 and §2.2). The Magic dispatch (`notes/source-8-magic.md`) flagged BRP Magic's Heal spell as a mandatory drop on this basis. The user amended this position: healing magic IS permitted, as long as it is not the *expected* or *default* way to heal.
+**Context:** The original design doc stated "No healing magic" (`design.md` §1.3 and §2.2). The Magic dispatch (`notes/source-8-magic.md`) flagged BRP Magic's Heal spell as a mandatory drop on this basis. The user amended this position: healing magic IS permitted, as long as it is not the _expected_ or _default_ way to heal.
 
 **Decision:** Revise the position on healing magic:
 
@@ -140,6 +158,7 @@ Confirmed chapter-time rulings:
 **Decision:** Extraction order is set as recorded in `progress.md`'s "Phase 2: Chapter Extraction" table.
 
 **Player Book (in order):**
+
 1. P4 Action Resolution
 2. P5 Combat
 3. PA1 Critical Hit Tables
@@ -150,15 +169,7 @@ Confirmed chapter-time rulings:
 8. P1 Introduction
 9. PA2 Examples
 
-**GM Book (in order):**
-10. G1 Running the Game
-11. G2 NPCs and Adversaries
-12. G4 NPC Sorcery and Patrons
-13. G3 Bestiary
-14. G5 Treasure and Artifacts
-15. G6 Hazards and Spot Rules
-16. G7 The Deep Past
-17. GA1 GM Examples
+**GM Book (in order):** 10. G1 Running the Game 11. G2 NPCs and Adversaries 12. G4 NPC Sorcery and Patrons 13. G3 Bestiary 14. G5 Treasure and Artifacts 15. G6 Hazards and Spot Rules 16. G7 The Deep Past 17. GA1 GM Examples
 
 **Reasoning:**
 
@@ -194,7 +205,7 @@ Confirmed chapter-time rulings:
 - **Non-ORC sources** (Pulp Cthulhu, Delta Green, Rolemaster Arms Law; RuneQuest W&E status to be verified): **mechanisms are borrowable, but rules text and tables must be WSR-original.** We do not reproduce stat blocks, table contents, or rules paragraphs verbatim.
 - **For each non-ORC borrow:** cite the source mechanism in `decisions.md`; write the WSR rule in our own words; author WSR-original tables and entries.
 
-**Reasoning:** Game mechanics are not copyrightable; specific expression is. Re-implementing the *idea* (e.g. "mooks are incapacitated at half HP") in WSR-original prose is legally clean. Reproducing a table verbatim or copying a rules paragraph is not. This principle protects the project at publication time and keeps every borrowed mechanic's lineage transparent in the decision log.
+**Reasoning:** Game mechanics are not copyrightable; specific expression is. Re-implementing the _idea_ (e.g. "mooks are incapacitated at half HP") in WSR-original prose is legally clean. Reproducing a table verbatim or copying a rules paragraph is not. This principle protects the project at publication time and keeps every borrowed mechanic's lineage transparent in the decision log.
 
 ---
 
@@ -278,7 +289,7 @@ Specifically:
 - **Simpler arithmetic** at the table: matching dice is recognised at a glance vs. computing 1/5 of skill. Serves `design.md` §3.1 (theatre-of-mind, lean rules).
 - **Skill-scaled criticality** without lookups: a higher-skill character has more matching-dice values within their success range, so they crit more (and fumble less) automatically.
 - **PP-buy is a meaningful new use** for Power Points, compounding with the locked Fate Points = PP architecture and the Patron Score / Corruption layers. Sorcerer PCs face an even sharper tradeoff: spend PP to push for a critical, leave less for spells.
-- **Per-weapon-type crit tables** preserve and *expand* what BRP UGE's Special Success carried (weapon-type damage flavor). They serve `design.md` §2.3 ("muscular, decisive, brutal") at a much higher resolution.
+- **Per-weapon-type crit tables** preserve and _expand_ what BRP UGE's Special Success carried (weapon-type damage flavor). They serve `design.md` §2.3 ("muscular, decisive, brutal") at a much higher resolution.
 - **Rolemaster Arms Law is INSPIRE ONLY**: adopt the A-E band concept and prose result format, not the resolution chassis. WSR-original tables (estimated 150-250 prose entries to author across damage types).
 - **The five non-combat skills** are well-bounded; collapsing their Special Success effects into Critical effects is a clean port (per `notes/special-success-audit.md`).
 
@@ -336,7 +347,7 @@ Specifically:
 
 **Decision:** Adopt the source-default behavior - **Fate Points share the PP pool with sorcery**. No separate Hero Point pool. The asymmetry between sorcerer and non-sorcerer PCs is intentional.
 
-**Reasoning:** The shared pool creates a meaningful sorcerer-vs-non-sorcerer tension that is genre-coherent. Per `design.md` §2.2 ("every step into [sorcery] costs something"), every PP a sorcerer spends on a spell is a PP not available to deflect a killing blow - and vice versa. The asymmetry is a *feature*: sorcerer PCs face a real cost-of-luck tradeoff their warrior and rogue companions don't. This also satisfies §3.1 ("stay faithful to BRP's identity") without requiring a parallel mechanic.
+**Reasoning:** The shared pool creates a meaningful sorcerer-vs-non-sorcerer tension that is genre-coherent. Per `design.md` §2.2 ("every step into [sorcery] costs something"), every PP a sorcerer spends on a spell is a PP not available to deflect a killing blow - and vice versa. The asymmetry is a _feature_: sorcerer PCs face a real cost-of-luck tradeoff their warrior and rogue companions don't. This also satisfies §3.1 ("stay faithful to BRP's identity") without requiring a parallel mechanic.
 
 ---
 
@@ -356,7 +367,7 @@ Specifically:
 
 **Decision:** Adopt **Warrior \* Sorcerer \* Rogue** as the system name. Folder and filenames use the kebab-case form `warrior-sorcerer-rogue`.
 
-**Reasoning:** The triad maps cleanly to the three literary inspirations (warrior → Howard, sorcerer → Moorcock, rogue → Leiber) while remaining mechanically agnostic - BRP is classless, and these are *archetypes*, not character classes. The form has rhythm, is easy to remember, and tells a player exactly what kind of game they're holding. Considered alternatives leaned too far into one author's tone ("Smoke & Sorcery" was very Leiber; "Black Sword" was very Moorcock) at the cost of misrepresenting the others.
+**Reasoning:** The triad maps cleanly to the three literary inspirations (warrior → Howard, sorcerer → Moorcock, rogue → Leiber) while remaining mechanically agnostic - BRP is classless, and these are _archetypes_, not character classes. The form has rhythm, is easy to remember, and tells a player exactly what kind of game they're holding. Considered alternatives leaned too far into one author's tone ("Smoke & Sorcery" was very Leiber; "Black Sword" was very Moorcock) at the cost of misrepresenting the others.
 
 ---
 
