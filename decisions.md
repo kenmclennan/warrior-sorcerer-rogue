@@ -12,6 +12,22 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Experience checkmarks require successful skill use
+
+**Context:** P1 §2 (how-to-play primer) and P4 §8.1 (canonical experience rule) both described the checkmark trigger as "use a skill in a stressful/uncertain situation" without explicitly stating whether the use had to be successful. P4 §8.1 hinted at the answer via the parenthetical "(without requiring a successful roll)" on its training/immersion exception, but never stated the default rule plainly. User flagged the omission during review of the how-to-play primer.
+
+**Decision:** Checkmarks require **successful** use of the skill under stressful or uncertain conditions. Failure earns nothing. The only exception is the GM-granted checkmark for sustained immersive exposure (training, prolonged practice, deep cultural immersion), which requires no specific roll.
+
+**Reasoning:** This is BRP UGE's traditional rule and the source for the existing wording. Making it explicit prevents tables drifting toward "every dramatic attempt earns a check" (which devalues the mark) or the inverse (which feels punitive). The genre frames competence as earned through results, not effort - heroes are honed by what works, not by what they tried.
+
+**Implications:**
+
+- P1 §2 (how-to-play primer): "_successfully_ use" added; immersion exception flagged with cross-ref to P4 §8.
+- P4 §8.1: restructured to state the success requirement plainly, then articulate the immersion exception as exactly that.
+- No mechanical change - clarification of the locked rule, not a new rule.
+
+---
+
 ## 2026-05-12 - Combat resolution clarification: 01 always-crit; 99 included in the matching-dice set
 
 **Context:** During chapter review, the user flagged that the original Combat Resolution decision (2026-05-10) listed the matching-dice values as `11, 22, 33, 44, 55, 66, 77, 88` without `99`, and that `01 is also a critical`. Both were incompletely expressed in the original decision text.

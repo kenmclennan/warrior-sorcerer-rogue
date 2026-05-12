@@ -105,7 +105,7 @@ Worked examples - character creation walkthroughs, multi-round combat sequences,
 
 **Cast a spell (P6 §2).** Sorcerers pay PP equal to the spell's intensity. Casting is automatic - no roll to cast - but the spell may need a Resistance Table roll to affect a target (P4 §4.4). Each casting may trigger a Corruption roll (P6 §3.3). Iron carried by the sorcerer penalises all sorcery rolls at -5% per ENC of unenchanted iron.
 
-**Earn experience (P4 §8).** When you use a skill in a genuinely uncertain, dramatic situation, mark it for an experience roll at the end of the adventure. Roll D100; add INT/2. If the result exceeds your current skill rating, the skill improves by 1D6.
+**Earn experience (P4 §8).** When you _successfully_ use a skill in a genuinely uncertain, dramatic situation, mark it for an experience roll at the end of the adventure. Failure earns nothing - the genre learns from what works. (Sustained training or immersive practice can earn a checkmark without a roll; see P4 §8.) At the end of the adventure, roll D100; add INT/2. If the result exceeds your current skill rating, the skill improves by 1D6.
 
 Everything else in this book - the full skill list, the talent descriptions, the crit tables, the spell list, the gear reference - is elaboration on these principles.
 

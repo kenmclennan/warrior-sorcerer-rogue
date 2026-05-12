@@ -290,9 +290,9 @@ The character summons something from deeper than will. Immediately recover 1D6 H
 
 ### 8.1 Earning Experience Checkmarks
 
-When a character uses a skill in a genuinely stressful or dramatically uncertain situation, they earn an experience checkmark. Routine use does not. A character earns at most one checkmark per skill per adventure; the improvement roll at the end of each adventure clears the slate.
+When a character _successfully_ uses a skill in a genuinely stressful or dramatically uncertain situation, they earn an experience checkmark. Failure earns nothing, no matter how heroic the attempt - the genre learns from what works, not from what doesn't. Routine use earns nothing either; if there is no real chance of failure, there is no learning. A character earns at most one checkmark per skill per adventure; the improvement roll at the end of each adventure clears the slate.
 
-The GM grants automatic checkmarks (without requiring a successful roll) for sustained immersive exposure: a character who spends a month labouring with master shipwrights earns a checkmark on an appropriate Craft skill without a specific stress test.
+**Exception - sustained immersive exposure.** The GM may grant automatic checkmarks (no specific roll required) for prolonged practice or training: a character who spends a month labouring with master shipwrights earns a checkmark on an appropriate Craft skill without a specific stress test. This is the only exception to the success requirement.
 
 ### 8.2 The Improvement Roll
 
