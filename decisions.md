@@ -12,6 +12,30 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P7 weapons: drop crossbows entirely (follow-up to weapon cull)
+
+**Context:** Follow-up to the P7 weapon cull. User reviewed the kept Crossbow, Light / Crossbow, Heavy entries (which represented ancient gastraphetes / cheiroballistra) and directed: drop them entirely.
+
+**Decision:** Remove all crossbow entries and prose from the equipment chapter; remove "crossbow bolts" from the Pierce damage type source lists in PA1 §1.1 and P5 §10.1.
+
+**Reasoning:** Sword & sorcery doesn't feature crossbows. Howard's Conan never uses one. Mouser doesn't. Elric doesn't. The composite bow already dominates the long-range high-damage missile niche in the genre. Keeping crossbows as "specialty equipment" left them in the equipment list as a temptation that didn't pay off in genre flavour. Cleaner to remove than to leave a "rare option" that adds list weight without adding genre texture.
+
+Ancient crossbows did historically exist (Greek gastraphetes, Roman cheiroballistra, Chinese repeating crossbows), but they were specialty / siege equipment in cultures peripheral to the sword & sorcery imaginary register. Their inclusion pulled toward medieval European warfare more than toward Howard's Hyborian Mediterranean. Out.
+
+**Files updated:**
+
+- P7 §2.3 Historic Missile Weapons: both Crossbow rows (Light, Heavy) removed; "Crossbows:" prose paragraph removed; Range bands paragraph trimmed ("extreme bow or crossbow range" -> "extreme bow range").
+- PA1 §1.1 Pierce sources: "crossbow bolts" removed.
+- P5 §10.1 Pierce damage type sources: "crossbow bolts" removed.
+
+**Implications:**
+
+- Missile weapons in WSR: bows (self, composite, long), sling and staff-sling, javelin, darts, thrown axe/knife/rock, blowgun, lasso, bola, boomerang, throwing knife.
+- No bestiary or NPC stat block references to crossbows existed - sweep was clean.
+- The composite bow's role as "premier cavalry weapon, ancient steppe" is reinforced now that it has no crossbow competition for the high-damage missile slot.
+
+---
+
 ## 2026-05-12 - P7 weapons: cull post-period weapons; add ancient-world replacements
 
 **Context:** User reviewing P7 equipment flagged that several weapons were anachronistic for WSR's pseudo-ancient-world setting (Bronze Age / Iron Age, ~Hyborian / Howard-genre period). Specifically named: Main-gauche, Rapier. Directive: "stay within the technology and pseudo time period."
