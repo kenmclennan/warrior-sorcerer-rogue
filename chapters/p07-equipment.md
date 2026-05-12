@@ -222,7 +222,6 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 | Leather, Boiled      | 3   | 5   | -10%           | Boiled, moulded leather; often ornate                      | Expensive   |
 | Linothorax           | 3   | 4   | -5%            | Layers of linen glued rigid; Greek/Egyptian                | Average     |
 | Hide                 | 1   | 3   | None           | Raw or cured animal hide                                   | Cheap       |
-| Ring                 | 4   | 9   | -10%           | Bronze rings sewn to leather backing                       | Average     |
 | Scale, Bronze        | 5   | 10  | -15%           | Overlapping bronze scales                                  | Average     |
 | Lamellar, Bronze     | 5   | 11  | -15%           | Laced bronze plates; Mesopotamian, Persian                 | Expensive   |
 | Mail, Bronze         | 5   | 9   | -15%           | Interlocked bronze rings                                   | Expensive   |
