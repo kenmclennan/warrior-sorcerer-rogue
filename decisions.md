@@ -12,6 +12,31 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P5 §10.4 clarified: Rabble can inflict criticals (asymmetric crit handling)
+
+**Context:** User reading P5 §10.4 "Criticals and Rabble" asked whether Rabble can inflict criticals on PCs. The section only addressed Rabble _receiving_ criticals (they skip the PA1 table; auto-incapacitation at half HP). The reverse direction was unstated.
+
+**Decision:** Rabble inflicting criticals follow the standard rules: PC may defend; if the attack lands, full damage + armour ignored + PA1 table consulted. The §8 rule already implied this ("Rabble still attack, parry, and roll to hit normally - only the incapacitation threshold is simplified"), but the §10.4 text didn't surface it. Now made explicit with both directions of crit handling labelled in §10.4.
+
+**Natural soft-cap.** Rabble skill caps at 30-50% (occasionally 60%) per the design envelope in G2 §2. Under the new band distribution (1-2-2-2-2), this means:
+
+- Skill 30-40: caps at Band B (via 22 or 33)
+- Skill 50: caps at Band C (via 44)
+- Skill 60: caps at Band C (via 44 or 55)
+- Skill 66+: would unlock Band D, but this is above the Rabble design envelope
+
+So typical Rabble crit Band A or B; an unusually-skilled Rabble may reach Band C. Bands D and E are gated behind Named Antagonist skill ranges. Rabble also cannot Critical Buy (no Fate Point access).
+
+**Reasoning:** This is genre-true - Howard's heroes take wounds from random soldiers all the time ("the city guard got lucky and cut the hero deep"). But the truly devastating crits are reserved for Named Antagonists who have full skill and full PP. The asymmetric crit handling (Rabble inflict normally, receive simplified) preserves both the genre's lethality and the system's pacing goal of keeping Rabble fights brief.
+
+**Files updated:**
+
+- P5 §10.4: rewritten with two labelled paragraphs - "Rabble inflicting criticals" and "Rabble receiving criticals".
+
+**No mechanical change** - this is clarification of behaviour already supported by P5 §8 ("Rabble still attack normally") and P5 §3.5 (Critical Attacks and Armour). Just making it explicit that the standard rules apply when Rabble are the attacker.
+
+---
+
 ## 2026-05-12 - Severity band redistribution (1-2-2-2-2); 01 = best reachable band; supersedes earlier 01 -> A rule
 
 **Context:** User reviewing the combat chapter flagged two related issues with P5 §10.2 "Determine the Severity Band":

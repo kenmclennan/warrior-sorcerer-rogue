@@ -371,4 +371,6 @@ Within the damage type table and severity band column, roll 1D100 and read the r
 
 ### 10.4 Criticals and Rabble
 
-Rabble do not consult the crit tables. A critical hit deals full damage ignoring armour; if this reaches the incapacitation threshold (§8), the target is done. The crit table may be consulted for descriptive colour only.
+**Rabble inflicting criticals.** A Rabble who rolls matching dice within their skill (or rolls 01) inflicts a critical normally. The PC may defend; if the attack lands, the standard PA1 table is consulted, full damage applies, and armour is ignored. Rabble cannot Critical Buy (no Fate Point access), and their natural skill cap (typically 30-50%) limits them to Band A or B - an exceptionally-skilled Rabble at skill 50+ may reach Band C, but Bands D and E require skill 66+ and 88+ respectively, which is above the tier's design envelope.
+
+**Rabble receiving criticals.** Rabble do not consult the crit tables when struck. A critical hit deals full damage ignoring armour; if this reaches the incapacitation threshold (§8), the Rabble is done. The crit table may be consulted for descriptive colour only.
