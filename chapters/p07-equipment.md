@@ -226,7 +226,8 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 | Scale, Bronze        | 5   | 10  | -15%           | Overlapping bronze scales                                  | Average     |
 | Lamellar, Bronze     | 5   | 11  | -15%           | Laced bronze plates; Mesopotamian, Persian                 | Expensive   |
 | Mail, Bronze         | 5   | 9   | -15%           | Interlocked bronze rings                                   | Expensive   |
-| Mail, Iron           | 6   | 9   | -15%           | Interlocked iron rings; rare                               | Expensive   |
+| Mail, Iron           | 5   | 9   | -15%           | Interlocked iron rings; cheaper but equivalent protection  | Average     |
+| Mail, Steel          | 6   | 9   | -15%           | Pattern-welded or crucible-forged steel; rare and prized   | Expensive   |
 | Breastplate, Bronze  | 5   | 6   | -10%           | Chest and back only; heroic aesthetic                      | Expensive   |
 | Cataphract Suit      | 6   | 18  | -20%           | Heavy lamellar over scale; Persian/Sassanian elite cavalry | Expensive   |
 

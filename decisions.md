@@ -12,6 +12,40 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P7 armour metallurgy: equalise bronze/iron AP; add Mail, Steel as the real upgrade
+
+**Context:** User flagged that the assumption "iron is better than bronze" is fantasy-genre orthodoxy but historically misleading. Cast bronze is hard and holds an edge (high-tin bronze ~250-300 BHN). Wrought iron is softer than bronze - Polybius and Plutarch describe Celtic warriors stepping on bent iron swords mid-battle to straighten them; lower-tier Viking blades had the same problem. The Bronze->Iron transition was driven by tin scarcity (Bronze Age Collapse), not blade quality. The genuine technological leap was **steel** (carburised iron) - pattern-welded Roman gladii, Indian wootz, Damascus crucible steel.
+
+**Current WSR position (before this change):** Mail, Iron had AP 6 vs Mail, Bronze's AP 5 - the conventional fantasy "+1 AP for iron." Historically inverted.
+
+**Decision:**
+
+1. **Equalise bronze and iron mail AP.** Both now AP 5. Iron is cheaper (Cost: Average) reflecting greater availability; bronze keeps Cost: Expensive reflecting the tin-trade prestige and decorative tradition.
+2. **Add Mail, Steel** as the third tier (AP 6, ENC 9, -15%, Cost: Expensive). Pattern-welded or crucible-forged steel - rare, prized, the genuine technological edge.
+3. **Add metallurgy prose** to P7 §3.3 explaining the bronze/iron/steel relationship: iron is supply, bronze is status, steel is the real upgrade. Clarifies that for the iron-vs-sorcery rule (P6 §4), steel counts as iron.
+
+**Reasoning:**
+
+- **Historical accuracy.** The "iron > bronze" trope dates to D&D-era fantasy worldbuilding and doesn't survive contact with actual metallurgy. Equalising them is genre-correct for sword & sorcery, which often features bronze-clad heroes (Conan's Aquilonian cuirass; Achilles' panoply).
+- **Texture.** Iron vs bronze becomes a cultural / economic distinction rather than a mechanical one. The Horse Folk wearing bronze panoplies; the Vast Empire's regulars wearing iron mail; a Named Antagonist's elite guard wearing steel - all read as distinct without one being mechanically dominant.
+- **Steel as the real upgrade preserves the "rare and prized" feel.** A PC encountering steel mail or a steel sword now signals something - this enemy has serious backing. In Howard's tales, "the gleam of the steel" usually means a master-craft weapon, not the average soldier's kit.
+- **Iron-vs-sorcery rule unchanged.** Steel counts as iron for the sorcerous-disruption rule (P6 §4) - the supernatural objection is to the metal itself, not its carbon content.
+
+**Files updated:**
+
+- P7 §3.3 Armour Table: Mail, Iron AP 6 -> 5, Cost Expensive -> Average; new Mail, Steel row (AP 6, Expensive).
+- P7 §3.3 prose: new "Bronze, Iron, and Steel" note after the Cataphract Suit note. Explains the metallurgical reality, cultural framing of each metal, and the steel-counts-as-iron rule for sorcery.
+
+**Implications:**
+
+- Armour table: 16 entries (was 15 after the prior cull; +1 for Steel).
+- Iron is now genuinely the "common soldier's protection" - same AP as bronze but cheaper and more available.
+- Bronze retains its prestige flavour without losing mechanical relevance.
+- Steel mail becomes a meaningful narrative beat: "He wears steel" lands as a status signal.
+- No weapon damage changes (current weapon tables don't distinguish bronze vs iron blades - left as-is; the equivalent argument applies but the mechanical impact would be larger and the user has not directed weapon stat changes).
+
+---
+
 ## 2026-05-12 - P7 armour and shields: cull post-period entries; rename medieval-term entries; add Cataphract Suit and Pelta
 
 **Context:** User reviewed P7 §3 (Armour) and §4 (Shields) for anachronisms after the weapons cull.
