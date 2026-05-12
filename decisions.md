@@ -12,6 +12,28 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - PA4 Names: revise lists to fabricated names (avoid recognisable historical figures)
+
+**Context:** User reviewed the initial PA4 names and flagged that many were instantly recognisable real historical or mythological figures (Bjorn, Sigurd, Ragnar in Cold Wilds; Darius, Xerxes, Cyrus in Vast Empire; Khufu, Imhotep, Hatshepsut in Great River Kingdoms; Maui, Calypso, Penelope in Scattered Isles). User directive: "fantastic names - evocative of the culture but not taken directly from" real sources. Cold Wilds identified as the worst offender.
+
+**Decision:** Replace every name in all eight sections with fabricated variants that preserve the cultural phonetics but don't match specific historical figures. Approach: take real cultural name elements (root words, prefixes, suffixes) and combine them in unfamiliar ways, or mutate familiar names by enough letters to break direct recognition.
+
+**Example transformations:**
+
+- Cold Wilds male: Bjorn -> Bjarmir; Sigurd -> Snorragar; Ragnar -> Ragenmar; Olaf -> Hakthal; Eirik -> Eirvald.
+- Cold Wilds female: Astrid -> Astharil; Brynhildr -> Bryndila; Freya -> Freyhild; Gudrun -> Gudvinna; Yngvild -> Yngslada.
+- Vast Empire male: Darius -> Darianos; Xerxes -> Khsathrios; Cyrus -> Khordagh; Cambyses -> Mardonal.
+- Great River Kingdoms male: Khufu -> Khufran; Imhotep -> Petephor; Sargon -> Sargunet; Tutmoses -> Tutmosen.
+- Scattered Isles female: Calypso -> Kalythanu; Penelope -> Pelenath; Ariadne -> Ariadora.
+
+Phonetic patterns (Norse -ulfr/-hild/-valdr; Persian -anos/-arid/-os; Egyptic -hor/-ra/-tep; Greek -ides/-os/-as) retained so names still _sound_ Norse, Persian, Egyptic, or Greek. But individual names no longer match specific Persian kings, Norse jarls, or Egyptian pharaohs.
+
+**Reasoning:** The original lists were too on-the-nose - reading "Bjorn from the Cold Wilds" pulls the player straight to Viking-era Scandinavia, breaking the genre's fantasy register. Fabricated names that _feel_ Norse without _being_ specific historical Vikings let the cultural archetype do its work without the real-world reference dominating the imaginative space. This matches the locked design choice that "the eight Cultural Backgrounds are archetypes, not specific cultures."
+
+**Verification:** All 160 revised names spot-checked against well-known historical figures and mythological named individuals. Variants close to real elements (e.g., Astharil shares the "Astr" prefix with Astrid; Sapha'it shares "Sapha" with the Phoenician root) preserve cultural texture without being direct lifts.
+
+---
+
 ## 2026-05-12 - New PA4 Names appendix; 10 male + 10 female names per Cultural Background
 
 **Context:** User added _The Nomicon_ (Matt Finch, Mythmere Games, 2025; 354 pages) as a project source. Requested: a new Player Book appendix providing ten male and ten female names for each of the eight Cultural Backgrounds in P2 §4.
