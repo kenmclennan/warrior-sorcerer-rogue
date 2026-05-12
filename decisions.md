@@ -12,6 +12,59 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P6 Spell List expansion: 8 new spells (sleep, charm, forget, dispel, scrying, telepathy, necromancy, lighter shape-change)
+
+**Context:** User reviewing P6 Sorcery flagged that the spell list (29 spells) had no magical sleep, charm, forget, or shape-changing spells. Source check confirmed BRP UGE's Magic and Sorcery chapters don't have direct Sleep / Charm / Forget spells either, but the BRP Sorcery list has other useful gaps to port (Undo Sorcery, Far Sight, Keen Ear, etc.). Shape Thief in WSR already covers animal shape-change at 4 PP + 1 Corruption per casting; what was missing was a cheaper alternative for "wolfskin"-style frequent transformation.
+
+**Decision:** Add 8 spells in alphabetical order. WSR-original entries for the user-named gaps (sleep, charm, forget, lighter shape-change); BRP-sourced ports for the dispel, scrying, telepathy gaps; original entry for the genre-essential necromancy.
+
+**The 8 new spells:**
+
+| Spell                       | Type                        | Origin                                                                                                        |
+| --------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Animate Dead**            | Necromancy                  | WSR-original (genre-staple - Howard/Smith/Moorcock necromancers)                                              |
+| **Far Sight**               | Scrying                     | BRP-canonical (BRP "Farsight")                                                                                |
+| **Honeyed Whisper**         | Charm                       | WSR-original (BRP "Control" approximates, but WSR design fitted to genre register)                            |
+| **Lethe Touch**             | Memory erasure              | WSR-original (genre gap; BRP has no equivalent)                                                               |
+| **Skin of the Beast**       | Shape-change (totem animal) | WSR-original (lighter alternative to Shape Thief; "wolfskin" magic)                                           |
+| **Slumber of the Lotus**    | Sleep                       | WSR-original (genre gap; BRP has no equivalent)                                                               |
+| **Undo Sorcery**            | Dispel                      | BRP-canonical; already referenced by Curse of the Withered Hand (which needed a definition that didn't exist) |
+| **Whisper Across Distance** | Long-range telepathy        | BRP-sourced (BRP "Keen Ear" repurposed for telepathic communication)                                          |
+
+**Design notes per spell:**
+
+- **Animate Dead** - 3 PP + 1 Corruption per body, 10 min ritual per body, POW hours duration. Animated corpse keeps physical stats but loses INT/POW; treats incoming attacks like Rabble (half-HP threshold doesn't apply to undead but the body's HP value uses the half formula, no crits applicable). Cap of POW/3 active bodies. Necromancy is reviled - communities turn hostile on discovery. Corruption escalates (1D3) for relatives or personally-killed targets.
+- **Far Sight** - 2 PP/intensity, intensities 1-3 ranging from line-of-sight to "anywhere I've been or anyone I've bound." Requires reflective focus and quiet space; broken by any damage to caster.
+- **Honeyed Whisper** - 2 PP/intensity, POW rounds. Intensities scale from "won't attack me" to "will die for me," with a Passion-resistance check at the top. Permanent -30% social penalty after spell ends.
+- **Lethe Touch** - 3 PP, requires skin contact. Erases 1D6+POW/5 minutes; partial recovery possible with sensory cues or sorcerous intervention.
+- **Skin of the Beast** - 3 PP, POW rounds. Single totem form chosen at learning (wolf, eagle, etc.). No Corruption per casting. Genuinely lighter than Shape Thief - shorter duration, single form, but castable freely. Sorcerer can learn multiple instances for different forms.
+- **Slumber of the Lotus** - 2 PP/intensity, intensities 1-4 scaling sleep duration from 1D6 rounds to 1D6 days. Wakes on damage or vigorous shaking; once-per-24-hours per sorcerer.
+- **Undo Sorcery** - 1 PP/intensity matching the target spell's intensity. Resistance Table compare against original caster or original casting intensity. Closes the gap that Curse of the Withered Hand was already referencing.
+- **Whisper Across Distance** - 2 PP/intensity, intensities 1-4 scaling from line-of-sight to global range. One short exchange per casting; target may resist with Difficult POW.
+
+**Reasoning:**
+
+- **Sleep / Charm / Forget gap:** The user-named gaps are genre-essential. Conan's adventures feature sleep-spells (lotus-poison and sorcery), Mouser-stories feature charm magic, and forget-magic is a classic wizard's tool for covering tracks. Source BRP doesn't have direct equivalents - we designed in the WSR register, matching the existing entries' tone and intensity-scaling style.
+- **Shape change:** Shape Thief already covered the heavy lift. Adding Skin of the Beast gives sorcerers a cheaper, totemic alternative - "I am wolf-marked, I become wolf without paying every time" - which is the Howard/Burroughs flavour rather than the more sinister Shape Thief.
+- **BRP ports:** Undo Sorcery was being referenced already (Curse of the Withered Hand says "broken by Undo Sorcery") but never defined. Far Sight and Whisper Across Distance are scrying/communication staples; the BRP source has both. Including them now closes obvious gaps.
+- **Animate Dead:** Not in BRP UGE Sorcery list but central to sword & sorcery necromancy. The reviled-by-community framing is genre-correct.
+
+**Considered and rejected:**
+
+- **Characteristic boosters** (BRP has 8 - Bolster the Soul, Titan's Strength, etc.). Undying Strength already covers STR. Adding more would dilute the "every spend has cost" theme and feel buff-stacky.
+- **Elemental damage spells** (Fires of the Sun, etc.). WSR's sorcery is curses and bargains, not artillery; this preserves the tonal stance.
+- **Minor utility** (Make Fast, Breath of Life, Unbreakable Bulwark). Useful but not genre-essential.
+
+**Implications:**
+
+- P6 spell count: 29 -> 37.
+- Curse of the Withered Hand's reference to "Undo Sorcery" now resolves to an actual spell entry (closes a long-standing dangling reference).
+- The four user-named gaps (sleep, charm, forget, shape-change) are all addressed.
+- Sorcerers gain meaningful new tools: Slumber for non-lethal incapacitation, Honeyed Whisper for socially-loaded encounters, Lethe Touch for post-extraction cleanup, Skin of the Beast for genre-true totem transformation, Animate Dead for the necromancy archetype.
+- Genre framing preserved: Sleep/Charm/Forget all carry Corruption costs at higher intensities (the cost of bending wills). Necromancy is socially toxic. Memory erasure is intimate violation.
+
+---
+
 ## 2026-05-12 - Populate PA1 Burn and Grapple critical hit tables (100 entries)
 
 **Context:** PA1 had Burn and Grapple as "Future Expansion" with interim rules (treat as Krush at one band lower / treat as Krush). User asked whether to populate now given the use cases:

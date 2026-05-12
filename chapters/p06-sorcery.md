@@ -1,8 +1,5 @@
 # P6. Sorcery
 
-> _"He was a sorcerer and men feared him and he was doomed and he knew it and the knowledge had become a kind of pleasure."_
-> _- Michael Moorcock_
-
 This chapter covers becoming a sorcerer, casting spells, the three costs, iron disruption, grimoires, and the full spell list. G4 covers the GM side: patrons, demons, and what happens when a sorcerer goes too far.
 
 ---
@@ -229,18 +226,22 @@ The spells below are available to sorcerer PCs. Ritual workings, patron-specific
 
 | Spell                      | Cost                         | Cast Time         | Duration               |
 | -------------------------- | ---------------------------- | ----------------- | ---------------------- |
+| Animate Dead               | 3 PP/body + 1 Corruption     | 10 min/body       | POW hours              |
 | Bind the Raging Heart      | 1 PP/intensity (max 4)       | 1 round           | POW rounds             |
 | Bird's Eye                 | 1 PP/intensity (max 3)       | 1 round           | POW rounds             |
 | Brazier of Power           | 1 permanent POW + 4 PP/level | 4 hours           | Permanent              |
 | Chain of Being             | 4 PP + participants          | 1 round           | Until released         |
 | Cloak of Night             | 1 PP/intensity (max 4)       | 1 round           | POW rounds             |
 | Curse of the Withered Hand | 4 PP                         | 1 round           | Permanent until broken |
+| Far Sight                  | 2 PP/intensity (max 3)       | 1 round to 1 hour | POW rounds or minutes  |
 | Flaying Blade              | 2 PP/intensity (max 4)       | 1 round           | POW rounds             |
 | Hammer of the Gods         | 3 PP/intensity (max 3)       | 1 round           | POW rounds             |
 | Hell's Razor               | 2 PP/intensity (max 4)       | 1 round           | POW rounds             |
+| Honeyed Whisper            | 2 PP/intensity (max 3)       | 1 round           | POW rounds             |
 | Inescapable Bonds          | 3 PP                         | 1 round           | POW rounds             |
 | Iron Ward                  | 2 PP/intensity (max 4)       | 1 round           | POW rounds             |
 | Leap of the Shadow Cat     | 1 PP/intensity (max 4)       | 1 round           | POW rounds             |
+| Lethe Touch                | 3 PP                         | 1 round           | Instantaneous          |
 | Liken Shape                | 4 PP                         | 1 round           | POW x10 rounds         |
 | Mend the Mortal Frame      | 3 PP + 1D3 Corruption        | 1 round or 10 min | Instantaneous          |
 | Midnight                   | 1 PP                         | 1 round           | POW rounds             |
@@ -250,14 +251,36 @@ The spells below are available to sorcerer PCs. Ritual workings, patron-specific
 | See the Unseen             | 3 PP                         | 1 round           | POW rounds             |
 | Shadow-Wrap                | 2 PP/intensity (max 4)       | 1 round           | POW rounds             |
 | Shape Thief                | 4 PP + 1 Corruption          | 1 round           | POW rounds             |
+| Skin of the Beast          | 3 PP                         | 1 round           | POW rounds             |
+| Slumber of the Lotus       | 2 PP/intensity (max 4)       | 1 round           | 1D6 rounds to days     |
 | Still the Mind             | 1 PP                         | 1 round           | 1D6 rounds             |
 | Summon Demon               | 4 PP + bargaining costs      | 4 hours minimum   | Until released         |
 | Sureness of Hand           | 1 PP/intensity (max 4)       | 1 round           | POW rounds             |
+| Undo Sorcery               | 1 PP/intensity               | 1 round           | Instantaneous          |
 | Undying Strength           | 2 PP/intensity (max 3)       | 1 round           | POW rounds             |
 | Vampire's Kiss             | 2 PP/intensity (max 3)       | 1 round           | Instantaneous          |
 | Veil of the Ancient        | 1 PP                         | 1 round           | POW x2 rounds          |
 | Vermin's Eye               | 1 PP/intensity (max 3)       | 1 round           | POW rounds             |
+| Whisper Across Distance    | 2 PP/intensity (max 4)       | 1 round           | Instantaneous          |
 | Wisdom of Wounds           | 1 PP                         | 1 minute          | Instantaneous          |
+
+---
+
+### Animate Dead
+
+**Cost:** 3 PP per body + 1 Corruption per body
+**Cast Time:** 10 minutes per body (ritual; requires the corpse and a sliver of the sorcerer's blood)
+**Duration:** POW hours, or until destroyed
+
+The sorcerer raises one corpse as an animated servant. The body retains its physical capacities (STR, SIZ, and any equipment it died wearing) but loses all else: DEX is halved, INT and POW are 0, the body does not speak, eat, drink, sleep, or fatigue. It follows simple verbal commands - "follow," "kill the one I point at," "guard this door," "carry this." It cannot make tactical decisions or interpret nuanced orders.
+
+An animated dead has HP equal to half its CON+SIZ when alive (the Rabble formula, even if the original was a PC), no armour beyond what it physically wears, and treats all attacks as Brawl 35% / 1D4+dm or the weapon it held when it died. Critical effects do not apply - the body cannot bleed, cannot be stunned, cannot suffer pain; reaching 0 HP destroys the animation. Holy water, blessed weapons, or sorcerous fire deal double damage at the GM's option.
+
+A sorcerer may have up to POW/3 (round down) animated dead under their command at one time. Exceeding the limit causes the oldest to fall inert.
+
+**The cost of the dead.** Communities almost universally revile necromancy. An animated corpse identified by a community will produce immediate hostility, and the recognition may come from a single relative seeing the body's face. Animate Dead is not a discreet working.
+
+**Cost Notes:** Causes 1 Corruption per body animated. Animating the corpse of a known relative, or of a person the sorcerer has personally killed, causes 1D3 Corruption per body.
 
 ---
 
@@ -331,6 +354,28 @@ The target must fail a POW resistance roll (P4 §4.4) or receive a permanent, vi
 
 ---
 
+### Far Sight
+
+**Cost:** 2 PP per intensity (max 3)
+**Cast Time:** Intensity 1: 1 round; Intensity 2: 10 minutes; Intensity 3: 1 hour (ritual)
+**Duration:** POW rounds (Intensity 1); POW minutes (Intensity 2-3)
+
+The sorcerer scrys a distant location, seeing and hearing as if standing there invisibly. The scrying point cannot move during the working and cannot pass through closed doors, walls, or other physical barriers - though it may peer through windows, gaps, and openings.
+
+Range scales with intensity:
+
+- Intensity 1: line of sight up to POW x 100 metres (over a wall, into the next room, across a battlefield).
+- Intensity 2: any location within one day's travel that the sorcerer has personally visited.
+- Intensity 3: any location the sorcerer has visited, regardless of distance; or any location of a person the sorcerer has bound by name and blood (a sworn enemy, a blood relative, a patron-marked target).
+
+Far Sight requires a reflective focus: a bowl of still water, a polished obsidian disc, a mirror of silvered iron. The sorcerer must work in a quiet, dim space. Disrupting the focus or the sorcerer's concentration ends the spell - any damage taken automatically breaks the working.
+
+Targets of Far Sight at intensity 3 may sense the scrying with a Difficult Sense or Insight roll. A sorcerer being scryed may detect it with See the Unseen.
+
+**Cost Notes:** Intensity 3 causes 1 Corruption.
+
+---
+
 ### Flaying Blade
 
 **Cost:** 2 PP per intensity (max 4)
@@ -361,6 +406,26 @@ As Flaying Blade, but for a slashing or piercing weapon. Intensity 1 = +1D6 dama
 
 ---
 
+### Honeyed Whisper
+
+**Cost:** 2 PP per intensity (max 3)
+**Cast Time:** 1 round
+**Duration:** POW rounds
+
+The target must fail a POW resistance roll or perceive the sorcerer as a trusted friend for the duration. Effect scales with intensity:
+
+- Intensity 1: general goodwill - the target will not initiate hostile action and is favourably disposed to the sorcerer's presence.
+- Intensity 2: trusting suggestibility - the target will follow simple, non-suicidal requests phrased as friendly suggestions.
+- Intensity 3: devoted alliance - the target will defend the sorcerer at risk to themself, treat them as long-trusted, and lie or scheme on their behalf within the bounds of their own deepest principles.
+
+The target retains their own goals and personality - the spell shapes their perception of the sorcerer, not their other relationships. Requests that would obviously betray a Passion at 70% or higher, kill an immediate family member, or contradict a deeply-held loyalty permit a new POW resistance roll to shake the effect free.
+
+When the spell ends, the target remembers their actions and feels disturbed by them. All future social interactions between the sorcerer and the target suffer a permanent -30% penalty.
+
+**Cost Notes:** Intensity 3 causes 1 Corruption.
+
+---
+
 ### Inescapable Bonds
 
 **Cost:** 3 PP
@@ -388,6 +453,22 @@ Counter-magic. When cast before a specific spell or sorcerous effect, Iron Ward 
 **Duration:** POW rounds
 
 Enhances the target's Athletics (jump and climb) and Acrobatics skills: intensity 1 = +20%; intensity 2 = +40%; intensity 3 = +60%; intensity 4 = +80%. At intensity 4, the target can traverse vertical surfaces at normal movement speed and falls never exceed 3 metres of effective height.
+
+---
+
+### Lethe Touch
+
+**Cost:** 3 PP
+**Cast Time:** 1 round (during physical contact with the target's bare skin)
+**Duration:** Instantaneous
+
+The sorcerer touches the target's brow or other bare skin; the target must fail a POW resistance roll or forget the past 1D6 + POW/5 minutes (round up). They retain general impressions of where they were and who they were with, but specific details are lost: the route they were shown, the words spoken, the object handed over, the secret they confessed.
+
+The lost memory may be partially recovered later. A Difficult Idea roll triggered by encountering strong sensory cues (the same room, the same person, a smell or song from that time) restores a fragment of the forgotten interval. Full restoration requires sorcerous intervention (a successful Undo Sorcery, or specific patron-aided ritual).
+
+The spell does not erase physical evidence. The target may find the dagger they accepted but will not remember accepting it; they will rationalise the gap, or they will not.
+
+**Cost Notes:** Casting increases Corruption by 1.
 
 ---
 
@@ -487,6 +568,49 @@ A more extreme version of Liken Shape. Cast on a human: the sorcerer gains the t
 
 ---
 
+### Skin of the Beast
+
+**Cost:** 3 PP
+**Cast Time:** 1 round
+**Duration:** POW rounds
+
+The sorcerer transforms into a single specific animal form, chosen at character creation when the spell is first learned. Common totems: wolf, eagle, serpent, great cat, raven, otter. The form is the sorcerer's totem - a sorcerer who has learned Skin of the Beast (wolf) cannot take eagle form without learning the spell anew with a different focus and a new ritual.
+
+While transformed:
+
+- The sorcerer's physical characteristics (STR, CON, SIZ, DEX) become those of the animal type (typical specimen, not exceptional).
+- The sorcerer retains their own INT and POW.
+- They have full physical capabilities of the form - a wolf bites, an eagle flies, a serpent strikes and constricts.
+- They cannot speak, cast sorcery, or use tools.
+- Their clothing and equipment transform into the animal's hide or feathers and reform when the spell ends.
+
+Skin of the Beast is a less burdensome shape-changing spell than Shape Thief. It costs no Corruption per casting, but offers only one form, requires advance preparation (the form is fixed at learning), and lasts only POW rounds rather than POW x10. A sorcerer who has learned both has access to a quick totem form (Skin) and the option of any animal at greater cost (Shape Thief).
+
+Learning Skin of the Beast for the first time in a campaign typically involves a brief ritual incorporating the totem animal's blood, hide, or sacred ground at the GM's discretion.
+
+---
+
+### Slumber of the Lotus
+
+**Cost:** 2 PP per intensity (max 4)
+**Cast Time:** 1 round
+**Duration:** see below (the spell itself is instantaneous; the slumber persists per intensity)
+
+The target must fail a POW resistance roll or fall into supernatural sleep. The duration of the slumber scales with intensity:
+
+- Intensity 1: 1D6 rounds
+- Intensity 2: 1D6 minutes
+- Intensity 3: 1D6 hours
+- Intensity 4: 1D6 days
+
+The sleeper does not wake to ordinary noise, conversation in the room, or being moved gently. They wake immediately if struck for any damage, vigorously shaken, or doused with cold water. The sorcerer cannot maintain the slumber through repeated castings; once awoken, the target is immune to further Slumber of the Lotus from the same sorcerer for 24 hours.
+
+The spell's name comes from the Hyperborean lotus said to grow only in graveyards, but no actual lotus is required. The sorcerer's gestures and whispered words are enough.
+
+**Cost Notes:** Intensity 3 or 4 causes 1 Corruption.
+
+---
+
 ### Still the Mind
 
 **Cost:** 1 PP
@@ -516,6 +640,24 @@ The sorcerer prepares a circle, invokes a demon by the appropriate formula, and 
 **Duration:** POW rounds
 
 Enhances the target's manual or ranged combat skill: intensity 1 = +20%; intensity 2 = +40%; intensity 3 = +60%; intensity 4 = +80%. At intensity 4, the target's hands do not shake under stress and they receive an additional +10% to any action requiring precise fine manipulation.
+
+---
+
+### Undo Sorcery
+
+**Cost:** 1 PP per intensity (max equal to the spell being countered)
+**Cast Time:** 1 round
+**Duration:** Instantaneous
+
+The sorcerer ends an active spell or sorcerous effect. The target spell must be present and identifiable: a curse on a person, a lingering ward, a binding still in force, a transformation in progress, an enchantment on an object. The caster must know what kind of spell they are dispelling, though they need not have the spell themselves in their grimoire.
+
+**Resolving the dispel.** If the original sorcerer is present and contests, compare the Undo Sorcery caster's current PP (after the intensity cost) against the original caster's current PP on the Resistance Table; the higher prevails. If the original caster is absent or unaware, compare against the original spell's casting intensity directly - Undo Sorcery at equal or greater intensity succeeds; at lower intensity, it fails and the PP are spent.
+
+**What Undo Sorcery can break:** active spell effects still running, persistent curses, bindings (a bound demon may be released - the GM should adjudicate carefully), enchantments on objects.
+
+**What it cannot break:** spells that have already taken effect and ended; permanent characteristic loss; destroyed objects, limbs, or lives; Corruption; patron gifts and patron-sustained workings (only the patron can revoke).
+
+**Cost Notes:** Dispelling a curse cast by another sorcerer, or breaking a patron's working, causes 1 Corruption.
 
 ---
 
@@ -558,6 +700,27 @@ Creates a magical alarm on a defined perimeter. Any creature larger than a cat t
 **Duration:** POW rounds
 
 As Bird's Eye, but through the eyes of a rat, snake, insect colony, or similar small creature. Shorter range (intensity 1: close; intensity 2: within 200m; intensity 3: within 1 km) but targets are ubiquitous. At intensity 3, the sorcerer may share perception with multiple creatures simultaneously; overlapping information is difficult to parse (Difficult Idea roll to act on specific data from a particular creature).
+
+---
+
+### Whisper Across Distance
+
+**Cost:** 2 PP per intensity (max 4)
+**Cast Time:** 1 round
+**Duration:** Instantaneous (one short exchange)
+
+The sorcerer speaks one short sentence per intensity directly into the mind of a chosen target. The target must be someone the sorcerer has met in person and clearly recognises. They hear the sorcerer's voice in their own thoughts and may reply mentally during the exchange - the conversation lasts only a few seconds of subjective time.
+
+Range scales with intensity:
+
+- Intensity 1: line of sight (cross a battlefield, signal a confederate across a hall).
+- Intensity 2: within POW kilometres (signal an ally across a city).
+- Intensity 3: within POW x 100 kilometres (signal a patron or contact across a region).
+- Intensity 4: any distance on the same world (signal across a continent or sea).
+
+The target may refuse the contact - choosing to ignore the voice in their head requires a Difficult POW roll. A target ignoring the call still knows it came from the sorcerer. The exchange is private; only the sorcerer and target hear it.
+
+**Cost Notes:** Intensity 4 causes 1 Corruption.
 
 ---
 
@@ -617,125 +780,3 @@ A binding ends in one of four ways:
 - **Another sorcerer learns the true name and rebinds.** The demon now serves the new binder.
 
 What the demon does when freed depends on the entity's nature, the bargain terms, and how it was treated. G4 has guidance.
-
----
-
-## 8. Spell Quotations
-
-The following literary quotes accompany the spells listed in §6. They are collected here to keep the spell list compact at the table.
-
-### Bind the Raging Heart
-
-> _"Something looked out through those eyes and it was not the man they had known. It was older, and it did not care which of them it killed first."_
-
-### Bird's Eye
-
-> _"The raven landed on the gate arch, and somewhere a mile away a man stared at nothing and smiled at what it saw."_
-
-### Brazier of Power
-
-> _"The heart of any true sorcerer's sanctum is the focus: the object that holds what they have poured into it. Touch it and feel what they sacrificed."_
-
-### Chain of Being
-
-> _"In the old stories, great summoners had a circle of volunteers - servants, students, the devout, the afraid - and they drew from each in turn. The circle always had fewer at its end than at its beginning."_
-
-### Cloak of Night
-
-> _"She had been standing there the whole time. He simply had not been able to see her."_
-
-### Curse of the Withered Hand
-
-> _"'I will not kill you. I will make you something people cross the street to avoid.'"_
-
-### Flaying Blade
-
-> _"The blade sang through the shield and the arm behind it and none of them understood why until it was over."_
-
-### Hammer of the Gods
-
-> _"It struck the bronze gate and the gate was simply gone. Not broken. Gone."_
-
-### Hell's Razor
-
-> _"Every man in the courtyard had seen a sword drawn before. Not one of them had seen a sword like that."_
-
-### Inescapable Bonds
-
-> _"He was not chained. There was nothing to see. He simply could not move, no matter how hard he tried, and that was the worst part."_
-
-### Iron Ward
-
-> _"She smiled when she saw what he was preparing. She had seen that spell before."_
-
-### Leap of the Shadow Cat
-
-> _"She went up the palace wall like she was born to it. Which she was not. Which made watching it deeply unsettling."_
-
-### Liken Shape
-
-> _"He wore the general's face for three hours. The general never learned what had been decided in his name."_
-
-### Mend the Mortal Frame
-
-> _"He screamed when the sorcerer's hands touched the wound, and the scream cut short when the pain was gone. He was alive. He did not ask how. Smart men did not ask."_
-
-### Midnight
-
-> _"The torch went out. They all went out. And then something moved in the dark that was not one of them."_
-
-### Moonrise
-
-> _"The light was beautiful and wrong and it cast shadows that moved when it shouldn't."_
-
-### Night Ear
-
-> _"He had heard the conversation from the other side of the palace wall. He had heard every word. He wished he had not."_
-
-### Pox of the Sorcerer
-
-> _"He felt his strength leaving him with each breath, and could not tell if it was fear or something else, and eventually it did not matter."_
-
-### See the Unseen
-
-> _"'Do not try to bind that one,' he said quietly. 'You cannot see what I see. I can. Do not try.'"_
-
-### Shadow-Wrap
-
-> _"The blade struck. It should have opened him from shoulder to hip. Instead the sorcerer turned, uninjured, and the attacker's sword was cold."_
-
-### Shape Thief
-
-> _"He had been the wolf for an hour. When he returned to his own skin, he was quiet for a long time, and then he was not quite the same man again."_
-
-### Still the Mind
-
-> _"He opened his mouth to say the words. Nothing came. He stood there, sword in hand, unable to remember what swords were for."_
-
-### Summon Demon
-
-> _"The circle held. That was the important thing. As long as the circle held, everything was still a negotiation."_
-
-### Sureness of Hand
-
-> _"'Just stay calm,' the sorcerer said, and her hands were suddenly steady, and she made the shot."_
-
-### Undying Strength
-
-> _"He picked up the gate - not opened it, picked it up - and threw it into the canal."_
-
-### Vampire's Kiss
-
-> _"She touched him and he felt cold all the way through, and the woman beside him breathed easier, and he understood, finally, what he was for."_
-
-### Veil of the Ancient
-
-> _"He slept well in bad places, always. He always knew when someone came."_
-
-### Vermin's Eye
-
-> _"The rat had been under the table for the entire meeting. The sorcerer, in her room a street away, had heard every word."_
-
-### Wisdom of Wounds
-
-> _"'Three different blades. Two different nights. And the poison is something I've only read about.' He paused. 'Someone has gone to considerable trouble.'"_
