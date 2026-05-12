@@ -12,6 +12,32 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Battle Tempo Combat Talent added; Warlord's Eye fixed
+
+**Context:** User asked whether any Fate Point spend let a character improve their DEX for initiative order. None did. The discussion turned on whether to add one as a tenth universal spend or scope it to a Combat Talent.
+
+**Decision:** Add as a Combat Talent in P2 §7.1, not as a universal Fate Point spend.
+
+> **Battle Tempo.** 3 PP. Declare before Phase One Statements. For this round, treat your DEX as +5 for initiative order only. The bonus does not affect skill rolls, Dodge, or damage modifier - it changes the order in which you declare and act, nothing more. Once per combat.
+
+**Reasoning:**
+
+- **Menu discipline.** The Fate Point menu is at nine spends already; a tenth universal spend would strain cognitive load for a benefit that is archetype-specific (rogues and duellists want initiative; priests and merchants generally do not).
+- **Genre fit.** Sword & sorcery initiative is preparation, not reflex-burst. A trained fighter with the _Battle Tempo_ talent has the trained reflexes; a generic character does not get to summon them by spending PP.
+- **Mechanical envelope.** +5 effective DEX, one round, once per combat - meaningful but not dominant. Costs 3 PP (same as Steady Blade).
+- **Talent count.** Combat Talents goes from 10 to 11. Within tolerance; original design target was "~10 per table", not a hard cap.
+
+**Side fix - Warlord's Eye.** The existing Warlord's Eye talent referenced "+20% to their initiative roll this round" - but WSR initiative is determined by DEX order (descending in Phase Three, reverse in Phase One Statements), not by a roll. The "+20%" was a pre-existing inconsistency from BRP-era language. Replaced with "+5 effective DEX for initiative order this round" to match WSR's actual mechanic and Battle Tempo's wording. Critical effect now applies to every ally rather than the slightly ambiguous "the entire party".
+
+**Implications:**
+
+- P2 §7.1: 11 Combat Talents now (was 10). Battle Tempo inserted after Warlord's Eye to group the two initiative-themed talents.
+- P5 combat phases unchanged.
+- No new Fate Point spend - the menu remains at nine.
+- "Initiative roll" was the only legacy phrase of its kind; no other chapter referenced it.
+
+---
+
 ## 2026-05-12 - Critical Buy reframed as Fate Point spend; Push Through added; PP-buy terminology retired
 
 **Context:** User review of P4 Action Resolution flagged that Fate Points were "mentioned in the GM section under mass combat rules but not in action resolution" - reading sequentially through P4 §1-§3, they hit the PP-Buy mechanic before the Fate Point system in §6-§7. They observed: "Converting a Success to a Critical is probably a Fate Point system but we would need to consider how it would interact with the other rules there." The PP-Buy was technically a Fate Point spend (same pool, same flavour) but labelled as a separate system, which created a reading-order confusion.

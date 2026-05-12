@@ -383,7 +383,9 @@ Requires a martial profession or equivalent background.
 
 **Steel Rain.** 4 PP. When using a missile weapon, fire or throw two projectiles this round, each at -10% to the normal skill. Both projectiles must target the same opponent. Declare at the start of the round, before initiative.
 
-**Warlord's Eye.** 2 PP. You may make a Strategy roll as a free action at the start of combat. On a success, you or one ally of your choice gains +20% to their initiative roll this round. On a critical, apply this to the entire party.
+**Warlord's Eye.** 2 PP. You may make a Strategy roll as a free action at the start of combat. On a success, you or one ally of your choice gains +5 effective DEX for initiative order this round. On a critical, apply this to every ally.
+
+**Battle Tempo.** 3 PP. Declare before Phase One Statements. For this round, treat your DEX as +5 for initiative order only. The bonus does not affect skill rolls, Dodge, or damage modifier - it changes the order in which you declare and act, nothing more. Once per combat.
 
 **Throat of the Wolf.** 3 PP. Spend after taking a wound that would reduce you to or below your Major Wound threshold. Make a CON roll; on a success, the Major Wound does not trigger this round - you continue fighting, though you still take the damage. The Major Wound triggers as normal at the start of the next round.
 
