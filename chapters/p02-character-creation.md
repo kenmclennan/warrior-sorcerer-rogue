@@ -716,7 +716,7 @@ The significant possession is not a mechanical item with stats. It is an anchor.
 
 ### 13.1 Name and Physical Description
 
-Choose a name and note two or three physical markers. At the player's option, note one or two distinctive features - visible marks of adventure, background, or personality. These are cosmetic unless the player and GM agree otherwise.
+Choose a name and note two or three physical markers. **PA4 Names** provides ten male and ten female sample names for each Cultural Background; use them as a starting palette or invent your own. At the player's option, note one or two distinctive features - visible marks of adventure, background, or personality. These are cosmetic unless the player and GM agree otherwise.
 
 > Appropriate distinctive features include: visible scars (location and cause), ritual scarification, tattoos, missing digits from an oath kept too literally, an arcane brand (sorcerers only), a crooked nose, unusual colouring, a distinctive manner of movement or stillness.
 
