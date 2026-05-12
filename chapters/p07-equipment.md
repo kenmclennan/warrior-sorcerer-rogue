@@ -1,11 +1,5 @@
 # P7. Equipment
 
-> _"He needed a sword, a full skin of wine, and a horse fast enough to leave this city behind. The sword he could steal. The wine he could earn. The horse was the problem."_
-
-Gear reference for Warrior \* Sorcerer \* Rogue. Currency, weapons, armour, shields, mundane supplies, mounts, vehicles, watercraft, hirelings, encumbrance, and sorcery-adjacent equipment rules. All gear reflects an ancient-world register: bronze and iron age, Mediterranean, Levantine, Mesopotamian, Persian, and Steppe cultures.
-
----
-
 ## 1. Currency
 
 ### 1.1 Coins
