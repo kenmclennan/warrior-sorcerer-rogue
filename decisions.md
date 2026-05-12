@@ -12,6 +12,27 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Character generation simplified: Choose Placement is the only method
+
+**Context:** The 2026-05-11 decision added Method B (Choose Placement) as an optional alternative to Method A (Rolled in Order). On further reflection, the user chose to simplify by making the choose-placement method the default and only method, removing Method A entirely. **This entry supersedes the 2026-05-11 "two methods" entry.**
+
+**Decision:** P2 §2.1 now offers a single method:
+
+- Roll 3D6 seven times.
+- Assign each result to a characteristic of your choice.
+- SIZ and INT may not be set below 8.
+
+Method A (in-order rolling with 3-point redistribution) is removed.
+
+**Reasoning:** Per `design.md` §3.1 ("focused, opinionated extraction; the books are opinionated"). Offering two methods adds choice without proportional payoff - players read both, compare, then pick. A single clean method respects the reader's time and reinforces WSR's directness. The chosen method gives players agency over placement, produces no power-level difference from the in-order method, and is faster to teach.
+
+**Implications for downstream work:**
+
+- No other chapter affected. Combat, sorcery, equipment, and chargen-downstream steps read the same final characteristic values.
+- The 2026-05-11 entry remains in this log per the append-only convention but is superseded.
+
+---
+
 ## 2026-05-10 - Publishing pipeline: GitHub Actions to GitHub Pages (deferred to Phase 3)
 
 **Context:** Phase 2 produces Markdown chapters only (per user direction). The question of how to publish them surfaced when the chapters were complete. User preference: GitHub Actions building a styled site to GitHub Pages, rather than local PDF generation.
