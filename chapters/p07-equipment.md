@@ -199,7 +199,7 @@ Armour provides **Armour Points (AP)** - a flat reduction applied to any damage 
 
 Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Climb, Brawl, Dodge, Move Quietly, Swim, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §12.1).
 
-**Layering:** Soft armour (leather, padded, gambeson) may be worn under hard armour. Add their AP values. However, layering adds the ENC of both pieces, and any skill modifier from the outer armour is used at full (not combined). Layering hard armour under hard armour is impractical and not supported.
+**Layering:** Soft armour (leather, padded, linen cuirass) may be worn under hard armour. Add their AP values. However, layering adds the ENC of both pieces, and any skill modifier from the outer armour is used at full (not combined). Layering hard armour under hard armour is impractical and not supported.
 
 ### 3.2 Putting On and Removing Armour
 
@@ -212,24 +212,23 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 
 ### 3.3 Armour Table
 
-| Armour               | AP  | ENC | Skill Modifier | Notes                                       | Cost        |
-| -------------------- | --- | --- | -------------- | ------------------------------------------- | ----------- |
-| Heavy Clothing       | 1   | 2   | None           | Padded wool or linen layers                 | Cheap       |
-| Padded/Quilted       | 1   | 3   | None           | Linen or wool quilting                      | Inexpensive |
-| Gambeson, Heavy      | 2   | 4   | -5%            | Thick quilted coat; good padding            | Inexpensive |
-| Leather, Soft        | 1   | 3   | None           | Tanned hide; flexible                       | Inexpensive |
-| Leather, Hard        | 2   | 5   | -10%           | Hardened, shaped hide                       | Average     |
-| Leather, Cuirbouilli | 3   | 5   | -10%           | Boiled, moulded leather; often ornate       | Expensive   |
-| Linothorax           | 3   | 4   | -5%            | Layers of linen glued rigid; Greek/Egyptian | Average     |
-| Hide                 | 1   | 3   | None           | Raw or cured animal hide                    | Cheap       |
-| Ring                 | 4   | 9   | -10%           | Bronze rings sewn to leather backing        | Average     |
-| Scale, Bronze        | 5   | 10  | -15%           | Overlapping bronze scales                   | Average     |
-| Lamellar, Bronze     | 5   | 11  | -15%           | Laced bronze plates; Mesopotamian, Persian  | Expensive   |
-| Mail, Bronze         | 5   | 9   | -15%           | Interlocked bronze rings                    | Expensive   |
-| Mail, Iron           | 6   | 9   | -15%           | Interlocked iron rings; rare                | Expensive   |
-| Breastplate, Bronze  | 5   | 6   | -10%           | Chest and back only; heroic aesthetic       | Expensive   |
-| Plate, Half          | 6   | 18  | -20%           | Arms, legs, torso plates; military elite    | Expensive   |
-| Plate, Full          | 7   | 24  | -25%           | Complete plate coverage; court knights      | Expensive   |
+| Armour               | AP  | ENC | Skill Modifier | Notes                                                      | Cost        |
+| -------------------- | --- | --- | -------------- | ---------------------------------------------------------- | ----------- |
+| Heavy Clothing       | 1   | 2   | None           | Padded wool or linen layers                                | Cheap       |
+| Padded/Quilted       | 1   | 3   | None           | Linen or wool quilting                                     | Inexpensive |
+| Linen Cuirass, Heavy | 2   | 4   | -5%            | Thick quilted linen coat; good padding                     | Inexpensive |
+| Leather, Soft        | 1   | 3   | None           | Tanned hide; flexible                                      | Inexpensive |
+| Leather, Hard        | 2   | 5   | -10%           | Hardened, shaped hide                                      | Average     |
+| Leather, Boiled      | 3   | 5   | -10%           | Boiled, moulded leather; often ornate                      | Expensive   |
+| Linothorax           | 3   | 4   | -5%            | Layers of linen glued rigid; Greek/Egyptian                | Average     |
+| Hide                 | 1   | 3   | None           | Raw or cured animal hide                                   | Cheap       |
+| Ring                 | 4   | 9   | -10%           | Bronze rings sewn to leather backing                       | Average     |
+| Scale, Bronze        | 5   | 10  | -15%           | Overlapping bronze scales                                  | Average     |
+| Lamellar, Bronze     | 5   | 11  | -15%           | Laced bronze plates; Mesopotamian, Persian                 | Expensive   |
+| Mail, Bronze         | 5   | 9   | -15%           | Interlocked bronze rings                                   | Expensive   |
+| Mail, Iron           | 6   | 9   | -15%           | Interlocked iron rings; rare                               | Expensive   |
+| Breastplate, Bronze  | 5   | 6   | -10%           | Chest and back only; heroic aesthetic                      | Expensive   |
+| Cataphract Suit      | 6   | 18  | -20%           | Heavy lamellar over scale; Persian/Sassanian elite cavalry | Expensive   |
 
 **Linothorax:** Layers of linen cloth glued together until stiff. Worn by Greek hoplites and Egyptian soldiers. Lighter than scale but provides surprisingly effective protection against slashing blows.
 
@@ -237,7 +236,7 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 
 **Breastplate:** Covers chest and back only; it is paired with other armour (leather arms, helmet). Worn as status armour by heroes and commanders. Its AP applies only to torso hits; the GM may rule a hit to an unarmoured limb receives less protection.
 
-**Full and Half Plate:** These are the equipment of the most powerful and wealthy soldiers - court knights, elite cataphracts, a king's household guard. At the GM's discretion, full plate may not be readily available outside major cities.
+**Cataphract Suit:** The heavy lamellar-and-scale armour of Persian and Sassanian elite cavalry. Full-body coverage achieved by layering lamellar plates over an under-suit of scale - the suit is heavy and exhausting to wear, but it turns most blows. At the GM's discretion, a complete cataphract suit may only be available in the great empires of the East.
 
 ### 3.4 Helmets
 
@@ -265,15 +264,15 @@ Shields are both defensive tools and weapons. They provide Armour Points when us
 
 ### 4.1 Shield Table
 
-| Shield           | AP  | HP  | ENC | Parry Bonus | STR/DEX | Notes                                  | Cost    |
-| ---------------- | --- | --- | --- | ----------- | ------- | -------------------------------------- | ------- |
-| Buckler          | 4   | 9   | 1   | +5%         | 5/7     | Small arm-strapped disc                | Average |
-| Target Shield    | 6   | 12  | 2   | +10%        | 7/7     | Standard round shield                  | Average |
-| Hoplon           | 8   | 16  | 3   | +15%        | 12/8    | Greek phalanx shield; formation use    | Average |
-| Scutum           | 9   | 18  | 4   | +15%        | 11/9    | Curved rectangular; good body cover    | Average |
-| Kite Shield      | 8   | 16  | 4   | +15%        | 11/9    | Elongated; cavalry use                 | Average |
-| Tower Shield     | 10  | 22  | 5   | +10%        | 13/9    | Full-body; -10% movement penalties     | Average |
-| Primitive Shield | 4   | 10  | 2   | +5%         | 5/7     | Wood frame and hide; barbaric cultures | Cheap   |
+| Shield       | AP  | HP  | ENC | Parry Bonus | STR/DEX | Notes                                      | Cost        |
+| ------------ | --- | --- | --- | ----------- | ------- | ------------------------------------------ | ----------- |
+| Buckler      | 4   | 9   | 1   | +5%         | 5/7     | Small arm-strapped disc                    | Average     |
+| Pelta        | 4   | 8   | 1   | +5%         | 5/9     | Light crescent shield; Thracian skirmisher | Inexpensive |
+| Hide Shield  | 4   | 10  | 2   | +5%         | 5/7     | Wood frame and hide; tribal cultures       | Cheap       |
+| Round Shield | 6   | 12  | 2   | +10%        | 7/7     | Standard round shield                      | Average     |
+| Hoplon       | 8   | 16  | 3   | +15%        | 12/8    | Greek phalanx shield; formation use        | Average     |
+| Scutum       | 9   | 18  | 4   | +15%        | 11/9    | Curved rectangular; good body cover        | Average     |
+| Pavise       | 10  | 22  | 5   | +10%        | 13/9    | Tall body-shield; -10% movement penalties  | Average     |
 
 **Parry Bonus:** Add this percentage to the Shield skill when making a Parry action with this shield. The Shield skill default is 15% (see P3).
 

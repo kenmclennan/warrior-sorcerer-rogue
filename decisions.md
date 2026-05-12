@@ -12,6 +12,63 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P7 armour and shields: cull post-period entries; rename medieval-term entries; add Cataphract Suit and Pelta
+
+**Context:** User reviewed P7 §3 (Armour) and §4 (Shields) for anachronisms after the weapons cull.
+
+**Anachronisms found:**
+
+Armour:
+
+- Plate, Half and Plate, Full - late medieval / Renaissance European (~14-15th c.); no ancient precedent.
+- Gambeson, Heavy - "Gambeson" is medieval European terminology.
+- Leather, Cuirbouilli - _cuir bouilli_ is medieval French; the boiled-leather technique is ancient but the name isn't.
+
+Shields:
+
+- Kite Shield - distinctively Norman/medieval European (~11-13th c.); not an ancient form.
+- Tower Shield - medieval term; ancient cousins exist but the name pulls modern.
+- Primitive Shield - "Primitive" reads patronising (same issue as the old Primitive Missile Weapons heading).
+- Target Shield - "Target" specifically refers to small medieval/early modern round shield.
+
+**Decision:**
+
+Armour:
+
+- **REMOVE:** Plate, Half / Plate, Full. Plate armour didn't exist in antiquity. Greek/Roman muscle cuirasses (already covered by Breastplate, Bronze) gave torso plate; Persian cataphracts had heavy lamellar/scale full-coverage but not articulated plate.
+- **RENAME:** Gambeson, Heavy -> **Linen Cuirass, Heavy** (the garment existed in antiquity as quilted linen protection; just rename).
+- **RENAME:** Leather, Cuirbouilli -> **Leather, Boiled** (descriptive, period-neutral; technique is ancient).
+- **ADD:** **Cataphract Suit** (AP 6, ENC 18, -20% skill mod). Heavy lamellar over scale; Persian/Sassanian elite cavalry. Fills the heavy-coverage niche that Plate, Half occupied.
+
+Shields:
+
+- **REMOVE:** Kite Shield.
+- **RENAME:** Tower Shield -> **Pavise**; Primitive Shield -> **Hide Shield**; Target Shield -> **Round Shield**.
+- **ADD:** **Pelta** (AP 4, HP 8, ENC 1, +5% parry, STR/DEX 5/9, Inexpensive). Light crescent shield used by Thracian and Greek skirmishers (peltasts). Fills the light-shield niche alongside Buckler with a more cultural-specific option.
+
+**Files updated:**
+
+- P7 §3.1 Layering prose: "leather, padded, gambeson" -> "leather, padded, linen cuirass".
+- P7 §3.3 Armour Table: 4 changes (2 removes, 2 renames, 1 add).
+- P7 §3.3 prose: "Full and Half Plate" note replaced with **Cataphract Suit** note.
+- P7 §4.1 Shield Table: 5 changes (1 remove, 3 renames, 1 add).
+
+**Reasoning:**
+
+- Sword & sorcery is Bronze Age / Iron Age in flavour. Plate armour pulls straight to medieval / Renaissance European warfare, breaking the genre's tonal anchoring.
+- Renames preserve the gear that actually existed in antiquity but uses period-appropriate names. Quilted linen armour existed widely (Egyptian, Persian, Indian, Greek); the term "gambeson" doesn't.
+- Cataphract Suit is the genuine ancient equivalent of "knight in heavy armour" - the Persian Immortals and Sassanian cataphracts were the heavy cavalry of antiquity. It's a single entry covering the role that "half plate" was trying to fill.
+- Pelta is a small genre-flavourful add - useful for Thracian-style skirmishers and the Horse Folk archetype.
+
+**Implications:**
+
+- Armour table net: -2 removed, +1 added = 15 entries (was 16).
+- Shield table net: -1 removed, +1 added = 7 entries (was 7, but with cleaner names and one new option).
+- No bestiary, profession bundle, or talent prerequisite uses any of the removed/renamed items.
+- The "Full and Half Plate" prose paragraph replaced with Cataphract Suit description in §3.3.
+
+---
+
 ## 2026-05-12 - P7 missile weapons: merge Primitive/Historic subsections into one table
 
 **Context:** User reviewing P7 §2.3 flagged that the "Primitive Missile Weapons" / "Historic Missile Weapons" subsection split was an odd distinction. After the crossbow drop, the "Historic" subsection had only three entries (Bow Composite, Bow Long, Throwing Knife), making the split feel arbitrary.
