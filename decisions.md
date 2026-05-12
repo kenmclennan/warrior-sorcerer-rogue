@@ -12,6 +12,52 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Severity band redistribution (1-2-2-2-2); 01 = best reachable band; supersedes earlier 01 -> A rule
+
+**Context:** User reviewing the combat chapter flagged two related issues with P5 §10.2 "Determine the Severity Band":
+
+1. **P5 §10.2 was stale.** It had an old band split (11=A, 22=B, 33=C, 44=D, 55=E, 66-88=E) that never reconciled with PA1 §1.2 (44/55=D, 66-99=E) after the 99 addition earlier today.
+2. **PA1's distribution was E-heavy.** Pattern was 1-1-1-2-4 (one each in A/B/C, two at D, four at E). At skill 80+, ~44% of natural crits landed Band E (the deadliest band). User: "66 is an odd cut off point that makes most criticals likely to be the E band, which is the deadliest."
+3. **01 missing from P5 §10.2 entirely** (an inconsistency carried over since the 01 always-crit rule was added).
+
+**Decision:** Redistribute the matching-dice -> band mapping to a balanced **1-2-2-2-2** pattern:
+
+| Matching-Dice Value | Band |
+| ------------------- | ---- |
+| 11                  | A    |
+| 22, 33              | B    |
+| 44, 55              | C    |
+| 66, 77              | D    |
+| 88, 99              | E    |
+
+**01 always-crit rule (supersedes today's earlier "01 -> A flat" decision).** A roll of 01 is always a Critical Success, with severity band = the highest band the character could otherwise reach at their effective skill (skill after difficulty modifiers). A novice's lucky shot is mild; a master's lucky shot is devastating. Difficulty halves effective skill, so a Difficult lucky shot caps lower than an unmodified one.
+
+**Lookup table added to PA1 §1.2.** Full skill-vs-value matrix included so GMs can determine bands by direct lookup. Rows are effective-skill ranges; columns are matching-dice values plus an "01" column for the always-crit band; cells show the resulting band (or "-" for fumble-above-skill).
+
+**Reasoning:**
+
+- **Distribution balance.** At skill 99+ (max), the new pattern gives 1 A + 2 B + 2 C + 2 D + 2 E = 9 crit values across the bands. Compare old: 1+1+1+2+4 = 9. The old curve made Band E (the deadliest) overwhelmingly common at high skill; the new curve smooths it.
+- **Band E now meaningfully gated.** Band E requires matching 88 or 99 - skill 88+ is required to crit on 88 naturally, skill 99+ to crit on 99. The training cap (75%) means PCs reach Band E only through in-play experience, sharpening the reward for skill investment past the trainer ceiling.
+- **01 effective-skill rule preserves the always-crit's "lucky shot" sense while making it skill-rewarding.** A flat 01 -> A was anticlimactic for masters. The new rule lets the 01 land at whatever band the character's effective skill already grants access to - the lucky shot reaches the master's full potential, not the bare minimum.
+- **Skill thresholds align cleanly with band-mapping thresholds.** Effective skill 11-21 -> Band A only; 22-43 -> up to B; 44-65 -> up to C; 66-87 -> up to D; 88+ -> up to E. Easy to remember.
+
+**Files updated:**
+
+- P1 §2 (combat overview band-mapping reference): full band list + 01 rule explanation.
+- P5 §10.2 (Determine the Severity Band): new table, 01 rule, Critical Buy example corrected (44 = C, not D).
+- PA1 §1.2 (canonical band mapping): new table, 01 rule, full skill-vs-value lookup table added.
+- PA1 §1 worked example (Korrath's hypothetical): "If Korrath had rolled 44, he would be in Band D" -> "Band C".
+- PA2 multi-round combat example (Khess's Critical Buy on Davan): band updated D -> C, result quote replaced with actual PA1 Band C Pierce result 5, damage math adjusted (1D4 rolled max instead of 2; +5 bonus instead of +7; total 11 unchanged), bleed removed from narrative (not in Band C result 5), First Aid scene updated to "HP 1, helpless from lung-puncture, gravely wounded prisoner" rather than "unconscious and dying" (which depended on the bleeding cascade).
+- decisions.md: this entry, which supersedes the band split and the 01 -> A rule from earlier today's "Combat resolution clarification" entry.
+
+**Implications:**
+
+- PA1 critical hit table CONTENT is unchanged (the Slash/Pierce/Krush tables at each band still have the same entries). Only the mapping of matching-dice value -> band changes.
+- Combat lethality at high skill goes down meaningfully. Skill-80 fighters cap at Band D unless they pay PP to buy higher (and even buying requires the value to be within skill, so they still cap at D until they have skill 88+).
+- 01 always-crit becomes a more interesting design element - scaling with skill instead of flat.
+
+---
+
 ## 2026-05-12 - Renamed NPC tier "Mook" -> "Rabble"
 
 **Context:** User reviewing the combat chapter flagged that "Mook" is Damon Runyon / Cagney-era American slang - very 1920s pulp, the wrong register for sword & sorcery. Howard, Leiber, and Moorcock all reach for different vocabulary for disposable foes.

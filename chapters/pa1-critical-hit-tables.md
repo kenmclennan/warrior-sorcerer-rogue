@@ -26,14 +26,32 @@ Five severity bands, A through E. The severity band is determined by which match
 
 | Matching-Dice Value | Band |
 | ------------------- | ---- |
-| 01 (always-crit)    | A    |
 | 11                  | A    |
-| 22                  | B    |
-| 33                  | C    |
-| 44 or 55            | D    |
-| 66, 77, 88, or 99   | E    |
+| 22, 33              | B    |
+| 44, 55              | C    |
+| 66, 77              | D    |
+| 88, 99              | E    |
 
-A character with skill 20-29 can only reach Band A or Band B via matching dice (plus the 01 always-crit, which is also Band A). A fighter with skill 80+ has access to all five bands. Skill 99+ is the only rating at which a rolled 99 becomes a Band E critical rather than a fumble.
+**The 01 always-crit special case.** A roll of 01 is always a Critical Success (P4 §2.1). Its severity band is the highest band the character could otherwise reach via matching dice at their effective skill (skill after difficulty modifiers): the 01 crit lands in the same band that the character's best regular crit would land. A novice's lucky shot is mild; a master's lucky shot is devastating.
+
+**Skill vs matching-dice lookup.** Use this table to determine the band for any critical, including the 01 always-crit:
+
+| Effective Skill | **01** | 11  | 22  | 33  | 44  | 55  | 66  | 77  | 88  | 99  |
+| --------------- | ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ≤10             | A      | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 11-21           | A      | A   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 22-32           | B      | A   | B   | -   | -   | -   | -   | -   | -   | -   |
+| 33-43           | B      | A   | B   | B   | -   | -   | -   | -   | -   | -   |
+| 44-54           | C      | A   | B   | B   | C   | -   | -   | -   | -   | -   |
+| 55-65           | C      | A   | B   | B   | C   | C   | -   | -   | -   | -   |
+| 66-76           | D      | A   | B   | B   | C   | C   | D   | -   | -   | -   |
+| 77-87           | D      | A   | B   | B   | C   | C   | D   | D   | -   | -   |
+| 88-98           | E      | A   | B   | B   | C   | C   | D   | D   | E   | -   |
+| 99+             | E      | A   | B   | B   | C   | C   | D   | D   | E   | E   |
+
+Read across the row for the character's effective skill (after any difficulty modifiers); look up the matching-dice value in the columns. Dashes (-) indicate the value exceeds the character's skill - the roll is a fumble (matching dice + failure), not a critical. The **01** column shows the always-crit's band at each skill range.
+
+A character with skill 20-29 can only reach Band A via matching dice (only 11 is within range), plus Band B if their 01 lucky shot fires at skill 22+. A fighter with skill 80 caps at Band D for matching-dice crits and Critical Buys (the highest reachable matching value is 77, which is Band D). Skill 88+ is required to reach Band E - either by rolling 88 or 99 naturally, or by Critical Buy.
 
 ### 1.3 Selecting the Result Within a Band
 
@@ -83,7 +101,7 @@ Band E results can be survived by a PC with PP remaining for a Deflect the Killi
 >
 > Band B, result 7 on the Pierce table reads: "The spearhead buries itself in the outer shoulder; the target's parry arm goes numb - parries Difficult for 3 rounds, and +3 bonus damage." The guard's parries are halved for three rounds. The GM applies the bonus damage immediately on top of the spear's base damage roll.
 >
-> If Korrath had rolled 44, he would be in Band D. If he had rolled a plain 37 (success, no matching dice), there is no critical at all - ordinary success only.
+> If Korrath had rolled 44, he would be in Band C. If he had rolled a plain 37 (success, no matching dice), there is no critical at all - ordinary success only.
 
 ---
 

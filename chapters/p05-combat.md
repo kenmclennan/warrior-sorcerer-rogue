@@ -351,16 +351,19 @@ Some weapons may fall into more than one type (a falchion used for a hacking cut
 
 The severity band (A through E) is determined by the matching-dice value that triggered or was bought into the critical:
 
-| Matching-dice value | Severity band                                                                 |
-| ------------------- | ----------------------------------------------------------------------------- |
-| 11                  | A (least severe)                                                              |
-| 22                  | B                                                                             |
-| 33                  | C                                                                             |
-| 44                  | D                                                                             |
-| 55                  | E (most severe, within normal success range)                                  |
-| 66, 77, 88          | E (accessible only to characters with skill 66, 77, 88 or above respectively) |
+| Matching-dice value | Severity band |
+| ------------------- | ------------- |
+| 11                  | A             |
+| 22, 33              | B             |
+| 44, 55              | C             |
+| 66, 77              | D             |
+| 88, 99              | E             |
 
-A Critical Buy uses the purchased value. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is D. See PA1 §1 for the full lethality gradient.
+A higher matching-dice value is only accessible to characters whose skill (after any difficulty modifiers) is at least that value: a fighter with Sword 50 cannot crit on 66 or higher, because 66 exceeds their skill - those rolls are fumbles instead.
+
+**01 always-crit.** A roll of 01 is always a Critical Success (P4 §2.1). Its severity band is the highest band the character could otherwise reach via matching dice at their effective skill (skill after difficulty modifiers): the 01 lucky shot lands in the same band that the character's best regular crit would land. A novice's lucky shot is mild; a master's lucky shot is devastating. See PA1 §1.2 for the full skill-vs-value lookup table.
+
+**Critical Buy.** A Critical Buy uses the purchased value. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is C. See PA1 §1 for the full lethality gradient.
 
 ### 10.3 Find the Roll
 

@@ -293,15 +293,15 @@ She moves from the entry of the alley to Davan's flank (Short Move - no DEX pena
 
 > Is 47 a matching-dice value? No (matching values are 11, 22, 33, 44, 55, 66, 77, 88). It is a normal success.
 >
-> Khess's player considers a Critical Buy. The nearest matching value below 47 within her skill (62%) is 44. Cost: 47 - 44 = **3 PP.** She has 9 PP remaining (13 - 4 for The Quiet Knife = 9). She pays 3 PP. Her roll is now treated as **44** - a Critical Success. Severity band: 44 = Band D (see PA1 §1.2 and P5 §10.2).
+> Khess's player considers a Critical Buy. The nearest matching value below 47 within her skill (62%) is 44. Cost: 47 - 44 = **3 PP.** She has 9 PP remaining (13 - 4 for The Quiet Knife = 9). She pays 3 PP. Her roll is now treated as **44** - a Critical Success. Severity band: 44 = Band C (see PA1 §1.2 and P5 §10.2).
 
 Khess's player announces: _"She bought that critical. Dagger, Pierce type."_ No defence is available because of The Quiet Knife talent.
 
-The GM rolls 1d10 on the Pierce, Band D table: result is **5**. The entry reads: _"The stiletto finds a gap between ribs and the blade punches into the lung; the target makes a grotesque wet noise when they breathe - stunned for 2 rounds, +7 bonus damage, and bleeds 1 HP per round."_
+The GM rolls 1d10 on the Pierce, Band C table: result is **5**. The entry reads: _"The weapon pierces the lung; +5 bonus damage, stunned for 2 rounds, and the target can hear themselves breathing with a terrible sound."_
 
-Khess rolls dagger damage: 1D4+2 = 2+2 = **4.** Plus +7 bonus damage = **11 total damage.** Davan has HP 12. He takes 11 damage, dropping to HP 1. He is stunned for 2 rounds. He bleeds 1 HP per round.
+Khess rolls dagger damage: 1D4+2 = 4+2 = **6.** Plus +5 bonus damage = **11 total damage.** Davan has HP 12. He takes 11 damage, dropping to HP 1. He is stunned for 2 rounds, his breathing terrible from the lung wound.
 
-> A single blow of 11 damage against Davan's Major Wound threshold (HP/2 = 6) is clearly above it, so a Major Wound has occurred. However, a critical attack's PA1 result supersedes the Major Wounds Table (see P5 §5.2). The PA1 result - punctured lung, stun, bleed - is the wound.
+> A single blow of 11 damage against Davan's Major Wound threshold (HP/2 = 6) is clearly above it, so a Major Wound has occurred. However, a critical attack's PA1 result supersedes the Major Wounds Table (see P5 §5.2). The PA1 result - pierced lung, stunned, terrible breathing - is the wound.
 
 **Davan acts (DEX 15).** He is stunned. A stunned character cannot attack (see PA1 §1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
 
@@ -336,7 +336,7 @@ The GM rolls 1d10 on Pierce, Band B: result is **3**. The entry reads: _"The bla
 
 Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Rabble B's half-HP threshold is 5. 9 exceeds 5. **Rabble B is automatically incapacitated.** He drops to the cobblestones, arm hanging useless.
 
-**Orryn acts (DEX 13).** Both Rabble are down. He moves to Davan, verifies he is unconscious and dying, and delivers First Aid. First Aid 40%: he rolls **28.** Success. He stabilises Davan - the bleeding stops, Davan is alive, and is now a prisoner. The party has someone to question.
+**Orryn acts (DEX 13).** Both Rabble are down. He moves to Davan, who is at HP 1, gravely wounded and labouring to breathe from the lung-puncture. He delivers First Aid. First Aid 40%: he rolls **28.** Success. He binds the wound and stabilises Davan - alive at HP 1, helpless, and now a prisoner. The party has someone to question.
 
 ---
 
@@ -357,8 +357,8 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 - **Strike Ranks / Initiative** (P5 §1): DEX order determined who declared last and acted first. Khess's DEX 18 was a meaningful advantage.
 - **Rabble incapacitation** (P5 §8): Both Rabble went down in a single hit each, without consulting the Major Wounds Table. The fight resolved quickly.
 - **The Quiet Knife talent** (P2 §7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
-- **Critical Buy** (P4 §3): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band D critical. This is the primary driver of the fight's decisive moment.
-- **PA1 lookup** (PA1 §3): Band D Pierce, 1d10 = 5. Result: punctured lung, stun, bleed. Read aloud, resolved immediately.
+- **Critical Buy** (P4 §3): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
+- **PA1 lookup** (PA1 §3): Band C Pierce, 1d10 = 5. Result: pierced lung, stunned 2 rounds, terrible breathing. Read aloud, resolved immediately.
 - **Fate Point: not spent** - Davan was reduced to 0 HP before he could spend PP on Deflect the Killing Blow (which requires minimum 8 PP; he had 9). His player chose not to spend, because it would leave him alive with 1 HP and surrounded by enemies.
 - **Dying Blow** (P5 §9): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
 - **Corruption roll** (P6 §3.3): Karash cast a low-intensity spell and succeeded his Corruption roll. Nothing lost this round.
