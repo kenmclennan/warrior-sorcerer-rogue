@@ -217,11 +217,11 @@ The rough shape of Phase 3:
 
 7. **Encumbrance: STR-based, 4-band penalty system** (P7 §11). ENC values listed for significant items; trivial items accumulate at 10:1. Light tracking, suitable for theatre-of-mind.
 
-8. **Literacy: 0% base, mandatory specialty-by-script** (P3 Literacy entry).
+8. **Literacy: 0% base, mandatory speciality-by-script** (P3 Literacy entry).
 
-9. **Martial Arts specialties** named after ancient-world traditions (Pankration, Kalaripayattu, etc.) rather than modern names.
+9. **Martial Arts specialities** named after ancient-world traditions (Pankration, Kalaripayattu, etc.) rather than modern names.
 
-10. **Ride absorbs Chariot driving** (specialty: Chariot driver). Drive (vehicle) skill dropped cleanly.
+10. **Ride absorbs Chariot driving** (speciality: Chariot driver). Drive (vehicle) skill dropped cleanly.
 
 **Reasoning:** All decisions consistent with locked design.md and prior decisions.md entries. The band mapping in particular is load-bearing for the Combat Resolution decision and is now needed for any chapter that interacts with criticals.
 

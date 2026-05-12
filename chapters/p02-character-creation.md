@@ -179,7 +179,7 @@ Born in the saddle on the wind-scoured grasslands. Horses are wealth; hospitalit
 Forests and coasts far from the warm seas. Clans, blood debts, long winters, and the gods who live in the storm. Warriors and hunters who enter the cities as foreigners, fighters-for-hire, and occasional raiders.
 
 **Starting language:** A northern tongue of the player's or GM's choice (INT x5)
-**Cultural skills:** Climb +10%, Knowledge (Folklore) +10%, Survival +15%, Melee Weapon (Axe or Sword, one specialty) +15%
+**Cultural skills:** Climb +10%, Knowledge (Folklore) +10%, Survival +15%, Melee Weapon (Axe or Sword, one speciality) +15%
 **Common items:** Heavy wool cloak, leather bracers, hand axe or broadsword
 **Demeanour:** Blunt, physical, prone to taking offense at slights that a city dweller would not notice
 
@@ -283,7 +283,7 @@ Rider-warrior of the elite corps: trained to handle a war-chariot under combat c
 
 **Wealth:** Affluent
 **Reputation start:** 15%
-**Profession skills:** Brawl, Craft (Carpentry or Metalworking), Dodge, Drive (Chariot via Ride specialty), Listen, Melee Weapon (Spear), Missile Weapon (Bow, Composite), Ride (Chariot), Spot, Strategy, one of: Command / Persuade, one of: Status / Knowledge (Politics)
+**Profession skills:** Brawl, Craft (Carpentry or Metalworking), Dodge, Drive (Chariot via Ride speciality), Listen, Melee Weapon (Spear), Missile Weapon (Bow, Composite), Ride (Chariot), Spot, Strategy, one of: Command / Persuade, one of: Status / Knowledge (Politics)
 
 ---
 
@@ -335,7 +335,7 @@ Sells blood for entertainment in the pit, the ring, or the arena. Could be war-c
 
 **Wealth:** Poor (the money goes to the lanista, the organiser, the betting pools)
 **Reputation start:** 15%
-**Profession skills:** Brawl, Command, Dodge, Etiquette (Underworld), First Aid, Grapple, Insight, Melee Weapon (two specialties), Parry (as primary weapon), Spot, one of: Shield / Missile Weapon (Net)
+**Profession skills:** Brawl, Command, Dodge, Etiquette (Underworld), First Aid, Grapple, Insight, Melee Weapon (two specialities), Parry (as primary weapon), Spot, one of: Shield / Missile Weapon (Net)
 
 ---
 

@@ -122,14 +122,14 @@ _(Total profession points spent: 325.)_
 
 The player spreads these across skills, choosing what Khess picked up outside her formal criminal career. No skill may be raised above 75%.
 
-| Skill                           | Points Spent | Resulting Total                       |
-| ------------------------------- | ------------ | ------------------------------------- |
-| Dagger (Melee Weapon specialty) | +35          | 20% base + 7% cat + 35 = **62%**      |
-| Parry (Dagger)                  | +25          | 10% base + 7% cat + 25 = **42%**      |
-| Swim                            | +20          | 25% base + 6% cat + 20 = **51%**      |
-| Language (Greek)                | +15          | 0% base + 20% cultural + 15 = **35%** |
-| Knowledge (Streetwise)          | +20          | 01% base + 7% cat + 20 = **28%**      |
-| Listen                          | +25          | 25% base + 6% cat + 25 = **56%**      |
+| Skill                            | Points Spent | Resulting Total                       |
+| -------------------------------- | ------------ | ------------------------------------- |
+| Dagger (Melee Weapon speciality) | +35          | 20% base + 7% cat + 35 = **62%**      |
+| Parry (Dagger)                   | +25          | 10% base + 7% cat + 25 = **42%**      |
+| Swim                             | +20          | 25% base + 6% cat + 20 = **51%**      |
+| Language (Greek)                 | +15          | 0% base + 20% cultural + 15 = **35%** |
+| Knowledge (Streetwise)           | +20          | 01% base + 7% cat + 20 = **28%**      |
+| Listen                           | +25          | 25% base + 6% cat + 25 = **56%**      |
 
 _(Total personal points spent: 140.)_
 

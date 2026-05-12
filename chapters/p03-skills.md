@@ -1,7 +1,5 @@
 # Skills
 
-> _"He was what his life had made him: a fighting man, a thief, a wanderer, a lover, a man of many tongues and a thousand guises."_
-
 Skills are expressed as percentile ratings - roll equal to or less than the skill to succeed. This chapter is the full skill reference. For the mechanics of rolling - outcome tiers, criticals, fumbles, the PP-buy - see P4.
 
 ---
@@ -22,17 +20,17 @@ Every skill has a **base chance** - the starting rating before character creatio
 
 ---
 
-## 2. Specialty Skills
+## 2. Speciality Skills
 
-Many skills have specialties - sub-categories representing distinct techniques, traditions, or subjects. A character's rating in a specialty is independent of any other specialty within the same skill.
+Many skills have specialities - sub-categories representing distinct techniques, traditions, or subjects. A character's rating in a speciality is independent of any other speciality within the same skill.
 
-**Learning a specialty.** Specialties are learned separately. Skill points and experience improve one named specialty, not the skill as a whole.
+**Learning a speciality.** Specialities are learned separately. Skill points and experience improve one named speciality, not the skill as a whole.
 
-**Cross-specialty rolls.** If a character needs to use a specialty they have not specifically trained, they may attempt it at half the rating of their nearest related specialty, rounded up. A swordsman forced to use an axe rolls at half their Melee Weapon (Sword) rating. A character with no related specialty uses the base chance only.
+**Cross-speciality rolls.** If a character needs to use a speciality they have not specifically trained, they may attempt it at half the rating of their nearest related speciality, rounded up. A swordsman forced to use an axe rolls at half their Melee Weapon (Sword) rating. A character with no related speciality uses the base chance only.
 
-**Specialty notation.** Skills with specialties are written with parentheses in this chapter: **Melee Weapon (Sword)**, **Knowledge (Occult)**, **Language (Aramaic)**. When a skill entry says "(various)" in its name heading, this means specialties are required - there is no rating in Craft as a whole, only in Craft (Blacksmithing), Craft (Weaving), and so on.
+**Speciality notation.** Skills with specialities are written with parentheses in this chapter: **Melee Weapon (Sword)**, **Knowledge (Occult)**, **Language (Aramaic)**. When a skill entry says "(various)" in its name heading, this means specialities are required - there is no rating in Craft as a whole, only in Craft (Blacksmithing), Craft (Weaving), and so on.
 
-**Specialty lists.** Fixed and short lists appear under the skill entry. Open-ended lists (Language, Knowledge, Craft, Art) give guidance and typical examples; the full list is whatever is relevant to the campaign.
+**Speciality lists.** Fixed and short lists appear under the skill entry. Open-ended lists (Language, Knowledge, Craft, Art) give guidance and typical examples; the full list is whatever is relevant to the campaign.
 
 ---
 
@@ -96,11 +94,11 @@ Roll Appraise when a character inspects something unfamiliar and needs a reliabl
 
 _(Manipulation, base 05%)_
 
-Creating works of visual art, literature, or oratory. A successful roll produces competent work. Specialty determines the medium; a character's Art (Calligraphy) rating says nothing about their Art (Sculpture) rating.
+Creating works of visual art, literature, or oratory. A successful roll produces competent work. Speciality determines the medium; a character's Art (Calligraphy) rating says nothing about their Art (Sculpture) rating.
 
 Roll Art when producing work that matters - a forgery that must be convincing, a poem offered to a patron, a stone carving intended to survive the centuries.
 
-**Specialties:** Calligraphy, Drawing, Painting, Poetry, Pottery, Sculpture, Writing.
+**Specialities:** Calligraphy, Drawing, Painting, Poetry, Pottery, Sculpture, Writing.
 
 ---
 
@@ -148,11 +146,11 @@ Roll Command in any situation where the character is directing more than one oth
 
 _(Manipulation, base 05%)_
 
-Producing functional objects from raw materials. Each specialty is a distinct trade. A successful roll produces a sound, functional item in the expected time. A critical produces work of exceptional quality - tighter tolerances, finer finish, greater durability.
+Producing functional objects from raw materials. Each speciality is a distinct trade. A successful roll produces a sound, functional item in the expected time. A critical produces work of exceptional quality - tighter tolerances, finer finish, greater durability.
 
 Roll Craft when producing something that must actually work under stress. Routine maintenance, minor repairs, and simple construction in a character's own trade do not require rolls.
 
-**Specialties:** Blacksmithing, Carpentry, Ceramics, Cooking, Leatherworking, Locksmithing, Metallurgy, Ropemaking, Stonemasonry, Weaving. The GM may add other period-appropriate trades.
+**Specialities:** Blacksmithing, Carpentry, Ceramics, Cooking, Leatherworking, Locksmithing, Metallurgy, Ropemaking, Stonemasonry, Weaving. The GM may add other period-appropriate trades.
 
 ---
 
@@ -182,11 +180,11 @@ _(Communication, base 05%)_
 
 Knowing the customs, protocols, and social expectations of a specific group or culture. A successful roll allows the character to behave appropriately: to greet a noble correctly, to avoid a taboo gesture in a foreign court, to offer the right gift at the right moment. Failure results in offense or suspicion; a fumble is a serious breach.
 
-A character's Etiquette rating applies only to the specific specialty they know. A veteran of the mercenary camp is lost in the temple hierarchy; a palace-trained courtier baffles the nomad elders.
+A character's Etiquette rating applies only to the specific speciality they know. A veteran of the mercenary camp is lost in the temple hierarchy; a palace-trained courtier baffles the nomad elders.
 
 Roll Etiquette whenever navigating a formal or high-stakes social environment with unfamiliar or specific protocols.
 
-**Specialties:** Military, Merchant Guild, Noble Court, Nomad Clan, Temple, Thieves' Guild, Underworld. Others as the campaign requires.
+**Specialities:** Military, Merchant Guild, Noble Court, Nomad Clan, Temple, Thieves' Guild, Underworld. Others as the campaign requires.
 
 ---
 
@@ -274,15 +272,15 @@ Leaping for height, distance, or across a gap, and reducing the damage of a fall
 
 ### Knowledge (various)
 
-_(Mental, base 01% or specialty-dependent)_
+_(Mental, base 01% or speciality-dependent)_
 
-Formal and informal knowledge: accumulated study, tradition, and remembered lore. Each specialty is a distinct body of knowledge. A successful roll lets the character recall relevant facts, connections, or implications. A critical yields precise details, secondary implications, or obscure connections the character had no specific reason to know.
+Formal and informal knowledge: accumulated study, tradition, and remembered lore. Each speciality is a distinct body of knowledge. A successful roll lets the character recall relevant facts, connections, or implications. A critical yields precise details, secondary implications, or obscure connections the character had no specific reason to know.
 
-**Academic Lore** is the broadest specialty: in an age when all of written knowledge fits in one library, a trained scholar can attempt a Knowledge (Academic Lore) roll for nearly any question of history, philosophy, science, or law - at the GM's discretion. Other specialties are narrower and more reliable within their domain.
+**Academic Lore** is the broadest speciality: in an age when all of written knowledge fits in one library, a trained scholar can attempt a Knowledge (Academic Lore) roll for nearly any question of history, philosophy, science, or law - at the GM's discretion. Other specialities are narrower and more reliable within their domain.
 
 Roll Knowledge when a character needs to recall something they would plausibly have studied or experienced.
 
-**Specialties:** Academic Lore, Anthropology, Archaeology, Art History, Folklore, History, Law, Linguistics, Literature, Occult, Philosophy, Politics, Region (specify), Religion (specify), Streetwise.
+**Specialities:** Academic Lore, Anthropology, Archaeology, Art History, Folklore, History, Law, Linguistics, Literature, Occult, Philosophy, Politics, Region (specify), Religion (specify), Streetwise.
 
 ---
 
@@ -322,11 +320,11 @@ _(Mental, base 00%)_
 
 Reading and writing a specific script. In WSR's ancient world, literacy is a genuine achievement - not every character who speaks a language can read it, and scripts are often tied to specific traditions of learning. Literacy has a base chance of 0% regardless of Language rating; it must be deliberately learned.
 
-A character literate in one script cannot automatically read another. Each script is a separate specialty. Research from written sources requires the relevant Literacy specialty to succeed; in oral-tradition contexts, Research may function without it.
+A character literate in one script cannot automatically read another. Each script is a separate speciality. Research from written sources requires the relevant Literacy speciality to succeed; in oral-tradition contexts, Research may function without it.
 
 Roll Literacy when reading or writing under pressure - quickly transcribing a message before a guard returns, deciphering damaged or archaic text, or reading at speed without errors.
 
-**Specialties (by script):** Aramaic, Cuneiform, Greek, Hieroglyphic, Linear Script, Runic. Others as the campaign region requires.
+**Specialities (by script):** Aramaic, Cuneiform, Greek, Hieroglyphic, Linear Script, Runic. Others as the campaign region requires.
 
 ---
 
@@ -336,11 +334,11 @@ _(Combat, base 01%)_
 
 Mastery of a formalised fighting tradition that refines the application of a related combat skill. Martial Arts is always used in conjunction with another combat skill (Brawl, Melee Weapon, Missile Weapon, or Grapple). When both the Martial Arts roll and the associated combat roll succeed in the same attack, the Martial Arts technique stacks its additional damage roll on top of whatever the combat roll produced.
 
-Specialty determines the fighting tradition; the mechanical pairing is declared when the specialty is chosen at character creation.
+Speciality determines the fighting tradition; the mechanical pairing is declared when the speciality is chosen at character creation.
 
 Roll Martial Arts alongside the paired combat skill on any attack where the tradition's techniques apply.
 
-**Specialties (ancient-world traditions):** Kalaripayattu, Pankration, Swordsmanship School (specify), Wrestler's School (specify). Others as appropriate.
+**Specialities (ancient-world traditions):** Kalaripayattu, Pankration, Swordsmanship School (specify), Wrestler's School (specify). Others as appropriate.
 
 ---
 
@@ -360,11 +358,11 @@ A successful Medicine roll heals 1D3 HP from one injury, stabilises a poisoned o
 
 _(Combat, base 20% or weapon-class dependent)_
 
-Fighting with a hand-held weapon in close combat. The specialty is the weapon class; a character who has trained with swords is a swordsman, not a generic fighter. Using an unfamiliar weapon class imposes the cross-specialty penalty (half rating).
+Fighting with a hand-held weapon in close combat. The speciality is the weapon class; a character who has trained with swords is a swordsman, not a generic fighter. Using an unfamiliar weapon class imposes the cross-speciality penalty (half rating).
 
 Roll Melee Weapon on each attack. The result determines which outcome tier applies; in combat, critical results are resolved on the appropriate critical hit table (PA1).
 
-**Specialties (weapon classes - precise list defined in P7 Equipment):** Axe, Club/Mace, Dagger, Flail, Polearm, Shield (see Shield skill), Spear, Staff, Sword. Others as the weapon chapter specifies.
+**Specialities (weapon classes - precise list defined in P7 Equipment):** Axe, Club/Mace, Dagger, Flail, Polearm, Shield (see Shield skill), Spear, Staff, Sword. Others as the weapon chapter specifies.
 
 ---
 
@@ -372,11 +370,11 @@ Roll Melee Weapon on each attack. The result determines which outcome tier appli
 
 _(Combat, base weapon-dependent)_
 
-Attacking at range with a ranged weapon. The specialty is the weapon type. Range penalties and cover modifiers apply as situational adjustments to the roll.
+Attacking at range with a ranged weapon. The speciality is the weapon type. Range penalties and cover modifiers apply as situational adjustments to the roll.
 
 Roll Missile Weapon on each ranged attack. Critical results are resolved on the relevant critical hit table (PA1).
 
-**Specialties:** Blowgun, Bow (Short), Bow (Composite), Javelin, Sling, Spear (thrown). Grenades and thrown improvised objects use Throw rather than Missile Weapon.
+**Specialities:** Blowgun, Bow (Short), Bow (Composite), Javelin, Sling, Spear (thrown). Grenades and thrown improvised objects use Throw rather than Missile Weapon.
 
 ---
 
@@ -394,11 +392,11 @@ Roll Navigate when the route is genuinely uncertain and getting lost would have 
 
 _(Combat, base 10% or weapon-class dependent)_
 
-Deflecting an incoming blow with a weapon. Parry is the active defensive alternative to Dodge; unlike Dodge, Parry can inflict a cost on the attacker (a weapon struck against a parrying blade may be damaged; a shield parry can push an attacker off-balance). Parry is paired with Melee Weapon - the specialty matches the weapon used.
+Deflecting an incoming blow with a weapon. Parry is the active defensive alternative to Dodge; unlike Dodge, Parry can inflict a cost on the attacker (a weapon struck against a parrying blade may be damaged; a shield parry can push an attacker off-balance). Parry is paired with Melee Weapon - the speciality matches the weapon used.
 
 Roll Parry when a character declares they are defending with their weapon rather than dodging. The Opposed Roll rules determine the outcome (P4 §4.1); see P5 for the full attack-and-defence matrix.
 
-**Specialties:** match the Melee Weapon specialties.
+**Specialities:** match the Melee Weapon specialities.
 
 ---
 
@@ -406,11 +404,11 @@ Roll Parry when a character declares they are defending with their weapon rather
 
 _(Communication, base 05%)_
 
-Skilled performance: acting, dancing, playing an instrument, singing, oration, storytelling, and ritual performance. A successful roll produces work that achieves its intended effect - entertains an audience, moves a crowd, maintains the flow of a ceremony. Perform (Ritual) is the specialty most directly relevant to sorcery; a successful Perform (Ritual) roll may provide a complementary bonus to the sorcerer's casting roll when the spell demands formal invocation.
+Skilled performance: acting, dancing, playing an instrument, singing, oration, storytelling, and ritual performance. A successful roll produces work that achieves its intended effect - entertains an audience, moves a crowd, maintains the flow of a ceremony. Perform (Ritual) is the speciality most directly relevant to sorcery; a successful Perform (Ritual) roll may provide a complementary bonus to the sorcerer's casting roll when the spell demands formal invocation.
 
 Roll Perform when the quality of the performance matters: when playing to an audience that will remember, when a ritual must be correctly executed, or when a character's reputation as a performer is on the line.
 
-**Specialties:** Dance, Instrument (specify), Oration, Ritual, Singing, Storytelling.
+**Specialities:** Dance, Instrument (specify), Oration, Ritual, Singing, Storytelling.
 
 ---
 
@@ -442,7 +440,7 @@ Riding a trained animal, including in combat. At skill 50% or above, the charact
 
 Roll Ride in challenging conditions: rough terrain, battle, forced march, or when attempting mounted manoeuvres beyond simple travel.
 
-**Specialties:** Camel, Chariot (driver), Horse, War Elephant. Others as the campaign requires. Note: Chariot driving is a Ride specialty, not a separate skill.
+**Specialities:** Camel, Chariot (driver), Horse, War Elephant. Others as the campaign requires. Note: Chariot driving is a Ride speciality, not a separate skill.
 
 ---
 
@@ -462,7 +460,7 @@ _(Combat, base 15%)_
 
 Using a shield in combat: blocking attacks, making aimed bashes, exploiting the shield's size for knockback. Shield is used offensively (as a crushing/knockback attack) and defensively (as a parry). A shield parry follows the same opposed roll rules as weapon parry. Shield bashes are resolved as Krush-type critical hits when a critical is achieved.
 
-Roll Shield on each attempt to block or bash with a shield. The Shield skill is separate from any Parry (weapon) specialties the character may have.
+Roll Shield on each attempt to block or bash with a shield. The Shield skill is separate from any Parry (weapon) specialities the character may have.
 
 ---
 
@@ -562,7 +560,7 @@ Operating specialised mechanical or engineered systems that require specific tra
 
 Roll Technical Skill when operating a specialist device under meaningful pressure or in conditions where an error matters.
 
-**Specialties:** Clockwork, Siege Engine, Traps.
+**Specialities:** Clockwork, Siege Engine, Traps.
 
 ---
 
@@ -570,7 +568,7 @@ Roll Technical Skill when operating a specialist device under meaningful pressur
 
 _(Physical, base 25%)_
 
-Throwing improvised objects, non-throwing weapons, or weighted cords. Throw covers any ranged attack not performed with a Missile Weapon specialty: hurling a rock, throwing a dagger (if the character has no Missile Weapon (Dagger)), tossing a net, or lassoing with a rope. Thrown objects do half their normal damage. Throw also covers nets and lassos, where a successful roll entangles the target and an opposed STR roll determines whether they break free.
+Throwing improvised objects, non-throwing weapons, or weighted cords. Throw covers any ranged attack not performed with a Missile Weapon speciality: hurling a rock, throwing a dagger (if the character has no Missile Weapon (Dagger)), tossing a net, or lassoing with a rope. Thrown objects do half their normal damage. Throw also covers nets and lassos, where a successful roll entangles the target and an opposed STR roll determines whether they break free.
 
 Roll Throw during combat for improvised ranged attacks, or in any situation where a thrown object must hit a target at a distance.
 

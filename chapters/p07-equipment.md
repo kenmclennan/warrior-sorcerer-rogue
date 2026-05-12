@@ -144,7 +144,7 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 | Staff, Quarter | 1D8+dm    | 3   | 2H    | 2   | 20  | Yes   | 9/9     | Krush   | Cheap       |
 | Staff, Short   | 1D6+dm    | 3   | 1H    | 1   | 14  | Yes   | 7/9     | Krush   | Cheap       |
 
-#### Specialty and Entangling Weapons
+#### Speciality and Entangling Weapons
 
 | Weapon      | Damage   | SR  | Hands | ENC | HP  | Parry | STR/DEX | Special  | Cost        |
 | ----------- | -------- | --- | ----- | --- | --- | ----- | ------- | -------- | ----------- |
