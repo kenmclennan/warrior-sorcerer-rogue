@@ -1,39 +1,16 @@
 # P1. Introduction
 
-> _"Conan the Cimmerian had visited many strange cities and kingdoms in his wild, wandering life, but he had never before been to Zamora, the ancient, city of thieves and sorcerers."_
-> _- Robert E. Howard_
-
-This is Warrior \* Sorcerer \* Rogue. You are holding the Player Book.
-
----
-
 ## 1. Sword & Sorcery
 
-Sword & sorcery is a genre of pulp adventure fiction that has nothing to do with saving the world. It has to do with getting paid, getting even, getting out, and occasionally getting rich. It is the literature of the outsider in motion - a barbarian loose in a decadent city, a rogue navigating between two patron factions that both want them dead, a sorcerer who knows too much and owes too much to more than one power. Adventures end not with the moral order vindicated but with the protagonists alive and, if the dice run right, slightly better off than when they started.
+Sword & sorcery is difficult to pin down as a genre today. What differentiates it from other kinds of fantasy fiction? The mere presence of swords and magic in a tale is not enough. If there are hobbits and kindly old wizards then it is definitely out. Is the frequency of the word _thews_ in the prose indicative? Quite possibly.
 
-Three authors are the centre of gravity for this game.
+The term _sword & sorcery_ was coined by Fritz Leiber - author of the Fafhrd and the Grey Mouser stories - in 1961, but the form was born in the late 1920s with the works of Robert E. Howard and his creations: Kull, Bran Mak Morn, Solomon Kane, and ultimately Conan the Cimmerian.
 
-**Robert E. Howard** wrote Conan the Cimmerian, Kull of Atlantis, and Solomon Kane. He is the lodestone. His world is brutal, energetic, and ancient - civilisation a recent coat of paint over something far older and stranger, the barbarian outsider seeing the decadence of cities clearly because he is not seduced by them, adventures ending in blood and the protagonist walking away.
+These are adventure stories of larger-than-life protagonists driven by roguish desires. They swagger across a world already ancient, lost to us in the depths of time, pitting their cunning and their blades against dark sorcerers, cosmic horrors, ancient things in swamp-drowned temples, knife-eyed cults, and maniacal kings - in search of gold and glory.
 
-**Fritz Leiber** wrote Fafhrd and the Grey Mouser through decades of work. His register is the urban accent: fog-shrouded alleys, thieves' guilds with their own politics, sardonic banter under genuine threat, the partnership of two very different rogues who are loyal to each other and cautious about everyone else. Leiber's adventures end in wit, a stolen purse, and a tavern.
+Sorcery, while prevalent in these stories, is typically an uncanny and corrupting force, summoned in the night for dark deeds.
 
-**Michael Moorcock** wrote Elric of Melniboné and the wider Eternal Champion cycle. His register is the sorcerous and cosmic one: doom, decadence, the sense that the universe is older and crueller than the heroes know, magic as something that costs too much and cannot be put down once it is picked up. Moorcock's tone colours any session in which sorcery is present.
-
-A campaign can sit anywhere on the triangle these three authors define. Most sessions will feel primarily like Howard; a city-heist chapter leans Leiber; any session involving a sorcerer's patron or a named demon shifts toward Moorcock. A single session can move between all three registers.
-
-### 1.1 What Sword & Sorcery Is Not
-
-Sword & sorcery is **not high fantasy**. No Dark Lord. No prophecy. No chosen one. The world is not being saved and the heroes are not the heroes in that sense.
-
-It is **not pseudo-medieval European fantasy**. No knights, no jousts, no serial-numbers-filed-off feudal Europe. The world of WSR is ancient - Mediterranean, Levantine, Mesopotamian, Persian, Steppe - bronze and iron age, wine and olives and salt and bone.
-
-It is **not a world of helpful magic**. Sorcery in this game is not a utility toolkit. It is a set of transactions with powers that do not care about you, paid in the vital force that also keeps you lucky and alive.
-
-It is **not a redemption arc**. The heroes are pragmatic outsiders, not Good People With Quirks. Conan is a thief, mercenary, raider, and king - but never _noble_. The characters in this game have personal codes, but those codes are their own, not civilization's.
-
-It is **not a zero-to-hero arc**. Characters in WSR start exceptional. They grow in experience and reputation, not raw capability. A twentieth-session Conan is more famous and more scarred than a first-session Conan; he is not a demigod.
-
-### 1.2 The Shape of a Story
+### 1.1 The Shape of a Story
 
 A session is a short story. Some are heists. Some are vendettas. Some are explorations of places that should have stayed buried. Most resolve in a single sitting; the longer ones span two or three.
 
