@@ -25,21 +25,21 @@ The GM reviews the Passion lists from last session's sheets.
 
 **Karash:** Patron compact with the Faceless One; current Patron Score 14. Passion: Dread of losing himself to the working (60%).
 
-Three usable hooks: the Syndicate (Khess's Hatred 80%); the Pit Lords (Orryn's Hatred 75%); patron communication (Karash's Dread 60%). Per G1 §2.1 the hook should engage at least one directly. The GM chooses the Syndicate - Khess's Hatred at 80% is the highest Passion in the group and has not yet been directly resolved.
+Three usable hooks: the Syndicate (Khess's Hatred 80%); the Pit Lords (Orryn's Hatred 75%); patron communication (Karash's Dread 60%). The hook should engage at least one Passion directly. The GM chooses the Syndicate - Khess's Hatred at 80% is the highest Passion in the group and has not yet been directly resolved.
 
 ---
 
 ### 1.2 Using the G7 Generator: A Small Fallen Empire Hit
 
-The GM rolls on G7 §§2-3 for a fallen empire profile to seat the adventure in.
+The GM rolls on G7 §§1-2 for a fallen empire profile to seat the adventure in.
 
-**Who they were (G7 §2.1):** Roll D6 = 4. **Scholarly.** A civilisation that valued knowledge above all things, studied the wrong things, and the wrong things studied them back.
+**Who they were (G7 §1.1):** Roll D6 = 4. **Scholarly.** A civilisation that valued knowledge above all things, studied the wrong things, and the wrong things studied them back.
 
-**What they did (G7 §2.2):** Roll D6 = 3. **Perfected a form of sorcery.** They encoded it into their architecture. Their ruins still carry it.
+**What they did (G7 §1.2):** Roll D6 = 3. **Perfected a form of sorcery.** They encoded it into their architecture. Their ruins still carry it.
 
-**What destroyed them (G7 §2.3):** Roll D6 = 2. **Sorcerous backlash.** The encoded sorcery reversed catastrophically. The ruins carry residue that sorcerers feel immediately.
+**What destroyed them (G7 §1.3):** Roll D6 = 2. **Sorcerous backlash.** The encoded sorcery reversed catastrophically. The ruins carry residue that sorcerers feel immediately.
 
-**What they left (G7 §2.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (See the Unseen reveals it immediately).
+**What they left (G7 §1.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (See the Unseen reveals it immediately).
 
 **What this gives the GM:** The Serpent Syndicate uses the archive as a private document vault - stumbled on the lower entrance three years ago and has no idea what they are sitting on. The ancient wall-encoding is starting to behave strangely now that the Syndicate is burning lamp oil and storing sorcerously-adjacent documents there. This is the background the PCs do not know.
 
@@ -47,7 +47,7 @@ The GM rolls on G7 §§2-3 for a fallen empire profile to seat the adventure in.
 
 ### 1.3 Building the Hook
 
-Per G1 §2.1: specific, engages a Passion, stakes clear.
+The hook needs to be specific, engage a Passion, and leave the stakes clear.
 
 **The offer:** A contact of Brine's - the fence Khess is loyal to - has been arrested on charges she did not commit. A notary called Essa was picked up by the city prefect's office on the basis of forged documents placing her at the scene of a Syndicate robbery. The real culprit is a Syndicate mid-ranker who used Essa as cover. Essa's family cannot afford the bribe required to free her; Brine cannot front the coin but knows someone who can, if the PCs will do something first.
 
@@ -61,7 +61,7 @@ _Passion invocation gives +20% to negotiation and information-gathering in the f
 
 ### 1.4 Seeding the Complications
 
-Per G1 §2.2: two complications.
+Two complications - one external (a problem in the world), one internal (a problem that lands on a specific PC).
 
 **Complication one - the archive.** The forged document was created in the Syndicate's archive beneath the merchant quarter. The Syndicate has a clerk who handles their forgeries in the lower archive. To exonerate Essa, the PCs need the original document the Syndicate forged from - which is in the archive. This turns the scenario into an infiltration rather than a bribe-and-walk.
 
@@ -73,7 +73,7 @@ _This complication centres on Karash rather than Khess - good complication desig
 
 ### 1.5 Preparing the Reckoning
 
-Per G1 §2.3: three acceptable endings. Default: costly success.
+Three acceptable endings: costly success, partial success, expensive escape. The default for sword & sorcery is costly success.
 
 **The target reckoning:** The PCs retrieve the forged document, Essa is exonerated, Brine's favour is paid. Cost: they have now been inside the Syndicate's private archive. The Syndicate knows someone was there. The secondary sorcerer - whoever it is - also knows. The PCs leave with the document and two new problems.
 
@@ -91,7 +91,7 @@ The GM needs the Syndicate clerk: Perrak, a professional (G2 §1.2) - document f
 
 _Perrak's stat block is drafted in fifteen minutes using G2 §3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10), no Patron, Corruption 78 (self-taught sorcerers who do not know the Corruption rules pay a heavy price). He has See the Unseen as his only memorised spell and uses it obsessively to check for intruders - which is how the secondary casting signature in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and his Corruption is leaking into the encoded walls._
 
-The archive is now "dangerous known plus Perrak's unknowing amplification" rather than "dangerous unknown" - more human, and the PCs' choice about Perrak is a genuine moral one. Turn him in alongside the forged document. Let him go. Warn him what the walls are doing with his castings. Per G1 §3.4: that call belongs to the players.
+The archive is now "dangerous known plus Perrak's unknowing amplification" rather than "dangerous unknown" - more human, and the PCs' choice about Perrak is a genuine moral one. Turn him in alongside the forged document. Let him go. Warn him what the walls are doing with his castings. That call belongs to the players.
 
 ---
 

@@ -12,6 +12,45 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - G1 cut hard; G7 essay cut; adjudication advice moved to G6 Spot Rules
+
+**Context:** User flagged that even the rewritten G1 was doing work other books do better. _"GM advice is a whole topic beyond the scope of this game. I don't think that giving GMs stuff to read is right: just point them at the inspirational sources."_ Same problem with G7: stylistic essay material crowding out the useful generators. The directive: keep only what's genuinely WSR-specific; let G6 (Hazards and Spot Rules) absorb adjudication advice.
+
+**Decision:**
+
+**G1 (Running the Game).** Cut from ~306 lines to ~30. New structure:
+
+- Short chapter intro pointing at P1 §1 (genre) and PA3 (canon).
+- **§1 The Style.** One paragraph distillation - pulp action-adventure in an ancient world, PCs chase gold and glory, other humans are usually the adversary, magic is dangerous and always costs, ancient gods gnaw at the borders of reality. Plus a "few things to keep out" list: no chosen ones, no Dark Lords, no saving the village for free, no magic as toolkit, no clean victories.
+- **§2 The Sources.** Two-paragraph pointer: read one Howard / Leiber / Moorcock story before your first session; PA3 names specifics. Optional Clark Ashton Smith for sorcerer-heavy groups. Return to the source material when a session feels wrong.
+
+Cut entirely: §2 Session Structure (hook/complications/reckoning - generic three-act stuff), §3 GM Principles (Be Lethal But Fair / Telegraph Dread / Reward Cleverness / Never Save the Village for Free / Honour Personal Stakes - all generic GM tropes), §4 Connecting Characters at Session Zero, §6 Pacing, §7 Lightweight-vs-Tactical Tension.
+
+**Moves into G6:**
+
+- **G6 §10 Theatre-of-Mind Combat** (from G1 §5). Three subsections preserved largely intact: §10.1 Describing Position in Prose, §10.2 Adjudicating Range Bands, §10.3 Keeping Tactical Pace Without a Grid. This is system-specific adjudication advice, not generic GM craft - it belongs in the spot-rules chapter alongside Chases and Mass Combat.
+- **G6 §11 Group Stealth and Concealment** (from G1 §8). Use the worst-rated member's Move Quietly; exceptions for hanging back, leadership-via-Strategy, and individual fumbles; same principle for stationary Hide.
+
+**G7 (The Deep Past).** Cut §1 "The Cyclic History Principle" (about 35 lines of essay on cyclic history / layering the world / the inheritance problem). Replaced with a four-sentence chapter intro that does the same framing work in a tenth of the space. Generators §2/§3/§4 preserved intact and renumbered §1/§2/§3. §5 Pre-Cataclysm Sorcery and Science trimmed from 35 lines to 15 - kept the load-bearing rules (three forms of pre-cataclysm sorcery, lost technology rules, three adventure engines); cut the surrounding prose.
+
+**Cross-ref maintenance:**
+
+- P3 §[Move Quietly]: `G1 §8` → `G6 §11`.
+- GA1: five "Per G1 §X" callouts (referencing the cut session structure / GM principles sections) rewritten in-line. The example narrative still teaches the same principles; it just no longer cites a rule that doesn't exist anymore.
+- GA1: four `G7 §2.X` refs updated to `G7 §1.X` after the Fallen Empires generator was renumbered.
+
+**Reasoning:**
+
+- **GM advice is well-trodden.** Howard, Leiber, and Moorcock teach the tone better than any rulebook can; _Sorcerer & Sword_, _Wolves of God_, _Lankhmar_, and a hundred other genre titles teach the GM craft. WSR has nothing distinctive to add at that scale.
+- **The distillation paragraph does the heavy lifting.** "Pulp action-adventure in an ancient world... where magic is dangerous and ancient gods gnaw at the borders of reality" is more useful than three pages of session-structure how-to. A GM who reads that paragraph and the PA3 reading list has everything WSR can usefully tell them.
+- **Spot Rules is the right home for adjudication.** Theatre-of-mind combat, group stealth, chases, mass combat - all are GM-facing situation rules at the same scale, and they share an interpretive register. Concentrating them in one chapter (G6) makes them findable and removes the "is this a rule or is this advice?" ambiguity that bloated G1.
+- **G7's generators are the value.** Fallen Empires, Cataclysms, Ruins - the random tables are tools the GM uses at the table. The essay framing them was just connective tissue.
+- **No external loss.** Cross-refs into the cut G1 sections were all internal-feeling (GA1 examples citing principles that the example was already demonstrating). The principles still come through in the narrative; the explicit "Per G1 §X" callouts were ornaments.
+
+This continues the May-12 G1 §1 rewrite (next entry) - that rewrite reframed §1 from genre-redefinition to GM-craft, and this entry takes the next step: most of the GM-craft sections weren't worth keeping either. The May-12 entry is preserved for the audit trail but is functionally superseded.
+
+---
+
 ## 2026-05-12 - G1 §1 rewritten: from "The Genre" (redundant with P1) to "Running the Style" (GM craft)
 
 **Context:** User flagged that G1 §1 "The Genre" duplicated the genre-definition material in P1 §1 - same three touchstones, same literary register, same borders. The GM Book's job is to teach the GM how to _run_ the style, not redefine it.

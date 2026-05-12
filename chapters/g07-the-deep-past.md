@@ -3,53 +3,15 @@
 > _"Between the time when the oceans drank Atlantis and the rise of the sons of Aryas, there was an age undreamed of."_
 > _- Robert E. Howard_
 
-Tools for building the deep history behind your world: fallen empires, cataclysms, and the ruins they left. Use them when you need them - when a player asks "who built this temple?" or "what is that black glass field on the horizon?", you have an answer with weight behind it.
+The world is ancient. Civilisations rose, over-reached, collapsed, and were forgotten; the current age is the latest stratum laid over older and stranger ones. Pre-cataclysm ruins are the central treasure source of sword & sorcery and the engine of most adventures. The generators below build that deep history piece by piece. Use them when a player asks who built this temple or what is the black glass field on the horizon - you will have an answer with weight behind it. Build only what the adventure requires; the edge where your knowledge ends is where dread lives.
 
 ---
 
-## 1. The Cyclic History Principle
-
-The world your players inhabit is not new. It is ancient, and the age they move through is only the latest stratum laid over something older, something stranger, and very probably something worse.
-
-The cyclic history principle: civilisations rise, over-reach, collapse, and are forgotten. New civilisations grow up on their bones, inherit ruins without understanding them, and in time over-reach in turn. The pattern repeats at every scale - empires, cities, families, individual sorcerers. The wheel turns.
-
-### 1.1 Why This Matters at the Table
-
-The cyclic history principle is not merely atmosphere. It is an adventure engine.
-
-**Ruins generate scenarios.** A dungeon is more interesting when it was once a library, and the books are still there - in a language the PCs cannot read, written by people who knew things that got them killed. A tomb is more interesting when the occupant is still present. A citadel is more interesting when it was built to hold something.
-
-**Lost knowledge drives stakes.** The typical sword & sorcery treasure is not gold - or not only gold. A grimoire. A star-chart. A binding formula for something that should not be unbound. Pre-cataclysm knowledge is the real currency of the deep world, and it is always dangerous.
-
-**The weight of the world oppresses.** When a PC stands in the nave of a temple that was already ancient when the current calendar was created, and the frescoes on the wall show a sky with different constellations, the effect is not merely visual. It is existential. The world is stranger and older than anyone they know admits. Whatever people believe about the gods, about the stars, about the origins of sorcery - they are almost certainly wrong, and the ruins know the truth, and the ruins are not saying.
-
-**Present culture is the thinnest layer.** Cities, merchant fleets, temple hierarchies, courts - the newest and most fragile stratum, resting on the wreckage of everything that came before. There is always something older under the floor.
-
-### 1.2 Layering the World
-
-The most useful version is layered: several fallen empires, each built on or against the others, each leaving different residue. From bottom to top:
-
-- **The oldest layer:** pre-human or barely-human. Entities more than people. Their remnants are not buildings but geometries in stone; not books but something inscribed into the bones of the world itself.
-- **The middle layer:** human empires that mastered something dangerous - a form of sorcery, a science, a pact with a power beyond the world - and paid for it. Their ruins are recognisable but alien. Their written records are dangerous to read. Their artifacts still work.
-- **The recent layer:** the civilisations your PCs can name. Some are still standing. Some fell within living memory. Their ruins are everywhere and not yet legendary.
-
-The PCs move through all three layers simultaneously: road paved from the recent layer, well built on middle-layer foundations, a crack leading down to the oldest layer - which is not entirely gone.
-
-Build what the adventure requires and leave the rest vague. The edge where your knowledge ends is where dread lives.
-
-### 1.3 The Inheritance Problem
-
-Each new civilisation inherits the ruins of the previous one without inheriting the knowledge that built them. The current priesthood tends the old temple without knowing what it was really for. The current city sits on foundations whose cellar has a deeper cellar.
-
-People of the present age live on power they cannot control, in structures they cannot understand, near dangers they have forgotten to fear. The PCs are the ones who stumble into the forgotten danger - by accident, greed, ambition, or a patron's errand. They are looking at something the current age was not meant to see.
-
----
-
-## 2. Generator: Fallen Empires
+## 1. Generator: Fallen Empires
 
 Roll or select; combine categories as needed. A fallen empire needs at least one entry from each of the four categories below. Two or three entries from a single category produces a richer picture. These are raw material, not finished histories.
 
-### 2.1 Who They Were
+### 1.1 Who They Were
 
 _The civilisation's dominant character._
 
@@ -62,7 +24,7 @@ _The civilisation's dominant character._
 | 5   | **Decadent**     | A civilisation that peaked early and then spent centuries in slow rot, growing stranger as its core logic dissolved. Its art from the final period is deeply unsettling. What they were originally built to do, no one remembers.                                                                                |
 | 6   | **Confederated** | Not a single empire but a league of peoples with enough in common to cooperate. They were powerful when unified and catastrophically vulnerable when the agreement broke. The cataclysm that ended them may have begun with a betrayal inside the league.                                                        |
 
-### 2.2 What They Did
+### 1.2 What They Did
 
 _The act of hubris, ambition, or desperation that defined the empire's final phase._
 
@@ -75,9 +37,9 @@ _The act of hubris, ambition, or desperation that defined the empire's final pha
 | 5   | **Traded with outsiders**           | They made a pact with something beyond the world - a power, a race, an intelligence that did not share their values or their sense of proportion. The trade was favourable at first. The terms revealed themselves over time.                                            |
 | 6   | **Reversed the arrow of causation** | They solved the problem of cause and effect, at least partially. Their oracles did not merely predict the future; they altered it. Their descendants - if any remain - can sometimes still feel this inheritance. Time around their ruins does not quite flow correctly. |
 
-### 2.3 What Destroyed Them
+### 1.3 What Destroyed Them
 
-_The cataclysm. See Section 3 for the fuller generator; use this summary in conjunction._
+_The cataclysm. See §2 for the fuller generator; use this summary in conjunction._
 
 | D6  | Collapse Type          | What this looks like in the ruins                                                                                                                                                                                                                                 |
 | --- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -88,7 +50,7 @@ _The cataclysm. See Section 3 for the fuller generator; use this summary in conj
 | 5   | **Climate collapse**   | The world changed around them faster than they could adapt. The agricultural surplus failed. The rivers shifted. The storms did not come, or came wrong. They did not die in fire but in slow starvation and the violence that follows it.                        |
 | 6   | **Internal fracture**  | They destroyed themselves. Civil war, theological schism, a coup that went wrong, the competing ambitions of the powerful. The external enemy merely walked into the ruins afterward.                                                                             |
 
-### 2.4 What They Left
+### 1.4 What They Left
 
 _The residue of a civilisation - what the PCs will find._
 
@@ -103,11 +65,11 @@ _The residue of a civilisation - what the PCs will find._
 
 ---
 
-## 3. Generator: Cataclysms
+## 2. Generator: Cataclysms
 
-A cataclysm reshapes landscape, fractures cultures, and leaves survivors carrying inherited trauma for generations. Use this generator to build cataclysms or detail the collapse type from §2.3. A cataclysm needs entries from at least the first two categories.
+A cataclysm reshapes landscape, fractures cultures, and leaves survivors carrying inherited trauma for generations. Use this generator to build cataclysms or detail the collapse type from §1.3. A cataclysm needs entries from at least the first two categories.
 
-### 3.1 Type
+### 2.1 Type
 
 _What happened._
 
@@ -120,7 +82,7 @@ _What happened._
 | 5   | **Climate collapse**   | The sky changed. The rains came wrong for a generation, and then stopped entirely, and then came back wrong again. The cause may have been sorcerous, may have been a natural cycle no one had lived long enough to witness before, may have been the gods adjusting something for reasons of their own. |
 | 6   | **Pact-betrayal**      | A covenant was broken - between peoples, between a civilisation and a power it served, between the world and something that sustained it. The betrayal may have been necessary, may have been accident, may have been sabotage. The consequences fell on everyone.                                       |
 
-### 3.2 Scale
+### 2.2 Scale
 
 _How far it reached._
 
@@ -131,7 +93,7 @@ _How far it reached._
 | 3   | **Civilisational** | An entire culture was erased or so fundamentally changed that no continuity remained. The people survived - some of them - but the empire, the knowledge, the institutional memory: gone. The survivors became something different.                                |
 | 4   | **World-shaking**  | The cataclysm changed something permanent about the world itself - the coast, the climate, the sky, the rules of sorcery. It happened long enough ago that the current world does not remember the world before it. The change is taken to be natural. It was not. |
 
-### 3.3 How Long Ago
+### 2.3 How Long Ago
 
 _Distance from the present._
 
@@ -142,7 +104,7 @@ _Distance from the present._
 | 3   | **Pre-recorded**  | Before the current calendar. No reliable written account survives; what is known is myth, inference, and the evidence of the ruins themselves. The language of any surviving texts is dead, and possibly related to nothing currently spoken.                               |
 | 4   | **Geological**    | So far back that the cataclysm has reshaped the landscape in ways indistinguishable from natural geography. No oral tradition reaches it. The ruins have been buried, compressed, and in places absorbed into the bedrock. Only sorcery or extreme excavation reveals them. |
 
-### 3.4 What It Left Behind
+### 2.4 What It Left Behind
 
 _The permanent mark on the land._
 
@@ -157,11 +119,11 @@ _The permanent mark on the land._
 
 ---
 
-## 4. Generator: Ruins
+## 3. Generator: Ruins
 
 Builds a single adventure-scale lost site. Use at the table for a quick site, or in preparation for a central scenario location. A complete ruin needs entries from the first three categories; Danger and Treasure complete a site ready to run.
 
-### 4.1 Site Type
+### 3.1 Site Type
 
 _What this place originally was._
 
@@ -176,7 +138,7 @@ _What this place originally was._
 | 7   | **Market**      | A trading post, a caravanserai, a bazaar. Goods from across the old world, abandoned in place. What passes for treasure here is whatever the last merchants were carrying; the building itself records what kind of commerce the empire ran.                                      |
 | 8   | **Palace**      | Throne rooms, audience chambers, private apartments, servants' quarters. The records of a government: correspondence, accounts, orders. The private chambers of whoever ruled here may contain things that were meant to die with them.                                           |
 
-### 4.2 Current State
+### 3.2 Current State
 
 _What time, catastrophe, and scavengers have done to the site._
 
@@ -189,7 +151,7 @@ _What time, catastrophe, and scavengers have done to the site._
 | 5   | **Repurposed by squatters** | People are living here, or have recently lived here. They have made their presence felt: fires, barricades, modified doorways, the debris of habitation. They are not the intended occupants and they may not know what the site is. Their presence is a complication before the site itself becomes one. |
 | 6   | **Partially functional**    | Something in the site still works. The mechanism, the sorcery, the bound entity, the automated process - whatever it is, it is still running after all this time. The PCs will not immediately understand what it is doing. They will not be able to ignore it.                                           |
 
-### 4.3 The Hook
+### 3.3 The Hook
 
 _Why the PCs would go here._
 
@@ -202,7 +164,7 @@ _Why the PCs would go here._
 | 5   | **A map.** The PCs have come into possession of a map or chart that leads here. The map is partial; some of what it shows no longer corresponds to the site's current state. What the map was originally created for is its own question.                                               |
 | 6   | **Accident.** They did not mean to be here. A wrong turn, a chase, a storm, a collapse opened a door that was not supposed to be there. They are inside before they understood where they were going. Now they have to decide whether to retreat or go further.                         |
 
-### 4.4 The Danger
+### 3.4 The Danger
 
 _What threatens the PCs inside the site. Combine two for a more complex location._
 
@@ -215,7 +177,7 @@ _What threatens the PCs inside the site. Combine two for a more complex location
 | 5   | **The place itself**       | The site is actively hostile - not through any agent but through what it is. Trapped corridors. Architecture designed to disorient. A working that affects perception or memory. Something about the layout that makes it very hard to leave.                                                                               |
 | 6   | **A survivor**             | One entity from the original civilisation - or something that served it - is still here, still alive or still present, still aware. Its goals are not necessarily violent. They may be desperate. They have had a very long time to form opinions about what they will and will not do.                                     |
 
-### 4.5 The Treasure
+### 3.5 The Treasure
 
 _What makes the risk worthwhile. A site can have more than one._
 
@@ -230,40 +192,22 @@ _What makes the risk worthwhile. A site can have more than one._
 
 ---
 
-## 5. Pre-Cataclysm Sorcery and Science in Modern Adventures
+## 4. Pre-Cataclysm Sorcery and Science
 
-This section covers how to use pre-cataclysm knowledge and technology as the engine of scenarios, not merely as backdrop.
-
-### 5.1 Lost Sorcery
-
-The P6 spell list is not the limit of sorcerous knowledge - it is what has survived the cataclysms in transmissible form. Pre-cataclysm sorcery operated at a different scale: binding gods, mastering death at industrial scale, encoding spells into architecture. A sorcerer encountering a surviving piece of that work is not reading a spell list. They are encountering a working whose parameters they can barely understand, whose costs were borne by practitioners who may or may not all be dead, and whose effects may still be active.
+The P6 spell list is what has survived the cataclysms in transmissible form. Pre-cataclysm sorcery operated at a different scale - binding gods, mastering death at industrial scale, encoding spells into architecture - and surviving fragments of it are the engine of many scenarios.
 
 **Surviving pre-cataclysm sorcery takes three forms:**
 
-**Encoded in architecture.** The spell is the building and it is still running. Entering is entering the working. Destroying the building ends the spell - if destruction is possible.
+- **Encoded in architecture.** The spell _is_ the building and it is still running. Entering is entering the working. Destroying the building ends the spell - if destruction is possible.
+- **Recorded in grimoires.** The text exists, but learning from it differs from a current grimoire: notation may be opaque, language dead, required components or ritual spaces gone. Working out a pre-cataclysm spell from first principles is genuinely rare and likely to attract attention from people who do not want that spell loose.
+- **Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See G5 for artifact rules.
 
-**Recorded in grimoires.** The text exists, but learning from it differs from a current grimoire: notation may be opaque, language dead, required components or ritual spaces gone. Working out a pre-cataclysm spell from first principles is genuinely rare and likely to attract attention from people who do not want that spell loose.
+**Lost technology.** Sword & sorcery's lost super-science sits alongside lost sorcery as a valid ingredient. To the people of the current age, advanced technology is indistinguishable from sorcery: a weapon firing coherent light is a "fire-lance of the old people"; a navigation device using orbital signals is an "oracle of the sky-watchers." Lost technology does not respond to the sorcerous current - iron-sensitivity (P6 §4) does not apply unless the item is also sorcerous. Identification typically requires Knowledge (Engineering) or Knowledge (Occult) rather than sorcerous analysis.
 
-**Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See G5 for artifact rules. The adventure use: PCs find an artifact, cannot identify it, try to use it, and discover its function at the worst possible moment.
+**Three adventure engines.** The generators above feed three recurring scenarios:
 
-### 5.2 Lost Technology
-
-Lost super-science sits alongside lost sorcery as a valid ingredient (design.md §1.2 #10). To the people of the current age, **advanced technology is indistinguishable from sorcery**. A weapon that fires coherent light is a "fire-lance of the old people." A navigation device using orbital signals is an "oracle of the sky-watchers." A tissue-repair device is a "healing stone of the star-empire's physicians."
-
-This is not a cover story. The people of the current age do not have the conceptual framework to distinguish a bound demon from a power source, or a ritual incantation from an activation code. The PCs may not either.
-
-**Lost technology behaves differently from sorcery:** it does not respond to the sorcerous current. Iron-sensitivity (P6 §4) does not apply unless the item is also sorcerous. A sorcerer using sorcerous training to interact with lost technology may find the usual rules do not apply.
-
-**As treasure:** follows artifact rules (G5). Function often becomes legible with time; origin rarely does. A sorcerous artifact tells a trained sorcerer something about itself; a technological artifact is opaque to sorcerous analysis and may require Knowledge (Engineering) or Knowledge (Occult) to interpret.
-
-### 5.3 The Three Adventure Engines
-
-The generators in this chapter feed three recurring adventure engines:
-
-**The retrieval.** Something is in a ruin. Someone wants it. The complication: the ruin is an active site, and the thing has implications the PCs were not told about.
-
-**The activation.** Something from the deep past is reactivating - a bound entity, a sorcerous cycle reaching its end, a piece of technology responding to a trigger that no longer makes sense. The PCs investigate the symptoms or stumble in as it hits a threshold.
-
-**The knowledge problem.** Pre-cataclysm lore exists and someone wants it - or wants to prevent others from having it. A weapon, a map, a formula, a history that would overturn what living institutions claim. The PCs are in the middle of the competition.
+- **The retrieval.** Something is in a ruin. Someone wants it. The complication: the ruin is an active site, and the thing has implications the PCs were not told about.
+- **The activation.** Something from the deep past is reactivating - a bound entity, a sorcerous cycle reaching its end, a piece of technology responding to a trigger that no longer makes sense. The PCs investigate the symptoms or stumble in as it hits a threshold.
+- **The knowledge problem.** Pre-cataclysm lore exists and someone wants it - or wants to prevent others from having it. A weapon, a map, a formula, a history that would overturn what living institutions claim. The PCs are in the middle of the competition.
 
 None of these require a world with a defined history. They only require a world with a past.

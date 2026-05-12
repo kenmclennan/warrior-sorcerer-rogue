@@ -351,3 +351,67 @@ When PCs are caught up in a larger battle, the GM does not run every combatant t
 **Duration.** Brief skirmish: 2-3 turns (10-15 minutes). Sustained engagement: 6-12 turns (30-60 minutes). PCs rest and recover normally after.
 
 **Fate Points in mass combat.** Fate Point spends (P4 §7) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
+
+---
+
+## 10. Theatre-of-Mind Combat
+
+Warrior \* Sorcerer \* Rogue is designed to be played without a grid. Combat is described rather than measured, and the GM's job is to make the description carry the weight that geometry carries in a grid-based game.
+
+### 10.1 Describing Position in Prose
+
+Position is a shared understanding maintained by description. The GM and players together build a mental picture of the fight, specific enough that tactical decisions are meaningful.
+
+**Establish the space before combat begins.** Before anyone draws a weapon, describe the room, the courtyard, the alley. Give it one or two specific features: the collapsed pillar on the left side, the narrow passage at the back, the wall of fire burning along the eastern edge. These are not set dressing - they are the tactical resources the PCs can use and the constraints they must navigate.
+
+**Track the broad positions, not the fine ones.** Engaged, withdrawn, elevated, flanked, separated - these are the categories that matter. You do not need to know that Tharex is four metres from the doorway; you need to know that Tharex is between the doorway and the main body of soldiers, which means he is blocking the escape route. Maintain these broad relationships as combat proceeds.
+
+**Describe transitions actively.** When a PC moves from engaged to withdrawn, or from cover to open, say so. "You back up against the wall; the two soldiers follow, and now you are the one with nowhere to go" is more information than "you move to square D4." Description carries tactical weight when it is specific about what changed.
+
+**Use the fiction when a rule is unclear.** When two players disagree about whether a position is valid - whether there is cover, whether a PC is in range, whether an opponent can reach them - decide based on what makes sense given everything that has been described. Not every tactical ambiguity needs a ruling; some are resolved by asking "what would this look like if we were watching it?" and going with that answer.
+
+### 10.2 Adjudicating Range Bands
+
+The four range bands - Near, Normal, Far, Extreme - are defined in P5 §3.7 and give missile weapons a functional range structure without requiring measurement. At the table, apply them as follows.
+
+**Near** is arm's length - within the same engagement zone as the target. Throwing weapons at Near range use close combat rules. Bows at Near range are Difficult because a longbow is not a close-quarters weapon; the attacker is fighting the weapon's design as much as the target.
+
+**Normal** is the default. If the attacker and target are in the same fight and not immediately on top of each other, assume Normal range. This covers most combat scenarios.
+
+**Far** is across a significant space. Across a courtyard, from one end of a great hall to the other, from a rooftop to the street. If you have to describe the space to make the shot make sense, it is Far. Apply the Difficult modifier.
+
+**Extreme** is the edge of the weapon's capability. The extreme range of a war bow is hundreds of metres; the extreme range of a thrown dagger is perhaps fifteen. If a player asks to make a shot that requires you to say "that is genuinely the limit of what this weapon can do," it is Extreme. Apply the 1/5 skill cap.
+
+**Moving between bands.** A character who wants to close from Far to Normal must move; that is at least a Long Move, which delays their DEX rank by half. A character who wants to move from Near to Normal must disengage (see P5 §6.1). These costs make range management a meaningful tactical dimension without requiring measurement.
+
+### 10.3 Keeping Tactical Pace Without a Grid
+
+These practices prevent the tactical pace from slowing as players and GM lose track of position.
+
+**Start each round with a brief reset.** Before statements are declared, give the group a one-sentence summary of the situation: "You are engaged with the two spearmen; Seren is at the far end of the room holding off the captain; Kethros is near the door with a clear line to the sorcerer." One sentence, current, accurate. Players can then declare against a shared picture.
+
+**Narrate after every result.** When a roll resolves, describe what happened before moving to the next roll. "The sword connects - the guard goes down clutching his leg - and now the way to the stairs is open, but the other two are turning toward you." This keeps the shared picture current and makes the fight feel like a fight rather than a sequence of dice rolls.
+
+**Let the players describe their victories.** When a PC lands a critical hit or drops an opponent, ask the player what it looks like. "What does that look like - how did you take him down?" This is not a time cost; it is a pacing beat that also enriches the fiction, makes the player feel the weight of the moment, and gives the table a breath between the peaks of the action.
+
+**Rabble go down fast.** The Rabble rule (P5 §8) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on.
+
+**Keep the sorcerer in the picture.** Sorcery's Phase Two resolution and the interruption risk from melee (P5 §6.5) need active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to make it to Phase Two without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
+
+---
+
+## 11. Group Stealth and Concealment
+
+When a group needs to move quietly together - a warband creeping toward a sentry post, a band of thieves crossing a temple precinct, a party trying not to wake the household - do not roll Move Quietly for every character. Roll once for the group at the rating of the **least capable** member.
+
+The slowest, loudest, or most armoured character sets the pace. A rogue with Move Quietly 75% gains nothing by accompanying a warrior in bronze scale who has Move Quietly 25% - the warrior is the limit. This produces the genre-correct outcome: scouts go alone or in pairs, and large groups must split up or make peace with being detected.
+
+### 11.1 Exceptions and Refinements
+
+- **Hanging back.** A character may opt out of the group roll by lagging behind. They then roll separately at their own rating; they are no longer "with" the group for stealth purposes.
+- **Leadership.** A leader with Strategy may attempt a complementary Strategy roll (P3 §3.1) to support the group's Move Quietly: success grants the appropriate complementary bonus, representing specific tactical guidance - staying off the gravel path, taking the gap behind the woodpile, holding for the lull between watch-bell strikes.
+- **Individual fumble.** A fumble by any single member still automatically alerts - even if the group roll succeeded overall - but only that member is initially detected. The GM may give the rest of the group one round to react before the sentry's shout commits the situation.
+
+### 11.2 Concealment for Stationary Groups
+
+The same principle applies to Hide. A group concealing itself takes the worst Hide rating among them. Splitting up to hide separately is often the better tactical choice, but it has the price you would expect: when the violence starts, the group is not together.
