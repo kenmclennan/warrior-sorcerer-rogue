@@ -238,6 +238,8 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 
 **Cataphract Suit:** The heavy lamellar-and-scale armour of Persian and Sassanian elite cavalry. Full-body coverage achieved by layering lamellar plates over an under-suit of scale - the suit is heavy and exhausting to wear, but it turns most blows. At the GM's discretion, a complete cataphract suit may only be available in the great empires of the East.
 
+**Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (P6 §4), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
+
 ### 3.4 Helmets
 
 Helmets are purchased separately and provide additional AP to the wearer's head. In the Major Wounds system, a helmet's AP stacks with the body armour AP against any hit; however, if the GM narrates a blow that specifically targeted an exposed head (through an open-faced helm, for instance), only the helmet's AP applies.
