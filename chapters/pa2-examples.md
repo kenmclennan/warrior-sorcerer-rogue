@@ -11,25 +11,15 @@ Four sections: character creation for a City Thief; a multi-round combat demonst
 
 ## 1. Character Creation: Building Khess the Knife
 
-Khess is a City Thief from the Levantine City-Dweller background. This example takes each step in turn.
+Khess is a City Thief from The Walled Cities background. This example takes each step in turn.
 
 ---
 
 ### 1.1 Step 1: Characteristics
 
-The player rolls:
+The player rolls 3D6 seven times: **9, 10, 12, 13, 13, 14, 18.**
 
-- STR: 3D6 = **10**
-- CON: 3D6 = **11**
-- SIZ: 2D6+6 = **13**
-- INT: 2D6+6 = **14**
-- POW: 3D6 = **13**
-- DEX: 3D6 = **16**
-- CHA: 3D6 = **12**
-
-No characteristic rolled a 1, so no reroll is triggered (see P2 §2.1).
-
-**Redistribution.** The player moves 2 points: 1 from STR (dropping it to 9) into DEX (raising it to 17), and 1 from CON (dropping it to 10) into DEX (raising it to 18). No characteristic may be raised above 21 or reduced below 3. Final:
+Per P2 §2.1, results are assigned to characteristics in any order; SIZ and INT may not be set below 8. The player wants Khess to be a quick, clever city thief and assigns:
 
 | Characteristic | Value |
 | -------------- | ----- |
@@ -72,17 +62,17 @@ Khess is fast and clever. She is not strong.
 
 ---
 
-### 1.3 Step 3: Cultural Background - Levantine City-Dweller
+### 1.3 Step 3: Cultural Background - The Walled Cities
 
-Khess grew up in a Levantine trading port: merchants, scribes, priests, and spies. She is Aramaic-speaking, literate in two scripts, and has the specific wariness of someone who has spent her whole life reading strangers.
+Khess grew up in one of the great walled trading ports: merchants, scribes, priests, and spies. She speaks the cities' trading tongue, is literate in two scripts, and has the specific wariness of someone who has spent her whole life reading strangers.
 
-**Starting language:** Aramaic (INT x5 = 70%).
+**Starting language:** The trading tongue of the cities (INT x5 = 70%).
 
 **Cultural skills gained:**
 
 - Bargain +15%
 - Insight +10%
-- Language (one additional) +20% - she takes Greek
+- Language (one additional) +20% - she takes a coastal trading tongue
 - Research +10%
 
 **Common items:** Robe or tunic, sandals, and a sealed merchant's letter worth 2 Drams to the right fence.

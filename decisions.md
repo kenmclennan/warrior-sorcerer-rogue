@@ -12,6 +12,35 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Cultural backgrounds renamed to archetypes ("serial numbers off")
+
+**Context:** The original eight cultural backgrounds in P2 §4 used real-world labels (Mediterranean Coastal, Levantine City-Dweller, Mesopotamian Urban, Persian Imperial, Steppe Nomad, Northern Tribes, Southern Reaches, Island Peoples) with real-world languages (Greek, Aramaic, Phoenician, Akkadian, Sumerian, Cuneiform, Old Persian) and specific cultural signifiers (satraps, fire temples, ziggurats). This conflicts with the locked "no defined setting" decision (`design.md` §3.2): a player choosing "Levantine City-Dweller" in a Hyborian campaign or homebrew setting carries an incongruous label onto the character sheet.
+
+**Decision:** Rename the cultural backgrounds to setting-agnostic archetypes. The §4 intro now explicitly frames them as **"archetypes, not specific cultures"** that the GM names within the campaign setting.
+
+| Old                    | New                      |
+| ---------------------- | ------------------------ |
+| Mediterranean Coastal  | The Warm Coast           |
+| Levantine City-Dweller | The Walled Cities        |
+| Mesopotamian Urban     | The Great River Kingdoms |
+| Persian Imperial       | The Vast Empire          |
+| Steppe Nomad           | The Horse Folk           |
+| Northern Tribes        | The Cold Wilds           |
+| Southern Reaches       | The Burning Lands        |
+| Island Peoples         | The Scattered Isles      |
+
+Real-world languages also genericised (e.g. "Aramaic" -> "the trading tongue of the cities"; "Cuneiform" -> "river-city script"). Real-world cultural signifiers genericised where too specific ("satraps" -> "provincial governors"; "fire temples" -> "sacred fires"; "ziggurats" -> "stepped temples").
+
+**Reasoning:** Serves `design.md` §3.2 (the GM brings the setting). The archetypes preserve all mechanical content (skills, common items, demeanour) and all genre flavour; only the specific real-world labels are removed. The same archetype can be named differently in different campaigns - Hyborian, homebrew, or otherwise.
+
+**Implications for downstream work:**
+
+- PA2 Examples updated: Khess's background changed from "Levantine City-Dweller" to "The Walled Cities."
+- `notes/chapter-mapping.md` P2 entry updated with new archetype names.
+- Real-world references elsewhere in the books (P1 introduction's genre primer mentioning "Mediterranean, Levantine, Mesopotamian, Persian, Steppe"; P7 Equipment flavour notes; P3 Skills language and script lists; G1's setting framing) are **intentionally left in place**. They serve `design.md` §1.2 #3 ("ancient world setting - Mediterranean, Levantine, Mesopotamian, Persian, Steppe") as pedagogical signposts for the genre register, not as character-sheet labels. Different rule, different treatment.
+
+---
+
 ## 2026-05-12 - Character generation simplified: Choose Placement is the only method
 
 **Context:** The 2026-05-11 decision added Method B (Choose Placement) as an optional alternative to Method A (Rolled in Order). On further reflection, the user chose to simplify by making the choose-placement method the default and only method, removing Method A entirely. **This entry supersedes the 2026-05-11 "two methods" entry.**

@@ -1,6 +1,6 @@
 # WSR Chapter Mapping
 
-The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and GM Book, each chapter mapped to its source feeders and major decisions. Generated as Task 3 of the Phase 1 plan after all source notes are in and the load-bearing decisions are locked.
+The chapter list for _Warrior \* Sorcerer \* Rogue_, split into Player Book and GM Book, each chapter mapped to its source feeders and major decisions. Generated as Task 3 of the Phase 1 plan after all source notes are in and the load-bearing decisions are locked.
 
 ## Conventions
 
@@ -34,8 +34,9 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-2-characters.md`, `notes/source-4-passions-reputation.md`, `notes/source-9-allegiance.md`, `notes/source-12-sanity.md`, `notes/pulp-cthulhu.md`.
 
 **Key content:**
+
 - Characteristics (BRP UGE rolling methods + Heroic-level point allocation)
-- Backgrounds / cultures (WSR-original ancient-world set: Mediterranean, Levantine, Mesopotamian, Persian, Steppe)
+- Backgrounds / cultures (WSR-original ancient-world archetypes - GM names within their setting: Warm Coast, Walled Cities, Great River Kingdoms, Vast Empire, Horse Folk, Cold Wilds, Burning Lands, Scattered Isles)
 - Professions (BRP UGE keepers + WSR additions; estimated 12-15 professions including Scholar of the Dark Arts for sorcerers, Tribal Warrior, Sea-Raider, City Thief, etc.)
 - Talents (2 chosen at chargen from 4 themed tables; talent table eligibility constrained by profession)
 - Passions (mandatory: 1 at 80%, 2 at 60%; player-authored)
@@ -58,6 +59,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-6-skills.md`, `notes/special-success-audit.md`.
 
 **Key content:**
+
 - Skill list (~44 skills, ancient-world-relevant subset of BRP UGE)
 - Specialty mechanics (Melee Weapon, Knowledge, Craft, etc.)
 - Complementary Skill / Augment cooperative rules
@@ -77,6 +79,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-11-system.md`, `notes/special-success-audit.md`, `notes/delta-green.md`, `notes/source-gaps-batch1.md` (Fate Points), `notes/pulp-cthulhu.md` (Fate Point spend menu inspiration).
 
 **Key content:**
+
 - Percentile rolls (skill vs target)
 - Outcome tiers under the locked combat-resolution decision: Critical (matching dice ≤ skill), Success, Failure, Fumble (00 or matching dice > skill)
 - PP-buy mechanic for criticals (`current_roll - nearest_lower_double`)
@@ -99,6 +102,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-5-combat.md`, `notes/source-10-spot-rules.md` (Desperate Action, combat-adjacent), `notes/pulp-cthulhu.md` (mook rule), `notes/rolemaster-arms-law.md` (crit table reading).
 
 **Key content:**
+
 - Combat round structure (Strike Ranks, Initiative)
 - Attack and Defense (weapon vs parry vs dodge)
 - Major Wounds (single threshold, no per-location HP per locked decision)
@@ -121,6 +125,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-1-sorcery.md`, `notes/source-9-allegiance.md` (Patron Score), `notes/source-12-sanity.md` (Corruption), `notes/runequest-weapons-equipment.md` (iron-vs-sorcery), `notes/source-13-equipment.md` (grimoire formats).
 
 **Key content:**
+
 - Becoming a sorcerer (chargen requirements: POW threshold, profession, learning method)
 - Casting (PP cost, automatic success, time, components)
 - The cost trio:
@@ -145,6 +150,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-13-equipment.md`, `notes/runequest-weapons-equipment.md`.
 
 **Key content:**
+
 - Currency (WSR-original 4-tier coin system, ancient-world-flavored names)
 - Weapons (BRP UGE keepers + RuneQuest additions: ~60 weapons; ancient-world only)
 - Armour (BRP UGE keepers + RuneQuest additions: ~15-18 types; converted to single-AP per Major Wounds)
@@ -171,6 +177,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/rolemaster-arms-law.md` (format inspiration only - WSR-original prose).
 
 **Key content:**
+
 - Reading the tables (band assignment based on roll-within-success-range)
 - Slash table (A-E severity bands, ~10 results per band)
 - Pierce table (A-E)
@@ -212,6 +219,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-5-combat.md` (the Yvarre/Kallistor example as a template).
 
 **Key content:**
+
 - Chargen example (full PC walkthrough end-to-end)
 - Combat example (multi-round combat showing crits, mooks, sorcery, PP-buy)
 - Sorcery example (a sorcerer casting at cost - PP + Corruption + Patron implications)
@@ -232,6 +240,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-3-gamemastering.md`, `design.md` §1, §2, §4.
 
 **Key content:**
+
 - Genre primer (deeper than P1's intro - the literary touchstones, the doom, the cyclic history)
 - Session structure (hook / complications / reckoning per `design.md` §4.1)
 - GM principles (be lethal but fair, telegraph dread, reward cleverness, never save the village for free)
@@ -253,6 +262,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-3-gamemastering.md`, `notes/source-14-npc-digest-customizing.md`, `notes/pulp-cthulhu.md` (three-tier NPC model + Look Out Master).
 
 **Key content:**
+
 - Three-tier NPC model: mook / professional / named antagonist
 - Mook stat block format and the half-HP rule (mechanic detail; Player Book P5 has the player view)
 - "Look Out Master!" - villain spends PP to redirect a hit, killing a mook
@@ -273,6 +283,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-7-creatures.md`.
 
 **Key content:**
+
 - Creature entry format
 - Mortal beasts (lion, snake, wolf, bear, prehistoric megafauna)
 - Undead (Skeleton, Zombie, Mummy with sorcerer variant, Ghoul, Vampire, Ghost)
@@ -294,6 +305,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-1-sorcery.md`, `notes/source-9-allegiance.md`.
 
 **Key content:**
+
 - Designing an NPC sorcerer (POW thresholds, spell loadouts, cost-architecture choices)
 - Sample NPC sorcerers (cult leader, court mage, hermit, witch-queen)
 - Patron design (creating a named patron with agendas, demands, gifts, dooms)
@@ -316,6 +328,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-13-equipment.md` (Equipment with Sorcery section), `notes/source-1-sorcery.md` (Wizard's Staff alternatives - Brazier of Power lineage).
 
 **Key content:**
+
 - Mundane treasure (coin, gems, art objects, exotic goods)
 - Artifact creation (permanent POW cost, PP reservoir, recharge mechanic - WSR-original from BRP UGE Equipment with Sorcery)
 - Sample artifacts (5-10 named pre-cataclysm relics with adventure hooks)
@@ -335,6 +348,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `notes/source-10-spot-rules.md`.
 
 **Key content:**
+
 - Disease (the genre-perfect Illness Severity table)
 - Poison (compact list of ancient-world poisons)
 - Fire and heat
@@ -357,6 +371,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** `design.md` §1.2 #4 (deep cyclic history), §2.4 (the world).
 
 **Key content:**
+
 - The cyclic history principle (the genre frame as a GM tool)
 - Tools for designing fallen empires (a one-page generator: who they were, what they did, what destroyed them, what's left)
 - Tools for designing cataclysms (a one-page generator)
@@ -376,6 +391,7 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 **Source feeders:** N/A - new content.
 
 **Key content:**
+
 - Designing a session
 - Designing an NPC sorcerer step-by-step
 - Running a chase scene at the table
@@ -389,11 +405,11 @@ The chapter list for *Warrior \* Sorcerer \* Rogue*, split into Player Book and 
 
 # Summary
 
-| Book | Chapters (incl. appendices) | Est. pages |
-|------|----------------------------|------------|
-| Player Book | 7 + 2 appendices = 9 | 92-129 |
-| GM Book | 7 + 1 appendix = 8 | 74-122 |
-| **Total** | **17** | **~166-251** |
+| Book        | Chapters (incl. appendices) | Est. pages   |
+| ----------- | --------------------------- | ------------ |
+| Player Book | 7 + 2 appendices = 9        | 92-129       |
+| GM Book     | 7 + 1 appendix = 8          | 74-122       |
+| **Total**   | **17**                      | **~166-251** |
 
 Slightly over the "compact" target but defensible given the opinionated scope. Tightening happens during chapter drafting.
 

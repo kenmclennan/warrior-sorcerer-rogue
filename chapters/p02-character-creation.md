@@ -123,78 +123,80 @@ Add the relevant category bonus to each skill's base chance. Skills granted by C
 
 ## 4. Step 3: Cultural Background
 
-Cultural Background is the civilisation or community that shaped the character's early life. It provides a first language, a handful of cultural skills, and a demeanour. Pick one of the following eight backgrounds.
+Cultural Background is the kind of civilisation or community that shaped the character's early life. **These eight entries are archetypes, not specific cultures.** Your GM names them within the campaign setting; the same archetype may go by different names in different worlds. Pick the archetype that fits the character; the specific name is the setting's business.
 
-### 4.1 Mediterranean Coastal
+Each background provides a first language (which the GM names), a handful of cultural skills, and a demeanour.
 
-Cities of white stone, wine, olives, and the middle sea. Temples with pediments and priests. Merchants, sailors, and soldiers. A civilisation that writes, debates, and goes to war with neighbours it calls barbarians.
+### 4.1 The Warm Coast
 
-**Starting language:** Greek or related dialect (INT x5)
+Cities of white stone on a warm sea: wine and olives, pediments and priests. Merchants, sailors, soldiers. A literate civilisation that argues for entertainment and goes to war with neighbours it calls barbarians.
+
+**Starting language:** The coastal tongue (INT x5)
 **Cultural skills:** Bargain +10%, Navigate +10%, Persuade +10%, Swim +10%
 **Common items:** Light tunic, sandals, personal knife, a few Drams' worth of coin
 **Demeanour:** Confident, rhetorically inclined, openly competitive
 
-### 4.2 Levantine City-Dweller
+### 4.2 The Walled Cities
 
-The great trading ports of the eastern sea: merchants, scribes, priests, and spies. A culture of contracts, letters of credit, and temple politics. Cosmopolitan, polyglot, and deeply experienced at reading strangers.
+The great walled trading ports of an inland sea: merchants, scribes, priests, and spies. A culture of contracts, sealed credit-letters, and temple politics. Cosmopolitan, polyglot, and deeply experienced at reading strangers.
 
-**Starting language:** Aramaic or Phoenician (INT x5)
+**Starting language:** A trading tongue of the cities (INT x5)
 **Cultural skills:** Bargain +15%, Insight +10%, Language (one additional) +20%, Research +10%
 **Common items:** Robe or tunic, sandals, a sealed merchant's letter worth 2 Drams to the right fence
 **Demeanour:** Cautious, observant, quick to establish whose protection you enjoy
 
-### 4.3 Mesopotamian Urban
+### 4.3 The Great River Kingdoms
 
-A culture of ziggurats, written law, temple granaries, and military conscription. Wealth is land and grain. The city-gods are demanding employers. Soldiers, scribes, administrators, and priests who double as accountants.
+A culture of stepped temples, written law, temple granaries, and military levy. Wealth is land and grain. The city-gods are demanding employers. Soldiers, scribes, administrators, and priests who double as accountants.
 
-**Starting language:** Akkadian or Sumerian (INT x5)
-**Cultural skills:** Command +10%, Knowledge (Law) +15%, Literacy (Cuneiform) +15%, Status +10%
+**Starting language:** The river-city tongue (INT x5)
+**Cultural skills:** Command +10%, Knowledge (Law) +15%, Literacy (river-city script) +15%, Status +10%
 **Common items:** Woollen robe, leather belt with bronze buckle, clay seal-ring
 **Demeanour:** Formal, hierarchical, comfortable with bureaucracy and military organisation
 
-### 4.4 Persian Imperial
+### 4.4 The Vast Empire
 
-The vast empire from the sea to the mountains. A culture of satraps, royal roads, fire temples, and cavalry warfare. Honour and truth are obligations, not aspirations. The empire is sophisticated, tolerant of subject peoples' customs, and ruthless with disloyalty.
+The great empire from sea to mountain: provincial governors, royal roads, sacred fires, and cavalry warfare. Honour and truth are obligations, not aspirations. The empire is sophisticated, tolerant of subject peoples' customs, and ruthless with disloyalty.
 
-**Starting language:** Old Persian or Aramaic (INT x5)
+**Starting language:** An imperial trade language (INT x5)
 **Cultural skills:** Etiquette (Noble Court) +10%, Knowledge (Politics) +10%, Ride (Horse) +15%, Status +10%
 **Common items:** Fine wool robe or riding coat, curved dagger, horse harness worth keeping
 **Demeanour:** Dignified, formal in authority, personally honourable
 
-### 4.5 Steppe Nomad
+### 4.5 The Horse Folk
 
-Born in the saddle on the wind-scoured grasslands east of everything. Horses are wealth; hospitality is law; raiding is seasonal. The world beyond the horizon is either loot or enemies, and the difference is negotiated on arrival.
+Born in the saddle on the wind-scoured grasslands. Horses are wealth; hospitality is law; raiding is seasonal. The world beyond the horizon is either loot or enemies, and the difference is negotiated on arrival.
 
-**Starting language:** A Steppe tongue of the player's or GM's choice (INT x5)
+**Starting language:** A steppe tongue of the player's or GM's choice (INT x5)
 **Cultural skills:** Navigate +10%, Ride (Horse) +20%, Survival +15%, Track +10%
 **Common items:** Felt jacket, composite bow with 20 arrows, horse (basic breed; if this creates problems, a horse on credit or a GM-issued replacement)
 **Demeanour:** Direct, egalitarian, comfortable with silence and discomfort
 
 > **A note on the horse:** Starting with a horse is significant. The GM should confirm this is appropriate for the campaign's starting situation. A city campaign may substitute the horse for its coin equivalent (8-12 Staters) or a quality weapon instead.
 
-### 4.6 Northern Tribes
+### 4.6 The Cold Wilds
 
-Forests and coasts north of the civilised sea. Clans, blood debts, long winters, and the gods who live in the storm. Warriors and hunters who enter the cities of the south as foreigners, fighters-for-hire, and occasional raiders.
+Forests and coasts far from the warm seas. Clans, blood debts, long winters, and the gods who live in the storm. Warriors and hunters who enter the cities as foreigners, fighters-for-hire, and occasional raiders.
 
-**Starting language:** A Northern tongue of the player's or GM's choice (INT x5)
+**Starting language:** A northern tongue of the player's or GM's choice (INT x5)
 **Cultural skills:** Climb +10%, Knowledge (Folklore) +10%, Survival +15%, Melee Weapon (Axe or Sword, one specialty) +15%
 **Common items:** Heavy wool cloak, leather bracers, hand axe or broadsword
 **Demeanour:** Blunt, physical, prone to taking offense at slights that a city dweller would not notice
 
-### 4.7 Southern Reaches
+### 4.7 The Burning Lands
 
-Hot, dry lands south of the cultivated world: desert traders, river-kingdom soldiers, forest hunters, and the occasional emissary from kingdoms the northerners haven't mapped yet. A culture of difficult distance and resource scarcity that produces practical, adaptable individuals.
+Hot, dry lands far from the cultivated world: desert traders, river-kingdom soldiers, forest hunters, and emissaries from kingdoms beyond the maps. A culture of difficult distance and resource scarcity that produces practical, adaptable individuals.
 
-**Starting language:** A Southern tongue of the player's or GM's choice (INT x5)
+**Starting language:** A southern tongue of the player's or GM's choice (INT x5)
 **Cultural skills:** Hide +10%, Survival +15%, Track +15%, Throw +10%
 **Common items:** Light linen wrap, hunting spear or short bow with 12 arrows, waterskin (good quality)
 **Demeanour:** Economical, acutely observant, unimpressed by architectural grandeur
 
-### 4.8 Island Peoples
+### 4.8 The Scattered Isles
 
 Archipelagos, coastal raiders, fisher-kings and sea-traders. A culture navigated by wave, wind, and star. The ocean is the highway, every island is a different power, and a ship is a home and a weapon simultaneously.
 
-**Starting language:** An Island tongue or a trade pidgin (INT x5)
+**Starting language:** An island tongue or a trade pidgin (INT x5)
 **Cultural skills:** Navigate +15%, Sailor +15%, Swim +15%, Throw +10%
 **Common items:** Short sailcloth coat, sailor's knife, 50m of quality rope
 **Demeanour:** Adaptable, competent with water and rope, instinctively assessing who controls the exits
