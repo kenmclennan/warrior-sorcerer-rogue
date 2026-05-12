@@ -12,6 +12,27 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P7 §3.3: drop Ring armour entry (historically suspect category)
+
+**Context:** Conversation about the "chainmail" terminology debate. The historical reality: "chainmail" is a 19th-century retroactive coinage (often blamed on Walter Scott's _Ivanhoe_); medieval people simply said "mail." The deeper issue is the D&D-era taxonomy that invented categories like "ring mail," "studded leather," "splint mail," and "banded mail" - most of which are not historically real armour types. WSR already uses "Mail" correctly (no "chainmail"), but had a **Ring** entry (AP 4, "Bronze rings sewn to leather backing") which falls into the same suspect-category bucket.
+
+**Decision:** Drop the Ring armour entry from §3.3. Historically, "ring mail" / "ring armour" as a discrete category is largely a modern reconstruction or misinterpretation of medieval art. The actual gradient runs cloth -> leather -> scale -> mail -> plate; "ring" doesn't have a clean historical position between leather and scale.
+
+**Files updated:**
+
+- P7 §3.3 Armour Table: Ring row removed. Table now has 15 entries (was 16; +1 from Mail, Steel addition - 1 Ring removal = 15).
+
+**Reasoning:**
+
+- Consistent with the metallurgy correction in the same session - WSR's armour list should reflect historically defensible categories.
+- The AP 4 niche between Leather, Hard (AP 2) / Linothorax (AP 3) and Scale, Bronze (AP 5) is filled adequately by existing entries; nothing concrete is lost.
+- The "Ring" entry was the one remaining piece of D&D-era taxonomy in WSR's armour list. Removing it brings WSR fully in line with the historically-grounded position.
+- No bestiary, NPC, or example references "Ring" armour - clean removal.
+
+**The chainmail terminology debate (for future reference):** WSR uses "Mail" alone (correct historical term). Never "chainmail" (19th-century coinage). "Scale" is its own armour type, not a subtype of mail. "Lamellar" is its own type. "Plate" exists but we don't have plate armour in the WSR list (correctly dropped during the post-period weapons-and-armour cull earlier today). The Mail, Bronze / Mail, Iron / Mail, Steel naming convention is historically defensible and explicit about the metal involved.
+
+---
+
 ## 2026-05-12 - P7 §5 Material Tiers: apply metallurgy correction to weapons; add Steel tier
 
 **Context:** Follow-up to the armour metallurgy correction. User: "apply the same to weapons." P7 §5 (Material Tiers) had a section that explicitly said iron is superior to bronze (HP +50%, AP +1, 5-10x cost). Needed to be brought in line with the new historically-grounded position.
