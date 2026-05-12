@@ -12,6 +12,28 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Crit table coordination: bonus damage + MW, cross-ref fix, animal-attack note
+
+**Context:** User review of PA1 raised three clarification asks:
+
+1. Does PA1 bonus damage count toward Major Wound threshold? (Yes per PA1 §1.4, but P5 §5.1's MW definition just says "damage" - clarification arrives late in reader sequence.)
+2. P5 §5.2 cross-ref "applying the severity band per §8" - broken (§8 is "Rabble" after the renumber; should be §10.2 "Determine the Severity Band").
+3. Do animal attacks need their own crit tables? No - existing Slash/Pierce/Krush mechanical effects (bleed, stun, knocked down, useless limb, bonus damage) are weapon-agnostic. Only the wound descriptors are weapon-flavoured.
+
+**Decision:**
+
+1. **P5 §5.1 - explicit bonus-damage rule.** Added one sentence to the Major Wound definition: "For critical hits, the total damage that counts toward this threshold includes the PA1 entry's bonus damage on top of the weapon's base damage roll." Makes the rule discoverable on first reading.
+
+2. **P5 §5.2 - cross-ref fixed.** "§8" -> "§10.2".
+
+3. **PA1 §1.1 - animal attack note.** Added paragraph: animal/natural-weapon attacks use the same three tables with descriptor substitution (fang for blade, claw for edge, hoof for haft, gore for thrust). Damage-type mapping: bite/rake = Slash, gore = Pierce, hoof/paw/constriction = Krush. Mechanical effects apply unchanged.
+
+**Reasoning:** All three are clarification fixes for behaviour already supported by existing rules - the bonus-damage-counts rule is in PA1 §1.4 (just not surfaced in P5); the §10.2 cross-ref target exists (just was mislinked after the §6.8 Knockback removal and subsequent renumbering); animal-attack mechanical effects already work in the existing tables (just need GM-substituted descriptors). No design change.
+
+**Deferred (Q1 from user's review):** Band D/E entry-level lethality remains as-is for now. Today's 1-2-2-2-2 redistribution already reduces the _frequency_ of high-band crits (44/55 moved D->C, 66/77 moved E->D, Band E gated to skill 88+). If the entry _content_ still feels too brutal on review, that's a separate targeted pass on specific Band D/E entries (most likely the "dying in N rounds" results).
+
+---
+
 ## 2026-05-12 - P5 §10.4 clarified: Rabble can inflict criticals (asymmetric crit handling)
 
 **Context:** User reading P5 §10.4 "Criticals and Rabble" asked whether Rabble can inflict criticals on PCs. The section only addressed Rabble _receiving_ criticals (they skip the PA1 table; auto-incapacitation at half HP). The reverse direction was unstated.
