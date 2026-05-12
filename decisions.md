@@ -12,6 +12,44 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - G1 §1 rewritten: from "The Genre" (redundant with P1) to "Running the Style" (GM craft)
+
+**Context:** User flagged that G1 §1 "The Genre" duplicated the genre-definition material in P1 §1 - same three touchstones, same literary register, same borders. The GM Book's job is to teach the GM how to _run_ the style, not redefine it.
+
+**Decision:** Replace G1 §1 entirely. New §1 "Running the Style" with three GM-craft subsections:
+
+- **§1.1 Reading the Source Material.** Three specific story recommendations (Howard / Leiber / Moorcock) with notes on what to absorb from each. Optional Clark Ashton Smith for sorcerer-heavy groups. Cross-ref to PA3 for the broader canon.
+- **§1.2 Setting Tone at the Table.** Three concrete moves in the first ten minutes: the world is dangerous and old; the PCs are not the centre; sorcery is wrong. Practical voice-and-detail advice.
+- **§1.3 The Trap of Heroic Fantasy.** Five drift symptoms (chosen-one logic, Dark Lord villains, heroic NPC reception, save-the-village reflex, magic as toolkit). Catching drift early; what to adjust in the next prep.
+
+Chapter intro paragraph updated: "It assumes you have read P1 §1 for the genre itself. What follows is how to _run_ that genre at the table..."
+
+**Reasoning:**
+
+- The two §1s were doing the same job. The Player Book's §1 teaches players what genre they're playing in; the GM Book's §1 should teach the GM what to _do_ with that genre. The current chapter already had GM-craft sections (§2 Session Structure, §3 GM Principles, §4 Session Zero), but §1 was a genre-definitional outlier.
+- New §1.1 (Reading the Source) is GM-prep advice that can't live in the Player Book - it's about the GM's own homework.
+- New §1.2 (Setting Tone) is voice-and-detail craft, distinct from §3 (GM Principles) which is about adjudication doctrine. Tone is what you say; principles are what you do when the dice land.
+- New §1.3 (Trap of Heroic Fantasy) is failure-mode identification. P1's §1.3 is a definitional list of what S&S is not; the new §1.3 is symptoms a GM can spot mid-session.
+
+**Files updated:**
+
+- G1 chapter intro paragraph: reframed to point at P1 §1 for genre and preview the GM-craft content.
+- G1 §1 fully replaced. Three new subsections totalling roughly the same word count as the original.
+
+**Cross-reference impact:** verify-cross-refs went 37 -> 34 (the deleted §1.2 had three cross-refs to G7 §1 and §1.2 plus P5 §5.3 and P6 §3 that were genre-definitional context, not load-bearing rules pointers).
+
+**No knock-on edits:**
+
+- No external cross-references to G1 §1 existed (grep clean).
+- G1 §2 (Session Structure), §3 (GM Principles), §4 (Session Zero), §5 (Theatre of Mind), §6 (Pacing), §7 (Lightweight-vs-Tactical), §8 (Group Stealth) untouched.
+
+**Implications:**
+
+- The chapter now reads as continuous GM craft from §1 onwards rather than re-tutorialising the genre.
+- P1 and G1 stop duplicating each other on genre material.
+
+---
+
 ## 2026-05-12 - G6 §3: new Herbs, Drugs, and Substances section
 
 **Context:** User: "look at Rolemaster - Character Law & Campaign Law... lists of herbs and poisons. Given our limited healing magic this sort of addition might be valuable... We don't need a huge list but we can definitely take inspiration from rolemaster. I created a random Sword & Sorcery Drugs, Poisons & Strange Substances pdf for my D&D game - it's quite powerful but captures the Sword & Sorcery spirit in terms of names. Take both for inspiration but create something new. For poisons make sure that they tie in with our rules and the rules from BRP."
