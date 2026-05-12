@@ -12,6 +12,24 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Slave or Freedman profession removed
+
+**Context:** During chapter review the user identified slavery as a "murky area" they wish to avoid in the game. The "Slave or Freedman" profession in P2 §5 contained explicit slavery framing in its description ("Born into bondage, or freed from it...") and design-note sidebar ("a household slave to a sorcerer knows different things than a galley slave..."). Per `design.md` §3.2 ("modernised attitudes" - "the genre's regrettable... attitudes do not survive the port"), this is exactly the pulp-era content the system avoids.
+
+**Decision:** **Remove the Slave or Freedman profession entirely.** Profession count drops from 14 to 13. The Outcast profession (an "exile, disgraced, fell from a previous profession" archetype with similar Destitute / flexible-build mechanics) already covers the same character-build space without invoking slavery.
+
+**Reasoning:** Per `design.md` §3.2. The Outcast profession provides a "destitute, varied past, flexible skill spread" build option - removing Slave/Freedman does not foreclose any meaningful character concept. A player who wants to play a character with a hard past (an escaped slave, a forced labourer, a prisoner of war freed in a chaos) can build that as an Outcast with the "former profession" framing they choose.
+
+**Implications for downstream work:**
+
+- P2 §5.1 header changed from "The Fourteen Professions" to "The Thirteen Professions."
+- P2 §1 chargen overview row updated.
+- P2 Reputation table and Starting Equipment table: Slave/Freedman row removed from each.
+- `progress.md` chapter table row updated.
+- No other chapters reference this profession; no cross-references to fix.
+
+---
+
 ## 2026-05-12 - Cultural backgrounds renamed to archetypes ("serial numbers off")
 
 **Context:** The original eight cultural backgrounds in P2 §4 used real-world labels (Mediterranean Coastal, Levantine City-Dweller, Mesopotamian Urban, Persian Imperial, Steppe Nomad, Northern Tribes, Southern Reaches, Island Peoples) with real-world languages (Greek, Aramaic, Phoenician, Akkadian, Sumerian, Cuneiform, Old Persian) and specific cultural signifiers (satraps, fire temples, ziggurats). This conflicts with the locked "no defined setting" decision (`design.md` §3.2): a player choosing "Levantine City-Dweller" in a Hyborian campaign or homebrew setting carries an incongruous label onto the character sheet.

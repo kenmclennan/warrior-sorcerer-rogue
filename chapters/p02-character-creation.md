@@ -16,7 +16,7 @@ The ten steps are:
 | 1. Characteristics     | Roll or allocate seven core stats                                                |
 | 2. Derived Stats       | Calculate HP, PP, damage modifier, and MOV                                       |
 | 3. Cultural Background | Pick one of eight ancient-world backgrounds                                      |
-| 4. Profession          | Pick one of fourteen WSR professions; gain the profession skill bundle           |
+| 4. Profession          | Pick one of thirteen WSR professions; gain the profession skill bundle           |
 | 5. Personal Skills     | Spend INT x10 free points across any skills                                      |
 | 6. Talents             | Choose 2 talents from the four talent tables                                     |
 | 7. Passions            | Record three passions (1 at 80%, 2 at 60%)                                       |
@@ -213,7 +213,7 @@ Profession is what the character did. The profession provides a starting skill b
 
 **Profession skill bundles are suggestions, not locks.** The profession bundle covers the baseline; Personal Skill points (Step 5) fill out the rest.
 
-### 5.1 The Fourteen Professions
+### 5.1 The Thirteen Professions
 
 ---
 
@@ -304,18 +304,6 @@ A trader: regional, caravan, or maritime. Knows markets, supply chains, and the 
 **Wealth:** Affluent
 **Reputation start:** 10%
 **Profession skills:** Appraise, Bargain, Command, Etiquette (Merchant Guild), Fast Talk, Insight, Knowledge (Politics), Language (one additional), Navigate, Persuade, Research, one of: Ride (Horse or Camel) / Sailor
-
----
-
-#### Slave or Freedman
-
-Born into bondage, or freed from it. Learned skills from whoever owned them - or whatever master took an interest - and survived by being indispensable or invisible. May carry documentation of freedom, or may not. The condition is as much a psychological frame as a legal one.
-
-**Wealth:** Destitute
-**Reputation start:** 0%
-**Profession skills:** Choose any ten skills of the player's choice (reflecting the specific household, trade, or context of servitude). Add Insight +20% and Stealth +10% as mandatory entries. Total: twelve.
-
-> **Slave or Freedman:** The backstory defines the skill spread - a household slave to a sorcerer knows different things than a galley slave or a slave taken in war. The GM and player should agree on the configuration.
 
 ---
 
@@ -566,7 +554,6 @@ Reputation is fame - or notoriety - recognised beyond the character's home groun
 | Charioteer                 | 15%                 |
 | Temple Hierophant          | 25%                 |
 | Merchant                   | 10%                 |
-| Slave or Freedman          | 0%                  |
 | Scholar of the Dark Arts   | 10%                 |
 | Outcast                    | 5%                  |
 | Gladiator or Arena Fighter | 15%                 |
@@ -676,7 +663,6 @@ Each profession has a typical starting kit. This is the gear the character arriv
 | Charioteer                 | Composite bow (standard) with 30 arrows, dagger, scale armour, 15 Drams                             |
 | Temple Hierophant          | Ceremonial robes, seal-ring of office, writing tools and blank scrolls, dagger, 2 Staters           |
 | Merchant                   | Accounting tablets and seal, quality travelling clothes, dagger, donkey or pack animal, 3 Staters   |
-| Slave or Freedman          | Belt knife, worn but functional clothing, 2 Drams                                                   |
 | Scholar of the Dark Arts   | Grimoire (chosen format), writing materials, dark or travelling clothes, dagger, 5 Drams            |
 | Outcast                    | Whatever they could carry when they left (GM-negotiated starting kit within Poor wealth level)      |
 | Gladiator or Arena Fighter | Arena weapon of choice (standard quality), arena armour (light, 3 AP), street clothes, 8 Drams      |
