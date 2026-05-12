@@ -1,14 +1,5 @@
 # PA2. Appendix: Examples
 
-> _"He had been born on a battlefield, had grown to manhood fighting in a hundred wars, and his life had been one long adventure of peril and wild action."_
-> _- Robert E. Howard_
-
-Worked examples for the rules in the Player Book. Characters are named throughout; mechanics are called out in parentheses; cross-references use the standard format (e.g., "see P5 §3").
-
-Four sections: character creation for a City Thief; a multi-round combat demonstrating initiative, Rabble, a critical hit, and PP spends; a sorcerer's difficult casting with Corruption; and a session sketch showing the hook-complications-reckoning structure.
-
----
-
 ## 1. Character Creation: Building Khess the Knife
 
 Khess is a City Thief from The Walled Cities background. This example takes each step in turn.

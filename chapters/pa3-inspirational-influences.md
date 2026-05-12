@@ -1,13 +1,5 @@
 # PA3. Inspirational Influences
 
-> _"Civilized men are more discourteous than savages, because they know they can be impolite without having their skulls split."_
->
-> - Robert E. Howard, _The Tower of the Elephant_
-
-The "Appendix N" of WSR - what to read, watch, hear, and look at to get the tone right. The list is not exhaustive; pursue what intrigues you.
-
----
-
 ## 1. Films
 
 - **The Seventh Voyage of Sinbad** (1958) - Ray Harryhausen at his prime. The cyclops, the dragon, the singular pleasure of stop-motion menace.
