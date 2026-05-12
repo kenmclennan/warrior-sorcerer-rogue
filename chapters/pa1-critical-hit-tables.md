@@ -73,7 +73,7 @@ Each result: **wound description + mechanical effect**. Read or paraphrase the d
 
 **Bleeds.** The target loses 1 HP per round until the wound is bound (a successful First Aid roll, or 1 full round spent binding the wound with cloth - no roll needed, but costs the action).
 
-**Major Wound.** The result pushes the target toward the Major Wound threshold. If the combined HP loss (attack damage + bonus damage) equals or exceeds the target's Major Wound threshold (half maximum HP in a single blow or critical), a Major Wound occurs - see P5 §4.
+**Major Wound.** Some entries reference "if this causes a Major Wound, [extra effect]." This means: if the critical's total damage (base damage + bonus damage) equals or exceeds the target's Major Wound threshold (half maximum HP), apply the conditional effect. The PA1 entry is the wound description in any case; the Major Wounds Table in P5 §5.2 does not roll for criticals (see P5 §5.1).
 
 **Useless.** The affected limb cannot be used until the wound is treated and the character rests. A useless weapon arm means weapons must be switched to the other hand (all attacks Difficult until trained); a useless shield arm means no shield bonus to parry.
 

@@ -157,14 +157,17 @@ Three wound thresholds govern how damage affects a character.
 
 **Minor Wound.** A single attack deals less than half the character's maximum HP. Multiple minor wounds that together equal or exceed half maximum HP trigger a Stamina roll (CON x5): on a failure, the character falls unconscious.
 
-**Major Wound.** A single attack deals damage equal to or greater than half the character's maximum HP. Roll on the Major Wounds Table (§5.2), or the GM may choose an appropriate result. For critical hits, the total damage that counts toward this threshold includes the PA1 entry's bonus damage on top of the weapon's base damage roll.
+**Major Wound.** A single attack deals damage equal to or greater than half the character's maximum HP. The wound's specifics depend on the source:
 
-After a Major Wound, the character makes a Luck roll (POW x5):
+- **Critical attack.** Resolve the wound via the PA1 critical hit tables (see §10). The PA1 entry **is** the wound, including its stated duration and permanence. The Major Wounds Table does not roll, and the Luck roll and impaired-capacity status below do not apply. PA1 entries already encode their own severity and recovery.
+- **Non-critical attack.** Roll on the Major Wounds Table (§5.2), or the GM may choose an appropriate result.
+
+After a non-critical Major Wound, the character makes a Luck roll (POW x5):
 
 - **Success:** the wound heals cleanly; no permanent characteristic loss.
 - **Failure:** the Major Wound result is permanent until addressed.
 
-A character who sustains a Major Wound is not automatically incapacitated - they may still act in the same round, but at impaired capacity.
+A character who sustains a non-critical Major Wound is not automatically incapacitated - they may still act in the same round, but at impaired capacity.
 
 **Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
 
@@ -195,7 +198,7 @@ Roll 1D100 when a character sustains a Major Wound (unless the GM chooses an app
 | 91-95 | Severed or ruined limb. The limb is lost or destroyed. STR and DEX each reduced by 1D3 permanently.                                                              |
 | 96-00 | Killing wound. The character is dying even if HP have not reached zero. Stamina roll each round or lose 1D3 HP; medical intervention required within 1D3 rounds. |
 
-**Criticals and Major Wounds.** When a critical attack triggers a Major Wound, the player may forgo the Major Wounds Table and look up the crit result in PA1 instead (applying the severity band per §10.2). The crit result supersedes the table roll.
+**Criticals and Major Wounds.** Critical attacks resolve via the PA1 critical hit tables (see §10). The Major Wounds Table does not apply, and the Luck roll and impaired-capacity status in §5.1 do not apply. The PA1 entry **is** the wound - its stated duration and permanence are authoritative. Critical and Major Wound are parallel wound systems, not stacked.
 
 ### 5.3 Healing
 

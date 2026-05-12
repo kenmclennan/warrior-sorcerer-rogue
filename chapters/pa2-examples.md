@@ -301,7 +301,7 @@ The GM rolls 1d10 on the Pierce, Band C table: result is **5**. The entry reads:
 
 Khess rolls dagger damage: 1D4+2 = 4+2 = **6.** Plus +5 bonus damage = **11 total damage.** Davan has HP 12. He takes 11 damage, dropping to HP 1. He is stunned for 2 rounds, his breathing terrible from the lung wound.
 
-> A single blow of 11 damage against Davan's Major Wound threshold (HP/2 = 6) is clearly above it, so a Major Wound has occurred. However, a critical attack's PA1 result supersedes the Major Wounds Table (see P5 §5.2). The PA1 result - pierced lung, stunned, terrible breathing - is the wound.
+> A single blow of 11 damage against Davan's Major Wound threshold (HP/2 = 6) is clearly above it. Under §5.1, the critical's PA1 result is the wound - pierced lung, stunned, terrible breathing. The Major Wounds Table does not roll, and there is no Luck roll: PA1 critical and Major Wound are parallel wound systems, not stacked. The PA1 entry's stated duration is authoritative.
 
 **Davan acts (DEX 15).** He is stunned. A stunned character cannot attack (see PA1 §1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
 
