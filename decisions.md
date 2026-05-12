@@ -12,6 +12,61 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Adopt BRP Total Hit Points option (asymmetric): PCs and Named Antagonists use CON+SIZ; healing 1D3->1D4
+
+**Context:** User asked whether WSR should adopt BRP UGE's optional Total Hit Points rule given the lethality concern raised in the PA1 review. The BRP option: PCs and important NPCs use full CON+SIZ for HP; lesser NPCs use (CON+SIZ)/2. This roughly doubles PC durability and allows the genre's "wounded but fighting on" pattern.
+
+**Decision:** Adopt with a three-tier split aligned to WSR's NPC tiers:
+
+| Tier             | HP formula                              |
+| ---------------- | --------------------------------------- |
+| PC               | **CON + SIZ**                           |
+| Named Antagonist | **CON + SIZ** (PC-grade)                |
+| Professional     | (CON + SIZ) / 2, rounded up (unchanged) |
+| Rabble           | (CON + SIZ) / 2, rounded up (unchanged) |
+
+Bump natural healing from 1D3 HP/week to **1D4 HP/week** to keep calendar-time recovery from doubling outright. First Aid (1D3 / 2D3 crit), Medicine (1D3 / 2D3 crit), and Rally From the Wound (1D6) untouched - those are skill outcomes, not natural healing rates.
+
+**Reasoning:**
+
+- **Genre fit.** Howard's Conan takes deep cuts and keeps fighting. Current HP scale (half formula) made every critical potentially fatal, preventing the wounded-but-fighting pattern. Doubled PC HP plus today's earlier band redistribution and entry softening restore the genre arc.
+- **Three-tier sharpening.** Rabble fall fast (half HP, no PP, half-HP incapacitation threshold). Professionals are deadly via skill and PP but mechanically fragile to crits (half HP, no Fate Points). Named Antagonists are PC-grade (full HP, full PP, full Fate Points, Talents).
+- **Major Wound threshold scales naturally.** Threshold is "half max HP" - automatically doubles for PCs/Named. MW becomes the "you took a really bad hit" moment rather than a routine combat occurrence.
+- **Healing bump preserves calendar pacing.** With doubled HP and 1D4 (mean 2.5) vs 1D3 (mean 2), recovery time goes up by ~60% in calendar terms rather than ~100%. Still slower than before (genre-true: long convalescence) but not punishing.
+
+**Files updated:**
+
+- **P2 §3.1 Hit Points** - formula changed to CON+SIZ for PCs; tier note added pointing to G2 §1.
+- **P5 §5.3 Healing** - 1D3 -> 1D4 across the natural-healing table and intro sentence.
+- **G2 §1.1 Rabble** - formula explicitly noted: (CON+SIZ)/2.
+- **G2 §1.2 Professionals** - formula explicitly noted: (CON+SIZ)/2 (the half formula). Rationale clarified: "competent but mortal; their toughness comes from skill and PP, not from a doubled HP buffer."
+- **G2 §1.3 Named Antagonists** - formula explicitly noted: CON+SIZ (PC-grade).
+- **PA2 §1.2 Khess chargen** - HP calc updated to 23; MW threshold to 12. Pointer to G2 §1 added.
+- **PA2 §3 combat stat blocks**:
+  - Khess: HP 12 -> 23 (PC)
+  - Orryn: HP 14 -> 28 (PC)
+  - Karash: HP 10 -> 20 (PC)
+  - Davan: HP 12 (Professional, unchanged) - "named alley enforcer" is a named Professional, not a Named Antagonist tier
+  - Rabble: HP 9 each (unchanged)
+- **PA2 §3 worked combat narrative** - unchanged. Davan still goes 12->1 from the 11-damage Critical Buy; mechanics are unaffected because Davan is Professional tier.
+- **GA1 §2 Ysolde the Annotator** (Named Antagonist patron sorcerer) - HP 11 -> 22; MW threshold corrected to 11. Also fixed the pre-existing line 142 typo ("5 (half of 11, rounded up)" - half of 11 rounded up is 6, not 5; now obsolete under new formula anyway).
+- **G3 §1.1 Bestiary header** - note added: bestiary stat blocks use half formula by default; GMs treating a creature as Named-tier should double the listed HP.
+
+**Implications:**
+
+- A PC with HP 23 taking a Band C Pierce crit (~10 damage) drops to ~13 HP, ~57%. Severe but not crippling. They keep fighting.
+- Band D Slash slot 1 (shield arm useless, +6 bonus damage, bleeds) on a PC takes them from HP 23 to ~12-15. Major Wound threshold is 12 - this hit may trigger MW. Either way, character is wounded but fighting.
+- Combat against Named Antagonists takes roughly twice as long in terms of damage dealt. Quiet Knife, Killing Ground, Push Through become more tactically meaningful.
+- Rabble pacing unchanged - they still fall at half HP.
+- Sabre Tiger's Killing Bite (G3) and similar "If this causes a Major Wound" creature abilities trigger less often against PCs (higher threshold).
+
+**Open follow-ups (not addressed in this pass):**
+
+- First Aid (1D3 HP) and Medicine (1D3 HP) healing rates unchanged - relative impact is halved against doubled HP. May want to bump to 1D4 / 1D4 (crit 2D4 / 2D4) in a future pass if play reveals they feel underweight.
+- Bestiary doesn't have per-creature Named-tier flags. GMs apply judgment per the new header note.
+
+---
+
 ## 2026-05-12 - PA1 Band D/E lethality pass: bottom-half entries softened to survivable-severe
 
 **Context:** User Q1 from PA1 review: high percentage of Band D and Band E entries were fight-enders (dying or instant death), fine for foes but punishing for PCs. Today's 1-2-2-2-2 redistribution made high-band crits rarer, but the _content_ was untouched. Directive: "bottom 1-5 results should be severe but not fight-ending. Go back to Rolemaster tables to establish the distribution of critical severity."

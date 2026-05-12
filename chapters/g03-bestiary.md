@@ -16,6 +16,8 @@ Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 
 
 **Major Wound Threshold** - Half HP (round up). Most creatures do not roll on the Major Wounds Table; the GM narrates the wound's effect from the attack type and creature's nature.
 
+**Bestiary HP and the PC/NPC formula split.** P2 §3.1 and G2 §1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. For a creature you treat as a Named-tier recurring foe (a specific dragon, a particular demon prince, a singular intelligent threat), double its HP to apply the Named formula. Generic encounter creatures stay at the listed value.
+
 **AV** - Reduces all incoming damage. A single value covers the whole creature.
 
 **Move** - Combat movement. Human average Move 8. Flying movement listed separately.
