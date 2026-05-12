@@ -12,6 +12,29 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Slavery references swept game-wide (extends the profession removal)
+
+**Context:** The earlier 2026-05-12 "Slave or Freedman profession removed" decision dropped the explicit slavery-themed profession. During subsequent chapter review the user flagged additional slavery references across the books - in PC-side examples, Passion examples, profession descriptions, GM advice examples, and the GA1 worked session walkthrough. User directive: "lets not have slavery references in the game please." Per `design.md` §3.2 ("modernised attitudes - pulp-era prejudices will not survive the port"), the topic is out entirely.
+
+**Decision:** Sweep all remaining slavery references across the chapters. Seven replacements:
+
+- **P2 §11** Significant Possession example: "slave collar I cut off" -> "manacle I cut off the night I escaped" (generic captivity)
+- **P2 §7** Hate Passion example: "Hatred of slavers" -> "Hatred of the Pit Lords"
+- **P2 §5** Gladiator profession description: "slave, freedman, or voluntary" -> "war-captive, condemned criminal, or voluntary"
+- **P7 §1** Wealth tier examples: "slave" -> "captive"
+- **G1 §2** Internal Complications example: slaver-merchant scenario -> Pit Lord-buyer scenario
+- **GA1 §1** GM session walkthrough (Orryn's arc): "Hatred of slavers" -> "Hatred of the Pit Lords" everywhere; Essa's threat reframed from "sold to a labour contractor" to "sold to the Pit Lords"; three line changes total
+- **G7 §2** Fallen Empire generator: "They enslaved on a massive scale" -> "They put conquered peoples to the sword or pressed them into legion service"
+
+**Reasoning:** Per the user's directive and `design.md` §3.2. The Pit Lords substitution (illegal arena operators who kidnap people for forced gladiatorial combat) is a clean antagonist replacement - genre-evocative for sword & sorcery, connects to the existing Gladiator profession, provides the same dramatic weight as slaver-antagonists without invoking slavery as such.
+
+**Implications for downstream work:**
+
+- No further slavery references should be introduced in any chapter. **The Pit Lords are now the canonical "kidnap-for-forced-violence" antagonist faction** for example use.
+- War-captives, prisoners, and the briefly-imprisoned are NOT slavery references and remain available as character-background framings (the Gladiator profession explicitly includes "war-captive" as one path).
+
+---
+
 ## 2026-05-12 - Slave or Freedman profession removed
 
 **Context:** During chapter review the user identified slavery as a "murky area" they wish to avoid in the game. The "Slave or Freedman" profession in P2 §5 contained explicit slavery framing in its description ("Born into bondage, or freed from it...") and design-note sidebar ("a household slave to a sorcerer knows different things than a galley slave..."). Per `design.md` §3.2 ("modernised attitudes" - "the genre's regrettable... attitudes do not survive the port"), this is exactly the pulp-era content the system avoids.

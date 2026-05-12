@@ -331,7 +331,7 @@ The exile, the disgraced, the one who cannot go home. Was something else once: s
 
 #### Gladiator or Arena Fighter
 
-Sells blood for entertainment in the pit, the ring, or the arena. Could be slave, freedman, or voluntary. Has a specific, violent kind of local celebrity. Knows how to make a wound look worse than it is, and how to stay alive when the crowd wants a killing.
+Sells blood for entertainment in the pit, the ring, or the arena. Could be war-captive, condemned criminal, or voluntary. Has a specific, violent kind of local celebrity. Knows how to make a wound look worse than it is, and how to stay alive when the crowd wants a killing.
 
 **Wealth:** Poor (the money goes to the lanista, the organiser, the betting pools)
 **Reputation start:** 15%
@@ -499,7 +499,7 @@ A Passion can be any of the following:
 | Passion       | Examples                                                                            |
 | ------------- | ----------------------------------------------------------------------------------- |
 | **Love**      | "Love of my brother Khess 80%" / "Love of the sea 60%"                              |
-| **Hate**      | "Hatred of the Serpent Throne 80%" / "Hatred of slavers 60%"                        |
+| **Hate**      | "Hatred of the Serpent Throne 80%" / "Hatred of the Pit Lords 60%"                  |
 | **Loyalty**   | "Loyalty to my mercenary company 80%" / "Loyalty to Aara who bought my freedom 60%" |
 | **Fear**      | "Fear of sorcery 60%" / "Fear of returning to the place of my exile 60%"            |
 | **Honor**     | "My word, once given, holds 80%"                                                    |
@@ -704,7 +704,7 @@ Every WSR character carries one object with a story attached. It is not necessar
 
 Record it. Give it one sentence of history.
 
-> **Examples:** "The slave collar I cut off myself - I kept it to remind me what I'll never let happen again." / "A bronze coin stamped with the face of the first commander who ever trusted me." / "A grimoire cover with no pages, salvaged from the fire that killed my master." / "A knife with my mother's name scratched into the handle that I've never once used for violence."
+> **Examples:** "The manacle I cut off myself the night I escaped - I kept it to remind me what I'll never let happen again." / "A bronze coin stamped with the face of the first commander who ever trusted me." / "A grimoire cover with no pages, salvaged from the fire that killed my master." / "A knife with my mother's name scratched into the handle that I've never once used for violence."
 
 The significant possession is not a mechanical item with stats. It is an anchor. At the GM's discretion, invoking it during a scene of personal crisis may allow an Inspiration roll using the character's highest Passion even if the Passion is not obviously relevant.
 

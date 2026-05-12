@@ -37,11 +37,11 @@ The GM reviews the Passion lists from last session's sheets.
 
 **Khess:** Hatred of the Serpent Syndicate 80%, Loyalty to Brine 60%, Greed for the treasury of Aktar-Ur 60%.
 
-**Orryn:** Loyalty to his former mercenary company 60%, Hatred of slavers 75%, Loyalty to the party 55% (developed through play).
+**Orryn:** Loyalty to his former mercenary company 60%, Hatred of the Pit Lords 75%, Loyalty to the party 55% (developed through play).
 
 **Karash:** Patron compact with the Faceless One; current Patron Score 14. Passion: Dread of losing himself to the working (60%).
 
-Three usable hooks: the Syndicate (Khess's Hatred 80%); slavers (Orryn's Hatred 75%); patron communication (Karash's Dread 60%). Per G1 §2.1 the hook should engage at least one directly. The GM chooses the Syndicate - Khess's Hatred at 80% is the highest Passion in the group and has not yet been directly resolved.
+Three usable hooks: the Syndicate (Khess's Hatred 80%); the Pit Lords (Orryn's Hatred 75%); patron communication (Karash's Dread 60%). Per G1 §2.1 the hook should engage at least one directly. The GM chooses the Syndicate - Khess's Hatred at 80% is the highest Passion in the group and has not yet been directly resolved.
 
 ---
 
@@ -71,7 +71,7 @@ Per G1 §2.1: specific, engages a Passion, stakes clear.
 
 _Passion invocation gives +20% to negotiation and information-gathering in the first scene. Either Passion is legitimate; the Syndicate connection makes Hatred a valid invoke too._
 
-**The stakes:** The prefect will sell Essa to a labour contractor within three days. This engages Orryn's Hatred of slavers - the GM plans to reveal it at the end of the hook scene, when Brine mentions where the contractor ships his labour. Two Passions firing before the PCs leave the room.
+**The stakes:** The prefect will sell Essa to the Pit Lords within three days. This engages Orryn's Hatred of the Pit Lords - the GM plans to reveal it at the end of the hook scene, when Brine mentions where the Pit Lords' agents ship their captives. Two Passions firing before the PCs leave the room.
 
 ---
 
