@@ -315,7 +315,7 @@ PP 14  (no Fate Point access; no sorcery)
 Armour: 3 AP (lamellar coat under ceremonial robes)
 
 Combat skills:
-  Morningstar 50%  damage 1D8
+  Heavy mace 50%  damage 1D8
   Dagger 45%  damage 1D4+2
   Dodge 40%
 

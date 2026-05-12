@@ -12,6 +12,68 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P7 weapons: cull post-period weapons; add ancient-world replacements
+
+**Context:** User reviewing P7 equipment flagged that several weapons were anachronistic for WSR's pseudo-ancient-world setting (Bronze Age / Iron Age, ~Hyborian / Howard-genre period). Specifically named: Main-gauche, Rapier. Directive: "stay within the technology and pseudo time period."
+
+**Decision:** Remove 10 post-period weapons; add 3 ancient-world replacements; tighten crossbow list and prose; update cross-references.
+
+**Removed (post-period, medieval to modern):**
+
+| Weapon              | Period mismatch                                   |
+| ------------------- | ------------------------------------------------- |
+| Dagger, Main-gauche | Renaissance off-hand parrying dagger (16-17th c.) |
+| Sai                 | Okinawan martial weapon (~17th c.)                |
+| Sword, Bastard      | Late medieval European hand-and-a-half            |
+| Sword, Great        | Late medieval / Renaissance two-hander            |
+| Falchion            | Medieval European (12-14th c.)                    |
+| Saber               | Modern cavalry sword (17-19th c.)                 |
+| Rapier              | Renaissance duelling sword                        |
+| Flail, Morningstar  | "Morningstar" is medieval terminology             |
+| Halberd             | Medieval European polearm (14th c.)               |
+| Arbalest            | Medieval European heavy crossbow                  |
+
+**Added (ancient-world replacements covering the same combat niches):**
+
+| Weapon     | Niche                                                    | Stats                      | Historical                                                    |
+| ---------- | -------------------------------------------------------- | -------------------------- | ------------------------------------------------------------- |
+| **Kopis**  | One-handed curved slasher (replaces falchion)            | 1D6+2+dm, 1H, ENC 1, HP 12 | Greek/Iberian, ~5th c. BCE forward-curving sword              |
+| **Spatha** | Longer one-handed sword (replaces bastard sword 1H role) | 1D10+dm, 1H, ENC 2, HP 16  | Late Roman / Iron Age cavalry sword                           |
+| **Falx**   | Two-handed curved heavy slasher (replaces great sword)   | 2D8+dm, 2H, ENC 3, HP 16   | Dacian/Thracian, feared by Roman legions for cleaving helmets |
+
+**Crossbow consolidation:** Reduced from 4 entries (Light, Medium, Heavy, Arbalest) to 2 entries (Light, Heavy). Arbalest removed (medieval). Medium dropped as redundant. Crossbow prose updated to flag that ancient crossbows existed (Greek _gastraphetes_, Roman _cheiroballistra_, Chinese repeating crossbow) but are specialty equipment, never as common as the composite bow. The Extreme range band reference removed (was specific to arbalest).
+
+**Cross-references updated:**
+
+- P5 §10.1: weapon-type example "a falchion used for a hacking cut" -> "a short sword used for a hacking cut".
+- PA1 §1.1 Slash damage type sources: removed "falchions"; added "kopis, falx" to the list (khopesh already there).
+- P7 §11 encumbrance example: "great sword" -> "falx".
+- G2 mercenary captain stat block: "Morningstar" -> "Heavy mace".
+- G3 greater demon stat block: "Great Sword" -> "Falx".
+
+**Reasoning:**
+
+- **Sword & sorcery is Bronze Age / Iron Age in flavour.** Howard's Hyborian Age, Burroughs' Barsoom, Moorcock's Young Kingdoms - all draw on Mediterranean / Mesopotamian / Persian / Egyptian / steppe technology. Rapiers, bastard swords, and halberds pull straight to Renaissance Italy or late medieval Germany, breaking the genre's tonal anchoring.
+- **Ancient-world replacements fill the same mechanical niches.** Kopis = curved slasher; Spatha = longer 1H sword; Falx = two-hander. The combat options remain available; the names just change to fit the period.
+- **Crossbow simplification.** Ancient crossbows existed but were specialty equipment. Reducing the table from 4 entries to 2 reflects this rarity and removes the medieval European stratification (Light/Medium/Heavy/Arbalest implied a developed crossbow industry that didn't exist in the genre's period).
+
+**Edge cases kept:**
+
+- **Sword, Long** and **Sword, Broad** - kept as generic types. Real Iron Age long swords existed (Celtic La Tène ~3rd c. BCE; Roman spatha ~3rd c. CE). The terms are slightly post-period but the weapons themselves are real ancient forms.
+- **Scimitar** - kept. The term is medieval Islamic but curved single-handed sabres of this profile existed in antiquity (Persian akinaka, Anatolian).
+- **Lance** - kept. Sassanian and Parthian cataphracts used long lances (_kontos_).
+- **Pike** - kept. Macedonian _sarissa_ = 18-foot pike; the term is generic enough to cover ancient pike-equivalents.
+- **Quarterstaff** - kept. Generic ancient weapon, simple to imagine in any pre-modern setting.
+
+**Implications:**
+
+- Weapon list net change: -10 + 3 + crossbow consolidation (-2) = 9 weapons fewer. List is tighter and more genre-coherent.
+- Gladiator profession examples in P2 still work (the profession references "Net, Shield" not specific anachronistic weapons).
+- No profession bundle changes needed.
+- Talent prerequisites unaffected.
+
+---
+
 ## 2026-05-12 - PA4 Names: revise lists to fabricated names (avoid recognisable historical figures)
 
 **Context:** User reviewed the initial PA4 names and flagged that many were instantly recognisable real historical or mythological figures (Bjorn, Sigurd, Ragnar in Cold Wilds; Darius, Xerxes, Cyrus in Vast Empire; Khufu, Imhotep, Hatshepsut in Great River Kingdoms; Maui, Calypso, Penelope in Scattered Isles). User directive: "fantastic names - evocative of the culture but not taken directly from" real sources. Cold Wilds identified as the worst offender.

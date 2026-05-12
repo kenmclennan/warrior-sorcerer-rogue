@@ -71,34 +71,28 @@ Each weapon entry lists:
 
 #### Daggers and Short Blades
 
-| Weapon              | Damage   | SR  | Hands | ENC | HP  | Parry | STR/DEX | Special | Cost    |
-| ------------------- | -------- | --- | ----- | --- | --- | ----- | ------- | ------- | ------- |
-| Knife               | 1D3+1+dm | 2   | 1H    | -   | 8   | Yes   | 4/4     | Pierce  | Cheap   |
-| Dagger              | 1D4+2+dm | 2   | 1H    | -   | 10  | Yes   | 4/4     | Pierce  | Average |
-| Dagger, Main-gauche | 1D4+1+dm | 2   | 1H    | -   | 8   | Yes   | 5/9     | Pierce  | Average |
-| Sica                | 1D6+dm   | 2   | 1H    | 1   | 8   | Yes   | 7/9     | Slash   | Average |
-| Sai                 | 1D6+dm   | 2   | 1H    | 1   | 12  | Yes   | 5/11    | Krush   | Average |
+| Weapon | Damage   | SR  | Hands | ENC | HP  | Parry | STR/DEX | Special | Cost    |
+| ------ | -------- | --- | ----- | --- | --- | ----- | ------- | ------- | ------- |
+| Knife  | 1D3+1+dm | 2   | 1H    | -   | 8   | Yes   | 4/4     | Pierce  | Cheap   |
+| Dagger | 1D4+2+dm | 2   | 1H    | -   | 10  | Yes   | 4/4     | Pierce  | Average |
+| Sica   | 1D6+dm   | 2   | 1H    | 1   | 8   | Yes   | 7/9     | Slash   | Average |
 
-The main-gauche is designed for off-hand use; it provides a +1 AP defensive benefit when parrying while the other hand carries a weapon. The sica is a curved short sword common in the arenas and among city thugs.
+The **sica** is a curved short sword common in the arenas and among city thugs.
 
 #### Swords
 
-| Weapon         | Damage    | SR  | Hands | ENC | HP  | Parry | STR/DEX              | Special      | Cost        |
-| -------------- | --------- | --- | ----- | --- | --- | ----- | -------------------- | ------------ | ----------- |
-| Sword, Short   | 1D6+1+dm  | 3   | 1H    | 1   | 14  | Yes   | 5/5                  | Slash/Pierce | Inexpensive |
-| Sword, Long    | 1D8+dm    | 3   | 1H    | 1   | 14  | Yes   | 7/9                  | Slash        | Average     |
-| Sword, Broad   | 1D8+1+dm  | 3   | 1H    | 1   | 16  | Yes   | 9/7                  | Slash        | Average     |
-| Sword, Bastard | 1D10+1+dm | 3   | 1H/2H | 2   | 16  | Yes   | 13/9 (1H) / 9/9 (2H) | Slash        | Average     |
-| Sword, Great   | 2D8+dm    | 4   | 2H    | 3   | 16  | Yes   | 14/13                | Slash        | Expensive   |
-| Falchion       | 1D6+2+dm  | 3   | 1H    | 1   | 10  | Yes   | 7/7                  | Slash        | Average     |
-| Scimitar       | 1D8+1+dm  | 3   | 1H    | 1   | 16  | Yes   | 8/8                  | Slash        | Average     |
-| Khopesh        | 1D8+dm    | 3   | 1H    | 2   | 10  | Yes   | 9/7                  | Slash        | Average     |
-| Saber          | 1D8+1+dm  | 3   | 1H    | 1   | 16  | Yes   | 7/11                 | Slash        | Average     |
-| Rapier         | 1D6+1+dm  | 2   | 1H    | 1   | 12  | Yes   | 7/13                 | Pierce       | Expensive   |
+| Weapon       | Damage   | SR  | Hands | ENC | HP  | Parry | STR/DEX | Special      | Cost        |
+| ------------ | -------- | --- | ----- | --- | --- | ----- | ------- | ------------ | ----------- |
+| Sword, Short | 1D6+1+dm | 3   | 1H    | 1   | 14  | Yes   | 5/5     | Slash/Pierce | Inexpensive |
+| Sword, Long  | 1D8+dm   | 3   | 1H    | 1   | 14  | Yes   | 7/9     | Slash        | Average     |
+| Sword, Broad | 1D8+1+dm | 3   | 1H    | 1   | 16  | Yes   | 9/7     | Slash        | Average     |
+| Scimitar     | 1D8+1+dm | 3   | 1H    | 1   | 16  | Yes   | 8/8     | Slash        | Average     |
+| Khopesh      | 1D8+dm   | 3   | 1H    | 2   | 10  | Yes   | 9/7     | Slash        | Average     |
+| Kopis        | 1D6+2+dm | 3   | 1H    | 1   | 12  | Yes   | 7/7     | Slash        | Average     |
+| Spatha       | 1D10+dm  | 3   | 1H    | 2   | 16  | Yes   | 11/9    | Slash        | Average     |
+| Falx         | 2D8+dm   | 4   | 2H    | 3   | 16  | Yes   | 14/13   | Slash        | Expensive   |
 
-The **khopesh** - the sickle-sword - is the iconic blade of the ancient Near East and Egypt. Its inward-curving blade can hook around a shield edge or catch a wrist. The **falchion** is a heavy single-edged slashing sword, blunt on the spine. The **rapier** as listed here represents any fine-bladed thrusting sword designed for duels; at the GM's discretion it may be unavailable in settings with a strictly ancient-world tech level.
-
-The bastard sword can be used one-handed at STR 13/DEX 9 or two-handed at STR 9/DEX 9; both options are listed.
+The **khopesh** - the sickle-sword - is the iconic blade of the ancient Near East and Egypt. Its inward-curving blade can hook around a shield edge or catch a wrist. The **kopis** is a closely related forward-curving slashing sword of Greek and Iberian warriors, heavier than the xiphos and designed to cleave through shields. The **spatha** is the long cavalry sword of the late Iron Age - longer reach than the short sword, single-handed in use. The **falx** is the two-handed curved blade of Thracian and Dacian warriors, feared throughout antiquity for its ability to cleave bronze helmets and the men inside them.
 
 #### Axes
 
@@ -110,18 +104,17 @@ The bastard sword can be used one-handed at STR 13/DEX 9 or two-handed at STR 9/
 
 #### Clubs, Maces, and Hammers
 
-| Weapon             | Damage    | SR  | Hands | ENC | HP  | Parry | STR/DEX | Special | Cost        |
-| ------------------ | --------- | --- | ----- | --- | --- | ----- | ------- | ------- | ----------- |
-| Club, Light        | 1D6+dm    | 3   | 1H    | 1   | 14  | Yes   | 7/7     | Krush   | Cheap       |
-| Club, Heavy        | 1D8+dm    | 4   | 2H    | 3   | 20  | Yes   | 9/7     | Krush   | Cheap       |
-| Blackjack          | 1D6+dm    | 2   | 1H    | -   | 8   | No    | 7/7     | Krush   | Inexpensive |
-| Mace, Light        | 1D6+2+dm  | 3   | 1H    | 2   | 18  | Yes   | 7/7     | Krush   | Average     |
-| Mace, Heavy        | 1D8+2+dm  | 4   | 2H    | 3   | 18  | Yes   | 14/9    | Krush   | Average     |
-| Hammer, War        | 1D6+2+dm  | 3   | 1H    | 2   | 18  | Yes   | 11/9    | Krush   | Average     |
-| Maul, Great        | 2D6+dm    | 5   | 2H    | 4   | 18  | Yes   | 13/7    | Krush   | Average     |
-| Flail              | 1D6+dm    | 3   | 1H    | 1   | 7   | Yes   | 7/6     | Krush   | Average     |
-| Flail, Morningstar | 1D10+1+dm | 4   | 2H    | 3   | 12  | Yes   | 11/7    | Krush   | Average     |
-| Cestus             | 1D3+2+dm  | 2   | 1H    | -   | 10  | Yes   | 11/7    | Krush   | Average     |
+| Weapon      | Damage   | SR  | Hands | ENC | HP  | Parry | STR/DEX | Special | Cost        |
+| ----------- | -------- | --- | ----- | --- | --- | ----- | ------- | ------- | ----------- |
+| Club, Light | 1D6+dm   | 3   | 1H    | 1   | 14  | Yes   | 7/7     | Krush   | Cheap       |
+| Club, Heavy | 1D8+dm   | 4   | 2H    | 3   | 20  | Yes   | 9/7     | Krush   | Cheap       |
+| Blackjack   | 1D6+dm   | 2   | 1H    | -   | 8   | No    | 7/7     | Krush   | Inexpensive |
+| Mace, Light | 1D6+2+dm | 3   | 1H    | 2   | 18  | Yes   | 7/7     | Krush   | Average     |
+| Mace, Heavy | 1D8+2+dm | 4   | 2H    | 3   | 18  | Yes   | 14/9    | Krush   | Average     |
+| Hammer, War | 1D6+2+dm | 3   | 1H    | 2   | 18  | Yes   | 11/9    | Krush   | Average     |
+| Maul, Great | 2D6+dm   | 5   | 2H    | 4   | 18  | Yes   | 13/7    | Krush   | Average     |
+| Flail       | 1D6+dm   | 3   | 1H    | 1   | 7   | Yes   | 7/6     | Krush   | Average     |
+| Cestus      | 1D3+2+dm | 2   | 1H    | -   | 10  | Yes   | 11/7    | Krush   | Average     |
 
 The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool - compact, concealable, and designed to knock out rather than kill.
 
@@ -134,7 +127,6 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 | Lance          | 1D8+1+dm  | 3   | 1H    | 2   | 14  | Yes   | 9/8     | Pierce  | Inexpensive |
 | Trident        | 1D6+1+dm  | 3   | 1H/2H | 2   | 16  | Yes   | 9/7     | Pierce  | Average     |
 | Pike           | 1D10+2+dm | 5   | 2H    | 3   | 14  | Yes   | 11/7    | Pierce  | Inexpensive |
-| Halberd        | 3D6+dm    | 5   | 2H    | 4   | 22  | Yes   | 13/9    | Slash   | Average     |
 | Staff, Quarter | 1D8+dm    | 3   | 2H    | 2   | 20  | Yes   | 9/9     | Krush   | Cheap       |
 | Staff, Short   | 1D6+dm    | 3   | 1H    | 1   | 14  | Yes   | 7/9     | Krush   | Cheap       |
 
@@ -182,21 +174,19 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 #### Historic Missile Weapons
 
-| Weapon           | Damage      | SR  | Hands | ENC | HP  | Range   | STR/DEX | Special | Cost    |
-| ---------------- | ----------- | --- | ----- | --- | --- | ------- | ------- | ------- | ------- |
-| Bow, Composite   | 1D8+1+1/2dm | 3   | 2H    | 2   | 12  | Far     | 13/9    | Pierce  | Average |
-| Bow, Long        | 1D8+1+1/2dm | 3   | 2H    | 2   | 10  | Far     | 11/9    | Pierce  | Cheap   |
-| Crossbow, Light  | 1D6+2       | 3   | 2H    | 1   | 10  | Medium  | 9/7     | Pierce  | Average |
-| Crossbow, Medium | 2D4+2       | 4   | 2H    | 2   | 14  | Far     | 11/7    | Pierce  | Average |
-| Crossbow, Heavy  | 2D6+2       | 5   | 2H    | 3   | 18  | Far     | 13/7    | Pierce  | Average |
-| Arbalest         | 2D6+4       | 6   | 2H    | 3   | 14  | Extreme | 11/9    | Pierce  | Average |
-| Knife, Throwing  | 1D4+1/2dm   | 2   | 1H    | -   | 10  | Short   | -/11    | Pierce  | Cheap   |
+| Weapon          | Damage      | SR  | Hands | ENC | HP  | Range  | STR/DEX | Special | Cost    |
+| --------------- | ----------- | --- | ----- | --- | --- | ------ | ------- | ------- | ------- |
+| Bow, Composite  | 1D8+1+1/2dm | 3   | 2H    | 2   | 12  | Far    | 13/9    | Pierce  | Average |
+| Bow, Long       | 1D8+1+1/2dm | 3   | 2H    | 2   | 10  | Far    | 11/9    | Pierce  | Cheap   |
+| Crossbow, Light | 1D6+2       | 3   | 2H    | 1   | 10  | Medium | 9/7     | Pierce  | Average |
+| Crossbow, Heavy | 2D6+2       | 5   | 2H    | 3   | 18  | Far    | 13/7    | Pierce  | Average |
+| Knife, Throwing | 1D4+1/2dm   | 2   | 1H    | -   | 10  | Short  | -/11    | Pierce  | Cheap   |
 
 **Composite bow:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
 
-**Crossbows:** Crossbow damage does not add the attacker's damage modifier - the bow's draw weight is fixed at manufacture. Rate of fire: Light crossbow (1/2 rounds), Medium and Heavy (1/3 rounds), Arbalest (1/4 rounds, requires a cranequin or windlass to cock).
+**Crossbows:** Ancient crossbows existed but were rare - the Greek _gastraphetes_ (belly-bow), Roman _cheiroballistra_, and Chinese repeating crossbow are real ancient designs. They are specialty equipment, never as common as the composite bow. Crossbow damage does not add the attacker's damage modifier - the bow's draw weight is fixed at manufacture. Rate of fire: Light crossbow (1/2 rounds), Heavy (1/3 rounds).
 
-**Range bands:** Short = arm's throw distance; Medium = javelin range; Long = bow range; Far = extreme bow or crossbow range; Extreme = arbalest range. The GM narrates these as fiction. Shooting at longer than the listed range imposes a Difficult penalty; shooting beyond Extreme is impossible.
+**Range bands:** Short = arm's throw distance; Medium = javelin range; Long = bow range; Far = extreme bow or crossbow range. The GM narrates these as fiction. Shooting at longer than the listed range imposes a Difficult penalty.
 
 ### 2.4 Weapon Quality
 
@@ -645,12 +635,12 @@ Encumbrance (ENC) measures the physical burden a character carries. It governs o
 
 **ENC guidelines:**
 
-| Item Category                                            | ENC                         |
-| -------------------------------------------------------- | --------------------------- |
-| Negligible items (coins, small tools, vials)             | 10 together = 1 ENC         |
-| Light items (dagger, cloak, pouch)                       | - (negligible individually) |
-| Standard items (sword, shield, armour piece, backpack)   | 1-3 ENC                     |
-| Heavy items (great sword, heavy armour, a filled barrel) | 4+ ENC                      |
+| Item Category                                          | ENC                         |
+| ------------------------------------------------------ | --------------------------- |
+| Negligible items (coins, small tools, vials)           | 10 together = 1 ENC         |
+| Light items (dagger, cloak, pouch)                     | - (negligible individually) |
+| Standard items (sword, shield, armour piece, backpack) | 1-3 ENC                     |
+| Heavy items (falx, heavy armour, a filled barrel)      | 4+ ENC                      |
 
 Use the ENC values listed in the weapon and armour tables. If an item does not have a listed ENC, the GM assigns one using the table above.
 

@@ -350,7 +350,7 @@ The weapon used determines which table to consult:
 - **Pierce:** spears, arrows, crossbow bolts, thrusting swords, javelins.
 - **Krush:** maces, hammers, clubs, slings, shields used offensively, fists.
 
-Some weapons may fall into more than one type (a falchion used for a hacking cut is Slash; the same weapon used for a thrusting stab is Pierce). The attacker declares which type applies at the time of the roll.
+Some weapons may fall into more than one type (a short sword used for a hacking cut is Slash; the same weapon used for a thrusting stab is Pierce). The attacker declares which type applies at the time of the roll.
 
 ### 10.2 Determine the Severity Band
 

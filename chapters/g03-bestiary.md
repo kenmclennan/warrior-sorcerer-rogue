@@ -834,7 +834,7 @@ _It came through the smoke of the summoning circle smelling of old metal and unf
 - **AV:** 8 (tough hide; may wear armour in addition)
 - **Move:** 10 (12 flying)
 - **Damage Modifier:** +2D6
-- **Attacks:** Great Sword 150% / 2D8+dm (Slash) + 2D6 supernatural fire on a successful hit; Whip 90% / 1D3+dm (Pierce) + entangle; Claws 150% / 1D6+dm (Slash); Grapple 150% special. A greater demon may make two attacks per round. Immune to fire.
+- **Attacks:** Falx 150% / 2D8+dm (Slash) + 2D6 supernatural fire on a successful hit; Whip 90% / 1D3+dm (Pierce) + entangle; Claws 150% / 1D6+dm (Slash); Grapple 150% special. A greater demon may make two attacks per round. Immune to fire.
 - **Breath Weapon:** Flame Breath 100% / 6D6 (fire damage) in a cone; costs 6 PP per use. The area affected burns for 3 rounds thereafter.
 - **Special Abilities:**
   - _Aura of Terror._ The demon may activate its aura as a free action; costs 1 PP. All living creatures within POW metres must succeed at a POW vs POW resistance roll or be terror-stricken: all their actions are Difficult and they cannot approach the demon voluntarily. The aura lasts POW rounds.

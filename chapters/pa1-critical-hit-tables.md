@@ -12,7 +12,7 @@ Each attack deals one of five damage types. The damage type determines which tab
 
 | Damage Type | Sources                                                                                         |
 | ----------- | ----------------------------------------------------------------------------------------------- |
-| **Slash**   | Swords, axes, daggers, knives, falchions, khopesh, scythes; bites and rakes from beasts         |
+| **Slash**   | Swords, axes, daggers, knives, khopesh, kopis, falx, scythes; bites and rakes from beasts       |
 | **Pierce**  | Spears, javelins, arrows, crossbow bolts, tridents, stilettos; tusks, horns, and goring attacks |
 | **Krush**   | Maces, war-clubs, hammers, mauls, staves, slings (stones), warhammers; hooves, paw-buffets      |
 | **Burn**    | Sorcerous fire, demonic flame, Greek fire, burning oil, dragon breath, fire elementals          |
