@@ -202,13 +202,13 @@ Roll 1D100 when a character sustains a Major Wound (unless the GM chooses an app
 
 ### 5.3 Healing
 
-Natural healing is slow. A character recovers 1D3 HP per game week, modified by conditions:
+Natural healing is slow. A character recovers 1D4 HP per game week, modified by conditions:
 
 | Conditions                                 | Healing rate         |
 | ------------------------------------------ | -------------------- |
-| Poor (wilderness, no rest, no supplies)    | 1D3 HP per two weeks |
-| Restful (inn, adequate food, warmth)       | 1D3 HP per week      |
-| Excellent (physician's care, herbs, quiet) | 1D3 HP per four days |
+| Poor (wilderness, no rest, no supplies)    | 1D4 HP per two weeks |
+| Restful (inn, adequate food, warmth)       | 1D4 HP per week      |
+| Excellent (physician's care, herbs, quiet) | 1D4 HP per four days |
 
 First Aid applied immediately after a wound heals 1D3 HP (Critical: 2D3 HP) and halts any ongoing bleeding. First Aid must be applied within one turn of the wound to achieve these benefits; later application only halts bleeding.
 

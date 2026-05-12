@@ -37,9 +37,9 @@ Khess is fast and clever. She is not strong.
 
 ### 1.2 Step 2: Derived Statistics
 
-**Hit Points.** (CON + SIZ) / 2, rounded up = (10 + 13) / 2 = 11.5, rounded up = **12 HP.**
+**Hit Points.** CON + SIZ = 10 + 13 = **23 HP.** (PCs use the full formula; lower-tier NPCs use (CON+SIZ)/2 - see G2 §1.)
 
-**Major Wound Threshold.** Half of max HP = **6.** A single blow that deals 6 or more damage is a Major Wound.
+**Major Wound Threshold.** Half of max HP, rounded up = **12.** A single blow that deals 12 or more damage is a Major Wound.
 
 **Power Points.** Equal to POW = **13 PP.** This is also her Fate Point pool and her luck reserve.
 
@@ -231,15 +231,15 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 
 **Khess the Knife** (City Thief, from Section 1):
 
-- HP 12, PP 13, DEX 18, Dagger 62%, Dodge 63%, Move Quietly 51%
+- HP 23, PP 13, DEX 18, Dagger 62%, Dodge 63%, Move Quietly 51%
 
 **Orryn** (Mercenary Soldier, abbreviated stat block):
 
-- HP 14, PP 11, DEX 13, Sword 65%, Parry (Sword) 55%, Dodge 38%
+- HP 28, PP 11, DEX 13, Sword 65%, Parry (Sword) 55%, Dodge 38%
 
 **Karash** (Scholar of the Dark Arts, abbreviated stat block):
 
-- HP 10, PP 16, POW 17, DEX 11, Corruption 85
+- HP 20, PP 16, POW 17, DEX 11, Corruption 85
 
 **Davan the Flayer** (named antagonist):
 

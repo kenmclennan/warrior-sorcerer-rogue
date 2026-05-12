@@ -17,7 +17,7 @@ Rabble are the warm bodies that fill a dungeon, guard a gate, or crew a villain'
 
 **Narrative role.** Rabble establish threat-through-numbers, cost the PCs some HP before the real fight, and fall dramatically. They are not meant to win. A Rabble who lingers too long has become something else.
 
-**Mechanical profile.** Rabble have one primary weapon skill, a Dodge rating, and an HP total. They do not have Power Points and cannot make any Fate Point spend. They do not roll on the Major Wounds Table. They fight, they absorb damage up to their threshold, and then they fall.
+**Mechanical profile.** Rabble have one primary weapon skill, a Dodge rating, and an HP total computed as **(CON + SIZ) / 2, rounded up** (the half formula, not the full PC formula). They do not have Power Points and cannot make any Fate Point spend. They do not roll on the Major Wounds Table. They fight, they absorb damage up to their threshold, and then they fall.
 
 The Rabble rule: any Rabble who takes cumulative damage equal to or greater than half their total HP is automatically incapacitated. The GM describes how - beaten down, driven off, knocked senseless, or simply unwilling to die for six coins a day. The fiction determines the detail; the threshold determines when.
 
@@ -29,7 +29,7 @@ Professionals are competent antagonists with individual identities. They may not
 
 **Narrative role.** Professionals push back: they adapt, hold their ground, and have something at stake beyond the coin. They may have loyalties that complicate instructions or limits to their ruthlessness.
 
-**Mechanical profile.** Professionals have multiple weapon skills, Dodge or Parry, full HP, and limited PP (typically half POW or lower). No sorcery, no Fate Point access, no Patron Intercession. No formal Talents or Passions - the GM assigns one or two drive-notes informally. They roll on the Major Wounds Table normally and fight until they drop.
+**Mechanical profile.** Professionals have multiple weapon skills, Dodge or Parry, and limited PP (typically half POW or lower). HP is computed as **(CON + SIZ) / 2, rounded up** (the half formula) - competent but mortal; their toughness comes from skill and PP, not from a doubled HP buffer. No sorcery, no Fate Point access, no Patron Intercession. No formal Talents or Passions - the GM assigns one or two drive-notes informally. They roll on the Major Wounds Table normally and fight until they drop.
 
 ### 1.3 Named Antagonists
 
@@ -37,7 +37,7 @@ Named antagonists are PC-grade characters: individuals with full stat blocks, Fa
 
 **Narrative role.** Named antagonists drive plots. They have goals, make decisions that shape events before the PCs arrive, and represent a sustained threat requiring time, preparation, and luck to overcome.
 
-**Mechanical profile.** Build named antagonists exactly as you would build a PC (see P2 for the chargen procedure). All the same rules apply: characteristics, derived stats, skills, talents, passions, reputation. The GM version of a named antagonist has full Fate Point access - their Power Points can fund defensive spends, and they will use them when the stakes are high enough.
+**Mechanical profile.** Build named antagonists exactly as you would build a PC (see P2 for the chargen procedure). All the same rules apply: characteristics, derived stats, skills, talents, passions, reputation. **HP uses the full PC formula: CON + SIZ** (not the half formula used by Rabble and Professionals). The GM version of a named antagonist has full Fate Point access - their Power Points can fund defensive spends, and they will use them when the stakes are high enough.
 
 For sorcerer-villain antagonists, apply the full Sorcery rules from P6. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in G4 (NPC Sorcery and Patrons); the stat blocks in §5 of this chapter include a worked example.
 

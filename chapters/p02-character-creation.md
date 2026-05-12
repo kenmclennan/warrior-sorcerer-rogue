@@ -69,9 +69,9 @@ Characteristic rolls follow the same four outcome tiers as skill rolls (Critical
 
 ### 3.1 Hit Points
 
-**HP = (CON + SIZ) / 2, rounded up.**
+**HP = CON + SIZ** (PCs and Named Antagonists).
 
-HP represents how much physical punishment a character can absorb before being incapacitated. See P5 §4 for the Major Wound threshold (HP/2).
+HP represents how much physical punishment a character can absorb before being incapacitated. PCs and Named Antagonists use the full CON+SIZ formula; lower-tier NPCs (Professionals and Rabble) use (CON+SIZ)/2 rounded up. This makes PCs durable enough to take serious wounds and keep fighting in the genre tradition. See P5 §5 for wound thresholds (Major Wound = half HP, rounded up); see G2 §1 for NPC tier HP rules.
 
 ### 3.2 Power Points
 
