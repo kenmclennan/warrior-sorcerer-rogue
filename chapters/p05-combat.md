@@ -308,6 +308,8 @@ Restraining attacks. Entangling weapons have a dedicated tactical option:
 
 An entangling critical (whether on a damage attack or an entangle attempt) imposes the entangle effect immediately and irresistibly: no resistance roll is permitted at the moment of impact, though subsequent escape attempts proceed normally.
 
+**Other damage types.** Fire damage (sorcerous flame, Greek fire, dragon breath, fire elementals) and Grapple damage (the P3 Grapple skill, creature constricting attacks) have their own PA1 critical hit tables - see PA1 §5 (Burn) and PA1 §6 (Grapple). They follow the same band structure (A through E) and the same matching-dice severity rules as Slash, Pierce, and Krush.
+
 ---
 
 ## 8. Rabble

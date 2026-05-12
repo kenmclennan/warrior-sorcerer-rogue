@@ -959,7 +959,7 @@ A crawling pillar of coherent flame, roughly man-shaped. Heat radiates from it i
 - **AV:** 6 (heat disperses impacts)
 - **Move:** 10
 - **Damage Modifier:** +1D6
-- **Attacks:** Flame Touch 70% / 2D6 fire (no damage type for crit purposes - fire crits may use the Burn interim rules from PA1); Flame Breath 60% / 3D6 fire in a 5-metre cone.
+- **Attacks:** Flame Touch 70% / 2D6 fire (Burn); Flame Breath 60% / 3D6 fire in a 5-metre cone (Burn).
 - **Special Abilities:**
   - _Ignition Aura._ Any flammable material within 2 metres of the fire elemental ignites at the end of each Phase Four. Wooden weapons and shields carried by characters engaging it in melee must make Stamina rolls (CON x5) or catch fire.
   - _Fire Immunity._ Fire deals no damage to a fire elemental.
