@@ -1,12 +1,5 @@
 # P5. Combat
 
-> _"He was bleeding from a score of wounds, but the fires in his eyes burned brighter than ever."_
-> _- Robert E. Howard_
-
-Combat is brutal, fast, and decisive. Fights cost something even when won. Read P4 first - the percentile roll, outcome tiers, matching-dice criticals, and the PP spend menu are all defined there and used throughout.
-
----
-
 ## 1. The Combat Round
 
 Each combat round represents twelve seconds of action, divided into four phases resolved in sequence.
@@ -22,7 +15,7 @@ Each combat round represents twelve seconds of action, divided into four phases 
 
 Every participant declares their intended action. Lower DEX declares first; higher DEX declares last (more information, later commitment).
 
-Typical actions: move and attack, hold position and attack, disengage, perform a noncombat action, cast a spell (in Phase Two), or fight defensively.
+Typical actions: move and attack, hold position and attack, disengage, perform a non-combat action, cast a spell (in Phase Two), or fight defensively.
 
 Declarations are intentions, not contracts. A character may change their action when their turn arrives in Phase Three, but only based on events that have already occurred - not by waiting to see what a faster character does.
 
@@ -232,13 +225,13 @@ Sorcerous healing exists as rare, costly spells in the sorcery list (see P6 §3)
 
 1. **Fight withdrawal.** Spend the entire round in defensive action only (parries and dodges). If every attack against the character is successfully parried or dodged, the character is disengaged at the end of the round.
 
-2. **Knockback disengage.** If knocked back (see §6.8), attempt a Dodge immediately. Success means the character is disengaged; failure means still engaged.
+2. **Knocked-back disengage.** If a Crushing critical has knocked the character prone (see PA1 §1.4 _Knocked down_), they may attempt a Dodge immediately. Success means the character rolls away and is disengaged; failure means they remain prone and engaged.
 
 3. **Turn and run.** The character turns and moves. This abandons all defence: the opponent gets one immediate attack against the fleeing character that cannot be parried or dodged.
 
 ### 6.2 Knockout and Subdual
 
-**Knockout attack.** Declare at the start of Phase Three. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). No Slash or knockback special effects. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
+**Knockout attack.** Declare at the start of Phase Three. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). PA1 critical effects do not apply to Knockout criticals - the result is the unconsciousness rule above, not the brutal wounds of a lethal critical. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
 
 **Subduing.** Declare at the start of Phase Three. The attacker reduces the damage dice or omits the damage modifier, to a minimum of 1D2.
 
@@ -272,47 +265,45 @@ Daggers and unarmed strikes are unaffected by close quarters. Two-handed polearm
 
 ### 6.7 Cover
 
-Partial cover (a doorframe, a low wall, a fallen pillar) makes attacks against the covered character Difficult. If the attack roll falls between the modified skill (with Difficult applied) and the unmodified skill, the cover is struck instead. Damage that exceeds the cover's structural integrity passes through.
+Partial cover (a door-frame, a low wall, a fallen pillar) makes attacks against the covered character Difficult. If the attack roll falls between the modified skill (with Difficult applied) and the unmodified skill, the cover is struck instead. Damage that exceeds the cover's structural integrity passes through.
 
 A character who is kneeling or prone behind a full shield or wall gains substantial cover. The GM determines coverage based on description.
 
-### 6.8 Knockback
-
-Triggered by the crushing special effect (§7.3): when a blunt weapon's critical lands, the attacker may impose knockback. Resist with a STR vs. damage resistance roll. On a failure, the defender falls prone. A prone character suffers Easy attacks against them and Difficult attacks and parries of their own. Rising costs the attack action.
-
-### 6.9 Fighting While Down
+### 6.8 Fighting While Down
 
 All attacks, parries, and dodges are Difficult while prone; attacks against the character are Easy. Rising takes an attack slot, during which these penalties still apply.
 
 **Difficult Dodge to rise.** A prone character may attempt a Difficult Dodge on their DEX rank. Success: they rise and may still attack. Failure: they remain prone.
 
-### 6.10 Aimed Attacks
+### 6.9 Aimed Attacks
 
 For every 5 DEX ranks spent delaying, add +10% to the attack skill, up to the base skill maximum. Announce at the start of Phase Three; count off the ranks openly.
 
 ---
 
-## 7. Special Damage Types
+## 7. Damage Types
 
-Damage type governs critical effects (see PA1) and the special effect available on ordinary successes. The special effects on ordinary successes are described below.
+WSR weapons deal one of four damage types. Type determines which critical hit table is consulted in PA1 when a critical attack lands. Type also affects armour interactions (some armours protect better against some types - see P7 Equipment) and certain talents and creature abilities that react to specific types.
 
 ### 7.1 Slashing (swords, axes, daggers, claws)
 
-**Special success:** the wound bleeds. The target takes 1 HP of ongoing damage per round at the start of each Phase Four until a character succeeds at First Aid on the wound, or until the wound is bound (a Noncombat Action in combat, or freely outside it). Multiple bleeding wounds stack.
+Cutting wounds. Slash criticals resolve on the **PA1 Slash table** (PA1 §2). Slash critical entries commonly cause bleeding wounds; the bleed effect is defined in PA1 §1.4.
 
 ### 7.2 Impaling (spears, arrows, javelins, thrusting swords)
 
-**Special success:** the weapon lodges in the wound. The attacker may leave it (the target takes ongoing 1 HP per round from the embedded weapon) or extract it (a Difficult skill roll or a full-round action that deals additional damage equal to the original weapon dice roll, without the damage modifier). While the weapon is lodged, the original attacker has effectively lost it until extraction.
+Puncturing wounds. Impale criticals resolve on the **PA1 Pierce table** (PA1 §3). Pierce critical entries can lodge a weapon in the wound or pin a limb; the specific effect is described within the relevant entry.
 
 ### 7.3 Crushing (maces, hammers, clubs, shields)
 
-**Special success:** the blow doubles the damage modifier. In addition, the target makes a Stamina roll (CON x5): on a failure, the target is stunned for 1D3 rounds. A stunned character cannot attack; all parries and dodges require a successful Idea roll (INT x5) to attempt. All attacks against a stunned character are Easy.
+Blunt-force wounds. Crush criticals resolve on the **PA1 Krush table** (PA1 §4). Krush critical entries commonly stun the target or knock them prone; the stunned and knocked-down effects are defined in PA1 §1.4.
 
 ### 7.4 Entangling (whips, nets, chains, ropes)
 
-**Special success:** the target is entangled. They cannot move from their current position and cannot make attacks with restrained limbs. Escaping requires an opposed STR vs. STR or DEX vs. DEX resistance roll as a full-round action. The entangling weapon holds until deliberately released or the attacker is incapacitated.
+Restraining attacks. Entangling weapons have a dedicated tactical option:
 
-A character may also declare an entangle intent without a special success: the attack is Difficult, but on a success, the entangle takes effect without damage.
+**Entangle attempt.** Instead of striking for damage, a character may declare an entangle attempt with an entangling weapon. The roll is Difficult; on a success, the target is entangled without taking damage. An entangled target cannot move from their current position and cannot attack with restrained limbs. Escape requires an opposed STR vs. STR or DEX vs. DEX resistance roll as a full-round action. The entangling weapon holds until deliberately released or the wielder is incapacitated.
+
+An entangling critical (whether on a damage attack or an entangle attempt) imposes the entangle effect immediately and irresistibly: no resistance roll is permitted at the moment of impact, though subsequent escape attempts proceed normally.
 
 ---
 

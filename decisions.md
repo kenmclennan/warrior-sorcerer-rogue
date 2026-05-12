@@ -12,6 +12,37 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P5 Special Damage Types reframed; §6.8 Knockback dropped
+
+**Context:** User reviewing the combat chapter flagged two related issues: §7 "Special Damage Types" still referenced BRP "special success" outcomes (a tier WSR doesn't have - it collapsed Special/Critical into a single matching-dice Critical), and §6.8 Knockback was a stand-alone section triggered by the orphan "crushing special effect" in §7.3. Both sections were BRP two-tier fossils.
+
+**Decision:**
+
+1. **Reframe §7 "Special Damage Types" -> "Damage Types".** Strip every "Special success: X" entry. Each subsection becomes a brief pointer to the relevant PA1 critical table (Slash -> PA1 §2; Impale -> PA1 §3; Crush -> PA1 §4) plus a mention of the common critical effects defined in PA1 §1.4 (Bleeds, Stunned, Knocked down).
+
+2. **Preserve the Entangle Attempt declaration.** This was the only genuinely-useful mechanic in old §7 - a tactical choice to entangle without damage at Difficult. Kept as a labelled option in §7.4. An entangling critical now imposes the entangle effect immediately and irresistibly.
+
+3. **Drop §6.8 Knockback entirely.** The trigger no longer exists (no "special effect"), and the consequence is already covered: PA1 Krush critical entries include "Knocked down" outcomes, and §6.9 Fighting While Down (renumbered to §6.8) defines the prone-fighting penalties. Knockback as a _cause_ lives in PA1 critical entries and creature abilities (bestiary Charge effects); the _consequence_ lives in §6.8 Fighting While Down.
+
+4. **Renumber.** §6.9 Fighting While Down -> §6.8. §6.10 Aimed Attacks -> §6.9.
+
+5. **Knock-on fixes:**
+   - §6.1 disengage method 2 "Knockback disengage" rephrased to reference PA1 §1.4 _Knocked down_ instead of the deleted §6.8.
+   - §6.2 Knockout attack: "No Slash or knockback special effects" replaced with explicit guidance that PA1 critical effects do not apply to Knockout criticals (the result is the unconsciousness rule, not the brutal lethal-critical wounds).
+   - G3 §1 line 981 (the otherworldly Scream entry) cross-ref: "standard stun effects per P5 §7.3" -> "standard stun effects per PA1 §1.4".
+
+**Reasoning:** PA1 critical hit tables already deliver the genre-flavoured damage effects (bleed, lodge, stun, knockdown, sever, dying) at the Critical tier. The old §7 special-success effects were duplicates that no longer had a trigger after WSR collapsed BRP's two-tier success ladder into a single matching-dice Critical. Keeping a Damage Types reference section (without the orphan mechanics) preserves the necessary weapon -> damage type -> PA1 table linkage; entangling weapons keep their tactical declaration because it is genuinely a player-controlled choice, not a special-success effect.
+
+**Implications:**
+
+- P5 §6.8 Knockback section removed; subsections §6.9 and §6.10 renumbered.
+- P5 §7 entirely rewritten; word "Special" removed from heading and body.
+- P5 §6.1 and §6.2 internal references updated.
+- G3 cross-ref redirected.
+- No mechanical loss: every effect that used to require a special success now lives in PA1 critical entries, where it always did under WSR's actual rules. The entangle-attempt declaration is preserved.
+
+---
+
 ## 2026-05-12 - Battle Tempo Combat Talent added; Warlord's Eye fixed
 
 **Context:** User asked whether any Fate Point spend let a character improve their DEX for initiative order. None did. The discussion turned on whether to add one as a tenth universal spend or scope it to a Combat Talent.
