@@ -5,7 +5,7 @@
 
 Worked examples for the rules in the Player Book. Characters are named throughout; mechanics are called out in parentheses; cross-references use the standard format (e.g., "see P5 §3").
 
-Four sections: character creation for a City Thief; a multi-round combat demonstrating initiative, mooks, a critical hit, and PP spends; a sorcerer's difficult casting with Corruption; and a session sketch showing the hook-complications-reckoning structure.
+Four sections: character creation for a City Thief; a multi-round combat demonstrating initiative, Rabble, a critical hit, and PP spends; a sorcerer's difficult casting with Corruption; and a session sketch showing the hook-complications-reckoning structure.
 
 ---
 
@@ -223,7 +223,7 @@ Khess is not a sorcerer. She skips this step.
 
 ## 2. Combat Example: The Ambush at the Salt Causeway
 
-_Khess the Knife (from Section 1 above) is working with two companions: Orryn, a Mercenary Soldier, and the unnamed sorcerer Karash. They have been hired to escort a salt merchant's ledger to a buyer across the city. Three members of the Serpent Syndicate are waiting in an alley mouth on the Salt Causeway: one named enforcer, Davan the Flayer, and two hired mooks._
+_Khess the Knife (from Section 1 above) is working with two companions: Orryn, a Mercenary Soldier, and the unnamed sorcerer Karash. They have been hired to escort a salt merchant's ledger to a buyer across the city. Three members of the Serpent Syndicate are waiting in an alley mouth on the Salt Causeway: one named enforcer, Davan the Flayer, and two hired Rabble._
 
 ---
 
@@ -246,34 +246,34 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 - HP 12, PP 9, DEX 15, Khopesh 60%, Parry (Khopesh) 50%
 - _Reputation: a known enforcer for the Syndicate._
 
-**Mook A and Mook B** (hired swords):
+**Rabble A and Rabble B** (hired swords):
 
 - HP 9 each, DEX 11, Sword 35%
-- _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a mook (P5 §8)._
+- _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a Rabble (P5 §8)._
 - _No PP. No Fate Point access._
 
 ---
 
 ### 2.2 Round 1: Statements and Initiative
 
-The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the mooks flank him.
+The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the Rabble flank him.
 
 **Initiative order by DEX (highest goes last in the Statements phase; acts first in Action phase):**
 
 1. Khess - DEX 18 (declares last; acts first)
 2. Davan - DEX 15
 3. Orryn - DEX 13
-4. Mook A - DEX 11
-5. Mook B - DEX 11
+4. Rabble A - DEX 11
+5. Rabble B - DEX 11
 6. Karash - DEX 11
 
 **Statements phase (declared from DEX 11 upward - lowest DEX declares first):**
 
 Karash (DEX 11) declares: he will cast _Cloak of Night_ at Intensity 1 on Khess, next Phase Two.
 
-Mook A and B declare: each will advance and attack Orryn.
+Rabble A and B declare: each will advance and attack Orryn.
 
-Orryn declares: he will engage and attack Mook A with his sword.
+Orryn declares: he will engage and attack Rabble A with his sword.
 
 Davan declares: he will advance and attack Orryn with his khopesh.
 
@@ -305,14 +305,14 @@ Khess rolls dagger damage: 1D4+2 = 2+2 = **4.** Plus +7 bonus damage = **11 tota
 
 **Davan acts (DEX 15).** He is stunned. A stunned character cannot attack (see PA1 §1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
 
-**Orryn acts (DEX 13).** He attacks Mook A with his sword: rolls **39** against Sword 65%. A normal success.
+**Orryn acts (DEX 13).** He attacks Rabble A with his sword: rolls **39** against Sword 65%. A normal success.
 
 > Matching-dice check: 39 is not a matching value. Ordinary success.
-> Mook A may attempt to parry: rolls 58 against Sword 35%. Fails (58 > 35, no matching dice - ordinary failure).
+> Rabble A may attempt to parry: rolls 58 against Sword 35%. Fails (58 > 35, no matching dice - ordinary failure).
 
-Result: Success vs. Failure - Orryn's attack hits normally, armour applies. Mook A has no armour. Orryn rolls 1D8 + dm. His damage modifier is +1D4 (STR 13 + SIZ 14 = 27; dm = +1D4). Rolls 1D8 = 5, +1D4 = 3 = **8 damage.** Mook A has HP 9, half-HP threshold 5. 8 damage exceeds 5. **Mook A is automatically incapacitated.** The GM narrates: he stumbles backward, sword dropping, clutching his side, and slides down the wall. He is out of the fight.
+Result: Success vs. Failure - Orryn's attack hits normally, armour applies. Rabble A has no armour. Orryn rolls 1D8 + dm. His damage modifier is +1D4 (STR 13 + SIZ 14 = 27; dm = +1D4). Rolls 1D8 = 5, +1D4 = 3 = **8 damage.** Rabble A has HP 9, half-HP threshold 5. 8 damage exceeds 5. **Rabble A is automatically incapacitated.** The GM narrates: he stumbles backward, sword dropping, clutching his side, and slides down the wall. He is out of the fight.
 
-**Mook B acts (DEX 11).** He attacks Orryn: rolls **51** against Sword 35%. Fails - ordinary failure. The swing is wide.
+**Rabble B acts (DEX 11).** He attacks Orryn: rolls **51** against Sword 35%. Fails - ordinary failure. The swing is wide.
 
 **Karash acts (DEX 11).** He has already cast in Phase Two. He has no remaining action this round.
 
@@ -328,15 +328,15 @@ On his DEX rank (15), Davan declares a **Dying Blow** (P5 §9). He makes a Stami
 
 He shouts in a ragged voice: _"Syndicate! The Knife is here! Salt Causeway!"_ - alerting any Syndicate members within earshot. This is a noncombat action (shouting). It is Difficult, but shouting is not a roll-dependent task. The GM rules it succeeds: the warning is out. Davan collapses.
 
-**Khess acts (DEX 18).** She turns to engage Mook B. She attacks with her dagger: rolls **22** against Dagger 62%.
+**Khess acts (DEX 18).** She turns to engage Rabble B. She attacks with her dagger: rolls **22** against Dagger 62%.
 
 > Matching-dice check: 22 is both a matching-dice value and within her skill of 62%. **Critical Success automatically.** Matching value 22 = Band B (Pierce).
 
 The GM rolls 1d10 on Pierce, Band B: result is **3**. The entry reads: _"The blade enters between shoulder and neck; the target loses all feeling in the arm for 3 rounds - parries Difficult, +4 bonus damage."_
 
-Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Mook B's half-HP threshold is 5. 9 exceeds 5. **Mook B is automatically incapacitated.** He drops to the cobblestones, arm hanging useless.
+Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Rabble B's half-HP threshold is 5. 9 exceeds 5. **Rabble B is automatically incapacitated.** He drops to the cobblestones, arm hanging useless.
 
-**Orryn acts (DEX 13).** Both mooks are down. He moves to Davan, verifies he is unconscious and dying, and delivers First Aid. First Aid 40%: he rolls **28.** Success. He stabilises Davan - the bleeding stops, Davan is alive, and is now a prisoner. The party has someone to question.
+**Orryn acts (DEX 13).** Both Rabble are down. He moves to Davan, verifies he is unconscious and dying, and delivers First Aid. First Aid 40%: he rolls **28.** Success. He stabilises Davan - the bleeding stops, Davan is alive, and is now a prisoner. The party has someone to question.
 
 ---
 
@@ -355,7 +355,7 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 ### 2.5 What the Example Demonstrated
 
 - **Strike Ranks / Initiative** (P5 §1): DEX order determined who declared last and acted first. Khess's DEX 18 was a meaningful advantage.
-- **Mook incapacitation** (P5 §8): Both mooks went down in a single hit each, without consulting the Major Wounds Table. The fight resolved quickly.
+- **Rabble incapacitation** (P5 §8): Both Rabble went down in a single hit each, without consulting the Major Wounds Table. The fight resolved quickly.
 - **The Quiet Knife talent** (P2 §7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
 - **Critical Buy** (P4 §3): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band D critical. This is the primary driver of the fight's decisive moment.
 - **PA1 lookup** (PA1 §3): Band D Pierce, 1d10 = 5. Result: punctured lung, stun, bleed. Read aloud, resolved immediately.
@@ -497,7 +497,7 @@ The ledger is in the Syndicate's counting-house in the merchant quarter - which 
 
 **Complication one:** The ledger is not in Mekhos's counting-house. It was moved to a Syndicate vault two streets north. Mekhos is not the principal here; he is the middleman. The job is bigger than Hattu described.
 
-**Complication two:** The vault is guarded by a professional enforcer - not mooks. A named fighter called Selka the Rope, who Orryn recognises from the Khalash campaign. Orryn and Selka have history. Orryn's player invokes his Passion: _Loyalty to the mercenary company I once served (60%)._ He rolls 47 - success, +20% to relevant rolls. He knows Selka's fighting style, her preference for entangling weapons, her tendency to hold the defensive line. This gives the party information. It does not make the fight safe.
+**Complication two:** The vault is guarded by a professional enforcer - not Rabble. A named fighter called Selka the Rope, who Orryn recognises from the Khalash campaign. Orryn and Selka have history. Orryn's player invokes his Passion: _Loyalty to the mercenary company I once served (60%)._ He rolls 47 - success, +20% to relevant rolls. He knows Selka's fighting style, her preference for entangling weapons, her tendency to hold the defensive line. This gives the party information. It does not make the fight safe.
 
 **Complication three (sorcerous):** Karash detects a warding on the vault door with _See the Unseen._ The ward is not complex, but it is real: a minor sorcerous alarm (based on the Veil of the Ancient spell). Someone in the Syndicate's employ is sorcerously trained, or has access to someone who is. If the ward triggers, the Syndicate knows the vault has been entered within seconds.
 
@@ -507,7 +507,7 @@ The ledger is in the Syndicate's counting-house in the merchant quarter - which 
 
 The party finds a solution: Karash uses _Iron Ward_ at Intensity 2 to suppress the vault ward while Khess picks the lock (Fine Manipulation, augmented with Research from her case study). They enter before Selka is alerted.
 
-The fight with Selka is brief and hard. Selka is a professional (full HP, full PP, no mook rule applies). Orryn takes a significant wound - not a Major Wound, but enough that Khess has to choose between pressing the attack and spending a round applying First Aid (1D3 HP). She applies First Aid. Orryn stays standing.
+The fight with Selka is brief and hard. Selka is a professional (full HP, full PP, no Rabble rule applies). Orryn takes a significant wound - not a Major Wound, but enough that Khess has to choose between pressing the attack and spending a round applying First Aid (1D3 HP). She applies First Aid. Orryn stays standing.
 
 They take the ledger. They also take Mekhos's secondary accounting tablet, which they were not hired to take - Khess palms it during the extraction. Karash sees her do it and says nothing.
 

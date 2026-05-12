@@ -12,6 +12,42 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Renamed NPC tier "Mook" -> "Rabble"
+
+**Context:** User reviewing the combat chapter flagged that "Mook" is Damon Runyon / Cagney-era American slang - very 1920s pulp, the wrong register for sword & sorcery. Howard, Leiber, and Moorcock all reach for different vocabulary for disposable foes.
+
+**Decision:** Rename the lowest NPC tier from **Mook** to **Rabble** across the entire project. Treat "Rabble" as a proper-noun tier name and as a count noun for individual references ("a Rabble," "two Rabble," "the Rabble"). "Rabble" is invariant in plural form, like "sheep" or "fish."
+
+**Reasoning:**
+
+- **Genre pedigree.** "Rabble" is Howard-canon - Conan slaughters "the rabble" in dozens of stories. The word is also period-appropriate (Bronze Age / Renaissance / Lankhmar registers).
+- **Coverage.** Works in every context the tier covers (city guards, mercenaries, conscripts, thieves, cultists). Not tied to a specific role like "Bravos" (Leiber's hired urban sword-fodder) or "Conscripts" (military levies).
+- **Collective register.** The genre's framing is that these foes aren't individuals; they're the _aggregate_ threat. "Rabble" carries that collective sense naturally, even when used as a count noun for a single NPC.
+- **Tonal fit.** Slightly evocative but not overwrought; works clean in rules text ("Rabble have no PP," "Rabble are incapacitated at half HP").
+
+**Considered and rejected:**
+
+- **Bravos** (Leiber Lankhmar word): too specifically urban; awkward for tribal warriors, temple cultists, military conscripts.
+- **Curs** (Howard insult): too colorful for a rules term used dozens of times per session.
+- **Footmen** (medieval-neutral): feels servile; a city guard isn't really a footman.
+- **Soldiery** (Moorcock): awkward singular form, military-only connotation.
+
+**Implementation:** Sed-swept all instances across ten chapter files. Decisions.md historical entries preserved under the append-only convention.
+
+**Files swept:** P1, P4, P5, PA1, PA2, G1, G2, G3, G5, GA1.
+
+**Polish:** One sentence in P5 §10.4 ("if this reaches the incapacitation threshold, the Rabble is done") rephrased to "the target is done" to avoid the collective-vs-singular ambiguity. Everywhere else the count-noun usage ("A Rabble who takes...") reads cleanly.
+
+**Implications:**
+
+- All player-facing and GM-facing prose now uses "Rabble" as the tier name.
+- The "Rabble rule" (auto-incapacitation at half HP) is unchanged - this is purely a naming decision.
+- Three-tier model: **Rabble** / Professionals / Named Antagonists. The other two tier names were already coherent and remain unchanged.
+- Bestiary entries that explicitly call out "treated as Rabble" (skeletons, zombies, wolf-pack incapacitation) updated.
+- Stat-block labels in PA2 ("Mook A" / "Mook B") -> "Rabble A" / "Rabble B".
+
+---
+
 ## 2026-05-12 - P5 Special Damage Types reframed; §6.8 Knockback dropped
 
 **Context:** User reviewing the combat chapter flagged two related issues: §7 "Special Damage Types" still referenced BRP "special success" outcomes (a tier WSR doesn't have - it collapsed Special/Critical into a single matching-dice Critical), and §6.8 Knockback was a stand-alone section triggered by the orphan "crushing special effect" in §7.3. Both sections were BRP two-tier fossils.

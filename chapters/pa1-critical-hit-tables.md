@@ -75,7 +75,7 @@ Each result: **wound description + mechanical effect**. Read or paraphrase the d
 | D    | Severely lethal for ordinary foes; limbs may be useless; PCs are in genuine danger |
 | E    | Near-universally devastating; instant death plausible at the top entries           |
 
-Band E results can be survived by a PC with PP remaining for a Deflect the Killing Blow spend (see P4 §7.7). Named antagonists can do the same. Mooks cannot.
+Band E results can be survived by a PC with PP remaining for a Deflect the Killing Blow spend (see P4 §7.7). Named antagonists can do the same. Rabble cannot.
 
 > **Sidebar: A Worked Example**
 >

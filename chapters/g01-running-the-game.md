@@ -98,7 +98,7 @@ The working assumptions that keep sword & sorcery sword & sorcery at the table.
 
 ### 3.1 Be Lethal But Fair
 
-Death is in the deck of every session. The Major Wounds Table, the matching-dice fumble, the critical hit that ignores armour, the mook that landed an unexpected blow while the PC was distracted - these are not GM cruelties. They are the system doing its job. Being fair means:
+Death is in the deck of every session. The Major Wounds Table, the matching-dice fumble, the critical hit that ignores armour, the Rabble that landed an unexpected blow while the PC was distracted - these are not GM cruelties. They are the system doing its job. Being fair means:
 
 - **Telegraph the threat.** A PC who walks into a situation without information about the danger is owed that information before they commit. They should be able to ask questions, spend resources, observe, or send scouts. If they choose to charge in regardless, the consequences are theirs.
 - **Never kill a PC for a die roll alone.** The rules provide multiple layers between a bad roll and death: Deflect the Killing Blow, Stamina rolls, Dying Blows, healing. A PC death should arrive through accumulated bad decisions and misfortune together, not through one unlucky fumble in the first round. If a PC is dying and has PP remaining, remind them that Deflect the Killing Blow exists - let them choose.
@@ -217,7 +217,7 @@ These practices prevent the tactical pace from slowing as players and GM lose tr
 
 **Let the players describe their victories.** When a PC lands a critical hit or drops an opponent, ask the player what it looks like. "What does that look like - how did you take him down?" This is not a time cost; it is a pacing beat that also enriches the fiction, makes the player feel the weight of the moment, and gives the table a breath between the peaks of the action.
 
-**Mooks go down fast.** The mook rule (P5 §8) is designed to prevent fights against ordinary opponents from dragging. When a mook hits their half-HP threshold, they are done. Narrate it briefly and move on. The pace of a fight against multiple mooks should be punchy: enemies fall every round or two. Slower pace is reserved for professional antagonists and named foes, who warrant more attention.
+**Rabble go down fast.** The Rabble rule (P5 §8) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on. The pace of a fight against multiple Rabble should be punchy: enemies fall every round or two. Slower pace is reserved for professional antagonists and named foes, who warrant more attention.
 
 **Keep the sorcerer in the picture.** Sorcery's Phase Two resolution and the interruption risk from melee (P5 §6.5) are two pieces of information that need active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to make it to Phase Two without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
 
@@ -261,7 +261,7 @@ Every table sits somewhere different on the spectrum between meaningful tactical
 
 The matching-dice system and the PP pool are the engine of this dual service.
 
-For players who want **fast, cinematic resolution**: the outcome tiers are simple to read (did I succeed? did both dice match? am I above or below my skill?), the Fate Point menu requires no lookup table, and mooks fall quickly. A fight can be narrated and resolved in twenty minutes of real time when both sides are playing efficiently.
+For players who want **fast, cinematic resolution**: the outcome tiers are simple to read (did I succeed? did both dice match? am I above or below my skill?), the Fate Point menu requires no lookup table, and Rabble fall quickly. A fight can be narrated and resolved in twenty minutes of real time when both sides are playing efficiently.
 
 For players who want **tactical depth**: the Critical Buy mechanic (P4 §3) creates a continuous decision under pressure - do I spend PP now to push this success to a critical, knowing I may need those PP later? The Fate Point menu has nine distinct options with different costs and different situations where each is optimal. Parry or dodge? Which attack to defend? When to disengage? These are tactical questions with meaningful answers, built into the basic combat structure without adding overhead.
 
@@ -277,7 +277,7 @@ Some signals and what to do with them.
 
 **Players want more narrative and less roll.** Let the dice stay quiet when they should. The two conditions for rolling (P4 §1.1) are that the task is neither automatic nor impossible, and that something is at stake. If a high-Climb player wants to scale a wall in a non-combat situation with no particular urgency, do not call for a roll. They climbed the wall. Save the dice for when failure would actually change what happens next.
 
-**Players are treating mooks as threats equal to named antagonists.** Correct this gently by applying the mook rule visibly. "The soldier takes the wound - that is just over half his HP - and he goes down. He decides the coin is not worth dying for." When players see mooks fall at the half-HP threshold, they recalibrate their threat assessment and the pace of ordinary fights picks up.
+**Players are treating Rabble as threats equal to named antagonists.** Correct this gently by applying the Rabble rule visibly. "The soldier takes the wound - that is just over half his HP - and he goes down. He decides the coin is not worth dying for." When players see Rabble fall at the half-HP threshold, they recalibrate their threat assessment and the pace of ordinary fights picks up.
 
 **Players want more from combat.** Give them named antagonists. A single named foe with a full PP pool, a Talent or two, and a specific combat style (an NPC sorcerer who is also a competent swordsman, a mercenary captain with high parry skill and a habit of disengaging to reassess) creates the kind of fight where the tactical options actually matter. Named antagonists should be rare enough that their appearance signals elevation in stakes.
 

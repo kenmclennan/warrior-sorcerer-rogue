@@ -222,7 +222,7 @@ Power Points are spent by:
 - **Other Fate Point spends (P4 §7).** Fixed-cost spends from the menu - re-rolls, defensive responses, forcing a success.
 - **Talents (P2 §4).** Certain talent abilities have a PP cost listed in their description.
 
-Named antagonists and competent NPC foes have their own PP pools, spent under the same rules. Mooks have no PP and no access to any PP-spend ability. See G2 §1 for the NPC tier model.
+Named antagonists and competent NPC foes have their own PP pools, spent under the same rules. Rabble have no PP and no access to any PP-spend ability. See G2 §1 for the NPC tier model.
 
 ---
 
@@ -230,7 +230,7 @@ Named antagonists and competent NPC foes have their own PP pools, spent under th
 
 Fate Point spends are PP expenditures that bend the dice or the fiction in the character's favour. The list below covers every fixed-cost spend. One additional Fate Point spend - **Buying a Critical** - has variable cost and lives in §3 because its cost is calculated from the dice; it is still a Fate Point spend and draws from the same pool.
 
-The following options are always available to any character with sufficient PP. Mooks cannot make any Fate Point spend. Named foes can.
+The following options are always available to any character with sufficient PP. Rabble cannot make any Fate Point spend. Named foes can.
 
 **Combining spends.** Each Fate Point spend resolves independently. Multiple spends on a single action are legal where they do not contradict each other - for example, Steady Blade before the roll, then Shrug Off a Blow after damage lands. Two specific restrictions:
 
@@ -309,7 +309,7 @@ When a character _successfully_ uses a skill in a genuinely stressful or dramati
 
 ### 8.2 The Improvement Roll
 
-At the end of each adventure, roll D100 and add INT/2 (round up). If the adjusted total exceeds the current skill rating, the skill improves: add 1D6, or take +3 by declaring before rolling (safe option for skills near critical thresholds).
+At the end of each adventure, roll D100 and add INT/2 (round up). If the adjusted total exceeds the current skill rating, the skill improves: add 1D6, or take +3 by declaring before rolling.
 
 At skill ratings above 75%, the experience bonus (INT/2) is increasingly necessary to push the adjusted total past the high base rating.
 

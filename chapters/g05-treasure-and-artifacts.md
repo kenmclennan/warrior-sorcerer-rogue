@@ -86,7 +86,7 @@ Trade goods as treasure. These are things that have extraordinary value in one p
 
 For improvised treasure when the party searches an unexpected place:
 
-**Mook's purse or belt pouch (roll 1D6):**
+**Rabble's purse or belt pouch (roll 1D6):**
 
 | Roll | Contents                                                          |
 | ---- | ----------------------------------------------------------------- |

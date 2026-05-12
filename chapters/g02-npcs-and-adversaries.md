@@ -3,7 +3,7 @@
 > _"There were at least a score of them - hard, lean, wolfish men, with a sprinkling of black-bearded nomads among them."_
 > _- Robert E. Howard_
 
-This chapter covers stat block formats, design principles, and ready-to-use examples for the three tiers of human enemy: mooks, professionals, and named antagonists. The player-facing mook rule is in P5 §8; this chapter is the GM's side.
+This chapter covers stat block formats, design principles, and ready-to-use examples for the three tiers of human enemy: Rabble, professionals, and named antagonists. The player-facing Rabble rule is in P5 §8; this chapter is the GM's side.
 
 ---
 
@@ -11,17 +11,17 @@ This chapter covers stat block formats, design principles, and ready-to-use exam
 
 Every human enemy belongs to one of three tiers. The tier determines mechanical complexity, narrative weight, and preparation time.
 
-### 1.1 Mooks
+### 1.1 Rabble
 
-Mooks are the warm bodies that fill a dungeon, guard a gate, or crew a villain's compound. They are soldiers, bandits, city watchmen, cultist conscripts, and hired swords with no particular name. The genre demands that PCs cut through them with blood and momentum rather than grinding through each one as a full BRP combat. That is what the mook rule provides.
+Rabble are the warm bodies that fill a dungeon, guard a gate, or crew a villain's compound. They are soldiers, bandits, city watchmen, cultist conscripts, and hired swords with no particular name. The genre demands that PCs cut through them with blood and momentum rather than grinding through each one as a full BRP combat. That is what the Rabble rule provides.
 
-**Narrative role.** Mooks establish threat-through-numbers, cost the PCs some HP before the real fight, and fall dramatically. They are not meant to win. A mook who lingers too long has become something else.
+**Narrative role.** Rabble establish threat-through-numbers, cost the PCs some HP before the real fight, and fall dramatically. They are not meant to win. A Rabble who lingers too long has become something else.
 
-**Mechanical profile.** Mooks have one primary weapon skill, a Dodge rating, and an HP total. They do not have Power Points and cannot make any Fate Point spend. They do not roll on the Major Wounds Table. They fight, they absorb damage up to their threshold, and then they fall.
+**Mechanical profile.** Rabble have one primary weapon skill, a Dodge rating, and an HP total. They do not have Power Points and cannot make any Fate Point spend. They do not roll on the Major Wounds Table. They fight, they absorb damage up to their threshold, and then they fall.
 
-The mook rule: any mook who takes cumulative damage equal to or greater than half their total HP is automatically incapacitated. The GM describes how - beaten down, driven off, knocked senseless, or simply unwilling to die for six coins a day. The fiction determines the detail; the threshold determines when.
+The Rabble rule: any Rabble who takes cumulative damage equal to or greater than half their total HP is automatically incapacitated. The GM describes how - beaten down, driven off, knocked senseless, or simply unwilling to die for six coins a day. The fiction determines the detail; the threshold determines when.
 
-**When a mook stops being a mook.** The moment an NPC acquires a name and a plot function, they are no longer a mook. The GM makes this call before combat starts.
+**When a Rabble stops being a Rabble.** The moment an NPC acquires a name and a plot function, they are no longer a Rabble. The GM makes this call before combat starts.
 
 ### 1.2 Professionals
 
@@ -43,11 +43,11 @@ For sorcerer-villain antagonists, apply the full Sorcery rules from P6. They hav
 
 ---
 
-## 2. Mook Stat Block Format
+## 2. Rabble Stat Block Format
 
-Everything the GM needs for a mook encounter fits in seven lines.
+Everything the GM needs for a Rabble encounter fits in seven lines.
 
-### 2.1 Mook Block Format
+### 2.1 Rabble Block Format
 
 ```
 [Name/Type]
@@ -65,38 +65,38 @@ No Fate Point access. No Major Wounds Table.
 
 **Design notes:**
 
-- HP 6-10 is the typical mook range. A solid hit from any PC should threaten the threshold.
+- HP 6-10 is the typical Rabble range. A solid hit from any PC should threaten the threshold.
 - Primary weapon skill 30-50%. Heavy armour belongs on professionals.
-- No skills beyond combat. If a mook's Move Quietly or Insight matters, promote them to a different tier.
+- No skills beyond combat. If a Rabble's Move Quietly or Insight matters, promote them to a different tier.
 
-### 2.2 The Mook Rule - GM Detail
+### 2.2 The Rabble Rule - GM Detail
 
-**Cumulative threshold.** Total damage taken, not per-blow. A mook with 8 HP is incapacitated at 4 HP cumulative - whether from one solid hit or three scratches.
+**Cumulative threshold.** Total damage taken, not per-blow. A Rabble with 8 HP is incapacitated at 4 HP cumulative - whether from one solid hit or three scratches.
 
 **Critical hits.** Full damage ignoring armour (P5 §10.4). If cumulative damage reaches the threshold, incapacitated immediately. Crit table results are colour only - no Major Wounds trigger.
 
-**Major Wounds.** Mooks never roll on the Major Wounds Table. The threshold replaces that system.
+**Major Wounds.** Rabble never roll on the Major Wounds Table. The threshold replaces that system.
 
 **Describing incapacitation.** Not always lethal. A bandit struck by a sword might be dead; the same bandit knocked sprawling by a half-spent blow is unconscious. City guardsmen beaten down create a different problem than twelve dead ones. Let the fiction determine what "incapacitated" looks like.
 
-**Mooks in numbers.** Track each mook's cumulative damage separately - not a group HP pool. Two or three rounds should scatter most mook groups.
+**Rabble in numbers.** Track each Rabble's cumulative damage separately - not a group HP pool. Two or three rounds should scatter most Rabble groups.
 
 ### 2.3 "Look Out Master!"
 
-This mechanic lets a villain redirect an incoming blow to a nearby mook, spending down their Power Points to do it.
+This mechanic lets a villain redirect an incoming blow to a nearby Rabble, spending down their Power Points to do it.
 
-**The spend.** When a PC's attack connects with a named antagonist villain and damage is about to be resolved, the villain may spend all their remaining Power Points (minimum 8 PP) to activate this move. A mook within hand-to-hand range of the villain (or within throwing distance of a projectile attack) hurls themselves in front of the blow. The mook takes the full attack result, including any critical effects, and is immediately killed or incapacitated.
+**The spend.** When a PC's attack connects with a named antagonist villain and damage is about to be resolved, the villain may spend all their remaining Power Points (minimum 8 PP) to activate this move. A Rabble within hand-to-hand range of the villain (or within throwing distance of a projectile attack) hurls themselves in front of the blow. The Rabble takes the full attack result, including any critical effects, and is immediately killed or incapacitated.
 
 The villain takes no damage from this attack.
 
-**Pacing function.** Look Out Master! is a narrative timer, not a defensive tactic. The villain has spent their entire remaining PP pool - no Fate Point access, no Critical Buys, gutted casting capacity if a sorcerer. Deploy it once per encounter at maximum dramatic tension. Name the mook who dies. Give them one descriptive line.
+**Pacing function.** Look Out Master! is a narrative timer, not a defensive tactic. The villain has spent their entire remaining PP pool - no Fate Point access, no Critical Buys, gutted casting capacity if a sorcerer. Deploy it once per encounter at maximum dramatic tension. Name the Rabble who dies. Give them one descriptive line.
 
-**Constraints.** The villain must have a mook within range. "Range" is defined by the attack type:
+**Constraints.** The villain must have a Rabble within range. "Range" is defined by the attack type:
 
-- Melee attack: one mook who is engaged or adjacent to the villain.
-- Missile or thrown attack: one mook who is physically between the villain and the projectile's line.
+- Melee attack: one Rabble who is engaged or adjacent to the villain.
+- Missile or thrown attack: one Rabble who is physically between the villain and the projectile's line.
 
-If no mook qualifies, the mechanic cannot be used.
+If no Rabble qualifies, the mechanic cannot be used.
 
 The PP minimum of 8 ensures this is not free for villains who have already spent heavily.
 
@@ -104,7 +104,7 @@ The PP minimum of 8 ensures this is not free for villains who have already spent
 
 ## 3. Building Professional NPCs
 
-Professionals are built from the same skeleton as mooks with a broader skill profile and enough character to feel real in an encounter.
+Professionals are built from the same skeleton as Rabble with a broader skill profile and enough character to feel real in an encounter.
 
 ### 3.1 Professional Stat Block Format
 
@@ -194,7 +194,7 @@ Sorcerer-villain antagonists have a Corruption track and may have a Patron Score
 
 **Spells in memory.** Two or three spells, total levels not exceeding half INT (consistent with the PC rule in P2 §10.2).
 
-**Casting under pressure.** Sorcerer antagonists follow P6 §2 and share the combat interruption risk (P5 §6.5). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps mooks and bodyguards between them and melee fighters.
+**Casting under pressure.** Sorcerer antagonists follow P6 §2 and share the combat interruption risk (P5 §6.5). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
 
 **Corruption as a signal.** Corruption level shows how far the sorcerer has gone. Near the Breaking Point means they have sold something fundamental - let that show in their behaviour and decisions.
 
@@ -204,7 +204,7 @@ Cross-reference G4 for patron design, ritual magic, and demon binding. This chap
 
 The villain who keeps escaping is a campaign asset. The mechanics are simple: they had PP remaining when they fled and used it to survive. Not GM fiat - they invested resources in survival rather than killing.
 
-Track surviving antagonists between sessions: what they lost (PP, mooks, resources) and what they gained (rest, allies, information about the PCs). A villain who has suffered once is cannier, warier, and probably angrier. Let that show.
+Track surviving antagonists between sessions: what they lost (PP, Rabble, resources) and what they gained (rest, allies, information about the PCs). A villain who has suffered once is cannier, warier, and probably angrier. Let that show.
 
 ---
 
@@ -214,12 +214,12 @@ Five ready-to-use stat blocks calibrated for a mid-campaign WSR session. Adjust 
 
 ---
 
-### 5.1 City Guard (Mook)
+### 5.1 City Guard (Rabble)
 
 Gate watch, market patrol, temple precinct foot soldier. People doing a job for coin.
 
 ```
-City Guard (Mook)
+City Guard (Rabble)
 
 STR 11  CON 11  SIZ 12  DEX 10  POW 10  INT 10
 HP 12  Dodge 25%  Damage Modifier: none
@@ -240,12 +240,12 @@ unless pride or watch-captain presence demands otherwise.
 
 ---
 
-### 5.2 Bandit Raider (Mook)
+### 5.2 Bandit Raider (Rabble)
 
 Desert road-watcher, mountain pass ambusher, organised criminal.
 
 ```
-Bandit Raider (Mook)
+Bandit Raider (Rabble)
 
 STR 12  CON 11  SIZ 11  DEX 12  POW 9  INT 10
 HP 11  Dodge 30%  Damage Modifier: none
@@ -292,13 +292,13 @@ Other skills:
   First Aid 40%
 
 Notes: Commands up to a dozen mercenaries (use Bandit Raider or City Guard
-as mook stat blocks for the troops). Will not abandon wounded subordinates
+as Rabble stat blocks for the troops). Will not abandon wounded subordinates
 unless specifically ordered to. Has a grudge against sorcerers (bad
 campaign experience - the GM can make this a useful lever or a
 complication). Equipment includes a silver arm-ring worth 4 Staters.
 ```
 
-**Running the mercenary captain.** Fights smart: directs mooks with Command, takes the best ground, keeps the shield up. Not a berserker - a professional who has survived by avoiding unnecessary risks. At Sword 60% / Shield 55%, they genuinely threaten any PC without comparable skills. They will flee if the paymaster is visibly dead, or switch sides for a price.
+**Running the mercenary captain.** Fights smart: directs Rabble with Command, takes the best ground, keeps the shield up. Not a berserker - a professional who has survived by avoiding unnecessary risks. At Sword 60% / Shield 55%, they genuinely threaten any PC without comparable skills. They will flee if the paymaster is visibly dead, or switch sides for a price.
 
 ---
 
@@ -328,7 +328,7 @@ Other skills:
   Research 50%
   Status 60%
 
-Notes: Commands 2D6 cultist followers (treat as mooks: HP 8, primary weapon
+Notes: Commands 2D6 cultist followers (treat as Rabble: HP 8, primary weapon
 30%, Dodge 20%, incapacitated at 4 HP, no armour). Uses Intimidate and
 Persuade before weapons; has long experience reading interrogation situations
 and exploiting emotional pressure points. Will not fight the PCs directly if
@@ -453,7 +453,7 @@ casting), Steady Blade (to ignore situational penalties on sorcery rolls).
 Look Out Master! available at full PP cost.
 
 Notes: Nashtira does not fight in melee if she can avoid it. She will have
-mooks or a professional bodyguard interposed between herself and the PCs at
+Rabble or a professional bodyguard interposed between herself and the PCs at
 all times. Her opening move in any dangerous encounter is Witch Sight to
 assess sorcerous threats, then Sorcerous Armor if she has time, then Curse of
 Sorcery on the most threatening PC fighter.
@@ -472,18 +472,18 @@ Cross-reference G4 for the Devouring Lattice's full patron profile and the
 Patron Intercession mechanics at Patron Score 14.
 ```
 
-**Running Nashtira.** Physically fragile (HP 11, no armour), magically dangerous (POW 18). The PCs can kill her quickly if they reach melee; the challenge is getting through the mooks and bodyguard. Her Corruption past the Breaking Point is a description tool: she should seem wrong - too still, too calm, capable of decisions a normal person would flinch from. She knows the patron will not intercede unless the Codex is at stake, so she burns her own resources first. Look Out Master! is available at full PP; after heavy casting it may not be, leaving her running - which is an invitation for a chase scene.
+**Running Nashtira.** Physically fragile (HP 11, no armour), magically dangerous (POW 18). The PCs can kill her quickly if they reach melee; the challenge is getting through the Rabble and bodyguard. Her Corruption past the Breaking Point is a description tool: she should seem wrong - too still, too calm, capable of decisions a normal person would flinch from. She knows the patron will not intercede unless the Codex is at stake, so she burns her own resources first. Look Out Master! is available at full PP; after heavy casting it may not be, leaving her running - which is an invitation for a chase scene.
 
 ---
 
 ## 6. Encounter Design Notes
 
-**Mix tiers deliberately.** The most interesting encounters have mooks, one professional, and the shadow of a named antagonist not yet present. The professional gives the mooks direction; the offstage antagonist gives the fight stakes beyond this particular exchange.
+**Mix tiers deliberately.** The most interesting encounters have Rabble, one professional, and the shadow of a named antagonist not yet present. The professional gives the Rabble direction; the offstage antagonist gives the fight stakes beyond this particular exchange.
 
-**Named antagonists do not fight every session.** Place them at moments of maximum dramatic consequence: once to establish threat, once to raise stakes, once for the confrontation that resolves or escalates the arc. Between appearances, they operate through professionals and mooks.
+**Named antagonists do not fight every session.** Place them at moments of maximum dramatic consequence: once to establish threat, once to raise stakes, once for the confrontation that resolves or escalates the arc. Between appearances, they operate through professionals and Rabble.
 
-**The PP economy is the encounter economy.** Every mook that uses Look Out Master!, every professional who costs the PCs a Fate Point, every hard fight that drains the party PP is preparation for the final confrontation. Track the antagonist's PP spending as carefully as the PCs'.
+**The PP economy is the encounter economy.** Every Rabble that uses Look Out Master!, every professional who costs the PCs a Fate Point, every hard fight that drains the party PP is preparation for the final confrontation. Track the antagonist's PP spending as carefully as the PCs'.
 
-**Calibrate mook HP to party damage output.** A mook with HP 6 goes down in one hit - satisfying but possibly too easy. HP 10 survives one hit but not two. Two rounds to scatter a mook group is ideal; four is too long.
+**Calibrate Rabble HP to party damage output.** A Rabble with HP 6 goes down in one hit - satisfying but possibly too easy. HP 10 survives one hit but not two. Two rounds to scatter a Rabble group is ideal; four is too long.
 
 **Give professionals a reason to be there.** The mercenary captain is there because someone is paying them. A sentence of context makes a professional feel like a person, not an encounter difficulty slider.

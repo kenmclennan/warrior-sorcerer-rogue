@@ -307,17 +307,17 @@ An entangling critical (whether on a damage attack or an entangle attempt) impos
 
 ---
 
-## 8. Mooks
+## 8. Rabble
 
-Mooks are ordinary soldiers, hired thugs, city guards, and bandit conscripts - fighters without exceptional qualities, without Fate Point access, and without the will to fight to the death.
+Rabble are ordinary soldiers, hired thugs, city guards, and bandit conscripts - fighters without exceptional qualities, without Fate Point access, and without the will to fight to the death.
 
-**The mook rule.** A mook who takes cumulative damage equal to or greater than half their HP total is automatically incapacitated. No Major Wounds Table. The GM narrates the result: knocked out, driven off, or unwilling to die for six coins. Mooks still attack, parry, and roll to hit normally - only the incapacitation threshold is simplified.
+**The Rabble rule.** A Rabble who takes cumulative damage equal to or greater than half their HP total is automatically incapacitated. No Major Wounds Table. The GM narrates the result: knocked out, driven off, or unwilling to die for six coins. Rabble still attack, parry, and roll to hit normally - only the incapacitation threshold is simplified.
 
-A mook is never a named character. The moment an NPC becomes plot-relevant or individually characterised, they resolve under full combat rules.
+A Rabble is never a named character. The moment an NPC becomes plot-relevant or individually characterised, they resolve under full combat rules.
 
-**Mooks have no Fate Point access.** They cannot spend PP on any option from the menu in P4 §7.
+**Rabble have no Fate Point access.** They cannot spend PP on any option from the menu in P4 §7.
 
-For mook stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see G2 §1.
+For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see G2 §1.
 
 ---
 
@@ -366,6 +366,6 @@ A Critical Buy uses the purchased value. If a character with Sword 65 rolls 47 a
 
 Within the damage type table and severity band column, roll 1D100 and read the result. A character who has received a lethal crit may spend PP (P4 §7) after hearing the result but before it takes full effect.
 
-### 10.4 Criticals and Mooks
+### 10.4 Criticals and Rabble
 
-Mooks do not consult the crit tables. A critical hit deals full damage ignoring armour; if this reaches the incapacitation threshold (§8), the mook is done. The crit table may be consulted for descriptive colour only.
+Rabble do not consult the crit tables. A critical hit deals full damage ignoring armour; if this reaches the incapacitation threshold (§8), the target is done. The crit table may be consulted for descriptive colour only.

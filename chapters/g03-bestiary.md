@@ -24,11 +24,11 @@ Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 
 
 **Special Abilities** - Distinctive powers, immunities, or conditions not covered by standard combat.
 
-**Morale** - When the creature breaks, flees, or fights to the death. Mooks (P5 §8) are incapacitated at half HP. Named creatures and those listed as "does not flee" are full combatants.
+**Morale** - When the creature breaks, flees, or fights to the death. Rabble (P5 §8) are incapacitated at half HP. Named creatures and those listed as "does not flee" are full combatants.
 
-### 1.1 Mooks and Creatures
+### 1.1 Rabble and Creatures
 
-Undead created by sorcery (skeletons, zombies) are mook-scale and use the mook incapacitation rule. Ordinary animals use standard combat rules - a wolf or lion is not a mook. A lone crocodile is a serious threat; a dozen crocodiles in a river are a hazard requiring a different resolution approach.
+Undead created by sorcery (skeletons, zombies) are Rabble-scale and use the Rabble incapacitation rule. Ordinary animals use standard combat rules - a wolf or lion is not a Rabble. A lone crocodile is a serious threat; a dozen crocodiles in a river are a hazard requiring a different resolution approach.
 
 ---
 
@@ -112,7 +112,7 @@ A lone wolf is a moderate threat - watchful, fast, and intelligent enough to pro
   - _Pack Tactics._ For every wolf beyond the first already engaged with the same target, each wolf gains +10% to its attack skill (maximum +30%).
 - **Morale:** A lone wolf retreats when injured or facing serious resistance. A pack fights until it takes significant casualties (three or more wolves incapacitated).
 
-**Wolf Pack (6-12 wolves):** Use the above stat block for each wolf. The pack counts as a group of mooks for incapacitation purposes (each wolf is incapacitated at 6 HP). The pack coordinates: some wolves will attempt hamstring attacks while others go for the throat.
+**Wolf Pack (6-12 wolves):** Use the above stat block for each wolf. The pack counts as a group of Rabble for incapacitation purposes (each wolf is incapacitated at 6 HP). The pack coordinates: some wolves will attempt hamstring attacks while others go for the throat.
 
 ### 2.4 Bear
 
@@ -372,7 +372,7 @@ A construction of ossified matter that walks because it has been told to and sto
   - _Brittle._ When a skeleton takes damage, the GM may roll 1D20. On a roll equal to or less than the damage dealt, a limb or section shatters; the GM narrates which part is destroyed and what the mechanical consequence is (losing a sword arm, losing a leg dropping it prone, etc.).
   - _Slashing Resistance._ Slashing weapons deal half damage to skeletons (they cut through without structural impact). Krush (crushing) attacks deal full damage.
   - _Mindless._ Skeletons do not dodge, do not retreat, and cannot be psychologically influenced. They cannot be surprised.
-  - _Mook._ Skeletons are always treated as mooks (incapacitated at half HP).
+  - _Rabble._ Skeletons are always treated as Rabble (incapacitated at half HP).
 - **Morale:** None. Fights until destroyed.
 
 ### 3.2 Zombie
@@ -399,7 +399,7 @@ The reanimated corpse is slower and more durable than a skeleton - enough residu
   - _Damage Reduction._ Slashing and piercing attacks deal half damage to a zombie. Krush (crushing) and fire deal full damage.
   - _No Dodge or Parry._ Zombies never attempt to dodge or parry. All attacks against them are unopposed.
   - _Infectious Bite (optional)._ At the GM's discretion, a bite from a recently-dead zombie may transmit whatever killed it. This is not universal - only specific zombies in specific scenarios carry this.
-  - _Mook._ Zombies are always treated as mooks (incapacitated at half HP).
+  - _Rabble._ Zombies are always treated as Rabble (incapacitated at half HP).
 - **Morale:** None. Fights until destroyed.
 
 ### 3.3 Mummy

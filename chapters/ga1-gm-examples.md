@@ -235,7 +235,7 @@ Fate Point access: Yes (full named-antagonist PP pool, spends normally).
 
 ## 3. Running a Chase Scene at the Table
 
-_Khess has been spotted in the Syndicate archive. Two professional enforcers and a mook (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: G6 §7._
+_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: G6 §7._
 
 ---
 
@@ -247,7 +247,7 @@ _Khess has been spotted in the Syndicate archive. Two professional enforcers and
 
 2. **The course:** Khess is heading for the Tanners' Alley, which she cased before entering. Three features: (a) the Spicer's Market stalls - chaotic crowds she can lose pursuit in; (b) a low roof connection she identified between a chandler's shop and a dyer's yard; (c) the canal at the alley's end, crossable by a narrow footbridge.
 
-3. **Skills required:** CON for endurance, Agility for burst speed and obstacles. Khess also has Climb 61% and Jump available. The mook on horseback will be irrelevant in the narrow streets - the GM rules: the horse cannot navigate the stalls, so the mounted mook drops out of active chase after Round 1 and tries to get ahead of Khess via the wider street. This is noted as a possible Round 3 or 4 complication if the chase extends.
+3. **Skills required:** CON for endurance, Agility for burst speed and obstacles. Khess also has Climb 61% and Jump available. The Rabble on horseback will be irrelevant in the narrow streets - the GM rules: the horse cannot navigate the stalls, so the mounted Rabble drops out of active chase after Round 1 and tries to get ahead of Khess via the wider street. This is noted as a possible Round 3 or 4 complication if the chase extends.
 
 4. **Combat during the chase:** The lead enforcer is close enough to throw a knife if the range closes to Closing. The GM notes this but plans not to invoke it unless the range actually closes.
 
@@ -305,7 +305,7 @@ _No pursuer succeeds this round. Position remains Out of Sight - second consecut
 
 ### 3.5 Resolution at the Table
 
-**Narration:** "You clear the rooftop at a run and drop into the dyer's yard - the familiar smell of mordant and damp wool hits you before you land. Karash has the door. He does not ask any questions you cannot answer while moving. The two of you are two streets away before the Syndicate men make it back to ground level. You hear the mook's horse at a canter on the wider avenue, going the wrong direction."
+**Narration:** "You clear the rooftop at a run and drop into the dyer's yard - the familiar smell of mordant and damp wool hits you before you land. Karash has the door. He does not ask any questions you cannot answer while moving. The two of you are two streets away before the Syndicate men make it back to ground level. You hear the Rabble's horse at a canter on the wider avenue, going the wrong direction."
 
 ---
 
@@ -343,7 +343,7 @@ _The GM calculates this silently; the resistance roll is disclosed once casting 
 
 **5. What is the casting drama?**
 
-Magic is theatrical (design.md §2.2). The GM describes Karash's casting signature before the dice: "The air thickens. The shadow from that wall lamp isn't falling right. The mercenary blinks. What are you doing?" This is also tactical information: the mercenary (a professional, not a mook) will attempt to close range in the Statements phase of the next round if the spell fails.
+Magic is theatrical (design.md §2.2). The GM describes Karash's casting signature before the dice: "The air thickens. The shadow from that wall lamp isn't falling right. The mercenary blinks. What are you doing?" This is also tactical information: the mercenary (a professional, not a Rabble) will attempt to close range in the Statements phase of the next round if the spell fails.
 
 ---
 
