@@ -12,6 +12,44 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Populate PA1 Burn and Grapple critical hit tables (100 entries)
+
+**Context:** PA1 had Burn and Grapple as "Future Expansion" with interim rules (treat as Krush at one band lower / treat as Krush). User asked whether to populate now given the use cases:
+
+- **Grapple:** heavily used across the bestiary (Lion, Tiger, Bear, Giant Constrictor, Eagle, Giant, Griffin, Greater Demon, Yog-Hath, Air Elemental, Otherworldly Tentacle Mass, plus the Great Wolf's "Drag"). PC Grapple skill (P3) is a player tool. Currently every grapple critical reads as a Krush hammer-strike - jarring for a snake's coils or a lion's jaws.
+- **Burn:** Fire Elemental (already cross-referenced "Burn interim rules"), Greater Demon flame breath and Sheath of Smoke and Fire, Mummy fire-vulnerability, sorcerous fire spells in P6, Greek fire / burning oil.
+
+**Decision:** Populate both tables in full. 100 entries (5 bands × 10 results × 2 tables). Same 1-2-2-2-2 band distribution as Slash/Pierce/Krush and same severity gradient (slots 1-5 severe-but-recoverable, 6-7 severe with permanent component, 8-10 dying/instant death).
+
+**New vocabulary added to PA1 §1.4:**
+
+- **Burns** - similar to Bleeds, but time-limited (1 HP/round for stated duration, or extinguished by patting out / dousing). Catastrophic burns (2 HP/round) require Medicine or sorcery to stop, like a severe bleed.
+
+**Section structure in PA1:**
+
+- §1.1 Damage Types table extended from 3 types to 5 (+ Burn + Grapple). Header changed "Weapons" -> "Sources" since neither Burn nor Grapple is exclusively weapon-driven.
+- §1.1 Animal and natural-weapon attacks paragraph extended: bite/rake -> Slash, gore -> Pierce, hoof/paw -> Krush, constricting/grappling -> Grapple, supernatural flame -> Burn.
+- §5 (was "Future Expansion") replaced with full §5 Burn Critical Hit Table.
+- New §6 Grapple Critical Hit Table.
+
+**Burn flavour:** Singes, hot ash, blistering, scalded lungs, ignited cloak, blinded eyes, charred limbs, supernatural fire that cannot be extinguished. Effects: bonus damage, burns (1 HP/round time-limited), blinded vision, attacks Difficult, stunned, unconsciousness, permanent CHA/CON loss at extreme severity, full incineration at slot 10 of Band E.
+
+**Grapple flavour:** Wrist-locks, bear hugs, chokes, dislocations, constriction, neck-twists, spinal compression. Effects: drop weapon, stunned, attacks Difficult, knocked down, dislocations (treatable), cracked ribs, suffocation, dying, snapped necks, permanent DEX/INT loss for extreme spine/oxygen damage.
+
+**Knock-on updates:**
+
+- **G3 Fire Elemental** - "fire crits may use the Burn interim rules from PA1" replaced with first-class damage type tag: "Flame Touch 70% / 2D6 fire (Burn); Flame Breath 60% / 3D6 fire (Burn)."
+- **P5 §7 (Damage Types)** - closing paragraph added pointing readers to PA1 §5 (Burn) and §6 (Grapple) for non-weapon damage types.
+
+**Implications:**
+
+- A PC bitten and grappled by a constrictor and rolling matching dice within skill now consults PA1 §6 Grapple, not §4 Krush with substitution.
+- The Great Wolf's "Drag" Grapple, a Bear Hug, a snake constriction - all get proper Grapple criticals with appropriate flavour.
+- Sorcerous fire attacks (Yog-Hath flame breath, Fire Elemental Flame Touch, a future fire spell critical) consult PA1 §5 Burn.
+- PA1 table count: 5 (Slash/Pierce/Krush/Burn/Grapple). Total critical entries: 250.
+
+---
+
 ## 2026-05-12 - Bump First Aid / Medicine to 1D4; introduce Named Creature concept for bestiary
 
 **Context:** Two follow-ups from the Total Hit Points decision:

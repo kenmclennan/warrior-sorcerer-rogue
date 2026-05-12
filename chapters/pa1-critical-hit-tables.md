@@ -20,7 +20,7 @@ Each attack deals one of five damage types. The damage type determines which tab
 
 The weapon's entry in P7 Equipment lists its damage type. When two types apply (a blade driven into a deep thrust, for instance), the attacker chooses which table to use at the moment the critical is declared.
 
-**Animal and natural-weapon attacks.** Beasts and other non-weapon-using creatures use the same three tables. Map the attack to its mechanical character - bite or rake = Slash, gore with tusk or horn = Pierce, hoof, paw-buffet, or constriction = Krush - and substitute appropriate descriptors when reading the result aloud (fang for blade, claw for edge, hoof for haft, gore for thrust). The mechanical effects (bleed, stun, useless limb, knocked down, bonus damage) apply unchanged.
+**Animal and natural-weapon attacks.** Beasts and other non-weapon-using creatures use these same tables. Map the attack to its mechanical character: bite or rake = Slash, gore with tusk or horn = Pierce, hoof or paw-buffet = Krush, constricting or grappling attack = Grapple (§6), supernatural flame or fire-touch = Burn (§5). Substitute appropriate descriptors when reading the result aloud (fang for blade, claw for edge, hoof for haft, gore for thrust). The mechanical effects apply unchanged.
 
 ### 1.2 Severity Bands
 
