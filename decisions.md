@@ -12,6 +12,61 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - G7 expanded with worked examples: locales, NPCs, beasts
+
+**Context:** User flagged that the GM book needed drop-in tools beyond the generators. _"Have a look in horde's catalogue for archetypes in the howling wastes campaign... Quality is better than quantity. If we can provide a few adventure locales, npcs and beasts with a list of adventure hooks that show how they could be used then that would be helpful."_
+
+**Decision:** Fold six worked examples of each (locales, NPCs, beasts) into G7 as new §§5-7. G7's structure is now in two halves: generators (§§1-4) for building deep history, and worked examples (§§5-7) ready to drop into a session.
+
+**Source.** Drawn from the Howling Wastes Horde setting (genre-faithful to Howard, Wolfe, Dark Sun, Moebius, Mad Max). The catalogue had 69 NPC archetypes, 30 locations, 15 beasts; selected six of each to cover the genre's range. Rewritten in WSR voice rather than imported verbatim; flavour preserved.
+
+**§5 Adventure Locales (six):**
+
+- 5.1 The Sorcerer's Tower (sorcerer-target)
+- 5.2 The Ancient Ruins (wilderness expedition)
+- 5.3 The Thieves' Quarter (urban underbelly)
+- 5.4 The Beast-God's Temple (cult target)
+- 5.5 The Frontier Stockade (siege/border outpost)
+- 5.6 The Lost City (deep expedition)
+
+Each has a description paragraph, a layout with 3-5 key features as a bulleted list, and three numbered adventure hooks.
+
+**§6 Archetypal NPCs (six):**
+
+- 6.1 The Sorcerer-Tyrant (apex sorcerer-villain; distinct from G2 §5.6 Nashtira)
+- 6.2 The Cunning Vizier (court schemer)
+- 6.3 The Outlaw Hetman (frontier raider chief; chosen over Mercenary Captain to avoid G2 §5.3 overlap)
+- 6.4 The Wilderness Oracle (information-giver, non-combat)
+- 6.5 The Prince of Thieves (urban underworld king)
+- 6.6 The Treacherous Patron (the betraying employer)
+
+Each has a description paragraph, a WSR stat block in code-block format (matching G2 conventions: Named or Professional tier as appropriate), a Running notes paragraph, and three adventure hooks.
+
+**§7 Archetypal Beasts (six):**
+
+- 7.1 Giant Serpent (tomb-guardian / water predator)
+- 7.2 Gray Ape (wilderness apex)
+- 7.3 Shadow-Demon (summoned vengeance)
+- 7.4 Iron Statues / Cursed Warriors (animated guardian)
+- 7.5 Servants of the Tomb (degenerate humanoid)
+- 7.6 Serpent-Folk (infiltrator-race)
+
+Each has a description paragraph, a full G3-format stat block with characteristics table and special abilities, and three adventure hooks. Iron Statues use the Named Creature HP formula (CON+SIZ) per G3 §1.2 - they are immortal singular entities.
+
+**Cross-linking.** Hooks reference each other where the pieces fit naturally: the Sorcerer's Tower (§5.1) is occupied by the Sorcerer-Tyrant (§6.1), defended by Serpent-Folk (§7.6); the Thieves' Quarter (§5.3) is run by the Prince of Thieves (§6.5); the Cunning Vizier (§6.2) may turn out to be Serpent-Folk (§7.6). This is the chapter's third leverage point - generators build the world, archetypes inhabit it, and the cross-links show the GM how the pieces combine.
+
+**Chapter intro updated** to signal the dual structure: "§§1-4 are generators... §§5-7 are worked examples..."
+
+**Reasoning:**
+
+- **GM book needed drop-in tools.** Generators are useful for prep; worked examples are what a GM grabs when a session needs a place, person, or threat in a hurry.
+- **Quality over quantity.** Six of each forces curation. The chapter is now ~1100 lines (up from ~340), but the new content is dense - every entry pays its way with a stat block and three hooks.
+- **Adventure hooks are the unlock.** Listing an archetype is inert; pairing it with three concrete uses tells the GM what session shapes the piece supports. Three hooks per entry cover the obvious use, a twist on it, and a connection to another entry in the chapter.
+- **Howling Wastes source was rewritten.** The user asked to preserve flavour but not import verbatim. Names, framings, and specific Howling-Wastes details (Mura-Khar, Xothmal, Pits of Skabal) are absent; the genre register and the archetypes themselves are present.
+- **G2/G3 overlap avoided.** G2 §5.3 (Mercenary Captain) and G2 §5.6 (Sorcerer-Villain) cover adjacent archetypes; G7 §6.1 and §6.3 are distinct picks (apex sorcerer-tyrant vs mid-tier Nashtira; outlaw hetman vs mercenary captain).
+
+---
+
 ## 2026-05-12 - G1 cut hard; G7 essay cut; adjudication advice moved to G6 Spot Rules
 
 **Context:** User flagged that even the rewritten G1 was doing work other books do better. _"GM advice is a whole topic beyond the scope of this game. I don't think that giving GMs stuff to read is right: just point them at the inspirational sources."_ Same problem with G7: stylistic essay material crowding out the useful generators. The directive: keep only what's genuinely WSR-specific; let G6 (Hazards and Spot Rules) absorb adjudication advice.
