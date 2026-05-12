@@ -185,7 +185,7 @@ See P7 §11 for ENC, P7 §5 for material tiers, and P7 §12.1 for the full iron-
 
 ## 5. Grimoires
 
-The grimoire is the physical record of sorcerous knowledge. Without one, a sorcerer cannot learn new spells or recover forgotten ones. Losing a grimoire is a catastrophe.
+A grimoire is the physical record of a sorcerer's knowledge - though "book" is rarely the right word for it. The format varies wildly; the function does not. Without a grimoire in some form, a sorcerer cannot learn new spells or recover forgotten ones. Losing one is a catastrophe.
 
 ### 5.1 Grimoire Formats
 
