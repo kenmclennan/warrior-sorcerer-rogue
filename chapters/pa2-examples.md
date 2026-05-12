@@ -169,7 +169,7 @@ Khess is not a sorcerer. She skips this step.
 
 ### 1.10 Step 10: Starting Equipment
 
-**Profession kit (City Thief):** Dagger, lockpicks (Fine Manipulation +10% for these specific tools), dark clothing, 5 Drams.
+**Profession kit (City Thief):** Dagger, a thief's tools (Fine Manipulation +10% when using these), dark clothing, 5 Drams.
 
 **Additional equipment purchased:** She spends 3 Drams on a quality belt pouch (concealable), leaving her with 2 Drams.
 
@@ -215,7 +215,7 @@ Khess is not a sorcerer. She skips this step.
 
 **Reputation:** 5% - _"the girl who climbed the Harbormaster's archive"_
 
-**Starting kit:** Dagger, lockpicks, dark clothing, belt pouch, 2 Drams
+**Starting kit:** Dagger, a thief's tools, dark clothing, belt pouch, 2 Drams
 
 **Significant possession:** A bent copper ring from Verinax's hand.
 

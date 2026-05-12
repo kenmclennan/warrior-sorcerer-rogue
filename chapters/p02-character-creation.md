@@ -353,7 +353,7 @@ Works for someone who pays to know things other people are hiding. May be attach
 
 **Personal Skill Points = INT x10.**
 
-Spend freely on any skills in the WSR skill list (P3). Maximum starting rating for any skill is 75%. Specialties are purchased separately. Personal points add on top of Cultural Background and Profession bonuses. The first point spent on a skill not in the profession bundle opens it at its base chance.
+Spend freely on any skills in the WSR skill list (P3). Maximum starting rating for any skill is 75%. Specialities are purchased separately. Personal points add on top of Cultural Background and Profession bonuses. The first point spent on a skill not in the profession bundle opens it at its base chance.
 
 ---
 
@@ -657,7 +657,7 @@ Each profession has a typical starting kit. This is the gear the character arriv
 | Tribal Warrior             | Weapon of choice (hand axe or spear, standard quality), leather armour or hide, belt knife, 5 Drams |
 | Mercenary Soldier          | Sword or spear (standard), light shield, leather or scale armour, belt knife, 10 Drams              |
 | Sea-Raider                 | Axe or sword (standard), dagger, light hide armour, 50m rope, 8 Drams                               |
-| City Thief                 | Dagger, lockpicks (Fine Manipulation +10% for these specific tools), dark clothing, 5 Drams         |
+| City Thief                 | Dagger, a thief's tools (Fine Manipulation +10% when using these), dark clothing, 5 Drams           |
 | Wayfarer                   | Instrument or storyteller's props, dagger, travelling cloak, 8 Drams                                |
 | Hunter-Tracker             | Spear or bow (standard, with 20 arrows if bow), hunting knife, hide armour, 3 Drams                 |
 | Charioteer                 | Composite bow (standard) with 30 arrows, dagger, scale armour, 15 Drams                             |
