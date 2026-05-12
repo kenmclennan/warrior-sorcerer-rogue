@@ -739,25 +739,3 @@ The following literary quotes accompany the spells listed in §6. They are colle
 ### Wisdom of Wounds
 
 > _"'Three different blades. Two different nights. And the poison is something I've only read about.' He paused. 'Someone has gone to considerable trouble.'"_
-
----
-
-## Source notes cited
-
-- `notes/source-1-sorcery.md`
-- `notes/source-9-allegiance.md`
-- `notes/source-12-sanity.md`
-- `notes/runequest-weapons-equipment.md`
-- `notes/source-13-equipment.md`
-
-## Locked decisions applied
-
-- 2026-05-09 - Magic (secondary system) dropped entirely
-- 2026-05-09 - Allegiance canonised as optional Patron Score for sorcerers
-- 2026-05-09 - Sanity adopted as sorcerer-specific Corruption track
-- 2026-05-09 - Fate Points share the Power Point pool
-- 2026-05-10 - Iron-vs-sorcery rule: -5% sorcery skill per ENC of unenchanted iron carried
-- 2026-05-10 - Healing magic revision: rare and costly, not absent
-- 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources
-- 2026-05-10 - Fate Point spend menu finalised
-- 2026-05-10 - Combat resolution: sorcery interacts with PP-buy and Fate Point spends from same pool

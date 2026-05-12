@@ -327,19 +327,3 @@ Most characteristics do not improve after character creation. The exceptions:
 **DEX and CHA.** May be trained to a maximum of 1.5 times the original value.
 
 **INT and SIZ.** Do not improve.
-
----
-
-## Source notes cited
-
-- `notes/source-11-system.md`
-- `notes/special-success-audit.md`
-- `notes/delta-green.md`
-- `notes/source-gaps-batch1.md`
-- `notes/pulp-cthulhu.md`
-
-## Locked decisions applied
-
-- 2026-05-10 - Combat resolution: matching-dice criticals + matching-dice fumbles + PP-buy mechanic
-- 2026-05-09 - Fate Points share the Power Point pool
-- 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources

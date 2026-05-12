@@ -47,17 +47,7 @@ Conventions (full detail in PLAN.md Conventions section):
 ---
 
 <!--
-Optional back-matter sections below. Delete the comments and fill in only if useful.
+Source notes and locked decisions for this chapter are recorded in
+notes/chapter-sources-and-decisions.md, not here. Update that file
+when adding source references or applying new decisions to this chapter.
 -->
-
-## Source notes cited
-
-<!-- The notes/source-*.md files that fed this chapter, for traceability. -->
-
-- `notes/source-N-section.md`
-
-## Locked decisions applied
-
-<!-- The decisions.md entries this chapter implements. -->
-
-- YYYY-MM-DD - Decision title

@@ -305,15 +305,3 @@ When PCs are caught up in a larger battle, the GM does not run every combatant t
 **Duration.** Brief skirmish: 2-3 turns (10-15 minutes). Sustained engagement: 6-12 turns (30-60 minutes). PCs rest and recover normally after.
 
 **Fate Points in mass combat.** Fate Point spends (P4 §7) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
-
----
-
-## Source notes cited
-
-- `notes/source-10-spot-rules.md`
-
-## Locked decisions applied
-
-- 2026-05-09 - Design doc: theatre-of-mind, no grid (§3.2)
-- 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources
-- 2026-05-09 - Fate Points share the Power Point pool (relevant to §6.2 and §8 Fate Point notes)

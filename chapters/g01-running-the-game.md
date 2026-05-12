@@ -1,15 +1,3 @@
-<!--
-Chapter: G1 Running the Game
-Source feeders: notes/source-3-gamemastering.md, design.md §1, §2, §4
-Locked decisions applied:
-  - design.md §3.1 (theatre-of-mind combat, lean GM-facing rules)
-  - design.md §4.1 (hook / complications / reckoning session structure)
-  - design.md §4.5 (episodic campaign model)
-  - 2026-05-09 - Fate Points share the Power Point pool
-  - 2026-05-10 - Mook rule: borrow Pulp Cthulhu mechanism (WSR-original prose)
-  - 2026-05-10 - Combat resolution: matching-dice criticals
--->
-
 # G1. Running the Game
 
 > _"Know, O prince, that between the years when the oceans drank Atlantis and the gleaming cities, and the years of the rise of the sons of Aryas, there was an age undreamed of, when shining kingdoms lay spread across the world like blue mantles beneath the stars."_
@@ -298,21 +286,3 @@ Some signals and what to do with them.
 Every PP a sorcerer spends on a critical buy or a Fate Point spend is a PP not available for casting. This is intentional: it creates a running decision that distinguishes sorcerer players from warrior and rogue players.
 
 Remind sorcerer players of this framing occasionally. A sorcerer who burns their entire PP pool in the first fight and has nothing left for the negotiation scene, the encounter with the patron, or the sorcerous working they were planning - that is the genre's implicit lesson about the cost of power, expressed mechanically. It is the game being faithful to Moorcock's central premise: power always costs more than you expect.
-
----
-
-## Source notes cited
-
-- `notes/source-3-gamemastering.md`
-- `design.md` §1, §2, §4
-
-## Locked decisions applied
-
-- design.md §3.1 - Theatre-of-mind combat (no grid), lean GM-facing rules
-- design.md §4.1 - Hook / complications / reckoning session structure
-- design.md §4.5 - Episodic campaign model
-- design.md §4.3 - Party size (1-6, sweet spot 2-4)
-- 2026-05-09 - Fate Points share the Power Point pool
-- 2026-05-10 - Mook rule: borrow Pulp Cthulhu mechanism (WSR-original prose)
-- 2026-05-10 - Combat resolution: matching-dice criticals + PP-buy mechanic
-- 2026-05-10 - Fate Point spend menu finalised

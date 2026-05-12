@@ -1,12 +1,3 @@
-<!--
-Chapter: G7 The Deep Past
-Source feeders: design.md §1.2 #4, §1.2 #10, §2.4, §3.2
-Locked decisions applied:
-  - No defined setting (design.md §3.2)
-  - Science fiction permitted (design.md §1.2 #10)
-  - G8 dropped; G7 carries the world-building load (decisions.md 2026-05-10)
--->
-
 # G7. The Deep Past
 
 > _"Between the time when the oceans drank Atlantis and the rise of the sons of Aryas, there was an age undreamed of."_
@@ -276,15 +267,3 @@ The generators in this chapter feed three recurring adventure engines:
 **The knowledge problem.** Pre-cataclysm lore exists and someone wants it - or wants to prevent others from having it. A weapon, a map, a formula, a history that would overturn what living institutions claim. The PCs are in the middle of the competition.
 
 None of these require a world with a defined history. They only require a world with a past.
-
----
-
-## Source notes cited
-
-- `design.md` §1.2 #4 (deep cyclic history), §1.2 #10 (science fiction permitted), §2.4 (the world), §3.2 (no defined setting)
-
-## Locked decisions applied
-
-- 2026-05-10 - G8 (Sample Material) dropped; G7 carries the world-building generator load
-- design.md §3.2 - No defined setting: all entries are generator tools, not setting fragments
-- design.md §1.2 #10 - Science fiction permitted: §5.2 explicitly supports lost super-tech as backstory

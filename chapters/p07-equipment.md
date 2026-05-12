@@ -708,17 +708,3 @@ Unenchanted iron is inimical to the sorcerous current.
 Full creation rules - ritual requirements, costs, and dangers - are in G5.
 
 **Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §5.3). The enchantment is part of the binding process and is noted when the artifact is described.
-
----
-
-## Source notes cited
-
-- `notes/source-13-equipment.md`
-- `notes/runequest-weapons-equipment.md`
-
-## Locked decisions applied
-
-- 2026-05-10 - Equipment chapter: borrow extensively from RuneQuest W&E (mechanism only; WSR-original tables)
-- 2026-05-10 - Iron-vs-sorcery rule: -5% sorcery skill per ENC of unenchanted iron carried
-- 2026-05-09 - Combat: Major Wounds as default, no per-location HP (single AP value per armour item)
-- 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources

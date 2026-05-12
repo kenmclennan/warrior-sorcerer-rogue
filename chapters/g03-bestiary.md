@@ -989,29 +989,3 @@ Roll 1D20 for one feature; roll twice (or three times) for a more monstrous crea
 | 18   | **Unnatural Speed.** The creature acts twice per round at its normal DEX rank. The second action comes at -5 DEX rank.                                                                                                                                                                                                       |
 | 19   | **The Long Memory.** The creature knows everything that has happened within 100 metres of its current location for the past century. This knowledge can be bargained for. The creature does not offer it freely.                                                                                                             |
 | 20   | **True Name Resonance.** The creature's true name is written somewhere on its body in a language that must be found and read. Discovering and speaking the name causes the creature 1D10 damage per round until it retreats or is destroyed. Finding the inscription requires a Spot or Knowledge (Arcane) roll (Difficult). |
-
----
-
-## Source notes cited
-
-- `notes/source-7-creatures.md`
-- `chapters/p05-combat.md` (stat block format and wound threshold conventions)
-- `chapters/p06-sorcery.md` (demon and elemental references)
-
-## Locked decisions applied
-
-- 2026-05-09 - Combat: Major Wounds as default, no per-location HP (single HP threshold, single AV for all creatures)
-- 2026-05-09 - Fate Points share the Power Point pool (demons have PP; creatures do not have Fate Point access)
-- 2026-05-10 - Mook rule: borrow Pulp Cthulhu mechanism (skeletons and zombies designated mooks; morale notes for other creatures follow same principle)
-- 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources (all descriptions WSR-original; BRP stat blocks adapted)
-
-## Chapter-time decisions
-
-- **Demi-humans excluded.** Elf, Dwarf, Halfling, and Angel are all absent per the locked design. No Unicorn.
-- **Orc/Goblinkin omitted.** The source-7 notes recommend canonising "Goblinkin" as human-adjacent predatory antagonists, but the chapter-mapping flagged this as a naming open question ("what is the WSR editorial direction?"). Rather than commit to a name that should be resolved in G7 worldbuilding, this chapter omits an explicit Goblinkin entry. The GM has the stat block concept (human-level opposition, group dynamics, possible sorcerer-priest subtype) from the G2 NPCs framework; the specific name and cultural framing belong to the world-building layer.
-- **Wight added in place of generic undead.** The source-7 undead list included seven entries but listed Ghost/Ghoul/Mummy/Skeleton/Vampire/Zombie/Werewolf. Werewolf moved to Fantasy Beasts (it is a transformation, not straightforwardly undead). A Wight was added as the seventh undead entry, filling the barrow-guardian niche and providing an intelligent undead type that isn't the vampire.
-- **Werewolf in Fantasy Beasts.** The werewolf is a transformed human, not undead. Placed with Fantasy Beasts accordingly.
-- **Chaotic Features table as 1D20 (20 entries).** The source has 38+ entries with roughly a third being raw stat bonuses. Per the source-7 open question, this table weights toward qualitative/narrative features and drops the pure stat-increment entries (POW+1D6, DEX+2D6, etc.) in favour of dramatic, descriptive features that make demons feel distinct without just inflating numbers.
-- **Yog-Hath entry.** The chapter-mapping required one fully-fleshed named Greater Demon as a template. Yog-Hath the Devourer was created as a WSR-original entity with a POW-drain agenda, calibrated to be a campaign-level threat requiring preparation to face.
-- **Vampire holy symbol weakness.** Per source-7 open question (c): stated as a weakness the GM populates once the Allegiance/faith system is finalised in context. Not mechanically specified here.
-- **Dragon as campaign event.** Per source-7 note on the Dragon entry: a brief "Dragon as Antagonist" note is embedded in the Dragon entry rather than a separate sidebar, keeping the chapter compact.

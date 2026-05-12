@@ -523,31 +523,3 @@ They take the ledger. They also take Mekhos's secondary accounting tablet, which
 The session ends with the heroes alive, paid, and each of them carrying something forward: a wound, a secret, a question about what was on that tablet.
 
 **The world did not improve.** The Syndicate is diminished by one vault breach. Mekhos is embarrassed. Selka is in the infirmary. The Syndicate is still there. The heroes have 40 Staters they did not have before, and Khess has Verinax's ring in her belt pouch and a vendetta that is one step closer to something.
-
----
-
-## Source notes cited
-
-- `notes/source-5-combat.md` (the Yvarre/Kallistor example as template)
-- `chapters/p02-character-creation.md`
-- `chapters/p03-skills.md`
-- `chapters/p04-action-resolution.md`
-- `chapters/p05-combat.md`
-- `chapters/p06-sorcery.md`
-- `chapters/p07-equipment.md`
-- `chapters/pa1-critical-hit-tables.md`
-
-## Locked decisions applied
-
-- 2026-05-10 - Combat resolution: matching-dice criticals + PP-buy mechanic (§2, §3)
-- 2026-05-10 - Fate Point spend menu finalised (§2.5)
-- 2026-05-10 - Mook rule: borrow Pulp Cthulhu mechanism (§2.2, §2.5)
-- 2026-05-10 - Talent system: borrow Pulp Cthulhu structure (§1.6, §2.2)
-- 2026-05-10 - Phase 2 batch 2 decisions: critical severity band mapping 11=A, 22=B, 33=C, 44/55=D, 66/77/88=E (§2.2)
-- 2026-05-09 - Sanity adopted as sorcerer-specific Corruption track (§3)
-- 2026-05-09 - Allegiance canonised as optional Patron Score for sorcerers (§3.6)
-- 2026-05-09 - Fate Points share the Power Point pool (§2.4, §3.8)
-- 2026-05-10 - Iron-vs-sorcery rule (§3.2)
-- 2026-05-10 - Currency names: Shard / Dram / Stater / Sun (§1.10)
-- 2026-05-10 - Status and Reputation kept separate (§1.8)
-- 2026-05-09 - Design doc v1: examples in dedicated appendix, never interleaved with rules text

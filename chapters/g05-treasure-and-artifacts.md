@@ -518,20 +518,3 @@ Most valuable treasure passes through an intermediary before reaching its final 
 | 60%+ (very famous)     | Fence will deal but adds a 10-20% risk premium across all goods. They are not being unfair; they are pricing the risk accurately. |
 
 **The favour economy:** High-value transactions - named stones, major artifacts, unique art objects - rarely settle for coin. The broker expects favours, information, access, future services. A party that accumulates favours from the right brokers reaches markets coin cannot buy; one that abuses the favour economy gets blacklisted faster than any fence rate can compensate.
-
----
-
-## Source notes cited
-
-- `notes/source-13-equipment.md` (Equipment with Sorcery, pp. 188-189)
-- `notes/source-1-sorcery.md` (Brazier of Power lineage, artifact interaction with PP system)
-- `chapters/p07-equipment.md` §12 (Artifact Basics cross-reference)
-- `chapters/p06-sorcery.md` §3 (Cost trio: PP / Patron Score / Corruption)
-- `chapters/p02-character-creation.md` §8 (Reputation mechanic)
-
-## Locked decisions applied
-
-- 2026-05-10 - Currency names: Shard / Dram / Stater / Sun (per P7 §1)
-- 2026-05-10 - Iron-vs-sorcery rule: -5% per ENC of unenchanted iron carried by sorcerers; enchanted iron (artifacts) exempt
-- 2026-05-10 - Borrowing principle: artifact creation rules are WSR-original from BRP UGE Equipment with Sorcery (ORC-licensed source); sample artifacts and cursed items are WSR-original prose
-- 2026-05-09 - Allegiance canonised as Patron Score; patron compact required for iron-artifact harmonisation

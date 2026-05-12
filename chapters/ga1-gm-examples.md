@@ -1,19 +1,3 @@
-<!--
-Chapter: GA1 GM Examples
-Source feeders: all GM Book chapters (G1-G7), design.md §3.1 (examples in appendix), PA2 (player-side equivalents)
-Locked decisions applied:
-  - design.md §3.1 - Examples in dedicated appendix, never interleaved with rules text
-  - design.md §4.1 - Hook / complications / reckoning session structure
-  - 2026-05-10 - Combat resolution: matching-dice criticals + PP-buy mechanic
-  - 2026-05-10 - Fate Point spend menu finalised
-  - 2026-05-10 - Mook rule: borrow Pulp Cthulhu mechanism
-  - 2026-05-09 - Allegiance canonised as optional Patron Score for sorcerers
-  - 2026-05-09 - Sanity adopted as sorcerer-specific Corruption track
-  - 2026-05-09 - Fate Points share the Power Point pool
-  - 2026-05-10 - Iron-vs-sorcery rule
-  - 2026-05-10 - Phase 2 batch 2: critical severity band mapping 11=A, 22=B, 33=C, 44/55=D, 66/77/88=E
--->
-
 # GA1. Appendix: GM Examples
 
 > _"Men of the waste lands were not accustomed to the subtleties of civilized intrigue, but they could read signs."_
@@ -408,28 +392,3 @@ Karash does not invoke. The player decides 9 PP is enough for a Deflect the Kill
 - **Spell-specific Corruption:** Standard Corruption table and spell-specific note are separate charges; check both (P6 §3.3).
 - **Patron compact:** Know what the patron would and would not do before the player invokes it - run the patron honestly, not as a convenient rescue (G4 §3).
 - **Iron check:** GM responsibility to surface it before the roll, not after.
-
----
-
-## Source notes cited
-
-- `chapters/g01-running-the-game.md`
-- `chapters/g02-npcs-and-adversaries.md`
-- `chapters/g04-npc-sorcery-and-patrons.md`
-- `chapters/g06-hazards-and-spot-rules.md`
-- `chapters/g07-the-deep-past.md`
-- `chapters/pa2-examples.md`
-
-## Locked decisions applied
-
-- design.md §3.1 - Examples in dedicated appendix, never interleaved with rules text
-- design.md §4.1 - Hook / complications / reckoning session structure (§1)
-- design.md §2.2 - Magic is theatrical; casting signatures mandatory (§2.6, §4.1, §4.3)
-- 2026-05-10 - Combat resolution: matching-dice criticals (§3.2)
-- 2026-05-10 - Mook rule: borrow Pulp Cthulhu mechanism (§3.1)
-- 2026-05-09 - Allegiance canonised as optional Patron Score for sorcerers (§2.4, §4.3)
-- 2026-05-09 - Sanity adopted as sorcerer-specific Corruption track (§2.2, §4.2)
-- 2026-05-09 - Fate Points share the Power Point pool (§4.1, §4.4)
-- 2026-05-10 - Iron-vs-sorcery rule: -5% per ENC of unenchanted iron (§4.1)
-- 2026-05-10 - Phase 2 batch 2: critical severity band mapping 11=A, 22=B, 33=C, 44/55=D, 66/77/88=E (§3.2)
-- 2026-05-10 - Chapter extraction order: GA1 is the final chapter (front matter)

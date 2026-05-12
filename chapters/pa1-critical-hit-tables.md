@@ -350,24 +350,3 @@ Burn damage arises from sorcerous fire, Greek fire, burning oil, and similar sou
 Grapple damage arises from unarmed combat, wrestling, creature grabs, and constriction.
 
 **Interim rule:** Treat Grapple criticals as Krush criticals. The wound description references the attacker's grip rather than an implement.
-
----
-
-## Source notes cited
-
-- `notes/rolemaster-arms-law.md` (format inspiration - WSR-original prose throughout)
-
-## Locked decisions applied
-
-- 2026-05-10 - Combat resolution: matching-dice criticals; severity band determined by matching-dice value
-- 2026-05-10 - Borrowing principle: Rolemaster is inspire only; all prose WSR-original
-- 2026-05-09 - Major Wounds as default; no per-location HP (results push toward Major Wound threshold, not per-location damage)
-- 2026-05-10 - Fate Point spend menu (Deflect the Killing Blow interaction with Band E results)
-
-## Chapter-time decisions made
-
-- **3 damage types (Slash, Pierce, Krush).** Burn and Grapple deferred to supplementary tables; interim rules provided.
-- **Band assignment:** 11 = A, 22 = B, 33 = C, 44/55 = D, 66/77/88 = E. Maps directly to matching-dice values from P4.
-- **Within-band result selection:** 1d10, selecting from 10 numbered entries per band.
-- **Penalty vocabulary:** Attacks/parries Difficult = halved skill. Round counts start from the round the result is applied. All vocabulary defined in §1.4.
-- **Bleed mechanic:** Critical results that bleed use the same 1 HP/round rule as ordinary bleeding; binding stops both. Critical bleed does not stack with base bleed from the same attack - use the more severe.

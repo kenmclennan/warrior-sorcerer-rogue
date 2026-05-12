@@ -182,21 +182,3 @@ For the full list of inspirational works - films, books, comics, music, and art 
 ### 5.4 Author
 
 Warrior \* Sorcerer \* Rogue was written by Ken McLennan.
-
----
-
-## Source notes cited
-
-- `design.md` §1, §2.1, §3.1, §3.2, §4
-- `decisions.md` (Borrowing principle; ORC basis; system name)
-- `notes/chapter-mapping.md` (P1 entry)
-
-## Locked decisions applied
-
-- 2026-05-09 - System name: Warrior \* Sorcerer \* Rogue
-- 2026-05-09 - Source rules: BRP UGE under ORC License
-- 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources
-- 2026-05-10 - Chapter extraction order finalised (chapter codes table)
-- 2026-05-10 - Combat resolution: matching-dice criticals + PP-buy (referenced in §2)
-- 2026-05-09 - Fate Points share the Power Point pool (referenced in §2 and §4)
-- 2026-05-10 - Fate Point spend menu finalised (referenced in §4)

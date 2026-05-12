@@ -487,21 +487,3 @@ Patron Intercession mechanics at Patron Score 14.
 **Calibrate mook HP to party damage output.** A mook with HP 6 goes down in one hit - satisfying but possibly too easy. HP 10 survives one hit but not two. Two rounds to scatter a mook group is ideal; four is too long.
 
 **Give professionals a reason to be there.** The mercenary captain is there because someone is paying them. A sentence of context makes a professional feel like a person, not an encounter difficulty slider.
-
----
-
-## Source notes cited
-
-- `notes/source-3-gamemastering.md`
-- `notes/source-14-npc-digest-customizing.md`
-- `notes/pulp-cthulhu.md`
-
-## Locked decisions applied
-
-- 2026-05-10 - Mook rule: borrow Pulp Cthulhu mechanism (WSR-original prose); incapacitated at half HP, no Fate Point access
-- 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources (Look Out Master! mechanic, WSR-original text)
-- 2026-05-10 - Fate Point spend menu finalised (Deflect the Killing Blow minimum 8 PP; applies to Look Out Master! cost floor)
-- 2026-05-10 - Combat resolution: matching-dice criticals (referenced in §2.2 critical interaction)
-- 2026-05-09 - Fate Points share the Power Point pool (named antagonists have PP = Fate Points = sorcery resource)
-- 2026-05-09 - Allegiance canonised as optional Patron Score for sorcerers (applied in Nashtira stat block)
-- 2026-05-09 - Sanity adopted as sorcerer-specific Corruption track (applied in Nashtira stat block)

@@ -378,20 +378,3 @@ Within the damage type table and severity band column, roll 1D100 and read the r
 ### 10.4 Criticals and Mooks
 
 Mooks do not consult the crit tables. A critical hit deals full damage ignoring armour; if this reaches the incapacitation threshold (§8), the mook is done. The crit table may be consulted for descriptive colour only.
-
----
-
-## Source notes cited
-
-- `notes/source-5-combat.md`
-- `notes/source-10-spot-rules.md`
-- `notes/pulp-cthulhu.md`
-- `notes/rolemaster-arms-law.md`
-
-## Locked decisions applied
-
-- 2026-05-10 - Combat resolution: matching-dice criticals + weapon-type tables + PP-buy + matching-dice fumbles
-- 2026-05-09 - Combat: Major Wounds as default, no per-location HP
-- 2026-05-10 - Mook rule: borrow Pulp Cthulhu mechanism (WSR-original prose)
-- 2026-05-10 - Fate Point spend menu finalised
-- 2026-05-10 - Borrowing principle: mechanisms only from non-ORC sources

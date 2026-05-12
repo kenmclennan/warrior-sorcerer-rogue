@@ -610,16 +610,3 @@ Neither fallback earns an experience checkmark.
 | 101%+   | Legend     | Beyond the norm. Multiple actions per round; effective even under extreme conditions. |
 
 WSR PCs begin near the top of the Journeyman range in core skills and push into Expert territory through play.
-
----
-
-## Source notes cited
-
-- `notes/source-6-skills.md`
-- `notes/special-success-audit.md`
-- `notes/source-4-passions-reputation.md`
-
-## Locked decisions applied
-
-- 2026-05-10 - Combat resolution: five non-combat skills carry explicit Critical: lines (First Aid, Medicine, Teach, Cooperative Rolls, Jump)
-- 2026-05-09 - Design doc v1: §1.2 #3 ancient world setting (drives specialty lists, base chance era selection, Literacy modification, dropped modern skills)
