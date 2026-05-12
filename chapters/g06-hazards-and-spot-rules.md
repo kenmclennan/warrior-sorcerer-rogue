@@ -72,7 +72,7 @@ The following are representative ancient-world poisons for GM use. POT values as
 | Spider venom (large)        | 8      | Slow  | HP damage; CON roll or paralysis for 1D6 hours                              | Giant spiders (Bestiary G3 §2) inflict POT 10-14.                                            |
 | Ergot (grain contamination) | 6      | Slow  | Delirium, Shakes (as disease onset); cumulative with repeated exposure      | Affects whole groups if a food supply is contaminated.                                       |
 | Black lotus extract         | 16     | Slow  | HP damage; failed CON roll = coma for 1D6 days                              | Extremely rare, sorcerer-adjacent. The GM may add Corruption implications for the harvester. |
-| Alchemical acid             | varies | Fast  | HP damage to flesh; armour degraded 1 point per round of contact            | See §3 for full fire/acid rules. POT equals the 1D6 type used.                               |
+| Alchemical acid             | varies | Fast  | HP damage to flesh; armour degraded 1 point per round of contact            | See §4 for full fire/acid rules. POT equals the 1D6 type used.                               |
 
 **Named poisons.** The genre convention is that poison is cowardly and honourable characters regard it with contempt - which does not stop rogues. Name poisons for your setting: "Black Tears of Stygia" is more evocative than "Nightshade (POT 13)."
 
