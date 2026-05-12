@@ -85,13 +85,13 @@ Each result: **wound description + mechanical effect**. Read or paraphrase the d
 
 ### 1.5 Lethality by Band - At a Glance
 
-| Band | Character of Results                                                               |
-| ---- | ---------------------------------------------------------------------------------- |
-| A    | Disruption only; never fight-ending; costs the target an action or forces a parry  |
-| B    | Moderate wounds; brief stuns; possible bleed; parry restrictions                   |
-| C    | Fight-altering; stacked conditions; injuries that shift the tactical balance       |
-| D    | Severely lethal for ordinary foes; limbs may be useless; PCs are in genuine danger |
-| E    | Near-universally devastating; instant death plausible at the top entries           |
+| Band | Character of Results                                                                                                                                                                           |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A    | Disruption only; never fight-ending; costs the target an action or forces a parry                                                                                                              |
+| B    | Moderate wounds; brief stuns; possible bleed; parry restrictions                                                                                                                               |
+| C    | Fight-altering; stacked conditions; injuries that shift the tactical balance                                                                                                                   |
+| D    | Severe wounds. Lower results (1-5): permanent or heavy maiming, deep bleeds, prolonged conditions - severe but not fight-ending. Higher results (6-10): dying or instant death.                |
+| E    | Catastrophic. Lower results (1-5): permanent characteristic loss, prolonged unconsciousness, devastating maiming - survivable with intervention. Higher results (6-10): near or instant death. |
 
 Band E results can be survived by a PC with PP remaining for a Deflect the Killing Blow spend (see P4 §7.7). Named antagonists can do the same. Rabble cannot.
 
@@ -158,33 +158,33 @@ Slash criticals carve flesh, open arteries, and sever tendons. Higher bands atta
 
 ### 2.4 Band D - Slash
 
-| Roll | Result                                                                                                                                                   |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | A massive stroke caves in the shoulder joint; the shield arm is useless, +6 bonus damage, bleeds.                                                        |
-| 2    | The blade opens the belly to the spine; +7 bonus damage, stunned for 2 rounds, and the target is dying in 8 rounds unless treated.                       |
-| 3    | A downward stroke severs the tendon along the sword arm; weapon arm is useless, +5 bonus damage.                                                         |
-| 4    | The weapon catches the throat in a deep, raking cut; +7 bonus damage, bleeds, target is dying in 4 rounds.                                               |
-| 5    | A diagonal stroke opens the chest from shoulder to sternum; +8 bonus damage and stunned for 2 rounds. If this causes a Major Wound, the target is dying. |
-| 6    | The blade takes the hand at the wrist; weapon arm is useless (the hand is gone), +6 bonus damage, bleeds.                                                |
-| 7    | A two-handed stroke catches the leg at the knee; the target is knocked down and the leg is useless, +6 bonus damage, bleeds.                             |
-| 8    | A sweeping cut opens the carotid; +8 bonus damage, bleeds, dying in 3 rounds - the target can take no meaningful action while dying except speak.        |
-| 9    | The blade drives into the armpit and severs what lies there; +8 bonus damage, shield arm useless, dying in 6 rounds.                                     |
-| 10   | A tremendous stroke takes the head half-off; the target is dead immediately.                                                                             |
+| Roll | Result                                                                                                                                                                        |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | A massive stroke caves in the shoulder joint; the shield arm is useless, +6 bonus damage, bleeds.                                                                             |
+| 2    | The blade opens the belly deep; +7 bonus damage, stunned for 2 rounds, bleeds (1 HP/round until bound), and attacks and parries Difficult for 4 rounds.                       |
+| 3    | A downward stroke severs the tendon along the sword arm; weapon arm is useless, +5 bonus damage.                                                                              |
+| 4    | The weapon catches the throat in a raking cut; +7 bonus damage, attacks Difficult for the rest of the fight from impaired breathing, bleeds heavily (1 HP/round until bound). |
+| 5    | A diagonal stroke opens the chest from shoulder to sternum; +8 bonus damage, stunned for 3 rounds, parries Difficult for 4 rounds.                                            |
+| 6    | The blade takes the hand at the wrist; weapon arm is useless (the hand is gone), +6 bonus damage, bleeds.                                                                     |
+| 7    | A two-handed stroke catches the leg at the knee; the target is knocked down and the leg is useless, +6 bonus damage, bleeds.                                                  |
+| 8    | A sweeping cut opens the carotid; +8 bonus damage, bleeds, dying in 3 rounds - the target can take no meaningful action while dying except speak.                             |
+| 9    | The blade drives into the armpit and severs what lies there; +8 bonus damage, shield arm useless, dying in 6 rounds.                                                          |
+| 10   | A tremendous stroke takes the head half-off; the target is dead immediately.                                                                                                  |
 
 ### 2.5 Band E - Slash
 
-| Roll | Result                                                                                                                                                                                    |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | A devastating cut opens the entire torso; +8 bonus damage, the target is dying in 4 rounds. Even if treated, a Major Wound applies.                                                       |
-| 2    | The blade sheers through the shoulder and takes the arm; shield arm is gone, +9 bonus damage, bleeds catastrophically - dying in 2 rounds.                                                |
-| 3    | A stroke that connects with the base of the neck; the target is dead before they fall.                                                                                                    |
-| 4    | The weapon opens the femoral artery; +9 bonus damage, dying in 2 rounds - no amount of action can stop this without immediate and successful First Aid.                                   |
-| 5    | A rising slash catches under the chin and drives upward; the target falls dead.                                                                                                           |
-| 6    | The blade enters the side of the neck and exits the far side; dead instantly.                                                                                                             |
-| 7    | A massive diagonal stroke from shoulder to hip; +10 bonus damage, dying immediately - the target has 1 round to say their last words.                                                     |
-| 8    | The weapon opens the skull; dead before the hilt leaves the hand.                                                                                                                         |
-| 9    | A stroke that drives through the ribcage and into the heart; the target is dead. There is no sound except the body falling.                                                               |
-| 10   | A blow of such force and precision that the target is cut in two; dead instantly, and any adjacent ally must make a Difficult Luck roll or be frozen in horror, losing their next action. |
+| Roll | Result                                                                                                                                                                                                            |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | A devastating cut opens the entire torso; +10 bonus damage, bleeds catastrophically (2 HP/round until bound), and attacks and parries Difficult for the rest of the fight.                                        |
+| 2    | The blade shears through the shoulder and takes the arm; shield arm is gone (permanent without sorcery), +10 bonus damage, bleeds (1 HP/round until bound). The target is still alive - and obviously diminished. |
+| 3    | A stroke that connects with the base of the neck; +10 bonus damage, target falls unconscious for 1D6 rounds. On waking, attacks and parries Difficult for the rest of the fight from severe neck damage.          |
+| 4    | The weapon opens the femoral; +10 bonus damage, leg useless until treated, bleeds heavily (1 HP/round until bound), attacks Difficult for the rest of the fight.                                                  |
+| 5    | A rising slash catches under the chin; +10 bonus damage, jaw shattered (cannot speak or cast without sorcerous healing), stunned for 3 rounds, attacks Difficult for the rest of the fight.                       |
+| 6    | The blade enters the side of the neck and exits the far side; dead instantly.                                                                                                                                     |
+| 7    | A massive diagonal stroke from shoulder to hip; +10 bonus damage, dying immediately - the target has 1 round to say their last words.                                                                             |
+| 8    | The weapon opens the skull; dead before the hilt leaves the hand.                                                                                                                                                 |
+| 9    | A stroke that drives through the ribcage and into the heart; the target is dead. There is no sound except the body falling.                                                                                       |
+| 10   | A blow of such force and precision that the target is cut in two; dead instantly, and any adjacent ally must make a Difficult Luck roll or be frozen in horror, losing their next action.                         |
 
 ---
 
@@ -241,33 +241,33 @@ Pierce criticals drive past armour into soft tissue. Deep punctures, internal or
 
 ### 3.4 Band D - Pierce
 
-| Roll | Result                                                                                                                                                    |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | The weapon drives through the thigh and severs the great vessel there; +7 bonus damage, dying in 4 rounds, bleeds.                                        |
-| 2    | A thrust directly into the eye socket; +6 bonus damage, that eye is destroyed, stunned for 2 rounds.                                                      |
-| 3    | The point enters the upper chest and collapses a lung; +7 bonus damage, dying in 6 rounds - may be stabilised with successful First Aid.                  |
-| 4    | A thrust through the gut that exits the back; +7 bonus damage, dying in 5 rounds. The target can still act while dying.                                   |
-| 5    | The weapon enters the knee joint and destroys it; leg is useless, +6 bonus damage, knocked down. The leg will not heal without sorcerous aid.             |
-| 6    | A thrust through the upper back; +8 bonus damage, stunned for 3 rounds, bleeds.                                                                           |
-| 7    | The point enters the liver; +7 bonus damage, dying in 4 rounds. The target feels nothing for 1 round, then everything at once.                            |
-| 8    | A piercing strike through the throat; +8 bonus damage, dying in 2 rounds - cannot speak or shout.                                                         |
-| 9    | The weapon drives through the heart's outer wall; +9 bonus damage, dying in 1 round. Only a Deflect the Killing Blow spend can prevent death.             |
-| 10   | A thrust directly into the heart; the target is dead. The weapon may be lodged - the wielder loses it unless they succeed on a STR roll to pull it clear. |
+| Roll | Result                                                                                                                                                           |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | The weapon drives through the thigh and severs the great vessel there; +7 bonus damage, bleeds heavily (1 HP/round until bound), attacks Difficult for 4 rounds. |
+| 2    | A thrust directly into the eye socket; +6 bonus damage, that eye is destroyed, stunned for 2 rounds.                                                             |
+| 3    | The point enters the upper chest and partially collapses a lung; +7 bonus damage, attacks Difficult for the rest of the fight from impaired breathing, bleeds.   |
+| 4    | A thrust through the gut that exits the back; +7 bonus damage, stunned for 3 rounds, bleeds, attacks and parries Difficult for the rest of the fight.            |
+| 5    | The weapon enters the knee joint and destroys it; leg is useless, +6 bonus damage, knocked down. The leg will not heal without sorcerous aid.                    |
+| 6    | A thrust through the upper back; +8 bonus damage, stunned for 3 rounds, bleeds.                                                                                  |
+| 7    | The point enters the liver; +7 bonus damage, dying in 4 rounds. The target feels nothing for 1 round, then everything at once.                                   |
+| 8    | A piercing strike through the throat; +8 bonus damage, dying in 2 rounds - cannot speak or shout.                                                                |
+| 9    | The weapon drives through the heart's outer wall; +9 bonus damage, dying in 1 round. Only a Deflect the Killing Blow spend can prevent death.                    |
+| 10   | A thrust directly into the heart; the target is dead. The weapon may be lodged - the wielder loses it unless they succeed on a STR roll to pull it clear.        |
 
 ### 3.5 Band E - Pierce
 
-| Roll | Result                                                                                                                                                                                        |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | The weapon drives into the upper chest and collapses both lungs in sequence; +9 bonus damage, dying in 2 rounds.                                                                              |
-| 2    | A thrust through the weapon arm that pins it momentarily; the arm is useless permanently without sorcerous healing, +8 bonus damage, bleeds.                                                  |
-| 3    | The point enters the eye and drives through into the brain; the target is dead before they fall.                                                                                              |
-| 4    | A thrust through the throat that severs the great vessels; dying in 1 round - the target cannot even cry out.                                                                                 |
-| 5    | The weapon enters the chest and finds the aorta; the target is dead in the time it takes to exhale.                                                                                           |
-| 6    | A precise thrust between ribs into the left ventricle; dead, instantly and silently.                                                                                                          |
-| 7    | The weapon drives through the base of the skull; the target dies without understanding what has happened.                                                                                     |
-| 8    | A thrust through both cheeks and into the back of the skull; dead instantly. The death is shocking - all witnesses must make a Luck roll or be stunned for 1 round.                           |
-| 9    | The point drives into the spine at the neck; the target drops immediately, paralysed from the neck down, and dying in 3 rounds. Only sorcery can undo the paralysis even if death is averted. |
-| 10   | A strike of terrible precision - into the brain stem through the soft tissue of the jaw; the target ceases to exist as a person in the time it takes to register pain. Dead.                  |
+| Roll | Result                                                                                                                                                                                                                                        |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | The weapon drives into the upper chest and collapses both lungs in sequence; +10 bonus damage, stunned for 4 rounds, attacks and parries Difficult for the rest of the fight, bleeds.                                                         |
+| 2    | A thrust through the weapon arm that pins it momentarily; the arm is useless permanently without sorcerous healing, +8 bonus damage, bleeds.                                                                                                  |
+| 3    | The point enters the eye and drives into the skull; +10 bonus damage, eye destroyed, target falls unconscious for 1D6 rounds, on waking permanently loses 1D3 INT.                                                                            |
+| 4    | A thrust through the throat that severs the great vessels; +10 bonus damage, target cannot speak or cast spells without sorcerous restoration, bleeds catastrophically (2 HP/round until bound), attacks Difficult for the rest of the fight. |
+| 5    | The weapon enters the chest and finds tissue beside the heart; +10 bonus damage, knocked down, attacks and parries Difficult for the rest of the fight, bleeds.                                                                               |
+| 6    | A precise thrust between ribs into the left ventricle; dead, instantly and silently.                                                                                                                                                          |
+| 7    | The weapon drives through the base of the skull; the target dies without understanding what has happened.                                                                                                                                     |
+| 8    | A thrust through both cheeks and into the back of the skull; dead instantly. The death is shocking - all witnesses must make a Luck roll or be stunned for 1 round.                                                                           |
+| 9    | The point drives into the spine at the neck; the target drops immediately, paralysed from the neck down, and dying in 3 rounds. Only sorcery can undo the paralysis even if death is averted.                                                 |
+| 10   | A strike of terrible precision - into the brain stem through the soft tissue of the jaw; the target ceases to exist as a person in the time it takes to register pain. Dead.                                                                  |
 
 ---
 
@@ -324,33 +324,33 @@ Krush criticals crush bone, rupture organs, and knock targets senseless. They bl
 
 ### 4.4 Band D - Krush
 
-| Roll | Result                                                                                                                                                                      |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | The weapon takes the knee entirely; the leg is useless permanently without sorcerous healing, knocked down, +6 bonus damage.                                                |
-| 2    | A crushing blow to the weapon arm at the elbow; the arm is useless, +7 bonus damage.                                                                                        |
-| 3    | The strike catches the skull above the ear and staves it inward; +7 bonus damage, dying in 5 rounds unless treated - even if treated, the target will bear a lasting wound. |
-| 4    | A full blow to the ribs over the heart; +7 bonus damage, stunned for 3 rounds. If this causes a Major Wound, the heart has been damaged - target is dying in 6 rounds.      |
-| 5    | The weapon destroys the shoulder joint; the arm is useless, +7 bonus damage, knocked off balance - knocked down.                                                            |
-| 6    | A direct strike to the face that collapses the nose and cheekbone; +8 bonus damage, stunned for 3 rounds.                                                                   |
-| 7    | The weapon caves in the sternum; +8 bonus damage, stunned for 3 rounds, and attacks and parries Difficult for the remainder of the fight from breathing difficulty.         |
-| 8    | A blow to the back of the head; +8 bonus damage, the target falls unconscious immediately and is dying in 8 rounds without treatment.                                       |
-| 9    | The strike takes the forearm and the bone punches through the skin; weapon arm is useless, +8 bonus damage, bleeds.                                                         |
-| 10   | A crushing blow directly to the skull's crown; +9 bonus damage. The target's skull fails. Dead.                                                                             |
+| Roll | Result                                                                                                                                                                            |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | The weapon takes the knee entirely; the leg is useless permanently without sorcerous healing, knocked down, +6 bonus damage.                                                      |
+| 2    | A crushing blow to the weapon arm at the elbow; the arm is useless, +7 bonus damage.                                                                                              |
+| 3    | The strike catches the skull above the ear and staves it inward; +7 bonus damage, target falls unconscious for 1D6 rounds, on waking parries Difficult for the rest of the fight. |
+| 4    | A full blow to the ribs over the heart; +7 bonus damage, stunned for 3 rounds, attacks and parries Difficult for the rest of the fight from chest pain.                           |
+| 5    | The weapon destroys the shoulder joint; the arm is useless, +7 bonus damage, knocked off balance - knocked down.                                                                  |
+| 6    | A direct strike to the face that collapses the nose and cheekbone; +8 bonus damage, stunned for 3 rounds.                                                                         |
+| 7    | The weapon caves in the sternum; +8 bonus damage, stunned for 3 rounds, and attacks and parries Difficult for the remainder of the fight from breathing difficulty.               |
+| 8    | A blow to the back of the head; +8 bonus damage, the target falls unconscious immediately and is dying in 8 rounds without treatment.                                             |
+| 9    | The strike takes the forearm and the bone punches through the skin; weapon arm is useless, +8 bonus damage, bleeds.                                                               |
+| 10   | A crushing blow directly to the skull's crown; +9 bonus damage. The target's skull fails. Dead.                                                                                   |
 
 ### 4.5 Band E - Krush
 
-| Roll | Result                                                                                                                                                                                                  |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | The weapon takes the shield arm at the elbow; the arm is shattered beyond use permanently, +9 bonus damage, bleeds from the split skin.                                                                 |
-| 2    | A full-force blow to the upper chest; +9 bonus damage, dying in 3 rounds. The internal damage is extensive.                                                                                             |
-| 3    | The weapon drives into the side of the skull and does not fully stop; dead, immediately. The sound is wrong.                                                                                            |
-| 4    | A blow to the jaw that carries through to the skull; +9 bonus damage, dead in 1 round - the target may take one last action.                                                                            |
-| 5    | The weapon strikes the temple with its full weight and impetus; dead, instantly.                                                                                                                        |
-| 6    | A blow to the back of the head with the full weight of the swing; the target falls dead and does not twitch.                                                                                            |
-| 7    | The weapon strikes the throat and collapses it completely; dying in 2 rounds, cannot speak or call out - dying in silence.                                                                              |
-| 8    | A crushing blow to the face that drives bone into the brain; dead before the weapon is withdrawn.                                                                                                       |
-| 9    | The weapon catches the skull at its weakest point; +10 bonus damage. If the target survives by any means, they wake with a permanent characteristic reduction of 1D3 to INT or POW (attacker's choice). |
-| 10   | A blow of such force that the target's skull simply ceases to be a skull; dead, and the body falls in a way that will be described for years afterwards.                                                |
+| Roll | Result                                                                                                                                                                                                    |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | The weapon takes the shield arm at the elbow; the arm is shattered beyond use permanently, +9 bonus damage, bleeds from the split skin.                                                                   |
+| 2    | A full-force blow to the upper chest; +10 bonus damage, target falls unconscious for 1D6 rounds, on waking attacks and parries Difficult for the rest of the fight from internal injuries.                |
+| 3    | The weapon drives into the side of the skull; +10 bonus damage, target falls unconscious for 1D10 rounds, on waking permanently loses 1D3 INT (the impact has damaged the brain).                         |
+| 4    | A blow to the jaw that carries through to the skull; +10 bonus damage, jaw shattered (cannot speak or cast without sorcerous healing), stunned for 5 rounds, attacks Difficult for the rest of the fight. |
+| 5    | The weapon strikes the temple with its full weight; +10 bonus damage, target falls unconscious for 2D6 rounds, on waking permanently loses 1D3 to POW or INT (attacker's choice).                         |
+| 6    | A blow to the back of the head with the full weight of the swing; the target falls dead and does not twitch.                                                                                              |
+| 7    | The weapon strikes the throat and collapses it completely; dying in 2 rounds, cannot speak or call out - dying in silence.                                                                                |
+| 8    | A crushing blow to the face that drives bone into the brain; dead before the weapon is withdrawn.                                                                                                         |
+| 9    | The weapon catches the skull at its weakest point; +10 bonus damage. If the target survives by any means, they wake with a permanent characteristic reduction of 1D3 to INT or POW (attacker's choice).   |
+| 10   | A blow of such force that the target's skull simply ceases to be a skull; dead, and the body falls in a way that will be described for years afterwards.                                                  |
 
 ---
 
