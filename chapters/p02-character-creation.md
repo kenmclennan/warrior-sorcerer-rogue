@@ -257,7 +257,7 @@ A product of urban crime: picking pockets, casing houses, working with fences, a
 
 ---
 
-#### Outlaw-Bard
+#### Wayfarer
 
 The singer, the storyteller, the person who lives on the edge of every circle. Carries news from one place to another, performs for coin or hospitality, and knows how to make themselves welcome - or invisible - depending on which would serve them better.
 
@@ -561,7 +561,7 @@ Reputation is fame - or notoriety - recognised beyond the character's home groun
 | Mercenary Soldier          | 10%                 |
 | Sea-Raider                 | 10%                 |
 | City Thief                 | 5%                  |
-| Outlaw-Bard                | 15%                 |
+| Wayfarer                   | 15%                 |
 | Hunter-Tracker             | 5%                  |
 | Charioteer                 | 15%                 |
 | Temple Hierophant          | 25%                 |
@@ -671,7 +671,7 @@ Each profession has a typical starting kit. This is the gear the character arriv
 | Mercenary Soldier          | Sword or spear (standard), light shield, leather or scale armour, belt knife, 10 Drams              |
 | Sea-Raider                 | Axe or sword (standard), dagger, light hide armour, 50m rope, 8 Drams                               |
 | City Thief                 | Dagger, lockpicks (Fine Manipulation +10% for these specific tools), dark clothing, 5 Drams         |
-| Outlaw-Bard                | Instrument or storyteller's props, dagger, travelling cloak, 8 Drams                                |
+| Wayfarer                   | Instrument or storyteller's props, dagger, travelling cloak, 8 Drams                                |
 | Hunter-Tracker             | Spear or bow (standard, with 20 arrows if bow), hunting knife, hide armour, 3 Drams                 |
 | Charioteer                 | Composite bow (standard) with 30 arrows, dagger, scale armour, 15 Drams                             |
 | Temple Hierophant          | Ceremonial robes, seal-ring of office, writing tools and blank scrolls, dagger, 2 Staters           |
