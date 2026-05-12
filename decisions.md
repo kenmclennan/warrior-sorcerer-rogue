@@ -12,6 +12,39 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Criticals and Major Wounds: fully exclusive systems (Option A)
+
+**Context:** User flagged a real ambiguity in the interaction between criticals and the Major Wounds Table. Two issues:
+
+1. The wording "the player may forgo the Major Wounds Table and look up the crit result in PA1 instead" (P5 §5.2 last paragraph) made the exclusivity sound optional - a careful reader might apply BOTH the PA1 entry and the Table, double-punishing the character.
+2. Even ignoring the Table, the Major Wound _status_ (Luck roll for permanence, impaired-capacity narrative) was still triggering on crits when damage ≥ MW threshold - layering on top of PA1 entries that already encoded their own duration and permanence ("the hand is gone," "useless for 2 rounds," "dying in 5 rounds"). Functionally redundant.
+
+User: "Should Major Wounds only apply when there WASN'T a critical?"
+
+**Decision (Option A - fully exclusive systems):** PA1 critical and Major Wound are parallel wound systems, not stacked. A critical attack resolves entirely via PA1. The Major Wounds Table does not roll, the Luck roll for permanence does not apply, and the impaired-capacity status does not apply. PA1 entries already encode their own severity and recovery.
+
+The Major Wound system (Table + Luck roll + impaired status) applies only to **non-critical** attacks that deal ≥ half HP damage in a single blow.
+
+**Reasoning:** Sword & sorcery is about specific wounds with specific effects, not generic statuses stacked on top of each other. The PA1 entry IS the wound - its words are the wound's truth, including how long it lasts. PA1 already specifies "useless for 2 rounds" (temporary), "the hand is gone" (permanent), "dying in N rounds" (terminal). Adding a separate Luck roll on top either duplicates the permanence question or muddles it. Cleaner to make the systems exclusive.
+
+The user's instinct ("Major Wounds only apply when there wasn't a critical") aligns perfectly with Option A. Considered Option B (clarify wording, keep stacked Luck roll for crits) but rejected: the redundancy was the real problem, not just the wording.
+
+**Files updated:**
+
+- **P5 §5.1 Major Wound paragraph** - restructured to split by source: critical → PA1 only (no Table, no Luck roll, no impaired status); non-critical → MW Table + Luck roll + impaired narrative. The bonus-damage-counts-toward-threshold sentence is removed (no longer relevant for crits, which don't check the threshold).
+- **P5 §5.2 Criticals and Major Wounds** - rewritten as deterministic: "Critical attacks resolve via PA1. The Major Wounds Table does not apply, and the Luck roll and impaired-capacity status in §5.1 do not apply. PA1 critical and Major Wound are parallel wound systems, not stacked."
+- **PA1 §1.4 Major Wound vocabulary entry** - rewritten to clarify its role for entries that say "if this causes a Major Wound, [extra effect]." The vocabulary still applies: PA1 entries reference the threshold as a conditional trigger for additional effects (e.g., "dying" when the damage crosses half HP). But the Major Wounds Table itself is never rolled for criticals.
+- **PA2 §3 worked example** (Davan's critical) - tightened to match: "Under §5.1, the critical's PA1 result is the wound... The Major Wounds Table does not roll, and there is no Luck roll: PA1 critical and Major Wound are parallel wound systems, not stacked."
+
+**Implications:**
+
+- Critical attacks: simpler resolution. PA1 entry, done. No additional rolls.
+- Non-critical Major Wounds: unchanged. Table + Luck roll + impaired narrative.
+- "Major Wound" as a PA1 vocabulary term still exists - it gates conditional effects within entries ("if this causes a Major Wound, the target is dying"). The trigger is "damage crosses the threshold"; the effect is whatever the PA1 entry specifies.
+- Sabre Tiger's "Killing Bite" ability (G3 line 340) and similar creature abilities that reference "Major Wound" still work - they trigger on damage crossing threshold, not on rolling the Table.
+
+---
+
 ## 2026-05-12 - Crit table coordination: bonus damage + MW, cross-ref fix, animal-attack note
 
 **Context:** User review of PA1 raised three clarification asks:
