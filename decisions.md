@@ -12,6 +12,49 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P7 §5 Material Tiers: apply metallurgy correction to weapons; add Steel tier
+
+**Context:** Follow-up to the armour metallurgy correction. User: "apply the same to weapons." P7 §5 (Material Tiers) had a section that explicitly said iron is superior to bronze (HP +50%, AP +1, 5-10x cost). Needed to be brought in line with the new historically-grounded position.
+
+**Decision:** Rewrite §5 fully. Equalise bronze and iron mechanically; add Steel as the fourth tier with genuine mechanical superiority; update §12.1 and P6 §4 to include steel under the iron-vs-sorcery rule.
+
+**Material tiers now:**
+
+| Tier   | Weapons             | Armour              | Cost                                | Notes                                            |
+| ------ | ------------------- | ------------------- | ----------------------------------- | ------------------------------------------------ |
+| Copper | Damage die -1 step  | AP -1               | x1/3 of bronze                      | Primitive                                        |
+| Bronze | Standard            | Standard            | Listed prices                       | Prestigious, traditional                         |
+| Iron   | Identical to bronze | Identical to bronze | -1 Cost tier vs bronze              | Cheap, abundant; disrupts sorcery                |
+| Steel  | +1 damage / 2x HP   | +1 AP               | +1 Cost tier vs bronze, min 3x coin | Rare, master-crafted; counts as iron for sorcery |
+
+**Key changes from the previous §5:**
+
+- Iron no longer +50% HP / +1 AP / 5-10x cost. Now equivalent to bronze but cheaper.
+- Steel is new. Carries the mechanical edge iron previously claimed.
+- "Enchanted iron" rule now "Enchanted iron and steel" (both can be consecrated).
+
+**Files updated:**
+
+- P7 §5 (Material Tiers): full rewrite. Five subsections: 5.1 Copper, 5.2 Bronze, 5.3 Iron, 5.4 Steel, 5.5 Enchanted Iron and Steel.
+- P7 §12.1 (Iron Disrupts Sorcery): "What counts" updated to include steel ("Steel is iron with carbon worked in; the sorcerous current finds the ferrous metal regardless"). "What does not count" updated to "non-ferrous materials" and "Enchanted iron or steel."
+- P6 §4 (Iron Disrupts Sorcery, summary): same updates - steel added to the "what counts" list.
+
+**Reasoning:**
+
+- **Apply the same logic to weapons as armour.** The bronze/iron equivalence + steel-as-upgrade pattern now governs both, internally consistent.
+- **Steel weapon benefit (+1 damage; double HP) parallels steel armour benefit (+1 AP).** Both grant a small mechanical edge plus durability. A steel sword cuts cleaner AND parries longer.
+- **Cost: +1 tier rather than 3x flat.** Tier-based cost matches the rest of the equipment system. The "min 3x coin if already Expensive" rule keeps top-tier steel meaningfully more costly than top-tier bronze.
+- **Cleaner steel-counts-as-iron rule.** "Steel is iron with carbon worked in" makes the sorcery interaction intuitive - no exotic carve-outs needed.
+
+**Implications:**
+
+- A steel-armed Named Antagonist now genuinely hits harder and lasts longer in a parry exchange than the equivalent bronze-armed soldier. Mechanical reinforcement of the genre's "the gleam of the steel" signal.
+- Sorcerer PCs face the same iron/steel disruption rule regardless of which a foe uses - the sorcerous-disruption penalty doesn't go away when an enemy upgrades to steel.
+- Iron equipment becomes meaningfully cheaper than bronze in the economic layer - the soldier-affordable kit.
+- No table entries need new rows. Steel applies as a universal +1/+1 modifier; specific Mail, Steel entry in §3.3 is the visible exception (matches the armour-side decision and gives steel a concrete locator).
+
+---
+
 ## 2026-05-12 - P7 armour metallurgy: equalise bronze/iron AP; add Mail, Steel as the real upgrade
 
 **Context:** User flagged that the assumption "iron is better than bronze" is fantasy-genre orthodoxy but historically misleading. Cast bronze is hard and holds an edge (high-tin bronze ~250-300 BHN). Wrought iron is softer than bronze - Polybius and Plutarch describe Celtic warriors stepping on bent iron swords mid-battle to straighten them; lower-tier Viking blades had the same problem. The Bronze->Iron transition was driven by tin scarcity (Bronze Age Collapse), not blade quality. The genuine technological leap was **steel** (carburised iron) - pattern-welded Roman gladii, Indian wootz, Damascus crucible steel.

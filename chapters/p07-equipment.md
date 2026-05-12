@@ -289,33 +289,47 @@ Shields are both defensive tools and weapons. They provide Armour Points when us
 
 ## 5. Material Tiers
 
-The standard for all weapon and armour prices is **bronze**. Two other tiers exist: copper (inferior) and iron (superior but dangerous for sorcerers).
+WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. The Bronze-to-Iron transition in the ancient world was driven by tin-trade collapse, not blade quality. Wrought iron is in fact softer than work-hardened bronze; the bent iron swords of the early Iron Age are real (Polybius and Plutarch both describe Celtic warriors stepping on their blades mid-battle to straighten them). The genuine technological leap of antiquity was **steel** - properly carburised iron, pattern-welded or crucible-forged.
+
+Four material tiers govern weapons and armour: copper (inferior, primitive), bronze (standard, prestigious), iron (standard, cheap), and steel (the master smith's edge).
 
 ### 5.1 Copper
 
-Copper predates bronze; found in primitive cultures or as cheap trade goods.
+Copper predates bronze; found in primitive cultures or as cheap trade goods. Soft, dulls quickly, dents under stress.
 
-- **Weapons:** Damage die reduced by one step (1D8 becomes 1D6; 1D6 becomes 1D4; 1D4 becomes 1D3). No other change.
+- **Weapons:** Damage die reduced by one step (1D8 becomes 1D6; 1D6 becomes 1D4; 1D4 becomes 1D3).
 - **Armour:** AP reduced by 1 (minimum 1).
 - **Durability:** HP halved (round up).
 - **Cost:** One-third of the bronze price.
 
 ### 5.2 Bronze
 
-The standard. All stats in §§2-4 assume bronze construction.
+The traditional metal of the ancient world. All stats in §§2-4 assume bronze construction. Tin-trade wealth, heroic panoply, often ornate and decorated. Rust-proof, holds an edge well, can be cast into complex shapes (the khopesh, the muscle cuirass). Common among aristocrats, royal guards, and traditionalist warrior cultures.
 
 ### 5.3 Iron
 
-Iron is rarer, harder, and sharper than bronze, and inert to sorcery in a way that bronze is not.
+Iron is cheaper than bronze and more widely available - any village with bog ore can produce it. Despite the conventional fantasy assumption, wrought iron is not mechanically superior to bronze: it is softer and more prone to bending in heavy use. Iron became dominant in antiquity because of supply and economy, not blade quality.
 
-- **Weapons:** HP increased by half (round up). Iron weapons hold an edge better and break less easily.
-- **Armour:** AP increased by 1. Iron armour is markedly superior to its bronze equivalent.
-- **Durability:** HP increased by half (round up).
-- **Cost:** Iron weapons cost 5-10 times their bronze equivalent; iron armour 10-20 times. Most warriors who own iron have taken it from a fallen enemy or paid dearly.
+- **Weapons and armour:** Mechanically identical to bronze.
+- **Cost:** One Cost tier cheaper than bronze (Average -> Inexpensive; Inexpensive -> Cheap; Cheap stays Cheap).
 
-**Enchanted iron:** An iron item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in G5.
+Iron has one inherent property bronze lacks: it disrupts sorcery. See §12.1.
 
-See §12.1 for the iron-vs-sorcery rules that make iron equipment a meaningful choice for sorcerer characters.
+### 5.4 Steel
+
+Steel - carburised iron, pattern-welded or crucible-forged - is the genuine technological leap. Roman noric steel, Indian wootz, Damascus crucible steel were genuinely superior to both bronze and wrought iron. A steel blade holds its edge through battle without bending; steel armour turns blows that bronze or iron would not.
+
+- **Weapons:** +1 damage on each successful hit; double the listed HP for parry/destruction.
+- **Armour:** +1 AP over the bronze/iron equivalent.
+- **Cost:** One Cost tier above bronze (Cheap -> Inexpensive; Inexpensive -> Average; Average -> Expensive; Expensive stays Expensive but costs at least 3x the listed coin).
+
+Steel weapons and armour are rare. Most warriors never own one. Finding a steel piece is a meaningful event - the gleam of the steel is the master-craft signature.
+
+For the iron-vs-sorcery rule (§12.1), steel counts as iron. The sorcerous current finds the metal regardless of carbon content.
+
+### 5.5 Enchanted Iron and Steel
+
+An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in G5.
 
 ---
 
@@ -662,9 +676,9 @@ Unenchanted iron is inimical to the sorcerous current.
 
 **Rule:** Each 1 ENC of unenchanted iron a sorcerer carries imposes a **-5% penalty to all sorcery skill rolls** and sorcery-related characteristic rolls.
 
-**What counts:** Iron weapons, iron armour, iron manacles, iron chains - any significant iron item. Small iron fittings (buckles, rivets) on primarily leather or bronze items do not count unless the GM rules the iron proportion is significant.
+**What counts:** Iron and steel weapons, armour, manacles, chains - any significant iron-bearing item. Steel is iron with carbon worked in; the sorcerous current finds the ferrous metal regardless. Small iron fittings (buckles, rivets) on primarily leather or bronze items do not count unless the GM rules the iron proportion is significant.
 
-**What does not count:** Bronze, copper, leather, wood, stone, bone, or other non-iron materials. Enchanted iron (see §5.3) does not impose the penalty.
+**What does not count:** Bronze, copper, leather, wood, stone, bone, or other non-ferrous materials. Enchanted iron or steel (see §5.5) does not impose the penalty.
 
 **Practical effect:** A sorcerer carrying an iron sword (ENC 1), iron armour (ENC 9), and an iron helm (ENC 1) carries 11 ENC of iron - sorcery rolls suffer -55%. Most sorcerers travel in bronze or leather and leave the heavy martial kit to their companions.
 

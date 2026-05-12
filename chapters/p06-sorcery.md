@@ -170,9 +170,9 @@ Unenchanted iron is inimical to the sorcerous current.
 
 **Rule:** Each 1 ENC of unenchanted iron carried imposes **-5% on all sorcery rolls**, including Resistance Table rolls made as part of a spell's effect.
 
-**What counts:** Iron weapons, armour, chains, manacles, and significant iron fittings (iron-reinforced items borne on the body). Small fittings - buckles, rivets - on primarily leather or bronze items do not count unless the GM rules the proportion significant.
+**What counts:** Iron and steel weapons, armour, chains, manacles, and significant iron-bearing fittings (iron-reinforced items borne on the body). Steel is carburised iron; the sorcerous current finds the metal regardless of carbon content. Small fittings - buckles, rivets - on primarily leather or bronze items do not count unless the GM rules the proportion significant.
 
-**What does not count:** Bronze, copper, leather, bone, wood, stone, and all other materials. Enchanted iron (consecrated through proper sorcerous ritual) does not impose the penalty.
+**What does not count:** Bronze, copper, leather, bone, wood, stone, and all other non-ferrous materials. Enchanted iron or steel (consecrated through proper sorcerous ritual) does not impose the penalty.
 
 **Practical:** Iron sword (ENC 1) + iron helm (ENC 1) = -10% on all sorcery rolls. Iron mail (ENC 9) = -45%. Most sorcerers travel in bronze or leather.
 
