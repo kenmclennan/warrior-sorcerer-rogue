@@ -27,7 +27,7 @@ Five wealth tiers describe a character's standing and roughly translate to coin 
 
 | Wealth Tier | Rough Holdings     | Typical Person                                  |
 | ----------- | ------------------ | ----------------------------------------------- |
-| Destitute   | Less than 10 Drams | Beggar, slave, prisoner                         |
+| Destitute   | Less than 10 Drams | Beggar, captive, prisoner                       |
 | Poor        | 10-100 Drams       | Labourer, apprentice, pilgrim                   |
 | Average     | 1-10 Staters       | Craftsman, mercenary, merchant guard            |
 | Affluent    | 10-100 Staters     | Caravan master, minor official, skilled soldier |
