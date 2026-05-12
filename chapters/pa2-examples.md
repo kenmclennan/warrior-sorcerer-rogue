@@ -507,7 +507,7 @@ The ledger is in the Syndicate's counting-house in the merchant quarter - which 
 
 The party finds a solution: Karash uses _Iron Ward_ at Intensity 2 to suppress the vault ward while Khess picks the lock (Fine Manipulation, augmented with Research from her case study). They enter before Selka is alerted.
 
-The fight with Selka is brief and hard. Selka is a professional (full HP, full PP, no Rabble rule applies). Orryn takes a significant wound - not a Major Wound, but enough that Khess has to choose between pressing the attack and spending a round applying First Aid (1D3 HP). She applies First Aid. Orryn stays standing.
+The fight with Selka is brief and hard. Selka is a professional (full HP, full PP, no Rabble rule applies). Orryn takes a significant wound - not a Major Wound, but enough that Khess has to choose between pressing the attack and spending a round applying First Aid (1D4 HP). She applies First Aid. Orryn stays standing.
 
 They take the ledger. They also take Mekhos's secondary accounting tablet, which they were not hired to take - Khess palms it during the extraction. Karash sees her do it and says nothing.
 

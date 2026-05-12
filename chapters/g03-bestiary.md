@@ -16,7 +16,40 @@ Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 
 
 **Major Wound Threshold** - Half HP (round up). Most creatures do not roll on the Major Wounds Table; the GM narrates the wound's effect from the attack type and creature's nature.
 
-**Bestiary HP and the PC/NPC formula split.** P2 §3.1 and G2 §1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. For a creature you treat as a Named-tier recurring foe (a specific dragon, a particular demon prince, a singular intelligent threat), double its HP to apply the Named formula. Generic encounter creatures stay at the listed value.
+**Bestiary HP and the PC/NPC formula split.** P2 §3.1 and G2 §1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
+
+### 1.2 Named Creatures
+
+A specific creature can be elevated above its species: the Great Wolf of T'althu, the demon-prince Iz-Karoth bound a thousand years in the salt vault, the boar that scarred a generation of huntsmen and is named in every cottage along the river. These are not the generic stat block - they are singular, named individuals, treated as Named Antagonists for mechanical purposes.
+
+**Mechanical effect:** Named Creatures use the Named Antagonist HP formula (**CON + SIZ**, not half). They may also receive:
+
+- Higher characteristics than the bestiary base entry suggests.
+- A unique ability or signature attack that distinguishes them from the generic encounter.
+- A reputation in local folklore - the PCs should know the name before the fight, hear stories about what the creature has done, and approach with appropriate dread.
+- For intelligent creatures: their own Talents, Passions, or a Patron compact.
+
+**Building a Named Creature:**
+
+1. Start with the bestiary entry for the type.
+2. Apply the Named HP formula: CON + SIZ (effectively doubling the listed HP).
+3. Bump 1-2 characteristics by 1D3-1D6 to reflect exceptional vitality, cunning, or POW.
+4. Add a unique ability - the Great Wolf may have learned to pull a rider from horseback; the demon-prince may have a personal spell no other demon casts; the legendary boar may charge through three ranks of spears without slowing.
+5. Give it a name that survives the scenario. Even if killed, the name persists in local memory; its hide, bones, or essence becomes a relic or a Patron offering.
+
+**Example - The Great Wolf of T'althu.** Begin with the Wolf entry (§2.3): STR 12, CON 11, SIZ 12, DEX 14, POW 8, INT 4. Bite 45%, 1D6+dm. HP 12 (half formula).
+
+Elevate to Named Creature:
+
+- Characteristics: STR 16, CON 14, SIZ 14, DEX 16, POW 12, INT 6. Larger than any wolf living, with the cunning of a thing that has hunted for fifty winters.
+- **HP: 28** (CON + SIZ, Named formula).
+- Bite: **75%**, damage 1D8+dm (the larger frame increases the damage modifier).
+- Signature - _The Drag._ Once per combat, after a successful bite, the Great Wolf attempts a Grapple at 65% to pull a mounted rider from the saddle or a standing target prone.
+- Reputation: hunters in the T'althu basin know the Great Wolf has taken seven shepherds in three winters. Older than the village headman. Stories say it cannot be killed by any blade forged in the lowlands.
+
+The Great Wolf is a legendary fight. When defeated, its pelt is a relic worth a king's ransom or a powerful Patron Compact offering - and the village headman may not believe it is dead until he sees the head with his own eyes.
+
+**Resolving Major Wounds against Named Creatures.** They follow the Named Antagonist rule: PA1 critical hit tables apply; the Major Wounds Table does not. See P5 §5 for the Critical/Major Wound exclusivity rule.
 
 **AV** - Reduces all incoming damage. A single value covers the whole creature.
 

@@ -228,9 +228,9 @@ _(Mental, base 30%)_
 
 Immediate triage: staunching bleeding, bandaging wounds, reviving an unconscious character, splinting a broken limb, clearing an airway. First Aid cannot treat poison or disease - that requires Medicine. First Aid is always applied after a wound, not during combat.
 
-A successful First Aid roll heals 1D3 HP on a single wound and stabilises the patient. First Aid can restore a character reduced to 0 HP to consciousness if applied within one round of collapse and the character is not dead.
+A successful First Aid roll heals 1D4 HP on a single wound and stabilises the patient. First Aid can restore a character reduced to 0 HP to consciousness if applied within one round of collapse and the character is not dead.
 
-**Critical:** heals 2D3 HP instead of 1D3.
+**Critical:** heals 2D4 HP instead of 1D4.
 
 ---
 
@@ -362,9 +362,9 @@ _(Mental, base 05%)_
 
 Extended medical treatment: treating poison and disease, managing a character's recovery from serious injury, restoring damaged characteristics. Medicine requires time, proper materials (herbs, bandages, surgical instruments), and a patient who is stable enough to be treated. It cannot substitute for First Aid in emergency triage.
 
-A successful Medicine roll heals 1D3 HP from one injury, stabilises a poisoned or diseased character, or arrests the decline of a deteriorating condition. The physician may also attempt to restore points lost from a damaged characteristic - one success allows one attempt.
+A successful Medicine roll heals 1D4 HP from one injury, stabilises a poisoned or diseased character, or arrests the decline of a deteriorating condition. The physician may also attempt to restore points lost from a damaged characteristic - one success allows one attempt.
 
-**Critical:** heals 2D3 HP, or restores 1D3 points to a damaged characteristic.
+**Critical:** heals 2D4 HP, or restores 1D3 points to a damaged characteristic.
 
 ---
 

@@ -210,9 +210,9 @@ Natural healing is slow. A character recovers 1D4 HP per game week, modified by 
 | Restful (inn, adequate food, warmth)       | 1D4 HP per week      |
 | Excellent (physician's care, herbs, quiet) | 1D4 HP per four days |
 
-First Aid applied immediately after a wound heals 1D3 HP (Critical: 2D3 HP) and halts any ongoing bleeding. First Aid must be applied within one turn of the wound to achieve these benefits; later application only halts bleeding.
+First Aid applied immediately after a wound heals 1D4 HP (Critical: 2D4 HP) and halts any ongoing bleeding. First Aid must be applied within one turn of the wound to achieve these benefits; later application only halts bleeding.
 
-Medicine skill applied in proper conditions heals 1D3 HP or restores 1 point to a reduced characteristic per treatment (Critical: 2D3 HP, or 1D3 to a characteristic). Medicine cannot be applied in the middle of combat.
+Medicine skill applied in proper conditions heals 1D4 HP or restores 1 point to a reduced characteristic per treatment (Critical: 2D4 HP, or 1D3 to a characteristic). Medicine cannot be applied in the middle of combat.
 
 Sorcerous healing exists as rare, costly spells in the sorcery list (see P6 §3). It is never the default recovery path, and it pays its own price.
 

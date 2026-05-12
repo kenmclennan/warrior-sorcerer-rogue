@@ -84,8 +84,8 @@ A skill reduced to 0% by penalties cannot be attempted.
 
 Five skills have specific numerical critical outcomes that supersede the general "best achievable version" rule:
 
-- **First Aid:** Critical = heals 2D3 HP (ordinary success = 1D3 HP).
-- **Medicine:** Critical = heals 2D3 HP or restores 1D3 points to a damaged characteristic (ordinary success = 1D3 HP or stabilises the patient).
+- **First Aid:** Critical = heals 2D4 HP (ordinary success = 1D4 HP).
+- **Medicine:** Critical = heals 2D4 HP or restores 1D3 points to a damaged characteristic (ordinary success = 1D4 HP or stabilises the patient).
 - **Teach:** Critical = the student gains 1D6 points to the skill being taught (ordinary success = training proceeds at the standard rate).
 - **Jump:** Critical = double the distance jumped or height cleared; reduces fall damage by 3D6 instead of 1D6.
 - **Cooperative Rolls (helper's roll):** Critical = the lead character gains +50% to their skill for the cooperative roll (ordinary success = +20%).
@@ -181,7 +181,7 @@ Reference times for common game activities:
 | Recover 1 Power Point (sleeping) | 1 hour                                      |
 | Recover 1 Power Point (awake)    | 2 hours                                     |
 | Recover all Power Points         | 1 game day (24 hours)                       |
-| Natural healing: 1D3 HP          | 1 game week                                 |
+| Natural healing: 1D4 HP          | 1 game week                                 |
 | Experience roll opportunity      | 1 downtime period (end of adventure)        |
 | Skill training roll              | Current skill x1 hour (up to 50 hours/week) |
 | Training roll, combat skills     | ~3 game weeks                               |

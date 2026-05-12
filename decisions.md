@@ -12,6 +12,57 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Bump First Aid / Medicine to 1D4; introduce Named Creature concept for bestiary
+
+**Context:** Two follow-ups from the Total Hit Points decision:
+
+1. User confirmed First Aid and Medicine healing rates (1D3 HP, crit 2D3) felt underweight against doubled PC HP - relative impact halved. Bump approved.
+2. User raised the idea of Named Creatures - extreme examples of a species ("the Great Wolf of T'althu and the like") elevated mechanically to Named Antagonist tier.
+
+**Decisions:**
+
+**1. First Aid and Medicine: 1D3 -> 1D4 HP healed.** Critical results: 2D3 -> 2D4. Characteristic restoration (Medicine 1D3 points) unchanged - characteristics are 3-18, not HP-scaled.
+
+Files updated:
+
+- P1 §4 (how-to-play primer): natural healing line bumped.
+- P3 First Aid skill entry: 1D3/2D3 -> 1D4/2D4.
+- P3 Medicine skill entry: 1D3/2D3 -> 1D4/2D4 for HP healing; characteristic restoration unchanged.
+- P4 §2.4 Non-Combat Critical Outcomes: First Aid and Medicine entries updated.
+- P4 §5.2 Key Intervals table: natural healing entry updated.
+- P5 §5.3 healing block: First Aid and Medicine paragraphs updated to 1D4 (natural healing was already bumped in prior commit).
+- PA2 §4 (Selka fight callback): First Aid reference updated.
+
+Left unchanged (deliberately):
+
+- Vampire and troll regeneration (1D3 HP/round) - creature abilities, scale-independent.
+- Major Wounds Table killing-wound entry (1D3 HP/round Stamina cascade) - bleed cascade, scale-independent.
+- Mask of Pricelessness 1D3 damage (G5) - damage mechanic, unrelated.
+- Rally From the Wound (P4 §7.9, 1D6 HP) - already higher tier; not flagged.
+
+**2. Named Creatures: new G3 §1.2 section.** A singular legendary individual of a species, mechanically elevated to Named Antagonist tier.
+
+Section adds:
+
+- Definition (singular, named, legendary).
+- Mechanical effect: Named Antagonist HP formula (CON+SIZ), higher characteristics, unique signature abilities, reputation in local folklore, possible Talents/Passions/Patron for intelligent creatures.
+- Build procedure: start from bestiary entry, apply Named HP, bump 1-2 characteristics, add unique ability, name.
+- Worked example: The Great Wolf of T'althu. Built from the §2.3 Wolf entry, statted out with elevated characteristics, doubled HP (12 -> 28 via CON+SIZ), 75% Bite, signature ability "The Drag" (Grapple-from-bite to pull rider/standing target).
+- Note: Named Creatures follow the Critical/Major Wound exclusivity (PA1 critical tables apply; MW Table does not).
+
+**Reasoning:**
+
+- **Healing bump.** First Aid/Medicine at 1D3 against HP 23 healed ~9% per success. At 1D4 it heals ~11% - still slower in absolute terms than under the old HP scale (where 1D3 was ~17%), but the skills now hit meaningfully without trivialising wounds.
+- **Named Creatures.** Genre-canonical - Howard's "Beast-God of the Forgotten Land," Moorcock's individual named demons, Smith's specific Old Ones. A bestiary species entry tells you what a wolf is; a Named Creature tells you what THIS wolf is. Mechanically reuses the Named Antagonist tier; we just give it a name, a procedure, and an example.
+
+**Implications:**
+
+- First Aid / Medicine 1D4 bump propagates across all healing-relevant text. The math in worked examples now uses 1D4.
+- Named Creatures give the GM a clean way to elevate any bestiary creature for a singular encounter. The Great Wolf example shows the procedure.
+- This completes the Q1 lethality-and-recovery rebalance: doubled PC HP + softened Band D/E low-roll entries + bumped First Aid/Medicine (1D4) + 1D4 natural healing + Named Creature concept. PCs are durable enough for wounded-but-fighting, recovery is paced reasonably, the deadly tier (Band D/E slots 6-10) is preserved for dramatic moments, and the GM has a clean tool for legendary monster encounters.
+
+---
+
 ## 2026-05-12 - Adopt BRP Total Hit Points option (asymmetric): PCs and Named Antagonists use CON+SIZ; healing 1D3->1D4
 
 **Context:** User asked whether WSR should adopt BRP UGE's optional Total Hit Points rule given the lethality concern raised in the PA1 review. The BRP option: PCs and important NPCs use full CON+SIZ for HP; lesser NPCs use (CON+SIZ)/2. This roughly doubles PC durability and allows the genre's "wounded but fighting on" pattern.
