@@ -12,6 +12,51 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - New PA4 Names appendix; 10 male + 10 female names per Cultural Background
+
+**Context:** User added _The Nomicon_ (Matt Finch, Mythmere Games, 2025; 354 pages) as a project source. Requested: a new Player Book appendix providing ten male and ten female names for each of the eight Cultural Backgrounds in P2 §4.
+
+**Decision:** Create **PA4 Appendix: Names**. 160 names total (8 archetypes × 2 genders × 10 names).
+
+**Cultural Background → name-tradition mapping:**
+
+| Background               | Name tradition                                                                         |
+| ------------------------ | -------------------------------------------------------------------------------------- |
+| The Warm Coast           | Hellenic (Nomicon Ch. 14 Hellenica)                                                    |
+| The Walled Cities        | Phoenician/Levantine (Carthaginian/Punic; Nomicon has no dedicated Phoenician chapter) |
+| The Great River Kingdoms | Mesopotamian + Egyptic (Nomicon Ch. 21 Stygian/Egyptic, plus Akkadian/Sumerian)        |
+| The Vast Empire          | Persian (Nomicon Ch. 5 Arabish, Persian-Styled variant)                                |
+| The Horse Folk           | Scythian + Steppe-Mongol (mixed; Nomicon has no dedicated Scythian chapter)            |
+| The Cold Wilds           | Norse/Germanic (Nomicon Ch. 18 Nörslik, Ch. 22 Teutonnic)                              |
+| The Burning Lands        | Arabic + Saharan/Sahel (Nomicon Ch. 5 Arabish; West African historical figures)        |
+| The Scattered Isles      | Polynesian + Aegean (Nomicon has no dedicated archipelago chapter)                     |
+
+**Reasoning:**
+
+- **Why an appendix, not inline.** Names are reference material - a player picks one at chargen and may not consult the lists again. An appendix is the right home; putting them in P2 §4 would bloat the chargen flow with 160 entries.
+- **Why 10 + 10.** Substantial enough that two players from the same background don't end up with the same name; small enough that the appendix doesn't dominate the Player Book.
+- **Why ground in real linguistic traditions.** The genre's archetypal cultures (Greco-Roman, Norse, Persian) are evocative because readers recognise them. A Tarkhan from the steppe feels different from a Hakon from the wilds.
+- **Why blend Nomicon-drawn and historically-grounded names.** _The Nomicon_ provides curated lists for many traditions but doesn't cover every WSR archetype (no Phoenician, no Scythian-Mongol, no archipelago). The appendix combines Nomicon-sampled names where the chapter mapping is clean and historically-grounded names where it isn't.
+- **Why Carthaginian names for the Walled Cities.** Phoenician trading-port civilisation is the closest historical analogue. Names like Hanno, Bomilcar, Tanith, Imilce carry the right air of mercantile sophistication and inland-sea cosmopolitanism.
+- **Why blend Polynesian + Aegean for the Scattered Isles.** Both are archipelago cultures with sea-as-highway, but neither alone covers the full WSR archetype. The blend signals "this is an island people" without committing to one specific real-world tradition.
+
+**Implementation:**
+
+- New file: `chapters/pa4-names.md`.
+- P2 §13.1 (Name and Physical Description) updated to point at PA4 as a starter palette.
+- _The Nomicon_ credited in the appendix intro as the inspiration source for the linguistic mapping.
+
+**Source credit:** _The Nomicon_ is copyright Matt Finch 2025; consulted for inspiration only. All names in the appendix are either historical names from real linguistic traditions or stylistic generations in the appropriate tradition. No tables, formulas, or copyrighted content from _The Nomicon_ is reproduced - the source informs the linguistic mapping; the names themselves come from real-world history or are stylistic compositions.
+
+**Implications:**
+
+- New project chapter count: 19 (was 18). Cross-ref verifier indexes one more chapter.
+- P2 §13.1 cross-references PA4.
+- The appendix is short and stable - names lists rarely need revision.
+- "Starter palette" framing makes it clear that GMs with setting-specific name traditions (Argolis instead of Warm Coast) can substitute freely.
+
+---
+
 ## 2026-05-12 - P6 Spell List expansion: 8 new spells (sleep, charm, forget, dispel, scrying, telepathy, necromancy, lighter shape-change)
 
 **Context:** User reviewing P6 Sorcery flagged that the spell list (29 spells) had no magical sleep, charm, forget, or shape-changing spells. Source check confirmed BRP UGE's Magic and Sorcery chapters don't have direct Sleep / Charm / Forget spells either, but the BRP Sorcery list has other useful gaps to port (Undo Sorcery, Far Sight, Keen Ear, etc.). Shape Thief in WSR already covers animal shape-change at 4 PP + 1 Corruption per casting; what was missing was a cheaper alternative for "wolfskin"-style frequent transformation.
