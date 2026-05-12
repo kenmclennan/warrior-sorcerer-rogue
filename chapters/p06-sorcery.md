@@ -51,7 +51,7 @@ Sorcery does not fail through incompetence. A sorcerer who knows a spell, has th
 
 ### 2.2 Power Point Cost
 
-Every spell costs PP equal to its intensity, paid at the moment of casting. Fixed-intensity spells always cost the same amount; scaling spells cost more for stronger effects. PP are shared with Fate Point spends and critical-buy conversions (P4 §3 and §7) - the same pool, every draw. If the sorcerer lacks PP to complete a casting, the spell fails and any gathered PP disperses.
+Every spell costs PP equal to its intensity, paid at the moment of casting. Fixed-intensity spells always cost the same amount; scaling spells cost more for stronger effects. PP are shared with all Fate Point spends - the Critical Buy (P4 §3) and the standard menu (P4 §7) draw from the same pool, every draw. If the sorcerer lacks PP to complete a casting, the spell fails and any gathered PP disperses.
 
 See P4 §6 for PP totals and recovery.
 
@@ -89,7 +89,7 @@ Sorcery has three costs operating at different scales. All three are real and in
 
 ### 3.1 Power Points
 
-The immediate cost. Every spell costs PP; at zero the sorcerer collapses. Every spend is a real decision: spell or Fate Point; critical buy or working. See P4 §6 for the full Power Point rules.
+The immediate cost. Every spell costs PP; at zero the sorcerer collapses. Every spend is a real decision: spell or Fate Point; Critical Buy or working. See P4 §6 for the full Power Point rules.
 
 ### 3.2 Patron Score (Optional)
 

@@ -77,7 +77,7 @@ HP represents how much physical punishment a character can absorb before being i
 
 **PP = POW (starting value).**
 
-PP is the character's vital force - spent on sorcery, Fate Point actions, talent activations, and critical-buy conversions. PP regenerates over rest and sleep. See P4 §6 for recovery rates.
+PP is the character's vital force - spent on sorcery, Fate Point spends (including Critical Buys), and talent activations. PP regenerates over rest and sleep. See P4 §6 for recovery rates.
 
 ### 3.3 Damage Modifier
 

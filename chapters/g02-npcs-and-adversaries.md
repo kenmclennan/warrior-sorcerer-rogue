@@ -89,7 +89,7 @@ This mechanic lets a villain redirect an incoming blow to a nearby mook, spendin
 
 The villain takes no damage from this attack.
 
-**Pacing function.** Look Out Master! is a narrative timer, not a defensive tactic. The villain has spent their entire remaining PP pool - no Fate Point access, no critical buys, gutted casting capacity if a sorcerer. Deploy it once per encounter at maximum dramatic tension. Name the mook who dies. Give them one descriptive line.
+**Pacing function.** Look Out Master! is a narrative timer, not a defensive tactic. The villain has spent their entire remaining PP pool - no Fate Point access, no Critical Buys, gutted casting capacity if a sorcerer. Deploy it once per encounter at maximum dramatic tension. Name the mook who dies. Give them one descriptive line.
 
 **Constraints.** The villain must have a mook within range. "Range" is defined by the attack type:
 

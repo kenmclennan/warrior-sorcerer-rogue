@@ -12,6 +12,43 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Critical Buy reframed as Fate Point spend; Push Through added; PP-buy terminology retired
+
+**Context:** User review of P4 Action Resolution flagged that Fate Points were "mentioned in the GM section under mass combat rules but not in action resolution" - reading sequentially through P4 §1-§3, they hit the PP-Buy mechanic before the Fate Point system in §6-§7. They observed: "Converting a Success to a Critical is probably a Fate Point system but we would need to consider how it would interact with the other rules there." The PP-Buy was technically a Fate Point spend (same pool, same flavour) but labelled as a separate system, which created a reading-order confusion.
+
+User also identified a real gap: the standard BRP UGE "shift the result one level for 6 PP" spend covers Fumble -> Failure (already handled by Ignore a Fumble at 6 PP), Failure -> Success (no current spend), and Success -> Critical (handled by the variable-cost Critical Buy). The Failure -> Success transition was the genuine missing piece.
+
+**Decision:**
+
+1. **Rename P4 §3 "The PP-Buy: Converting a Success to a Critical" -> "Buying a Critical".** Open the section with one sentence locating it as a Fate Point spend with variable cost: "Buying a Critical is a Fate Point spend with a variable cost - it has its own section because the cost is calculated from the dice rather than being fixed. The Critical Buy draws from the same PP pool as every other Fate Point spend."
+
+2. **Add new Fate Point spend §7.5 Push Through (6 PP).** Converts a Failure on your own roll into an ordinary Success. Cannot apply to a re-rolled die; success does not earn an experience checkmark.
+
+3. **Explicit no-chain rule.** Push Through and Buying a Critical cannot combine on the same roll. A failure forced to success by Push Through is not eligible for a Critical Buy. User's direct words: "you cannot buy your way from a failure to a success to a critical."
+
+4. **Combining-spends rule added to P4 §7 opening.** Each Fate Point spend resolves independently. Multiple spends on a single action are legal where they do not contradict each other (e.g., Steady Blade pre-roll, Shrug Off a Blow post-damage). Two specific restrictions: no spend on a re-rolled die; no Push Through + Critical Buy chain.
+
+5. **Skipped from the BRP version: multi-level shifts (12/18 PP).** WSR pool sizes are too small (~12 PP average) for cascading shifts to be balanced, and the genre needs catastrophic moments to actually matter. Each spend in the menu addresses one specific transition.
+
+6. **Renumber P4 §7.5-§7.8 -> §7.6-§7.9.** Push Through slots in at §7.5 between Ignore a Fumble (§7.4) and Stand Your Ground (now §7.6). External cross-refs to §7.6 Deflect the Killing Blow updated in P5 (Dying Blow section) and PA1 (Band E sidebar).
+
+7. **Terminology sweep.** "PP-buy" / "critical-buy" / "critical buy" -> "Critical Buy" (proper noun for the mechanic) across all chapters. The old terminology suggested a separate system from Fate Points; the new terminology makes the unified Fate Point framework explicit. Files swept: P2, P3, P4, P5, P6, G1, G2, GA1, PA1, PA2. Historical decisions.md entries left as-is (append-only convention).
+
+**Reasoning:** The Fate Point system was always present in P4 §6-§7, but the PP-Buy in §3 read as orphaned because of its own naming and structural separation. Folding it conceptually into the Fate Point menu (while keeping its own section for the math) restores the reading flow. The Push Through addition fills a real gap that BRP UGE addressed with its shift mechanic, but without importing the cascade pricing that would unbalance WSR's smaller pool sizes. The no-chain rule preserves the genre's stake on failure - if every failed roll could become a critical for 9 PP, the system's lethality discipline would erode.
+
+**Implications:**
+
+- P4 §3 renamed; framing paragraph added; new restrictions (no chain with Push Through; no Critical Buy on re-rolled die).
+- P4 §6.4 list updated to reflect the unified framing.
+- P4 §7 opening rewritten with combining-spends rule.
+- P4 §7.5 Push Through inserted; §7.5-§7.8 renumbered to §7.6-§7.9.
+- P5 §9 (Dying Blow) cross-ref: §7.6 -> §7.7.
+- PA1 §1 (Band E sidebar) cross-ref: §7.6 -> §7.7.
+- "PP-buy"/"critical-buy" terminology retired in active chapter text; replaced with "Critical Buy".
+- G1 (GM Principles) updated to reference nine Fate Point spend options (was eight).
+
+---
+
 ## 2026-05-12 - Skill list additions and Stealth -> Move Quietly rename
 
 **Context:** User review of P3 skill list flagged four gaps and one framing problem:

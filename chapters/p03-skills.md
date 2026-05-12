@@ -1,6 +1,6 @@
 # Skills
 
-Skills are expressed as percentile ratings - roll equal to or less than the skill to succeed. This chapter is the full skill reference. For the mechanics of rolling - outcome tiers, criticals, fumbles, the PP-buy - see P4.
+Skills are expressed as percentile ratings - roll equal to or less than the skill to succeed. This chapter is the full skill reference. For the mechanics of rolling - outcome tiers, criticals, fumbles, the Critical Buy - see P4.
 
 ---
 

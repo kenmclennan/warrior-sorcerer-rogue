@@ -1,11 +1,5 @@
 # P4. Action Resolution
 
-> _"He was not afraid of men. He was afraid of himself - the thing he might become if his luck ran dry."_
-
-Read this chapter before any other. Every rule in every chapter that follows reaches back to these pages.
-
----
-
 ## 1. The Percentile Roll
 
 When a character attempts something where failure is possible and the outcome matters, the GM calls for a roll. Pick up two ten-sided dice and read them as a percentile number from 01 to 00 (where 00 means 100). Roll equal to or less than the relevant skill or characteristic target to succeed; roll higher to fail.
@@ -98,7 +92,9 @@ Five skills have specific numerical critical outcomes that supersede the general
 
 ---
 
-## 3. The PP-Buy: Converting a Success to a Critical
+## 3. Buying a Critical
+
+Buying a Critical is a Fate Point spend with a variable cost - it has its own section because the cost is calculated from the dice rather than being fixed. The Critical Buy draws from the same PP pool as every other Fate Point spend. See §7 for the rest of the menu.
 
 After rolling an ordinary success, identify the highest matching-dice value that is both (a) less than or equal to the actual roll and (b) within the character's success range. The PP cost to claim that critical is equal to the difference between the actual roll and that matching value.
 
@@ -110,8 +106,10 @@ After rolling an ordinary success, identify the highest matching-dice value that
 - The matching-dice value claimed must fall within the character's success range (equal to or less than the relevant skill). You cannot buy a critical at a matching value that would be a fumble.
 - The PP cost must be paid in full. If the character does not have enough PP, the conversion is not available.
 - The conversion is declared before the result of the roll is applied. Once the roll's effect has begun to resolve, it is too late to spend PP.
+- A roll forced to success by Push Through (§7.5) is not eligible for a Critical Buy. The two spends cannot chain on the same roll: you cannot buy your way from a failure to a success to a critical.
+- A roll that has been re-rolled (§7.1) is not eligible for a Critical Buy.
 
-Sorcerer PCs: every PP spent on a critical buy is a PP unavailable for casting. See P6 §1.
+Sorcerer PCs: every PP spent on a Critical Buy is a PP unavailable for casting. See P6 §1.
 
 ---
 
@@ -220,8 +218,8 @@ A Fate Point spend that would push a character to exactly 0 PP can still be decl
 Power Points are spent by:
 
 - **Sorcery (P6 §2).** Casting spells costs PP equal to the spell's power cost, paid at the moment of casting.
-- **Critical conversion (P4 §3).** Converting an ordinary success to a Critical costs PP equal to the gap between the roll and the nearest lower matching value.
-- **Fate Point spends (P4 §7).** The Fate Point menu lists specific PP costs for each option.
+- **Buying a Critical (P4 §3).** A Fate Point spend with variable cost: converting an ordinary success to a Critical costs PP equal to the gap between the roll and the nearest lower matching value.
+- **Other Fate Point spends (P4 §7).** Fixed-cost spends from the menu - re-rolls, defensive responses, forcing a success.
 - **Talents (P2 §4).** Certain talent abilities have a PP cost listed in their description.
 
 Named antagonists and competent NPC foes have their own PP pools, spent under the same rules. Mooks have no PP and no access to any PP-spend ability. See G2 §1 for the NPC tier model.
@@ -230,7 +228,14 @@ Named antagonists and competent NPC foes have their own PP pools, spent under th
 
 ## 7. Fate Point Spends
 
+Fate Point spends are PP expenditures that bend the dice or the fiction in the character's favour. The list below covers every fixed-cost spend. One additional Fate Point spend - **Buying a Critical** - has variable cost and lives in §3 because its cost is calculated from the dice; it is still a Fate Point spend and draws from the same pool.
+
 The following options are always available to any character with sufficient PP. Mooks cannot make any Fate Point spend. Named foes can.
+
+**Combining spends.** Each Fate Point spend resolves independently. Multiple spends on a single action are legal where they do not contradict each other - for example, Steady Blade before the roll, then Shrug Off a Blow after damage lands. Two specific restrictions:
+
+- **No spend may be applied to a die that has been re-rolled.** Re-rolling resolves the result; PP cannot then alter it.
+- **Push Through and Buying a Critical cannot chain on the same roll.** A failure forced to success by Push Through does not become eligible for a Critical Buy. The two spends address different problems; chaining them would let any failure become a critical, which is more than the genre allows.
 
 ---
 
@@ -258,13 +263,21 @@ Declare immediately after a fumble result, before the GM narrates the consequenc
 
 ---
 
-### 7.5 Stand Your Ground (Cost: 2 PP, then 2 PP more each consecutive round)
+### 7.5 Push Through (Cost: 6 PP)
+
+Declare after the roll, before the result is applied. Convert a Failure on your own roll into an ordinary Success. The character pulls success out of an attempt that was going to fall short - the grip held, the spell-words came through, the leap cleared the gap by inches. The forced success does not earn an experience checkmark.
+
+Push Through cannot be applied to a roll that has been re-rolled. It cannot be combined with Buying a Critical on the same roll: a failure converted to success is not then eligible for a critical conversion. Only your own rolls qualify; you cannot Push Through another character's roll.
+
+---
+
+### 7.6 Stand Your Ground (Cost: 2 PP, then 2 PP more each consecutive round)
 
 When a wound, a failed Stamina roll, or a shock effect would force unconsciousness or incapacitation, the character may fight through it for one more round. The cost begins at 2 PP and doubles each consecutive round the character holds on (2 PP, 4 PP, 8 PP, ...). The character takes all wound effects normally but does not go down. If they cannot or choose not to pay the escalating cost, they fall at the start of their next action.
 
 ---
 
-### 7.6 Deflect the Killing Blow (Cost: all remaining PP, minimum 8)
+### 7.7 Deflect the Killing Blow (Cost: all remaining PP, minimum 8)
 
 When a character would be killed outright - reduced to 0 HP by a single blow, or struck in a vital location in circumstances that would end their story - they may spend their entire remaining PP pool to survive. Minimum cost is 8 PP; if fewer remain, this spend is not available.
 
@@ -274,13 +287,13 @@ This spend cannot be made by a character already at 0 PP.
 
 ---
 
-### 7.7 Steady Blade (Cost: 3 PP)
+### 7.8 Steady Blade (Cost: 3 PP)
 
 The character's hand does not waver. On a single attack or skill roll this round, the character may ignore all situational penalties (darkness, difficult terrain, adversarial conditions) affecting that roll. Difficulty modifiers still apply; only situational penalties are negated. Declare before rolling.
 
 ---
 
-### 7.8 Rally From the Wound (Cost: 8 PP)
+### 7.9 Rally From the Wound (Cost: 8 PP)
 
 The character summons something from deeper than will. Immediately recover 1D6 HP. This recovery is instantaneous and takes no action. It cannot restore HP above the character's maximum, cannot close a Major Wound that has caused permanent damage (see P5 §4), and cannot be declared when the character is already unconscious. A character may rally at most once per scene.
 

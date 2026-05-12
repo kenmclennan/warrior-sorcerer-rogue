@@ -114,7 +114,7 @@ Do not overload dread. One or two specific wrong details per scene is enough. Th
 
 ### 3.3 Reward Cleverness
 
-The PP-buy system, the Fate Point menu, the skills, and the Passions all exist to let PCs do things. They should be used. A session where no one invoked a Passion, no one spent PP on a critical buy, and no one attempted an unexpected application of an obscure skill is a session where the system was not doing its job - and that is usually a GM problem, not a player problem.
+The Fate Point menu, the skills, and the Passions all exist to let PCs do things. They should be used. A session where no one invoked a Passion, no one spent PP on a Critical Buy or another Fate Point spend, and no one attempted an unexpected application of an obscure skill is a session where the system was not doing its job - and that is usually a GM problem, not a player problem.
 
 Reward cleverness specifically and concretely:
 
@@ -263,7 +263,7 @@ The matching-dice system and the PP pool are the engine of this dual service.
 
 For players who want **fast, cinematic resolution**: the outcome tiers are simple to read (did I succeed? did both dice match? am I above or below my skill?), the Fate Point menu requires no lookup table, and mooks fall quickly. A fight can be narrated and resolved in twenty minutes of real time when both sides are playing efficiently.
 
-For players who want **tactical depth**: the critical-buy mechanic (P4 §3) creates a continuous decision under pressure - do I spend PP now to push this success to a critical, knowing I may need those PP later? The Fate Point menu has eight distinct options with different costs and different situations where each is optimal. Parry or dodge? Which attack to defend? When to disengage? These are tactical questions with meaningful answers, built into the basic combat structure without adding overhead.
+For players who want **tactical depth**: the Critical Buy mechanic (P4 §3) creates a continuous decision under pressure - do I spend PP now to push this success to a critical, knowing I may need those PP later? The Fate Point menu has nine distinct options with different costs and different situations where each is optimal. Parry or dodge? Which attack to defend? When to disengage? These are tactical questions with meaningful answers, built into the basic combat structure without adding overhead.
 
 Tactical depth lives in player-facing choices, not in resolution complexity. The system asks the players to make choices about resources, timing, and risk. Your job is to present situations where those choices are real.
 
@@ -273,7 +273,7 @@ Some signals and what to do with them.
 
 **Players are taking a long time to decide what to do.** Either the situation is genuinely complex and they are thinking it through (let them), or they are overwhelmed with options and freezing (call the round - "you hesitate; what do you do?" with a time signal encourages commitment). The second case is usually a symptom of too many uncommitted resources: if a player is not spending PP, not invoking Passions, and not declaring actions, they may not know what the system offers them. This is a teaching moment, not a pacing problem.
 
-**Players are not using the PP-buy mechanic.** Prompt it early. When a player rolls a 41 with a skill of 50, say "you succeeded - and you came close to a double. The nearest double below you was 33; that's a cost of 8 PP. Do you want to push it?" You do not need to do this every time, but early use of the PP-buy mechanic establishes it as a live option in the players' minds. After two sessions, they will be tracking it themselves.
+**Players are not using the Critical Buy mechanic.** Prompt it early. When a player rolls a 41 with a skill of 50, say "you succeeded - and you came close to a double. The nearest double below you was 33; that's a cost of 8 PP. Do you want to push it?" You do not need to do this every time, but early use of the Critical Buy mechanic establishes it as a live option in the players' minds. After two sessions, they will be tracking it themselves.
 
 **Players want more narrative and less roll.** Let the dice stay quiet when they should. The two conditions for rolling (P4 §1.1) are that the task is neither automatic nor impossible, and that something is at stake. If a high-Climb player wants to scale a wall in a non-combat situation with no particular urgency, do not call for a roll. They climbed the wall. Save the dice for when failure would actually change what happens next.
 
@@ -283,7 +283,7 @@ Some signals and what to do with them.
 
 ### 7.3 A Note on the Sorcerer at the Table
 
-Every PP a sorcerer spends on a critical buy or a Fate Point spend is a PP not available for casting. This is intentional: it creates a running decision that distinguishes sorcerer players from warrior and rogue players.
+Every PP a sorcerer spends on a Fate Point spend - whether a Critical Buy, a defensive option, or anything else from the menu - is a PP not available for casting. This is intentional: it creates a running decision that distinguishes sorcerer players from warrior and rogue players.
 
 Remind sorcerer players of this framing occasionally. A sorcerer who burns their entire PP pool in the first fight and has nothing left for the negotiation scene, the encounter with the patron, or the sorcerous working they were planning - that is the genre's implicit lesson about the cost of power, expressed mechanically. It is the game being faithful to Moorcock's central premise: power always costs more than you expect.
 

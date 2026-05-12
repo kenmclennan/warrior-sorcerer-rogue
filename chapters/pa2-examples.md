@@ -293,7 +293,7 @@ She moves from the entry of the alley to Davan's flank (Short Move - no DEX pena
 
 > Is 47 a matching-dice value? No (matching values are 11, 22, 33, 44, 55, 66, 77, 88). It is a normal success.
 >
-> Khess's player considers a PP-buy. The nearest matching value below 47 within her skill (62%) is 44. Cost: 47 - 44 = **3 PP.** She has 9 PP remaining (13 - 4 for The Quiet Knife = 9). She pays 3 PP. Her roll is now treated as **44** - a Critical Success. Severity band: 44 = Band D (see PA1 §1.2 and P5 §10.2).
+> Khess's player considers a Critical Buy. The nearest matching value below 47 within her skill (62%) is 44. Cost: 47 - 44 = **3 PP.** She has 9 PP remaining (13 - 4 for The Quiet Knife = 9). She pays 3 PP. Her roll is now treated as **44** - a Critical Success. Severity band: 44 = Band D (see PA1 §1.2 and P5 §10.2).
 
 Khess's player announces: _"She bought that critical. Dagger, Pierce type."_ No defence is available because of The Quiet Knife talent.
 
@@ -342,11 +342,11 @@ Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Mook B'
 
 ### 2.4 Combat Bookkeeping: Where the PP Went
 
-| Character | Starting PP | Spent                              | Remaining |
-| --------- | ----------- | ---------------------------------- | --------- |
-| Khess     | 13          | 4 (Quiet Knife) + 3 (PP-buy to 44) | **6 PP**  |
-| Orryn     | 11          | 0                                  | **11 PP** |
-| Karash    | 16          | 1 (Cloak of Night, Intensity 1)    | **15 PP** |
+| Character | Starting PP | Spent                                    | Remaining |
+| --------- | ----------- | ---------------------------------------- | --------- |
+| Khess     | 13          | 4 (Quiet Knife) + 3 (Critical Buy to 44) | **6 PP**  |
+| Orryn     | 11          | 0                                        | **11 PP** |
+| Karash    | 16          | 1 (Cloak of Night, Intensity 1)          | **15 PP** |
 
 Khess spent 7 PP to take Davan from full health to dying in a single action. She is below half her pool. Fate Point spends are now expensive for her.
 
@@ -356,8 +356,8 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 
 - **Strike Ranks / Initiative** (P5 §1): DEX order determined who declared last and acted first. Khess's DEX 18 was a meaningful advantage.
 - **Mook incapacitation** (P5 §8): Both mooks went down in a single hit each, without consulting the Major Wounds Table. The fight resolved quickly.
-- **The Quiet Knife talent** (P2 §7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the PP-buy.
-- **PP-buy critical** (P4 §3): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band D critical. This is the primary driver of the fight's decisive moment.
+- **The Quiet Knife talent** (P2 §7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
+- **Critical Buy** (P4 §3): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band D critical. This is the primary driver of the fight's decisive moment.
 - **PA1 lookup** (PA1 §3): Band D Pierce, 1d10 = 5. Result: punctured lung, stun, bleed. Read aloud, resolved immediately.
 - **Fate Point: not spent** - Davan was reduced to 0 HP before he could spend PP on Deflect the Killing Blow (which requires minimum 8 PP; he had 9). His player chose not to spend, because it would leave him alive with 1 HP and surrounded by enemies.
 - **Dying Blow** (P5 §9): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.

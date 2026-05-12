@@ -321,7 +321,7 @@ The GM works through five questions before the player rolls.
 
 **1. What is the PP cost?**
 
-Bind the Raging Heart at Intensity 3: base cost 3 PP (one PP per intensity). Karash's current PP is 12 (he spent 4 earlier in the session on Bird's Eye and a PP-buy critical). He can afford 3 PP; he will drop to 9.
+Bind the Raging Heart at Intensity 3: base cost 3 PP (one PP per intensity). Karash's current PP is 12 (he spent 4 earlier in the session on Bird's Eye and a Critical Buy). He can afford 3 PP; he will drop to 9.
 
 **2. Is there an iron penalty?**
 

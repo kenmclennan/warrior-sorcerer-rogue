@@ -338,7 +338,7 @@ A character at 0 HP or below may attempt one last act before falling.
 
 **Actions already spent.** If the character has exhausted their action for the round when the killing wound arrives, the Dying Blow is still available, but the Stamina roll is Difficult (halved).
 
-A Dying Blow cannot be a defensive action. It can trigger a Fate Point spend, including Deflect the Killing Blow (see P4 §7.6).
+A Dying Blow cannot be a defensive action. It can trigger a Fate Point spend, including Deflect the Killing Blow (see P4 §7.7).
 
 ---
 
@@ -369,7 +369,7 @@ The severity band (A through E) is determined by the matching-dice value that tr
 | 55                  | E (most severe, within normal success range)                                  |
 | 66, 77, 88          | E (accessible only to characters with skill 66, 77, 88 or above respectively) |
 
-A PP-buy critical uses the purchased value. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is D. See PA1 §1 for the full lethality gradient.
+A Critical Buy uses the purchased value. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is D. See PA1 §1 for the full lethality gradient.
 
 ### 10.3 Find the Roll
 
