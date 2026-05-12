@@ -410,7 +410,7 @@ Items marked - for ENC weigh too little to track individually. Ten such items to
 | Lamp, Clay        | 1            | -   | 6 hours per oil flask | Cheap; fragile; burns olive oil          |
 | Lamp, Bronze      | 4            | -   | 6 hours per oil flask | More durable; steady flame               |
 | Lantern, Hooded   | 10           | 1   | 6 hours per oil flask | Directable beam; windproof               |
-| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see G6 §3)    |
+| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see G6 §4)    |
 | Torch             | -            | 1   | 1 hour                | Obvious; hard to hide; good bright light |
 
 A dash (-) in the Cost column means the item is too inexpensive to track by the Dram - a handful of coin covers it. Ten such items count as 1 Dram for purchasing purposes.

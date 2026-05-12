@@ -98,7 +98,7 @@ The damage modifier applies to all melee and thrown weapon attacks. For thrown a
 
 ### 3.4 Movement Rate
 
-**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See G6 §7 for chase rules.
+**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See G6 §8 for chase rules.
 
 ### 3.5 Experience Bonus
 

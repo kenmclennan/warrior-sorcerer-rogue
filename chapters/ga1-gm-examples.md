@@ -235,13 +235,13 @@ Fate Point access: Yes (full named-antagonist PP pool, spends normally).
 
 ## 3. Running a Chase Scene at the Table
 
-_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: G6 §7._
+_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: G6 §8._
 
 ---
 
 ### 3.1 Set-Up
 
-**Establish the six elements (G6 §7.1):**
+**Establish the six elements (G6 §8.1):**
 
 1. **Starting positions:** Khess was discovered in the archive's lower approach. She had thirty seconds' head start before the alarm went up. Starting position: **Engaged** (she is visible, they are closing).
 
@@ -275,7 +275,7 @@ _Result: Pursuer failed, quarry succeeded. Position shifts one step further away
 
 Khess reaches the chandler's shop. The low roof connection is her planned escape route.
 
-**The GM calls an obstacle roll:** Climb (G6 §7.2). Khess has Climb 61%. She rolls **45** - success.
+**The GM calls an obstacle roll:** Climb (G6 §8.2). Khess has Climb 61%. She rolls **45** - success.
 
 **Lead enforcer Climb roll** (his Climb is 40%): rolls **67** - failure. He fails the obstacle - loses one additional position from the standard result.
 

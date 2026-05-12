@@ -78,18 +78,64 @@ The following are representative ancient-world poisons for GM use. POT values as
 
 ---
 
-## 3. Fire and Heat
+## 3. Herbs, Drugs, and Substances
+
+Sword & sorcery is thick with alchemy: lotus-vials in a sorcerer's sleeve; the bitter resin that lets a mercenary captain march another day on no sleep; dream-reeds the tomb-finder consults before breaking a seal. Where the BRP UGE source leaves these implicit, WSR makes them part of the toolkit.
+
+Craft (Apothecary) (P3) prepares and recognises these substances. Medicine (P3) administers them. Most use the Resistance Table - POT vs CON - the same as the poison system in §2. Effects are time-limited unless noted; some substances are addictive (see §3.3).
+
+### 3.1 Healing Herbs
+
+These supplement First Aid and Medicine. A successful Medicine roll is required to apply most healing herbs - the herb is the medicament; the doctor is the technique. Application within one turn of injury achieves the full benefit; later application is less effective.
+
+| Substance               | Effect                                                                                                                                                                                           | Source                            | Cost                      |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- | ------------------------- |
+| Balm of the Pale Healer | After a successful Medicine roll on an injury, the patient heals an additional 1D4 HP (the salve binds wounds and stays infection).                                                              | Common; temple apothecaries       | Inexpensive               |
+| Salve of Iset's Tears   | Heals 2D4 HP applied within 1 turn of injury. After application, the patient makes POT 6 vs CON; failure means the body rejects further healing for 24 hours (no Medicine or First Aid HP gain). | Uncommon; resin from desert trees | Average                   |
+| Vault-Lichen            | Halves Major Wound recovery time when chewed daily during convalescence. Cures ordinary fever and infection at the GM's discretion.                                                              | Uncommon; cold caves              | Average                   |
+| Saramodian Resin        | Cleanses one disease, paralysis poison, or active curse. Costs the recipient 1 CON permanently - the purge is aggressive. Single use per character.                                              | Legendary; cult formulation       | Expensive (or unfindable) |
+
+### 3.2 Drugs and Strange Substances
+
+These produce intentional effects: alertness, fearlessness, dreams, hallucinations. Most are addictive (see §3.3).
+
+| Substance             | Effect                                                                                                                                                                                                                                                    | Source                      | Cost      |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------- |
+| White Ash of Khundar  | Suppresses fatigue and the need for sleep for 12 hours. After the effect ends, the user makes POT 6 vs CON; failure means 1D3 CON loss, recovering 1/day with rest. Addictive.                                                                            | Mountain plant; uncommon    | Average   |
+| Tears of the Wolf-God | Battle rage. After ingestion, +20% to all melee skill rolls and immunity to fear for 1D6 rounds. The user cannot parry, dodge, or cast during the rage. When it ends, the user is exhausted (Stamina rolls every round or fall unconscious).              | Barbaric ritual drink; rare | Average   |
+| Lotus Dust            | Inhaled or eaten. Target makes POT 12 vs CON; failure means deep sleep for 1D6 hours - matching the Slumber of the Lotus spell (P6). The sleeper does not wake to ordinary noise. Strongly addictive after three uses.                                    | Lotus harvest; uncommon     | Average   |
+| Dream-Reed Vapour     | Burned, inhaled. The user receives a vision pertaining to one question held in mind. The GM narrates a fragment of truth - never a complete answer. POT 10 vs CON: failure means 1 Corruption (sorcerers) or -1 INT for 1D6 hours (non-sorcerers).        | Black-river reeds; rare     | Expensive |
+| Iron-blood Tincture   | Drunk by witch-hunters and paranoid kings. For 1 hour after ingestion, all iron and steel the user carries counts as if doubled in ENC for the iron-vs-sorcery rule (P7 §12.1). Effectively a -10% per ENC iron penalty to any sorcerer the user opposes. | Bitter draught; uncommon    | Average   |
+| Moth-Wing Dust        | Applied to a blade. On a successful hit that breaks skin, target makes POT 8 vs CON; failure means vivid hallucinations for 1D6 rounds during which the target cannot distinguish allies from enemies and attacks the nearest figure.                     | Pale moths; rare            | Expensive |
+
+### 3.3 Addiction
+
+Substances marked addictive create tolerance and dependency with repeated use. After the third use of an addictive substance within a single adventure (or GM-defined equivalent), the user makes POT 8 vs CON; failure means the user is **addicted**.
+
+An addicted character suffers **withdrawal** when more than 24 hours pass without the substance: -10% on all skill rolls until the next dose. After three days without it, the user makes a Difficult CON roll; failure means 1D3 STR or DEX is lost (recovers when the addiction is broken).
+
+Breaking an addiction requires a successful Medicine roll and one full week of rest, free of the substance. A failed Medicine roll means the character relapses on next exposure.
+
+### 3.4 Preparation and Trade
+
+Craft (Apothecary) prepares these substances. Preparation time runs from one day for common salves to one month or more for rare formulations. Most herbs and drugs trade in markets, temple apothecaries, and the back-rooms of certain merchants; some require specific cultures, seasonal harvests, or relationships with particular cults.
+
+The GM may add further substances using the entries above as calibration. The Apothecary's craft is older than any nation's law, and a clever player will find that brewing their own can be more interesting than buying.
+
+---
+
+## 4. Fire and Heat
 
 Fire causes HP damage each round of exposure. Armour provides protection for the first 1D3 rounds before heat penetrates; non-metal armour then loses 1 AV per round of sustained fire. Metal armour does not degrade but becomes dangerously hot (see below).
 
-### 3.1 Fire Intensity
+### 4.1 Fire Intensity
 
 | Source                                               | Damage per round | Notes                                                                                   |
 | ---------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------------- |
 | Tiny flame (candle, small torch spark)               | 1 HP             | Rarely dangerous unless sustained against skin                                          |
 | Torch held against target                            | 1D6 HP           | Luck roll each round or character's clothing catches fire                               |
 | Large open fire (bonfire, brazier)                   | 1D6+2 HP         | POW x1 Luck roll each round to avoid catching fire                                      |
-| Building fire (room fully alight)                    | 2D6 HP           | Plus smoke inhalation (see §3.2). Character automatically catches fire unless armoured. |
+| Building fire (room fully alight)                    | 2D6 HP           | Plus smoke inhalation (see §4.2). Character automatically catches fire unless armoured. |
 | Intense fire (forge, molten metal, alchemical flame) | 3D6 HP           | Character automatically catches fire; armour provides no protection from the heat.      |
 
 **Catching fire.** Ongoing 1D4 HP per round at the start of each Phase Four. Putting out the fire: full round of action (rolling on ground, dousing, stripping burning clothing). All rolls Difficult while on fire.
@@ -98,7 +144,7 @@ Fire causes HP damage each round of exposure. Armour provides protection for the
 
 **Metal armour and heat.** Does not burn but retains heat. After 2+ rounds in sustained fire: armour is unwearable for 1D6 turns while cooling; all armour skill penalties become Extreme during that period.
 
-### 3.2 Smoke Inhalation
+### 4.2 Smoke Inhalation
 
 Dense smoke in an enclosed space (burning building, smoke-filled tunnel, burning ship) imposes the following in addition to fire damage:
 
@@ -111,7 +157,7 @@ A character who falls unconscious from smoke inhalation continues to take smoke 
 
 ---
 
-## 4. Cold and Exposure
+## 5. Cold and Exposure
 
 Cold is an attrition threat. Each day without adequate protection chips away at the character's capacity to function.
 
@@ -119,13 +165,13 @@ Cold is an attrition threat. Each day without adequate protection chips away at 
 
 **Accelerated exposure.** Sudden catastrophic cold (plunging into icy water, being caught in a blizzard unclothed, a winter storm in the open steppe) demands an immediate Stamina roll. Failure: 1D3 CON loss immediately. Fumble: 1D6 CON and the character is incapacitated (hypothermia or frostbite).
 
-### 4.1 Hypothermia
+### 5.1 Hypothermia
 
 A character who has failed two or more consecutive daily Stamina rolls is hypothermic. Their DEX and INT each drop by 1D3 (temporarily, recovering with warmth and rest). All actions are Difficult. The hypothermic character may not run - only slow, shambling movement. A fumble on any physical roll results in collapse.
 
 Warmth and rest halt further CON loss and restore temporary DEX/INT penalty at 1 point per hour.
 
-### 4.2 Frostbite
+### 5.2 Frostbite
 
 When the character's CON is reduced to half or less by cold exposure, roll on the following table (1D6):
 
@@ -141,11 +187,11 @@ Frostbite treatment requires warmth, clean bindings, and a successful Medicine r
 
 ---
 
-## 5. Hunger, Thirst, and Fatigue
+## 6. Hunger, Thirst, and Fatigue
 
 The ancient world does not provision adventurers. A character without supplies degrades over days.
 
-### 5.1 Hunger
+### 6.1 Hunger
 
 A character without adequate food begins to feel the effects after CON/2 days (round down, minimum 2 days). After that threshold:
 
@@ -155,7 +201,7 @@ A character without adequate food begins to feel the effects after CON/2 days (r
 
 A single adequate meal (a day's rations or equivalent foraging) resets the clock.
 
-### 5.2 Thirst
+### 6.2 Thirst
 
 Thirst is faster and more lethal than hunger.
 
@@ -165,7 +211,7 @@ Thirst is faster and more lethal than hunger.
 
 Desert conditions (heat, exertion) halve all thresholds. Water found in the field may be foul: CON roll or mild disease (Chills, POT 6, see §1).
 
-### 5.3 Fatigue
+### 6.3 Fatigue
 
 Extended exertion without rest degrades performance. Use this rule when characters push beyond normal limits: multiple combats in a single day, forced marches, swimming against current, extended climbing.
 
@@ -185,9 +231,9 @@ Extended exertion without rest degrades performance. Use this rule when characte
 
 ---
 
-## 6. Falling and Drowning
+## 7. Falling and Drowning
 
-### 6.1 Falling
+### 7.1 Falling
 
 The GM assigns a narrative fall category based on the fiction.
 
@@ -206,7 +252,7 @@ The GM assigns a narrative fall category based on the fiction.
 
 **Obstacles.** Landing on stakes, sharp rubble, or similar hazards adds a separate 1D10+1 damage roll in addition to the fall damage.
 
-### 6.2 Drowning and Asphyxiation
+### 7.2 Drowning and Asphyxiation
 
 Submerged, strangled, or otherwise deprived of air: Stamina rolls at decreasing ease each round.
 
@@ -222,7 +268,7 @@ Submerged, strangled, or otherwise deprived of air: Stamina rolls at decreasing 
 
 **Failure at any point:** unconscious and drowning. 1D8 HP per round from water inhalation. Death when HP reaches negative CON without rescue.
 
-**Smoke:** 1D4 HP per round and the escalating Stamina roll above. Dense smoke: 1D6 HP per round (see §3.2).
+**Smoke:** 1D4 HP per round and the escalating Stamina roll above. Dense smoke: 1D6 HP per round (see §4.2).
 
 **Deliberate strangulation.** A character being strangled makes the escalating CON roll each round. Additionally, the strangler may make a resistance roll (their STR vs. target's CON each round): on a success, the target takes 1D6 HP damage directly. The strangulation can be broken by a successful STR vs. STR resistance roll on the victim's part.
 
@@ -232,11 +278,11 @@ Submerged, strangled, or otherwise deprived of air: Stamina rolls at decreasing 
 
 ---
 
-## 7. Chases
+## 8. Chases
 
 The GM uses the following framework to run a chase.
 
-### 7.1 Before the Chase Begins
+### 8.1 Before the Chase Begins
 
 Establish six elements before running the chase:
 
@@ -247,7 +293,7 @@ Establish six elements before running the chase:
 5. **Duration.** Chase rounds represent approximately 10-12 seconds - the same as a combat round. The GM may declare a maximum number of rounds before terrain changes or a conclusion is forced.
 6. **Conclusion.** What ends the chase? The quarry reaches a safe door; the pursuer's horse stumbles; the city watch blocks the alley; the river is crossed. Establish at least one possible conclusion for each side.
 
-### 7.2 The Range Track
+### 8.2 The Range Track
 
 Five narrative positions describe the distance between pursuer and quarry. Track this verbally; no physical prop is required.
 
@@ -277,13 +323,13 @@ Each round, each side makes the relevant skill roll. Compare results:
 
 **Conclusion.** Quarry at Out of Sight for two consecutive rounds: escaped. Pursuer at Side by Side: caught. Environmental conclusions (quarry reaches a known door; horse falls) called by the GM at any point.
 
-### 7.3 Tracking the Chase
+### 8.3 Tracking the Chase
 
 Five verbal positions; no miniatures, no tape measures. For GM tracking: write SS | CL | EN | DI | OS and mark the current gap with a slash. Shift each round.
 
 ---
 
-## 8. Mass Combat
+## 9. Mass Combat
 
 When PCs are caught up in a larger battle, the GM does not run every combatant through standard combat resolution. The engagement's outcome has already been determined by narrative or prep; the PCs are fighting within it, not commanding it.
 

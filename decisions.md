@@ -12,6 +12,49 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - G6 §3: new Herbs, Drugs, and Substances section
+
+**Context:** User: "look at Rolemaster - Character Law & Campaign Law... lists of herbs and poisons. Given our limited healing magic this sort of addition might be valuable... We don't need a huge list but we can definitely take inspiration from rolemaster. I created a random Sword & Sorcery Drugs, Poisons & Strange Substances pdf for my D&D game - it's quite powerful but captures the Sword & Sorcery spirit in terms of names. Take both for inspiration but create something new. For poisons make sure that they tie in with our rules and the rules from BRP."
+
+**Sources reviewed:**
+
+- Rolemaster CL&CL (Section 7.1.5, Poison Chart): six poison categories (Circulatory, Conversion, Muscle, Nerve, Reduction, Respiratory) with Mild/Moderate/Severe/Extreme severity levels. WSR's existing G6 §2 poison system (POT vs CON with Resistance Table) is structurally simpler and already in place; Rolemaster's category model was inspiration for richness, not adoption.
+- _Sword & Sorcery Drugs, Poisons & Strange Substances_ (1-page table-generator by an unnamed author from the user's D&D campaign): naming conventions of [DESCRIPTOR] [COLOUR] [FORM] [PLANT/CREATURE] [LOCATION] [NAME] producing names like "The Forbidden Golden Sap of the Sacred Lotus." Used as inspiration for evocative WSR-original substance names.
+
+**Decision:** Add G6 §3 "Herbs, Drugs, and Substances" as a new top-level section between §2 Poison and §3 Fire (now §4 Fire and Heat after renumber). Four subsections:
+
+- **§3.1 Healing Herbs** - 4 entries (Balm of the Pale Healer, Salve of Iset's Tears, Vault-Lichen, Saramodian Resin). These supplement First Aid and Medicine. Mechanics tie to existing Medicine skill and POT vs CON resistance for side effects.
+- **§3.2 Drugs and Strange Substances** - 6 entries (White Ash of Khundar, Tears of the Wolf-God, Lotus Dust, Dream-Reed Vapour, Iron-blood Tincture, Moth-Wing Dust). Stimulants, sedatives, visionary substances, anti-sorcery, blade-coatings.
+- **§3.3 Addiction** - new rule: POT 8 vs CON after the third use of an addictive substance within an adventure. Withdrawal (-10% skill rolls, escalating to 1D3 STR/DEX loss after three days). Breaking addiction requires successful Medicine roll plus one week of rest.
+- **§3.4 Preparation and Trade** - notes on Craft (Apothecary) preparation times and the trade context.
+
+**Genre flavour:** Names use S&S-style construction: "Balm of the Pale Healer," "Salve of Iset's Tears," "Vault-Lichen," "White Ash of Khundar," "Tears of the Wolf-God," "Lotus Dust" (cross-referencing the Slumber of the Lotus spell), "Dream-Reed Vapour," "Iron-blood Tincture," "Moth-Wing Dust," "Saramodian Resin." Avoids direct quotation of the source PDF while adopting its evocative naming style.
+
+**Mechanical integration with WSR / BRP:**
+
+- POT vs CON on the Resistance Table - matches the existing poison framework in G6 §2.
+- HP healing tied to a successful Medicine roll (P3) - herbs supplement the skill, do not replace it.
+- Craft (Apothecary) speciality (P3) preparation.
+- Corruption interaction (Dream-Reed Vapour costs sorcerers Corruption).
+- Iron-vs-sorcery rule (P7 §12.1) extended by Iron-blood Tincture.
+- Lotus Dust explicitly references the Slumber of the Lotus spell (P6) as the same effect family.
+
+**Renumbering:** New §3 inserted before old §3. Existing §3-§8 renumber to §4-§9. Twelve subsection numbers shift. Cross-refs fixed:
+
+- g06 internal: "§3.2" -> "§4.2" (2 occurrences in smoke inhalation prose).
+- p02 §3.4 Movement Rate: "G6 §7" -> "G6 §8" (chase rules).
+- p07 §6 Mundane Gear (lamp oil note): "G6 §3" -> "G6 §4" (incendiary).
+- ga1 worked chase: "G6 §7", "§7.1", "§7.2" -> "G6 §8", "§8.1", "§8.2" (3 occurrences).
+
+**Reasoning:**
+
+- **Genre fit.** Howard's Black Lotus, Leiber's poisons-and-philtres, Moorcock's elixirs-and-curses - the genre is awash in substances. WSR's "limited healing magic" (Mend the Mortal Frame is costly; Vampire's Kiss is sinister) leaves room for herbal supplements without trivialising the heal-by-rest pacing.
+- **Not a huge list.** Per user direction: 10 substances total (4 healing + 6 drugs), enough for variety, small enough to remain memorable. Plus the addiction rule.
+- **Mechanically integrated.** Every substance hooks to existing rules: Medicine, Apothecary, POT vs CON, Corruption, iron-vs-sorcery. No new resolution chassis required.
+- **Player agency.** Apothecary PCs (Hunter-Tracker, Scholar of the Dark Arts, Wayfarer can take it in OR slots) become genuinely useful in the genre's wet-and-poisoned register.
+
+---
+
 ## 2026-05-12 - P7 §3.3: drop Ring armour entry (historically suspect category)
 
 **Context:** Conversation about the "chainmail" terminology debate. The historical reality: "chainmail" is a 19th-century retroactive coinage (often blamed on Walter Scott's _Ivanhoe_); medieval people simply said "mail." The deeper issue is the D&D-era taxonomy that invented categories like "ring mail," "studded leather," "splint mail," and "banded mail" - most of which are not historically real armour types. WSR already uses "Mail" correctly (no "chainmail"), but had a **Ring** entry (AP 4, "Bronze rings sewn to leather backing") which falls into the same suspect-category bucket.
