@@ -26,13 +26,14 @@ Five severity bands, A through E. The severity band is determined by which match
 
 | Matching-Dice Value | Band |
 | ------------------- | ---- |
+| 01 (always-crit)    | A    |
 | 11                  | A    |
 | 22                  | B    |
 | 33                  | C    |
 | 44 or 55            | D    |
-| 66, 77, or 88       | E    |
+| 66, 77, 88, or 99   | E    |
 
-A character with skill 20-29 can only reach Band A or Band B. A fighter with skill 80+ has access to all five bands.
+A character with skill 20-29 can only reach Band A or Band B via matching dice (plus the 01 always-crit, which is also Band A). A fighter with skill 80+ has access to all five bands. Skill 99+ is the only rating at which a rolled 99 becomes a Band E critical rather than a fumble.
 
 ### 1.3 Selecting the Result Within a Band
 

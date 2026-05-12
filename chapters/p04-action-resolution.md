@@ -50,11 +50,11 @@ When no applicable skill exists, multiply the relevant characteristic by five an
 
 ## 2. Outcome Tiers
 
-Every roll produces one of four outcomes, determined by whether the roll succeeded and whether both dice show the same digit - a **matching-dice result**. Matching-dice values: **11, 22, 33, 44, 55, 66, 77, 88**. The roll 00 (100) is always a fumble, never a critical.
+Every roll produces one of four outcomes, determined by whether the roll succeeded and whether both dice show the same digit - a **matching-dice result**. Matching-dice values: **11, 22, 33, 44, 55, 66, 77, 88, 99**. Two rolls are special regardless of skill: a roll of **01 is always a Critical Success**, and a roll of **00 is always a Fumble**.
 
 ### 2.1 The Four Outcomes
 
-**Critical Success.** The roll is both a success (equal to or less than the skill) and a matching-dice result. Something exceptional happens beyond ordinary success. In combat, look up the critical result on the relevant damage-type table (see PA1). Outside combat, a critical represents the best possible version of what the character was attempting.
+**Critical Success.** A roll of **01 is always a Critical Success**, regardless of skill - the traditional lucky shot. Otherwise, a Critical occurs when the roll is both a success (equal to or less than the skill) AND a matching-dice result. Something exceptional happens beyond ordinary success. In combat, look up the critical result on the relevant damage-type table (see PA1). Outside combat, a critical represents the best possible version of what the character was attempting.
 
 **Success.** The roll is equal to or less than the skill, but is not a matching-dice result. The character achieves what they set out to do.
 
@@ -64,18 +64,19 @@ Every roll produces one of four outcomes, determined by whether the roll succeed
 
 ### 2.2 Matching Dice and Skill Level
 
-| Skill Rating | Matching Values in Success Range (Criticals) | Matching Values in Failure Range (Fumbles) |
-| ------------ | -------------------------------------------- | ------------------------------------------ |
-| 20           | 11 (1 value)                                 | 22, 33, 44, 55, 66, 77, 88, 00 (8 values)  |
-| 30           | 11, 22 (2 values)                            | 33, 44, 55, 66, 77, 88, 00 (7 values)      |
-| 40           | 11, 22, 33 (3 values)                        | 44, 55, 66, 77, 88, 00 (6 values)          |
-| 50           | 11, 22, 33, 44 (4 values)                    | 55, 66, 77, 88, 00 (5 values)              |
-| 60           | 11, 22, 33, 44, 55 (5 values)                | 66, 77, 88, 00 (4 values)                  |
-| 70           | 11, 22, 33, 44, 55, 66 (6 values)            | 77, 88, 00 (3 values)                      |
-| 80           | 11, 22, 33, 44, 55, 66, 77 (7 values)        | 88, 00 (2 values)                          |
-| 90           | 11, 22, 33, 44, 55, 66, 77, 88 (8 values)    | 00 (1 value)                               |
+| Skill Rating | Matching Values in Success Range (Criticals)  | Matching Values in Failure Range (Fumbles)    |
+| ------------ | --------------------------------------------- | --------------------------------------------- |
+| 20           | 11 (1 value)                                  | 22, 33, 44, 55, 66, 77, 88, 99, 00 (9 values) |
+| 30           | 11, 22 (2 values)                             | 33, 44, 55, 66, 77, 88, 99, 00 (8 values)     |
+| 40           | 11, 22, 33 (3 values)                         | 44, 55, 66, 77, 88, 99, 00 (7 values)         |
+| 50           | 11, 22, 33, 44 (4 values)                     | 55, 66, 77, 88, 99, 00 (6 values)             |
+| 60           | 11, 22, 33, 44, 55 (5 values)                 | 66, 77, 88, 99, 00 (5 values)                 |
+| 70           | 11, 22, 33, 44, 55, 66 (6 values)             | 77, 88, 99, 00 (4 values)                     |
+| 80           | 11, 22, 33, 44, 55, 66, 77 (7 values)         | 88, 99, 00 (3 values)                         |
+| 90           | 11, 22, 33, 44, 55, 66, 77, 88 (8 values)     | 99, 00 (2 values)                             |
+| 99+          | 11, 22, 33, 44, 55, 66, 77, 88, 99 (9 values) | 00 (1 value)                                  |
 
-At skill 100+, 99 also becomes a critical.
+In addition: 01 is always a Critical regardless of skill, and 00 is always a Fumble regardless of skill.
 
 > **Example:** A swordsman with a Sword skill of 55 rolls the dice and gets 33. Both dice match, and 33 is within his skill rating. This is a Critical Success. The same swordsman rolls 66 - both dice match but 66 exceeds his skill of 55. This is a Fumble. He rolls 47 - no matching dice, within his skill. This is an ordinary Success.
 

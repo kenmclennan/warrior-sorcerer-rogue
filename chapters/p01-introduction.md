@@ -28,11 +28,11 @@ WSR is a tabletop roleplaying game built on Chaosium's **Basic Roleplaying Unive
 
 **Percentile skill resolution.** Characters are described primarily by skills, expressed as percentile ratings. To do something, roll two ten-sided dice and read them as a number from 01 to 00. Equal to or less than the skill: success. Higher: failure. Simple in concept, rich in play.
 
-**Four outcome tiers.** Every roll produces one of four results - Critical Success, Success, Failure, or Fumble. Criticals happen on matching-dice rolls within the success range (11, 22, 33, 44, 55, 66, 77, 88); the higher your skill, the more of these values fall within your success range, so skilled characters crit more often naturally. Fumbles happen on 00, or on matching-dice rolls outside the success range. The mechanic scales without separate lookup tables. See P4 §2 for the full outcome system.
+**Four outcome tiers.** Every roll produces one of four results - Critical Success, Success, Failure, or Fumble. **01 is always a Critical** and **00 is always a Fumble**, regardless of skill. Otherwise, Criticals happen on matching-dice rolls within the success range (11, 22, 33, 44, 55, 66, 77, 88, 99); the higher your skill, the more of these values fall within your range, so skilled characters crit more often naturally. Fumbles happen on matching-dice rolls outside the success range. The mechanic scales without separate lookup tables. See P4 §2 for the full outcome system.
 
 **Power Points.** Each character's POW characteristic defines their Power Point pool - their vital force, their luck, and for sorcerers, their fuel for magic. PP are spent on Fate Point options (re-rolling, deflecting killing blows, standing your ground under wounds), on converting near-misses into criticals, and on spell casting. It is one pool with many demands. Mooks have no PP access. Sorcerer PCs feel the pool most acutely: every PP spent surviving a fight is a PP not available for the spells that make them sorcerers. See P4 §6 for Power Points; P4 §7 for the Fate Point spend menu.
 
-**Matching-dice criticals with weapon-type tables.** When a critical attack lands in combat, look up the result in the critical hit tables (PA1). The tables are organised by damage type - Slash, Pierce, Krush - and severity band, A through E, where the band is set by the matching-dice value that triggered the critical. A roll of 11 is a Band A result; 44 or 55 is Band D; 66, 77, or 88 is Band E. The entries are vivid and specific. See P5 §10 for how to read the tables; PA1 for the tables themselves.
+**Matching-dice criticals with weapon-type tables.** When a critical attack lands in combat, look up the result in the critical hit tables (PA1). The tables are organised by damage type - Slash, Pierce, Krush - and severity band, A through E, where the band is set by the matching-dice value that triggered the critical. A roll of 11 (or the always-crit 01) is a Band A result; 44 or 55 is Band D; 66, 77, 88, or 99 is Band E. The entries are vivid and specific. See P5 §10 for how to read the tables; PA1 for the tables themselves.
 
 **Costly sorcery.** Magic works through a trio of costs: Power Points (immediate, drawn from the same pool as luck), Patron Score (relational, if the sorcerer has entered a compact with a named power), and Corruption (permanent, a track that only ever goes one way). Sorcery is not a problem-solver; it is a set of transactions with things older than civilization. It always costs something you cannot entirely afford. See P6 for the full sorcery rules.
 
@@ -90,7 +90,7 @@ Worked examples - character creation walkthroughs, multi-round combat sequences,
 
 **Read the outcome (P4 §2).** The four tiers are:
 
-- **Critical Success** - your roll is a success AND both dice show the same digit (11, 22, 33, 44, 55, 66, 77, 88). The best possible result.
+- **Critical Success** - a roll of 01, or a success where both dice show the same digit (11, 22, 33, 44, 55, 66, 77, 88, 99). The best possible result.
 - **Success** - roll equals or beats the target; dice do not match.
 - **Failure** - roll exceeds the target; dice do not match.
 - **Fumble** - roll is 00 (always bad), OR the roll exceeds your target and the dice match. Something has gone wrong.

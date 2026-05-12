@@ -12,6 +12,31 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Combat resolution clarification: 01 always-crit; 99 included in the matching-dice set
+
+**Context:** During chapter review, the user flagged that the original Combat Resolution decision (2026-05-10) listed the matching-dice values as `11, 22, 33, 44, 55, 66, 77, 88` without `99`, and that `01 is also a critical`. Both were incompletely expressed in the original decision text.
+
+**Decision:** Clarify the matching-dice rule:
+
+- The full matching-dice set is `11, 22, 33, 44, 55, 66, 77, 88, 99` (nine values).
+- A roll of **01 is always a Critical Success**, regardless of skill - the traditional BRP "lucky shot" rule, preserved in WSR.
+- A roll of **00 is always a Fumble**, regardless of skill (unchanged from the original decision).
+- Other matching-dice rolls (11-99) are Critical if within success range (≤ skill), Fumble if outside (> skill).
+- At skill 99+, all nine matching-dice values are Criticals. Below skill 99, the higher matching values are Fumbles.
+
+**Band mapping update:** `99` joins Band E (alongside 66, 77, 88). `01` maps to Band A (the lowest band; the lucky-shot tier).
+
+**Reasoning:** The original entry was an incomplete expression of the locked rule. 01-as-always-crit has been the BRP convention since the system's inception; preserving it is appropriate. 99 is naturally a matching-dice value; omitting it from the listed set was an error. Neither change alters mechanical balance - 99-criticals only matter at skill 99+ (rare under the 75% training cap), and 01-criticals replace what would otherwise be ordinary successes at a rate of one in a hundred rolls.
+
+**Implications for downstream work:**
+
+- P1 §2 (outcome-tier summary) and §4 (how-to-play primer) updated to list 99 and the 01 always-crit.
+- P4 §2 intro, §2.1 Critical Success, and §2.2 table updated: 99 added to fumble columns at skill ≤98; new row added for skill 99+; 01 and 00 always-rules surfaced.
+- PA1 §1.2 band table updated: 99 added to Band E; 01 maps to Band A.
+- The PP-buy mechanic is unchanged (it operates on matching-dice values within success range; 01 cannot be bought-from because it is not a matching pair, and 99 can only be bought-to at skill 99+).
+
+---
+
 ## 2026-05-12 - Slavery references swept game-wide (extends the profession removal)
 
 **Context:** The earlier 2026-05-12 "Slave or Freedman profession removed" decision dropped the explicit slavery-themed profession. During subsequent chapter review the user flagged additional slavery references across the books - in PC-side examples, Passion examples, profession descriptions, GM advice examples, and the GA1 worked session walkthrough. User directive: "lets not have slavery references in the game please." Per `design.md` §3.2 ("modernised attitudes - pulp-era prejudices will not survive the port"), the topic is out entirely.
