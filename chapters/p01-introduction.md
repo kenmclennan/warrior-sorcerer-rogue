@@ -131,18 +131,7 @@ Warrior \* Sorcerer \* Rogue is built on Chaosium's **Basic Roleplaying: Univers
 
 **Expressly Designated Licensed Material.** All rules text and mechanisms reproduced or adapted from BRP UGE, as identified in each chapter's source notes.
 
-### 5.2 Mechanism Inspirations
-
-Several mechanisms in WSR were designed with reference to published game systems beyond BRP UGE. In each case, the mechanism concept was the inspiration only; all WSR rules text is original.
-
-- **Delta Green Agent's Handbook** (Arc Dream Publishing) - the matching-dice critical and fumble trigger mechanic that replaced BRP UGE's standard Special/Critical two-tier ladder.
-- **Pulp Cthulhu** (Chaosium) - the structural model for the Talent system (themed tables, PP-gated activation), the Fate Point spend menu architecture, and the mook rule (incapacitation at half HP).
-- **RuneQuest Weapons & Equipment** (Chaosium) - the structural model for ancient-world weapons and gear categories, material tiers, the iron-vs-sorcery mechanic, and currency tier structure.
-- **Rolemaster Arms Law** (Iron Crown Enterprises) - the severity band concept (A-E) and prose-entry format for the critical hit tables. The entries themselves are entirely WSR-original.
-
-None of these systems are reproduced in WSR. Their game mechanics are not copyrightable; their expression is. WSR's rules text, tables, and entries are original in every case.
-
-### 5.3 Literary Inspirations
+### 5.2 Literary Inspirations
 
 Warrior \* Sorcerer \* Rogue draws on a century of sword & sorcery fiction. The following authors and works are the primary sources of the game's tone, world-assumptions, and the register in which it is meant to be played:
 
@@ -156,6 +145,6 @@ No text from these works is reproduced in this game. The literary inspirations a
 
 For the full list of inspirational works - films, books, comics, music, and art - see **PA3 Inspirational Influences**.
 
-### 5.4 Author
+### 5.3 Author
 
 Warrior \* Sorcerer \* Rogue was written by Ken McLennan.

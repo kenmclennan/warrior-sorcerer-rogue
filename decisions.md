@@ -12,6 +12,27 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Remove P1 §5.2 Mechanism Inspirations from public credits
+
+**Context:** The original P1 §5 Credits and Attribution chapter included a §5.2 "Mechanism Inspirations" listing four non-ORC published games (Delta Green, Pulp Cthulhu, RuneQuest W&E, Rolemaster Arms Law) as sources of mechanical ideas. User questioned whether this section was legally obligated.
+
+**Decision:** Remove P1 §5.2 entirely. Renumber §5.3 → §5.2 (Literary Inspirations) and §5.4 → §5.3 (Author).
+
+**Reasoning:**
+
+- Game mechanics are not copyrightable in US law (Baker v. Selden; Allen v. Academic Games line). Only the specific text expressing them is. The ORC License only governs the BRP UGE Licensed Material; it has no claim over non-ORC mechanical influences.
+- ORC's required notices (Powered by BRP, copyright stack, trademark notice, license text, Reserved/Licensed Material identification, downstream attribution clause) are all in §5.1. Nothing in the license obliges acknowledgment of non-ORC inspirations.
+- The provenance trail already exists internally: every mechanism borrowed from a non-ORC source is documented per the 2026-05-10 "ORC + non-ORC borrowing principle" entry in this decision log. That's the authoritative record; the public-facing §5.2 was a courtesy duplicate.
+- Naming Delta Green / Arms Law / Pulp Cthulhu in front matter risks the (mistaken) reader assumption that some licensing relationship is involved, which there is not. Silence is the cleaner posture.
+
+**Implications:**
+
+- P1 §5.2 deleted; §5.3 (Literary Inspirations) becomes §5.2; §5.4 (Author) becomes §5.3.
+- No external cross-references to the renumbered sections exist (verified by grep across `chapters/` and `decisions.md`).
+- No change to the internal borrowing principle - mechanism citations continue to live in `decisions.md` as the project's authoritative provenance record.
+
+---
+
 ## 2026-05-12 - Experience checkmarks require successful skill use
 
 **Context:** P1 §2 (how-to-play primer) and P4 §8.1 (canonical experience rule) both described the checkmark trigger as "use a skill in a stressful/uncertain situation" without explicitly stating whether the use had to be successful. P4 §8.1 hinted at the answer via the parenthetical "(without requiring a successful roll)" on its training/immersion exception, but never stated the default rule plainly. User flagged the omission during review of the how-to-play primer.
