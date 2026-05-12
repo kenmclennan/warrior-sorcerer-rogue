@@ -147,40 +147,33 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 ### 2.3 Missile Weapons
 
-#### Primitive Missile Weapons
-
-| Weapon             | Damage      | SR  | Hands | ENC | HP  | Range  | STR/DEX | Special  | Cost  |
-| ------------------ | ----------- | --- | ----- | --- | --- | ------ | ------- | -------- | ----- |
-| Dart, Thrown       | 1D4+1/2dm   | 2   | 1H    | -   | 4   | Short  | 7/11    | Pierce   | Cheap |
-| Javelin            | 1D6+1/2dm   | 3   | 1H    | 2   | 10  | Medium | 9/9     | Pierce   | Cheap |
-| Axe, Hand (thrown) | 1D6+1/2dm   | 4   | 1H    | 1   | 12  | Short  | 9/11    | Slash    | Cheap |
-| Knife (thrown)     | 1D3+1/2dm   | 3   | 1H    | -   | 8   | Short  | 7/11    | Pierce   | Cheap |
-| Rock (thrown)      | 1D2+1/2dm   | 4   | 1H    | -   | -   | Short  | 5/5     | Krush    | -     |
-| Bola               | 1D4+1/2dm   | 4   | 1H    | 1   | 1   | Short  | 9/13    | Entangle | Cheap |
-| Sling              | 1D8+1/2dm   | 3   | 1H    | -   | 2   | Long   | 7/11    | Krush    | Cheap |
-| Sling, Staff       | 1D8+1/2dm   | 4   | 2H    | 2   | 4   | Far    | 9/7     | Krush    | Cheap |
-| Bow, Self          | 1D6+1+1/2dm | 3   | 2H    | 1   | 6   | Long   | 9/9     | Pierce   | Cheap |
-| Blowgun            | 1D3         | 2   | 2H    | 1   | 4   | Short  | -/11    | Pierce   | Cheap |
-| Lasso (thrown)     | -           | 4   | 2H    | 2   | 4   | Short  | 9/13    | Entangle | Cheap |
-| Boomerang          | 1D4+1/2dm   | 3   | 1H    | -   | 3   | Medium | 9/11    | Krush    | Cheap |
-
-**Bola:** Entangles the target's legs on a hit (Difficult DEX roll or fall prone). Can also be used as a damaging throw (use the listed damage). The thrown lasso entangles on a hit; the target makes a Difficult STR or DEX roll to break free.
-
-**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See G6 §2 for poison rules.
-
-**Sling, staff:** A longer staff-mounted sling with superior range. Requires two hands but outranges a self-bow.
+| Weapon             | Damage      | SR  | Hands | ENC | HP  | Range  | STR/DEX | Special  | Cost    |
+| ------------------ | ----------- | --- | ----- | --- | --- | ------ | ------- | -------- | ------- |
+| Axe, Hand (thrown) | 1D6+1/2dm   | 4   | 1H    | 1   | 12  | Short  | 9/11    | Slash    | Cheap   |
+| Blowgun            | 1D3         | 2   | 2H    | 1   | 4   | Short  | -/11    | Pierce   | Cheap   |
+| Bola               | 1D4+1/2dm   | 4   | 1H    | 1   | 1   | Short  | 9/13    | Entangle | Cheap   |
+| Boomerang          | 1D4+1/2dm   | 3   | 1H    | -   | 3   | Medium | 9/11    | Krush    | Cheap   |
+| Bow, Composite     | 1D8+1+1/2dm | 3   | 2H    | 2   | 12  | Far    | 13/9    | Pierce   | Average |
+| Bow, Long          | 1D8+1+1/2dm | 3   | 2H    | 2   | 10  | Far    | 11/9    | Pierce   | Cheap   |
+| Bow, Self          | 1D6+1+1/2dm | 3   | 2H    | 1   | 6   | Long   | 9/9     | Pierce   | Cheap   |
+| Dart, Thrown       | 1D4+1/2dm   | 2   | 1H    | -   | 4   | Short  | 7/11    | Pierce   | Cheap   |
+| Javelin            | 1D6+1/2dm   | 3   | 1H    | 2   | 10  | Medium | 9/9     | Pierce   | Cheap   |
+| Knife (thrown)     | 1D3+1/2dm   | 3   | 1H    | -   | 8   | Short  | 7/11    | Pierce   | Cheap   |
+| Knife, Throwing    | 1D4+1/2dm   | 2   | 1H    | -   | 10  | Short  | -/11    | Pierce   | Cheap   |
+| Lasso (thrown)     | -           | 4   | 2H    | 2   | 4   | Short  | 9/13    | Entangle | Cheap   |
+| Rock (thrown)      | 1D2+1/2dm   | 4   | 1H    | -   | -   | Short  | 5/5     | Krush    | -       |
+| Sling              | 1D8+1/2dm   | 3   | 1H    | -   | 2   | Long   | 7/11    | Krush    | Cheap   |
+| Sling, Staff       | 1D8+1/2dm   | 4   | 2H    | 2   | 4   | Far    | 9/7     | Krush    | Cheap   |
 
 **1/2dm notation:** For thrown and missile weapons, the attacker adds half their damage modifier (round down). A dm of +1D4 becomes +1D2; a dm of +1D6 becomes +1D3; zero remains zero.
 
-#### Historic Missile Weapons
+**Bow, Composite:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
 
-| Weapon          | Damage      | SR  | Hands | ENC | HP  | Range | STR/DEX | Special | Cost    |
-| --------------- | ----------- | --- | ----- | --- | --- | ----- | ------- | ------- | ------- |
-| Bow, Composite  | 1D8+1+1/2dm | 3   | 2H    | 2   | 12  | Far   | 13/9    | Pierce  | Average |
-| Bow, Long       | 1D8+1+1/2dm | 3   | 2H    | 2   | 10  | Far   | 11/9    | Pierce  | Cheap   |
-| Knife, Throwing | 1D4+1/2dm   | 2   | 1H    | -   | 10  | Short | -/11    | Pierce  | Cheap   |
+**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See G6 §2 for poison rules.
 
-**Composite bow:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
+**Bola and Lasso:** The bola entangles the target's legs on a hit (Difficult DEX roll or fall prone). It can also be used as a damaging throw (use the listed damage). The thrown lasso entangles on a hit; the target makes a Difficult STR or DEX roll to break free.
+
+**Sling, Staff:** A longer staff-mounted sling with superior range. Requires two hands but outranges a self-bow.
 
 **Range bands:** Short = arm's throw distance; Medium = javelin range; Long = bow range; Far = extreme bow range. The GM narrates these as fiction. Shooting at longer than the listed range imposes a Difficult penalty.
 

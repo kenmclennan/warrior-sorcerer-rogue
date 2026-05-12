@@ -12,6 +12,32 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - P7 missile weapons: merge Primitive/Historic subsections into one table
+
+**Context:** User reviewing P7 §2.3 flagged that the "Primitive Missile Weapons" / "Historic Missile Weapons" subsection split was an odd distinction. After the crossbow drop, the "Historic" subsection had only three entries (Bow Composite, Bow Long, Throwing Knife), making the split feel arbitrary.
+
+**Decision:** Merge the two subsections into a single Missile Weapons table sorted alphabetically by weapon name. Consolidate the prose notes after the merged table.
+
+**Reasoning:**
+
+- "Primitive" reads as patronising - the listed weapons (sling, composite bow, javelin) are real capable weapons, not pre-civilised junk.
+- "Historic" is meaningless when every weapon in WSR is historic.
+- The split obscured more than it revealed. The 1/2dm rule, range bands, and Pierce damage type apply uniformly across thrown and drawn missile weapons; there was no mechanical distinction the subsections actually carried.
+
+Considered an alternative split by use-pattern (Thrown vs Drawn/Slung) but the rules don't lean on the distinction mechanically, and a single table is simpler.
+
+**Files updated:**
+
+- P7 §2.3: subsection headings removed; tables merged into one alphabetised table (15 weapons); prose notes consolidated.
+
+**Implications:**
+
+- One subsection, one table - cleaner chapter structure.
+- "Bow, Composite" / "Bow, Long" / "Bow, Self" still group naturally under "B" in alphabetical order.
+- "Knife (thrown)" (improvised throw of a regular knife) and "Knife, Throwing" (purpose-built throwing knife) both retained as distinct entries with different stats.
+
+---
+
 ## 2026-05-12 - P7 weapons: drop crossbows entirely (follow-up to weapon cull)
 
 **Context:** Follow-up to the P7 weapon cull. User reviewed the kept Crossbow, Light / Crossbow, Heavy entries (which represented ancient gastraphetes / cheiroballistra) and directed: drop them entirely.
