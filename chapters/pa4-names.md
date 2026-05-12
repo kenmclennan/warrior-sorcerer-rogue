@@ -15,9 +15,9 @@ For a deeper exploration of fantasy naming traditions, _The Nomicon_ (Matt Finch
 
 Hellenic-flavoured: white-stone cities on a warm sea, olive groves, the wine-dark voyages.
 
-**Male:** Aristos, Damaros, Theron, Lysander, Nikander, Kallias, Demetrios, Stephanos, Phocrates, Akhilleas
+**Male:** Achebiades, Cephinder, Mnasitheus, Damanekes, Scodotus, Acrodothes, Cleonarchos, Phocidemos, Adrianthes, Theryndros
 
-**Female:** Althea, Daphne, Eirenya, Helena, Kassandra, Lyra, Phaidra, Selene, Thalia, Xanthe
+**Female:** Pheneithia, Aglaonia, Cassiopra, Doriasta, Helossora, Lyrissia, Phaedrana, Selemaia, Thalassina, Xanthella
 
 ---
 
@@ -25,9 +25,9 @@ Hellenic-flavoured: white-stone cities on a warm sea, olive groves, the wine-dar
 
 Phoenician/Levantine-flavoured: trading ports of an inland sea, sealed credit-letters, temple politics.
 
-**Male:** Hanno, Bomilcar, Magon, Bostar, Adunaal, Yarhibul, Tabnit, Abibaal, Sikker, Eshmunzar
+**Male:** Yarhibet, Tabnitar, Eshmu'al, Bomilcaru, Hanyamel, Magolar, Sikkarith, Adunaba, Bostarith, Sicharu
 
-**Female:** Tanith, Bithia, Imilce, Maharbal, Sapha, Anath, Sicharba, Yeretu, Astart, Eshmuna
+**Female:** Tanithra, Bithyel, Imilcat, Maharbet, Sapha'it, Anathra, Sicharbi, Yeretut, Astarith, Eshmunya
 
 ---
 
@@ -35,9 +35,9 @@ Phoenician/Levantine-flavoured: trading ports of an inland sea, sealed credit-le
 
 Mesopotamian and Egyptic-flavoured: stepped temples, written law, city-gods who demand grain.
 
-**Male:** Sennari, Khufu, Imhotep, Naram-Sin, Khaemwa, Sargon, Tutmoses, Ankheb, Mentuhotep, Esarhad
+**Male:** Senari-Hor, Khufran, Petephor, Belukhar, Khaemwasi, Sargunet, Tutmosen, Ankhebar, Mentu-Sar, Esarhal
 
-**Female:** Nefertari, Inanna, Hatshepsut, Beletum, Tashme, Iset, Senebtisi, Naqiya, Mutnedj, Sammu-Ramat
+**Female:** Nefersara, Innaslag, Hatshepra, Beletunet, Tashmir-Iset, Iset-Hora, Senebra, Naqi-El, Mutnera, Sammurat
 
 ---
 
@@ -45,9 +45,9 @@ Mesopotamian and Egyptic-flavoured: stepped temples, written law, city-gods who 
 
 Persian-flavoured: provincial governors, sacred fires, royal roads, cavalry honour.
 
-**Male:** Darius, Xerxes, Cyrus, Artaxerxes, Bahram, Khosrow, Ardashir, Shapur, Mithradates, Cambyses
+**Male:** Darianos, Khsathrios, Bahranid, Khordagh, Ardashar, Shapuran, Mithradan, Tiribazid, Pharnos, Mardonal
 
-**Female:** Atossa, Roxana, Stateira, Parysatis, Mandane, Amestris, Artystone, Pantea, Drypetis, Cassandane
+**Female:** Aratossa, Rashanith, Stairissa, Parynath, Mandavia, Amesthryne, Artydissa, Panthissa, Drypadira, Cassandara
 
 ---
 
@@ -55,9 +55,9 @@ Persian-flavoured: provincial governors, sacred fires, royal roads, cavalry hono
 
 Scythian and Steppe-flavoured: born in the saddle, hospitality as law, seasonal raiding.
 
-**Male:** Skuda, Atheas, Idanthyr, Madyes, Tarkhan, Argun, Boroldai, Subadar, Bayar, Spargapeithes
+**Male:** Skudair, Atheidos, Idantyr, Madasin, Tarkadan, Argunsai, Boroldan, Subaday, Bayar-Kol, Spargados
 
-**Female:** Tomyris, Zarinaea, Amage, Tirgatao, Sparethra, Khutulun, Borte, Mandukhai, Sorghaghtani, Yesui
+**Female:** Tomyrisa, Zarinaca, Amagaita, Tirgata, Sparethra, Khutulansa, Bortessa, Mandukha, Sorghada, Yesuyan
 
 ---
 
@@ -65,9 +65,9 @@ Scythian and Steppe-flavoured: born in the saddle, hospitality as law, seasonal 
 
 Norse and Germanic-flavoured: clans, blood debts, long winters, gods who live in the storm.
 
-**Male:** Bjorn, Thorvald, Sigurd, Hakon, Olaf, Eirik, Ragnar, Ulfur, Asgeir, Knut
+**Male:** Hrolgund, Vidulfr, Snorragar, Hakthal, Eirvald, Asgrith, Ulfhalmr, Ragenmar, Throgar, Bjarmir
 
-**Female:** Astrid, Brynhildr, Freya, Gudrun, Hilda, Ingrid, Sigrid, Solveig, Thora, Yngvild
+**Female:** Astharil, Bryndila, Freyhild, Gudvinna, Hildraga, Yngslada, Solvinna, Throsdis, Halgrida, Ranvalda
 
 ---
 
@@ -75,9 +75,9 @@ Norse and Germanic-flavoured: clans, blood debts, long winters, gods who live in
 
 Arabic, Saharan, and Sahel-flavoured: desert traders, river-kingdom soldiers, practical adaptation.
 
-**Male:** Hassan, Mansur, Karim, Tariq, Mali, Sundiata, Askia, Tunka, Yusuf, Walid
+**Male:** Hazimar, Mansurat, Karyamet, Tarikal, Sundakar, Aszendar, Tunkali, Yuma-Bel, Walidem, Zaharun
 
-**Female:** Aisha, Layla, Fatima, Sogolon, Inkpi, Khadi, Mariam, Yasmin, Zara, Nadia
+**Female:** Aysharia, Laylinath, Faytimet, Sogolanith, Inkpiya, Khadirun, Mariamat, Yasminat, Zaramara, Nadwira
 
 ---
 
@@ -85,6 +85,6 @@ Arabic, Saharan, and Sahel-flavoured: desert traders, river-kingdom soldiers, pr
 
 Polynesian and Aegean-flavoured: archipelagos, fisher-kings, wave-and-wind highways.
 
-**Male:** Tama, Maui, Kahu, Pita, Naxos, Andros, Mahina, Keos, Hone, Akamai
+**Male:** Tamarui, Mauthikai, Kahuralo, Pitanoa, Naxioros, Andronios, Mahinari, Keosvar, Hone-Tama, Akamayar
 
-**Female:** Hina, Lani, Aroha, Marama, Calypso, Pua, Naxia, Wairua, Penelope, Ariadne
+**Female:** Hinaru, Lanimoa, Arohaba, Maramana, Kalythanu, Pua-Aroa, Naxiana, Wairulan, Pelenath, Ariadora
