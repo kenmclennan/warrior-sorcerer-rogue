@@ -224,7 +224,7 @@ Superior weapons also tend to have slightly higher HP (add 2-4 at the GM's discr
 
 Armour provides **Armour Points (AP)** - a flat reduction applied to any damage the wearer takes before HP are subtracted. WSR uses a single AP value per armour piece, not per-location ratings. When a hit lands, subtract the armour's AP from the damage; the remainder reaches the wearer's HP.
 
-Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Athletics, Brawl, Dodge, Stealth, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §12.1).
+Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Climb, Brawl, Dodge, Move Quietly, Swim, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §12.1).
 
 **Layering:** Soft armour (leather, padded, gambeson) may be worn under hard armour. Add their AP values. However, layering adds the ENC of both pieces, and any skill modifier from the outer armour is used at full (not combined). Layering hard armour under hard armour is impractical and not supported.
 

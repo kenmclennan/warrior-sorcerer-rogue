@@ -80,6 +80,18 @@ The 44 WSR skills in alphabetical order. Five skills carry a **Critical:** line 
 
 ---
 
+### Animal Handling
+
+_(Mental, base 05%)_
+
+Working with non-mount animals: calming, training, commanding, and reading the disposition of beasts the character has not been raised among. A successful roll might quiet a war-dog, coax a wounded falcon onto the glove, gentle a horse that has never been ridden, or persuade a snake to remain still in its basket. The skill does not grant supernatural rapport - the animal must be present, the character must be in a position to engage it (not at a sword's length, not actively threatening), and the GM has final say over what a given creature might reasonably be moved to do.
+
+Animal Handling is distinct from Ride, which covers mounted use of an animal already trained for the rider. A horse-breaker uses Animal Handling to break the horse, then Ride to use it.
+
+Roll Animal Handling when training a young animal, working with a hostile or skittish one, or attempting to make a beast do something outside its normal disposition.
+
+---
+
 ### Appraise
 
 _(Mental, base 15%)_
@@ -150,7 +162,9 @@ Producing functional objects from raw materials. Each speciality is a distinct t
 
 Roll Craft when producing something that must actually work under stress. Routine maintenance, minor repairs, and simple construction in a character's own trade do not require rolls.
 
-**Specialities:** Blacksmithing, Carpentry, Ceramics, Cooking, Leatherworking, Locksmithing, Metallurgy, Ropemaking, Stonemasonry, Weaving. The GM may add other period-appropriate trades.
+**Specialities:** Apothecary, Blacksmithing, Carpentry, Ceramics, Cooking, Leatherworking, Locksmithing, Metallurgy, Ropemaking, Stonemasonry, Weaving. The GM may add other period-appropriate trades.
+
+**Apothecary** is a special case. It covers gathering and recognising herbs, preparing salves, antitoxins, sleep-draughts, herbal remedies, and poisons. Apothecary produces consumables that other skills then use - Medicine to treat patients, a combat skill to apply a coated blade, Survival to extract nourishment from indifferent forage. It does not include theoretical toxicology (Knowledge (Occult) for forbidden substances) or the bedside treatment of patients (Medicine).
 
 ---
 
@@ -244,7 +258,7 @@ Roll Grapple when attempting to take a target alive, to control rather than kill
 
 _(Physical, base 10%)_
 
-Concealing oneself or an object in a fixed position. Hide is for stillness and camouflage, not movement - a character who moves while hiding uses Stealth instead. A successful roll means the character is not noticed by casual observers; active search triggers an opposed roll against the searcher's Spot. The hiding character must remain still; any significant movement ends the Hide.
+Concealing oneself or an object in a fixed position. Hide is for stillness and camouflage, not movement - a character who moves while hiding uses Move Quietly instead. A successful roll means the character is not noticed by casual observers; active search triggers an opposed roll against the searcher's Spot. The hiding character must remain still; any significant movement ends the Hide.
 
 Roll Hide when waiting in ambush, concealing a body, or taking cover during a fight.
 
@@ -378,6 +392,20 @@ Roll Missile Weapon on each ranged attack. Critical results are resolved on the 
 
 ---
 
+### Move Quietly
+
+_(Physical, base 10%)_
+
+Moving without being seen or heard: shadows, soft footfalls, controlled breathing, avoiding creaking floorboards. Move Quietly is for movement; Hide is for stillness. The skill is not the polished art of the trained infiltrator - characters who succeed make less sound than a person walking normally, not no sound at all. Moving at full speed while attempting to stay quiet is Difficult; moving at half speed or less is Average.
+
+Roll Move Quietly when the character needs to move through an area without drawing attention. Armour imposes penalties based on its construction - leather is quieter than bronze scale.
+
+**Detection.** When no specific observer is alert and oriented, a successful Move Quietly is enough; failure means the character did not move silently, but unless there is someone in a position to notice it rarely matters. When a guard, sentry, or other observer **is** paying attention to the area, resolve as an opposed roll: the character's Move Quietly result against the observer's Spot (visual) or Listen (auditory). Higher successful result wins; criticals beat ordinary successes; ties favour the observer (the alert defender). A **failed Move Quietly does not mean automatic detection** - it only means the character has not concealed their passage, and any alert observer gets their roll. A **fumble** is a distinct sound - a kicked tankard, a snapped branch, a footfall on dry leaves - that automatically alerts anyone within hearing range; the GM should narrate the specific noise.
+
+For group stealth (when the whole party is moving together), see G1 §8.
+
+---
+
 ### Navigate
 
 _(Physical/Perception, base 10%)_
@@ -441,6 +469,16 @@ Riding a trained animal, including in combat. At skill 50% or above, the charact
 Roll Ride in challenging conditions: rough terrain, battle, forced march, or when attempting mounted manoeuvres beyond simple travel.
 
 **Specialities:** Camel, Chariot (driver), Horse, War Elephant. Others as the campaign requires. Note: Chariot driving is a Ride speciality, not a separate skill.
+
+---
+
+### Sailor
+
+_(Physical, base 05%)_
+
+Practical seamanship: handling rigging, tying functional knots under wet conditions, reading wind and current, working a ship's lines under the bosun's call, and surviving the daily work of a vessel. A successful roll keeps the character productive as crew; a critical is the kind of competence a captain remembers. Sailor does not include captaincy or navigation by chart - those are Command and Navigate respectively - and it does not include shipbuilding (Craft (Carpentry) or a dedicated Shipwright speciality).
+
+Roll Sailor when crew skill matters: holding course in heavy weather, reefing a sail under fire, executing a manoeuvre the captain has ordered, or surviving a sudden squall on a small craft.
 
 ---
 
@@ -510,16 +548,6 @@ Roll Status when attempting to use social standing as leverage - demanding acces
 
 ---
 
-### Stealth
-
-_(Physical, base 10%)_
-
-Moving without being seen or heard: shadows, soft footfalls, controlled breathing, avoiding creaking floorboards. Stealth is for movement; Hide is for stillness. Opposed by Spot or Listen when someone is in a position to notice. Moving at full speed while stealthed is Difficult; moving at half speed or less is Average.
-
-Roll Stealth when the character needs to move through an area without being detected. Armour imposes penalties based on its construction - leather is quieter than bronze scale.
-
----
-
 ### Strategy
 
 _(Mental, base 01%)_
@@ -527,6 +555,20 @@ _(Mental, base 01%)_
 Military command at the operational level: organising a force for battle, choosing ground, coordinating supply and movement, reading an opponent's tactical intentions from their deployment. Strategy applies to actions above the skirmish level - squads, formations, warbands, fleets. It does not apply to the personal combat that P5 covers.
 
 Roll Strategy before or during a significant military engagement when the PC is in command or advising command. A success improves the PC's side's starting position; a critical provides a decisive advantage. A fumble produces a significant tactical error.
+
+---
+
+### Survival
+
+_(Mental, base 15%)_
+
+Wilderness craft: finding food and water, building shelter, starting fires in adverse conditions, reading weather, identifying safe routes through unfamiliar terrain, recognising which plants and water sources are safe. A successful roll keeps the character and their travelling companions fed, watered, and sheltered through a day of travel. A failure means privation, lost time, or a forced halt to address the immediate need.
+
+In hostile environments - storm, desert, deep winter, jungle - the GM may call for daily Survival rolls; failure causes fatigue, illness, or actual harm. A character without Survival in such country is in trouble almost immediately.
+
+Survival does not cover specialised hunting techniques (use the relevant Missile Weapon or Throw skill, plus Track), beast-handling (Animal Handling), or healing (First Aid, Medicine). It is the practical craft of staying alive in the wild.
+
+Roll Survival when the wilderness threatens to kill the character through ordinary means: thirst, exposure, hunger, getting lost, eating the wrong thing.
 
 ---
 
@@ -578,7 +620,7 @@ Roll Throw during combat for improvised ranged attacks, or in any situation wher
 
 _(Perception, base 10%)_
 
-Following the trail of a person, animal, or vehicle across terrain. Track covers reading prints, disturbed vegetation, broken branches, and other physical signs of passage. Opposed by deliberate concealment (the quarry's Stealth if they are specifically trying to cover tracks). Old trails, rain, and hard surfaces make tracking Difficult; fresh trails in soft ground are Average.
+Following the trail of a person, animal, or vehicle across terrain. Track covers reading prints, disturbed vegetation, broken branches, and other physical signs of passage. Opposed by deliberate concealment (the quarry's Move Quietly if they are specifically trying to cover tracks). Old trails, rain, and hard surfaces make tracking Difficult; fresh trails in soft ground are Average.
 
 Roll Track when the character is actively following a trail and the quarry's passage is not obvious. The GM may call for Track as a concealed roll when a character might notice a trail without specifically looking.
 

@@ -146,7 +146,7 @@ Each weapon lists a damage dice expression. The attacker rolls this dice, adds t
 
 Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from damage before applying to HP. If the reduction brings damage to 0 or below, no HP are lost - but the impact still occurred.
 
-**Armour disadvantages.** Armour imposes skill penalties on Agility, Stealth, Swim, Climb, and Perception skills as listed in the equipment tables (see P7 §3). It is also socially conspicuous: arriving at a merchant's hall in full bronze scales makes certain conversations difficult.
+**Armour disadvantages.** Armour imposes skill penalties on Agility, Move Quietly, Swim, Climb, and Perception skills as listed in the equipment tables (see P7 §3). It is also socially conspicuous: arriving at a merchant's hall in full bronze scales makes certain conversations difficult.
 
 **Armour fit.** Armour is sized for its original wearer. Armour that does not fit (different SIZ) imposes an additional -20% penalty on all physical skills and halves its AV.
 

@@ -85,7 +85,7 @@ Khess spent several years working the markets, warehouses, and back-alleys of he
 
 **Wealth:** Poor. **Reputation start:** 5%.
 
-**Profession skills:** The City Thief bundle is Bargain, Climb, Disguise, Dodge, Etiquette (Thieves' Guild), Fine Manipulation, Hide, Insight, Sleight of Hand, Spot, Stealth, and one of: Fast Talk / Persuade. Khess takes Fast Talk.
+**Profession skills:** The City Thief bundle is Bargain, Climb, Disguise, Dodge, Etiquette (Thieves' Guild), Fine Manipulation, Hide, Insight, Sleight of Hand, Spot, Move Quietly, and one of: Fast Talk / Persuade. Khess takes Fast Talk.
 
 **Heroic profession skill allocation:** 325 points distributed across the twelve profession skills. No single skill may start above 75%.
 
@@ -103,7 +103,7 @@ _Starting from base chance + category bonus, then add profession points:_
 | Insight                    | 05%          | +6             | 11%           | +35                     | 46%   |
 | Sleight of Hand            | 05%          | +8             | 13%           | +35                     | 48%   |
 | Spot                       | 25%          | +6             | 31%           | +30                     | 61%   |
-| Stealth                    | 10%          | +6             | 16%           | +35                     | 51%   |
+| Move Quietly               | 10%          | +6             | 16%           | +35                     | 51%   |
 | Fast Talk                  | 05%          | +7             | 12%           | +25                     | 37%   |
 
 _(Total profession points spent: 325.)_
@@ -207,7 +207,7 @@ Khess is not a sorcerer. She skips this step.
 
 **HP:** 12 | **PP:** 13 | **dm:** None | **MOV:** 10 | **Exp Bonus:** 7
 
-**Key skills:** Stealth 51%, Spot 61%, Hide 46%, Sleight of Hand 48%, Fine Manipulation 43%, Insight 56%, Listen 56%, Dodge 63%, Dagger 62%, Parry (Dagger) 42%, Climb 61%, Bargain 57%, Fast Talk 37%, Swim 51%, Research 41%
+**Key skills:** Move Quietly 51%, Spot 61%, Hide 46%, Sleight of Hand 48%, Fine Manipulation 43%, Insight 56%, Listen 56%, Dodge 63%, Dagger 62%, Parry (Dagger) 42%, Climb 61%, Bargain 57%, Fast Talk 37%, Swim 51%, Research 41%
 
 **Talents:** The Quiet Knife (4 PP), Cold Read (2 PP)
 
@@ -231,7 +231,7 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 
 **Khess the Knife** (City Thief, from Section 1):
 
-- HP 12, PP 13, DEX 18, Dagger 62%, Dodge 63%, Stealth 51%
+- HP 12, PP 13, DEX 18, Dagger 62%, Dodge 63%, Move Quietly 51%
 
 **Orryn** (Mercenary Soldier, abbreviated stat block):
 
@@ -281,7 +281,7 @@ Khess declares last, with the most information: she will move to flank Davan and
 
 **Phase Two (Powers):**
 
-Karash casts _Cloak of Night_ at Intensity 1 (see P6 §6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Stealth. Her Stealth is now effectively 71% for the duration.
+Karash casts _Cloak of Night_ at Intensity 1 (see P6 §6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Move Quietly. Her Move Quietly is now effectively 71% for the duration.
 
 No Corruption roll: Intensity 1 and 2 spells trigger the Corruption roll only on failure; standard casting Corruption applies (see P6 §3.3 - casting Intensity 1: 0 / 1 Corruption). Karash rolls against his Corruption of 85: he rolls 44. Success. No Corruption lost this round.
 

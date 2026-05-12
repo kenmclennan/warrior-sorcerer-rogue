@@ -12,6 +12,64 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - Skill list additions and Stealth -> Move Quietly rename
+
+**Context:** User review of P3 skill list flagged four gaps and one framing problem:
+
+1. **Survival** - referenced in P2 Cultural Background bonuses (Cold Wilds +15%) but absent from P3.
+2. **Animal handling** - Ride exists for mounted use but no skill covers calming, training, or commanding non-mount beasts. Genre-core in Howard and Burroughs (Beastmaster, falconer, snake-charmer territory).
+3. **Herbalism / poison handling** - Medicine references herbs as material input but no skill produces them; the apothecary trade had no home.
+4. **Sailor** - discovered during the profession audit; referenced in Sea-Raider and Merchant bundles but absent from the skill list. (Latent pre-existing inconsistency.)
+5. **Stealth** - name and framing carried commando/ninja baggage that misaligned with the genre's lower-key sneaking. User: "make sure that the skill description (and maybe even name) sets the level of expectation."
+
+**Decision:**
+
+1. **Add Survival** (Mental, base 15%). One skill, no specialities - covers hunting, foraging, water-finding, shelter, weather, route-finding. Resolves the P2 Cultural Background reference.
+
+2. **Add Animal Handling** (Mental, base 05%). Non-mount beasts only; Ride remains the specialised mounted-use skill. A horse-breaker uses Animal Handling to break the horse, then Ride to use it.
+
+3. **Add Craft (Apothecary)** as a new Craft speciality - rather than a top-level skill. Gathers and prepares herbs, salves, antitoxins, sleep-draughts, poisons. Produces consumables that other skills use (Medicine, combat skills, Survival). Distinct from Knowledge (Occult) (theoretical toxicology) and Medicine (bedside treatment).
+
+4. **Add Sailor** (Physical, base 05%). Practical seamanship - rigging, lines, weather at sea, working a vessel. Distinct from Navigate (charts) and Craft (Carpentry/Shipwright).
+
+5. **Rename Stealth -> Move Quietly.** New entry adds explicit failure rules:
+   - **Failure is not automatic detection** - it means the character did not conceal their passage, and any alert observer gets a Spot/Listen roll.
+   - With no alert observer: success unnoticed, failure inconsequential.
+   - With an alert observer: opposed roll, Move Quietly vs Spot/Listen. Higher successful result wins; ties favour the observer.
+   - **Fumble is automatic detection** - the GM narrates the specific noise (kicked tankard, snapped branch, etc.).
+
+6. **New G1 §8 Group Stealth and Concealment.** Group rolls Move Quietly at the _worst_ member's rating. Hangouts: opt-out (lag behind, roll separately), Strategy complementary bonus for leadership, individual fumble still detects that member with one-round grace for the rest. Same rule applies to Hide for stationary groups.
+
+**Profession audit (consequence of the skill changes):**
+
+- **Tribal Warrior**: OR slot now "Move Quietly / Animal Handling / Missile Weapon (Bow)" (was Stealth/Navigate/Bow; tribal warriors know their territory, so Navigate was the weakest fit).
+- **Sea-Raider**: Stealth -> Move Quietly. Sailor reference now resolves.
+- **City Thief**, **Outcast**, **Spy/Infiltrator**: Stealth -> Move Quietly.
+- **Wayfarer**: OR slot adds Survival as a third option (Knowledge (Folklore) / Knowledge (History) / Survival).
+- **Hunter-Tracker**: dropped Medicine and Sense; added Survival as core, Move Quietly as core, OR slot for Animal Handling / Craft (Apothecary). Profile sharpens: more wild, less physician/supernatural.
+- **Scholar of the Dark Arts**: OR slot adds Craft (Apothecary) as a third option.
+- **Merchant**: Sailor reference now resolves (no other change).
+- Other professions unchanged.
+
+**Talent text in P2 §7.3**: three talents (Shadow's Step, Vanishing Act, Death's Calm) updated to reference Move Quietly. The talent category name "Stealth and Finesse" preserved as a thematic label, not a skill reference.
+
+**Side fix:** P7 §3 armour skill modifier mentioned "Athletics" (which is not a WSR skill). Replaced with concrete examples (Climb, Brawl, Dodge, Move Quietly, Swim).
+
+**Reasoning:** Filling the skill gaps was clarification of what was already implied by the rest of the system - Cultural Background grants Survival, professions assume Sailor exists, Medicine lists herbs as materials. The Move Quietly rename addresses a tone issue: the genre is unsuited to commando-level infiltration mythology, and the new name plus failure-consequence text set the more genre-appropriate expectation that sneaking is a relative skill, not a binary one.
+
+**Implications:**
+
+- Four new skills in P3 (Animal Handling, Sailor, Survival, Move Quietly) + one new Craft speciality (Apothecary).
+- Eight profession bundles updated.
+- Three talents updated.
+- New G1 §8 Group Stealth and Concealment.
+- P5 §3 armour penalty list and P7 §3 armour skill modifier updated.
+- P6 Cloak of Night spell description updated.
+- PA2 examples updated.
+- G2 NPC-building guidance updated.
+
+---
+
 ## 2026-05-12 - Remove P1 §5.2 Mechanism Inspirations from public credits
 
 **Context:** The original P1 §5 Credits and Attribution chapter included a §5.2 "Mechanism Inspirations" listing four non-ORC published games (Delta Green, Pulp Cthulhu, RuneQuest W&E, Rolemaster Arms Law) as sources of mechanical ideas. User questioned whether this section was legally obligated.

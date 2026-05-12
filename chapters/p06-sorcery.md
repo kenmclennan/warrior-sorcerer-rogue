@@ -315,7 +315,7 @@ The sorcerer becomes the focal point of a PP chain, drawing on the vital force o
 **Cast Time:** 1 round
 **Duration:** POW rounds
 
-Enhances the target's Stealth skill: intensity 1 = +20%; intensity 2 = +40%; intensity 3 = +60%; intensity 4 = +80%. At intensity 4, the target becomes nearly invisible in dim light and completely invisible in darkness, audible only by breath and footfall.
+Enhances the target's Move Quietly skill: intensity 1 = +20%; intensity 2 = +40%; intensity 3 = +60%; intensity 4 = +80%. At intensity 4, the target becomes nearly invisible in dim light and completely invisible in darkness, audible only by breath and footfall.
 
 ---
 

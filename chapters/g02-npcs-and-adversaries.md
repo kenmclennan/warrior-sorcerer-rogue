@@ -67,7 +67,7 @@ No Fate Point access. No Major Wounds Table.
 
 - HP 6-10 is the typical mook range. A solid hit from any PC should threaten the threshold.
 - Primary weapon skill 30-50%. Heavy armour belongs on professionals.
-- No skills beyond combat. If a mook's Stealth or Insight matters, promote them to a different tier.
+- No skills beyond combat. If a mook's Move Quietly or Insight matters, promote them to a different tier.
 
 ### 2.2 The Mook Rule - GM Detail
 
@@ -131,7 +131,7 @@ Notes: [any notable equipment, drives, or situational rules]
 - **Two or three weapon skills.** Pick what fits the role, not what produces the most combinations.
 - **Primary weapon skill 50-70%.** At 60%, they connect more often than not and genuinely threaten PCs.
 - **PP total as a resilience buffer, not a resource pool.** They will not spend it; it ensures characteristic rolls are meaningful.
-- **Three to five relevant skills.** Match the encounter context, not the archetype. A mercenary captain needs Command; an infiltrator needs Stealth and Insight.
+- **Three to five relevant skills.** Match the encounter context, not the archetype. A mercenary captain needs Command; an infiltrator needs Move Quietly and Insight.
 - **No Talents, no Passions as mechanics.** Drives are notes under Notes: "Will not harm children. Will flee if the paymaster is dead."
 
 ### 3.2 What Professionals Are Not
@@ -420,7 +420,7 @@ Other skills:
   Research 65%
   Insight 60%
   Persuade 55%
-  Stealth 50%
+  Move Quietly 50%
   Sorcery 55% (complementary on contested workings)
 
 Sorcery:

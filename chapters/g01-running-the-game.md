@@ -286,3 +286,21 @@ Some signals and what to do with them.
 Every PP a sorcerer spends on a critical buy or a Fate Point spend is a PP not available for casting. This is intentional: it creates a running decision that distinguishes sorcerer players from warrior and rogue players.
 
 Remind sorcerer players of this framing occasionally. A sorcerer who burns their entire PP pool in the first fight and has nothing left for the negotiation scene, the encounter with the patron, or the sorcerous working they were planning - that is the genre's implicit lesson about the cost of power, expressed mechanically. It is the game being faithful to Moorcock's central premise: power always costs more than you expect.
+
+---
+
+## 8. Group Stealth and Concealment
+
+When a group needs to move quietly together - a warband creeping toward a sentry post, a band of thieves crossing a temple precinct, a party trying not to wake the household - do not roll Move Quietly for every character. Roll once for the group at the rating of the **least capable** member.
+
+The slowest, loudest, or most armoured character sets the pace. A rogue with Move Quietly 75% gains nothing by accompanying a warrior in bronze scale who has Move Quietly 25% - the warrior is the limit. This produces the genre-correct outcome: scouts go alone or in pairs, and large groups must split up or make peace with being detected.
+
+### 8.1 Exceptions and Refinements
+
+- **Hanging back.** A character may opt out of the group roll by lagging behind. They then roll separately at their own rating; they are no longer "with" the group for stealth purposes.
+- **Leadership.** A leader with Strategy may attempt a complementary Strategy roll (P3 §3.1) to support the group's Move Quietly: success grants the appropriate complementary bonus, representing specific tactical guidance - staying off the gravel path, taking the gap behind the woodpile, holding for the lull between watch-bell strikes.
+- **Individual fumble.** A fumble by any single member still automatically alerts - even if the group roll succeeded overall - but only that member is initially detected. The GM may give the rest of the group one round to react before the sentry's shout commits the situation.
+
+### 8.2 Concealment for Stationary Groups
+
+The same principle applies to Hide. A group concealing itself takes the worst Hide rating among them. Splitting up to hide separately is often the better tactical choice, but it has the price you would expect: when the violence starts, the group is not together.

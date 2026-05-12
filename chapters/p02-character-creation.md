@@ -223,7 +223,7 @@ A fighter raised in a clan or tribal culture who has never known another life. R
 
 **Wealth:** Poor
 **Reputation start:** 5%
-**Profession skills:** Brawl, Climb, Dodge, Listen, Melee Weapon (Axe or Spear), Parry (as weapon), Ride (Horse), Spot, Survival, Throw, Track, one of: Stealth / Navigate / Missile Weapon (Bow)
+**Profession skills:** Brawl, Climb, Dodge, Listen, Melee Weapon (Axe or Spear), Parry (as weapon), Ride (Horse), Spot, Survival, Throw, Track, one of: Move Quietly / Animal Handling / Missile Weapon (Bow)
 
 ---
 
@@ -243,7 +243,7 @@ Sailor and warrior in one. Raids coastal settlements, knows how to fight on a ro
 
 **Wealth:** Average
 **Reputation start:** 10%
-**Profession skills:** Brawl, Climb, Dodge, Melee Weapon (Axe or Sword), Missile Weapon (Javelin), Navigate, Parry (as weapon), Sailor, Spot, Stealth, Swim, Throw
+**Profession skills:** Brawl, Climb, Dodge, Melee Weapon (Axe or Sword), Missile Weapon (Javelin), Navigate, Parry (as weapon), Sailor, Spot, Move Quietly, Swim, Throw
 
 ---
 
@@ -253,7 +253,7 @@ A product of urban crime: picking pockets, casing houses, working with fences, a
 
 **Wealth:** Poor
 **Reputation start:** 5% (higher if notorious; see §8)
-**Profession skills:** Bargain, Climb, Disguise, Dodge, Etiquette (Thieves' Guild), Fine Manipulation, Hide, Insight, Sleight of Hand, Spot, Stealth, one of: Fast Talk / Persuade
+**Profession skills:** Bargain, Climb, Disguise, Dodge, Etiquette (Thieves' Guild), Fine Manipulation, Hide, Insight, Sleight of Hand, Spot, Move Quietly, one of: Fast Talk / Persuade
 
 ---
 
@@ -263,7 +263,7 @@ The singer, the storyteller, the person who lives on the edge of every circle. C
 
 **Wealth:** Poor
 **Reputation start:** 15%
-**Profession skills:** Bargain, Disguise, Fast Talk, Hide, Insight, Language (one additional), Perform (Storytelling or Instrument), Persuade, Sleight of Hand, Spot, Stealth, one of: Knowledge (Folklore) / Knowledge (History)
+**Profession skills:** Bargain, Disguise, Fast Talk, Hide, Insight, Language (one additional), Perform (Storytelling or Instrument), Persuade, Sleight of Hand, Spot, Move Quietly, one of: Knowledge (Folklore) / Knowledge (History) / Survival
 
 ---
 
@@ -273,7 +273,7 @@ Lives by reading the land. Knows the habits of animals, can follow a three-day-o
 
 **Wealth:** Poor
 **Reputation start:** 5%
-**Profession skills:** Climb, First Aid, Hide, Listen, Medicine, Melee Weapon (Spear), Missile Weapon (Bow), Navigate, Sense, Spot, Stealth, Track
+**Profession skills:** Climb, First Aid, Hide, Listen, Melee Weapon (Spear), Missile Weapon (Bow), Move Quietly, Navigate, Spot, Survival, Track, one of: Animal Handling / Craft (Apothecary)
 
 ---
 
@@ -313,7 +313,7 @@ The sorcerer-archetype profession. A trained researcher in forbidden knowledge: 
 
 **Wealth:** Poor to Average (sorcerers have patrons, not savings)
 **Reputation start:** 10% (higher if their activities are known)
-**Profession skills:** Disguise, Hide, Knowledge (Occult), Language (one additional), Literacy (one script), Perform (Ritual), Research, Sense, Sorcery, Spot, Stealth, one of: Insight / Bargain
+**Profession skills:** Disguise, Hide, Knowledge (Occult), Language (one additional), Literacy (one script), Perform (Ritual), Research, Sense, Sorcery, Spot, Move Quietly, one of: Insight / Bargain / Craft (Apothecary)
 
 > **Sorcery as a skill:** The Sorcery skill governs the sorcerer's ability to perform resistance-table-relevant actions during spellcasting and ritual work. It is not a casting-success roll (casting is automatic given PP and time - see P6 §2.1) but a modifier for contested workings: Resistance Table rolls use the sorcerer's current PP total against the target's POW. Sorcery skill as a complementary bonus applies when the GM rules that technique is meaningfully at stake.
 
@@ -325,7 +325,7 @@ The exile, the disgraced, the one who cannot go home. Was something else once: s
 
 **Wealth:** Destitute
 **Reputation start:** 5% (may be for the wrong reasons)
-**Profession skills:** Choose any eight skills reflecting the former profession. Add Bargain, Dodge, Insight, and Stealth as mandatory entries. Total: twelve.
+**Profession skills:** Choose any eight skills reflecting the former profession. Add Bargain, Dodge, Insight, and Move Quietly as mandatory entries. Total: twelve.
 
 ---
 
@@ -345,7 +345,7 @@ Works for someone who pays to know things other people are hiding. May be attach
 
 **Wealth:** Average
 **Reputation start:** 0% (public Reputation is a liability in this profession)
-**Profession skills:** Disguise, Etiquette (Noble Court), Fast Talk, Insight, Language (one additional), Literacy (one script), Persuade, Research, Sleight of Hand, Spot, Stealth, one of: Bargain / Fine Manipulation
+**Profession skills:** Disguise, Etiquette (Noble Court), Fast Talk, Insight, Language (one additional), Literacy (one script), Persuade, Research, Sleight of Hand, Spot, Move Quietly, one of: Bargain / Fine Manipulation
 
 ---
 
@@ -431,9 +431,9 @@ Available to all professions.
 
 ---
 
-**Shadow's Step.** 3 PP. For one round, halve all noise penalties to Stealth. You may move at full speed without the Difficult penalty. Must be declared before movement.
+**Shadow's Step.** 3 PP. For one round, halve all noise penalties to Move Quietly. You may move at full speed without the Difficult penalty. Must be declared before movement.
 
-**Vanishing Act.** 4 PP. Immediately after taking an action in combat or a scene, you may attempt a Stealth roll against all observers' Spot. If no observer beats your roll, you are no longer visible - even if they were watching you. You must still be somewhere reasonable to hide.
+**Vanishing Act.** 4 PP. Immediately after taking an action in combat or a scene, you may attempt a Move Quietly roll against all observers' Spot. If no observer beats your roll, you are no longer visible - even if they were watching you. You must still be somewhere reasonable to hide.
 
 **Careful Hands.** 2 PP. On a Fine Manipulation roll this scene, treat your current skill as 20% higher than rated. Declare before rolling.
 
@@ -447,7 +447,7 @@ Available to all professions.
 
 **Rooftop Runner.** 2 PP. For one extended chase or movement scene, ignore all Difficult penalties to Climb and Jump. You may move at full speed across broken terrain (rooftops, rigging, rubble) without rolls unless the GM rules the specific attempt is genuinely impossible.
 
-**Death's Calm.** 3 PP. Immediately after killing or incapacitating someone, you may make a Stealth or Disguise roll at +30% to avoid anyone connecting you to the act. The bonus applies only in the moment - not to later investigation.
+**Death's Calm.** 3 PP. Immediately after killing or incapacitating someone, you may make a Move Quietly or Disguise roll at +30% to avoid anyone connecting you to the act. The bonus applies only in the moment - not to later investigation.
 
 **Elusive.** 4 PP. When pursued, add +3 to your effective MOV for the duration of the chase scene. If another chase-relevant roll (Jump, Climb, Swim) would normally be Difficult, it is treated as Average instead.
 
