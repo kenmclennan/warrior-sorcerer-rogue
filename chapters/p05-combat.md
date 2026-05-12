@@ -157,7 +157,7 @@ Three wound thresholds govern how damage affects a character.
 
 **Minor Wound.** A single attack deals less than half the character's maximum HP. Multiple minor wounds that together equal or exceed half maximum HP trigger a Stamina roll (CON x5): on a failure, the character falls unconscious.
 
-**Major Wound.** A single attack deals damage equal to or greater than half the character's maximum HP. Roll on the Major Wounds Table (§5.2), or the GM may choose an appropriate result.
+**Major Wound.** A single attack deals damage equal to or greater than half the character's maximum HP. Roll on the Major Wounds Table (§5.2), or the GM may choose an appropriate result. For critical hits, the total damage that counts toward this threshold includes the PA1 entry's bonus damage on top of the weapon's base damage roll.
 
 After a Major Wound, the character makes a Luck roll (POW x5):
 
@@ -195,7 +195,7 @@ Roll 1D100 when a character sustains a Major Wound (unless the GM chooses an app
 | 91-95 | Severed or ruined limb. The limb is lost or destroyed. STR and DEX each reduced by 1D3 permanently.                                                              |
 | 96-00 | Killing wound. The character is dying even if HP have not reached zero. Stamina roll each round or lose 1D3 HP; medical intervention required within 1D3 rounds. |
 
-**Criticals and Major Wounds.** When a critical attack triggers a Major Wound, the player may forgo the Major Wounds Table and look up the crit result in PA1 instead (applying the severity band per §8). The crit result supersedes the table roll.
+**Criticals and Major Wounds.** When a critical attack triggers a Major Wound, the player may forgo the Major Wounds Table and look up the crit result in PA1 instead (applying the severity band per §10.2). The crit result supersedes the table roll.
 
 ### 5.3 Healing
 

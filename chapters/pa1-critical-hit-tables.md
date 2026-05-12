@@ -1,7 +1,5 @@
 # PA1. Appendix: Critical Hit Tables
 
-> _"The sword caught him beneath the ear and his head left his shoulders before he had time to know that he was dead."_
-
 Critical hit tables for use when a Critical Success is scored in melee or ranged combat (P5). Tables are organised by damage type and severity band. Each entry gives a wound and its immediate mechanical consequence. The GM reads or paraphrases the result aloud.
 
 ---
@@ -19,6 +17,8 @@ Each weapon deals one of three damage types. The damage type determines which ta
 | **Krush**   | Maces, war-clubs, hammers, mauls, staves, slings (stones), warhammers |
 
 The weapon's entry in P7 Equipment lists its damage type. When two types apply (a blade driven into a deep thrust, for instance), the attacker chooses which table to use at the moment the critical is declared.
+
+**Animal and natural-weapon attacks.** Beasts and other non-weapon-using creatures use the same three tables. Map the attack to its mechanical character - bite or rake = Slash, gore with tusk or horn = Pierce, hoof, paw-buffet, or constriction = Krush - and substitute appropriate descriptors when reading the result aloud (fang for blade, claw for edge, hoof for haft, gore for thrust). The mechanical effects (bleed, stun, useless limb, knocked down, bonus damage) apply unchanged.
 
 ### 1.2 Severity Bands
 
