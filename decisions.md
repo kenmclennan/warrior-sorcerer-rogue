@@ -12,6 +12,47 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-12 - PA1 Band D/E lethality pass: bottom-half entries softened to survivable-severe
+
+**Context:** User Q1 from PA1 review: high percentage of Band D and Band E entries were fight-enders (dying or instant death), fine for foes but punishing for PCs. Today's 1-2-2-2-2 redistribution made high-band crits rarer, but the _content_ was untouched. Directive: "bottom 1-5 results should be severe but not fight-ending. Go back to Rolemaster tables to establish the distribution of critical severity."
+
+**Decision:** Revise Band D and Band E entries 1-5 across all three damage tables to be severe-but-recoverable. Entries 6-10 keep the dying/death/permanent-destruction results.
+
+**Rolemaster-aligned distribution within each band:**
+
+- **Slots 1-5:** Heavy bleeds, prolonged stuns, prolonged unconsciousness, treatable maiming, "rest of the fight" condition impairments, permanent characteristic loss (Band E only). Character keeps fighting at reduced capacity.
+- **Slots 6-7:** Severe maiming with permanent component (hand gone, limb destroyed). Alive but diminished.
+- **Slots 8-10:** Dying or instant death. The legendary devastating-blow tier.
+
+**Entries revised (21 total):**
+
+- Band D Slash: slots 2, 4, 5 - removed "dying in N rounds," replaced with heavy bleeds, "rest of the fight" condition impairments, prolonged stuns.
+- Band E Slash: slots 1-5 - replaced instant-death/dying-in-rounds with permanent maiming, jaw-shattered, prolonged unconsciousness, heavy bleed, "rest of fight" conditions.
+- Band D Pierce: slots 1, 3, 4 - removed dying results; heavy bleeds + "rest of fight" conditions.
+- Band E Pierce: slots 1, 3, 4, 5 - eye-through-brain becomes prolonged unconsciousness + INT loss; throat severance becomes permanent voice loss + heavy bleed; aorta-pierce becomes knocked-down + heavy bleed.
+- Band D Krush: slots 3, 4 - dying-in-5 and conditional-dying replaced with prolonged unconsciousness and "rest of fight" conditions.
+- Band E Krush: slots 2-5 - replaced instant deaths and dying-in-rounds with prolonged unconsciousness, permanent INT/POW loss, jaw-shattered, heavy "rest of fight" effects.
+
+**PA1 §1.5 lethality summary** updated to match the new distribution for Bands D and E.
+
+**Reasoning:** Sword & sorcery features serious wounds that don't kill the hero - Conan takes deep cuts and keeps fighting. Howard's prose is full of "blood streaming from a slash across the ribs, but he fought on." Rolemaster's distribution (low-slot survivable, high-slot lethal) captures this. PCs taking low-roll Band D/E crits now get memorable, scary, descriptive wounds but don't immediately die - they dig deep, fight on impaired, and may use Push Through or Stand Your Ground to survive. The deadly tier at slots 6-10 is preserved because the genre also features moments where the throat is opened and the hero falls.
+
+**New mechanical vocabulary used:**
+
+- "Falls unconscious for 1D6/1D10/2D6 rounds" - non-dying severe effect
+- "Bleeds catastrophically (2 HP/round until bound)" - higher-tier bleed
+- "Permanently loses 1D3 INT/POW" - characteristic loss as PA1-intrinsic permanent (precedent: existing Band E Krush slot 9)
+- "Cannot speak or cast spells without sorcerous restoration" - jaw/throat damage condition
+
+**Implications:**
+
+- PCs taking Band D crits no longer face ~50% dying rate at low rolls.
+- Band E crits at low rolls become "catastrophic and life-changing" but survivable.
+- Deflect the Killing Blow remains relevant for Band E slots 6-10 and high-roll Band D dying results.
+- PA2 worked example (Khess's Band C Pierce critical) is unaffected - that's Band C, not D or E.
+
+---
+
 ## 2026-05-12 - Criticals and Major Wounds: fully exclusive systems (Option A)
 
 **Context:** User flagged a real ambiguity in the interaction between criticals and the Major Wounds Table. Two issues:
