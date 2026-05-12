@@ -347,7 +347,7 @@ When a critical attack lands and is not fully defended, look up the result in PA
 The weapon used determines which table to consult:
 
 - **Slash:** swords, axes, daggers, claws, most edged weapons.
-- **Pierce:** spears, arrows, crossbow bolts, thrusting swords, javelins.
+- **Pierce:** spears, arrows, thrusting swords, javelins.
 - **Krush:** maces, hammers, clubs, slings, shields used offensively, fists.
 
 Some weapons may fall into more than one type (a short sword used for a hacking cut is Slash; the same weapon used for a thrusting stab is Pierce). The attacker declares which type applies at the time of the roll.

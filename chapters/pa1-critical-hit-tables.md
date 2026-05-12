@@ -10,13 +10,13 @@ Critical hit tables for use when a Critical Success is scored in melee or ranged
 
 Each attack deals one of five damage types. The damage type determines which table applies.
 
-| Damage Type | Sources                                                                                         |
-| ----------- | ----------------------------------------------------------------------------------------------- |
-| **Slash**   | Swords, axes, daggers, knives, khopesh, kopis, falx, scythes; bites and rakes from beasts       |
-| **Pierce**  | Spears, javelins, arrows, crossbow bolts, tridents, stilettos; tusks, horns, and goring attacks |
-| **Krush**   | Maces, war-clubs, hammers, mauls, staves, slings (stones), warhammers; hooves, paw-buffets      |
-| **Burn**    | Sorcerous fire, demonic flame, Greek fire, burning oil, dragon breath, fire elementals          |
-| **Grapple** | Unarmed grapples (P3 Grapple skill), creature constricting attacks, joint locks, choke holds    |
+| Damage Type | Sources                                                                                      |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| **Slash**   | Swords, axes, daggers, knives, khopesh, kopis, falx, scythes; bites and rakes from beasts    |
+| **Pierce**  | Spears, javelins, arrows, tridents, stilettos; tusks, horns, and goring attacks              |
+| **Krush**   | Maces, war-clubs, hammers, mauls, staves, slings (stones), warhammers; hooves, paw-buffets   |
+| **Burn**    | Sorcerous fire, demonic flame, Greek fire, burning oil, dragon breath, fire elementals       |
+| **Grapple** | Unarmed grapples (P3 Grapple skill), creature constricting attacks, joint locks, choke holds |
 
 The weapon's entry in P7 Equipment lists its damage type. When two types apply (a blade driven into a deep thrust, for instance), the attacker chooses which table to use at the moment the critical is declared.
 

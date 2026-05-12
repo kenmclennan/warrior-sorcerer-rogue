@@ -174,19 +174,15 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 #### Historic Missile Weapons
 
-| Weapon          | Damage      | SR  | Hands | ENC | HP  | Range  | STR/DEX | Special | Cost    |
-| --------------- | ----------- | --- | ----- | --- | --- | ------ | ------- | ------- | ------- |
-| Bow, Composite  | 1D8+1+1/2dm | 3   | 2H    | 2   | 12  | Far    | 13/9    | Pierce  | Average |
-| Bow, Long       | 1D8+1+1/2dm | 3   | 2H    | 2   | 10  | Far    | 11/9    | Pierce  | Cheap   |
-| Crossbow, Light | 1D6+2       | 3   | 2H    | 1   | 10  | Medium | 9/7     | Pierce  | Average |
-| Crossbow, Heavy | 2D6+2       | 5   | 2H    | 3   | 18  | Far    | 13/7    | Pierce  | Average |
-| Knife, Throwing | 1D4+1/2dm   | 2   | 1H    | -   | 10  | Short  | -/11    | Pierce  | Cheap   |
+| Weapon          | Damage      | SR  | Hands | ENC | HP  | Range | STR/DEX | Special | Cost    |
+| --------------- | ----------- | --- | ----- | --- | --- | ----- | ------- | ------- | ------- |
+| Bow, Composite  | 1D8+1+1/2dm | 3   | 2H    | 2   | 12  | Far   | 13/9    | Pierce  | Average |
+| Bow, Long       | 1D8+1+1/2dm | 3   | 2H    | 2   | 10  | Far   | 11/9    | Pierce  | Cheap   |
+| Knife, Throwing | 1D4+1/2dm   | 2   | 1H    | -   | 10  | Short | -/11    | Pierce  | Cheap   |
 
 **Composite bow:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
 
-**Crossbows:** Ancient crossbows existed but were rare - the Greek _gastraphetes_ (belly-bow), Roman _cheiroballistra_, and Chinese repeating crossbow are real ancient designs. They are specialty equipment, never as common as the composite bow. Crossbow damage does not add the attacker's damage modifier - the bow's draw weight is fixed at manufacture. Rate of fire: Light crossbow (1/2 rounds), Heavy (1/3 rounds).
-
-**Range bands:** Short = arm's throw distance; Medium = javelin range; Long = bow range; Far = extreme bow or crossbow range. The GM narrates these as fiction. Shooting at longer than the listed range imposes a Difficult penalty.
+**Range bands:** Short = arm's throw distance; Medium = javelin range; Long = bow range; Far = extreme bow range. The GM narrates these as fiction. Shooting at longer than the listed range imposes a Difficult penalty.
 
 ### 2.4 Weapon Quality
 
