@@ -3,50 +3,49 @@
 > _"Know, O prince, that between the years when the oceans drank Atlantis and the gleaming cities, and the years of the rise of the sons of Aryas, there was an age undreamed of, when shining kingdoms lay spread across the world like blue mantles beneath the stars."_
 > _- Robert E. Howard_
 
-This chapter is for the GM. It covers the genre, the principles that govern your decisions, how to build and run a session, how to connect a group of anti-heroes at session zero, and how to run combat without a grid. Read it before your first session and return to it whenever a session feels wrong.
+This chapter is for the GM. It assumes you have read P1 §1 for the genre itself. What follows is how to _run_ that genre at the table: tone-setting, session structure, adjudication doctrine, session-zero work, and combat without a grid. Read it before your first session and return to it whenever a session feels wrong.
 
 ---
 
-## 1. The Genre
+## 1. Running the Style
 
-Warrior \* Sorcerer \* Rogue is a sword & sorcery game. That phrase describes a specific literary tradition with specific demands - not a set of visual aesthetics, but a moral and dramatic register that shapes what players experience when you run it well.
+The Player Book §1 defines what sword & sorcery is - the three touchstones, the doom-and-decay register, the anti-hero morality, the borders of the genre. This chapter assumes you have read that. What follows is how to translate the genre into the GM's actual craft: how to prepare yourself, how to set the tone at the table, and how to recognise and recover from drift toward generic fantasy.
 
-### 1.1 The Three Touchstones
+### 1.1 Reading the Source Material
 
-Three authors define the tradition and define this game. Know them before you run.
+You cannot run a tone you do not know. Before your first session, spend three evenings with three stories - one each from the touchstones:
 
-**Robert E. Howard** is the centre of gravity. His Conan stories - _The Tower of the Elephant_, _Red Nails_, _Beyond the Black River_, _The People of the Black Circle_ - establish the dominant tone: primal, brutal, fast. A barbarian in a decadent city. A stolen treasure. An encounter with something that should have stayed buried. Adventures end in blood and the hero walking away. Howard's world is dangerous by default. Civilization is hypocritical, its priests corrupt, its aristocrats vicious. The outsider sees clearly because he is not of it. Kull, Solomon Kane, and Bran Mak Morn extend the range: different times, different registers, but the same conviction that the world is older and stranger than anyone in it fully admits.
+- **Howard.** _The Tower of the Elephant_, _Red Nails_, or _Beyond the Black River_. Note: violence is quick, specific, and morally untidy. Magic is never explained; it is always costly. Civilisation is hypocritical. The hero is an outsider whose code is personal, not universal.
+- **Leiber.** _Ill Met in Lankhmar_ or _The Bazaar of the Bizarre_. Note: wit and texture. Two anti-heroes argue their way through the world. Adventures end in stolen purses and bittersweet losses. The city is its own character.
+- **Moorcock.** _While the Gods Laugh_ or _The Stealer of Souls_. Note: cost. Every spell, every alliance, every solution is paid for - usually more than the sorcerer expected. The Eternal Champion frame gives the world a tragic, cyclic quality.
 
-**Fritz Leiber** provides the urban accent. His Lankhmar stories - _Swords and Deviltry_, _Swords Against Death_, _Ill Met in Lankhmar_ - put sword & sorcery inside the city: fog-shrouded alleys, thieves' guilds, sardonic wit, picaresque capers. Fafhrd and the Grey Mouser are the first enduring duo of the genre; their bickering loyalty is the party-cohesion model. Leiber's adventures end in wit and a stolen purse, and often in something bittersweet - the companion not saved, the treasure cursed. His register is the one to reach for when your scenario involves politics, con artistry, and schemes within schemes.
+If you have a sorcerer PC in the group, also read one Clark Ashton Smith story (Hyperborea or Zothique cycle). Smith's sorcerers are the template for what your sorcerer-villain antagonists should feel like: small, doomed, often catastrophically wrong about what they have summoned.
 
-**Michael Moorcock** provides the sorcerous and cosmic accent. His Elric stories - _Elric of Melniboné_, _Stormbringer_, _The Sleeping Sorceress_ - take the genre to its darkest register: a doomed prince, a cursed blade, a patron that is also a predator. Magic in Moorcock's world is not a toolkit; it is a relationship with something vast and indifferent, and the cost of that relationship is always more than the sorcerer initially paid. The Eternal Champion framework gives Moorcock's world a cyclic, fatalistic quality - nothing is preserved forever, the wheel turns, empires fall. His register is the one to reach for when a sorcerer enters your scenario, or when the world's deep past begins to surface.
+These readings aren't homework. They are the only honest way to feel what the system is asking you to run. **PA3 Inspirational Influences** in the Player Book lists the broader canon if you want to go further.
 
-A session can sit anywhere on this triangle. A Howard-flavoured adventure turns Moorcock the moment a patron's demands are revealed. A Leiber-flavoured caper turns Howard the moment the sword comes out. You do not need to pick one and stay there; you need to know all three so you can navigate between them deliberately.
+### 1.2 Setting Tone at the Table
 
-For the broader list of inspirational influences - additional authors, films, music, art - see **PA3 Inspirational Influences** in the Player Book.
+A session opens with the GM's voice. Three things to establish in the first ten minutes:
 
-### 1.2 The Literary Register
+1. **The world is dangerous and old.** A passing description of ruin, weather, scent, or strange detail tells the players what era they are in. _"The wind brought the smell of old burning from the south. Two days ago. Maybe three."_ The PCs are in a world that does not need them.
+2. **The PCs are not the centre.** Their choices matter, but they are not chosen. They are people with histories, grudges, and debts. NPCs have lives that continue without them - the merchant they did not save will still be dead next week, but his cousin's revenge will come whether the PCs are there or not.
+3. **Sorcery is wrong.** When magic appears, it should feel transgressive - even friendly sorcery, even from a PC. Describe the wrongness: the smell of copper before a casting, the dimming of a lamp, the chill that should not be there, the way an animal in the room will not approach. NPCs notice. Some flinch. Some make a sign.
 
-Sword & sorcery operates in a specific emotional key.
+These aren't rules. They are cues that tell the table what genre the session is in.
 
-**The doom-and-decay register.** The world is late. What you see - cities, courts, temples, empires - is the newest and most fragile stratum over something much older and far more dangerous. Civilisations have risen and fallen before the current one was a rumour, and their ruins are everywhere, mostly unmapped, mostly unsafe. Sorcery is one of the things those fallen civilisations left behind: a technology from an older age, dangerous precisely because the people using it do not understand what they are touching.
+### 1.3 The Trap of Heroic Fantasy
 
-The doom-and-decay register produces urgency. If the present is always on borrowed time, what the PCs do today matters in a way that world-saving heroics never quite manage. They are scavenging at the edge of a late era, and they know it.
+The most common failure mode for a sword & sorcery session is drift toward high fantasy. The symptoms:
 
-**Cyclic history as setting frame.** Per G7 §1: the world's history is a repeating cycle of rise, over-reach, and collapse. The ruins the PCs explore are residue of earlier cycles. Someone always wants something from the old world, and the old world always wants something in return. You do not need to know your world's full deep history before play begins. Per G7 §1.2: the edge where your knowledge ends and the genuine unknown begins is where dread lives.
+- **Chosen-one logic.** The PCs are positioned as "the only ones who can save X." Wrong - they should be one of several options the world has, and they should act because they are paid, threatened, intrigued, or wounded, not because they are special.
+- **Dark Lord villains.** A campaign-spanning antagonist with an army threatening the world. Wrong - villains in this genre are small, specific, and motivated. Even powerful ones are usually after a particular thing: a relic, a child, the loss of a rival. Sauron does not belong here. Thoth-Amon does.
+- **Heroic NPC reception.** Townsfolk hailing the PCs as heroes. Wrong - in S&S, NPCs are wary of armed strangers, and even successful adventurers are viewed with suspicion. Reputation (P2 §8) is the mechanic; the fiction should follow it. The PCs walk into a tavern and the conversation drops half a beat.
+- **Save-the-village reflex.** The party decides to defend a settlement out of obligation. Per §3.4 below: let them, but give no extra credit for it. Their motivation should be coin, connection, or personal stake.
+- **Magic as toolkit.** A sorcerer PC casts freely, treating spells like tools in a workshop. Wrong - every spend is a transaction, and the cost accumulates. If the player is playing sorcery as utility, the genre's centre of gravity has slipped.
 
-**Anti-heroes with personal codes.** The PCs are not Good People. They are pragmatic outsiders with specific grudges, loyalties, hungers, and lines they will not cross - but the lines are personal, not universal. Conan is a thief and a mercenary who never asked to save the world but will burn down a temple to protect the woman he loves. The anti-hero has a code; the code is just not the one society would prefer.
+Catch the drift early. The longer a session has been running with chosen-one logic, the harder it is to bend back without breaking the players' immersion. When you notice it, adjust your next prep more than the current session: in the next adventure, make sure the hook is personal (Passion-engaged), the villain is small, and the world's care for the PCs is indifferent.
 
-This means your players' characters can make choices you might find uncomfortable, and those choices should be supported by the fiction. A PC who decides to take the money and let the village burn is not playing wrong. A GM who always contrives to punish that choice is running the wrong genre.
-
-### 1.3 What Sword & Sorcery Is Not
-
-It helps to know the borders. The following are not this genre:
-
-- **High fantasy heroism.** There is no Dark Lord. No one is saving the world. The personal goal is the goal.
-- **Pseudo-medieval Europe.** No knights, no jousts, no feudal hierarchy with serial numbers filed off. The setting is ancient-world: Mediterranean coasts, Persian steppes, Mesopotamian cities, jungle kingdoms, the Bronze Age sea.
-- **Utility magic.** Sorcery is not a toolkit of helpful effects. Every spell is a transaction with something that was not interested in sharing its power. The sorcerer who casts freely is the sorcerer who is not paying attention to what the cost is accumulating toward.
-- **Routine healing.** People heal slowly, with herbs and rest and time. Sorcerous healing exists but it is rare and costly. See P5 §5.3 and P6 §3 for the rules; see §5 of this chapter for the GM-side framing of recovery and pacing.
+When you cannot tell whether the session is drifting, return to the touchstone stories from §1.1. A re-read clears the fog.
 
 ---
 
