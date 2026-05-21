@@ -26,7 +26,7 @@
 
 * { box-sizing: border-box; }
 
-html { font-size: 18px; }
+html { font-size: 16px; }
 
 body {
   margin: 0;
@@ -491,13 +491,6 @@ tbody tr:nth-child(even) { background: var(--table-stripe); }
 .chapter-nav .next { text-align: right; }
 .chapter-nav .empty { visibility: hidden; }
 
-.chapter-nav .up {
-  flex: 0;
-  text-align: center;
-  white-space: nowrap;
-  padding: 0.6em 0.9em;
-}
-
 /* -------- Landing page intro -------- */
 
 .intro {
@@ -551,7 +544,6 @@ tbody tr:nth-child(even) { background: var(--table-stripe); }
 }
 
 @media (max-width: 720px) {
-  html { font-size: 16px; }
   .chapter-nav { flex-direction: column; }
-  .chapter-nav a, .chapter-nav .up { width: 100%; }
+  .chapter-nav a { width: 100%; }
 }

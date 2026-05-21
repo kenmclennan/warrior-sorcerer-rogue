@@ -23,8 +23,6 @@ layout: base.njk
     <span class="prev empty"></span>
   {% endif %}
 
-  <a class="up" href="{{ '/' | url }}">Contents</a>
-
   {% if next %}
     <a class="next" href="{{ ('/' + next.slug + '/') | url }}">
       <span class="label">Next</span>
