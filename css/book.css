@@ -64,11 +64,66 @@ body {
 #search {
   flex: 1;
   max-width: 22rem;
+  position: relative;
 }
 
-/* Pagefind UI sizing overrides (Pagefind ships its own CSS; these just
- * keep the search box from blowing out the header layout). */
+/* Pagefind UI overrides. The default UI renders results inline below
+ * the input - we make those results a floating dropdown so they don't
+ * push the header (or the rest of the page) around. */
 .pagefind-ui__form { font-size: 0.95rem; }
+
+.pagefind-ui__drawer {
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  right: 0;
+  width: min(38rem, 92vw);
+  max-height: 70vh;
+  overflow-y: auto;
+  padding: 1rem 1.2rem;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+  z-index: 100;
+}
+
+/* When there's nothing typed (or no results), Pagefind toggles the
+ * .pagefind-ui__hidden class on the drawer. Make sure the hidden state
+ * stays hidden. */
+.pagefind-ui__drawer.pagefind-ui__hidden { display: none; }
+
+.pagefind-ui__results-area { margin-top: 0; }
+.pagefind-ui__message { padding: 0 0 0.5rem 0; font-weight: 700; }
+
+.pagefind-ui__result {
+  padding: 0.6rem 0;
+  border-top: 1px solid var(--rule);
+}
+.pagefind-ui__result:first-of-type { border-top: 0; }
+
+.pagefind-ui__result-link {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.pagefind-ui__result-link:hover { text-decoration: underline; }
+
+.pagefind-ui__result-excerpt {
+  font-size: 0.92rem;
+  color: var(--muted);
+  margin-top: 0.25rem;
+}
+.pagefind-ui__result-excerpt mark {
+  background: #fff3a8;
+  color: inherit;
+  padding: 0 0.15em;
+}
+
+.pagefind-ui__result-nested {
+  margin-top: 0.4rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--rule);
+}
 
 /* -------- Main content container -------- */
 
