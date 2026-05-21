@@ -44,6 +44,7 @@ const baseList = [
   { num: "A3", slug: "a3-inspirational-influences", title: "Inspirational Influences" },
   { num: "A4", slug: "a4-names",                    title: "Names" },
   { num: "A5", slug: "a5-gm-examples",              title: "GM Examples" },
+  { num: "A6", slug: "a6-credits-and-attribution",   title: "Credits and Attribution" },
 ];
 
 function extractSections(slug) {

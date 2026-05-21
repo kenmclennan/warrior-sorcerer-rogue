@@ -48,6 +48,7 @@ The chapter source lives in `chapters/`. The links below open the markdown files
 - [A3. Inspirational Influences](chapters/a3-inspirational-influences.md)
 - [A4. Names](chapters/a4-names.md)
 - [A5. GM Examples](chapters/a5-gm-examples.md)
+- [A6. Credits and Attribution](chapters/a6-credits-and-attribution.md)
 
 ## Building the site locally
 
