@@ -47,7 +47,12 @@ function buildCrossRefTransform(chapterMap, pathPrefix) {
       const slug = chapterMap[code];
       if (!slug) return match;
       const anchor = `sec-${section.replace(/\./g, "-")}`;
-      return `<a class="xref" href="${pathPrefix}${slug}/#${anchor}">${match}</a>`;
+      // Display the link in the global-numbering form. "P5" -> "5",
+      // "PA1" -> "A1"; section number appends after a dot.
+      // Examples: "P4 §8" -> "§4.8", "PA1 §1.2" -> "§A1.1.2".
+      const num = code.slice(1);
+      const displayText = `§${num}.${section}`;
+      return `<a class="xref" href="${pathPrefix}${slug}/#${anchor}">${displayText}</a>`;
     });
   };
 }
