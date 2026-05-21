@@ -256,7 +256,7 @@ body {
   font-family: "SF Mono", Menlo, Consolas, monospace;
   font-size: 0.72rem;
   color: var(--accent);
-  min-width: 1.4rem;
+  min-width: 2.4rem;
   flex-shrink: 0;
 }
 
