@@ -53,7 +53,7 @@ Each weapon entry lists:
 
 **Damage modifier (dm):** Calculated from the average of STR and SIZ. See P2 §3.1 for the dm table.
 
-**Narrative range:** Weapon reach is described as Short (arm's length), Medium (sword reach), Long (spear reach), or All (the quarterstaff's versatility). These interact with combat spacing as described in P5 §2.3.
+**Narrative range:** Weapon reach is described as Short (arm's length), Medium (sword reach), Long (spear reach), or All (the quarterstaff's versatility). These interact with combat spacing as described in P5 §6.6.
 
 ### 2.2 Melee Weapons
 
