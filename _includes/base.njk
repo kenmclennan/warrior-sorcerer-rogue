@@ -15,77 +15,52 @@
       </button>
       <a class="site-title" href="{{ '/' | url }}">Warrior <span class="sep">*</span> Sorcerer <span class="sep">*</span> Rogue</a>
       <div id="search"></div>
-      <script>
-        window.addEventListener("DOMContentLoaded", function () {
-          new PagefindUI({
-            element: "#search",
-            showSubResults: true,
-            showImages: false,
-          });
-          var toggle = document.querySelector(".nav-toggle");
-          var sidebar = document.getElementById("sidebar");
-          var backdrop = document.querySelector(".sidebar-backdrop");
-          function setOpen(open) {
-            if (!sidebar) return;
-            sidebar.classList.toggle("open", open);
-            if (backdrop) backdrop.classList.toggle("visible", open);
-            if (toggle) toggle.setAttribute("aria-expanded", open ? "true" : "false");
-          }
-          if (toggle) toggle.addEventListener("click", function () {
-            setOpen(!sidebar.classList.contains("open"));
-          });
-          if (backdrop) backdrop.addEventListener("click", function () { setOpen(false); });
-        });
-      </script>
     </header>
 
-    {% set thisSlug = page.fileSlug %}
+    <div class="app">
+      {% set thisSlug = page.fileSlug %}
 
-    <aside id="sidebar" class="sidebar" aria-label="Table of contents">
-      <nav class="sidebar-nav">
-        <h3>Player-facing</h3>
-        <ul>
-          {% for c in chapters %}{% if c.side == "player" %}
-            <li>
-              <a href="{{ ('/' + c.slug + '/') | url }}"{% if c.slug == thisSlug %} aria-current="page" class="active"{% endif %}>
-                <span class="code">{{ c.code }}</span>
-                <span class="title">{{ c.title }}</span>
-              </a>
-            </li>
-          {% endif %}{% endfor %}
-        </ul>
+      <aside id="sidebar" class="sidebar" aria-label="Table of contents">
+        <nav class="sidebar-nav">
+          <ul class="chapters">
+            {% for c in chapters %}
+              {% set isActive = (c.slug == thisSlug) %}
+              <li class="chapter-item">
+                <div class="chapter-row{% if isActive %} active{% endif %}">
+                  <button class="toggle" type="button" aria-expanded="{% if isActive %}true{% else %}false{% endif %}" aria-controls="ch-{{ c.slug }}" aria-label="Toggle {{ c.title }} sections">
+                    <span class="chevron" aria-hidden="true">▸</span>
+                  </button>
+                  <a class="chapter-link" href="{{ ('/' + c.slug + '/') | url }}">
+                    <span class="num">{{ c.num }}</span>
+                    <span class="title">{{ c.title }}</span>
+                  </a>
+                </div>
+                {% if c.sections.length %}
+                  <ul id="ch-{{ c.slug }}" class="sections"{% if not isActive %} hidden{% endif %}>
+                    {% for s in c.sections %}
+                      {% if s.level == 2 %}
+                        <li>
+                          <a href="{{ ('/' + c.slug + '/#' + s.id) | url }}">
+                            <span class="num">{{ s.num }}</span>
+                            <span class="title">{{ s.title }}</span>
+                          </a>
+                        </li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </aside>
 
-        <h3>GM-facing</h3>
-        <ul>
-          {% for c in chapters %}{% if c.side == "gm" %}
-            <li>
-              <a href="{{ ('/' + c.slug + '/') | url }}"{% if c.slug == thisSlug %} aria-current="page" class="active"{% endif %}>
-                <span class="code">{{ c.code }}</span>
-                <span class="title">{{ c.title }}</span>
-              </a>
-            </li>
-          {% endif %}{% endfor %}
-        </ul>
+      <div class="sidebar-backdrop" aria-hidden="true"></div>
 
-        <h3>Appendices</h3>
-        <ul>
-          {% for c in chapters %}{% if c.side == "appendix" %}
-            <li>
-              <a href="{{ ('/' + c.slug + '/') | url }}"{% if c.slug == thisSlug %} aria-current="page" class="active"{% endif %}>
-                <span class="code">{{ c.code }}</span>
-                <span class="title">{{ c.title }}</span>
-              </a>
-            </li>
-          {% endif %}{% endfor %}
-        </ul>
-      </nav>
-    </aside>
-
-    <div class="sidebar-backdrop" aria-hidden="true"></div>
-
-    <main class="content">
-      {{ content | safe }}
-    </main>
+      <main class="content">
+        {{ content | safe }}
+      </main>
+    </div>
 
     <footer class="site-footer">
       <p>
@@ -94,5 +69,48 @@
         <a href="{{ '/p01-introduction/#sec-5-1' | url }}">Attribution.</a>
       </p>
     </footer>
+
+    <script>
+      (function () {
+        // Pagefind search UI.
+        if (window.PagefindUI) {
+          new PagefindUI({
+            element: "#search",
+            showSubResults: true,
+            showImages: false,
+          });
+        }
+
+        // Collapsible chapter toggles in the sidebar.
+        document.querySelectorAll(".sidebar .toggle").forEach(function (btn) {
+          btn.addEventListener("click", function (e) {
+            e.preventDefault();
+            var expanded = btn.getAttribute("aria-expanded") === "true";
+            var target = document.getElementById(btn.getAttribute("aria-controls"));
+            btn.setAttribute("aria-expanded", expanded ? "false" : "true");
+            if (target) target.hidden = expanded;
+          });
+        });
+
+        // Mobile sidebar slide-in toggle.
+        var navToggle = document.querySelector(".nav-toggle");
+        var sidebar = document.getElementById("sidebar");
+        var backdrop = document.querySelector(".sidebar-backdrop");
+        function setOpen(open) {
+          if (!sidebar) return;
+          sidebar.classList.toggle("open", open);
+          if (backdrop) backdrop.classList.toggle("visible", open);
+          if (navToggle) navToggle.setAttribute("aria-expanded", open ? "true" : "false");
+        }
+        if (navToggle) {
+          navToggle.addEventListener("click", function () {
+            setOpen(!sidebar.classList.contains("open"));
+          });
+        }
+        if (backdrop) {
+          backdrop.addEventListener("click", function () { setOpen(false); });
+        }
+      })();
+    </script>
   </body>
 </html>
