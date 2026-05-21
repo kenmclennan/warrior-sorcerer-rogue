@@ -17,8 +17,10 @@ __pycache__/
 _site/
 .cache/
 
-# Source reference PDFs that are NOT under the ORC License.
-# These are commercial copyright and must not be redistributed via this repo.
-# Only the BRP UGE document (ORC-licensed) is tracked.
-source/*.pdf
-!source/BasicRoleplaying-ORC-Content-Document.pdf
+# Working directories (kept locally, not version-controlled).
+# These hold source material analysis, draft plans, build scripts, and
+# the BRP UGE source PDF - useful at the desk, not on the public repo.
+notes/
+plans/
+scripts/
+source/
