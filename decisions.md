@@ -12,6 +12,53 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-21 - Collapsed to a single book; G1 dropped; G2-G7 renumbered to P8-P13
+
+**Context:** User re-read the (already-shrunk) G1 chapter and decided it added nothing. _"Ok, Having read G1 again I think I just want to drop that section. I don't like any of it. Lets reconfigure to a single book. remove g01. append g02 onwards after P07. rename files to continuous."_
+
+**Decision:** Collapse the Player Book / GM Book split. Drop G1 entirely. Renumber:
+
+- G2 → P8 (NPCs and Adversaries)
+- G3 → P9 (Bestiary)
+- G4 → P10 (NPC Sorcery and Patrons)
+- G5 → P11 (Treasure and Artifacts)
+- G6 → P12 (Hazards and Spot Rules)
+- G7 → P13 (The Deep Past)
+- GA1 → PA5 (GM Examples appendix)
+
+The book is now P1-P13 plus PA1-PA5: thirteen numbered chapters and five appendices. The player-side / GM-side distinction survives as descriptive language inside the chapters ("the player-facing Rabble rule is in P5 §8; this chapter is the GM's side") but no longer drives the file structure.
+
+**Mechanics of the change:**
+
+- `git rm chapters/g01-running-the-game.md`. The May-12 rewrite that reduced G1 to ~30 lines is the version that was dropped; nothing of substance is lost beyond the distillation paragraph, which already overlapped with P1 §1.
+- `git mv` for the six G2-G7 chapters and GA1 to their new p08-p13 / pa5 filenames. History is preserved.
+- Bulk find/replace across all chapter files: `\bG2\b`→`P8`, ..., `\bG7\b`→`P13`, `\bGA1\b`→`PA5`. Word-boundaries protected against unintended matches.
+- Chapter headers updated as part of the bulk replace (`# G2.` → `# P8.`).
+- P1 §3.1 chapter table rewritten in continuous order (no G/P split). Lead sentence reframed: _"Chapters use codes for cross-reference. The early chapters (P1-P7) cover what a player needs at the table... The later chapters (P8-P13) cover what the GM needs to run the world."_
+- P1 §3.4 (examples reference) and P1 §5.1 Reserved Material updated to drop "Player Book / GM Book" framing.
+- `_template.md`: chapter-ID examples updated to single-book sequence.
+- PA5 (was GA1) intro and §1 lead sentence updated: dropped the G1 framework reference, since G1 is gone. The hook-complications-reckoning structure is still demonstrated in the example narrative.
+- P2 chapter title for PA2 changed from "Examples" to "Play Examples" for clarity against PA5 "GM Examples".
+
+**Meta-docs:**
+
+- `CLAUDE.md`: lint glob simplified to `chapters/p*.md` (no more `chapters/g*.md`).
+- `PLAN.md`: chapter list rewritten to reflect single-book structure.
+- `progress.md`: chapter status table rewritten in P1-P13/PA1-PA5 order.
+- `design.md`: §3.1 ("Split into a Player Book and a GM Book") rewritten as "Be a single book, organised player-side then GM-side." §3.3 deferral about Player/GM Book division updated to reflect resolution.
+- `book-gm.md`, `book-player.md`: stale Phase 2 assembly placeholders deleted (never populated).
+
+**Reasoning:**
+
+- **G1 was doing nothing.** The May-12 cut had already taken it down to a one-paragraph distillation. On re-reading, even that paragraph was redundant with P1 §1, and the adjudication advice it once carried had already migrated to P12 §§10-11.
+- **The book split was vestigial.** The two-book structure made sense when the GM material was substantial and stylistically distinct. After the May-12 cuts to G1 and G7, and the consolidation of adjudication into G6 (now P12), the "GM Book" was a thin majority of GM-facing reference material plus two GM-side appendices. There was no need to physically separate it from the player-side material in the same volume.
+- **A single book serves the reader.** The genre-faithful pulp register reads as one continuous text. Cross-refs are simpler. The eventual published PDF will be one file. The chapter-codes table tells the player which range they care about and which range belongs to the GM.
+- **Continuous numbering removes a confusion vector.** Previously a reader could see "G4 NPC Sorcery and Patrons" and not know whether the G prefix mattered for cross-refs (it did) or whether the GM Book / Player Book were physical or conceptual (both, ambiguously). Continuous numbering makes it unambiguous: it is chapter 10 of a single book.
+
+**Verification:** `markdownlint-cli2` clean across all 18 chapters; `verify-cross-refs.py` reports 0 broken across 29 references.
+
+---
+
 ## 2026-05-12 - G7 expanded with worked examples: locales, NPCs, beasts
 
 **Context:** User flagged that the GM book needed drop-in tools beyond the generators. _"Have a look in horde's catalogue for archetypes in the howling wastes campaign... Quality is better than quantity. If we can provide a few adventure locales, npcs and beasts with a list of adventure hooks that show how they could be used then that would be helpful."_

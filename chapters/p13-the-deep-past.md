@@ -1,4 +1,4 @@
-# G7. The Deep Past
+# P13. The Deep Past
 
 > _"Between the time when the oceans drank Atlantis and the rise of the sons of Aryas, there was an age undreamed of."_
 > _- Robert E. Howard_
@@ -60,7 +60,7 @@ _The residue of a civilisation - what the PCs will find._
 | --- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Ruins**                | Physical structures - temples, citadels, harbours, roads, aqueducts - spread across a region. Each one is a site. Many have things living in them now.                                                                                                                                                                          |
 | 2   | **Texts**                | Grimoires, histories, star-charts, engineering manuals. Written in a dead language the PCs probably cannot read; valuable to sorcerers, scholars, and patrons. Also dangerous: the texts contain what the empire learned, and some of what they learned should not be loose in the world.                                       |
-| 3   | **Artifacts**            | Objects that still work, whose function is not always obvious. The mechanisms may be sorcerous, may be technological, may be both, may be neither. Artifacts are the primary treasure of ruins exploration. See G5 for artifact rules.                                                                                          |
+| 3   | **Artifacts**            | Objects that still work, whose function is not always obvious. The mechanisms may be sorcerous, may be technological, may be both, may be neither. Artifacts are the primary treasure of ruins exploration. See P11 for artifact rules.                                                                                         |
 | 4   | **A curse**              | Not a simple malediction but something woven into the land, the water, the air. Animals behave strangely in the affected region. Sorcerers dream badly. People who settle in the area age faster, or do not age at all, or develop particular fixations. The curse is not random - it is the residue of what the empire did.    |
 | 5   | **A remnant population** | People who survived the cataclysm, or their descendants, carrying the old culture into the present in changed form. They may not know what they once were. They may know exactly. They may be friendly; they may be deeply territorial; they may be something that was once human and has since moved in a different direction. |
 | 6   | **A sealed gate**        | The empire built something intended to contain - a prison, a barrier, an airlock between the world and something else. It is still sealed. The seals are old and stressed. Whatever built the gate wanted nothing to enter from this side; whatever is behind the gate has had a long time to think about getting out.          |
@@ -172,7 +172,7 @@ _What threatens the PCs inside the site. Combine two for a more complex location
 
 | D6  | Danger                     | Character                                                                                                                                                                                                                                                                                                                   |
 | --- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Undead**                 | The dead of this place have not rested. The form of the undead reflects what the site was: priests become hungry things with an echo of devotion; soldiers become automatons that still patrol a perimeter; scholars become something worse, because they understood what was happening to them. See G3 for undead entries. |
+| 1   | **Undead**                 | The dead of this place have not rested. The form of the undead reflects what the site was: priests become hungry things with an echo of devotion; soldiers become automatons that still patrol a perimeter; scholars become something worse, because they understood what was happening to them. See P9 for undead entries. |
 | 2   | **Beasts**                 | Animals - ordinary or otherwise - have made the site their territory. They have adapted to its specific conditions in ways that may no longer make them ordinary. The ruins are home turf to them; the PCs are intruders.                                                                                                   |
 | 3   | **The original guardians** | The defensive measures the empire put in place are still in operation. These may be sorcerous constructs, bound demons, automated mechanisms, or something else; they do not distinguish between the empire's enemies and strangers who arrived a thousand years too late.                                                  |
 | 4   | **Rival explorers**        | Other people are here with the same objective, or a conflicting one. They may be competitors, enemies, allies of convenience, or people with better intelligence about the site who have been waiting for someone else to deal with the first level.                                                                        |
@@ -185,7 +185,7 @@ _What makes the risk worthwhile. A site can have more than one._
 
 | D6  | Treasure Category  | Notes                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Artifact**       | An object of pre-cataclysm manufacture that still functions. Its function is not immediately obvious. Its function, when understood, is either enormously useful or enormously dangerous or both. See G5 for artifact rules.                                                                           |
+| 1   | **Artifact**       | An object of pre-cataclysm manufacture that still functions. Its function is not immediately obvious. Its function, when understood, is either enormously useful or enormously dangerous or both. See P11 for artifact rules.                                                                          |
 | 2   | **Lore**           | Knowledge in some fixed form - texts, star-charts, inscribed ritual workings, a sorcerer's annotated grimoire. Valuable to any sorcerer, scholar, or patron who deals in old knowledge. May be dangerous to possess; there may be others who want it and are willing to act on that want.              |
 | 3   | **An ally**        | Something trapped, imprisoned, or held here wants to be released and will owe a significant debt if the PCs manage it. Whether this debt is safe to collect depends entirely on what the something is and what it was imprisoned for.                                                                  |
 | 4   | **Mundane wealth** | Coin, gems, art objects, trade goods, accumulated offerings. The old world was rich. Its surplus is still here in some places, untouched because whoever held it last is no longer in a position to spend it. The wealth is real; getting it out is the problem.                                       |
@@ -202,7 +202,7 @@ The P6 spell list is what has survived the cataclysms in transmissible form. Pre
 
 - **Encoded in architecture.** The spell _is_ the building and it is still running. Entering is entering the working. Destroying the building ends the spell - if destruction is possible.
 - **Recorded in grimoires.** The text exists, but learning from it differs from a current grimoire: notation may be opaque, language dead, required components or ritual spaces gone. Working out a pre-cataclysm spell from first principles is genuinely rare and likely to attract attention from people who do not want that spell loose.
-- **Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See G5 for artifact rules.
+- **Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See P11 for artifact rules.
 
 **Lost technology.** Sword & sorcery's lost super-science sits alongside lost sorcery as a valid ingredient. To the people of the current age, advanced technology is indistinguishable from sorcery: a weapon firing coherent light is a "fire-lance of the old people"; a navigation device using orbital signals is an "oracle of the sky-watchers." Lost technology does not respond to the sorcerous current - iron-sensitivity (P6 §4) does not apply unless the item is also sorcerous. Identification typically requires Knowledge (Engineering) or Knowledge (Occult) rather than sorcerous analysis.
 
@@ -235,7 +235,7 @@ A slender spire jutting above its garden wall - jade-faced, bronze-banded, or cu
 
 1. **The Commission.** A patron wants a specific item from the workshop - a grimoire, an instrument, the master's own hand if it can be obtained. The PCs are paid to break in while the master is travelling. The travelling story turns out to be incorrect.
 2. **The Silence.** The master has not been seen for weeks. The servants in the garden are restless and dangerous. Something locked away upstairs is no longer locked. The local magistrate offers coin to anyone willing to investigate before it spreads.
-3. **The Inheritance.** The master is dead. A rival sorcerer (G7 §6.1) is moving to claim the workshop. The PCs can sell their services to either side, or to a third party who wants the tower destroyed before anyone inherits.
+3. **The Inheritance.** The master is dead. A rival sorcerer (P13 §6.1) is moving to claim the workshop. The PCs can sell their services to either side, or to a third party who wants the tower destroyed before anyone inherits.
 
 ### 5.2 The Ancient Ruins
 
@@ -262,7 +262,7 @@ A district of crooked unpaved streets, refuse heaps, and torchlight licking from
 
 - **The Tavern of the Three Knives.** The neutral meeting ground. Patrons of every faction drink here under truce; the landlord enforces it personally. Information is for sale, jobs are posted, and the seating arrangements communicate hierarchy to anyone who can read them.
 - **The Fences' Row.** A line of shop-fronts where stolen goods are turned to coin. Each fence specialises: gems, fine cloth, religious objects, weapons of unusual provenance. They do not compete; they refer.
-- **The Wolves' Den.** A walled compound housing the leadership of the quarter. The Prince of Thieves (G7 §6.5) sleeps here when he is in the city.
+- **The Wolves' Den.** A walled compound housing the leadership of the quarter. The Prince of Thieves (P13 §6.5) sleeps here when he is in the city.
 - **The Sewer Mouths.** The under-quarter. The professional thieves use the sewers as roads; the watch will not follow. Anyone hunted in the streets above can drop into the sewers if they know which gratings open.
 
 **Adventure Hooks:**
@@ -327,11 +327,11 @@ A city perched atop sheer cliffs of jade-blue and crimson stone, hidden in a val
 
 ## 6. Archetypal NPCs
 
-Six recurring figures, statted for drop-in use. Adjust characteristics for your campaign's power level and name them for your setting. Where an NPC overlaps with a G2 sample stat block, the entry here focuses on campaign use; refer to G2 for the alternative build.
+Six recurring figures, statted for drop-in use. Adjust characteristics for your campaign's power level and name them for your setting. Where an NPC overlaps with a P8 sample stat block, the entry here focuses on campaign use; refer to P8 for the alternative build.
 
 ### 6.1 The Sorcerer-Tyrant (Named Antagonist)
 
-A high priest of a sorcerous order whose ambitions extend past the order itself. Has bound a demon, walked a Patron compact, and learned spells from sources that no longer exist. Now holds a tower, a city, or a region in private fief. Negotiates only with peers; everyone else is a tool, an obstacle, or a resource. Distinct from the mid-tier sorcerer-villain in G2 §5.6 by sheer accumulated power and the established institution beneath him.
+A high priest of a sorcerous order whose ambitions extend past the order itself. Has bound a demon, walked a Patron compact, and learned spells from sources that no longer exist. Now holds a tower, a city, or a region in private fief. Negotiates only with peers; everyone else is a tool, an obstacle, or a resource. Distinct from the mid-tier sorcerer-villain in P8 §5.6 by sheer accumulated power and the established institution beneath him.
 
 ```text
 [Name], Sorcerer-Tyrant
@@ -361,7 +361,7 @@ Sorcery:
     Curse of Sorcery (level 3)
     Sorcerous Armor (level 3)
     Witch Sight (level 2)
-    Bound Demon command-word (situational; see G4)
+    Bound Demon command-word (situational; see P10)
 
 Talents:
   Arcane Insight - +20% to casting-related rolls.
@@ -384,7 +384,7 @@ acolyte will do).
 **Adventure Hooks:**
 
 1. **The Bargain.** The tyrant offers the PCs a job their employer will not match in coin. The job is real; the price is what they do not yet understand they are paying. A PC who accepts is marked, in ways that surface later.
-2. **The Captive.** A PC's contact, mentor, or kin is being held in the tower (G7 §5.1). The tyrant is not particularly interested in them - they are leverage against a third party - but extraction means going through the wards.
+2. **The Captive.** A PC's contact, mentor, or kin is being held in the tower (P13 §5.1). The tyrant is not particularly interested in them - they are leverage against a third party - but extraction means going through the wards.
 3. **The Patron's Eye.** Something the tyrant has summoned has noticed the PCs, perhaps because a PC carries something the patron wants. The tyrant will trade them safety for that item. Or kill them for it. The patron does not care which.
 
 ### 6.2 The Cunning Vizier (Professional, or Named)
@@ -468,7 +468,7 @@ Fate Point access: yes.  Likely spends: Steel-Eye, Hard To Kill, Deflect
 the Killing Blow.
 ```
 
-**Running the Hetman.** Commands eight to fifteen raiders (use Bandit Raider Rabble stats from G2 §5.2). Believes in personal combat; will accept a duel-challenge from anyone the band thinks credible. Will not break a hospitality oath, but interprets the oath narrowly. If the PCs prove tougher than his band thinks possible, he will hire them rather than fight them - assuming they are buyable, which is its own question.
+**Running the Hetman.** Commands eight to fifteen raiders (use Bandit Raider Rabble stats from P8 §5.2). Believes in personal combat; will accept a duel-challenge from anyone the band thinks credible. Will not break a hospitality oath, but interprets the oath narrowly. If the PCs prove tougher than his band thinks possible, he will hire them rather than fight them - assuming they are buyable, which is its own question.
 
 **Adventure Hooks:**
 
@@ -532,7 +532,7 @@ sorcery is small, but her information is large.
 
 ### 6.5 The Prince of Thieves (Named Antagonist)
 
-The acknowledged king of the city's underworld. Cleared the previous holder of the title five years ago and has refined the operation since. Knows everyone, owes a great many people, is owed by more. Plays at being a gentleman; rarely loses anything by it. His word in the Thieves' Quarter (G7 §5.3) is the law.
+The acknowledged king of the city's underworld. Cleared the previous holder of the title five years ago and has refined the operation since. Knows everyone, owes a great many people, is owed by more. Plays at being a gentleman; rarely loses anything by it. His word in the Thieves' Quarter (P13 §5.3) is the law.
 
 ```text
 [Name], Prince of the [quarter]
@@ -607,7 +607,7 @@ Other skills:
   Knowledge (Local Politics) 60%
 
 Notes: Maintains 2-4 bodyguards (Professionals; use the Mercenary Captain
-stat in G2 §5.3 as a model, scaled down). Will betray the PCs the moment
+stat in P8 §5.3 as a model, scaled down). Will betray the PCs the moment
 the betrayal becomes safer than continuing the partnership; will pretend
 not to until then. The threshold for "safer" is low.
 ```
@@ -624,7 +624,7 @@ not to until then. The threshold for "safer" is low.
 
 ## 7. Archetypal Beasts
 
-Six adversaries for the deep places. Stat blocks follow the G3 format; for the rules they reference, see P5 (combat), P6 (sorcery), and G3 §1 (creature entry conventions). Each entry includes adventure hooks - not encounters but seeds for sessions the beast can anchor.
+Six adversaries for the deep places. Stat blocks follow the P9 format; for the rules they reference, see P5 (combat), P6 (sorcery), and P9 §1 (creature entry conventions). Each entry includes adventure hooks - not encounters but seeds for sessions the beast can anchor.
 
 ### 7.1 Giant Serpent
 
@@ -687,7 +687,7 @@ A monstrous anthropomorphic horror in the form of a great pale-furred ape - shou
 **Adventure Hooks:**
 
 1. **The Vanishing Village.** Loggers and charcoalers are not returning from a stretch of forest. The local lord pays for the cause to be removed. The cause is one Gray Ape that has learned to take a single victim at a time and disappear before the next morning.
-2. **The Ruin-Watcher.** A Gray Ape has made its lair in the ruins the PCs need to enter (G7 §5.2). Killing it is one option; another is timing the entrance for noon, when it is asleep in the deepest chamber. The wrong choice splits the party between the threat and the objective.
+2. **The Ruin-Watcher.** A Gray Ape has made its lair in the ruins the PCs need to enter (P13 §5.2). Killing it is one option; another is timing the entrance for noon, when it is asleep in the deepest chamber. The wrong choice splits the party between the threat and the objective.
 3. **The Captive.** The Gray Ape has taken a PC ally or kin - alive, dragged into the dark. The recovery is a race against the ape's habits and the captive's wounds.
 
 ### 7.3 Shadow-Demon
@@ -720,7 +720,7 @@ A horror summoned from the gulfs of night by a sorcerer's working - a loping bla
 
 1. **The Hunted.** A PC has been marked for death by a sorcerer they have never met. A shadow is coming - tonight, tomorrow night, the night after. Locating the working before the binding fires is the only defence.
 2. **The Wrong Target.** A shadow is hunting an innocent third party. The PCs find them first. Protecting them means the PCs become the obstacle; the shadow will tear them apart to reach the target.
-3. **The Inheritance.** A dead sorcerer's workings have not all expired. A summoning circle in the ruin of his tower (G7 §5.1) is still active. Disturbing the wrong relic triggers a binding that has been waiting twenty years for a target.
+3. **The Inheritance.** A dead sorcerer's workings have not all expired. A summoning circle in the ruin of his tower (P13 §5.1) is still active. Disturbing the wrong relic triggers a binding that has been waiting twenty years for a target.
 
 ### 7.4 Iron Statues (Cursed Warriors)
 
@@ -776,7 +776,7 @@ Gray, hairy, almost-human things that walk upright but speak only a gibberish no
 - **Damage Modifier:** +1D4
 - **Attacks:** Grasp 45% / Grapple (STR 14 vs target STR); Bone-Knife 50% / 1D4+1+dm (Pierce); Net (carried) 40% / immobilise.
 - **Special Abilities:**
-  - _Drag to Water._ A grappled target is dragged toward the nearest deep water or pit. A target dropped into the underground river is in immediate drowning danger (G6 §7.2).
+  - _Drag to Water._ A grappled target is dragged toward the nearest deep water or pit. A target dropped into the underground river is in immediate drowning danger (P12 §7.2).
   - _Coordinated Hunters._ Servants hunt in groups of three to six and communicate by gestures and clicks; Easy attacks when three or more flank a single target.
   - _Long Memory._ Once a creature has entered their domain, they remember it. Returning to the same palace decades later means meeting the same servants - and they know what worked last time.
 - **Morale:** Drives off when half their number have fallen, then returns the next night with the rest.
@@ -816,6 +816,6 @@ The last of an elder race that ruled the world before humanity rose from the mir
 
 **Adventure Hooks:**
 
-1. **The Vizier.** The Cunning Vizier (G7 §6.2) the PCs have been dealing with is Serpent-Folk. Detection is the first step; deciding what to do with that knowledge is the larger problem. The king will not believe them without proof, and the proof is dangerous to obtain.
+1. **The Vizier.** The Cunning Vizier (P13 §6.2) the PCs have been dealing with is Serpent-Folk. Detection is the first step; deciding what to do with that knowledge is the larger problem. The king will not believe them without proof, and the proof is dangerous to obtain.
 2. **The Order.** A nest of Serpent-Folk operates from beneath a city the PCs are visiting - a literal nest, in tunnels below the foreign quarter. A sorcerer PC has detected their presence via Witch Sight. Reporting them means choosing who in the city to trust.
 3. **The Long Game.** A Serpent-Folk the PCs killed years ago in another campaign is back - or, more accurately, a successor has been placed in the same role, executing the same plan with the same patience. The PCs are now part of the records the order keeps.

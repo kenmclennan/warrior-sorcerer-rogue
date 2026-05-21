@@ -1,10 +1,10 @@
-# G3. Bestiary
+# P9. Bestiary
 
 > _"The wilderness harbours things that do not care about your courage, your reputation, or your sword. They are simply hungry, or ancient, or both."_
 
 Stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and elementals, plus the Chaotic Features table for generating unique demons and mutated things. Stat blocks are GM-side only; players encounter these creatures through description and dice, not foreknowledge.
 
-Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 §7 (player-side summoning) and G4 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in G4.
+Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 §7 (player-side summoning) and P10 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in P10.
 
 ---
 
@@ -16,7 +16,7 @@ Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 
 
 **Major Wound Threshold** - Half HP (round up). Most creatures do not roll on the Major Wounds Table; the GM narrates the wound's effect from the attack type and creature's nature.
 
-**Bestiary HP and the PC/NPC formula split.** P2 §3.1 and G2 §1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
+**Bestiary HP and the PC/NPC formula split.** P2 §3.1 and P8 §1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
 
 ### 1.2 Named Creatures
 
@@ -781,7 +781,7 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
 
 Demons are entities of the outer dark - not from this world, not concerned with its values, fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
 
-For GM demon design tools, patron relationships, and what happens when a binding breaks, see G4. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with P6 §7. When a demon appears, it should feel like a significant event.
+For GM demon design tools, patron relationships, and what happens when a binding breaks, see P10. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with P6 §7. When a demon appears, it should feel like a significant event.
 
 ### 5.1 Lesser Demon
 
@@ -882,7 +882,7 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
 
 An elemental is not a demon. It does not negotiate, does not have a personal agenda, and has no interest in binding. It is a vast and focused intelligence that is also, essentially, a large portion of a primal element made semi-coherent. This does not make it safe.
 
-Elementals are summoned via the Summon Elemental working (G4). Each is a distinct entity - a particular surge of fire, a column of earth - not a type of creature with interchangeable members. The elemental called tonight is new; it does not remember being called before. Elementals do not value human life, property, or time. An elemental given direction by a sorcerer will pursue that direction; when it has completed the task or the binding expires, anything in its way back to its element is not its concern.
+Elementals are summoned via the Summon Elemental working (P10). Each is a distinct entity - a particular surge of fire, a column of earth - not a type of creature with interchangeable members. The elemental called tonight is new; it does not remember being called before. Elementals do not value human life, property, or time. An elemental given direction by a sorcerer will pursue that direction; when it has completed the task or the binding expires, anything in its way back to its element is not its concern.
 
 The "sylph," "gnome," "salamander," "undine" labels are names given by scholars who needed to call them something. The elementals neither know nor care.
 

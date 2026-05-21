@@ -71,7 +71,7 @@ Characteristic rolls follow the same four outcome tiers as skill rolls (Critical
 
 **HP = CON + SIZ** (PCs and Named Antagonists).
 
-HP represents how much physical punishment a character can absorb before being incapacitated. PCs and Named Antagonists use the full CON+SIZ formula; lower-tier NPCs (Professionals and Rabble) use (CON+SIZ)/2 rounded up. This makes PCs durable enough to take serious wounds and keep fighting in the genre tradition. See P5 §5 for wound thresholds (Major Wound = half HP, rounded up); see G2 §1 for NPC tier HP rules.
+HP represents how much physical punishment a character can absorb before being incapacitated. PCs and Named Antagonists use the full CON+SIZ formula; lower-tier NPCs (Professionals and Rabble) use (CON+SIZ)/2 rounded up. This makes PCs durable enough to take serious wounds and keep fighting in the genre tradition. See P5 §5 for wound thresholds (Major Wound = half HP, rounded up); see P8 §1 for NPC tier HP rules.
 
 ### 3.2 Power Points
 
@@ -98,7 +98,7 @@ The damage modifier applies to all melee and thrown weapon attacks. For thrown a
 
 ### 3.4 Movement Rate
 
-**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See G6 §8 for chase rules.
+**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See P12 §8 for chase rules.
 
 ### 3.5 Experience Bonus
 
@@ -621,7 +621,7 @@ A starting sorcerer may choose to have already entered a patron compact. This is
 1. Name the patron or describe its nature (demon lord, chaos power, dead god, old elemental intelligence). The specifics are yours and the GM's to develop.
 2. Record **Patron Score = 1D6+5** (roughly 6-11 at creation).
 3. You receive the patron's PP reserve benefit and Patron Intercession access as described in P6 §3.2.
-4. The patron is watching from the start. High Patron Scores draw attention; see G4 for what patrons actually want.
+4. The patron is watching from the start. High Patron Scores draw attention; see P10 for what patrons actually want.
 
 **If you do not take a patron:**
 Record Patron Score as **None.** The option to enter a compact later remains open - it is a story event, not a chargen lock.

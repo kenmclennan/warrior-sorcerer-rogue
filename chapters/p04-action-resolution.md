@@ -222,7 +222,7 @@ Power Points are spent by:
 - **Other Fate Point spends (P4 §7).** Fixed-cost spends from the menu - re-rolls, defensive responses, forcing a success.
 - **Talents (P2 §4).** Certain talent abilities have a PP cost listed in their description.
 
-Named antagonists and competent NPC foes have their own PP pools, spent under the same rules. Rabble have no PP and no access to any PP-spend ability. See G2 §1 for the NPC tier model.
+Named antagonists and competent NPC foes have their own PP pools, spent under the same rules. Rabble have no PP and no access to any PP-spend ability. See P8 §1 for the NPC tier model.
 
 ---
 

@@ -1,4 +1,4 @@
-# G5. Treasure and Artifacts
+# P11. Treasure and Artifacts
 
 > _"He had come to loot the tomb - but the tomb had been waiting for him."_
 
@@ -19,7 +19,7 @@ The four-tier coin system (see P7 §1 for the full currency table) gives you an 
 | Stater | Silver        | A craftsman's weekly income; a quality weapon  |
 | Sun    | Gold          | A merchant's transaction; a year's income      |
 
-**Presenting coin as treasure:** Describe it. Old coins differ from current coins - a fistful of gold Suns minted by a dynasty three centuries ash is treasure and a historical document simultaneously. G7 has suggestions for linking coin lineages to fallen empires.
+**Presenting coin as treasure:** Describe it. Old coins differ from current coins - a fistful of gold Suns minted by a dynasty three centuries ash is treasure and a historical document simultaneously. P13 has suggestions for linking coin lineages to fallen empires.
 
 **Coin condition:** Freshly minted coin is face value. Shaved or clipped coin: 50-80% at a reputable money-changer, 70-90% on the street. Ancient coin of pure metal may exceed face value if the empire that minted it is now legendary.
 
@@ -131,7 +131,7 @@ Creating an artifact requires three things: time, permanent POW, and a specific 
 
 **The ritual:** Creating an artifact is not a standard casting. It requires:
 
-- A dedicated working space (the creator's laboratory, a ritual circle, or a place of sorcerous significance). The Brazier of Power (see G4 §6) provides the ideal environment.
+- A dedicated working space (the creator's laboratory, a ritual circle, or a place of sorcerous significance). The Brazier of Power (see P10 §6) provides the ideal environment.
 - Time equal to one day per spell being bound, spent in uninterrupted focus.
 - A successful Knowledge (Occult) roll for each spell being bound. Each roll is made separately. A failure means that spell's binding fails - the POW is still sacrificed, but the spell is not bound. The creator knows immediately. They may attempt a second binding on the same item for the same spell, paying the POW cost again.
 - Components appropriate to the item and the spell - a sword being bound with Hell's Razor needs blood shed during the working; an amulet being bound with Inescapable Bonds needs cord woven from the hair of someone successfully bound.
@@ -166,7 +166,7 @@ Reduce an artifact's HP to 0 to destroy it. An artifact's HP equals its SIZ (a b
 
 When destroyed, the POW invested is permanently lost - the creator's POW does not recover, ever. The PP reservoir disperses instantly.
 
-Artifacts take damage through normal object mechanics (a sword artifact is damaged by a successful enemy parry, not casual attack). Deliberate destruction requires targeting the object specifically - use the Damaging Objects rules from G6.
+Artifacts take damage through normal object mechanics (a sword artifact is damaged by a successful enemy parry, not casual attack). Deliberate destruction requires targeting the object specifically - use the Damaging Objects rules from P12.
 
 ### 2.6 Artifacts in the GM's Hands
 
@@ -299,7 +299,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Ward (3 PP) and Summon (bound pattern, see below).
 
-**Effect:** When opened and a handful of salt scattered in a circle, Ward activates automatically (no action required) creating a sorcerous ward around the circle at no PP cost. The jar maintains a permanent slow-burn Ward with its own PP. The second binding is unusual: the Jar contains a partial binding pattern for a Lesser Demon of the Shallow Waters (see G3 §4 for base statistics). Scattering salt in standing water activates the summons at a cost of 6 PP. The demon arrives but is not bound - the binding must still be negotiated normally. The salt gives the summoner a +10% to their first Knowledge (Occult) roll in the negotiation only.
+**Effect:** When opened and a handful of salt scattered in a circle, Ward activates automatically (no action required) creating a sorcerous ward around the circle at no PP cost. The jar maintains a permanent slow-burn Ward with its own PP. The second binding is unusual: the Jar contains a partial binding pattern for a Lesser Demon of the Shallow Waters (see P9 §4 for base statistics). Scattering salt in standing water activates the summons at a cost of 6 PP. The demon arrives but is not bound - the binding must still be negotiated normally. The salt gives the summoner a +10% to their first Knowledge (Occult) roll in the negotiation only.
 
 **Cost to use:** The Ward is always active while the jar has PP. The summons costs 6 PP.
 

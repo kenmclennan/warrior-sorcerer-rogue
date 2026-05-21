@@ -24,7 +24,7 @@ Secondary inspirations, permitted to colour scenarios:
 A game is sword & sorcery, for our purposes, when it has most or all of these:
 
 1. **Pulp action with personal stakes.** PCs have their own motivations: wealth, revenge, escape, glory, a particular love or grudge. They are not heroes out to save the world; their concerns are immediate and self-interested.
-2. **Anti-heroes with personal codes.** Conan is a thief, mercenary, raider, and king but never *noble*. Mouser is a confidence man. Elric is a kinslayer. PCs are pragmatic outsiders, not Good People with quirks.
+2. **Anti-heroes with personal codes.** Conan is a thief, mercenary, raider, and king but never _noble_. Mouser is a confidence man. Elric is a kinslayer. PCs are pragmatic outsiders, not Good People with quirks.
 3. **Ancient world setting.** Grounded in real ancient cultures (Rome, Greece, Persia, Mesopotamia, Egypt, the Bronze Age steppe) rather than pseudo-medieval Europe. Skills, gear, abilities, and tech reflect this.
 4. **Deep cyclic history.** The current world rests on the ruins of fallen civilizations and pre-cataclysm cultures. Adventures involve uncovering knowledge and powers that "should have stayed buried." The world is older and stranger than its inhabitants know.
 5. **Exceptional but mortal heroes.** PCs are at the upper edge of human ability; luck mechanics let them handle ordinary foes with ease and survive things that should kill them. But death remains possible - the right adversary can still claim them.
@@ -34,7 +34,7 @@ A game is sword & sorcery, for our purposes, when it has most or all of these:
 9. **Civilization vs barbarism tension.** Civilization is decadent and hypocritical; the outsider sees it clearly because they are not of it. Most PCs are outsiders to whatever city they are working in.
 10. **Science fiction permitted.** ERB-style planetary romance and lost super-science sit alongside lost sorcery. "Advanced technology indistinguishable from magic" is a valid antagonist or treasure.
 
-### 1.3 What Sword & Sorcery Is *Not* (For This System)
+### 1.3 What Sword & Sorcery Is _Not_ (For This System)
 
 To sharpen the positive choices, the system explicitly rejects:
 
@@ -43,8 +43,8 @@ To sharpen the positive choices, the system explicitly rejects:
 - **Tolkien-style demi-humans as PCs.** No elves, dwarves, halflings.
 - **Magic as utility.** Sorcery is not a helpful toolkit of useful spells.
 - **Routine healing magic.** No Cure Light Wounds, no white mages dropping heals between fights. Sorcerous healing exists but is rare, costly, and never the default recovery path.
-- **Zero-to-hero arcs.** PCs start exceptional. Growth happens in *experience and reputation*, not raw capability.
-- **Save-the-village morality.** Heroes can be *paid* to save the village. They will not do it for free.
+- **Zero-to-hero arcs.** PCs start exceptional. Growth happens in _experience and reputation_, not raw capability.
+- **Save-the-village morality.** Heroes can be _paid_ to save the village. They will not do it for free.
 - **Pulp-era prejudice.** The genre's regrettable racial and gender attitudes do not survive the port.
 
 ---
@@ -79,7 +79,7 @@ Aesthetic principles for the spell list, regardless of the eventual mechanic:
 
 Combat is **simulationist underneath, pulp on the surface**. BRP UGE's detailed combat (hit locations, specific weapon characteristics, parry/dodge interplay) is preserved because it produces visceral, consequential fights. But it is tuned for a pulpier feel through:
 
-- **Mook handling.** Ordinary foes go down quickly and don't drag fights out. Soldiers, thugs, and city guards are not BRP-standard combatants - they are *sketches* of combatants, designed to be dispatched. (Whether BRP UGE provides this natively or we borrow from another BRP variant is a chapter-time decision.)
+- **Mook handling.** Ordinary foes go down quickly and don't drag fights out. Soldiers, thugs, and city guards are not BRP-standard combatants - they are _sketches_ of combatants, designed to be dispatched. (Whether BRP UGE provides this natively or we borrow from another BRP variant is a chapter-time decision.)
 - **Luck / Hero points.** A finite resource that lets PCs reroll, deflect a killing blow, or pull off the cinematic move. Their existence is what makes the system pulpy without abandoning lethality.
 - **Wounds matter, but the protagonist wins.** A PC can take a wound that would cripple an NPC and still walk out, scarred and limping. Death remains possible at all times - especially against named foes or sorcerous powers.
 
@@ -117,7 +117,7 @@ The system must:
 
 - **Be a focused, opinionated extraction.** Each chapter takes the BRP UGE material relevant to sword & sorcery and ruthlessly trims, modifies, or replaces it to serve the genre. We are not building a toolkit; we are building one game.
 - **Be playable standalone.** A reader with our materials should not need to consult BRP UGE itself to play. Where we keep BRP rules, we copy them in (under the ORC License).
-- **Split into a Player Book and a GM Book.** The Player Book holds what a player needs at the table: character creation, skills, combat from the player's perspective, magic from the caster's perspective, equipment, luck rules. The GM Book holds what a GM needs: running the game, bestiary, NPC sorcerers, scenario seeds, treasure, optional modules.
+- **Be a single book, organised player-side then GM-side.** P1-P7 hold what a player needs at the table: character creation, skills, combat from the player's perspective, magic from the caster's perspective, equipment, luck rules. P8-P13 hold what a GM needs: NPCs, bestiary, NPC sorcerers, treasure, hazards and spot rules, deep-past worldbuilding tools. The single-book structure was adopted on 2026-05-21; the previous two-book split was found to add bookkeeping without serving the reader.
 - **Run online without a VTT.** Combat is theatre-of-mind compatible. No grid, no positional measurements, no flanking geometry. Verbal description and a shared character sheet carry the play.
 - **Carry tactical depth in player-facing options, not in resolution complexity.** Players who want tactical richness get it through BRP's existing texture (percentile rolls, hit locations, weapon characteristics, parry/dodge, criticals/specials), through character specialisation, and through spell and equipment choices. The GM-facing rules stay lean so a session runs without bookkeeping overhead.
 - **Stay faithful to BRP's percentile, skill-based identity.** Characters are described by skills, percentile rolls resolve actions, hit locations matter, combat is dangerous. We tune BRP, we do not replace it.
@@ -125,7 +125,7 @@ The system must:
 - **Make characters feel distinctive without classes.** Without class templates, distinctiveness has to come from elsewhere: backgrounds/cultures, skill specialisation, personality or passion mechanics, distinguishing traits, signature equipment. We canonise BRP UGE features that produce this and design our own where the source is thin.
 - **Provide hooks for party cohesion.** Beyond "shared reason to be here" (§4.3), the system should offer mechanics that bind PCs together: shared histories, common enemies, mutual debts, perhaps cooperative abilities that trigger when PCs combine actions. Same approach: canonise what BRP UGE offers, watch for it during chapter review, design where missing.
 - **Keep rules text uncluttered.** Examples live in a dedicated appendix, not interleaved with the rules. The at-table reference stays clean.
-- **Provide enough scaffolding to run a session** (in the GM Book). Genre primer, sample bestiary of antagonists, scenario seeds - so a GM with no prior exposure to the source material can still run a session that *feels* like sword & sorcery.
+- **Provide enough scaffolding to run a session** (in the GM-side chapters). Sample bestiary of antagonists, archetypal NPCs and locations with adventure hooks - so a GM with no prior exposure to the source material can still run a session that _feels_ like sword & sorcery.
 
 ### 3.2 Will Not Do
 
@@ -133,11 +133,11 @@ The system explicitly will not:
 
 - **Become D&D in disguise.** No classes, no levels, no Vancian spell preparation, no alignment, no "challenge ratings."
 - **Be a generic BRP supplement.** No "use this magic system if you want a high fantasy campaign." Every rule choice is for our genre.
-- **Include a defined setting.** We provide world *assumptions* (deep history, ancient cultures, fallen empires) but no specific named cities, gods, or NPCs. The GM brings the setting.
+- **Include a defined setting.** We provide world _assumptions_ (deep history, ancient cultures, fallen empires) but no specific named cities, gods, or NPCs. The GM brings the setting.
 - **Require a grid or VTT for combat.** No movement-per-square, no flanking diagrams, no opportunity-attack-when-leaving-threatened-square geometry.
 - **Maximise optional rules.** BRP UGE is rich with options. We canonise a small number, drop most, modify some. The books are opinionated.
 - **Interleave examples with rules text.** Examples sit in a clearly-separated appendix.
-- **Over-extend the page count.** Compactness is a feature in both books.
+- **Over-extend the page count.** Compactness is a feature.
 - **Survive the source's prejudices.** Race, gender, and culture are handled with modern care.
 
 ### 3.3 Open Questions
@@ -148,14 +148,14 @@ Things deferred to chapter-time decisions:
 - **Mook handling.** Whether BRP UGE has minion rules natively or we borrow (see §2.3).
 - **Death and replacement.** Pulp mortality is established, but the replacement loop (legacy characters? fresh roll-ups? a stable of NPCs that get promoted?) needs concrete mechanics.
 - **The lightweight-vs-tactical tension.** Some players want depth in combat choices; the GM wants fast resolution. The principle in §3.1 (depth via BRP's existing texture, not via added complexity) is our guide, but every chapter will need real judgement.
-- **Player Book vs GM Book division.** What goes where, especially for magic - PC casting goes in the Player Book; NPC sorcery, ritual magic, and patron-design tools go in the GM Book.
-- **Sample setting fragments in the GM Book.** Worked examples (a sample city, a sample cult, a sample lost ruin)? Risk: implicit setting creep.
+- **Player-side vs GM-side division.** What goes where, especially for magic - PC casting in P6; NPC sorcery, ritual magic, and patron-design tools in P10.
+- **Sample setting fragments on the GM side.** Worked examples (a sample city, a sample cult, a sample lost ruin)? Risk: implicit setting creep. P13 §§5-7 now contains archetypal examples without naming a specific setting.
 
 ---
 
 ## 4. Player Experience
 
-*What a session of Warrior \* Sorcerer \* Rogue should feel like at the table.*
+_What a session of Warrior \* Sorcerer \* Rogue should feel like at the table._
 
 ### 4.1 The Shape of a Session
 
@@ -167,9 +167,9 @@ Saving the world is not on the menu. The personal goal is.
 
 ### 4.2 What Players Decide
 
-At the moment-to-moment level, players choose **what their character does** - the BRP percentile mechanic resolves whether it succeeds. There is no resource-management mini-game and no encounter budget to balance. Players think in *fictional* terms ("I want to climb the wall," "I want to talk my way past the guards") and the GM and the rules adjudicate.
+At the moment-to-moment level, players choose **what their character does** - the BRP percentile mechanic resolves whether it succeeds. There is no resource-management mini-game and no encounter budget to balance. Players think in _fictional_ terms ("I want to climb the wall," "I want to talk my way past the guards") and the GM and the rules adjudicate.
 
-At the larger level, players make **character decisions**: which jobs to take, who to trust, when to flee, when to swear a vow, when to break one. The personal-stakes framing gives every PC a *reason* to be in the story. A PC without a reason gets one before play begins.
+At the larger level, players make **character decisions**: which jobs to take, who to trust, when to flee, when to swear a vow, when to break one. The personal-stakes framing gives every PC a _reason_ to be in the story. A PC without a reason gets one before play begins.
 
 Magic-using PCs make a third kind of decision: **whether to pay the cost**. Every time a sorcerer reaches for a spell, they are choosing which of their dooms to advance.
 
@@ -177,13 +177,13 @@ Magic-using PCs make a third kind of decision: **whether to pay the cost**. Ever
 
 The system supports parties of **one to about six** PCs, with **two to four** as the sweet spot. The genre is friendly to small numbers - Conan rides alone, Fafhrd and Mouser as a duo, Elric with one or two companions at a time. Larger groups can play but should expect Lankhmar-style gang dynamics rather than a balanced D&D adventuring party.
 
-PCs do not need to like each other. They need a *reason* to be in the same place at the same time - shared employer, shared enemy, shared escape. Friendship is allowed but not required.
+PCs do not need to like each other. They need a _reason_ to be in the same place at the same time - shared employer, shared enemy, shared escape. Friendship is allowed but not required.
 
 ### 4.4 Wins and Losses
 
 A win looks like: **the personal goal achieved, the loot in hand, the heroes alive**. It usually involves blood, scars, betrayal of someone, and the loss of something - a friend, a possession, an oath.
 
-A loss looks like: **death**, or **survival at unbearable cost** - a limb, a piece of sanity, a soul, an obligation that cannot be paid. PCs can die. Characters more often *fail* than *die*, but death is in the deck of every session.
+A loss looks like: **death**, or **survival at unbearable cost** - a limb, a piece of sanity, a soul, an obligation that cannot be paid. PCs can die. Characters more often _fail_ than _die_, but death is in the deck of every session.
 
 The genre's defining victory is **escape with the bag**, not **vindication of the moral order**. The heroes do not improve the world. They survive it, and live to tell.
 

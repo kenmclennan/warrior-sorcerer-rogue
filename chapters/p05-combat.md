@@ -322,7 +322,7 @@ A Rabble is never a named character. The moment an NPC becomes plot-relevant or 
 
 **Rabble have no Fate Point access.** They cannot spend PP on any option from the menu in P4 §7.
 
-For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see G2 §1.
+For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see P8 §1.
 
 ---
 

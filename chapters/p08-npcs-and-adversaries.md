@@ -1,4 +1,4 @@
-# G2. NPCs and Adversaries
+# P8. NPCs and Adversaries
 
 > _"There were at least a score of them - hard, lean, wolfish men, with a sprinkling of black-bearded nomads among them."_
 > _- Robert E. Howard_
@@ -39,7 +39,7 @@ Named antagonists are PC-grade characters: individuals with full stat blocks, Fa
 
 **Mechanical profile.** Build named antagonists exactly as you would build a PC (see P2 for the chargen procedure). All the same rules apply: characteristics, derived stats, skills, talents, passions, reputation. **HP uses the full PC formula: CON + SIZ** (not the half formula used by Rabble and Professionals). The GM version of a named antagonist has full Fate Point access - their Power Points can fund defensive spends, and they will use them when the stakes are high enough.
 
-For sorcerer-villain antagonists, apply the full Sorcery rules from P6. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in G4 (NPC Sorcery and Patrons); the stat blocks in §5 of this chapter include a worked example.
+For sorcerer-villain antagonists, apply the full Sorcery rules from P6. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in P10 (NPC Sorcery and Patrons); the stat blocks in §5 of this chapter include a worked example.
 
 ---
 
@@ -198,7 +198,7 @@ Sorcerer-villain antagonists have a Corruption track and may have a Patron Score
 
 **Corruption as a signal.** Corruption level shows how far the sorcerer has gone. Near the Breaking Point means they have sold something fundamental - let that show in their behaviour and decisions.
 
-Cross-reference G4 for patron design, ritual magic, and demon binding. This chapter provides the stat block; G4 provides what is behind it.
+Cross-reference P10 for patron design, ritual magic, and demon binding. This chapter provides the stat block; P10 provides what is behind it.
 
 ### 4.4 The Recurring Antagonist
 
@@ -468,7 +468,7 @@ it is interested in the Codex of the Third Circle, which it sent her to
 retrieve. If she fails, another agent will be found. Nashtira knows this,
 which explains both her ruthlessness and her desperation.
 
-Cross-reference G4 for the Devouring Lattice's full patron profile and the
+Cross-reference P10 for the Devouring Lattice's full patron profile and the
 Patron Intercession mechanics at Patron Score 14.
 ```
 

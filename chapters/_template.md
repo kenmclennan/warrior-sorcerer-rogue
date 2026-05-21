@@ -4,14 +4,14 @@ Chapter authoring template for Warrior * Sorcerer * Rogue.
 To start a new chapter, copy this file:
   cp chapters/_template.md chapters/<C>-<kebab-name>.md
 
-where <C> is the chapter ID from notes/chapter-mapping.md (P1, P2, ..., PA1, PA2, G1, ..., GA1)
+where <C> is the chapter ID from notes/chapter-mapping.md (P1-P13, PA1-PA5)
 lowercased, with single-digit numerics zero-padded for natural sort.
 
 Examples:
   chapters/p01-introduction.md
   chapters/p04-action-resolution.md
+  chapters/p10-npc-sorcery-and-patrons.md
   chapters/pa1-critical-hit-tables.md
-  chapters/g04-npc-sorcery-and-patrons.md
 
 Conventions (full detail in PLAN.md Conventions section):
   - Sections numbered (1, 2, 3, ...) for cross-reference clarity
@@ -19,7 +19,7 @@ Conventions (full detail in PLAN.md Conventions section):
   - Cross-references between chapters use chapter ID + section: "See P5 §3 for parry rules."
   - Hyphens, not emdashes
   - British English spelling
-  - Examples go in PA2 (Player Book) or GA1 (GM Book) appendices, never in rules text
+  - Examples go in PA2 (play examples) or PA5 (GM prep examples), never in rules text
   - Cite locked decisions inline only when the rule is non-obvious; do not over-cite
   - Sidebars and call-outs allowed for designer notes; never interleaved with rules text
 -->

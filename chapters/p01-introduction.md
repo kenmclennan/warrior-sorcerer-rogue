@@ -24,7 +24,7 @@ Across many sessions, a campaign is a string of stories - like an anthology of C
 
 ## 2. What Warrior \* Sorcerer \* Rogue Is
 
-WSR is a tabletop roleplaying game built on Chaosium's **Basic Roleplaying Universal Game Engine (BRP UGE)**, released under the ORC License. It is a focused, opinionated extraction of BRP's rules for one specific genre. Every rules choice in both books has been made with sword & sorcery in view. The books are not a toolkit for any genre; they are one game.
+WSR is a tabletop roleplaying game built on Chaosium's **Basic Roleplaying Universal Game Engine (BRP UGE)**, released under the ORC License. It is a focused, opinionated extraction of BRP's rules for one specific genre. Every rules choice has been made with sword & sorcery in view. This is not a toolkit for any genre; it is one game.
 
 **Percentile skill resolution.** Characters are described primarily by skills, expressed as percentile ratings. To do something, roll two ten-sided dice and read them as a number from 01 to 00. Equal to or less than the skill: success. Higher: failure. Simple in concept, rich in play.
 
@@ -46,27 +46,28 @@ WSR is a tabletop roleplaying game built on Chaosium's **Basic Roleplaying Unive
 
 ### 3.1 Chapter Codes
 
-The Player Book and GM Book each use chapter codes for cross-reference:
+Chapters use codes for cross-reference. The early chapters (P1-P7) cover what a player needs at the table: characters, skills, action resolution, combat, sorcery, equipment. The later chapters (P8-P13) cover what the GM needs to run the world: NPCs, bestiary, patrons, treasure, hazards, the deep past. The appendices follow.
 
-| Code    | Chapter                       |
-| ------- | ----------------------------- |
-| **P1**  | Introduction (this chapter)   |
-| **P2**  | Character Creation            |
-| **P3**  | Skills                        |
-| **P4**  | Action Resolution             |
-| **P5**  | Combat                        |
-| **P6**  | Sorcery                       |
-| **P7**  | Equipment                     |
-| **PA1** | Appendix: Critical Hit Tables |
-| **PA2** | Appendix: Examples            |
-| **G1**  | Running the Game              |
-| **G2**  | NPCs and Adversaries          |
-| **G3**  | Bestiary                      |
-| **G4**  | NPC Sorcery and Patrons       |
-| **G5**  | Treasure and Artifacts        |
-| **G6**  | Hazards and Spot Rules        |
-| **G7**  | The Deep Past                 |
-| **GA1** | Appendix: GM Examples         |
+| Code    | Chapter                            |
+| ------- | ---------------------------------- |
+| **P1**  | Introduction (this chapter)        |
+| **P2**  | Character Creation                 |
+| **P3**  | Skills                             |
+| **P4**  | Action Resolution                  |
+| **P5**  | Combat                             |
+| **P6**  | Sorcery                            |
+| **P7**  | Equipment                          |
+| **P8**  | NPCs and Adversaries               |
+| **P9**  | Bestiary                           |
+| **P10** | NPC Sorcery and Patrons            |
+| **P11** | Treasure and Artifacts             |
+| **P12** | Hazards and Spot Rules             |
+| **P13** | The Deep Past                      |
+| **PA1** | Appendix: Critical Hit Tables      |
+| **PA2** | Appendix: Play Examples            |
+| **PA3** | Appendix: Inspirational Influences |
+| **PA4** | Appendix: Names                    |
+| **PA5** | Appendix: GM Examples              |
 
 ### 3.2 Cross-Reference Syntax
 
@@ -78,7 +79,7 @@ Boxed text or quoted blocks in italic set aside from the main rules are designer
 
 ### 3.4 Examples
 
-Worked examples - character creation walkthroughs, multi-round combat sequences, sorcery casting with Corruption and PP tracking - live in the appendices (PA2 for the Player Book; GA1 for the GM Book). They are not interleaved with the rules.
+Worked examples - character creation walkthroughs, multi-round combat sequences, sorcery casting with Corruption and PP tracking - live in the appendices: PA2 collects play examples (player-side), PA5 collects prep examples (GM-side). They are not interleaved with the rules.
 
 ---
 
@@ -127,7 +128,7 @@ Warrior \* Sorcerer \* Rogue is built on Chaosium's **Basic Roleplaying: Univers
 
 **Required Attribution Notice (for downstream creators).** If you use our Licensed Material, you must give attribution as follows: _This product is based on Warrior \* Sorcerer \* Rogue, and uses rules derived from the Basic Roleplaying: Universal Game Engine published by Chaosium Inc. under the ORC License._
 
-**Reserved Material.** The title _Warrior \* Sorcerer \* Rogue_; all WSR-original rules text, tables, and descriptions in both the Player Book and GM Book; all spell names and spell descriptions; all critical hit table entries; all WSR-original character backgrounds, professions, and talents; all monster and NPC descriptions.
+**Reserved Material.** The title _Warrior \* Sorcerer \* Rogue_; all WSR-original rules text, tables, and descriptions; all spell names and spell descriptions; all critical hit table entries; all WSR-original character backgrounds, professions, and talents; all monster and NPC descriptions.
 
 **Expressly Designated Licensed Material.** All rules text and mechanisms reproduced or adapted from BRP UGE, as identified in each chapter's source notes.
 

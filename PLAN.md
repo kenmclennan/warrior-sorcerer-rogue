@@ -10,12 +10,15 @@ Phase 2 plan archived at [`plans/2026-05-10-phase-2-chapter-drafting.md`](plans/
 
 ### Phase 2 outputs
 
-**`chapters/`** - 17 chapter Markdown files, ~113,000 words total:
+**`chapters/`** - 18 chapter Markdown files (single book):
 
-- **Player Book (9):** P1 Introduction, P2 Character Creation, P3 Skills, P4 Action Resolution, P5 Combat, P6 Sorcery, P7 Equipment, PA1 Critical Hit Tables (appendix), PA2 Examples (appendix).
-- **GM Book (8):** G1 Running the Game, G2 NPCs and Adversaries, G3 Bestiary, G4 NPC Sorcery and Patrons, G5 Treasure and Artifacts, G6 Hazards and Spot Rules, G7 The Deep Past, GA1 GM Examples (appendix).
+- **Player-facing (P1-P7):** P1 Introduction, P2 Character Creation, P3 Skills, P4 Action Resolution, P5 Combat, P6 Sorcery, P7 Equipment.
+- **GM-facing (P8-P13):** P8 NPCs and Adversaries, P9 Bestiary, P10 NPC Sorcery and Patrons, P11 Treasure and Artifacts, P12 Hazards and Spot Rules, P13 The Deep Past.
+- **Appendices (PA1-PA5):** PA1 Critical Hit Tables, PA2 Play Examples, PA3 Inspirational Influences, PA4 Names, PA5 GM Examples.
 
-All chapters pass `npx markdownlint-cli2 'chapters/p*.md' 'chapters/g*.md'` with 0 errors. All cross-references pass `python3 scripts/verify-cross-refs.py` with 0 broken (33 refs found).
+The earlier Player Book / GM Book split was collapsed into a single book on 2026-05-21; the old G1 (Running the Game) was dropped at the same time. Theatre-of-mind combat and group stealth adjudication migrated into P12 §§10-11; G7's generators stayed in P13 §§1-4 and grew worked examples in §§5-7.
+
+All chapters pass `npx markdownlint-cli2 'chapters/p*.md'` with 0 errors. All cross-references pass `python3 scripts/verify-cross-refs.py` with 0 broken.
 
 **`decisions.md`** - 18 locked design decisions covering:
 

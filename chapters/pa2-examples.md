@@ -1,4 +1,4 @@
-# PA2. Appendix: Examples
+# PA2. Appendix: Play Examples
 
 ## 1. Character Creation: Building Khess the Knife
 
@@ -28,7 +28,7 @@ Khess is fast and clever. She is not strong.
 
 ### 1.2 Step 2: Derived Statistics
 
-**Hit Points.** CON + SIZ = 10 + 13 = **23 HP.** (PCs use the full formula; lower-tier NPCs use (CON+SIZ)/2 - see G2 §1.)
+**Hit Points.** CON + SIZ = 10 + 13 = **23 HP.** (PCs use the full formula; lower-tier NPCs use (CON+SIZ)/2 - see P8 §1.)
 
 **Major Wound Threshold.** Half of max HP, rounded up = **12.** A single blow that deals 12 or more damage is a Major Wound.
 

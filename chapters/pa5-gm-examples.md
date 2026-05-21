@@ -1,9 +1,9 @@
-# GA1. Appendix: GM Examples
+# PA5. Appendix: GM Examples
 
 > _"Men of the waste lands were not accustomed to the subtleties of civilized intrigue, but they could read signs."_
 > _- Robert E. Howard_
 
-Worked examples for the GM Book: G1-G7 tools in action. Player-facing counterpart is PA2; cross-references are noted where situations appear in both.
+Worked examples on the GM side of the book - the tools in P8-P13 applied to a single session. Player-facing counterpart is PA2; cross-references are noted where situations appear in both.
 
 Characters from PA2 (Khess the Knife, Orryn, and Karash) appear throughout.
 
@@ -11,7 +11,7 @@ Characters from PA2 (Khess the Knife, Orryn, and Karash) appear throughout.
 
 ## 1. Designing a Session
 
-_GM building a session using the G1 hook-complications-reckoning framework. PCs: Khess the Knife (City Thief), Orryn (Mercenary Soldier), Karash (Scholar of the Dark Arts)._
+_GM building a single session: hook, complications, reckoning. PCs: Khess the Knife (City Thief), Orryn (Mercenary Soldier), Karash (Scholar of the Dark Arts)._
 
 ---
 
@@ -29,17 +29,17 @@ Three usable hooks: the Syndicate (Khess's Hatred 80%); the Pit Lords (Orryn's H
 
 ---
 
-### 1.2 Using the G7 Generator: A Small Fallen Empire Hit
+### 1.2 Using the P13 Generator: A Small Fallen Empire Hit
 
-The GM rolls on G7 §§1-2 for a fallen empire profile to seat the adventure in.
+The GM rolls on P13 §§1-2 for a fallen empire profile to seat the adventure in.
 
-**Who they were (G7 §1.1):** Roll D6 = 4. **Scholarly.** A civilisation that valued knowledge above all things, studied the wrong things, and the wrong things studied them back.
+**Who they were (P13 §1.1):** Roll D6 = 4. **Scholarly.** A civilisation that valued knowledge above all things, studied the wrong things, and the wrong things studied them back.
 
-**What they did (G7 §1.2):** Roll D6 = 3. **Perfected a form of sorcery.** They encoded it into their architecture. Their ruins still carry it.
+**What they did (P13 §1.2):** Roll D6 = 3. **Perfected a form of sorcery.** They encoded it into their architecture. Their ruins still carry it.
 
-**What destroyed them (G7 §1.3):** Roll D6 = 2. **Sorcerous backlash.** The encoded sorcery reversed catastrophically. The ruins carry residue that sorcerers feel immediately.
+**What destroyed them (P13 §1.3):** Roll D6 = 2. **Sorcerous backlash.** The encoded sorcery reversed catastrophically. The ruins carry residue that sorcerers feel immediately.
 
-**What they left (G7 §1.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (See the Unseen reveals it immediately).
+**What they left (P13 §1.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (See the Unseen reveals it immediately).
 
 **What this gives the GM:** The Serpent Syndicate uses the archive as a private document vault - stumbled on the lower entrance three years ago and has no idea what they are sitting on. The ancient wall-encoding is starting to behave strangely now that the Syndicate is burning lamp oil and storing sorcerously-adjacent documents there. This is the background the PCs do not know.
 
@@ -87,9 +87,9 @@ _Have all three in mind; run whichever the fiction arrives at._
 
 ### 1.6 One NPC Built for the Session
 
-The GM needs the Syndicate clerk: Perrak, a professional (G2 §1.2) - document forger, self-taught sorcerous dabbler, no patron.
+The GM needs the Syndicate clerk: Perrak, a professional (P8 §1.2) - document forger, self-taught sorcerous dabbler, no patron.
 
-_Perrak's stat block is drafted in fifteen minutes using G2 §3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10), no Patron, Corruption 78 (self-taught sorcerers who do not know the Corruption rules pay a heavy price). He has See the Unseen as his only memorised spell and uses it obsessively to check for intruders - which is how the secondary casting signature in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and his Corruption is leaking into the encoded walls._
+_Perrak's stat block is drafted in fifteen minutes using P8 §3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10), no Patron, Corruption 78 (self-taught sorcerers who do not know the Corruption rules pay a heavy price). He has See the Unseen as his only memorised spell and uses it obsessively to check for intruders - which is how the secondary casting signature in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and his Corruption is leaking into the encoded walls._
 
 The archive is now "dangerous known plus Perrak's unknowing amplification" rather than "dangerous unknown" - more human, and the PCs' choice about Perrak is a genuine moral one. Turn him in alongside the forged document. Let him go. Warn him what the walls are doing with his castings. That call belongs to the players.
 
@@ -103,7 +103,7 @@ _G4 §1 framework applied to a mid-tier patron sorcerer as named antagonist. Dro
 
 ### 2.1 The Three Questions First
 
-Per G4 §1.1, start with three questions before touching statistics.
+Per P10 §1.1, start with three questions before touching statistics.
 
 **Question 1 - How much has this sorcerer paid?**
 
@@ -165,7 +165,7 @@ She fights in emergencies only.
 
 ### 2.4 Patron Compact: The Charnel Heir
 
-Ysolde is bonded to the Charnel Heir (G4 §4.3). The relevant mechanics:
+Ysolde is bonded to the Charnel Heir (P10 §4.3). The relevant mechanics:
 
 - **Patron Score:** 28. PP reserve: up to 3 PP per draw, three times per session.
 - **Demands she is actively fulfilling:** "Advance the lineage" (she is hunting the bloodline artifact); "Read the record" (monthly commune, which she finds increasingly distressing).
@@ -235,13 +235,13 @@ Fate Point access: Yes (full named-antagonist PP pool, spends normally).
 
 ## 3. Running a Chase Scene at the Table
 
-_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: G6 §8._
+_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: P12 §8._
 
 ---
 
 ### 3.1 Set-Up
 
-**Establish the six elements (G6 §8.1):**
+**Establish the six elements (P12 §8.1):**
 
 1. **Starting positions:** Khess was discovered in the archive's lower approach. She had thirty seconds' head start before the alarm went up. Starting position: **Engaged** (she is visible, they are closing).
 
@@ -275,7 +275,7 @@ _Result: Pursuer failed, quarry succeeded. Position shifts one step further away
 
 Khess reaches the chandler's shop. The low roof connection is her planned escape route.
 
-**The GM calls an obstacle roll:** Climb (G6 §8.2). Khess has Climb 61%. She rolls **45** - success.
+**The GM calls an obstacle roll:** Climb (P12 §8.2). Khess has Climb 61%. She rolls **45** - success.
 
 **Lead enforcer Climb roll** (his Climb is 40%): rolls **67** - failure. He fails the obstacle - loses one additional position from the standard result.
 
@@ -373,9 +373,9 @@ Additionally, the standard table applies on failure. But this was not a spell fa
 
 Karash has 9 PP remaining. His patron, the Faceless One, has a PP reserve available. The player asks: "Can I invoke Patron Intercession to try the spell again?"
 
-The GM checks (per G4 §3.4, Patron Intercession rules): Patron Intercession requires invoking the patron's name as a full action and rolling against the current Patron Score. Karash's Patron Score is 14. A matching-dice critical within 14% (only 11 qualifies) would bring direct intervention. The chance of rolling 11 while also getting it as a success is poor.
+The GM checks (per P10 §3.4, Patron Intercession rules): Patron Intercession requires invoking the patron's name as a full action and rolling against the current Patron Score. Karash's Patron Score is 14. A matching-dice critical within 14% (only 11 qualifies) would bring direct intervention. The chance of rolling 11 while also getting it as a success is poor.
 
-More importantly: the Faceless One's demands (G4 §4.2) include "No attachments" and "Change something irreversibly." A sorcerer calling on the Faceless One to stop a mercenary from hitting his friend is... not what the Faceless One considers its work.
+More importantly: the Faceless One's demands (P10 §4.2) include "No attachments" and "Change something irreversibly." A sorcerer calling on the Faceless One to stop a mercenary from hitting his friend is... not what the Faceless One considers its work.
 
 The GM does not say this out loud. But the GM knows it. If the player invokes the Faceless One and the allegiance roll succeeds, the intervention will arrive in a way that aligns with the patron's domain - transformation, loss, irreversible change - rather than simply binding the mercenary. The intervention might work on the mercenary, or it might work on something else in the scene. The Faceless One is not a precise tool.
 
@@ -390,5 +390,5 @@ Karash does not invoke. The player decides 9 PP is enough for a Deflect the Kill
 - **Pre-casting checklist:** PP cost, iron penalty, Corruption cost, resistance probability - worked through before a die is rolled.
 - **Resistance roll vs. spell failure:** The target resisted. PP spent, Corruption paid, spell did not take hold. This is a distinct outcome from the caster making an error (PA2 §3.5).
 - **Spell-specific Corruption:** Standard Corruption table and spell-specific note are separate charges; check both (P6 §3.3).
-- **Patron compact:** Know what the patron would and would not do before the player invokes it - run the patron honestly, not as a convenient rescue (G4 §3).
+- **Patron compact:** Know what the patron would and would not do before the player invokes it - run the patron honestly, not as a convenient rescue (P10 §3).
 - **Iron check:** GM responsibility to surface it before the roll, not after.

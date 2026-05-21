@@ -33,10 +33,10 @@ Per-chapter PDFs live in `chapters/`. Each file is one chapter of the finished s
 - Filenames use kebab-case.
 - Hyphens, not emdashes, in markdown.
 - The stylized name `Warrior \* Sorcerer \* Rogue` uses asterisks as separators; in markdown source they are escaped so they render as literal `*` rather than triggering italics.
-- Every rules decision goes through `decisions.md` *before* the chapter PDF is generated.
+- Every rules decision goes through `decisions.md` _before_ the chapter PDF is generated.
 - Status updates live in `progress.md`, not in commit messages.
 - **Markdown formatting and linting are mandatory before commit.** After drafting or editing any chapter Markdown file, run:
-  - `npx --yes prettier@3.8.3 --write chapters/p*.md chapters/g*.md` (formats in place)
-  - `npx --yes markdownlint-cli2 'chapters/p*.md' 'chapters/g*.md'` (must report `0 error(s)`)
+  - `npx --yes prettier@3.8.3 --write 'chapters/p*.md'` (formats in place)
+  - `npx --yes markdownlint-cli2 'chapters/p*.md'` (must report `0 error(s)`)
   - Linting config: `.markdownlint-cli2.yaml` (project root). MD013/MD024/MD033/MD036/MD040/MD041 are intentionally disabled - see the file for rationale.
   - Cross-reference integrity: `python3 scripts/verify-cross-refs.py` (must report `Broken references: 0`).

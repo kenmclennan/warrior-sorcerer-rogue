@@ -169,7 +169,7 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 **Bow, Composite:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
 
-**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See G6 §2 for poison rules.
+**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See P12 §2 for poison rules.
 
 **Bola and Lasso:** The bola entangles the target's legs on a hit (Difficult DEX roll or fall prone). It can also be used as a damaging throw (use the listed damage). The thrown lasso entangles on a hit; the target makes a Difficult STR or DEX roll to break free.
 
@@ -328,7 +328,7 @@ For the iron-vs-sorcery rule (§12.1), steel counts as iron. The sorcerous curre
 
 ### 5.5 Enchanted Iron and Steel
 
-An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in G5.
+An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in P11.
 
 ---
 
@@ -410,7 +410,7 @@ Items marked - for ENC weigh too little to track individually. Ten such items to
 | Lamp, Clay        | 1            | -   | 6 hours per oil flask | Cheap; fragile; burns olive oil          |
 | Lamp, Bronze      | 4            | -   | 6 hours per oil flask | More durable; steady flame               |
 | Lantern, Hooded   | 10           | 1   | 6 hours per oil flask | Directable beam; windproof               |
-| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see G6 §4)    |
+| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see P12 §4)   |
 | Torch             | -            | 1   | 1 hour                | Obvious; hard to hide; good bright light |
 
 A dash (-) in the Cost column means the item is too inexpensive to track by the Dram - a handful of coin covers it. Ten such items count as 1 Dram for purchasing purposes.
@@ -693,6 +693,6 @@ Unenchanted iron is inimical to the sorcerous current.
 - Recharging: the creator (or any sorcerer who has attuned to the item) may transfer 1 PP per combat round from their own body to the artifact's reservoir. This is a concentration action.
 - The artifact's HP equals its SIZ characteristic. If destroyed, any POW invested in it is permanently lost.
 
-Full creation rules - ritual requirements, costs, and dangers - are in G5.
+Full creation rules - ritual requirements, costs, and dangers - are in P11.
 
 **Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §5.3). The enchantment is part of the binding process and is noted when the artifact is described.
