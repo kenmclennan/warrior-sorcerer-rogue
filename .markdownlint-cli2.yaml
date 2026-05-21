@@ -33,7 +33,3 @@ config:
   # No multiple blank lines: keep on (Prettier collapses, but catches drift).
   MD012:
     maximum: 1
-
-ignores:
-  # Template is intentionally not a real chapter and contains placeholders.
-  - "chapters/_template.md"
