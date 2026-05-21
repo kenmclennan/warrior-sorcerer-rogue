@@ -1,4 +1,4 @@
-# P4. Action Resolution
+# Action Resolution
 
 ## 1. The Percentile Roll
 

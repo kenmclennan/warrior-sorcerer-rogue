@@ -1,4 +1,4 @@
-# P7. Equipment
+# Equipment
 
 ## 1. Currency
 

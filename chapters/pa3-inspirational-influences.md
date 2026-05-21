@@ -1,4 +1,4 @@
-# PA3. Inspirational Influences
+# Inspirational Influences
 
 ## 1. Films
 

@@ -1,4 +1,4 @@
-# P10. NPC Sorcery and Patrons
+# NPC Sorcery and Patrons
 
 > _"I have made a pact with powers that have no name in your tongue. I do not ask for your understanding. Only your service - or your life."_
 

@@ -1,4 +1,4 @@
-# PA4. Appendix: Names
+# Names
 
 ## 1. The Warm Coast
 

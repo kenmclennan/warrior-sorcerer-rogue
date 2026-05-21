@@ -1,4 +1,4 @@
-# P5. Combat
+# Combat
 
 ## 1. The Combat Round
 

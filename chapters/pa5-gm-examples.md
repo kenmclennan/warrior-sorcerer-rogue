@@ -1,4 +1,4 @@
-# PA5. Appendix: GM Examples
+# GM Examples
 
 > _"Men of the waste lands were not accustomed to the subtleties of civilized intrigue, but they could read signs."_
 > _- Robert E. Howard_

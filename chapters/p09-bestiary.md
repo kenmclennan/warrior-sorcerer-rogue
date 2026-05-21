@@ -1,4 +1,4 @@
-# P9. Bestiary
+# Bestiary
 
 > _"The wilderness harbours things that do not care about your courage, your reputation, or your sword. They are simply hungry, or ancient, or both."_
 

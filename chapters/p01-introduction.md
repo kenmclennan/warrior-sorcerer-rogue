@@ -1,4 +1,4 @@
-# P1. Introduction
+# Introduction
 
 ## 1. Sword & Sorcery
 

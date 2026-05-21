@@ -1,4 +1,4 @@
-# P11. Treasure and Artifacts
+# Treasure and Artifacts
 
 > _"He had come to loot the tomb - but the tomb had been waiting for him."_
 

@@ -1,4 +1,4 @@
-# P8. NPCs and Adversaries
+# NPCs and Adversaries
 
 > _"There were at least a score of them - hard, lean, wolfish men, with a sprinkling of black-bearded nomads among them."_
 > _- Robert E. Howard_

@@ -12,7 +12,7 @@ layout: base.njk
 
 <article class="chapter" data-pagefind-body>
   {% if thisChapter %}
-    <p class="chapter-code">{{ thisChapter.code }}</p>
+    <p class="chapter-code">{% if thisChapter.side == "appendix" %}Appendix {{ thisChapter.num.replace("A", "") }}{% else %}Chapter {{ thisChapter.num }}{% endif %}</p>
   {% endif %}
 
   {{ content | safe }}

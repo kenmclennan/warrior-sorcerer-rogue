@@ -1,4 +1,4 @@
-# PA2. Appendix: Play Examples
+# Play Examples
 
 ## 1. Character Creation: Building Khess the Knife
 

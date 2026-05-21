@@ -1,4 +1,4 @@
-# P6. Sorcery
+# Sorcery
 
 This chapter covers becoming a sorcerer, casting spells, the three costs, iron disruption, grimoires, and the full spell list. P10 covers the GM side: patrons, demons, and what happens when a sorcerer goes too far.
 

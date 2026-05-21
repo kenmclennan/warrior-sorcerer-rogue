@@ -1,4 +1,4 @@
-# PA1. Appendix: Critical Hit Tables
+# Critical Hit Tables
 
 Critical hit tables for use when a Critical Success is scored in melee or ranged combat (P5). Tables are organised by damage type and severity band. Each entry gives a wound and its immediate mechanical consequence. The GM reads or paraphrases the result aloud.
 

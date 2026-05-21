@@ -1,4 +1,4 @@
-# P12. Hazards and Spot Rules
+# Hazards and Spot Rules
 
 > _"The desert has its own laws, older and crueller than the laws of men."_
 > _- Robert E. Howard_
