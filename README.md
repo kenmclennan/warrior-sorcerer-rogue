@@ -24,30 +24,30 @@ The chapter source lives in `chapters/`. The links below open the markdown files
 
 **Player-facing**
 
-- [P1. Introduction](chapters/p01-introduction.md)
-- [P2. Character Creation](chapters/p02-character-creation.md)
-- [P3. Skills](chapters/p03-skills.md)
-- [P4. Action Resolution](chapters/p04-action-resolution.md)
-- [P5. Combat](chapters/p05-combat.md)
-- [P6. Sorcery](chapters/p06-sorcery.md)
-- [P7. Equipment](chapters/p07-equipment.md)
+- [1. Introduction](chapters/01-introduction.md)
+- [2. Character Creation](chapters/02-character-creation.md)
+- [3. Skills](chapters/03-skills.md)
+- [4. Action Resolution](chapters/04-action-resolution.md)
+- [5. Combat](chapters/05-combat.md)
+- [6. Sorcery](chapters/06-sorcery.md)
+- [7. Equipment](chapters/07-equipment.md)
 
 **GM-facing**
 
-- [P8. NPCs and Adversaries](chapters/p08-npcs-and-adversaries.md)
-- [P9. Bestiary](chapters/p09-bestiary.md)
-- [P10. NPC Sorcery and Patrons](chapters/p10-npc-sorcery-and-patrons.md)
-- [P11. Treasure and Artifacts](chapters/p11-treasure-and-artifacts.md)
-- [P12. Hazards and Spot Rules](chapters/p12-hazards-and-spot-rules.md)
-- [P13. The Deep Past](chapters/p13-the-deep-past.md)
+- [8. NPCs and Adversaries](chapters/08-npcs-and-adversaries.md)
+- [9. Bestiary](chapters/09-bestiary.md)
+- [10. NPC Sorcery and Patrons](chapters/10-npc-sorcery-and-patrons.md)
+- [11. Treasure and Artifacts](chapters/11-treasure-and-artifacts.md)
+- [12. Hazards and Spot Rules](chapters/12-hazards-and-spot-rules.md)
+- [13. The Deep Past](chapters/13-the-deep-past.md)
 
 **Appendices**
 
-- [PA1. Critical Hit Tables](chapters/pa1-critical-hit-tables.md)
-- [PA2. Play Examples](chapters/pa2-examples.md)
-- [PA3. Inspirational Influences](chapters/pa3-inspirational-influences.md)
-- [PA4. Names](chapters/pa4-names.md)
-- [PA5. GM Examples](chapters/pa5-gm-examples.md)
+- [A1. Critical Hit Tables](chapters/a1-critical-hit-tables.md)
+- [A2. Play Examples](chapters/a2-examples.md)
+- [A3. Inspirational Influences](chapters/a3-inspirational-influences.md)
+- [A4. Names](chapters/a4-names.md)
+- [A5. GM Examples](chapters/a5-gm-examples.md)
 
 ## Building the site locally
 
