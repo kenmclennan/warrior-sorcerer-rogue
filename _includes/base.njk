@@ -10,6 +10,9 @@
   </head>
   <body>
     <header class="site-header">
+      <button class="nav-toggle" type="button" aria-label="Toggle table of contents" aria-controls="sidebar" aria-expanded="false">
+        <span class="bars" aria-hidden="true"></span>
+      </button>
       <a class="site-title" href="{{ '/' | url }}">Warrior <span class="sep">*</span> Sorcerer <span class="sep">*</span> Rogue</a>
       <div id="search"></div>
       <script>
@@ -19,9 +22,66 @@
             showSubResults: true,
             showImages: false,
           });
+          var toggle = document.querySelector(".nav-toggle");
+          var sidebar = document.getElementById("sidebar");
+          var backdrop = document.querySelector(".sidebar-backdrop");
+          function setOpen(open) {
+            if (!sidebar) return;
+            sidebar.classList.toggle("open", open);
+            if (backdrop) backdrop.classList.toggle("visible", open);
+            if (toggle) toggle.setAttribute("aria-expanded", open ? "true" : "false");
+          }
+          if (toggle) toggle.addEventListener("click", function () {
+            setOpen(!sidebar.classList.contains("open"));
+          });
+          if (backdrop) backdrop.addEventListener("click", function () { setOpen(false); });
         });
       </script>
     </header>
+
+    {% set thisSlug = page.fileSlug %}
+
+    <aside id="sidebar" class="sidebar" aria-label="Table of contents">
+      <nav class="sidebar-nav">
+        <h3>Player-facing</h3>
+        <ul>
+          {% for c in chapters %}{% if c.side == "player" %}
+            <li>
+              <a href="{{ ('/' + c.slug + '/') | url }}"{% if c.slug == thisSlug %} aria-current="page" class="active"{% endif %}>
+                <span class="code">{{ c.code }}</span>
+                <span class="title">{{ c.title }}</span>
+              </a>
+            </li>
+          {% endif %}{% endfor %}
+        </ul>
+
+        <h3>GM-facing</h3>
+        <ul>
+          {% for c in chapters %}{% if c.side == "gm" %}
+            <li>
+              <a href="{{ ('/' + c.slug + '/') | url }}"{% if c.slug == thisSlug %} aria-current="page" class="active"{% endif %}>
+                <span class="code">{{ c.code }}</span>
+                <span class="title">{{ c.title }}</span>
+              </a>
+            </li>
+          {% endif %}{% endfor %}
+        </ul>
+
+        <h3>Appendices</h3>
+        <ul>
+          {% for c in chapters %}{% if c.side == "appendix" %}
+            <li>
+              <a href="{{ ('/' + c.slug + '/') | url }}"{% if c.slug == thisSlug %} aria-current="page" class="active"{% endif %}>
+                <span class="code">{{ c.code }}</span>
+                <span class="title">{{ c.title }}</span>
+              </a>
+            </li>
+          {% endif %}{% endfor %}
+        </ul>
+      </nav>
+    </aside>
+
+    <div class="sidebar-backdrop" aria-hidden="true"></div>
 
     <main class="content">
       {{ content | safe }}
