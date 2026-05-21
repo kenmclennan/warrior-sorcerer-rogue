@@ -12,6 +12,53 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-21 - Major Wound mechanic dropped entirely; PA1 + HP attrition
+
+**Context:** Continued doubt that the Major Wound mechanic was paying its way alongside PA1. After the earlier collapse (MW Table dropped; PA1 owns severe wounds; non-crit big hits triggered a Stamina-roll-to-stay-conscious), the threshold concept and its Stamina roll were the only remaining work of the Major Wound system - and even that felt like a parallel rule that PA1 already covered better on crits.
+
+**Decision:** Drop Major Wound entirely. Combat is now pure HP attrition with PA1 critical effects layered on:
+
+- Damage is subtracted from HP.
+- A character keeps acting normally at any positive HP - no half-HP threshold, no Stamina roll, no "fight on at impaired capacity" state.
+- Critical hits apply the PA1 entry's effect (stun, useless limb, bleed, etc.) in addition to damage. PA1 is now the only source of in-combat impairment and permanent injury.
+- At 0 HP the character falls (Fatal Wound, unchanged). Dying Blow (P5 §9) and Deflect the Killing Blow (P4 §7) remain the two pressure-valves.
+
+**Mechanics of the change:**
+
+- **P5 §5** rewritten: subheading is now "Damage and Falling" (not "Wound Thresholds"). The Minor Wound paragraph is gone; the Major Wound paragraph is gone; only the Critical / Fatal Wound bullets remain. New short note points players at Dying Blow and Deflect the Killing Blow.
+- **P5 §8 Rabble rule** prose: "No Major Wound Stamina roll" line dropped (it was already moot).
+- **PA1 §1.4** explainer for "if this causes a Major Wound" conditional clauses deleted.
+- **PA1 entries** with "Major Wound applies" / "if a Major Wound results" conditional clauses (2 in the Pierce and Krush bands) had the conditional removed - the base effect stands unconditionally.
+- **P9 Bestiary §1.1** creature entry format: "Major Wound Threshold" field removed from the documentation; per-stat-block "Major Wound Threshold: N" lines stripped from every beast entry via perl one-liner. Named Creature rule updated accordingly.
+- **P9 §2.5 Boar** _Toughness_ ability reworded: continues at full speed regardless of damage, only 0 HP stops it.
+- **P9 §2.X Sabre-Tooth Cat** _Killing Bite_: triggers on critical hits (was Major Wound).
+- **P9 §7 Chaotic Features table** _Acid Blood_: triggers on critical hits.
+- **P13 §6.3 Outlaw Hetman** _Hard To Kill_ talent: rewritten to halve PA1 impairment durations after a crit (4 PP, was 2 PP and Major-Wound-Stamina-roll auto-success).
+- **P13 §7.4 Iron Statues** _Immune to Pain_: rewritten to negate PA1 impairment effects (stun, useless limb) - damage and permanent destruction still apply.
+- **P2 Combat Talents** _Throat of the Wolf_: rewritten to halve PA1 impairment durations after a crit (4 PP, was Major-Wound-Stamina-roll delay).
+- **P2 Sorcery Talents** _Blood Price_: lifted the "cannot be used at or below your Major Wound threshold" gate; replaced with "cannot be used if the HP cost would drop you to 0 HP or below."
+- **P6 Flaying Blade** spell: bleeding triggers on critical hit (was Major Wound).
+- **P6 Mend the Mortal Frame** spell: "fresh critical wound" mitigation (was "fresh Major Wound").
+- **P12 §3.1 Vault-Lichen** herb: halves PA1 crippling-effect recovery time (was Major Wound recovery time).
+- **P1 §4 primer** Wounds paragraph rewritten in three sentences: HP attrition; crit = PA1; 0 HP = Fatal Wound.
+- **P2 §3 HP derivation** cross-ref dropped the "(Major Wound = half HP, rounded up)" parenthetical.
+- **PA2 Davan walkthrough** sidebar explaining the wound resolution rewritten - just describes PA1 applying.
+- **PA5 Ysolde stat block** "Major Wound Threshold" line dropped (twice - prose and code-block versions).
+
+**Reasoning:**
+
+- **Two systems doing one thing.** PA1 already covers the dramatic-wound moment on crits. The Major Wound Stamina roll was a parallel "you've been hit hard" beat for non-crits - thinner mechanically, less cinematic narratively.
+- **Pulp heroes don't have half-HP states.** Conan does not pause to roll Stamina when he takes a deep gash; he fights until he is unconscious or dead. The threshold-based "fight on at impaired capacity / drop" branch was importing a damage-and-consequences register from grittier systems.
+- **The crit table is the dramatic device.** WSR's PA1 has 250 entries tuned by damage type and severity band; matching-dice criticals are already the system's high-impact moment. Everything that's not a crit can just be HP loss, with the consequence delivered when HP reaches 0.
+- **Conceptual footprint shrinks.** "Major Wound" was a defined term that propagated into stat blocks (Major Wound Threshold), talents (Throat of the Wolf), spell effects (Flaying Blade, Mend the Mortal Frame), herb effects (Vault-Lichen), and explainer text. Removing it deletes ~70 references across 11 chapters.
+- **The Dying Blow and Deflect the Killing Blow remain.** The 0-HP moment - the one that actually decides whether a PC survives the scene - is still mechanically alive. The "stay on your feet through pain" moment is gone, but it's covered by the genre convention that PCs don't pause until they drop.
+
+**Tradeoff:** A non-crit big hit no longer creates a dramatic pause. Some tables will miss that beat. The mitigation: more crits will happen in any given session (matching-dice frequency is high relative to MW threshold crossings), and the crits do the dramatic work directly.
+
+**Verification:** Grep clean for "Major Wound" / "MW Threshold" across all 19 chapter files. 4,021 internal links in the built site, 0 broken.
+
+---
+
 ## 2026-05-21 - Major Wounds Table dropped; PA1 owns severe wounds
 
 **Context:** User asked whether the Major Wound mechanic was compatible with the PA1 critical hit tables. The two systems both produce major-wound outcomes (amputations, blindness, permanent loss) but were designed differently: PA1 is type-and-band specific (Slash/Pierce/Krush/Burn/Grapple × Bands A-E), while the MW Table was a generic 1D100. The May-12 "Option A" had partitioned them by source (crit → PA1; non-crit big hit → MW Table + Luck roll), which avoided stacking but left the GM asking "which wound system applies?" at every hard hit. The two parallel severity ladders also had calibration burden.

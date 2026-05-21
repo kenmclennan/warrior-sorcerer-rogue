@@ -382,7 +382,7 @@ Targets of Far Sight at intensity 3 may sense the scrying with a Difficult Sense
 **Cast Time:** 1 round
 **Duration:** POW rounds
 
-Sheathes a bludgeoning weapon in sorcerous force. Enhanced weapon gains: intensity 1 = +1D6 damage; intensity 2 = +2D6; intensity 3 = +3D6; intensity 4 = +4D6. Ignores mundane armour (sorcerous armour, such as Shadow-Wrap, is not bypassed). The weapon glows faintly; wounds from it do not clot normally. A character who takes a Major Wound from a Flaying Blade-enhanced weapon loses 1 HP per round until treated with First Aid.
+Sheathes a bludgeoning weapon in sorcerous force. Enhanced weapon gains: intensity 1 = +1D6 damage; intensity 2 = +2D6; intensity 3 = +3D6; intensity 4 = +4D6. Ignores mundane armour (sorcerous armour, such as Shadow-Wrap, is not bypassed). The weapon glows faintly; wounds from it do not clot normally. A character who takes a critical hit from a Flaying Blade-enhanced weapon loses 1 HP per round until treated with First Aid.
 
 ---
 
@@ -488,7 +488,7 @@ The sorcerer or a touched target assumes the appearance of a specific person or 
 **Cast Time:** 1 round (emergency) or 10 minutes (careful)
 **Duration:** Instantaneous
 
-Heals 1D6+POW/5 (round up) HP in the sorcerer or a touched target. If used on a fresh Major Wound (same scene), the wound may be restored to a severe but non-crippling injury at the GM's discretion - not guaranteed; requires a Difficult Medicine roll or a second casting. Does not restore lost limbs, cure disease, or reverse Corruption.
+Heals 1D6+POW/5 (round up) HP in the sorcerer or a touched target. If used on a fresh critical wound (same scene), the PA1 entry's impairment effects may be mitigated to a severe but non-crippling injury at the GM's discretion - not guaranteed; requires a Difficult Medicine roll or a second casting. Does not restore lost limbs, cure disease, or reverse Corruption.
 
 **Cost Notes:** Always causes 1D3 Corruption regardless of the standard casting Corruption roll.
 

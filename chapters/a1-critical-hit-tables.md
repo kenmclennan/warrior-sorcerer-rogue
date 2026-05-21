@@ -77,8 +77,6 @@ Each result: **wound description + mechanical effect**. Read or paraphrase the d
 
 **Burns.** The target loses 1 HP per round from clinging fire for the stated number of rounds. Extinguished early by spending an action to pat out, roll on ground, or douse with water (no roll required). Catastrophic burns (2 HP/round) typically require Medicine treatment or sorcery to stop, like a severe bleed.
 
-**Major Wound.** Some entries reference "if this causes a Major Wound, [extra effect]." This means: if the critical's total damage (base damage + bonus damage) equals or exceeds the target's Major Wound threshold (half maximum HP), apply the conditional effect on top of the PA1 entry. The PA1 entry is always the wound description; see P5 §5.1 for how Major Wound interacts with criticals (PA1 replaces the Stamina-roll path for crits).
-
 **Useless.** The affected limb cannot be used until the wound is treated and the character rests. A useless weapon arm means weapons must be switched to the other hand (all attacks Difficult until trained); a useless shield arm means no shield bonus to parry.
 
 **Stunned.** The character loses their next action entirely. They may still defend (parry or dodge) at Difficult but cannot attack, cast, or move meaningfully.
@@ -241,7 +239,7 @@ Pierce criticals drive past armour into soft tissue. Deep punctures, internal or
 | 7    | The point drives between two ribs and into the intercostal muscle; +6 bonus damage, bleeds internally - +1 HP lost per round for 3 rounds. |
 | 8    | A thrust through the shield arm at the elbow; +5 bonus damage, the arm is useless, bleeds.                                                 |
 | 9    | The weapon enters the side of the neck; +6 bonus damage, stunned for 2 rounds, bleeds.                                                     |
-| 10   | A deep thrust through the gut; +6 bonus damage, dying in 8 rounds unless treated. A terrible wound even if treated - Major Wound applies.  |
+| 10   | A deep thrust through the gut; +6 bonus damage, dying in 8 rounds unless treated.                                                          |
 
 ### 3.4 Band D - Pierce
 
@@ -323,7 +321,7 @@ Krush criticals crush bone, rupture organs, and knock targets senseless. They bl
 | 6    | A crushing blow to the jaw; +4 bonus damage, stunned for 2 rounds and the target cannot speak clearly for the remainder of the scene.                                     |
 | 7    | The strike takes the weapon arm below the elbow and snaps the forearm; attacks Difficult for 4 rounds, +5 bonus damage, bleeds from the skin-split.                       |
 | 8    | A full-force blow to the back of the skull; +6 bonus damage and stunned for 3 rounds.                                                                                     |
-| 9    | The weapon caves in the temple; +6 bonus damage, stunned for 2 rounds - if a Major Wound results, the target is dying.                                                    |
+| 9    | The weapon caves in the temple; +6 bonus damage, stunned for 2 rounds.                                                                                                    |
 | 10   | A blow to the upper spine that sends a shock through the whole body; knocked down, +6 bonus damage, and all actions Difficult for 2 rounds from disrupted nerve function. |
 
 ### 4.4 Band D - Krush

@@ -71,7 +71,7 @@ Characteristic rolls follow the same four outcome tiers as skill rolls (Critical
 
 **HP = CON + SIZ** (PCs and Named Antagonists).
 
-HP represents how much physical punishment a character can absorb before being incapacitated. PCs and Named Antagonists use the full CON+SIZ formula; lower-tier NPCs (Professionals and Rabble) use (CON+SIZ)/2 rounded up. This makes PCs durable enough to take serious wounds and keep fighting in the genre tradition. See P5 §5 for wound thresholds (Major Wound = half HP, rounded up); see P8 §1 for NPC tier HP rules.
+HP represents how much physical punishment a character can absorb before being incapacitated. PCs and Named Antagonists use the full CON+SIZ formula; lower-tier NPCs (Professionals and Rabble) use (CON+SIZ)/2 rounded up. This makes PCs durable enough to take serious wounds and keep fighting in the genre tradition. See P5 §5 for the damage and falling rules; see P8 §1 for NPC tier HP rules.
 
 ### 3.2 Power Points
 
@@ -387,7 +387,7 @@ Requires a martial profession or equivalent background.
 
 **Battle Tempo.** 3 PP. Declare before Phase One Statements. For this round, treat your DEX as +5 for initiative order only. The bonus does not affect skill rolls, Dodge, or damage modifier - it changes the order in which you declare and act, nothing more. Once per combat.
 
-**Throat of the Wolf.** 3 PP. Spend after taking a hit that crosses your Major Wound threshold. The Major Wound Stamina roll is delayed: you fight unimpaired this round. The Stamina roll resolves at the start of the next round - if it fails, you drop then.
+**Throat of the Wolf.** 4 PP. Spend after taking a critical hit. The PA1 entry's impairment effects (stunned, useless limb, hindered actions) are halved in duration. Damage, bleeding, and permanent injuries still apply.
 
 **Shield Slam.** 3 PP. When you successfully parry with a shield, you may immediately make a free Brawl attack against the attacker as a reaction. This attack does not cost an action.
 
@@ -419,7 +419,7 @@ Scholar of the Dark Arts only.
 
 **Mirror's Edge.** 5 PP. When a sorcerous working targets you (a spell or Resistance Table roll by another sorcerer), you may reflect it at the caster. Make a POW resistance roll; if you succeed, the spell or effect is redirected to the original caster, who is the new target. PP cost for the spell is still the original caster's. This talent does not work against demon powers or patron manifestations.
 
-**Blood Price.** 0 PP, but costs 1 HP. Once per scene, reduce the PP cost of a spell by 3 (minimum 1). The HP cost cannot be reduced or absorbed by armour. Bleeding from a deliberate cut is the price. Cannot be used at or below your Major Wound threshold.
+**Blood Price.** 0 PP, but costs 1 HP. Once per scene, reduce the PP cost of a spell by 3 (minimum 1). The HP cost cannot be reduced or absorbed by armour. Bleeding from a deliberate cut is the price. Cannot be used if the HP cost would drop you to 0 HP or below.
 
 **Shadow Speech.** 2 PP. You may communicate with a bound demon you have named using a brief mental message of no more than one sentence. The demon hears and may respond. This works at any distance as long as the binding holds.
 

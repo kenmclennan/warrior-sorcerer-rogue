@@ -139,7 +139,6 @@ Not hunting them - working a parallel angle on the same artifact. When they meet
 
 - **HP:** CON + SIZ = 11 + 11 = **22 HP** (Named Antagonist, full PC formula)
 - **PP:** Equal to POW = **19 PP** (plus patron reserve: up to 3 PP per draw, three times per session at Patron Score 28)
-- **Major Wound Threshold:** 11 (half of 22)
 - **Damage Modifier:** STR + SIZ = 10 + 11 = 21. Consulting the table: no modifier. She does not rely on physical force.
 - **Corruption:** 51 (Breaking Point: 47 - she is past it)
 
@@ -211,7 +210,6 @@ Mid-tier patron sorcerer, bonded to the Charnel Heir
 
 STR 10  CON 11  SIZ 11  INT 18  POW 19  DEX 14  CHA 13
 HP 22  PP 19 (+ patron reserve: 3 PP per draw x3/session)
-Major Wound Threshold: 11
 Armour: None (she wears wool robes)
 Damage Modifier: None
 

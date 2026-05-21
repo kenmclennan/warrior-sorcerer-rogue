@@ -453,8 +453,10 @@ Other skills:
 
 Talents:
   Steel-Eye - Spend 3 PP to ignore one Difficult modifier on an attack.
-  Hard To Kill - Spend 2 PP to auto-succeed on one Major Wound
-    Stamina roll; fight on unimpaired through the wound this round.
+  Hard To Kill - Spend 4 PP after taking a critical hit; the PA1
+    entry's impairment effects (stunned, bleeding, useless limb,
+    etc.) are halved in duration. Damage and permanent effects
+    still apply.
 
 Passions:
   Pride in toughness 85% - any challenge to his physical worth must be met.
@@ -641,7 +643,6 @@ A gigantic snake - twenty to forty feet of black-scaled muscle - that dwells in 
 | CHA            | 3           |
 
 - **HP:** 21
-- **Major Wound Threshold:** 11
 - **AV:** 4 (heavy scaled hide)
 - **Move:** 8 (10 in water)
 - **Damage Modifier:** +3D6
@@ -673,7 +674,6 @@ A monstrous anthropomorphic horror in the form of a great pale-furred ape - shou
 | CHA            | 3           |
 
 - **HP:** 20
-- **Major Wound Threshold:** 10
 - **AV:** 2 (thick fur and hide)
 - **Move:** 12
 - **Damage Modifier:** +2D6
@@ -705,7 +705,6 @@ A horror summoned from the gulfs of night by a sorcerer's working - a loping bla
 | CHA            | -     |
 
 - **HP:** 13
-- **Major Wound Threshold:** 7
 - **AV:** Special (see below)
 - **Move:** 16 (and may move vertically up walls and across overhangs at full Move)
 - **Damage Modifier:** +1D4
@@ -737,7 +736,6 @@ Men of a vanished people, blasted into iron images by a nameless god as punishme
 | CHA            | -     |
 
 - **HP:** 31 (Named Creature; CON+SIZ formula due to immortality)
-- **Major Wound Threshold:** 16
 - **AV:** 8 (iron body)
 - **Move:** 8
 - **Damage Modifier:** +1D6
@@ -745,7 +743,7 @@ Men of a vanished people, blasted into iron images by a nameless god as punishme
 - **Special Abilities:**
   - _Statue by Day._ During daylight, the statue is inert. It can be damaged - chiselled, hammered, broken - but each blow announces the intruder's presence to its companions, who will rise the next night with that knowledge.
   - _Awakened by Moon._ At nightfall (or beneath the earth where there is no light at all), the statues animate. They hunt within the ruin and rarely leave its walls.
-  - _Immune to Pain._ Does not make Major Wound Stamina rolls; takes damage normally but does not flinch, slow, or break. Only physical destruction halts them.
+  - _Immune to Pain._ PA1 critical effects that impose stunning, impairment, or "useless limb" status have no effect; damage and permanent destruction still apply normally. Only physical destruction halts them.
   - _Vulnerability to the God's Name._ The original god who cursed them can release them. A PC who learns the god's name and speaks it may bind one statue still for one round per success on a Difficult POW x5 roll.
 - **Morale:** Does not flee. Falls to pieces when reduced to 0 HP; the pieces remain dangerous until each is broken further.
 
@@ -770,7 +768,6 @@ Gray, hairy, almost-human things that walk upright but speak only a gibberish no
 | CHA            | 2          |
 
 - **HP:** 14
-- **Major Wound Threshold:** 7
 - **AV:** 1 (hide)
 - **Move:** 8 (Swim 10)
 - **Damage Modifier:** +1D4
@@ -802,7 +799,6 @@ The last of an elder race that ruled the world before humanity rose from the mir
 | CHA            | varies (apparent CHA may differ from true) |
 
 - **HP:** 13
-- **Major Wound Threshold:** 7
 - **AV:** 3 (scaled hide; in true form)
 - **Move:** 8
 - **Damage Modifier:** none

@@ -151,22 +151,15 @@ Shields are both weapons (use Shield skill to attack) and parrying tools (use Sh
 
 ## 5. Wounds
 
-### 5.1 Wound Thresholds
+### 5.1 Damage and Falling
 
-Three wound thresholds govern how damage affects a character.
+Damage is subtracted from current HP. Combat continues at any positive HP - the character keeps acting, parrying, casting, regardless of the wound count. The genre tolerates beating, blood, and exhaustion right up until the moment a character drops.
 
-**Minor Wound.** A single attack deals less than half the character's maximum HP. Multiple minor wounds that together equal or exceed half maximum HP trigger a Stamina roll (CON x5): on a failure, the character falls unconscious.
-
-**Major Wound.** A single attack deals damage equal to or greater than half the character's maximum HP. The wound's specifics depend on the source:
-
-- **Critical attack.** Resolve the wound via the PA1 critical hit tables (see §10). The PA1 entry **is** the wound, including its stated duration and permanence. PA1 entries already encode their own severity and recovery; no Stamina roll is needed.
-- **Non-critical attack.** The character makes a Stamina roll (CON x5):
-  - **Success:** the character stays standing and fights on at impaired capacity - all actions are Difficult until they spend a Short Move recovering wind, or until they take a round to apply First Aid or be tended.
-  - **Failure:** the character is incapacitated - dropped, winded, unable to act. They are unconscious or near it until First Aid is applied or they recover at the end of the scene.
-
-Permanent injuries from a Major Wound enter the game only through PA1: a non-critical Major Wound is brutal but recoverable, while a critical can sever a limb, blind an eye, or break a back exactly because the matching dice rolled the cinematic blow. The two paths are not stacked - a critical hit that crosses the Major Wound threshold resolves through PA1 alone.
+**Critical attack.** A critical hit applies the appropriate PA1 entry in addition to its damage. The PA1 entry is the wound - its stated duration, impairment, and permanence are authoritative. Crit-driven wounds are the only source of permanent injury in WSR; ordinary damage just accumulates as HP loss.
 
 **Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
+
+**Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§9): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (P4 §7). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
 
 ### 5.2 Healing
 
@@ -284,7 +277,7 @@ An entangling critical (whether on a damage attack or an entangle attempt) impos
 
 Rabble are ordinary soldiers, hired thugs, city guards, and bandit conscripts - fighters without exceptional qualities, without Fate Point access, and without the will to fight to the death.
 
-**The Rabble rule.** A Rabble who takes cumulative damage equal to or greater than half their HP total is automatically incapacitated. No Major Wound Stamina roll. The GM narrates the result: knocked out, driven off, or unwilling to die for six coins. Rabble still attack, parry, and roll to hit normally - only the incapacitation threshold is simplified.
+**The Rabble rule.** A Rabble who takes cumulative damage equal to or greater than half their HP total is automatically incapacitated. The GM narrates the result: knocked out, driven off, or unwilling to die for six coins. Rabble still attack, parry, and roll to hit normally - only the incapacitation threshold is simplified.
 
 A Rabble is never a named character. The moment an NPC becomes plot-relevant or individually characterised, they resolve under full combat rules.
 

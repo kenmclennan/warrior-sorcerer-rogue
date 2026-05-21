@@ -17,7 +17,7 @@ Rabble are the warm bodies that fill a dungeon, guard a gate, or crew a villain'
 
 **Narrative role.** Rabble establish threat-through-numbers, cost the PCs some HP before the real fight, and fall dramatically. They are not meant to win. A Rabble who lingers too long has become something else.
 
-**Mechanical profile.** Rabble have one primary weapon skill, a Dodge rating, and an HP total computed as **(CON + SIZ) / 2, rounded up** (the half formula, not the full PC formula). They do not have Power Points and cannot make any Fate Point spend. They do not make Major Wound Stamina rolls. They fight, they absorb damage up to their threshold, and then they fall.
+**Mechanical profile.** Rabble have one primary weapon skill, a Dodge rating, and an HP total computed as **(CON + SIZ) / 2, rounded up** (the half formula, not the full PC formula). They do not have Power Points and cannot make any Fate Point spend. They fight, they absorb damage up to their threshold, and then they fall.
 
 The Rabble rule: any Rabble who takes cumulative damage equal to or greater than half their total HP is automatically incapacitated. The GM describes how - beaten down, driven off, knocked senseless, or simply unwilling to die for six coins a day. The fiction determines the detail; the threshold determines when.
 
@@ -29,7 +29,7 @@ Professionals are competent antagonists with individual identities. They may not
 
 **Narrative role.** Professionals push back: they adapt, hold their ground, and have something at stake beyond the coin. They may have loyalties that complicate instructions or limits to their ruthlessness.
 
-**Mechanical profile.** Professionals have multiple weapon skills, Dodge or Parry, and limited PP (typically half POW or lower). HP is computed as **(CON + SIZ) / 2, rounded up** (the half formula) - competent but mortal; their toughness comes from skill and PP, not from a doubled HP buffer. No sorcery, no Fate Point access, no Patron Intercession. No formal Talents or Passions - the GM assigns one or two drive-notes informally. They make Major Wound Stamina rolls normally (P5 §5.1) and fight until they drop.
+**Mechanical profile.** Professionals have multiple weapon skills, Dodge or Parry, and limited PP (typically half POW or lower). HP is computed as **(CON + SIZ) / 2, rounded up** (the half formula) - competent but mortal; their toughness comes from skill and PP, not from a doubled HP buffer. No sorcery, no Fate Point access, no Patron Intercession. No formal Talents or Passions - the GM assigns one or two drive-notes informally. They take damage as HP loss until they drop at 0 HP; critical hits against them apply PA1 entries normally.
 
 ### 1.3 Named Antagonists
 
@@ -60,7 +60,7 @@ Primary weapon: [Weapon] ##%, damage [dice]
 Secondary (if any): [Weapon] ##%, damage [dice]
 
 Incapacitated at ## HP (half of ## HP total).
-No Fate Point access. No Major Wound Stamina roll.
+No Fate Point access.
 ```
 
 **Design notes:**
@@ -73,9 +73,7 @@ No Fate Point access. No Major Wound Stamina roll.
 
 **Cumulative threshold.** Total damage taken, not per-blow. A Rabble with 8 HP is incapacitated at 4 HP cumulative - whether from one solid hit or three scratches.
 
-**Critical hits.** Full damage ignoring armour (P5 §10.4). If cumulative damage reaches the threshold, incapacitated immediately. Crit table results are colour only - no Major Wound trigger.
-
-**Major Wounds.** Rabble never make Major Wound Stamina rolls. The threshold replaces that system.
+**Critical hits.** Full damage ignoring armour (P5 §10.4). If cumulative damage reaches the threshold, incapacitated immediately. Crit table results are colour only - the GM may narrate severed limbs or grievous wounds for flavour, but no PA1 entry needs to be consulted.
 
 **Describing incapacitation.** Not always lethal. A bandit struck by a sword might be dead; the same bandit knocked sprawling by a half-spent blow is unconscious. City guardsmen beaten down create a different problem than twelve dead ones. Let the fiction determine what "incapacitated" looks like.
 
@@ -229,7 +227,7 @@ Primary weapon: Spear 35%, damage 1D8+1
 Backup: Short Sword 30%, damage 1D6
 
 Incapacitated at 6 HP (half of 12 HP).
-No Fate Point access. No Major Wound Stamina roll.
+No Fate Point access.
 
 Notes: Carries a whistle (1D6 rounds to summon 1D4+1 additional guards on a
 success). Will typically flee or surrender at the incapacitation threshold
@@ -255,7 +253,7 @@ Primary weapon: Short Sword or Hand Axe 40%, damage 1D6
 Secondary: Dagger 35%, damage 1D4+2
 
 Incapacitated at 6 HP (rounded from half of 11 HP).
-No Fate Point access. No Major Wound Stamina roll.
+No Fate Point access.
 
 Notes: Bandits fight for profit. Once the fight looks costly, they reassess.
 If two or more are incapacitated in the same round, remaining bandits may

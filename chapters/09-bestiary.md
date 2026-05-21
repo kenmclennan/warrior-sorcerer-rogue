@@ -12,9 +12,7 @@ Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 
 
 **Characteristics** - STR, CON, SIZ, INT, POW, DEX, CHA. Typical values listed; for variable creatures, the dice expression is given with average in parentheses.
 
-**HP** - (CON + SIZ) / 2, round up, unless stated otherwise. 0 HP = dying or dead.
-
-**Major Wound Threshold** - Half HP (round up). Most creatures do not make Major Wound Stamina rolls; the GM narrates the wound's effect from the attack type and creature's nature. A creature taken past its threshold by a non-critical hit slows, staggers, or flees as the fiction suggests; a critical hit applies the PA1 entry as written.
+**HP** - (CON + SIZ) / 2, round up, unless stated otherwise. 0 HP = dying or dead. A wounded creature continues to act normally until HP reaches 0 - the GM may narrate slowing, staggering, or fleeing as the fiction suggests, but no special threshold triggers.
 
 **Bestiary HP and the PC/NPC formula split.** P2 §3.1 and P8 §1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
 
@@ -49,7 +47,7 @@ Elevate to Named Creature:
 
 The Great Wolf is a legendary fight. When defeated, its pelt is a relic worth a king's ransom or a powerful Patron Compact offering - and the village headman may not believe it is dead until he sees the head with his own eyes.
 
-**Resolving Major Wounds against Named Creatures.** They follow the Named Antagonist rule (P5 §5.1): PA1 entries apply for critical hits; non-critical hits past the Major Wound threshold trigger a Stamina roll to stay standing.
+**Resolving wounds against Named Creatures.** PA1 entries apply for critical hits; non-critical damage is HP attrition. Named Creatures fight unimpaired until HP reaches 0, like any PC or Named Antagonist (P5 §5.1).
 
 **AV** - Reduces all incoming damage. A single value covers the whole creature.
 
@@ -86,7 +84,6 @@ The lion hunts in tall grass, river margins, and the ruins at the edge of inhabi
 | CHA            | 5          |
 
 - **HP:** 14
-- **Major Wound Threshold:** 7
 - **AV:** 1 (thick hide)
 - **Move:** 10
 - **Damage Modifier:** +1D6
@@ -111,7 +108,6 @@ Larger and more solitary than a lion, the tiger is a forest and riverside hunter
 | CHA            | 5          |
 
 - **HP:** 17
-- **Major Wound Threshold:** 9
 - **AV:** 1 (thick hide)
 - **Move:** 10
 - **Damage Modifier:** +2D6
@@ -138,7 +134,6 @@ A lone wolf is a moderate threat - watchful, fast, and intelligent enough to pro
 | CHA            | 5          |
 
 - **HP:** 11
-- **Major Wound Threshold:** 6
 - **AV:** 0
 - **Move:** 12
 - **Damage Modifier:** None
@@ -164,7 +159,6 @@ The bear does not seek human prey. It is territorial, protective of cubs, and po
 | CHA            | 5           |
 
 - **HP:** 20
-- **Major Wound Threshold:** 10
 - **AV:** 2 (thick hide and fat)
 - **Move:** 8 (can sprint to Move 12)
 - **Damage Modifier:** +2D6
@@ -189,14 +183,13 @@ The wild boar is low, fast, armoured in tough skin and layers of fat, and posses
 | CHA            | 5          |
 
 - **HP:** 14
-- **Major Wound Threshold:** 7
 - **AV:** 2 (hide and fat)
 - **Move:** 10
 - **Damage Modifier:** +1D4
 - **Attacks:** Tusk Gore 55% / 1D8+dm (Pierce/Slash).
 - **Special Abilities:**
   - _Charge._ A boar that moves to attack in the same round gains +2D6 bonus damage on that attack.
-  - _Toughness._ Minor wounds (below Major Wound threshold) do not slow the boar or break its charge.
+  - _Toughness._ The boar continues a charge at full speed regardless of damage taken; only being dropped to 0 HP stops it.
 - **Morale:** Attacks when cornered or when its path is blocked. Does not pursue far once a threat retreats.
 
 ### 2.6 Giant Constrictor Snake
@@ -214,7 +207,6 @@ The giant constrictor moves silently through reed beds, river margins, and jungl
 | CHA            | 3           |
 
 - **HP:** 21
-- **Major Wound Threshold:** 11
 - **AV:** 1 (tough scales)
 - **Move:** 6 (8 in water)
 - **Damage Modifier:** +2D6
@@ -239,7 +231,6 @@ Smaller than the constrictor but faster, the giant venomous snake is found near 
 | CHA            | 3          |
 
 - **HP:** 13
-- **Major Wound Threshold:** 7
 - **AV:** 1 (scales)
 - **Move:** 8
 - **Damage Modifier:** None
@@ -263,7 +254,6 @@ In ruins, cave systems, and sealed tombs, the giant spider waits. It does not hu
 | CHA            | 2          |
 
 - **HP:** 10
-- **Major Wound Threshold:** 5
 - **AV:** 1 (chitinous hide)
 - **Move:** 8 (12 on web)
 - **Damage Modifier:** None
@@ -288,7 +278,6 @@ The crocodile was old when the first cities were founded. It lies in shallow wat
 | CHA            | 3           |
 
 - **HP:** 20
-- **Major Wound Threshold:** 10
 - **AV:** 4 (armoured hide and bony plates)
 - **Move:** 6 (10 in water)
 - **Damage Modifier:** +2D6
@@ -314,7 +303,6 @@ The great eagle of mountain crags and open plains is not aggressive toward human
 | CHA            | 4          |
 
 - **HP:** 10
-- **Major Wound Threshold:** 5
 - **AV:** 0
 - **Move:** 4 ground (16 flying)
 - **Damage Modifier:** None
@@ -339,7 +327,6 @@ The mammoth survives in the upland steppes and deep wilderness, a relic of the a
 | CHA            | 5           |
 
 - **HP:** 43
-- **Major Wound Threshold:** 22
 - **AV:** 3 (thick hide)
 - **Move:** 10
 - **Damage Modifier:** +5D6
@@ -365,14 +352,13 @@ Larger than a tiger, heavier-boned, and armed with elongated canine teeth that c
 | CHA            | 5           |
 
 - **HP:** 20
-- **Major Wound Threshold:** 10
 - **AV:** 2 (dense muscle and hide)
 - **Move:** 12
 - **Damage Modifier:** +2D6
 - **Attacks:** Sabre Bite 65% / 2D8+dm (Pierce); Claw 60% / 1D8+dm (Slash). Both attacks may be made in the same round.
 - **Special Abilities:**
   - _Pounce._ As lion (see §2.1). The sabre-tooth's pounce is Fast attack from extreme range.
-  - _Killing Bite._ If the sabre bite scores a Major Wound, the target is bleeding for 1D6 HP per round (the great teeth sever blood vessels that normal wounds do not reach). First Aid stops this bleeding as normal.
+  - _Killing Bite._ If the sabre bite is a critical hit, the target is bleeding for 1D6 HP per round (the great teeth sever blood vessels that normal wounds do not reach) in addition to the PA1 entry's effects. First Aid stops this bleeding as normal.
 - **Morale:** Fights to incapacitate prey. Retreats if injured before a kill is achieved.
 
 ---
@@ -398,7 +384,6 @@ A construction of ossified matter that walks because it has been told to and sto
 | CHA            | 1              |
 
 - **HP:** SIZ (13 typical) - skeletons use SIZ as HP, not the standard derivation.
-- **Major Wound Threshold:** 7
 - **AV:** 0 (bare bone)
 - **Move:** 6
 - **Damage Modifier:** None to -1D4 depending on assembly
@@ -425,7 +410,6 @@ The reanimated corpse is slower and more durable than a skeleton - enough residu
 | CHA            | 1          |
 
 - **HP:** 14
-- **Major Wound Threshold:** 7
 - **AV:** 2 (flesh and inertia)
 - **Move:** 4
 - **Damage Modifier:** +1D4
@@ -452,7 +436,6 @@ Not animated by sorcery in the conventional sense - preserved and charged with p
 | CHA            | 1           |
 
 - **HP:** 14
-- **Major Wound Threshold:** 7
 - **AV:** 3 (linen bindings, dessicated flesh, and the resilience of preserved death)
 - **Move:** 6
 - **Damage Modifier:** +1D6
@@ -480,7 +463,6 @@ The ghoul is human-adjacent: it walks upright, has hands that grasp and tear, an
 | CHA            | 2D6+3 (10) |
 
 - **HP:** 12
-- **Major Wound Threshold:** 6
 - **AV:** 1 (tough, changed flesh)
 - **Move:** 8
 - **Damage Modifier:** +1D4
@@ -507,7 +489,6 @@ The vampire is not simply a predator. It is intelligent, patient, and in the urb
 | CHA            | 3D6+6 (17)  |
 
 - **HP:** 12
-- **Major Wound Threshold:** 6
 - **AV:** 0 (uses regeneration instead)
 - **Move:** 10 (16 in bat form)
 - **Damage Modifier:** +1D6
@@ -537,7 +518,6 @@ The ghost is what remains when something terrible happened and did not finish. I
 | CHA            | 2D6+3 (10) |
 
 - **HP:** equal to POW
-- **Major Wound Threshold:** 9
 - **AV:** Immune to physical attacks (see Special Abilities)
 - **Move:** 8 (hovering; passes through physical surfaces)
 - **Damage Modifier:** -
@@ -564,7 +544,6 @@ The wight is an older form of undead than the mummy - pre-sorcery, pre-city, a w
 | CHA            | 2D6+3 (10)  |
 
 - **HP:** 14
-- **Major Wound Threshold:** 7
 - **AV:** 4 (ancient armour, corroded but intact)
 - **Move:** 8
 - **Damage Modifier:** +1D6
@@ -597,7 +576,6 @@ The great reptiles of the deep past did not all die when the civilisations built
 | CHA            | 3D6 (11)                                      |
 
 - **HP:** 53
-- **Major Wound Threshold:** 27
 - **AV:** 12 (armoured scales)
 - **Move:** 8 ground (16 flying)
 - **Damage Modifier:** +5D6
@@ -624,7 +602,6 @@ Giants grow old, and the oldest are the largest - a young giant stands four metr
 | CHA            | 2D6+3 (10)  |
 
 - **HP:** 40
-- **Major Wound Threshold:** 20
 - **AV:** 3 (thick hide)
 - **Move:** 12
 - **Damage Modifier:** +5D6
@@ -649,7 +626,6 @@ A human body with a bull's head, and the merger has done neither half any favour
 | CHA            | 2D6 (7)     |
 
 - **HP:** 19
-- **Major Wound Threshold:** 10
 - **AV:** 2 (dense muscle and bone)
 - **Move:** 10
 - **Damage Modifier:** +2D6
@@ -680,7 +656,6 @@ Three forms:
 | CHA            | 2D6+3 (10)                               |
 
 - **HP:** 12
-- **Major Wound Threshold:** 6
 - **AV:** 0 (fast enough to avoid hits; see Special Abilities)
 - **Move:** 12
 - **Damage Modifier:** +2D6
@@ -710,7 +685,6 @@ The troll is nocturnal, lives in wild places, and is large, stupid in conversati
 | CHA            | 2D6+3 (10)  |
 
 - **HP:** 20
-- **Major Wound Threshold:** 10
 - **AV:** 3 (warty hide)
 - **Move:** 8
 - **Damage Modifier:** +2D6
@@ -738,7 +712,6 @@ The centaur of the ancient-world steppe is not the pastoral philosopher of legen
 | CHA            | 2D6+3 (10)  |
 
 - **HP:** 20
-- **Major Wound Threshold:** 10
 - **AV:** 1 (heavy hide)
 - **Move:** 12
 - **Damage Modifier:** +1D6
@@ -765,7 +738,6 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
 | CHA            | 5          |
 
 - **HP:** 26
-- **Major Wound Threshold:** 13
 - **AV:** 2 (feather and hide)
 - **Move:** 6 ground (16 flying)
 - **Damage Modifier:** +3D6
@@ -800,7 +772,6 @@ _The thing crouched at the edge of the circle's light, gargoyle-thin, its wings 
 | CHA            | 1D6+3 (6)  |
 
 - **HP:** 10
-- **Major Wound Threshold:** 5
 - **AV:** 1 (scaled hide)
 - **Move:** 8 (12 flying)
 - **Damage Modifier:** None
@@ -830,7 +801,6 @@ _It came through the smoke of the summoning circle smelling of old metal and unf
 | CHA            | Fixed: 3 or 21                      |
 
 - **HP:** 22
-- **Major Wound Threshold:** 11
 - **AV:** 8 (tough hide; may wear armour in addition)
 - **Move:** 10 (12 flying)
 - **Damage Modifier:** +2D6
@@ -864,7 +834,6 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
 | CHA            | 21    |
 
 - **HP:** 28
-- **Major Wound Threshold:** 14
 - **AV:** 10 (choose your weapon)
 - **Move:** 10 (14 flying)
 - **Damage Modifier:** +3D6
@@ -901,7 +870,6 @@ A column of concentrated wind with no fixed shape - visible only by its effects:
 | CHA            | -          |
 
 - **HP:** 16
-- **Major Wound Threshold:** 8
 - **AV:** 6 (difficult to land solid hits against wind)
 - **Move:** 14 (flight, no ground movement)
 - **Damage Modifier:** None
@@ -928,7 +896,6 @@ Stone made briefly aware and given direction - not a creature in stone, not a go
 | CHA            | -           |
 
 - **HP:** 26
-- **Major Wound Threshold:** 13
 - **AV:** 10 (stone)
 - **Move:** 4 (8 through stone or earth)
 - **Damage Modifier:** +3D6
@@ -955,7 +922,6 @@ A crawling pillar of coherent flame, roughly man-shaped. Heat radiates from it i
 | CHA            | -          |
 
 - **HP:** 16
-- **Major Wound Threshold:** 8
 - **AV:** 6 (heat disperses impacts)
 - **Move:** 10
 - **Damage Modifier:** +1D6
@@ -982,7 +948,6 @@ A surge of coherent water, nearly unstoppable in open water - a river, a harbour
 | CHA            | -          |
 
 - **HP:** 20
-- **Major Wound Threshold:** 10
 - **AV:** 8 (water cohesion; impacts disperse)
 - **Move:** 6 (14 in water)
 - **Damage Modifier:** +2D6
@@ -1006,7 +971,7 @@ Roll 1D20 for one feature; roll twice (or three times) for a more monstrous crea
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | **Gem-body.** The creature's flesh is threaded with glittering mineral veins. AV increases by 2. Striking it with metal weapons creates a ringing sound audible at long range.                                                                                                                                               |
 | 2    | **Second Eyes.** A ring of additional eyes at the back of the skull. The creature cannot be surprised from behind and ignores rear-arc attack bonuses.                                                                                                                                                                       |
-| 3    | **Acid Blood.** When the creature takes a Major Wound, corrosive fluid sprays in a 2-metre radius. All creatures in range take 1D6 damage (Dodge Difficult to avoid).                                                                                                                                                        |
+| 3    | **Acid Blood.** When the creature takes a critical hit, corrosive fluid sprays in a 2-metre radius. All creatures in range take 1D6 damage (Dodge Difficult to avoid).                                                                                                                                                       |
 | 4    | **Membrane Wings.** If the creature did not already fly, it now does at Move 10. If it already flew, its flight Move increases by 4.                                                                                                                                                                                         |
 | 5    | **Regenerating Limbs.** Lost limbs regrow over 1D6 rounds. Severing a limb as a combat tactic fails.                                                                                                                                                                                                                         |
 | 6    | **Hypnotic Pattern.** The creature's skin or scales ripple with shifting patterns. Living creatures that begin their turn able to see the creature must succeed at a POW x5 roll or spend their action staring.                                                                                                              |

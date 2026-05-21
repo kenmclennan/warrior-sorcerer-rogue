@@ -30,8 +30,6 @@ Khess is fast and clever. She is not strong.
 
 **Hit Points.** CON + SIZ = 10 + 13 = **23 HP.** (PCs use the full formula; lower-tier NPCs use (CON+SIZ)/2 - see P8 §1.)
 
-**Major Wound Threshold.** Half of max HP, rounded up = **12.** A single blow that deals 12 or more damage is a Major Wound.
-
 **Power Points.** Equal to POW = **13 PP.** This is also her Fate Point pool and her luck reserve.
 
 **Damage Modifier.** STR + SIZ = 9 + 13 = 22. Consulting the dm table (P2 §3.3): 17-24 = None. Khess has no damage modifier. Her blades deal dice only.
@@ -292,7 +290,7 @@ The GM rolls 1d10 on the Pierce, Band C table: result is **5**. The entry reads:
 
 Khess rolls dagger damage: 1D4+2 = 4+2 = **6.** Plus +5 bonus damage = **11 total damage.** Davan has HP 12. He takes 11 damage, dropping to HP 1. He is stunned for 2 rounds, his breathing terrible from the lung wound.
 
-> A single blow of 11 damage against Davan's Major Wound threshold (HP/2 = 6) is clearly above it. Under P5 §5.1, a critical Major Wound resolves entirely through the PA1 entry - pierced lung, stunned, terrible breathing. No Stamina roll for criticals; the PA1 entry's stated duration is authoritative.
+> The critical applies the PA1 entry: pierced lung, stunned for 2 rounds, terrible breathing. Damage knocks Davan from HP 12 to HP 1 - one more hit will drop him.
 
 **Davan acts (DEX 15).** He is stunned. A stunned character cannot attack (see PA1 §1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
 
@@ -498,7 +496,7 @@ The ledger is in the Syndicate's counting-house in the merchant quarter - which 
 
 The party finds a solution: Karash uses _Iron Ward_ at Intensity 2 to suppress the vault ward while Khess picks the lock (Fine Manipulation, augmented with Research from her case study). They enter before Selka is alerted.
 
-The fight with Selka is brief and hard. Selka is a professional (full HP, full PP, no Rabble rule applies). Orryn takes a significant wound - not a Major Wound, but enough that Khess has to choose between pressing the attack and spending a round applying First Aid (1D4 HP). She applies First Aid. Orryn stays standing.
+The fight with Selka is brief and hard. Selka is a professional (full HP, full PP, no Rabble rule applies). Orryn takes a significant wound - not a critical, but enough HP loss that Khess has to choose between pressing the attack and spending a round applying First Aid (1D4 HP). She applies First Aid. Orryn stays standing.
 
 They take the ledger. They also take Mekhos's secondary accounting tablet, which they were not hired to take - Khess palms it during the extraction. Karash sees her do it and says nothing.
 
