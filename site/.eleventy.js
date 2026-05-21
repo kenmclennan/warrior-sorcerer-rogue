@@ -119,8 +119,9 @@ module.exports = function (eleventyConfig) {
     },
   );
 
-  // Passthrough static assets.
-  eleventyConfig.addPassthroughCopy("css");
+  // Passthrough static assets. The css folder lives at site/css/ but
+  // we want it served from /css/ in the output, so use the mapping form.
+  eleventyConfig.addPassthroughCopy({ "site/css": "css" });
 
   // Collect chapter markdown files into an ordered collection.
   eleventyConfig.addCollection("chaptersOrdered", function (collectionApi) {
@@ -139,12 +140,16 @@ module.exports = function (eleventyConfig) {
       });
   });
 
+  // Directory layout. Config + templates + data live in site/.
+  // Content (chapters/) and meta-docs live at the project root.
+  // 11ty is run from the project root with --config=site/.eleventy.js,
+  // so input "." resolves to the project root.
   return {
     dir: {
       input: ".",
       output: "_site",
-      includes: "_includes",
-      data: "_data",
+      includes: "site/_includes",
+      data: "site/_data",
     },
     pathPrefix,
     markdownTemplateEngine: "njk",

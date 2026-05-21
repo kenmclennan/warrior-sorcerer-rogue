@@ -51,15 +51,28 @@ The chapter source lives in `chapters/`. The links below open the markdown files
 
 ## Building the site locally
 
-The published site is built with [Eleventy](https://www.11ty.dev/) and indexed for search with [Pagefind](https://pagefind.app/).
+The published site is built with [Eleventy](https://www.11ty.dev/) and indexed for search with [Pagefind](https://pagefind.app/). Everything build-related lives under `site/`:
 
-```bash
-npm install
-npm run serve   # local dev with hot reload
-npm run build   # full production build (HTML + search index) into _site/
+```
+site/
+├── .eleventy.js          # build config
+├── package.json          # npm dependencies + scripts
+├── _data/chapters.js     # chapter ordering, section extraction
+├── _includes/            # base.njk, chapter.njk templates
+├── css/book.css          # site styling
+└── index.njk             # landing page template
 ```
 
-The build also runs automatically via `.github/workflows/publish.yml` on push to `main`, deploying to GitHub Pages.
+To build:
+
+```bash
+cd site
+npm install
+npm run serve   # local dev with hot reload
+npm run build   # full production build (HTML + search index) into ../_site/
+```
+
+The same build also runs automatically via `.github/workflows/publish.yml` on push to `main`, deploying to GitHub Pages.
 
 ## License
 

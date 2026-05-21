@@ -23,7 +23,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const CHAPTERS_DIR = path.join(__dirname, "..", "chapters");
+// __dirname here is <root>/site/_data/. Walk up twice to reach the
+// canonical chapters/ folder at the project root.
+const CHAPTERS_DIR = path.join(__dirname, "..", "..", "chapters");
 
 const baseList = [
   { code: "P1",  num: "1",  slug: "p01-introduction",             title: "Introduction",              side: "player"   },

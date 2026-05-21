@@ -25,15 +25,17 @@ jobs:
         with:
           node-version: 20
           cache: npm
+          cache-dependency-path: site/package-lock.json
 
       - name: Install dependencies
+        working-directory: site
         run: npm ci
 
       - name: Build site (Eleventy)
-        run: npx @11ty/eleventy
+        run: ./site/node_modules/.bin/eleventy --config=site/.eleventy.js
 
       - name: Index site (Pagefind)
-        run: npx pagefind --site _site
+        run: ./site/node_modules/.bin/pagefind --site _site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

@@ -4,9 +4,9 @@
   "private": true,
   "description": "Static site build for Warrior * Sorcerer * Rogue.",
   "scripts": {
-    "build": "eleventy && pagefind --site _site",
-    "serve": "eleventy --serve",
-    "clean": "rm -rf _site"
+    "build": "cd .. && eleventy --config=site/.eleventy.js && pagefind --site _site",
+    "serve": "cd .. && eleventy --config=site/.eleventy.js --serve",
+    "clean": "rm -rf ../_site"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
