@@ -17,6 +17,10 @@ __pycache__/
 _site/
 .cache/
 
+# Scratch files - kept locally for sharing snippets with collaborators.
+test.md
+scratch*.md
+
 # Working directories (kept locally, not version-controlled).
 # These hold source material analysis, draft plans, build scripts, and
 # the BRP UGE source PDF - useful at the desk, not on the public repo.
