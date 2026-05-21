@@ -292,7 +292,7 @@ The GM rolls 1d10 on the Pierce, Band C table: result is **5**. The entry reads:
 
 Khess rolls dagger damage: 1D4+2 = 4+2 = **6.** Plus +5 bonus damage = **11 total damage.** Davan has HP 12. He takes 11 damage, dropping to HP 1. He is stunned for 2 rounds, his breathing terrible from the lung wound.
 
-> A single blow of 11 damage against Davan's Major Wound threshold (HP/2 = 6) is clearly above it. Under §5.1, the critical's PA1 result is the wound - pierced lung, stunned, terrible breathing. The Major Wounds Table does not roll, and there is no Luck roll: PA1 critical and Major Wound are parallel wound systems, not stacked. The PA1 entry's stated duration is authoritative.
+> A single blow of 11 damage against Davan's Major Wound threshold (HP/2 = 6) is clearly above it. Under P5 §5.1, a critical Major Wound resolves entirely through the PA1 entry - pierced lung, stunned, terrible breathing. No Stamina roll for criticals; the PA1 entry's stated duration is authoritative.
 
 **Davan acts (DEX 15).** He is stunned. A stunned character cannot attack (see PA1 §1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
 
@@ -346,7 +346,7 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 ### 2.5 What the Example Demonstrated
 
 - **Strike Ranks / Initiative** (P5 §1): DEX order determined who declared last and acted first. Khess's DEX 18 was a meaningful advantage.
-- **Rabble incapacitation** (P5 §8): Both Rabble went down in a single hit each, without consulting the Major Wounds Table. The fight resolved quickly.
+- **Rabble incapacitation** (P5 §8): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
 - **The Quiet Knife talent** (P2 §7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
 - **Critical Buy** (P4 §3): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
 - **PA1 lookup** (PA1 §3): Band C Pierce, 1d10 = 5. Result: pierced lung, stunned 2 rounds, terrible breathing. Read aloud, resolved immediately.

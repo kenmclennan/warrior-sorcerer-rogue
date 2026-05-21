@@ -387,7 +387,7 @@ Requires a martial profession or equivalent background.
 
 **Battle Tempo.** 3 PP. Declare before Phase One Statements. For this round, treat your DEX as +5 for initiative order only. The bonus does not affect skill rolls, Dodge, or damage modifier - it changes the order in which you declare and act, nothing more. Once per combat.
 
-**Throat of the Wolf.** 3 PP. Spend after taking a wound that would reduce you to or below your Major Wound threshold. Make a CON roll; on a success, the Major Wound does not trigger this round - you continue fighting, though you still take the damage. The Major Wound triggers as normal at the start of the next round.
+**Throat of the Wolf.** 3 PP. Spend after taking a hit that crosses your Major Wound threshold. The Major Wound Stamina roll is delayed: you fight unimpaired this round. The Stamina roll resolves at the start of the next round - if it fails, you drop then.
 
 **Shield Slam.** 3 PP. When you successfully parry with a shield, you may immediately make a free Brawl attack against the attacker as a reaction. This attack does not cost an action.
 

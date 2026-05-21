@@ -453,8 +453,8 @@ Other skills:
 
 Talents:
   Steel-Eye - Spend 3 PP to ignore one Difficult modifier on an attack.
-  Hard To Kill - Spend 2 PP to absorb one Major Wound that would
-    incapacitate; instead, fight on at half HP this scene.
+  Hard To Kill - Spend 2 PP to auto-succeed on one Major Wound
+    Stamina roll; fight on unimpaired through the wound this round.
 
 Passions:
   Pride in toughness 85% - any challenge to his physical worth must be met.
@@ -745,7 +745,7 @@ Men of a vanished people, blasted into iron images by a nameless god as punishme
 - **Special Abilities:**
   - _Statue by Day._ During daylight, the statue is inert. It can be damaged - chiselled, hammered, broken - but each blow announces the intruder's presence to its companions, who will rise the next night with that knowledge.
   - _Awakened by Moon._ At nightfall (or beneath the earth where there is no light at all), the statues animate. They hunt within the ruin and rarely leave its walls.
-  - _Immune to Pain._ Does not roll on Major Wounds Table; takes damage normally but does not flinch, slow, or break. Only physical destruction halts them.
+  - _Immune to Pain._ Does not make Major Wound Stamina rolls; takes damage normally but does not flinch, slow, or break. Only physical destruction halts them.
   - _Vulnerability to the God's Name._ The original god who cursed them can release them. A PC who learns the god's name and speaks it may bind one statue still for one round per success on a Difficult POW x5 roll.
 - **Morale:** Does not flee. Falls to pieces when reduced to 0 HP; the pieces remain dangerous until each is broken further.
 

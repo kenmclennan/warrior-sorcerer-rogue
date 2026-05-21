@@ -77,7 +77,7 @@ Each result: **wound description + mechanical effect**. Read or paraphrase the d
 
 **Burns.** The target loses 1 HP per round from clinging fire for the stated number of rounds. Extinguished early by spending an action to pat out, roll on ground, or douse with water (no roll required). Catastrophic burns (2 HP/round) typically require Medicine treatment or sorcery to stop, like a severe bleed.
 
-**Major Wound.** Some entries reference "if this causes a Major Wound, [extra effect]." This means: if the critical's total damage (base damage + bonus damage) equals or exceeds the target's Major Wound threshold (half maximum HP), apply the conditional effect. The PA1 entry is the wound description in any case; the Major Wounds Table in P5 §5.2 does not roll for criticals (see P5 §5.1).
+**Major Wound.** Some entries reference "if this causes a Major Wound, [extra effect]." This means: if the critical's total damage (base damage + bonus damage) equals or exceeds the target's Major Wound threshold (half maximum HP), apply the conditional effect on top of the PA1 entry. The PA1 entry is always the wound description; see P5 §5.1 for how Major Wound interacts with criticals (PA1 replaces the Stamina-roll path for crits).
 
 **Useless.** The affected limb cannot be used until the wound is treated and the character rests. A useless weapon arm means weapons must be switched to the other hand (all attacks Difficult until trained); a useless shield arm means no shield bonus to parry.
 

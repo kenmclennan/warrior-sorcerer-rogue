@@ -242,7 +242,7 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 
 ### 3.4 Helmets
 
-Helmets are purchased separately and provide additional AP to the wearer's head. In the Major Wounds system, a helmet's AP stacks with the body armour AP against any hit; however, if the GM narrates a blow that specifically targeted an exposed head (through an open-faced helm, for instance), only the helmet's AP applies.
+Helmets are purchased separately and provide additional AP to the wearer's head. A helmet's AP stacks with the body armour AP against any hit; however, if the GM narrates a blow that specifically targeted an exposed head (through an open-faced helm, for instance), only the helmet's AP applies.
 
 | Helmet              | AP  | ENC | Skill Modifier  | Notes                                                     | Cost         |
 | ------------------- | --- | --- | --------------- | --------------------------------------------------------- | ------------ |

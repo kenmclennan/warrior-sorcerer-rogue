@@ -159,48 +159,16 @@ Three wound thresholds govern how damage affects a character.
 
 **Major Wound.** A single attack deals damage equal to or greater than half the character's maximum HP. The wound's specifics depend on the source:
 
-- **Critical attack.** Resolve the wound via the PA1 critical hit tables (see §10). The PA1 entry **is** the wound, including its stated duration and permanence. The Major Wounds Table does not roll, and the Luck roll and impaired-capacity status below do not apply. PA1 entries already encode their own severity and recovery.
-- **Non-critical attack.** Roll on the Major Wounds Table (§5.2), or the GM may choose an appropriate result.
+- **Critical attack.** Resolve the wound via the PA1 critical hit tables (see §10). The PA1 entry **is** the wound, including its stated duration and permanence. PA1 entries already encode their own severity and recovery; no Stamina roll is needed.
+- **Non-critical attack.** The character makes a Stamina roll (CON x5):
+  - **Success:** the character stays standing and fights on at impaired capacity - all actions are Difficult until they spend a Short Move recovering wind, or until they take a round to apply First Aid or be tended.
+  - **Failure:** the character is incapacitated - dropped, winded, unable to act. They are unconscious or near it until First Aid is applied or they recover at the end of the scene.
 
-After a non-critical Major Wound, the character makes a Luck roll (POW x5):
-
-- **Success:** the wound heals cleanly; no permanent characteristic loss.
-- **Failure:** the Major Wound result is permanent until addressed.
-
-A character who sustains a non-critical Major Wound is not automatically incapacitated - they may still act in the same round, but at impaired capacity.
+Permanent injuries from a Major Wound enter the game only through PA1: a non-critical Major Wound is brutal but recoverable, while a critical can sever a limb, blind an eye, or break a back exactly because the matching dice rolled the cinematic blow. The two paths are not stacked - a critical hit that crosses the Major Wound threshold resolves through PA1 alone.
 
 **Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
 
-### 5.2 Major Wounds Table
-
-Roll 1D100 when a character sustains a Major Wound (unless the GM chooses an appropriate result):
-
-| Roll  | Result                                                                                                                                                           |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01-05 | Knocked senseless. Unconscious for 1D6 rounds; no permanent effect.                                                                                              |
-| 06-10 | Leg wound. Movement is halved. Agility rolls Difficult.                                                                                                          |
-| 11-15 | Arm wound. One arm is weakened; attack or parry with that arm is Difficult.                                                                                      |
-| 16-20 | Blow to the ribs. All physical actions Difficult. Coughing fits prevent sustained effort.                                                                        |
-| 21-25 | Gash to the face. Bleeding 1 HP/round until stanched. CHA reduced by 1D3 (permanent on failed Luck roll).                                                        |
-| 26-30 | Shoulder wound. Shield or weapon arm at Difficult. STR reduced by 1D3 (permanent on failed Luck roll).                                                           |
-| 31-35 | Deep cut to the thigh. Movement halved. Ongoing 1 HP/round bleed until treated.                                                                                  |
-| 36-40 | Hand wound. Fingers severed or tendons cut. That hand cannot grip a weapon without a Stamina roll. DEX reduced by 1D3 (permanent on failed Luck roll).           |
-| 41-45 | Gut wound. Stamina roll each round or fall unconscious; CON reduced by 1D3 (permanent on failed Luck roll).                                                      |
-| 46-50 | Back blow. Character knocked prone. STR and DEX each reduced by 1D3 (permanent on failed Luck roll).                                                             |
-| 51-55 | Head blow. Stunned 1D6 rounds; INT reduced by 1D3 (permanent on failed Luck roll).                                                                               |
-| 56-60 | Knee injury. Movement reduced to short moves only. DEX reduced by 1D3 (permanent on failed Luck roll).                                                           |
-| 61-65 | Chest wound. All actions Difficult; CON reduced by 1D3. Ongoing 1 HP/round until treated.                                                                        |
-| 66-70 | Eye wound. Vision impaired; Difficult on all sight-dependent rolls. CHA reduced by 1D3 (permanent).                                                              |
-| 71-75 | Broken weapon arm. Cannot use that arm. STR of that arm effectively 0 until healed.                                                                              |
-| 76-80 | Ear lost or hearing damaged. Difficult on all hearing-dependent rolls; CHA reduced by 1 (permanent).                                                             |
-| 81-85 | Crippled leg. Cannot stand without support; requires weeks of recovery. DEX reduced by 1D3 (permanent on failed Luck roll).                                      |
-| 86-90 | Severe internal damage. Unconscious immediately. Stamina roll each hour or CON reduces by 1.                                                                     |
-| 91-95 | Severed or ruined limb. The limb is lost or destroyed. STR and DEX each reduced by 1D3 permanently.                                                              |
-| 96-00 | Killing wound. The character is dying even if HP have not reached zero. Stamina roll each round or lose 1D3 HP; medical intervention required within 1D3 rounds. |
-
-**Criticals and Major Wounds.** Critical attacks resolve via the PA1 critical hit tables (see §10). The Major Wounds Table does not apply, and the Luck roll and impaired-capacity status in §5.1 do not apply. The PA1 entry **is** the wound - its stated duration and permanence are authoritative. Critical and Major Wound are parallel wound systems, not stacked.
-
-### 5.3 Healing
+### 5.2 Healing
 
 Natural healing is slow. A character recovers 1D4 HP per game week, modified by conditions:
 
@@ -316,7 +284,7 @@ An entangling critical (whether on a damage attack or an entangle attempt) impos
 
 Rabble are ordinary soldiers, hired thugs, city guards, and bandit conscripts - fighters without exceptional qualities, without Fate Point access, and without the will to fight to the death.
 
-**The Rabble rule.** A Rabble who takes cumulative damage equal to or greater than half their HP total is automatically incapacitated. No Major Wounds Table. The GM narrates the result: knocked out, driven off, or unwilling to die for six coins. Rabble still attack, parry, and roll to hit normally - only the incapacitation threshold is simplified.
+**The Rabble rule.** A Rabble who takes cumulative damage equal to or greater than half their HP total is automatically incapacitated. No Major Wound Stamina roll. The GM narrates the result: knocked out, driven off, or unwilling to die for six coins. Rabble still attack, parry, and roll to hit normally - only the incapacitation threshold is simplified.
 
 A Rabble is never a named character. The moment an NPC becomes plot-relevant or individually characterised, they resolve under full combat rules.
 

@@ -295,7 +295,7 @@ The character's hand does not waver. On a single attack or skill roll this round
 
 ### 7.9 Rally From the Wound (Cost: 8 PP)
 
-The character summons something from deeper than will. Immediately recover 1D6 HP. This recovery is instantaneous and takes no action. It cannot restore HP above the character's maximum, cannot close a Major Wound that has caused permanent damage (see P5 §4), and cannot be declared when the character is already unconscious. A character may rally at most once per scene.
+The character summons something from deeper than will. Immediately recover 1D6 HP. This recovery is instantaneous and takes no action. It cannot restore HP above the character's maximum, cannot close a PA1 critical wound (see P5 §5.1) that has caused permanent damage, and cannot be declared when the character is already unconscious. A character may rally at most once per scene.
 
 ---
 

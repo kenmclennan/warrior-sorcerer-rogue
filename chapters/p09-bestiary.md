@@ -14,7 +14,7 @@ Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 
 
 **HP** - (CON + SIZ) / 2, round up, unless stated otherwise. 0 HP = dying or dead.
 
-**Major Wound Threshold** - Half HP (round up). Most creatures do not roll on the Major Wounds Table; the GM narrates the wound's effect from the attack type and creature's nature.
+**Major Wound Threshold** - Half HP (round up). Most creatures do not make Major Wound Stamina rolls; the GM narrates the wound's effect from the attack type and creature's nature. A creature taken past its threshold by a non-critical hit slows, staggers, or flees as the fiction suggests; a critical hit applies the PA1 entry as written.
 
 **Bestiary HP and the PC/NPC formula split.** P2 §3.1 and P8 §1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
 
@@ -49,7 +49,7 @@ Elevate to Named Creature:
 
 The Great Wolf is a legendary fight. When defeated, its pelt is a relic worth a king's ransom or a powerful Patron Compact offering - and the village headman may not believe it is dead until he sees the head with his own eyes.
 
-**Resolving Major Wounds against Named Creatures.** They follow the Named Antagonist rule: PA1 critical hit tables apply; the Major Wounds Table does not. See P5 §5 for the Critical/Major Wound exclusivity rule.
+**Resolving Major Wounds against Named Creatures.** They follow the Named Antagonist rule (P5 §5.1): PA1 entries apply for critical hits; non-critical hits past the Major Wound threshold trigger a Stamina roll to stay standing.
 
 **AV** - Reduces all incoming damage. A single value covers the whole creature.
 
@@ -570,7 +570,7 @@ The wight is an older form of undead than the mummy - pre-sorcery, pre-city, a w
 - **Damage Modifier:** +1D6
 - **Attacks:** Ancient Weapon (axe, spear, or sword as appropriate) 65% / weapon damage+dm (weapon type).
 - **Special Abilities:**
-  - _Life Drain._ Each successful hit by the wight drains 1D3 from the target's CON permanently (Luck roll to halve; see P5 §5.1 for Luck rolls on wound effects). Drained CON reduces HP. CON drained to 0 kills the target.
+  - _Life Drain._ Each successful hit by the wight drains 1D3 from the target's CON permanently (POW x5 Luck roll to halve). Drained CON reduces HP. CON drained to 0 kills the target.
   - _Immune to Cold._ Cold-based attacks or environments do not affect a wight.
   - _Turn by True Name._ If the wight's true name (inscribed on its burial goods) is spoken aloud in its presence, it must succeed at a POW x5 roll or be compelled to withdraw for POW rounds.
   - _Command Undead._ A wight can compel skeletons and zombies within POW metres to obey it (commanding as a free action).

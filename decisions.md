@@ -12,6 +12,55 @@ If a decision is later overturned, do not delete it. Add a new entry that supers
 
 ---
 
+## 2026-05-21 - Major Wounds Table dropped; PA1 owns severe wounds
+
+**Context:** User asked whether the Major Wound mechanic was compatible with the PA1 critical hit tables. The two systems both produce major-wound outcomes (amputations, blindness, permanent loss) but were designed differently: PA1 is type-and-band specific (Slash/Pierce/Krush/Burn/Grapple × Bands A-E), while the MW Table was a generic 1D100. The May-12 "Option A" had partitioned them by source (crit → PA1; non-crit big hit → MW Table + Luck roll), which avoided stacking but left the GM asking "which wound system applies?" at every hard hit. The two parallel severity ladders also had calibration burden.
+
+**Decision:** Drop the Major Wounds Table entirely. PA1 owns all severe-wound outcomes. For non-critical hits that cross the Major Wound threshold (≥ half HP), the character makes a **Stamina roll (CON x5)**:
+
+- **Success:** the character stays standing and fights on at impaired capacity - all actions Difficult until they spend a Short Move recovering wind, or until First Aid is applied.
+- **Failure:** the character is incapacitated - dropped, winded, unable to act until First Aid or end-of-scene recovery.
+
+Permanent injuries from a Major Wound enter the game only through PA1 (i.e., only on critical hits). A non-critical Major Wound is brutal but recoverable; a critical can sever a limb, blind an eye, or break a back precisely because the matching dice rolled the cinematic blow. The two paths are not stacked - a critical that crosses the Major Wound threshold resolves through PA1 alone.
+
+**Mechanics of the change:**
+
+- **P5 §5.1** rewritten. The Critical-attack bullet kept (PA1 entry is the wound). The Non-critical-attack bullet now resolves with a Stamina roll, not an MW Table lookup + Luck roll.
+- **P5 §5.2** (the 20-entry Major Wounds Table) deleted entirely.
+- **P5 §5.3 Healing → P5 §5.2.** No external cross-refs pointed at P5 §5.3, so renumbering was clean.
+- **P5 §10.4** "Criticals and Major Wounds" prose dropped - it explained that crits don't roll on the MW Table, which is moot now.
+
+**Cross-chapter ripples:**
+
+- **P1 §4 primer** (one-page rules summary) updated: Major Wound now triggers Stamina roll if non-crit, PA1 if crit.
+- **P2 Throat of the Wolf talent** reframed: 3 PP delays the Major Wound Stamina roll by one round, so the character fights unimpaired this round; the Stamina roll resolves next round.
+- **P4 §7.9 Rally From the Wound** cross-ref corrected (was pointing at P5 §4; now P5 §5.1) and reframed: cannot close PA1 permanent damage rather than "permanent damage from a Major Wound."
+- **P7 §3.4 Helmets** language tightened: dropped the "In the Major Wounds system" framing (now redundant).
+- **P8 §1 NPC tiers** updated: Rabble do not make Major Wound Stamina rolls (was "do not roll on MW Table"); Professionals make Major Wound Stamina rolls normally. Rabble stat block template line updated. Look Out Master! / Rabble rule prose updated.
+- **P9 §1 Bestiary creature entry format** updated: most creatures do not make Major Wound Stamina rolls; non-crit past threshold causes the creature to slow/stagger/flee per GM narration; critical applies PA1 as written.
+- **P9 §1.2 Named Creature** rule updated: PA1 for crits, Stamina roll for non-crit Major Wounds, same as PC/Named Antagonist.
+- **P9 wight Life Drain** ability: corrected the cross-ref to P5 §5.1 (which referenced "Luck rolls for wound effects" - the Luck roll for wound effects no longer exists; rephrased as a standalone POW x5 roll within the ability).
+- **PA1 §1.4 "Major Wound" conditional** language updated: the "if this causes a Major Wound" clause in PA1 entries still applies (the conditional effect stacks on top of the PA1 entry when total damage ≥ threshold); reference to P5 §5.2 MW Table dropped.
+- **PA2 walkthroughs**: Davan's Pierce-crit-into-lung explanation reframed (no MW Table, no Luck roll), and the "what the example demonstrated" Rabble-incapacitation line updated.
+- **P13 §6.3 Outlaw Hetman "Hard To Kill" talent** reframed: 2 PP auto-succeeds a Major Wound Stamina roll rather than absorbs an MW Table result.
+- **P13 §7.4 Iron Statues "Immune to Pain"** ability: does not make Major Wound Stamina rolls (was "does not roll on MW Table").
+
+**Threshold concept preserved.** "Major Wound" remains a real game term - it is the half-HP threshold that triggers either the Stamina roll (non-crit) or the cinematic PA1 wound (crit). All stat-block "Major Wound Threshold" entries in P9 and P13 are still meaningful. PA1 entries that say "if this causes a Major Wound, [extra effect]" still work; the conditional fires when total damage crosses the threshold.
+
+**Reasoning:**
+
+- **Two systems doing the same job.** PA1 already delivers amputations, blindness, broken bones, and permanent loss for crits. The MW Table delivered similar outcomes for non-crits. Two parallel severity ladders had to be kept in calibration; dropping one is cleaner.
+- **PA1 is the better-designed system.** PA1 is tuned by damage type and severity band (1-2-2-2-2 distribution, 250 entries). The MW Table was a generic 1D100 with no damage-type sensitivity. A non-crit Slash producing a "broken arm" via MW Table didn't even match the attack type, while a Slash crit would produce something appropriate to slashing. Concentrating severe wounds in PA1 makes the wound-attack-type correspondence consistent.
+- **Genre fit.** Pulp sword & sorcery heroes shrug off big hits and only take lasting damage from the cinematic blow. Conan walks away from gut wounds that would cripple a normal soldier; Elric's worst injuries come from sorcerous duels, not from ordinary blade-strokes. Crit-driven permanent injury fits the source register. Non-crit "big hits" should test endurance, not roll for amputation.
+- **The Stamina roll preserves the mechanical bite.** A failed Stamina roll drops the PC for the rest of the scene; a successful one leaves them at impaired capacity (all actions Difficult). This is meaningful pressure - players will still feel a Major Wound - without producing permanent injuries from non-crits.
+- **Lookup overhead reduced.** ~25 lines of table plus the Luck-roll mechanic gone; no parallel severity ladder to maintain in calibration with PA1's bands.
+
+**Tradeoff:** A non-critical big hit can no longer directly cripple a PC. Some tables will miss the "ordinary big hit can still cause a permanent injury" path. The system now requires a matching-dice critical (PA1) for any permanent injury to occur from combat - which is genre-faithful but a real change in the mechanical surface. The Stamina-roll consequence remains stiff: an incapacitated PC is out of the scene.
+
+**Verification:** Grep clean for "Major Wounds Table" / "MW Table" / "Major Wound roll" across all chapters. Threshold-concept references preserved throughout P9 bestiary stat blocks and PA1 conditional clauses.
+
+---
+
 ## 2026-05-21 - Collapsed to a single book; G1 dropped; G2-G7 renumbered to P8-P13
 
 **Context:** User re-read the (already-shrunk) G1 chapter and decided it added nothing. _"Ok, Having read G1 again I think I just want to drop that section. I don't like any of it. Lets reconfigure to a single book. remove g01. append g02 onwards after P07. rename files to continuous."_
