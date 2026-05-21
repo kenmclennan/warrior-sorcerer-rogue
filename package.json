@@ -1,0 +1,17 @@
+{
+  "name": "warrior-sorcerer-rogue-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static site build for Warrior * Sorcerer * Rogue.",
+  "scripts": {
+    "build": "eleventy && pagefind --site _site",
+    "serve": "eleventy --serve",
+    "clean": "rm -rf _site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "pagefind": "^1.1.1"
+  }
+}

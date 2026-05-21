@@ -1,0 +1,41 @@
+---
+layout: base.njk
+---
+{# Compute prev/next from the chapters data list using the current fileSlug. #}
+{% set ordered = chapters %}
+{% set thisSlug = page.fileSlug %}
+{% set thisIndex = -1 %}
+{% for c in ordered %}{% if c.slug == thisSlug %}{% set thisIndex = loop.index0 %}{% endif %}{% endfor %}
+{% set prev = ordered[thisIndex - 1] if thisIndex > 0 else null %}
+{% set next = ordered[thisIndex + 1] if thisIndex < (ordered.length - 1) else null %}
+{% set thisChapter = ordered[thisIndex] if thisIndex >= 0 else null %}
+
+<article class="chapter" data-pagefind-body>
+  {% if thisChapter %}
+    <p class="chapter-code">{{ thisChapter.code }}</p>
+  {% endif %}
+
+  {{ content | safe }}
+</article>
+
+<nav class="chapter-nav">
+  {% if prev %}
+    <a class="prev" href="{{ ('/' + prev.slug + '/') | url }}">
+      <span class="label">Previous</span>
+      <span class="title">{{ prev.code }}. {{ prev.title }}</span>
+    </a>
+  {% else %}
+    <span class="prev empty"></span>
+  {% endif %}
+
+  <a class="up" href="{{ '/' | url }}">Contents</a>
+
+  {% if next %}
+    <a class="next" href="{{ ('/' + next.slug + '/') | url }}">
+      <span class="label">Next</span>
+      <span class="title">{{ next.code }}. {{ next.title }}</span>
+    </a>
+  {% else %}
+    <span class="next empty"></span>
+  {% endif %}
+</nav>

@@ -1,0 +1,59 @@
+---
+layout: base.njk
+title: Contents
+permalink: /
+---
+{% set playerChapters = [] %}
+{% set gmChapters = [] %}
+{% set appendixChapters = [] %}
+{% for c in chapters %}
+  {% if c.side == "player" %}{% set playerChapters = playerChapters.concat([c]) %}{% endif %}
+  {% if c.side == "gm" %}{% set gmChapters = gmChapters.concat([c]) %}{% endif %}
+  {% if c.side == "appendix" %}{% set appendixChapters = appendixChapters.concat([c]) %}{% endif %}
+{% endfor %}
+
+<section class="intro">
+  <h1>Warrior * Sorcerer * Rogue</h1>
+  <p class="tagline">A sword &amp; sorcery roleplaying game.</p>
+  <p>
+    Built on Chaosium's Basic Roleplaying Universal Game Engine under the ORC License. The book is a focused, opinionated extraction of BRP for one specific genre - the sword &amp; sorcery of Howard, Leiber, and Moorcock. Use the search above to find a rule, or pick a chapter below.
+  </p>
+</section>
+
+<section class="toc">
+  <h2>Player-Facing</h2>
+  <ol class="chapter-list">
+    {% for c in playerChapters %}
+      <li>
+        <a href="{{ ('/' + c.slug + '/') | url }}">
+          <span class="code">{{ c.code }}</span>
+          <span class="title">{{ c.title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+
+  <h2>GM-Facing</h2>
+  <ol class="chapter-list">
+    {% for c in gmChapters %}
+      <li>
+        <a href="{{ ('/' + c.slug + '/') | url }}">
+          <span class="code">{{ c.code }}</span>
+          <span class="title">{{ c.title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+
+  <h2>Appendices</h2>
+  <ol class="chapter-list">
+    {% for c in appendixChapters %}
+      <li>
+        <a href="{{ ('/' + c.slug + '/') | url }}">
+          <span class="code">{{ c.code }}</span>
+          <span class="title">{{ c.title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</section>

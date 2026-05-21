@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if title %}{{ title }} - {% endif %}Warrior * Sorcerer * Rogue</title>
+    <link rel="stylesheet" href="{{ '/css/book.css' | url }}">
+    <link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | url }}">
+    <script src="{{ '/pagefind/pagefind-ui.js' | url }}"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-title" href="{{ '/' | url }}">Warrior <span class="sep">*</span> Sorcerer <span class="sep">*</span> Rogue</a>
+      <div id="search"></div>
+      <script>
+        window.addEventListener("DOMContentLoaded", function () {
+          new PagefindUI({
+            element: "#search",
+            showSubResults: true,
+            showImages: false,
+          });
+        });
+      </script>
+    </header>
+
+    <main class="content">
+      {{ content | safe }}
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        Warrior * Sorcerer * Rogue is built on Chaosium's Basic Roleplaying
+        Universal Game Engine under the ORC License.
+        <a href="{{ '/p01-introduction/#sec-5-1' | url }}">Attribution.</a>
+      </p>
+    </footer>
+  </body>
+</html>

@@ -13,6 +13,10 @@ node_modules/
 __pycache__/
 *.pyc
 
+# Site build output
+_site/
+.cache/
+
 # Source reference PDFs that are NOT under the ORC License.
 # These are commercial copyright and must not be redistributed via this repo.
 # Only the BRP UGE document (ORC-licensed) is tracked.

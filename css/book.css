@@ -1,0 +1,324 @@
+/* Warrior * Sorcerer * Rogue - structural CSS.
+ *
+ * This file provides readable defaults only. There is no aesthetic
+ * palette yet: it is intentionally plain so the structure can be
+ * verified independently of the genre styling that will come later.
+ *
+ * Layout: single-column, readable measure, sane heading hierarchy,
+ * table-heavy content treated kindly.
+ */
+
+/* -------- Base -------- */
+
+:root {
+  --measure: 42rem;
+  --gutter: 1.5rem;
+  --text: #1a1a1a;
+  --muted: #5a5a5a;
+  --bg: #fafaf7;
+  --rule: #d6d2c4;
+  --accent: #6b3a1f;
+  --code-bg: #f0ece0;
+  --table-stripe: #f4f1e6;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 18px; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.55;
+  color: var(--text);
+  background: var(--bg);
+}
+
+/* -------- Site header & search -------- */
+
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem var(--gutter);
+  border-bottom: 1px solid var(--rule);
+  background: var(--bg);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.site-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--text);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+.site-title:hover { color: var(--accent); }
+.site-title .sep { color: var(--accent); font-weight: 400; }
+
+#search {
+  flex: 1;
+  max-width: 22rem;
+}
+
+/* Pagefind UI sizing overrides (Pagefind ships its own CSS; these just
+ * keep the search box from blowing out the header layout). */
+.pagefind-ui__form { font-size: 0.95rem; }
+
+/* -------- Main content container -------- */
+
+.content {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: var(--gutter);
+}
+
+/* -------- Headings -------- */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.2;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+  color: var(--text);
+}
+
+h1 { font-size: 2rem; margin-top: 1.2rem; }
+h2 { font-size: 1.5rem; border-bottom: 1px solid var(--rule); padding-bottom: 0.3rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1.05rem; }
+
+/* Heading anchor link inserted by markdown-it-anchor (after the heading text).
+ * Visible only on hover so the heading text reads cleanly. */
+.anchor {
+  margin-left: 0.4rem;
+  color: var(--muted);
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity 120ms;
+  font-size: 0.85em;
+}
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+.anchor:focus { opacity: 1; }
+
+/* -------- Body text -------- */
+
+p { margin: 0 0 1em 0; }
+
+a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-color: rgba(107, 58, 31, 0.4);
+  text-underline-offset: 2px;
+}
+a:hover { text-decoration-color: var(--accent); }
+
+a.xref {
+  /* Inline cross-references (P5 §3, PA1 §1.2). Slightly muted - they're
+   * structural pointers, not the main reading flow. */
+  text-decoration-style: dotted;
+}
+
+strong, b { font-weight: 700; }
+em, i { font-style: italic; }
+
+blockquote {
+  margin: 1.2em 0;
+  padding: 0.2em 1em;
+  border-left: 3px solid var(--accent);
+  color: var(--muted);
+  font-style: italic;
+}
+blockquote p:last-child { margin-bottom: 0; }
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 2rem 0;
+}
+
+/* -------- Lists -------- */
+
+ul, ol { padding-left: 1.5rem; }
+li { margin-bottom: 0.3em; }
+li > p:first-child { margin-top: 0; }
+
+/* -------- Code / stat blocks -------- */
+
+code {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.9em;
+  background: var(--code-bg);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+pre {
+  background: var(--code-bg);
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+pre code {
+  background: transparent;
+  padding: 0;
+  font-size: inherit;
+}
+
+/* -------- Tables -------- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2em 0;
+  font-size: 0.95rem;
+}
+th, td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.4em 0.6em;
+  border-bottom: 1px solid var(--rule);
+}
+th {
+  background: var(--code-bg);
+  font-weight: 700;
+}
+tbody tr:nth-child(even) { background: var(--table-stripe); }
+
+/* -------- Chapter scaffolding -------- */
+
+.chapter-code {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.85rem;
+  color: var(--muted);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.chapter h1 {
+  margin-top: 0.4rem;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.4rem;
+}
+
+/* -------- Prev/next nav -------- */
+
+.chapter-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.95rem;
+}
+
+.chapter-nav a {
+  display: inline-flex;
+  flex-direction: column;
+  flex: 1;
+  text-decoration: none;
+  color: var(--text);
+  padding: 0.6em 0.8em;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: white;
+}
+.chapter-nav a:hover { border-color: var(--accent); }
+
+.chapter-nav .label {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+}
+.chapter-nav .title { font-weight: 700; }
+
+.chapter-nav .prev { text-align: left; }
+.chapter-nav .next { text-align: right; }
+.chapter-nav .empty { visibility: hidden; }
+
+.chapter-nav .up {
+  flex: 0;
+  text-align: center;
+  white-space: nowrap;
+  padding: 0.6em 0.9em;
+}
+
+/* -------- Landing page / TOC -------- */
+
+.intro {
+  margin-bottom: 2.5rem;
+}
+.intro h1 {
+  font-size: 2.4rem;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.4rem;
+}
+.intro .tagline {
+  color: var(--muted);
+  font-style: italic;
+  margin-top: -0.2rem;
+}
+
+.toc h2 {
+  margin-top: 1.6rem;
+  border-bottom: none;
+  font-size: 1.15rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.chapter-list {
+  list-style: none;
+  padding: 0;
+}
+.chapter-list li { margin-bottom: 0.3em; }
+.chapter-list a {
+  display: flex;
+  gap: 0.8rem;
+  padding: 0.4em 0.6em;
+  border-radius: 3px;
+  text-decoration: none;
+  color: var(--text);
+}
+.chapter-list a:hover { background: var(--code-bg); }
+.chapter-list .code {
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.85rem;
+  color: var(--accent);
+  min-width: 3rem;
+}
+.chapter-list .title { font-weight: 600; }
+
+/* -------- Footer -------- */
+
+.site-footer {
+  max-width: var(--measure);
+  margin: 3rem auto 1rem auto;
+  padding: 1rem var(--gutter);
+  border-top: 1px solid var(--rule);
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+/* -------- Mobile -------- */
+
+@media (max-width: 720px) {
+  html { font-size: 16px; }
+  .chapter-nav { flex-direction: column; }
+  .chapter-nav a, .chapter-nav .up { width: 100%; }
+}
