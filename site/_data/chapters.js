@@ -3,11 +3,12 @@
  * extracted section listings used to build the collapsible sidebar.
  *
  * Fields:
- *   code     The cross-reference identifier (P1, P5, PA1) - used by
- *            the cross-ref linker in .eleventy.js and by historical
- *            references in the markdown source. Not displayed.
- *   num      The display number in the sidebar (1, 2, ..., 13, A1-A5).
- *            The book is one volume; the P prefix is no longer shown.
+ *   num      The chapter's identifier: 1, 2, ..., 13 for chapters and
+ *            A1-A5 for appendices. Used as the display number in the
+ *            sidebar and headings, and as the lookup key for the
+ *            cross-reference transform (the markdown text still uses
+ *            "P5 §3" / "PA1 §1.2" form; the transform derives the
+ *            P / PA prefix from num at runtime).
  *   slug     The URL slug and source filename stem.
  *   title    The chapter title (no number).
  *   side     One of "player" / "gm" / "appendix". Retained for
@@ -28,24 +29,24 @@ const path = require("path");
 const CHAPTERS_DIR = path.join(__dirname, "..", "..", "chapters");
 
 const baseList = [
-  { code: "P1",  num: "1",  slug: "01-introduction",             title: "Introduction",              side: "player"   },
-  { code: "P2",  num: "2",  slug: "02-character-creation",       title: "Character Creation",        side: "player"   },
-  { code: "P3",  num: "3",  slug: "03-skills",                   title: "Skills",                    side: "player"   },
-  { code: "P4",  num: "4",  slug: "04-action-resolution",        title: "Action Resolution",        side: "player"   },
-  { code: "P5",  num: "5",  slug: "05-combat",                   title: "Combat",                    side: "player"   },
-  { code: "P6",  num: "6",  slug: "06-sorcery",                  title: "Sorcery",                   side: "player"   },
-  { code: "P7",  num: "7",  slug: "07-equipment",                title: "Equipment",                 side: "player"   },
-  { code: "P8",  num: "8",  slug: "08-npcs-and-adversaries",     title: "NPCs and Adversaries",     side: "gm"       },
-  { code: "P9",  num: "9",  slug: "09-bestiary",                 title: "Bestiary",                  side: "gm"       },
-  { code: "P10", num: "10", slug: "10-npc-sorcery-and-patrons",  title: "NPC Sorcery and Patrons",   side: "gm"       },
-  { code: "P11", num: "11", slug: "11-treasure-and-artifacts",   title: "Treasure and Artifacts",    side: "gm"       },
-  { code: "P12", num: "12", slug: "12-hazards-and-spot-rules",   title: "Hazards and Spot Rules",   side: "gm"       },
-  { code: "P13", num: "13", slug: "13-the-deep-past",            title: "The Deep Past",             side: "gm"       },
-  { code: "PA1", num: "A1", slug: "a1-critical-hit-tables",      title: "Critical Hit Tables",       side: "appendix" },
-  { code: "PA2", num: "A2", slug: "a2-examples",                 title: "Play Examples",             side: "appendix" },
-  { code: "PA3", num: "A3", slug: "a3-inspirational-influences", title: "Inspirational Influences", side: "appendix" },
-  { code: "PA4", num: "A4", slug: "a4-names",                    title: "Names",                     side: "appendix" },
-  { code: "PA5", num: "A5", slug: "a5-gm-examples",              title: "GM Examples",               side: "appendix" },
+  { num: "1",  slug: "01-introduction",             title: "Introduction",              side: "player"   },
+  { num: "2",  slug: "02-character-creation",       title: "Character Creation",        side: "player"   },
+  { num: "3",  slug: "03-skills",                   title: "Skills",                    side: "player"   },
+  { num: "4",  slug: "04-action-resolution",        title: "Action Resolution",        side: "player"   },
+  { num: "5",  slug: "05-combat",                   title: "Combat",                    side: "player"   },
+  { num: "6",  slug: "06-sorcery",                  title: "Sorcery",                   side: "player"   },
+  { num: "7",  slug: "07-equipment",                title: "Equipment",                 side: "player"   },
+  { num: "8",  slug: "08-npcs-and-adversaries",     title: "NPCs and Adversaries",     side: "gm"       },
+  { num: "9",  slug: "09-bestiary",                 title: "Bestiary",                  side: "gm"       },
+  { num: "10", slug: "10-npc-sorcery-and-patrons",  title: "NPC Sorcery and Patrons",   side: "gm"       },
+  { num: "11", slug: "11-treasure-and-artifacts",   title: "Treasure and Artifacts",    side: "gm"       },
+  { num: "12", slug: "12-hazards-and-spot-rules",   title: "Hazards and Spot Rules",   side: "gm"       },
+  { num: "13", slug: "13-the-deep-past",            title: "The Deep Past",             side: "gm"       },
+  { num: "A1", slug: "a1-critical-hit-tables",      title: "Critical Hit Tables",       side: "appendix" },
+  { num: "A2", slug: "a2-examples",                 title: "Play Examples",             side: "appendix" },
+  { num: "A3", slug: "a3-inspirational-influences", title: "Inspirational Influences", side: "appendix" },
+  { num: "A4", slug: "a4-names",                    title: "Names",                     side: "appendix" },
+  { num: "A5", slug: "a5-gm-examples",              title: "GM Examples",               side: "appendix" },
 ];
 
 function extractSections(slug) {

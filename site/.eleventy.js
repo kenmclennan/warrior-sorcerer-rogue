@@ -75,8 +75,13 @@ module.exports = function (eleventyConfig) {
   // Cross-ref transform: built lazily so chapters data is loaded first.
   // Eleventy runs transforms after rendering, in the order they're added.
   // We need the chapter map; load it at config time via require.
+  // Cross-ref codes ("P5", "PA1") in the markdown source are derived
+  // from each chapter's num: "P" + num produces "P5" for num "5" and
+  // "PA1" for num "A1".
   const chapters = require("./_data/chapters.js");
-  const chapterMap = Object.fromEntries(chapters.map((c) => [c.code, c.slug]));
+  const chapterMap = Object.fromEntries(
+    chapters.map((c) => ["P" + c.num, c.slug]),
+  );
   eleventyConfig.addTransform(
     "crossref",
     buildCrossRefTransform(chapterMap, pathPrefix),
