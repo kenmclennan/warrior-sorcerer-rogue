@@ -44,42 +44,13 @@ WSR is a tabletop roleplaying game built on Chaosium's **Basic Roleplaying Unive
 
 ## 3. Conventions Used in This Book
 
-### 3.1 Chapter Codes
-
-Chapters use codes for cross-reference. The early chapters (P1-P7) cover what a player needs at the table: characters, skills, action resolution, combat, sorcery, equipment. The later chapters (P8-P13) cover what the GM needs to run the world: NPCs, bestiary, patrons, treasure, hazards, the deep past. The appendices follow.
-
-| Code    | Chapter                            |
-| ------- | ---------------------------------- |
-| **P1**  | Introduction (this chapter)        |
-| **P2**  | Character Creation                 |
-| **P3**  | Skills                             |
-| **P4**  | Action Resolution                  |
-| **P5**  | Combat                             |
-| **P6**  | Sorcery                            |
-| **P7**  | Equipment                          |
-| **P8**  | NPCs and Adversaries               |
-| **P9**  | Bestiary                           |
-| **P10** | NPC Sorcery and Patrons            |
-| **P11** | Treasure and Artifacts             |
-| **P12** | Hazards and Spot Rules             |
-| **P13** | The Deep Past                      |
-| **PA1** | Appendix: Critical Hit Tables      |
-| **PA2** | Appendix: Play Examples            |
-| **PA3** | Appendix: Inspirational Influences |
-| **PA4** | Appendix: Names                    |
-| **PA5** | Appendix: GM Examples              |
-
-### 3.2 Cross-Reference Syntax
-
-Cross-references use the chapter code followed by the section number, formatted as follows: **P4 §2** means the Action Resolution chapter, section 2. **PA1 §3** means the Critical Hit Tables appendix, section 3. If a subsection is meant, the number extends: **P5 §3.2** means Combat chapter, section 3, subsection 2.
-
-### 3.3 Sidebars and Designer Notes
+### 3.1 Sidebars and Designer Notes
 
 Boxed text or quoted blocks in italic set aside from the main rules are designer notes or contextual commentary. They are not rules text. They can be skipped without losing any mechanical information.
 
-### 3.4 Examples
+### 3.2 Examples
 
-Worked examples - character creation walkthroughs, multi-round combat sequences, sorcery casting with Corruption and PP tracking - live in the appendices: PA2 collects play examples (player-side), PA5 collects prep examples (GM-side). They are not interleaved with the rules.
+Worked examples - character creation walkthroughs, multi-round combat sequences, sorcery casting with Corruption and PP tracking - live in the appendices: A2 collects play examples (player-side), A5 collects prep examples (GM-side). They are not interleaved with the rules.
 
 ---
 
