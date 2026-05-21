@@ -60,7 +60,9 @@ function extractSections(slug) {
     if (!m) continue;
     const level = m[1].length;
     const num = m[2];
-    const title = m[3];
+    // Strip Markdown escape backslashes (\* \_ \` \\) so titles render
+    // as their literal characters in the sidebar.
+    const title = m[3].replace(/\\([*_`\\])/g, "$1");
     sections.push({
       id: `sec-${num.replace(/\./g, "-")}`,
       num,
