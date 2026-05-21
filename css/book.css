@@ -298,6 +298,13 @@ h2 { font-size: 1.5rem; border-bottom: 1px solid var(--rule); padding-bottom: 0.
 h3 { font-size: 1.2rem; }
 h4 { font-size: 1.05rem; }
 
+/* Anchor-jump scroll offset: when navigating to #sec-N, leave room for
+ * the sticky header so the heading doesn't get hidden underneath. */
+:target,
+[id^="sec-"] {
+  scroll-margin-top: calc(var(--header-height) + 0.6rem);
+}
+
 /* markdown-it-anchor link inside headings. Visible only on hover. */
 .anchor {
   margin-left: 0.4rem;
