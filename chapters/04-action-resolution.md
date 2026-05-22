@@ -48,7 +48,7 @@ Every roll produces one of four outcomes, determined by whether the roll succeed
 
 ### 2.1 The Four Outcomes
 
-**Critical Success.** A roll of **01 is always a Critical Success**, regardless of skill - the traditional lucky shot. Otherwise, a Critical occurs when the roll is both a success (equal to or less than the skill) AND a matching-dice result. Something exceptional happens beyond ordinary success. In combat, look up the critical result on the relevant damage-type table (see PA1). Outside combat, a critical represents the best possible version of what the character was attempting.
+**Critical Success.** A roll of **01 is always a Critical Success**, regardless of skill - the traditional lucky shot. Otherwise, a Critical occurs when the roll is both a success (equal to or less than the skill) AND a matching-dice result. Something exceptional happens beyond ordinary success. In combat, look up the critical result on the relevant damage-type table (see §A1). Outside combat, a critical represents the best possible version of what the character was attempting.
 
 **Success.** The roll is equal to or less than the skill, but is not a matching-dice result. The character achieves what they set out to do.
 
@@ -109,7 +109,7 @@ After rolling an ordinary success, identify the highest matching-dice value that
 - A roll forced to success by Push Through (§7.5) is not eligible for a Critical Buy. The two spends cannot chain on the same roll: you cannot buy your way from a failure to a success to a critical.
 - A roll that has been re-rolled (§7.1) is not eligible for a Critical Buy.
 
-Sorcerer PCs: every PP spent on a Critical Buy is a PP unavailable for casting. See P6 §1.
+Sorcerer PCs: every PP spent on a Critical Buy is a PP unavailable for casting. See §6.1.
 
 ---
 
@@ -170,7 +170,7 @@ The game uses four time scales. The GM shifts between them as the fiction demand
 
 **Turn.** Five minutes, equivalent to twenty-five combat rounds. Used for dungeon exploration, timed tasks with meaningful stakes.
 
-**Combat Round.** Twelve seconds. Used whenever combat is active. See P5 §1 for combat structure.
+**Combat Round.** Twelve seconds. Used whenever combat is active. See §5.1 for combat structure.
 
 ### 5.2 Key Intervals
 
@@ -217,12 +217,12 @@ A Fate Point spend that would push a character to exactly 0 PP can still be decl
 
 Power Points are spent by:
 
-- **Sorcery (P6 §2).** Casting spells costs PP equal to the spell's power cost, paid at the moment of casting.
-- **Buying a Critical (P4 §3).** A Fate Point spend with variable cost: converting an ordinary success to a Critical costs PP equal to the gap between the roll and the nearest lower matching value.
-- **Other Fate Point spends (P4 §7).** Fixed-cost spends from the menu - re-rolls, defensive responses, forcing a success.
-- **Talents (P2 §4).** Certain talent abilities have a PP cost listed in their description.
+- **Sorcery (§6.2).** Casting spells costs PP equal to the spell's power cost, paid at the moment of casting.
+- **Buying a Critical (§4.3).** A Fate Point spend with variable cost: converting an ordinary success to a Critical costs PP equal to the gap between the roll and the nearest lower matching value.
+- **Other Fate Point spends (§4.7).** Fixed-cost spends from the menu - re-rolls, defensive responses, forcing a success.
+- **Talents (§2.4).** Certain talent abilities have a PP cost listed in their description.
 
-Named antagonists and competent NPC foes have their own PP pools, spent under the same rules. Rabble have no PP and no access to any PP-spend ability. See P8 §1 for the NPC tier model.
+Named antagonists and competent NPC foes have their own PP pools, spent under the same rules. Rabble have no PP and no access to any PP-spend ability. See §8.1 for the NPC tier model.
 
 ---
 
@@ -295,7 +295,7 @@ The character's hand does not waver. On a single attack or skill roll this round
 
 ### 7.9 Rally From the Wound (Cost: 8 PP)
 
-The character summons something from deeper than will. Immediately recover 1D6 HP. This recovery is instantaneous and takes no action. It cannot restore HP above the character's maximum, cannot close a PA1 critical wound (see P5 §5.1) that has caused permanent damage, and cannot be declared when the character is already unconscious. A character may rally at most once per scene.
+The character summons something from deeper than will. Immediately recover 1D6 HP. This recovery is instantaneous and takes no action. It cannot restore HP above the character's maximum, cannot close a §A1 critical wound (see §5.5.1) that has caused permanent damage, and cannot be declared when the character is already unconscious. A character may rally at most once per scene.
 
 ---
 

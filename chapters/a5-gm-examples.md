@@ -3,9 +3,9 @@
 > _"Men of the waste lands were not accustomed to the subtleties of civilized intrigue, but they could read signs."_
 > _- Robert E. Howard_
 
-Worked examples on the GM side of the book - the tools in P8-P13 applied to a single session. Player-facing counterpart is PA2; cross-references are noted where situations appear in both.
+Worked examples on the GM side of the book - the tools in §8-§13 applied to a single session. Player-facing counterpart is §A2; cross-references are noted where situations appear in both.
 
-Characters from PA2 (Khess the Knife, Orryn, and Karash) appear throughout.
+Characters from §A2 (Khess the Knife, Orryn, and Karash) appear throughout.
 
 ---
 
@@ -29,17 +29,17 @@ Three usable hooks: the Syndicate (Khess's Hatred 80%); the Pit Lords (Orryn's H
 
 ---
 
-### 1.2 Using the P13 Generator: A Small Fallen Empire Hit
+### 1.2 Using the §13 Generator: A Small Fallen Empire Hit
 
-The GM rolls on P13 §§1-2 for a fallen empire profile to seat the adventure in.
+The GM rolls on §13.1 and §13.2 for a fallen empire profile to seat the adventure in.
 
-**Who they were (P13 §1.1):** Roll D6 = 4. **Scholarly.** A civilisation that valued knowledge above all things, studied the wrong things, and the wrong things studied them back.
+**Who they were (§13.1.1):** Roll D6 = 4. **Scholarly.** A civilisation that valued knowledge above all things, studied the wrong things, and the wrong things studied them back.
 
-**What they did (P13 §1.2):** Roll D6 = 3. **Perfected a form of sorcery.** They encoded it into their architecture. Their ruins still carry it.
+**What they did (§13.1.2):** Roll D6 = 3. **Perfected a form of sorcery.** They encoded it into their architecture. Their ruins still carry it.
 
-**What destroyed them (P13 §1.3):** Roll D6 = 2. **Sorcerous backlash.** The encoded sorcery reversed catastrophically. The ruins carry residue that sorcerers feel immediately.
+**What destroyed them (§13.1.3):** Roll D6 = 2. **Sorcerous backlash.** The encoded sorcery reversed catastrophically. The ruins carry residue that sorcerers feel immediately.
 
-**What they left (P13 §1.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (See the Unseen reveals it immediately).
+**What they left (§13.1.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (See the Unseen reveals it immediately).
 
 **What this gives the GM:** The Serpent Syndicate uses the archive as a private document vault - stumbled on the lower entrance three years ago and has no idea what they are sitting on. The ancient wall-encoding is starting to behave strangely now that the Syndicate is burning lamp oil and storing sorcerously-adjacent documents there. This is the background the PCs do not know.
 
@@ -87,9 +87,9 @@ _Have all three in mind; run whichever the fiction arrives at._
 
 ### 1.6 One NPC Built for the Session
 
-The GM needs the Syndicate clerk: Perrak, a professional (P8 §1.2) - document forger, self-taught sorcerous dabbler, no patron.
+The GM needs the Syndicate clerk: Perrak, a professional (§8.1.2) - document forger, self-taught sorcerous dabbler, no patron.
 
-_Perrak's stat block is drafted in fifteen minutes using P8 §3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10), no Patron, Corruption 78 (self-taught sorcerers who do not know the Corruption rules pay a heavy price). He has See the Unseen as his only memorised spell and uses it obsessively to check for intruders - which is how the secondary casting signature in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and his Corruption is leaking into the encoded walls._
+_Perrak's stat block is drafted in fifteen minutes using §8.3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10), no Patron, Corruption 78 (self-taught sorcerers who do not know the Corruption rules pay a heavy price). He has See the Unseen as his only memorised spell and uses it obsessively to check for intruders - which is how the secondary casting signature in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and his Corruption is leaking into the encoded walls._
 
 The archive is now "dangerous known plus Perrak's unknowing amplification" rather than "dangerous unknown" - more human, and the PCs' choice about Perrak is a genuine moral one. Turn him in alongside the forged document. Let him go. Warn him what the walls are doing with his castings. That call belongs to the players.
 
@@ -103,7 +103,7 @@ _G4 §1 framework applied to a mid-tier patron sorcerer as named antagonist. Dro
 
 ### 2.1 The Three Questions First
 
-Per P10 §1.1, start with three questions before touching statistics.
+Per §10.1.1, start with three questions before touching statistics.
 
 **Question 1 - How much has this sorcerer paid?**
 
@@ -164,7 +164,7 @@ She fights in emergencies only.
 
 ### 2.4 Patron Compact: The Charnel Heir
 
-Ysolde is bonded to the Charnel Heir (P10 §4.3). The relevant mechanics:
+Ysolde is bonded to the Charnel Heir (§10.4.3). The relevant mechanics:
 
 - **Patron Score:** 28. PP reserve: up to 3 PP per draw, three times per session.
 - **Demands she is actively fulfilling:** "Advance the lineage" (she is hunting the bloodline artifact); "Read the record" (monthly commune, which she finds increasingly distressing).
@@ -233,13 +233,13 @@ Fate Point access: Yes (full named-antagonist PP pool, spends normally).
 
 ## 3. Running a Chase Scene at the Table
 
-_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: P12 §8._
+_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: §12.8._
 
 ---
 
 ### 3.1 Set-Up
 
-**Establish the six elements (P12 §8.1):**
+**Establish the six elements (§12.8.1):**
 
 1. **Starting positions:** Khess was discovered in the archive's lower approach. She had thirty seconds' head start before the alarm went up. Starting position: **Engaged** (she is visible, they are closing).
 
@@ -273,7 +273,7 @@ _Result: Pursuer failed, quarry succeeded. Position shifts one step further away
 
 Khess reaches the chandler's shop. The low roof connection is her planned escape route.
 
-**The GM calls an obstacle roll:** Climb (P12 §8.2). Khess has Climb 61%. She rolls **45** - success.
+**The GM calls an obstacle roll:** Climb (§12.8.2). Khess has Climb 61%. She rolls **45** - success.
 
 **Lead enforcer Climb roll** (his Climb is 40%): rolls **67** - failure. He fails the obstacle - loses one additional position from the standard result.
 
@@ -309,7 +309,7 @@ _No pursuer succeeds this round. Position remains Out of Sight - second consecut
 
 ## 4. Adjudicating Sorcery Costs in Play
 
-_The GM's side of a sorcerer PC's major casting. Player-side in PA2 §3. Karash wants to cast Bind the Raging Heart at Intensity 3 on a named professional antagonist mid-combat. PP cost significant, Corruption risk real, iron check relevant._
+_The GM's side of a sorcerer PC's major casting. Player-side in §A2.3. Karash wants to cast Bind the Raging Heart at Intensity 3 on a named professional antagonist mid-combat. PP cost significant, Corruption risk real, iron check relevant._
 
 ---
 
@@ -323,13 +323,13 @@ Bind the Raging Heart at Intensity 3: base cost 3 PP (one PP per intensity). Kar
 
 **2. Is there an iron penalty?**
 
-The antagonist is not wearing iron - he is a desert mercenary in leather armour with a bronze khopesh. No iron problem for the target. But Karash himself - the GM checks the PC sheet. Karash has dressed carefully for this job (per PA2 §3.2 - the player established this earlier). No iron penalty on the caster.
+The antagonist is not wearing iron - he is a desert mercenary in leather armour with a bronze khopesh. No iron problem for the target. But Karash himself - the GM checks the PC sheet. Karash has dressed carefully for this job (per §A2.3.2 - the player established this earlier). No iron penalty on the caster.
 
 _If Karash had iron on him, the penalty would apply now. The GM reminds players of the iron rule when they take iron items, not retroactively._
 
 **3. What is the Corruption cost?**
 
-Intensity 3 casting: standard Corruption table (P6 §3.3). If the casting succeeds: 0 Corruption. If it fails: 1 Corruption. Additionally, Bind the Raging Heart has a spell-specific note: a successful casting against a resisting target who nonetheless beats the resistance roll imposes 1D3 Corruption on the caster regardless (the spell attempted to override a strong will and was denied - the effort costs).
+Intensity 3 casting: standard Corruption table (§6.3.3). If the casting succeeds: 0 Corruption. If it fails: 1 Corruption. Additionally, Bind the Raging Heart has a spell-specific note: a successful casting against a resisting target who nonetheless beats the resistance roll imposes 1D3 Corruption on the caster regardless (the spell attempted to override a strong will and was denied - the effort costs).
 
 The GM flags this. It requires checking the spell entry but is not hidden from the player.
 
@@ -347,13 +347,13 @@ Magic is theatrical (design.md §2.2). The GM describes Karash's casting signatu
 
 ### 4.2 Casting Phase and Roll
 
-Per P6 §2.2: the casting occurs in Phase Two of the round (Powers phase). The spell's full effect (if it takes hold) resolves at the end of Phase Two.
+Per §6.2.2: the casting occurs in Phase Two of the round (Powers phase). The spell's full effect (if it takes hold) resolves at the end of Phase Two.
 
 **Karash's player declares:** "Casting Bind the Raging Heart, Intensity 3, targeting the mercenary."
 
-**The GM notes:** Karash must make it to Phase Two without taking a hit (P5 §6.5 - any wound during Phase One before the cast completes causes the spell to fail and the PP are spent). The GM checks whether any attacker has declared against Karash in Phase One. They have not - Khess and Orryn drew the close-range threats. Karash is clear.
+**The GM notes:** Karash must make it to Phase Two without taking a hit (§5.6.5 - any wound during Phase One before the cast completes causes the spell to fail and the PP are spent). The GM checks whether any attacker has declared against Karash in Phase One. They have not - Khess and Orryn drew the close-range threats. Karash is clear.
 
-**Phase Two:** Karash casts. The player spends 3 PP (pool drops to 9). No roll is made for the casting itself (sorcery casting in WSR is automatic for memorised spells - the cost is paid and the effect fires; per P6 §2.2).
+**Phase Two:** Karash casts. The player spends 3 PP (pool drops to 9). No roll is made for the casting itself (sorcery casting in WSR is automatic for memorised spells - the cost is paid and the effect fires; per §6.2.2).
 
 **The resistance roll:** The GM rolls the mercenary's POW resistance against the 30% base chance. **Result: 44.** 44 exceeds 30%. The mercenary resists. The spell does not take hold.
 
@@ -371,13 +371,13 @@ Additionally, the standard table applies on failure. But this was not a spell fa
 
 Karash has 9 PP remaining. His patron, the Faceless One, has a PP reserve available. The player asks: "Can I invoke Patron Intercession to try the spell again?"
 
-The GM checks (per P10 §3.4, Patron Intercession rules): Patron Intercession requires invoking the patron's name as a full action and rolling against the current Patron Score. Karash's Patron Score is 14. A matching-dice critical within 14% (only 11 qualifies) would bring direct intervention. The chance of rolling 11 while also getting it as a success is poor.
+The GM checks (per §10.3.4, Patron Intercession rules): Patron Intercession requires invoking the patron's name as a full action and rolling against the current Patron Score. Karash's Patron Score is 14. A matching-dice critical within 14% (only 11 qualifies) would bring direct intervention. The chance of rolling 11 while also getting it as a success is poor.
 
-More importantly: the Faceless One's demands (P10 §4.2) include "No attachments" and "Change something irreversibly." A sorcerer calling on the Faceless One to stop a mercenary from hitting his friend is... not what the Faceless One considers its work.
+More importantly: the Faceless One's demands (§10.4.2) include "No attachments" and "Change something irreversibly." A sorcerer calling on the Faceless One to stop a mercenary from hitting his friend is... not what the Faceless One considers its work.
 
 The GM does not say this out loud. But the GM knows it. If the player invokes the Faceless One and the allegiance roll succeeds, the intervention will arrive in a way that aligns with the patron's domain - transformation, loss, irreversible change - rather than simply binding the mercenary. The intervention might work on the mercenary, or it might work on something else in the scene. The Faceless One is not a precise tool.
 
-_This is the GM's side of the patron compact: knowing what the patron would and would not do, and running that honestly even when it is inconvenient for the PC. The player knows their patron's demands from their character sheet (P6 §3.2). The GM knows what those demands mean in practice._
+_This is the GM's side of the patron compact: knowing what the patron would and would not do, and running that honestly even when it is inconvenient for the PC. The player knows their patron's demands from their character sheet (§6.3.2). The GM knows what those demands mean in practice._
 
 Karash does not invoke. The player decides 9 PP is enough for a Deflect the Killing Blow if needed, and the mercenary is already badly wounded from Orryn's earlier attack. They will finish the fight the old way.
 
@@ -386,7 +386,7 @@ Karash does not invoke. The player decides 9 PP is enough for a Deflect the Kill
 ### 4.4 GM Checklist Summary
 
 - **Pre-casting checklist:** PP cost, iron penalty, Corruption cost, resistance probability - worked through before a die is rolled.
-- **Resistance roll vs. spell failure:** The target resisted. PP spent, Corruption paid, spell did not take hold. This is a distinct outcome from the caster making an error (PA2 §3.5).
-- **Spell-specific Corruption:** Standard Corruption table and spell-specific note are separate charges; check both (P6 §3.3).
-- **Patron compact:** Know what the patron would and would not do before the player invokes it - run the patron honestly, not as a convenient rescue (P10 §3).
+- **Resistance roll vs. spell failure:** The target resisted. PP spent, Corruption paid, spell did not take hold. This is a distinct outcome from the caster making an error (§A2.3.5).
+- **Spell-specific Corruption:** Standard Corruption table and spell-specific note are separate charges; check both (§6.3.3).
+- **Patron compact:** Know what the patron would and would not do before the player invokes it - run the patron honestly, not as a convenient rescue (§10.3).
 - **Iron check:** GM responsibility to surface it before the roll, not after.

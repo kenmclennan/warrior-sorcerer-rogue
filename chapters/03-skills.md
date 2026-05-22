@@ -1,16 +1,16 @@
 # Skills
 
-Skills are expressed as percentile ratings - roll equal to or less than the skill to succeed. This chapter is the full skill reference. For the mechanics of rolling - outcome tiers, criticals, fumbles, the Critical Buy - see P4.
+Skills are expressed as percentile ratings - roll equal to or less than the skill to succeed. This chapter is the full skill reference. For the mechanics of rolling - outcome tiers, criticals, fumbles, the Critical Buy - see §4.
 
 ---
 
 ## 1. Using Skills
 
-Roll against a skill when two conditions are both true: the task is neither trivially easy nor plainly impossible, and something meaningful is at stake. The GM calls for the roll and sets the difficulty. See P4 §1 for the four difficulty levels (Easy, Average, Difficult, Impossible) and how situational modifiers stack.
+Roll against a skill when two conditions are both true: the task is neither trivially easy nor plainly impossible, and something meaningful is at stake. The GM calls for the roll and sets the difficulty. See §4.1 for the four difficulty levels (Easy, Average, Difficult, Impossible) and how situational modifiers stack.
 
 Every skill has a **base chance** - the starting rating before character creation adds to it. A character who has never studied a skill still has that sliver of native human capability.
 
-**Skill categories.** Skills are grouped into six categories: Combat, Communication, Manipulation, Mental, Perception, and Physical. Category bonuses (derived from the relevant characteristic average, calculated in P2 §3) appear in the skill entries as a parenthetical after the base chance.
+**Skill categories.** Skills are grouped into six categories: Combat, Communication, Manipulation, Mental, Perception, and Physical. Category bonuses (derived from the relevant characteristic average, calculated in §2.3) appear in the skill entries as a parenthetical after the base chance.
 
 **Skills above 100%.** A skill pushed above 100% confers two advantages: the character may attack or act twice in a combat round (once above 100%, again above 50%), and when rolling at a reduced difficulty, the effective skill after difficulty halving may still be well above the normal ceiling.
 
@@ -70,7 +70,7 @@ Apply only the single best helper result to the lead's skill. Additional helpers
 
 If the lead succeeds at any tier, every helper who rolled a success or better earns an experience checkmark on the skill they used.
 
-**Critical (Cooperative Rolls):** a helper who rolls a Critical grants +50% to the lead's effective skill. See P4 §2.4.
+**Critical (Cooperative Rolls):** a helper who rolls a Critical grants +50% to the lead's effective skill. See §4.2.4.
 
 ---
 
@@ -182,7 +182,7 @@ Roll Disguise when passing through a checkpoint, infiltrating a social environme
 
 _(Combat/Physical, base DEX x2)_
 
-Throwing oneself clear of an incoming attack. When the attacker succeeds, the defender may declare a Dodge as their response; the Dodge roll is compared against the attack using the Opposed Roll rules (P4 §4.1). A successful Dodge cancels the attack even if the attack itself succeeded. A critical Dodge counts as a higher-degree success.
+Throwing oneself clear of an incoming attack. When the attacker succeeds, the defender may declare a Dodge as their response; the Dodge roll is compared against the attack using the Opposed Roll rules (§4.4.1). A successful Dodge cancels the attack even if the attack itself succeeded. A critical Dodge counts as a higher-degree success.
 
 Roll Dodge when attacked, as an alternative to Parry. Dodge can be used against attacks that cannot be parried (a thrown boulder, a collapsing ceiling), but cannot itself be used offensively.
 
@@ -374,9 +374,9 @@ _(Combat, base 20% or weapon-class dependent)_
 
 Fighting with a hand-held weapon in close combat. The speciality is the weapon class; a character who has trained with swords is a swordsman, not a generic fighter. Using an unfamiliar weapon class imposes the cross-speciality penalty (half rating).
 
-Roll Melee Weapon on each attack. The result determines which outcome tier applies; in combat, critical results are resolved on the appropriate critical hit table (PA1).
+Roll Melee Weapon on each attack. The result determines which outcome tier applies; in combat, critical results are resolved on the appropriate critical hit table (§A1).
 
-**Specialities (weapon classes - precise list defined in P7 Equipment):** Axe, Club/Mace, Dagger, Flail, Polearm, Shield (see Shield skill), Spear, Staff, Sword. Others as the weapon chapter specifies.
+**Specialities (weapon classes - precise list defined in §7 Equipment):** Axe, Club/Mace, Dagger, Flail, Polearm, Shield (see Shield skill), Spear, Staff, Sword. Others as the weapon chapter specifies.
 
 ---
 
@@ -386,7 +386,7 @@ _(Combat, base weapon-dependent)_
 
 Attacking at range with a ranged weapon. The speciality is the weapon type. Range penalties and cover modifiers apply as situational adjustments to the roll.
 
-Roll Missile Weapon on each ranged attack. Critical results are resolved on the relevant critical hit table (PA1).
+Roll Missile Weapon on each ranged attack. Critical results are resolved on the relevant critical hit table (§A1).
 
 **Specialities:** Blowgun, Bow (Short), Bow (Composite), Javelin, Sling, Spear (thrown). Grenades and thrown improvised objects use Throw rather than Missile Weapon.
 
@@ -402,7 +402,7 @@ Roll Move Quietly when the character needs to move through an area without drawi
 
 **Detection.** When no specific observer is alert and oriented, a successful Move Quietly is enough; failure means the character did not move silently, but unless there is someone in a position to notice it rarely matters. When a guard, sentry, or other observer **is** paying attention to the area, resolve as an opposed roll: the character's Move Quietly result against the observer's Spot (visual) or Listen (auditory). Higher successful result wins; criticals beat ordinary successes; ties favour the observer (the alert defender). A **failed Move Quietly does not mean automatic detection** - it only means the character has not concealed their passage, and any alert observer gets their roll. A **fumble** is a distinct sound - a kicked tankard, a snapped branch, a footfall on dry leaves - that automatically alerts anyone within hearing range; the GM should narrate the specific noise.
 
-For group stealth (when the whole party is moving together), see P12 §11.
+For group stealth (when the whole party is moving together), see §12.11.
 
 ---
 
@@ -422,7 +422,7 @@ _(Combat, base 10% or weapon-class dependent)_
 
 Deflecting an incoming blow with a weapon. Parry is the active defensive alternative to Dodge; unlike Dodge, Parry can inflict a cost on the attacker (a weapon struck against a parrying blade may be damaged; a shield parry can push an attacker off-balance). Parry is paired with Melee Weapon - the speciality matches the weapon used.
 
-Roll Parry when a character declares they are defending with their weapon rather than dodging. The Opposed Roll rules determine the outcome (P4 §4.1); see P5 for the full attack-and-defence matrix.
+Roll Parry when a character declares they are defending with their weapon rather than dodging. The Opposed Roll rules determine the outcome (§4.4.1); see §5 for the full attack-and-defence matrix.
 
 **Specialities:** match the Melee Weapon specialities.
 
@@ -464,7 +464,7 @@ Roll Research when pursuing a specific question through available records, when 
 
 _(Physical, base 05%)_
 
-Riding a trained animal, including in combat. At skill 50% or above, the character can fight from the saddle without a roll to stay mounted; below that, each combat round requires a Ride check to avoid being thrown. Mounted combat adds the mount's movement and SIZ to the tactical situation; details in P5.
+Riding a trained animal, including in combat. At skill 50% or above, the character can fight from the saddle without a roll to stay mounted; below that, each combat round requires a Ride check to avoid being thrown. Mounted combat adds the mount's movement and SIZ to the tactical situation; details in §5.
 
 Roll Ride in challenging conditions: rough terrain, battle, forced march, or when attempting mounted manoeuvres beyond simple travel.
 
@@ -544,7 +544,7 @@ Status is not improved by experience or training. It is awarded by the GM for de
 
 Roll Status when attempting to use social standing as leverage - demanding access, invoking privilege, or asserting authority. Many PCs begin with low Status and earn their way upward through deed.
 
-> **Status and Reputation.** These are distinct mechanics. Status is standing within a specific community you are part of. Reputation is fame recognised beyond your home ground. A banished noble has high Status in their original court and may have substantial Reputation elsewhere; a famous wandering warrior may have great Reputation but no Status in any court. Both matter; neither replaces the other. Reputation mechanics are in P2 §5.
+> **Status and Reputation.** These are distinct mechanics. Status is standing within a specific community you are part of. Reputation is fame recognised beyond your home ground. A banished noble has high Status in their original court and may have substantial Reputation elsewhere; a famous wandering warrior may have great Reputation but no Status in any court. Both matter; neither replaces the other. Reputation mechanics are in §2.5.
 
 ---
 
@@ -552,7 +552,7 @@ Roll Status when attempting to use social standing as leverage - demanding acces
 
 _(Mental, base 01%)_
 
-Military command at the operational level: organising a force for battle, choosing ground, coordinating supply and movement, reading an opponent's tactical intentions from their deployment. Strategy applies to actions above the skirmish level - squads, formations, warbands, fleets. It does not apply to the personal combat that P5 covers.
+Military command at the operational level: organising a force for battle, choosing ground, coordinating supply and movement, reading an opponent's tactical intentions from their deployment. Strategy applies to actions above the skirmish level - squads, formations, warbands, fleets. It does not apply to the personal combat that §5 covers.
 
 Roll Strategy before or during a significant military engagement when the PC is in command or advising command. A success improves the PC's side's starting position; a critical provides a decisive advantage. A fumble produces a significant tactical error.
 
@@ -586,7 +586,7 @@ Roll Swim when conditions make water dangerous: currents, armour weight, pursuit
 
 _(Communication, base 10%)_
 
-Training another character in a skill. Teach requires the teacher's skill rating in the subject to be at least twice the student's current rating, or at least 50%, whichever is lower. Each training session is measured in weeks; the time required scales with the student's current rating (see P4 §8.3 for the training time table).
+Training another character in a skill. Teach requires the teacher's skill rating in the subject to be at least twice the student's current rating, or at least 50%, whichever is lower. Each training session is measured in weeks; the time required scales with the student's current rating (see §4.8.3 for the training time table).
 
 A successful Teach roll means training proceeds by the standard rules (student makes an improvement roll at the end of the training period). A fumble ingrain a bad habit: the student loses 1D3 from the skill.
 

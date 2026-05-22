@@ -10,7 +10,7 @@ Khess is a City Thief from The Walled Cities background. This example takes each
 
 The player rolls 3D6 seven times: **9, 10, 12, 13, 13, 14, 18.**
 
-Per P2 §2.1, results are assigned to characteristics in any order; SIZ and INT may not be set below 8. The player wants Khess to be a quick, clever city thief and assigns:
+Per §2.2.1, results are assigned to characteristics in any order; SIZ and INT may not be set below 8. The player wants Khess to be a quick, clever city thief and assigns:
 
 | Characteristic | Value |
 | -------------- | ----- |
@@ -28,17 +28,17 @@ Khess is fast and clever. She is not strong.
 
 ### 1.2 Step 2: Derived Statistics
 
-**Hit Points.** CON + SIZ = 10 + 13 = **23 HP.** (PCs use the full formula; lower-tier NPCs use (CON+SIZ)/2 - see P8 §1.)
+**Hit Points.** CON + SIZ = 10 + 13 = **23 HP.** (PCs use the full formula; lower-tier NPCs use (CON+SIZ)/2 - see §8.1.)
 
 **Power Points.** Equal to POW = **13 PP.** This is also her Fate Point pool and her luck reserve.
 
-**Damage Modifier.** STR + SIZ = 9 + 13 = 22. Consulting the dm table (P2 §3.3): 17-24 = None. Khess has no damage modifier. Her blades deal dice only.
+**Damage Modifier.** STR + SIZ = 9 + 13 = 22. Consulting the dm table (§2.3.3): 17-24 = None. Khess has no damage modifier. Her blades deal dice only.
 
 **Movement Rate.** MOV = **10** (standard human).
 
 **Experience Bonus.** INT / 2, rounded up = 14 / 2 = **7.** This is added to improvement rolls at the end of each adventure.
 
-**Skill Category Bonuses.** (See P2 §3.6.)
+**Skill Category Bonuses.** (See §2.3.6.)
 
 | Category      | Governing Characteristics                        | Bonus |
 | ------------- | ------------------------------------------------ | ----- |
@@ -136,7 +136,7 @@ Khess chooses 2 talents. She qualifies for the Stealth and Finesse table and the
 
 ### 1.7 Step 7: Passions
 
-Khess must record three passions: one at 80%, two at 60%. Passions are player-authored (see P2 §8.2).
+Khess must record three passions: one at 80%, two at 60%. Passions are player-authored (see §2.8.2).
 
 - **Hatred of the Serpent Syndicate - 80%.** They killed her contact Verinax and took the cargo she had staked everything on. This is her defining drive.
 - **Loyalty to her fence, the old woman called Brine - 60%.** Brine gave her a roof when she had nothing. Khess does not sell people who have been good to her.
@@ -238,7 +238,7 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 **Rabble A and Rabble B** (hired swords):
 
 - HP 9 each, DEX 11, Sword 35%
-- _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a Rabble (P5 §8)._
+- _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a Rabble (§5.8)._
 - _No PP. No Fate Point access._
 
 ---
@@ -270,9 +270,9 @@ Khess declares last, with the most information: she will move to flank Davan and
 
 **Phase Two (Powers):**
 
-Karash casts _Cloak of Night_ at Intensity 1 (see P6 §6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Move Quietly. Her Move Quietly is now effectively 71% for the duration.
+Karash casts _Cloak of Night_ at Intensity 1 (see §6.6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Move Quietly. Her Move Quietly is now effectively 71% for the duration.
 
-No Corruption roll: Intensity 1 and 2 spells trigger the Corruption roll only on failure; standard casting Corruption applies (see P6 §3.3 - casting Intensity 1: 0 / 1 Corruption). Karash rolls against his Corruption of 85: he rolls 44. Success. No Corruption lost this round.
+No Corruption roll: Intensity 1 and 2 spells trigger the Corruption roll only on failure; standard casting Corruption applies (see §6.3.3 - casting Intensity 1: 0 / 1 Corruption). Karash rolls against his Corruption of 85: he rolls 44. Success. No Corruption lost this round.
 
 **Phase Three (Action - descending DEX):**
 
@@ -282,7 +282,7 @@ She moves from the entry of the alley to Davan's flank (Short Move - no DEX pena
 
 > Is 47 a matching-dice value? No (matching values are 11, 22, 33, 44, 55, 66, 77, 88). It is a normal success.
 >
-> Khess's player considers a Critical Buy. The nearest matching value below 47 within her skill (62%) is 44. Cost: 47 - 44 = **3 PP.** She has 9 PP remaining (13 - 4 for The Quiet Knife = 9). She pays 3 PP. Her roll is now treated as **44** - a Critical Success. Severity band: 44 = Band C (see PA1 §1.2 and P5 §10.2).
+> Khess's player considers a Critical Buy. The nearest matching value below 47 within her skill (62%) is 44. Cost: 47 - 44 = **3 PP.** She has 9 PP remaining (13 - 4 for The Quiet Knife = 9). She pays 3 PP. Her roll is now treated as **44** - a Critical Success. Severity band: 44 = Band C (see §A1.1.2 and §5.10.2).
 
 Khess's player announces: _"She bought that critical. Dagger, Pierce type."_ No defence is available because of The Quiet Knife talent.
 
@@ -290,9 +290,9 @@ The GM rolls 1d10 on the Pierce, Band C table: result is **5**. The entry reads:
 
 Khess rolls dagger damage: 1D4+2 = 4+2 = **6.** Plus +5 bonus damage = **11 total damage.** Davan has HP 12. He takes 11 damage, dropping to HP 1. He is stunned for 2 rounds, his breathing terrible from the lung wound.
 
-> The critical applies the PA1 entry: pierced lung, stunned for 2 rounds, terrible breathing. Damage knocks Davan from HP 12 to HP 1 - one more hit will drop him.
+> The critical applies the §A1 entry: pierced lung, stunned for 2 rounds, terrible breathing. Damage knocks Davan from HP 12 to HP 1 - one more hit will drop him.
 
-**Davan acts (DEX 15).** He is stunned. A stunned character cannot attack (see PA1 §1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
+**Davan acts (DEX 15).** He is stunned. A stunned character cannot attack (see §A1.1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
 
 **Orryn acts (DEX 13).** He attacks Rabble A with his sword: rolls **39** against Sword 65%. A normal success.
 
@@ -311,9 +311,9 @@ Result: Success vs. Failure - Orryn's attack hits normally, armour applies. Rabb
 
 ### 2.3 Round 2: A Dying Blow and Stand Your Ground
 
-**Davan is at 0 HP.** He is dying (P5 §5.1). His stun has 1 round remaining. He cannot attack. He can attempt one last act.
+**Davan is at 0 HP.** He is dying (§5.5.1). His stun has 1 round remaining. He cannot attack. He can attempt one last act.
 
-On his DEX rank (15), Davan declares a **Dying Blow** (P5 §9). He makes a Stamina roll (CON x5) to attempt one final action. His CON is 12; CON x5 = 60%. He rolls **37.** Success. He can take one final Difficult action.
+On his DEX rank (15), Davan declares a **Dying Blow** (§5.9). He makes a Stamina roll (CON x5) to attempt one final action. His CON is 12; CON x5 = 60%. He rolls **37.** Success. He can take one final Difficult action.
 
 He shouts in a ragged voice: _"Syndicate! The Knife is here! Salt Causeway!"_ - alerting any Syndicate members within earshot. This is a noncombat action (shouting). It is Difficult, but shouting is not a roll-dependent task. The GM rules it succeeds: the warning is out. Davan collapses.
 
@@ -343,14 +343,14 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 
 ### 2.5 What the Example Demonstrated
 
-- **Strike Ranks / Initiative** (P5 §1): DEX order determined who declared last and acted first. Khess's DEX 18 was a meaningful advantage.
-- **Rabble incapacitation** (P5 §8): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
-- **The Quiet Knife talent** (P2 §7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
-- **Critical Buy** (P4 §3): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
-- **PA1 lookup** (PA1 §3): Band C Pierce, 1d10 = 5. Result: pierced lung, stunned 2 rounds, terrible breathing. Read aloud, resolved immediately.
+- **Strike Ranks / Initiative** (§5.1): DEX order determined who declared last and acted first. Khess's DEX 18 was a meaningful advantage.
+- **Rabble incapacitation** (§5.8): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
+- **The Quiet Knife talent** (§2.7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
+- **Critical Buy** (§4.3): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
+- **§A1 lookup** (§A1.3): Band C Pierce, 1d10 = 5. Result: pierced lung, stunned 2 rounds, terrible breathing. Read aloud, resolved immediately.
 - **Fate Point: not spent** - Davan was reduced to 0 HP before he could spend PP on Deflect the Killing Blow (which requires minimum 8 PP; he had 9). His player chose not to spend, because it would leave him alive with 1 HP and surrounded by enemies.
-- **Dying Blow** (P5 §9): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
-- **Corruption roll** (P6 §3.3): Karash cast a low-intensity spell and succeeded his Corruption roll. Nothing lost this round.
+- **Dying Blow** (§5.9): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
+- **Corruption roll** (§6.3.3): Karash cast a low-intensity spell and succeeded his Corruption roll. Nothing lost this round.
 
 ---
 
@@ -374,13 +374,13 @@ _Karash is at his casting spot: a rented room with a cleared floor, a brazier bu
 
 **Memorised spells (INT = 15 spell levels):** Curse of the Withered Hand (level 4), Cloak of Night (level 1), See the Unseen (level 3), Moonrise (level 1), Shadow-Wrap (level 2), Midnight (level 1), Bird's Eye (level 3) - total: 15 levels. He is at capacity.
 
-**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (P4 §4.4). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
+**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (§4.4.4). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
 
 ---
 
 ### 3.2 The Iron Problem
 
-Karash reviews what he is carrying before casting. He has a bronze dagger at his hip (bronze, no penalty), leather wrappings on the grimoire (no penalty), a belt with iron buckles. The GM rules the iron buckles are trivial - small fittings on primarily leather items, below the threshold (P6 §4). No iron penalty applies tonight. Karash has dressed carefully.
+Karash reviews what he is carrying before casting. He has a bronze dagger at his hip (bronze, no penalty), leather wrappings on the grimoire (no penalty), a belt with iron buckles. The GM rules the iron buckles are trivial - small fittings on primarily leather items, below the threshold (§6.4). No iron penalty applies tonight. Karash has dressed carefully.
 
 ---
 
@@ -388,7 +388,7 @@ Karash reviews what he is carrying before casting. He has a bronze dagger at his
 
 _Curse of the Withered Hand_ has its standard range (the target must be in the sorcerer's presence, typically within POW x5 metres = 85 metres for Karash). Mekhos is three streets away - perhaps 400 metres. The spell cannot reach him at standard range.
 
-Karash has the Sorcery Talent _The Sorcerer's Reach_ (P2 §7.2): for 3 PP, a spell he casts this round takes effect at double its normal range. But double 85 metres is 170 metres - still not enough.
+Karash has the Sorcery Talent _The Sorcerer's Reach_ (§2.7.2): for 3 PP, a spell he casts this round takes effect at double its normal range. But double 85 metres is 170 metres - still not enough.
 
 However, Karash also has _Bird's Eye_ memorised. He casts _Bird's Eye_ at Intensity 3 (cost: 3 PP) to perceive through a raven perched on Mekhos's counting-house roof - putting him, perceptually, in the same location as his target. He intends to cast the Curse while maintaining the Bird's Eye.
 
@@ -404,7 +404,7 @@ _This is a two-casting night._ Karash will cast Bird's Eye first (Phase Two of r
 
 **Casting signature:** The smell of burning copper sharpens. The candle flames go sideways. The shadow on the wall is definitely facing the wrong direction.
 
-**Corruption roll (Bird's Eye, Intensity 3):** Intensity 3 crosses the standard Corruption trigger (P6 §3.3 - casting Intensity 3 or lower: 0/1 on success/failure). Karash rolls against his current Corruption of 85: he rolls **74.** Success. No Corruption from Bird's Eye.
+**Corruption roll (Bird's Eye, Intensity 3):** Intensity 3 crosses the standard Corruption trigger (§6.3.3 - casting Intensity 3 or lower: 0/1 on success/failure). Karash rolls against his current Corruption of 85: he rolls **74.** Success. No Corruption from Bird's Eye.
 
 Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, counting coin by lamplight. The raven is on the counting-house windowsill. Karash knows his target's position. The POW resistance roll for the Curse will be based on Karash's PP total at the moment of casting (after the Curse's own cost) versus Mekhos's POW.
 
@@ -418,11 +418,11 @@ Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, co
 
 The GM rolls the resistance roll for Mekhos (since Mekhos is unaware): **76.** The result exceeds 40% - **the curse fails to set.** Mekhos does not feel it. His POW was enough, at that distance, to shrug it off without knowing.
 
-> _This is not a Fumble and it is not Karash's failure._ The PP were spent. The casting was correct. The target simply resisted. This is a sorcery failure mode that comes from outside the caster (P6 §2.1): the target's resistance was sufficient.
+> _This is not a Fumble and it is not Karash's failure._ The PP were spent. The casting was correct. The target simply resisted. This is a sorcery failure mode that comes from outside the caster (§6.2.1): the target's resistance was sufficient.
 
 **Corruption roll (Curse of the Withered Hand, Intensity 4).** Even though the curse failed to take hold, the PP were spent and the casting occurred. Corruption applies regardless of target resistance.
 
-First, the standard Corruption table (P6 §3.3 - casting Intensity 4 or higher: 1/1D3): Karash rolls against his current Corruption of 85: **31.** Success. He takes the lower result: **1 Corruption.** His Corruption drops from 85 to **84.**
+First, the standard Corruption table (§6.3.3 - casting Intensity 4 or higher: 1/1D3): Karash rolls against his current Corruption of 85: **31.** Success. He takes the lower result: **1 Corruption.** His Corruption drops from 85 to **84.**
 
 Second, the spell's specific Cost Notes: _Curse of the Withered Hand always causes 1D3 Corruption in addition to the standard cost._ Karash rolls 1D3: **2.** He takes 2 more Corruption. His Corruption drops from 84 to **82.**
 
@@ -436,9 +436,9 @@ Karash notes this on his sheet. His Breaking Point is 42. He is nowhere near the
 
 Karash has 8 PP remaining. He considers whether to try again - can Mekhos be reached another way, or should he invoke the Faceless One?
 
-Patron Intercession is available (P6 §3.2): Karash may invoke the Faceless One by name as a full action. He makes an allegiance roll against his current Patron Score of 14. A Critical (matching dice within 14%) would bring the Faceless One's direct intervention - but only rolls of 11 would qualify as both a matching-dice value and within 14%. The odds are poor.
+Patron Intercession is available (§6.3.2): Karash may invoke the Faceless One by name as a full action. He makes an allegiance roll against his current Patron Score of 14. A Critical (matching dice within 14%) would bring the Faceless One's direct intervention - but only rolls of 11 would qualify as both a matching-dice value and within 14%. The odds are poor.
 
-Karash does not invoke. Instead he makes a practical decision: he will find another way to reach Mekhos, or wait until the man is in range. He releases the Bird's Eye working (ending it early costs nothing - P6 §2.7) and closes the casting.
+Karash does not invoke. Instead he makes a practical decision: he will find another way to reach Mekhos, or wait until the man is in range. He releases the Bird's Eye working (ending it early costs nothing - §6.2.7) and closes the casting.
 
 **The Patron Score does not change this session.** The Faceless One was not called. The debt neither grew nor shrank.
 
@@ -456,12 +456,12 @@ Karash is intact. He is 3 Corruption lighter. He smells of copper. He has 8 PP a
 
 ### 3.8 What the Example Demonstrated
 
-- **PP cost and casting time** (P6 §2.2 and §2.3): Each spell costs PP at the moment of casting. Two spells in two rounds depleted Karash's pool significantly.
-- **Corruption gain and a Corruption roll** (P6 §3.3): Even a failed curse costs Corruption. Two separate Corruption costs applied to a single casting: the standard table roll plus the spell's specific additional cost.
-- **The resistance roll as a sorcery failure mode** (P6 §2.8): Karash's sorcery did not fumble - the target simply resisted. PP spent, Corruption paid, curse blocked. This is the correct outcome.
+- **PP cost and casting time** (§6.2.2 and §2.3): Each spell costs PP at the moment of casting. Two spells in two rounds depleted Karash's pool significantly.
+- **Corruption gain and a Corruption roll** (§6.3.3): Even a failed curse costs Corruption. Two separate Corruption costs applied to a single casting: the standard table roll plus the spell's specific additional cost.
+- **The resistance roll as a sorcery failure mode** (§6.2.8): Karash's sorcery did not fumble - the target simply resisted. PP spent, Corruption paid, curse blocked. This is the correct outcome.
 - **Visual drama** (design.md §2.2): the casting signature is always present; the room responds to the working even when the working fails.
-- **Patron compact mechanics** (P6 §3.2): Karash had access to Patron Intercession but chose not to invoke it. The patron relationship is a resource, not an obligation - until the Patron Score climbs high enough.
-- **Iron-vs-sorcery** (P6 §4): Karash dressed carefully. No iron penalty this night.
+- **Patron compact mechanics** (§6.3.2): Karash had access to Patron Intercession but chose not to invoke it. The patron relationship is a resource, not an obligation - until the Patron Score climbs high enough.
+- **Iron-vs-sorcery** (§6.4): Karash dressed carefully. No iron penalty this night.
 - **PP economy after the fight**: Karash began the casting at 15 PP (two days' recovery from the ambush). He spent 3 on Bird's Eye and 4 on the Curse, ending at 8 PP. He retains enough PP for one defensive Fate Point spend if needed, but he is not comfortable.
 
 ---

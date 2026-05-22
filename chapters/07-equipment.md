@@ -31,7 +31,7 @@ Five wealth tiers describe a character's standing and roughly translate to coin 
 
 ### 1.3 Starting Equipment
 
-At character creation, starting equipment is purchased using the character's starting Wealth tier (defined in P2 §6). The GM may also allocate specific items thematically - a sea-raider starts with appropriate kit even before any coin is counted.
+At character creation, starting equipment is purchased using the character's starting Wealth tier (defined in §2.6). The GM may also allocate specific items thematically - a sea-raider starts with appropriate kit even before any coin is counted.
 
 ---
 
@@ -41,19 +41,19 @@ At character creation, starting equipment is purchased using the character's sta
 
 Each weapon entry lists:
 
-- **Damage:** Dice rolled, plus damage modifier (dm) where applicable. The dm is derived from STR and SIZ (see P2 §3.1).
+- **Damage:** Dice rolled, plus damage modifier (dm) where applicable. The dm is derived from STR and SIZ (see §2.3.1).
 - **SR (Strike Rank):** The weapon's position in the initiative sequence. Lower SR acts sooner.
 - **Hands:** 1H (one-handed), 2H (two-handed), or 1H/2H (can be used either way).
 - **ENC:** Encumbrance. See §11 for the encumbrance rules.
 - **HP:** The weapon's own hit points (for the purposes of parrying and weapon destruction).
 - **Parry:** Whether the weapon can be used to parry an incoming blow.
 - **STR/DEX:** Minimum STR and DEX required to use the weapon effectively. A character below these values takes a -20% penalty.
-- **Special:** The damage type used to look up critical results (see PA1). Also notes unusual rules (Entangle, etc.).
+- **Special:** The damage type used to look up critical results (see §A1). Also notes unusual rules (Entangle, etc.).
 - **Cost:** Expressed in the coin tier most appropriate to the weapon.
 
-**Damage modifier (dm):** Calculated from the average of STR and SIZ. See P2 §3.1 for the dm table.
+**Damage modifier (dm):** Calculated from the average of STR and SIZ. See §2.3.1 for the dm table.
 
-**Narrative range:** Weapon reach is described as Short (arm's length), Medium (sword reach), Long (spear reach), or All (the quarterstaff's versatility). These interact with combat spacing as described in P5 §6.6.
+**Narrative range:** Weapon reach is described as Short (arm's length), Medium (sword reach), Long (spear reach), or All (the quarterstaff's versatility). These interact with combat spacing as described in §5.6.6.
 
 ### 2.2 Melee Weapons
 
@@ -169,7 +169,7 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 **Bow, Composite:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
 
-**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See P12 §2 for poison rules.
+**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See §12.2 for poison rules.
 
 **Bola and Lasso:** The bola entangles the target's legs on a hit (Difficult DEX roll or fall prone). It can also be used as a damaging throw (use the listed damage). The thrown lasso entangles on a hit; the target makes a Difficult STR or DEX roll to break free.
 
@@ -238,7 +238,7 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 
 **Cataphract Suit:** The heavy lamellar-and-scale armour of Persian and Sassanian elite cavalry. Full-body coverage achieved by layering lamellar plates over an under-suit of scale - the suit is heavy and exhausting to wear, but it turns most blows. At the GM's discretion, a complete cataphract suit may only be available in the great empires of the East.
 
-**Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (P6 §4), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
+**Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (§6.4), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
 
 ### 3.4 Helmets
 
@@ -276,7 +276,7 @@ Shields are both defensive tools and weapons. They provide Armour Points when us
 | Scutum       | 9   | 18  | 4   | +15%        | 11/9    | Curved rectangular; good body cover        | Average     |
 | Pavise       | 10  | 22  | 5   | +10%        | 13/9    | Tall body-shield; -10% movement penalties  | Average     |
 
-**Parry Bonus:** Add this percentage to the Shield skill when making a Parry action with this shield. The Shield skill default is 15% (see P3).
+**Parry Bonus:** Add this percentage to the Shield skill when making a Parry action with this shield. The Shield skill default is 15% (see §3).
 
 **Shield as weapon:** Any shield can be used to strike (Krush, 1D3+dm damage for small shields; 1D4+dm for large). The shield skill applies. A spiked shield (customised; +Inexpensive cost) deals 1D3+dm Pierce damage on a successful strike.
 
@@ -328,7 +328,7 @@ For the iron-vs-sorcery rule (§12.1), steel counts as iron. The sorcerous curre
 
 ### 5.5 Enchanted Iron and Steel
 
-An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in P11.
+An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in §11.
 
 ---
 
@@ -410,7 +410,7 @@ Items marked - for ENC weigh too little to track individually. Ten such items to
 | Lamp, Clay        | 1            | -   | 6 hours per oil flask | Cheap; fragile; burns olive oil          |
 | Lamp, Bronze      | 4            | -   | 6 hours per oil flask | More durable; steady flame               |
 | Lantern, Hooded   | 10           | 1   | 6 hours per oil flask | Directable beam; windproof               |
-| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see P12 §4)   |
+| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see §12.4)    |
 | Torch             | -            | 1   | 1 hour                | Obvious; hard to hide; good bright light |
 
 A dash (-) in the Cost column means the item is too inexpensive to track by the Dram - a handful of coin covers it. Ten such items count as 1 Dram for purchasing purposes.
@@ -616,7 +616,7 @@ Hirelings are contracted by the day or week. Equipment not included unless negot
 | Mercenary, Archer                          | 15-25 Drams/week | Specialized ranged fighter                |
 | Specialist (mahout, siege crew, physician) | 10-20 Drams/day  | Highly variable; negotiated               |
 
-**Loyalty:** Hirelings serve the agreed terms. They will not follow PCs into obviously suicidal situations for standard pay. Bonus pay, Reputation, and Passion mechanics (P3) affect hireling loyalty at the GM's discretion.
+**Loyalty:** Hirelings serve the agreed terms. They will not follow PCs into obviously suicidal situations for standard pay. Bonus pay, Reputation, and Passion mechanics (§3) affect hireling loyalty at the GM's discretion.
 
 ### 10.2 Inn Prices
 
@@ -693,6 +693,6 @@ Unenchanted iron is inimical to the sorcerous current.
 - Recharging: the creator (or any sorcerer who has attuned to the item) may transfer 1 PP per combat round from their own body to the artifact's reservoir. This is a concentration action.
 - The artifact's HP equals its SIZ characteristic. If destroyed, any POW invested in it is permanently lost.
 
-Full creation rules - ritual requirements, costs, and dangers - are in P11.
+Full creation rules - ritual requirements, costs, and dangers - are in §11.
 
 **Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §5.3). The enchantment is part of the binding process and is noted when the artifact is described.

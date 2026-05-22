@@ -14,7 +14,7 @@ WSR is a tabletop roleplaying game built on Chaosium's **Basic Roleplaying Unive
 
 ### 2.1 Characters
 
-Seven characteristics define your character: STR, CON, SIZ, INT, POW, DEX, CHA. From these derive your Hit Points (CON + SIZ / 2), your Power Point pool (= POW), your damage modifier, and your skill category bonuses. Choose a Cultural Background (P2 §4) and a Profession (P2 §5) to gain starting skills. Spend INT x10 free points on any skills you like. Choose 2 Talents from the four talent tables (P2 §7). Write down 3 Passions: one at 80%, two at 60%.
+Seven characteristics define your character: STR, CON, SIZ, INT, POW, DEX, CHA. From these derive your Hit Points (CON + SIZ / 2), your Power Point pool (= POW), your damage modifier, and your skill category bonuses. Choose a Cultural Background (§2.4) and a Profession (§2.5) to gain starting skills. Spend INT x10 free points on any skills you like. Choose 2 Talents from the four talent tables (§2.7). Write down 3 Passions: one at 80%, two at 60%.
 
 ### 2.2 Action Resolution
 
@@ -33,4 +33,4 @@ Each character's POW characteristic defines their Power Point pool - their vital
 
 ### 2.4 Advancement
 
-When you _successfully_ use a skill in a genuinely uncertain, dramatic situation, mark it for an experience roll at the end of the adventure. Failure earns nothing - the genre learns from what works. (Sustained training or immersive practice can earn a checkmark without a roll; see P4 §8.) At the end of the adventure, roll D100; add INT/2. If the result exceeds your current skill rating, the skill improves by 1D6.
+When you _successfully_ use a skill in a genuinely uncertain, dramatic situation, mark it for an experience roll at the end of the adventure. Failure earns nothing - the genre learns from what works. (Sustained training or immersive practice can earn a checkmark without a roll; see §4.8.) At the end of the adventure, roll D100; add INT/2. If the result exceeds your current skill rating, the skill improves by 1D6.

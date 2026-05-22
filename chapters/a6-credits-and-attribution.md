@@ -30,7 +30,7 @@ Warrior \* Sorcerer \* Rogue draws on a century of sword & sorcery fiction. The 
 
 No text from these works is reproduced in this game. The literary inspirations are acknowledged because this game would not exist without them, and because the players and GMs who recognise these names will understand immediately what kind of game they are about to play.
 
-For the full list of inspirational works - films, books, comics, music, and art - see **PA3 Inspirational Influences**.
+For the full list of inspirational works - films, books, comics, music, and art - see **§A3 Inspirational Influences**.
 
 ## 3. Author
 

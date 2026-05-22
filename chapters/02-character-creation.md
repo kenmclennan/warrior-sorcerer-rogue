@@ -87,11 +87,11 @@ The damage modifier applies to all melee and thrown weapon attacks. For thrown a
 
 ### 3.4 Movement Rate
 
-**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See P12 §8 for chase rules.
+**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See §12.8 for chase rules.
 
 ### 3.5 Experience Bonus
 
-**Experience Bonus = INT / 2, rounded up.** This value is added to improvement rolls during downtime. See P4 §8 for the improvement procedure.
+**Experience Bonus = INT / 2, rounded up.** This value is added to improvement rolls during downtime. See §4.8 for the improvement procedure.
 
 ### 3.6 Skill Category Bonuses
 
@@ -166,7 +166,7 @@ Players are encouraged to invent the rest - names, language, religion, leader - 
 | 2   | Broad-bladed thrusting spear and small target shield; heavy fur cloak, no other armour                                             |
 | 3   | Two-handed greatsword or heavy falchion of pattern-iron, no shield; iron-studded leather harness                                   |
 | 4   | Composite recurve bow, curved sabre, and braided lasso; lamellar coat of lacquered hide                                            |
-| 5   | Wooden club edged with obsidian flakes (a *macuat*) and atlatl darts; cane-and-feather shield, quilted cotton armour hard as horn  |
+| 5   | Wooden club edged with obsidian flakes (a _macuat_) and atlatl darts; cane-and-feather shield, quilted cotton armour hard as horn  |
 | 6   | Hand-axe, sling, and long bone-knife; no armour but war-paint and tattoos - which are said to protect the bearer, and sometimes do |
 
 | d6  | What they carry                                                                                   |
@@ -221,7 +221,7 @@ Players are encouraged to invent the rest - names, language, religion, leader - 
 | 1   | Curved scimitar, short composite bow, and oval cane-and-hide shield; scale corslet of bronze and lacquered horn beneath a conical helm |
 | 2   | Long arming-sword and round steel shield; mail hauberk beneath a heraldic surcoat                                                      |
 | 3   | Rapier and parrying-dagger; buff-coat or brigandine, plumed hat in place of a helm                                                     |
-| 4   | Slender venom-grooved duelling-blade (a *tsarith*) and wrist-mounted hand-crossbow; no armour, on principle                            |
+| 4   | Slender venom-grooved duelling-blade (a _tsarith_) and wrist-mounted hand-crossbow; no armour, on principle                            |
 | 5   | Glaive or halberd carried in disciplined formation behind a tall pavise; segmented plate cuirass and visored helm                      |
 | 6   | Paired short blades, hand-crossbow, and smoke-bombs; black silks with no armour - speed and shadow do the work                         |
 
@@ -240,7 +240,7 @@ Profession is what the character did. The profession provides a starting skill b
 
 **Heroic profession skill points:** Add 325 points distributed across the twelve profession skills. The maximum starting rating for any skill is 75%. Remaining points after all skills are allocated are lost - they cannot be converted to personal skill points or held over.
 
-**Wealth tier:** Each profession lists a starting wealth tier (see P7 §1.2).
+**Wealth tier:** Each profession lists a starting wealth tier (see §7.1.2).
 
 **Profession skill bundles are suggestions, not locks.** The profession bundle covers the baseline; Personal Skill points (Step 5) fill out the rest.
 
@@ -324,7 +324,7 @@ The sorcerer-archetype profession. A trained researcher in forbidden knowledge: 
 **Reputation start:** 10% (higher if their activities are known)
 **Profession skills:** Disguise, Hide, Knowledge (Occult), Language (one additional), Literacy (one script), Perform (Ritual), Research, Sense, Sorcery, Spot, Move Quietly, one of: Insight / Bargain / Craft (Apothecary)
 
-> **Sorcery as a skill:** The Sorcery skill governs the sorcerer's ability to perform resistance-table-relevant actions during spellcasting and ritual work. It is not a casting-success roll (casting is automatic given PP and time - see P6 §2.1) but a modifier for contested workings: Resistance Table rolls use the sorcerer's current PP total against the target's POW. Sorcery skill as a complementary bonus applies when the GM rules that technique is meaningfully at stake.
+> **Sorcery as a skill:** The Sorcery skill governs the sorcerer's ability to perform resistance-table-relevant actions during spellcasting and ritual work. It is not a casting-success roll (casting is automatic given PP and time - see §6.2.1) but a modifier for contested workings: Resistance Table rolls use the sorcerer's current PP total against the target's POW. Sorcery skill as a complementary bonus applies when the GM rules that technique is meaningfully at stake.
 
 ### Outcast
 
@@ -354,7 +354,7 @@ Works for someone who pays to know things other people are hiding. May be attach
 
 **Personal Skill Points = INT x10.**
 
-Spend freely on any skills in the WSR skill list (P3). Maximum starting rating for any skill is 75%. Specialities are purchased separately. Personal points add on top of Cultural Background and Profession bonuses. The first point spent on a skill not in the profession bundle opens it at its base chance.
+Spend freely on any skills in the WSR skill list (§3). Maximum starting rating for any skill is 75%. Specialities are purchased separately. Personal points add on top of Cultural Background and Profession bonuses. The first point spent on a skill not in the profession bundle opens it at its base chance.
 
 ## 7. Step 6: Talents
 
@@ -380,7 +380,7 @@ Requires a martial profession or equivalent background.
 | Steel Rain         | 4 PP | When using a missile weapon, fire or throw two projectiles this round, each at -10% to the normal skill. Both projectiles must target the same opponent. Declare at the start of the round, before initiative.                                                                  |
 | Warlord's Eye      | 2 PP | You may make a Strategy roll as a free action at the start of combat. On a success, you or one ally of your choice gains +5 effective DEX for initiative order this round. On a critical, apply this to every ally.                                                             |
 | Battle Tempo       | 3 PP | Declare before Phase One Statements. For this round, treat your DEX as +5 for initiative order only. The bonus does not affect skill rolls, Dodge, or damage modifier - it changes the order in which you declare and act, nothing more. Once per combat.                       |
-| Throat of the Wolf | 4 PP | Spend after taking a critical hit. The PA1 entry's impairment effects (stunned, useless limb, hindered actions) are halved in duration. Damage, bleeding, and permanent injuries still apply.                                                                                   |
+| Throat of the Wolf | 4 PP | Spend after taking a critical hit. The §A1 entry's impairment effects (stunned, useless limb, hindered actions) are halved in duration. Damage, bleeding, and permanent injuries still apply.                                                                                   |
 | Shield Slam        | 3 PP | When you successfully parry with a shield, you may immediately make a free Brawl attack against the attacker as a reaction. This attack does not cost an action.                                                                                                                |
 | Pack-Breaker       | 4 PP | When two or more opponents are attacking you in the same round, spend before the round resolves. You may redirect one attack, after the roll is made, to one of the other attackers - the attacker has struck their ally. The redirect is limited to one attack per activation. |
 | Veteran's Gut      | 0 PP | You are never surprised. When an ambush or surprise attack would give opponents a free action, you always act in the first round, even if others do not.                                                                                                                        |
@@ -495,7 +495,7 @@ A new Passion gained through events in play starts at 60%, or higher if circumst
 
 ## 9. Step 8: Reputation
 
-Reputation is fame - or notoriety - recognised beyond the character's home ground. It is not the same as Status (see P3 §4); Reputation travels. Reputation is a one-way ratchet: it only increases, never decreases.
+Reputation is fame - or notoriety - recognised beyond the character's home ground. It is not the same as Status (see §3.4); Reputation travels. Reputation is a one-way ratchet: it only increases, never decreases.
 
 ### 9.1 Starting Reputation by Profession
 
@@ -556,13 +556,13 @@ This step applies **only to characters who have chosen the Scholar of the Dark A
 
 A sorcerer-archetype character must have POW 16 or higher. If the character's rolled POW is 15 or below after redistribution, they do not qualify. Either redistribute (if a point is available) or choose a different profession.
 
-A character who qualifies may also use the **Sorcerous Heritage** option (P6 §1.4): permanently reduce STR, CON, or CHA by 2 points each to gain 1 point of POW, up to a maximum of POW 21. This trade is irreversible and visible.
+A character who qualifies may also use the **Sorcerous Heritage** option (§6.1.4): permanently reduce STR, CON, or CHA by 2 points each to gain 1 point of POW, up to a maximum of POW 21. This trade is irreversible and visible.
 
 ### 10.2 Starting Spells
 
-The starting sorcerer knows a number of spell levels equal to **half their INT, rounded up.** A sorcerer with INT 16 knows spell levels totalling 8 - for example, four spells of level 2 each, or two spells of level 3 and two of level 1. All starting spells are memorised and immediately available (see P6 §2.4).
+The starting sorcerer knows a number of spell levels equal to **half their INT, rounded up.** A sorcerer with INT 16 knows spell levels totalling 8 - for example, four spells of level 2 each, or two spells of level 3 and two of level 1. All starting spells are memorised and immediately available (see §6.2.4).
 
-Choose starting spells from the spell list in P6 §6. The GM may restrict certain spells at character generation; spells involving Greater Demons or direct patron contact are typically learned in play, not at creation.
+Choose starting spells from the spell list in §6.6. The GM may restrict certain spells at character generation; spells involving Greater Demons or direct patron contact are typically learned in play, not at creation.
 
 ### 10.3 The Patron Compact (Optional)
 
@@ -572,8 +572,8 @@ A starting sorcerer may choose to have already entered a patron compact. This is
 
 1. Name the patron or describe its nature (demon lord, chaos power, dead god, old elemental intelligence). The specifics are yours and the GM's to develop.
 2. Record **Patron Score = 1D6+5** (roughly 6-11 at creation).
-3. You receive the patron's PP reserve benefit and Patron Intercession access as described in P6 §3.2.
-4. The patron is watching from the start. High Patron Scores draw attention; see P10 for what patrons actually want.
+3. You receive the patron's PP reserve benefit and Patron Intercession access as described in §6.3.2.
+4. The patron is watching from the start. High Patron Scores draw attention; see §10 for what patrons actually want.
 
 **If you do not take a patron:**
 Record Patron Score as **None.** The option to enter a compact later remains open - it is a story event, not a character generation lock.
@@ -582,13 +582,13 @@ Record Patron Score as **None.** The option to enter a compact later remains ope
 
 All sorcerers start with **Corruption = POW x5.** This is the full track; it has not been reduced by anything at creation.
 
-If the character has Knowledge (Blasphemous Lore) from their profession bundle or personal skill points, apply the cap immediately: the maximum Corruption is reduced by 1 point for every 1% of Knowledge (Blasphemous Lore) the character already has (P6 §3.3).
+If the character has Knowledge (Blasphemous Lore) from their profession bundle or personal skill points, apply the cap immediately: the maximum Corruption is reduced by 1 point for every 1% of Knowledge (Blasphemous Lore) the character already has (§6.3.3).
 
 Record the starting Corruption total, the Blasphemous Lore cap if applicable, and the Breaking Point (half the starting value).
 
 ### 10.5 Starting Grimoire
 
-Every sorcerer begins with a grimoire containing their starting spells. Choose the grimoire's format from the options in P6 §5.1. Note that the format implies something about the character's background:
+Every sorcerer begins with a grimoire containing their starting spells. Choose the grimoire's format from the options in §6.5.1. Note that the format implies something about the character's background:
 
 - A codex implies formal learning or a wealthy patron.
 - A scroll implies mobility and concealment.
@@ -631,7 +631,7 @@ The coin listed above is the character's current working funds. Characters of Af
 
 ### 11.3 Additional Equipment
 
-After the profession kit, characters may purchase additional equipment from P7 using their starting coin. The GM may rule that certain items are unavailable at the campaign's starting location.
+After the profession kit, characters may purchase additional equipment from §7 using their starting coin. The GM may rule that certain items are unavailable at the campaign's starting location.
 
 ## 12. Background Questions
 
@@ -662,7 +662,7 @@ The significant possession is not a mechanical item with stats. It is an anchor.
 
 ### 13.1 Name and Physical Description
 
-Choose a name and note two or three physical markers. **PA4 Names** provides ten male and ten female sample names for each Cultural Background; use them as a starting palette or invent your own.
+Choose a name and note two or three physical markers. **§A4 Names** provides ten male and ten female sample names for each Cultural Background; use them as a starting palette or invent your own.
 
 ### 13.2 Distinctive Features (Optional)
 

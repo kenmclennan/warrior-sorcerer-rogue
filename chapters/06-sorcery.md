@@ -1,6 +1,6 @@
 # Sorcery
 
-This chapter covers becoming a sorcerer, casting spells, the three costs, iron disruption, grimoires, and the full spell list. P10 covers the GM side: patrons, demons, and what happens when a sorcerer goes too far.
+This chapter covers becoming a sorcerer, casting spells, the three costs, iron disruption, grimoires, and the full spell list. §10 covers the GM side: patrons, demons, and what happens when a sorcerer goes too far.
 
 ---
 
@@ -16,7 +16,7 @@ To become a sorcerer, a character must meet all three of the following condition
 
 **Power (POW 16 or higher).** The sorcerous current demands a minimum vital force. A character with POW 15 or below can own a grimoire, can even read it, but cannot draw power through the text. The spells simply will not come. This threshold is not negotiable.
 
-**A sorcerer's profession or background.** The character must have pursued sorcery through a recognised path: formal apprenticeship under an established sorcerer, years alone in a dark library, a pact exchanged in a place that should not exist, or initiation into a small and secretive order. Characters from purely martial or criminal backgrounds who have never been near sorcerous instruction cannot qualify, however high their POW. See P2 §5 for the professions that qualify.
+**A sorcerer's profession or background.** The character must have pursued sorcery through a recognised path: formal apprenticeship under an established sorcerer, years alone in a dark library, a pact exchanged in a place that should not exist, or initiation into a small and secretive order. Characters from purely martial or criminal backgrounds who have never been near sorcerous instruction cannot qualify, however high their POW. See §2.5 for the professions that qualify.
 
 **A grimoire.** Every sorcerer begins with at least one grimoire containing their starting spells. Without access to written sorcerous knowledge, no learning is possible. Starting sorcerers know a number of spell levels equal to half their INT (round up), inscribed in their grimoire and memorised for immediate use. See §5 for grimoire rules.
 
@@ -48,13 +48,13 @@ Sorcery does not fail through incompetence. A sorcerer who knows a spell, has th
 
 ### 2.2 Power Point Cost
 
-Every spell costs PP equal to its intensity, paid at the moment of casting. Fixed-intensity spells always cost the same amount; scaling spells cost more for stronger effects. PP are shared with all Fate Point spends - the Critical Buy (P4 §3) and the standard menu (P4 §7) draw from the same pool, every draw. If the sorcerer lacks PP to complete a casting, the spell fails and any gathered PP disperses.
+Every spell costs PP equal to its intensity, paid at the moment of casting. Fixed-intensity spells always cost the same amount; scaling spells cost more for stronger effects. PP are shared with all Fate Point spends - the Critical Buy (§4.3) and the standard menu (§4.7) draw from the same pool, every draw. If the sorcerer lacks PP to complete a casting, the spell fails and any gathered PP disperses.
 
-See P4 §6 for PP totals and recovery.
+See §4.6 for PP totals and recovery.
 
 ### 2.3 Time to Cast
 
-Casting takes one combat round, taking effect during Phase Two (P5 §1.2). While casting, the sorcerer may do nothing else. Multi-round workings (rituals, demon summoning) are noted in the spell entry; they cannot be done mid-combat.
+Casting takes one combat round, taking effect during Phase Two (§5.1.2). While casting, the sorcerer may do nothing else. Multi-round workings (rituals, demon summoning) are noted in the spell entry; they cannot be done mid-combat.
 
 ### 2.4 Memorised Spells and the Grimoire
 
@@ -76,7 +76,7 @@ Default duration is the caster's POW in combat rounds, unless the entry states o
 
 ### 2.8 Resistance and Contested Spells
 
-Targeted spells must overcome the target's resistance via the Resistance Table (P4 §4.4): the sorcerer's current PP (after paying the cost) vs. the target's POW. On a failure, the spell is blocked; PP are still spent. Winning a resistance roll against a target with equal or higher POW earns an experience checkmark toward improving POW (P4 §8.5).
+Targeted spells must overcome the target's resistance via the Resistance Table (§4.4.4): the sorcerer's current PP (after paying the cost) vs. the target's POW. On a failure, the spell is blocked; PP are still spent. Winning a resistance roll against a target with equal or higher POW earns an experience checkmark toward improving POW (§4.8.5).
 
 ---
 
@@ -86,7 +86,7 @@ Sorcery has three costs operating at different scales. All three are real and in
 
 ### 3.1 Power Points
 
-The immediate cost. Every spell costs PP; at zero the sorcerer collapses. Every spend is a real decision: spell or Fate Point; Critical Buy or working. See P4 §6 for the full Power Point rules.
+The immediate cost. Every spell costs PP; at zero the sorcerer collapses. Every spend is a real decision: spell or Fate Point; Critical Buy or working. See §4.6 for the full Power Point rules.
 
 ### 3.2 Patron Score (Optional)
 
@@ -101,9 +101,9 @@ A sorcerer who has entered a compact with a patron entity maintains a Patron Sco
 - **PP Reserve.** When the sorcerer's own PP pool reaches 0, they may call on the patron for an emergency draw. They may draw up to 1/10 of their current Patron Score (round up) as emergency PP. This may be done up to three times per session. Each use increases the Patron Score by 1 (the debt deepens).
 - **Patron Intercession.** When the sorcerer's situation is truly desperate, they may invoke the patron by true name as a full action. Make an allegiance roll (D100 vs. current Patron Score). On a Critical (matching dice within the Patron Score), the patron intervenes directly - a demon servant appears, a curse falls on enemies, a door opens that should not. The form of intervention is the GM's call. A successful Patron Intercession always increases the Patron Score by 2D6. The patron has spent something, and the debt has grown.
 
-**The obligation:** A high Patron Score draws the patron's attention. P10 describes what patrons want and how the relationship escalates. A Patron Score above 50 brings increasingly specific demands.
+**The obligation:** A high Patron Score draws the patron's attention. §10 describes what patrons want and how the relationship escalates. A Patron Score above 50 brings increasingly specific demands.
 
-**Earning Patron Score:** After any adventure in which the sorcerer performed actions that served the patron's interests, the GM may call for a patron test. Roll D100. If the roll is less than the current Patron Score, the score increases by 1D6. P10 defines what a given patron values - each patron has its own trigger list.
+**Earning Patron Score:** After any adventure in which the sorcerer performed actions that served the patron's interests, the GM may call for a patron test. Roll D100. If the roll is less than the current Patron Score, the score increases by 1D6. §10 defines what a given patron values - each patron has its own trigger list.
 
 ### 3.3 Corruption
 
@@ -176,7 +176,7 @@ Unenchanted iron is inimical to the sorcerous current.
 
 **Practical:** Iron sword (ENC 1) + iron helm (ENC 1) = -10% on all sorcery rolls. Iron mail (ENC 9) = -45%. Most sorcerers travel in bronze or leather.
 
-See P7 §11 for ENC, P7 §5 for material tiers, and P7 §12.1 for the full iron-vs-sorcery rules.
+See §7.11 for ENC, §7.5 for material tiers, and §7.12.1 for the full iron-vs-sorcery rules.
 
 ---
 
@@ -290,7 +290,7 @@ A sorcerer may have up to POW/3 (round down) animated dead under their command a
 **Cast Time:** 1 round
 **Duration:** POW rounds
 
-The target must fail a POW resistance roll (P4 §4.4) or enter a berserker state: attacks the nearest creature, cannot parry or dodge, cannot stop fighting even when mortally wounded. Does not feel pain. When the spell ends, the target collapses unless wounds were minor.
+The target must fail a POW resistance roll (§4.4.4) or enter a berserker state: attacks the nearest creature, cannot parry or dodge, cannot stop fighting even when mortally wounded. Does not feel pain. When the spell ends, the target collapses unless wounds were minor.
 
 **Cost Notes:** Casting at intensity 3 or higher increases Corruption by 1 (in addition to standard casting cost).
 
@@ -348,7 +348,7 @@ Enhances the target's Move Quietly skill: intensity 1 = +20%; intensity 2 = +40%
 **Cast Time:** 1 round
 **Duration:** Permanent until broken
 
-The target must fail a POW resistance roll (P4 §4.4) or receive a permanent, visible disfigurement: a hand turned claw, an eye that clouds and weeps black, hair that falls and does not grow back. The mark imposes -20% to all social interactions in communities that recognise it, and is visible to See the Unseen. The curse can only be broken by Undo Sorcery at equal or greater intensity, or by killing the caster.
+The target must fail a POW resistance roll (§4.4.4) or receive a permanent, visible disfigurement: a hand turned claw, an eye that clouds and weeps black, hair that falls and does not grow back. The mark imposes -20% to all social interactions in communities that recognise it, and is visible to See the Unseen. The curse can only be broken by Undo Sorcery at equal or greater intensity, or by killing the caster.
 
 **Cost Notes:** Casting increases Corruption by 1D3 (in addition to standard casting cost).
 
@@ -488,7 +488,7 @@ The sorcerer or a touched target assumes the appearance of a specific person or 
 **Cast Time:** 1 round (emergency) or 10 minutes (careful)
 **Duration:** Instantaneous
 
-Heals 1D6+POW/5 (round up) HP in the sorcerer or a touched target. If used on a fresh critical wound (same scene), the PA1 entry's impairment effects may be mitigated to a severe but non-crippling injury at the GM's discretion - not guaranteed; requires a Difficult Medicine roll or a second casting. Does not restore lost limbs, cure disease, or reverse Corruption.
+Heals 1D6+POW/5 (round up) HP in the sorcerer or a touched target. If used on a fresh critical wound (same scene), the §A1 entry's impairment effects may be mitigated to a severe but non-crippling injury at the GM's discretion - not guaranteed; requires a Difficult Medicine roll or a second casting. Does not restore lost limbs, cure disease, or reverse Corruption.
 
 **Cost Notes:** Always causes 1D3 Corruption regardless of the standard casting Corruption roll.
 
@@ -627,7 +627,7 @@ The target must fail a POW resistance roll or be unable to cast spells, plan coh
 **Cast Time:** 4 hours minimum (preparation and invocation)
 **Duration:** Until released or binding broken
 
-The sorcerer prepares a circle, invokes a demon by the appropriate formula, and calls it into physical presence. The demon arrives not bound, and has agreed to nothing - that negotiation follows. The player-side procedure is in §7; the demon's behaviour and demands are in P10.
+The sorcerer prepares a circle, invokes a demon by the appropriate formula, and calls it into physical presence. The demon arrives not bound, and has agreed to nothing - that negotiation follows. The player-side procedure is in §7; the demon's behaviour and demands are in §10.
 
 **Cost Notes:** Summoning a lesser demon causes Corruption per the §3.3 table. Summoning a Greater Demon causes 1D3 additional Corruption regardless of the roll result.
 
@@ -736,7 +736,7 @@ The sorcerer examines a wound, a body, or a patient in extremis and reads what h
 
 ## 7. Demon Summoning: The Player's Side
 
-Summoning is an extended ritual followed by a negotiation. The demon's appearance, demands, and behaviour are in P10. This section covers the sorcerer's side.
+Summoning is an extended ritual followed by a negotiation. The demon's appearance, demands, and behaviour are in §10. This section covers the sorcerer's side.
 
 ### 7.1 Preparation
 
@@ -746,7 +746,7 @@ Before invoking a demon, the sorcerer must:
 
 **Research the target.** Know the demon's nature (possessing spirit, flesh-eater, chaos-entity), its approximate power (See the Unseen helps), and its true name if available. Summoning without a true name is possible, but the demon arrives without the obligation a name implies.
 
-**Gather materials.** P10 describes what a specific demon prefers. Preparing without the appropriate materials imposes penalties on the binding roll.
+**Gather materials.** §10 describes what a specific demon prefers. Preparing without the appropriate materials imposes penalties on the binding roll.
 
 ### 7.2 The Invocation
 
@@ -779,4 +779,4 @@ A binding ends in one of four ways:
 - **The sorcerer dies.** Active bindings end; object-bound and place-bound demons may persist.
 - **Another sorcerer learns the true name and rebinds.** The demon now serves the new binder.
 
-What the demon does when freed depends on the entity's nature, the bargain terms, and how it was treated. P10 has guidance.
+What the demon does when freed depends on the entity's nature, the bargain terms, and how it was treated. §10 has guidance.

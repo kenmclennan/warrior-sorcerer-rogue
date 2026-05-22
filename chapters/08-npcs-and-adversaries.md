@@ -3,7 +3,7 @@
 > _"There were at least a score of them - hard, lean, wolfish men, with a sprinkling of black-bearded nomads among them."_
 > _- Robert E. Howard_
 
-This chapter covers stat block formats, design principles, and ready-to-use examples for the three tiers of human enemy: Rabble, professionals, and named antagonists. The player-facing Rabble rule is in P5 §8; this chapter is the GM's side.
+This chapter covers stat block formats, design principles, and ready-to-use examples for the three tiers of human enemy: Rabble, professionals, and named antagonists. The player-facing Rabble rule is in §5.8; this chapter is the GM's side.
 
 ---
 
@@ -29,7 +29,7 @@ Professionals are competent antagonists with individual identities. They may not
 
 **Narrative role.** Professionals push back: they adapt, hold their ground, and have something at stake beyond the coin. They may have loyalties that complicate instructions or limits to their ruthlessness.
 
-**Mechanical profile.** Professionals have multiple weapon skills, Dodge or Parry, and limited PP (typically half POW or lower). HP is computed as **(CON + SIZ) / 2, rounded up** (the half formula) - competent but mortal; their toughness comes from skill and PP, not from a doubled HP buffer. No sorcery, no Fate Point access, no Patron Intercession. No formal Talents or Passions - the GM assigns one or two drive-notes informally. They take damage as HP loss until they drop at 0 HP; critical hits against them apply PA1 entries normally.
+**Mechanical profile.** Professionals have multiple weapon skills, Dodge or Parry, and limited PP (typically half POW or lower). HP is computed as **(CON + SIZ) / 2, rounded up** (the half formula) - competent but mortal; their toughness comes from skill and PP, not from a doubled HP buffer. No sorcery, no Fate Point access, no Patron Intercession. No formal Talents or Passions - the GM assigns one or two drive-notes informally. They take damage as HP loss until they drop at 0 HP; critical hits against them apply §A1 entries normally.
 
 ### 1.3 Named Antagonists
 
@@ -37,9 +37,9 @@ Named antagonists are PC-grade characters: individuals with full stat blocks, Fa
 
 **Narrative role.** Named antagonists drive plots. They have goals, make decisions that shape events before the PCs arrive, and represent a sustained threat requiring time, preparation, and luck to overcome.
 
-**Mechanical profile.** Build named antagonists exactly as you would build a PC (see P2 for the chargen procedure). All the same rules apply: characteristics, derived stats, skills, talents, passions, reputation. **HP uses the full PC formula: CON + SIZ** (not the half formula used by Rabble and Professionals). The GM version of a named antagonist has full Fate Point access - their Power Points can fund defensive spends, and they will use them when the stakes are high enough.
+**Mechanical profile.** Build named antagonists exactly as you would build a PC (see §2 for the chargen procedure). All the same rules apply: characteristics, derived stats, skills, talents, passions, reputation. **HP uses the full PC formula: CON + SIZ** (not the half formula used by Rabble and Professionals). The GM version of a named antagonist has full Fate Point access - their Power Points can fund defensive spends, and they will use them when the stakes are high enough.
 
-For sorcerer-villain antagonists, apply the full Sorcery rules from P6. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in P10 (NPC Sorcery and Patrons); the stat blocks in §5 of this chapter include a worked example.
+For sorcerer-villain antagonists, apply the full Sorcery rules from §6. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in §10 (NPC Sorcery and Patrons); the stat blocks in §5 of this chapter include a worked example.
 
 ---
 
@@ -73,7 +73,7 @@ No Fate Point access.
 
 **Cumulative threshold.** Total damage taken, not per-blow. A Rabble with 8 HP is incapacitated at 4 HP cumulative - whether from one solid hit or three scratches.
 
-**Critical hits.** Full damage ignoring armour (P5 §10.4). If cumulative damage reaches the threshold, incapacitated immediately. Crit table results are colour only - the GM may narrate severed limbs or grievous wounds for flavour, but no PA1 entry needs to be consulted.
+**Critical hits.** Full damage ignoring armour (§5.10.4). If cumulative damage reaches the threshold, incapacitated immediately. Crit table results are colour only - the GM may narrate severed limbs or grievous wounds for flavour, but no §A1 entry needs to be consulted.
 
 **Describing incapacitation.** Not always lethal. A bandit struck by a sword might be dead; the same bandit knocked sprawling by a half-spent blow is unconscious. City guardsmen beaten down create a different problem than twelve dead ones. Let the fiction determine what "incapacitated" looks like.
 
@@ -140,7 +140,7 @@ Professionals are not named antagonists in waiting. Do not give them Fate Point 
 
 ## 4. Building Named Antagonists
 
-Named antagonists are PCs with different goals. Build them with the full chargen procedure from P2.
+Named antagonists are PCs with different goals. Build them with the full chargen procedure from §2.
 
 ### 4.1 Named Antagonist Stat Block Format
 
@@ -188,15 +188,15 @@ The villain's PP are the GM's primary pacing tool. Decide at session prep how ma
 
 ### 4.3 Sorcerer Antagonists
 
-Sorcerer-villain antagonists have a Corruption track and may have a Patron Score. Use the full mechanics from P6 for their sorcery. Additionally:
+Sorcerer-villain antagonists have a Corruption track and may have a Patron Score. Use the full mechanics from §6 for their sorcery. Additionally:
 
-**Spells in memory.** Two or three spells, total levels not exceeding half INT (consistent with the PC rule in P2 §10.2).
+**Spells in memory.** Two or three spells, total levels not exceeding half INT (consistent with the PC rule in §2.10.2).
 
-**Casting under pressure.** Sorcerer antagonists follow P6 §2 and share the combat interruption risk (P5 §6.5). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
+**Casting under pressure.** Sorcerer antagonists follow §6.2 and share the combat interruption risk (§5.6.5). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
 
 **Corruption as a signal.** Corruption level shows how far the sorcerer has gone. Near the Breaking Point means they have sold something fundamental - let that show in their behaviour and decisions.
 
-Cross-reference P10 for patron design, ritual magic, and demon binding. This chapter provides the stat block; P10 provides what is behind it.
+Cross-reference §10 for patron design, ritual magic, and demon binding. This chapter provides the stat block; §10 provides what is behind it.
 
 ### 4.4 The Recurring Antagonist
 
@@ -466,7 +466,7 @@ it is interested in the Codex of the Third Circle, which it sent her to
 retrieve. If she fails, another agent will be found. Nashtira knows this,
 which explains both her ruthlessness and her desperation.
 
-Cross-reference P10 for the Devouring Lattice's full patron profile and the
+Cross-reference §10 for the Devouring Lattice's full patron profile and the
 Patron Intercession mechanics at Patron Score 14.
 ```
 

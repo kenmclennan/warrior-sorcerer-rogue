@@ -53,9 +53,9 @@ Movement in combat is described, not measured. Three categories cover most situa
 
 ### 3.1 The Attack Roll
 
-To attack, roll D100 against the relevant weapon skill. Consult the outcome tiers from P4 §2:
+To attack, roll D100 against the relevant weapon skill. Consult the outcome tiers from §4.2:
 
-- **Critical Success** (matching dice within success range): the attack lands with exceptional force. Consult the appropriate crit table in PA1. The attacker may also have spent PP to convert a normal success to a critical (see P4 §3).
+- **Critical Success** (matching dice within success range): the attack lands with exceptional force. Consult the appropriate crit table in §A1. The attacker may also have spent PP to convert a normal success to a critical (see §4.3).
 - **Success**: the attack connects. The defender may attempt to parry or dodge.
 - **Failure**: the attack misses. No defensive roll needed.
 - **Fumble** (00, or matching dice outside success range): something has gone wrong. The GM narrates the complication - a dropped weapon, a stumble, an opening left for the opponent.
@@ -90,7 +90,7 @@ A defender may attempt to dodge instead of parrying. Roll the Dodge skill. The s
 
 A Critical attack that lands against a defender who failed to defend (or was not defended) deals maximum damage and ignores armour entirely. A defender who parried or dodged successfully against a Critical reduces the result to a standard Success - the attack still strikes, but armour applies and damage is halved.
 
-When a critical attack lands and there is no successful defence: determine the severity band from the matching-dice value and damage type, then look up the result in PA1. See §8 for how to read the crit tables.
+When a critical attack lands and there is no successful defence: determine the severity band from the matching-dice value and damage type, then look up the result in §A1. See §8 for how to read the crit tables.
 
 ### 3.6 Fighting Defensively
 
@@ -139,7 +139,7 @@ Each weapon lists a damage dice expression. The attacker rolls this dice, adds t
 
 Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from damage before applying to HP. If the reduction brings damage to 0 or below, no HP are lost - but the impact still occurred.
 
-**Armour disadvantages.** Armour imposes skill penalties on Agility, Move Quietly, Swim, Climb, and Perception skills as listed in the equipment tables (see P7 §3). It is also socially conspicuous: arriving at a merchant's hall in full bronze scales makes certain conversations difficult.
+**Armour disadvantages.** Armour imposes skill penalties on Agility, Move Quietly, Swim, Climb, and Perception skills as listed in the equipment tables (see §7.3). It is also socially conspicuous: arriving at a merchant's hall in full bronze scales makes certain conversations difficult.
 
 **Armour fit.** Armour is sized for its original wearer. Armour that does not fit (different SIZ) imposes an additional -20% penalty on all physical skills and halves its AV.
 
@@ -155,11 +155,11 @@ Shields are both weapons (use Shield skill to attack) and parrying tools (use Sh
 
 Damage is subtracted from current HP. Combat continues at any positive HP - the character keeps acting, parrying, casting, regardless of the wound count. The genre tolerates beating, blood, and exhaustion right up until the moment a character drops.
 
-**Critical attack.** A critical hit applies the appropriate PA1 entry in addition to its damage. The PA1 entry is the wound - its stated duration, impairment, and permanence are authoritative. Crit-driven wounds are the only source of permanent injury in WSR; ordinary damage just accumulates as HP loss.
+**Critical attack.** A critical hit applies the appropriate §A1 entry in addition to its damage. The §A1 entry is the wound - its stated duration, impairment, and permanence are authoritative. Crit-driven wounds are the only source of permanent injury in WSR; ordinary damage just accumulates as HP loss.
 
 **Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
 
-**Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§9): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (P4 §7). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
+**Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§9): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (§4.7). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
 
 ### 5.2 Healing
 
@@ -175,7 +175,7 @@ First Aid applied immediately after a wound heals 1D4 HP (Critical: 2D4 HP) and 
 
 Medicine skill applied in proper conditions heals 1D4 HP or restores 1 point to a reduced characteristic per treatment (Critical: 2D4 HP, or 1D3 to a characteristic). Medicine cannot be applied in the middle of combat.
 
-Sorcerous healing exists as rare, costly spells in the sorcery list (see P6 §3). It is never the default recovery path, and it pays its own price.
+Sorcerous healing exists as rare, costly spells in the sorcery list (see §6.3). It is never the default recovery path, and it pays its own price.
 
 ---
 
@@ -189,13 +189,13 @@ Sorcerous healing exists as rare, costly spells in the sorcery list (see P6 §3)
 
 1. **Fight withdrawal.** Spend the entire round in defensive action only (parries and dodges). If every attack against the character is successfully parried or dodged, the character is disengaged at the end of the round.
 
-2. **Knocked-back disengage.** If a Crushing critical has knocked the character prone (see PA1 §1.4 _Knocked down_), they may attempt a Dodge immediately. Success means the character rolls away and is disengaged; failure means they remain prone and engaged.
+2. **Knocked-back disengage.** If a Crushing critical has knocked the character prone (see §A1.1.4 _Knocked down_), they may attempt a Dodge immediately. Success means the character rolls away and is disengaged; failure means they remain prone and engaged.
 
 3. **Turn and run.** The character turns and moves. This abandons all defence: the opponent gets one immediate attack against the fleeing character that cannot be parried or dodged.
 
 ### 6.2 Knockout and Subdual
 
-**Knockout attack.** Declare at the start of Phase Three. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). PA1 critical effects do not apply to Knockout criticals - the result is the unconsciousness rule above, not the brutal wounds of a lethal critical. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
+**Knockout attack.** Declare at the start of Phase Three. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). §A1 critical effects do not apply to Knockout criticals - the result is the unconsciousness rule above, not the brutal wounds of a lethal critical. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
 
 **Subduing.** Declare at the start of Phase Three. The attacker reduces the damage dice or omits the damage modifier, to a minimum of 1D2.
 
@@ -219,7 +219,7 @@ When a character is attacked by more opponents than they have parry and dodge at
 
 A sorcerer struck before Phase Two resolves must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if they act first. Disengage first or accept the risk.
 
-See P6 §2 for full sorcery casting rules.
+See §6.2 for full sorcery casting rules.
 
 ### 6.6 Close Combat and Weapon Length
 
@@ -247,19 +247,19 @@ For every 5 DEX ranks spent delaying, add +10% to the attack skill, up to the ba
 
 ## 7. Damage Types
 
-WSR weapons deal one of four damage types. Type determines which critical hit table is consulted in PA1 when a critical attack lands. Type also affects armour interactions (some armours protect better against some types - see P7 Equipment) and certain talents and creature abilities that react to specific types.
+WSR weapons deal one of four damage types. Type determines which critical hit table is consulted in §A1 when a critical attack lands. Type also affects armour interactions (some armours protect better against some types - see §7 Equipment) and certain talents and creature abilities that react to specific types.
 
 ### 7.1 Slashing (swords, axes, daggers, claws)
 
-Cutting wounds. Slash criticals resolve on the **PA1 Slash table** (PA1 §2). Slash critical entries commonly cause bleeding wounds; the bleed effect is defined in PA1 §1.4.
+Cutting wounds. Slash criticals resolve on the **§A1 Slash table** (§A1.2). Slash critical entries commonly cause bleeding wounds; the bleed effect is defined in §A1.1.4.
 
 ### 7.2 Impaling (spears, arrows, javelins, thrusting swords)
 
-Puncturing wounds. Impale criticals resolve on the **PA1 Pierce table** (PA1 §3). Pierce critical entries can lodge a weapon in the wound or pin a limb; the specific effect is described within the relevant entry.
+Puncturing wounds. Impale criticals resolve on the **§A1 Pierce table** (§A1.3). Pierce critical entries can lodge a weapon in the wound or pin a limb; the specific effect is described within the relevant entry.
 
 ### 7.3 Crushing (maces, hammers, clubs, shields)
 
-Blunt-force wounds. Crush criticals resolve on the **PA1 Krush table** (PA1 §4). Krush critical entries commonly stun the target or knock them prone; the stunned and knocked-down effects are defined in PA1 §1.4.
+Blunt-force wounds. Crush criticals resolve on the **§A1 Krush table** (§A1.4). Krush critical entries commonly stun the target or knock them prone; the stunned and knocked-down effects are defined in §A1.1.4.
 
 ### 7.4 Entangling (whips, nets, chains, ropes)
 
@@ -269,7 +269,7 @@ Restraining attacks. Entangling weapons have a dedicated tactical option:
 
 An entangling critical (whether on a damage attack or an entangle attempt) imposes the entangle effect immediately and irresistibly: no resistance roll is permitted at the moment of impact, though subsequent escape attempts proceed normally.
 
-**Other damage types.** Fire damage (sorcerous flame, Greek fire, dragon breath, fire elementals) and Grapple damage (the P3 Grapple skill, creature constricting attacks) have their own PA1 critical hit tables - see PA1 §5 (Burn) and PA1 §6 (Grapple). They follow the same band structure (A through E) and the same matching-dice severity rules as Slash, Pierce, and Krush.
+**Other damage types.** Fire damage (sorcerous flame, Greek fire, dragon breath, fire elementals) and Grapple damage (the §3 Grapple skill, creature constricting attacks) have their own §A1 critical hit tables - see §A1.5 (Burn) and §A1.6 (Grapple). They follow the same band structure (A through E) and the same matching-dice severity rules as Slash, Pierce, and Krush.
 
 ---
 
@@ -281,9 +281,9 @@ Rabble are ordinary soldiers, hired thugs, city guards, and bandit conscripts - 
 
 A Rabble is never a named character. The moment an NPC becomes plot-relevant or individually characterised, they resolve under full combat rules.
 
-**Rabble have no Fate Point access.** They cannot spend PP on any option from the menu in P4 §7.
+**Rabble have no Fate Point access.** They cannot spend PP on any option from the menu in §4.7.
 
-For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see P8 §1.
+For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see §8.1.
 
 ---
 
@@ -295,13 +295,13 @@ A character at 0 HP or below may attempt one last act before falling.
 
 **Actions already spent.** If the character has exhausted their action for the round when the killing wound arrives, the Dying Blow is still available, but the Stamina roll is Difficult (halved).
 
-A Dying Blow cannot be a defensive action. It can trigger a Fate Point spend, including Deflect the Killing Blow (see P4 §7.7).
+A Dying Blow cannot be a defensive action. It can trigger a Fate Point spend, including Deflect the Killing Blow (see §4.7.7).
 
 ---
 
 ## 10. Reading the Crit Tables
 
-When a critical attack lands and is not fully defended, look up the result in PA1. This section explains how to find the right result.
+When a critical attack lands and is not fully defended, look up the result in §A1. This section explains how to find the right result.
 
 ### 10.1 Determine the Damage Type
 
@@ -327,16 +327,16 @@ The severity band (A through E) is determined by the matching-dice value that tr
 
 A higher matching-dice value is only accessible to characters whose skill (after any difficulty modifiers) is at least that value: a fighter with Sword 50 cannot crit on 66 or higher, because 66 exceeds their skill - those rolls are fumbles instead.
 
-**01 always-crit.** A roll of 01 is always a Critical Success (P4 §2.1). Its severity band is the highest band the character could otherwise reach via matching dice at their effective skill (skill after difficulty modifiers): the 01 lucky shot lands in the same band that the character's best regular crit would land. A novice's lucky shot is mild; a master's lucky shot is devastating. See PA1 §1.2 for the full skill-vs-value lookup table.
+**01 always-crit.** A roll of 01 is always a Critical Success (§4.2.1). Its severity band is the highest band the character could otherwise reach via matching dice at their effective skill (skill after difficulty modifiers): the 01 lucky shot lands in the same band that the character's best regular crit would land. A novice's lucky shot is mild; a master's lucky shot is devastating. See §A1.1.2 for the full skill-vs-value lookup table.
 
-**Critical Buy.** A Critical Buy uses the purchased value. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is C. See PA1 §1 for the full lethality gradient.
+**Critical Buy.** A Critical Buy uses the purchased value. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is C. See §A1.1 for the full lethality gradient.
 
 ### 10.3 Find the Roll
 
-Within the damage type table and severity band column, roll 1D100 and read the result. A character who has received a lethal crit may spend PP (P4 §7) after hearing the result but before it takes full effect.
+Within the damage type table and severity band column, roll 1D100 and read the result. A character who has received a lethal crit may spend PP (§4.7) after hearing the result but before it takes full effect.
 
 ### 10.4 Criticals and Rabble
 
-**Rabble inflicting criticals.** A Rabble who rolls matching dice within their skill (or rolls 01) inflicts a critical normally. The PC may defend; if the attack lands, the standard PA1 table is consulted, full damage applies, and armour is ignored. Rabble cannot Critical Buy (no Fate Point access), and their natural skill cap (typically 30-50%) limits them to Band A or B - an exceptionally-skilled Rabble at skill 50+ may reach Band C, but Bands D and E require skill 66+ and 88+ respectively, which is above the tier's design envelope.
+**Rabble inflicting criticals.** A Rabble who rolls matching dice within their skill (or rolls 01) inflicts a critical normally. The PC may defend; if the attack lands, the standard §A1 table is consulted, full damage applies, and armour is ignored. Rabble cannot Critical Buy (no Fate Point access), and their natural skill cap (typically 30-50%) limits them to Band A or B - an exceptionally-skilled Rabble at skill 50+ may reach Band C, but Bands D and E require skill 66+ and 88+ respectively, which is above the tier's design envelope.
 
 **Rabble receiving criticals.** Rabble do not consult the crit tables when struck. A critical hit deals full damage ignoring armour; if this reaches the incapacitation threshold (§8), the Rabble is done. The crit table may be consulted for descriptive colour only.

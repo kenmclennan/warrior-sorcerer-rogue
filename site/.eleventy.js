@@ -24,52 +24,35 @@ function sectionSlug(s) {
 /**
  * Cross-reference linker.
  *
- * Sweeps rendered HTML for `P1`..`P13` and `PA1`..`PA5` followed by
- * `§N` or `§N.M` (etc.) and rewrites them as anchor links into the
- * appropriate chapter's section anchor.
- *
- * The chapter slug map is generated from the chapters data file at
- * build time.
+ * Sweeps rendered HTML for `§N`, `§N.M`, `§AN`, `§AN.M` (etc.) and
+ * rewrites them as anchor links into the appropriate chapter's section
+ * anchor. The chapter slug map is keyed by chapter number ("5", "A1").
  */
 function buildCrossRefTransform(chapterMap, pathPrefix) {
-  const codes = Object.keys(chapterMap).sort((a, b) => b.length - a.length);
-  // Build a regex like (PA1|PA2|...|P13|P12|...|P1)
-  // Longest codes first so PA1 matches before P1 and P13 matches before P1.
-  const codePattern = codes.join("|");
+  // Section ref: "§5.3", "§A1.1.2" - chapter num, dot, section path.
+  const refRe = /§(A?\d+)\.(\d+(?:\.\d+){0,3})\b/g;
 
-  // Section ref: "P5 §3", "PA1 §1.2"
-  const refRe = new RegExp(
-    `\\b(${codePattern})\\s+§(\\d+(?:\\.\\d+){0,3})`,
-    "g",
-  );
-
-  // Bare chapter ref: "P5", "PA1" - matches only when NOT followed by
-  // a section number. The negative lookahead lets the section-ref pass
-  // run first without this pass eating its inputs.
-  const bareRe = new RegExp(
-    `\\b(${codePattern})\\b(?!\\s+§)`,
-    "g",
-  );
+  // Bare chapter ref: "§5", "§A1" - matches only when NOT followed by
+  // a dot-and-digit (which would mean it's a section ref). Lets the
+  // section-ref pass run first without this pass eating its inputs.
+  const bareRe = /§(A?\d+)\b(?!\.\d)/g;
 
   return function (content, outputPath) {
     if (!outputPath || !outputPath.endsWith(".html")) return content;
 
-    // Section refs: "P4 §8" -> "§4.8", "PA1 §1.2" -> "§A1.1.2".
-    content = content.replace(refRe, (match, code, section) => {
-      const slug = chapterMap[code];
+    // Section refs: "§5.3" -> link to /05-combat/#sec-3
+    content = content.replace(refRe, (match, num, section) => {
+      const slug = chapterMap[num];
       if (!slug) return match;
       const anchor = `sec-${section.replace(/\./g, "-")}`;
-      const num = code.slice(1);
       const displayText = `§${num}.${section}`;
       return `<a class="xref" href="${pathPrefix}${slug}/#${anchor}">${displayText}</a>`;
     });
 
-    // Bare chapter refs: "P5" -> "§5", "PA1" -> "§A1". Links to chapter
-    // index URL with no anchor fragment.
-    content = content.replace(bareRe, (match, code) => {
-      const slug = chapterMap[code];
+    // Bare chapter refs: "§5" -> link to /05-combat/
+    content = content.replace(bareRe, (match, num) => {
+      const slug = chapterMap[num];
       if (!slug) return match;
-      const num = code.slice(1);
       const displayText = `§${num}`;
       return `<a class="xref" href="${pathPrefix}${slug}/">${displayText}</a>`;
     });
@@ -101,13 +84,10 @@ module.exports = function (eleventyConfig) {
   // Cross-ref transform: built lazily so chapters data is loaded first.
   // Eleventy runs transforms after rendering, in the order they're added.
   // We need the chapter map; load it at config time via require.
-  // Cross-ref codes ("P5", "PA1") in the markdown source are derived
-  // from each chapter's num: "P" + num produces "P5" for num "5" and
-  // "PA1" for num "A1".
+  // Markdown source uses "§N" / "§N.M" refs where N is the chapter num
+  // ("5", "A1"), so the chapter map is keyed by num directly.
   const chapters = require("./_data/chapters.js");
-  const chapterMap = Object.fromEntries(
-    chapters.map((c) => ["P" + c.num, c.slug]),
-  );
+  const chapterMap = Object.fromEntries(chapters.map((c) => [c.num, c.slug]));
   eleventyConfig.addTransform(
     "crossref",
     buildCrossRefTransform(chapterMap, pathPrefix),

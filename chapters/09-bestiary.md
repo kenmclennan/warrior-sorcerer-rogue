@@ -4,7 +4,7 @@
 
 Stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and elementals, plus the Chaotic Features table for generating unique demons and mutated things. Stat blocks are GM-side only; players encounter these creatures through description and dice, not foreknowledge.
 
-Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 §7 (player-side summoning) and P10 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in P10.
+Read §5 for the combat rules these stat blocks reference. Demons tie back to §6.7 (player-side summoning) and §10 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in §10.
 
 ---
 
@@ -14,7 +14,7 @@ Read P5 for the combat rules these stat blocks reference. Demons tie back to P6 
 
 **HP** - (CON + SIZ) / 2, round up, unless stated otherwise. 0 HP = dying or dead. A wounded creature continues to act normally until HP reaches 0 - the GM may narrate slowing, staggering, or fleeing as the fiction suggests, but no special threshold triggers.
 
-**Bestiary HP and the PC/NPC formula split.** P2 §3.1 and P8 §1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
+**Bestiary HP and the PC/NPC formula split.** §2.3.1 and §8.1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
 
 ### 1.2 Named Creatures
 
@@ -47,7 +47,7 @@ Elevate to Named Creature:
 
 The Great Wolf is a legendary fight. When defeated, its pelt is a relic worth a king's ransom or a powerful Patron Compact offering - and the village headman may not believe it is dead until he sees the head with his own eyes.
 
-**Resolving wounds against Named Creatures.** PA1 entries apply for critical hits; non-critical damage is HP attrition. Named Creatures fight unimpaired until HP reaches 0, like any PC or Named Antagonist (P5 §5.1).
+**Resolving wounds against Named Creatures.** §A1 entries apply for critical hits; non-critical damage is HP attrition. Named Creatures fight unimpaired until HP reaches 0, like any PC or Named Antagonist (§5.5.1).
 
 **AV** - Reduces all incoming damage. A single value covers the whole creature.
 
@@ -57,7 +57,7 @@ The Great Wolf is a legendary fight. When defeated, its pelt is a relic worth a 
 
 **Special Abilities** - Distinctive powers, immunities, or conditions not covered by standard combat.
 
-**Morale** - When the creature breaks, flees, or fights to the death. Rabble (P5 §8) are incapacitated at half HP. Named creatures and those listed as "does not flee" are full combatants.
+**Morale** - When the creature breaks, flees, or fights to the death. Rabble (§5.8) are incapacitated at half HP. Named creatures and those listed as "does not flee" are full combatants.
 
 ### 1.1 Rabble and Creatures
 
@@ -113,7 +113,7 @@ Larger and more solitary than a lion, the tiger is a forest and riverside hunter
 - **Damage Modifier:** +2D6
 - **Attacks:** Bite 60% / 1D10+dm (Pierce); Claw 65% / 1D8+dm (Slash). May make both attacks in the same round.
 - **Special Abilities:**
-  - _Ambush Hunter._ A tiger that attacks from cover or from above has Easy attacks on the first round, and targets may not parry or dodge (they are treated as surprised, per P5 §6.3).
+  - _Ambush Hunter._ A tiger that attacks from cover or from above has Easy attacks on the first round, and targets may not parry or dodge (they are treated as surprised, per §5.6.3).
   - _Rake._ On a successful grapple, the tiger rakes with both hind claws for 1D6+dm each, Slash.
 - **Morale:** Withdraws after significant injury; returns later from a different angle if hungry enough.
 
@@ -358,7 +358,7 @@ Larger than a tiger, heavier-boned, and armed with elongated canine teeth that c
 - **Attacks:** Sabre Bite 65% / 2D8+dm (Pierce); Claw 60% / 1D8+dm (Slash). Both attacks may be made in the same round.
 - **Special Abilities:**
   - _Pounce._ As lion (see §2.1). The sabre-tooth's pounce is Fast attack from extreme range.
-  - _Killing Bite._ If the sabre bite is a critical hit, the target is bleeding for 1D6 HP per round (the great teeth sever blood vessels that normal wounds do not reach) in addition to the PA1 entry's effects. First Aid stops this bleeding as normal.
+  - _Killing Bite._ If the sabre bite is a critical hit, the target is bleeding for 1D6 HP per round (the great teeth sever blood vessels that normal wounds do not reach) in addition to the §A1 entry's effects. First Aid stops this bleeding as normal.
 - **Morale:** Fights to incapacitate prey. Retreats if injured before a kill is achieved.
 
 ---
@@ -753,7 +753,7 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
 
 Demons are entities of the outer dark - not from this world, not concerned with its values, fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
 
-For GM demon design tools, patron relationships, and what happens when a binding breaks, see P10. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with P6 §7. When a demon appears, it should feel like a significant event.
+For GM demon design tools, patron relationships, and what happens when a binding breaks, see §10. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with §6.7. When a demon appears, it should feel like a significant event.
 
 ### 5.1 Lesser Demon
 
@@ -812,7 +812,7 @@ _It came through the smoke of the summoning circle smelling of old metal and unf
   - _Regeneration._ The demon regains 1D6 HP per round. This regeneration is not stopped by fire (which it is immune to) but is stopped by silver or by sorcerous working specifically aimed at suppressing it.
   - _Sheath of Smoke and Fire._ Costs 1 PP per round to maintain. Any creature within 2 metres of the demon takes 1D6 fire damage at the end of each Phase Four. Additionally, wooden missile weapons striking the demon have a 50% chance to ignite and deal no damage (they burn up on contact).
   - _Spells._ Greater demons know sorcery. A typical greater demon knows 2D6 spells. Ancient, powerful specimens may know nearly every spell in the list. They cast from the same PP pool (typically 17) and suffer the standard PP depletion.
-  - _Corruption from Presence._ See P6 §3.3 (Encountering a Greater Demon unbound: 1D3 / 1D6 Corruption).
+  - _Corruption from Presence._ See §6.3.3 (Encountering a Greater Demon unbound: 1D3 / 1D6 Corruption).
 - **Morale:** Does not retreat while bound (the binding prevents it). Unbound, it retreats only if its destruction seems probable - which takes considerable firepower. It does not forget. It comes back.
 
 ### 5.3 Yog-Hath the Devourer (Sample Named Greater Demon)
@@ -842,7 +842,7 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
   - _POW Drain._ On a successful Grapple, Yog-Hath drains 1D6 POW permanently from the target. POW drained this way replenishes Yog-Hath's PP pool but is not recovered by the target without extraordinary sorcerous intervention.
   - _True Binding Resistance._ Binding Yog-Hath costs 3 permanent POW (not 1) and requires the target to fail a POW resistance roll against Yog-Hath's full POW (28). Failure to bind Yog-Hath after summoning it is likely to ruin the sorcerer's week.
   - _Knows the Names._ Yog-Hath knows the true names of 1D10 lesser demons currently bound in the world. It may use these names as leverage in negotiations, or to interfere with another sorcerer's bindings.
-  - _Spells._ Knows all 29 spells in P6 §6. Casts using a PP pool of 28.
+  - _Spells._ Knows all 29 spells in §6.6. Casts using a PP pool of 28.
 - **Demands in Summoning:** The ritual requires the sorcerer to offer a personal item of significant value (not monetary - emotional), a quantity of their own blood, and 6 hours of uninterrupted preparation. Yog-Hath arrives curious, not hostile. Its opening demand is typically a sorcerer it knows about, delivered into its reach. It negotiates from there.
 
 ---
@@ -851,7 +851,7 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
 
 An elemental is not a demon. It does not negotiate, does not have a personal agenda, and has no interest in binding. It is a vast and focused intelligence that is also, essentially, a large portion of a primal element made semi-coherent. This does not make it safe.
 
-Elementals are summoned via the Summon Elemental working (P10). Each is a distinct entity - a particular surge of fire, a column of earth - not a type of creature with interchangeable members. The elemental called tonight is new; it does not remember being called before. Elementals do not value human life, property, or time. An elemental given direction by a sorcerer will pursue that direction; when it has completed the task or the binding expires, anything in its way back to its element is not its concern.
+Elementals are summoned via the Summon Elemental working (§10). Each is a distinct entity - a particular surge of fire, a column of earth - not a type of creature with interchangeable members. The elemental called tonight is new; it does not remember being called before. Elementals do not value human life, property, or time. An elemental given direction by a sorcerer will pursue that direction; when it has completed the task or the binding expires, anything in its way back to its element is not its concern.
 
 The "sylph," "gnome," "salamander," "undine" labels are names given by scholars who needed to call them something. The elementals neither know nor care.
 
@@ -978,7 +978,7 @@ Roll 1D20 for one feature; roll twice (or three times) for a more monstrous crea
 | 7    | **Breath Weapon.** A cone of acid, cold, or electricity (GM's choice), 10 metres long, 5 metres wide. Damage 3D6 (Dodge for half). Usable once per three rounds.                                                                                                                                                             |
 | 8    | **Phase Shift.** Once per round as a free action, the creature becomes briefly immaterial. One attack against it this round misses automatically.                                                                                                                                                                            |
 | 9    | **Barbed Hide.** Any creature that grapples the creature or strikes it with an unarmed attack takes 1D4 Slash damage automatically.                                                                                                                                                                                          |
-| 10   | **Scream.** Once per combat, the creature emits a sound beyond normal hearing. All living creatures within 20 metres make CON x5 rolls or are stunned for 1D3 rounds (standard stun effects per PA1 §1.4).                                                                                                                   |
+| 10   | **Scream.** Once per combat, the creature emits a sound beyond normal hearing. All living creatures within 20 metres make CON x5 rolls or are stunned for 1D3 rounds (standard stun effects per §A1.1.4).                                                                                                                    |
 | 11   | **Void Touch.** Successful unarmed attacks drain 1D3 PP from the target (in addition to normal damage). The creature absorbs these PP into its own pool.                                                                                                                                                                     |
 | 12   | **Flame-Wreathed.** The creature burns constantly. Non-fire damage is reduced by 2 (minimum 1). Anyone within 1 metre at the end of Phase Four takes 1D4 fire damage.                                                                                                                                                        |
 | 13   | **Tentacle Mass.** In addition to its normal attacks, the creature has 1D4 tentacles. Each tentacle may make one grapple attempt per round (no skill roll - opposed STR vs STR). A grappled target cannot act until they break free.                                                                                         |

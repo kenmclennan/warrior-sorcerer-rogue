@@ -3,7 +3,7 @@
 > _"The desert has its own laws, older and crueller than the laws of men."_
 > _- Robert E. Howard_
 
-GM reference for environmental threats, natural hazards, and situation rules outside ordinary combat. Player-facing rules (prone, aimed attacks, disengaging, close combat, weapon length) are in P5.
+GM reference for environmental threats, natural hazards, and situation rules outside ordinary combat. Player-facing rules (prone, aimed attacks, disengaging, close combat, weapon length) are in §5.
 
 ---
 
@@ -69,7 +69,7 @@ The following are representative ancient-world poisons for GM use. POT values as
 | Viper venom                 | 9      | Slow  | HP damage; CON roll or severe swelling, -1D3 STR                            | Desert asp; common in ruins and grain stores.                                                |
 | Scorpion sting              | 6      | Fast  | HP damage; failed CON roll = muscle spasms, actions Difficult for 1D6 hours | Large desert scorpions may reach POT 10.                                                     |
 | Stonefish toxin             | 12     | Fast  | Agonising HP damage; failed CON roll = unconscious 1D6 hours                | Coastal/river encounters; wound site turns black.                                            |
-| Spider venom (large)        | 8      | Slow  | HP damage; CON roll or paralysis for 1D6 hours                              | Giant spiders (Bestiary P9 §2) inflict POT 10-14.                                            |
+| Spider venom (large)        | 8      | Slow  | HP damage; CON roll or paralysis for 1D6 hours                              | Giant spiders (Bestiary §9.2) inflict POT 10-14.                                             |
 | Ergot (grain contamination) | 6      | Slow  | Delirium, Shakes (as disease onset); cumulative with repeated exposure      | Affects whole groups if a food supply is contaminated.                                       |
 | Black lotus extract         | 16     | Slow  | HP damage; failed CON roll = coma for 1D6 days                              | Extremely rare, sorcerer-adjacent. The GM may add Corruption implications for the harvester. |
 | Alchemical acid             | varies | Fast  | HP damage to flesh; armour degraded 1 point per round of contact            | See §4 for full fire/acid rules. POT equals the 1D6 type used.                               |
@@ -82,7 +82,7 @@ The following are representative ancient-world poisons for GM use. POT values as
 
 Sword & sorcery is thick with alchemy: lotus-vials in a sorcerer's sleeve; the bitter resin that lets a mercenary captain march another day on no sleep; dream-reeds the tomb-finder consults before breaking a seal. Where the BRP UGE source leaves these implicit, WSR makes them part of the toolkit.
 
-Craft (Apothecary) (P3) prepares and recognises these substances. Medicine (P3) administers them. Most use the Resistance Table - POT vs CON - the same as the poison system in §2. Effects are time-limited unless noted; some substances are addictive (see §3.3).
+Craft (Apothecary) (§3) prepares and recognises these substances. Medicine (§3) administers them. Most use the Resistance Table - POT vs CON - the same as the poison system in §2. Effects are time-limited unless noted; some substances are addictive (see §3.3).
 
 ### 3.1 Healing Herbs
 
@@ -92,21 +92,21 @@ These supplement First Aid and Medicine. A successful Medicine roll is required 
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- | ------------------------- |
 | Balm of the Pale Healer | After a successful Medicine roll on an injury, the patient heals an additional 1D4 HP (the salve binds wounds and stays infection).                                                              | Common; temple apothecaries       | Inexpensive               |
 | Salve of Iset's Tears   | Heals 2D4 HP applied within 1 turn of injury. After application, the patient makes POT 6 vs CON; failure means the body rejects further healing for 24 hours (no Medicine or First Aid HP gain). | Uncommon; resin from desert trees | Average                   |
-| Vault-Lichen            | Halves the recovery time for crippling PA1 critical effects when chewed daily during convalescence. Cures ordinary fever and infection at the GM's discretion.                                   | Uncommon; cold caves              | Average                   |
+| Vault-Lichen            | Halves the recovery time for crippling §A1 critical effects when chewed daily during convalescence. Cures ordinary fever and infection at the GM's discretion.                                   | Uncommon; cold caves              | Average                   |
 | Saramodian Resin        | Cleanses one disease, paralysis poison, or active curse. Costs the recipient 1 CON permanently - the purge is aggressive. Single use per character.                                              | Legendary; cult formulation       | Expensive (or unfindable) |
 
 ### 3.2 Drugs and Strange Substances
 
 These produce intentional effects: alertness, fearlessness, dreams, hallucinations. Most are addictive (see §3.3).
 
-| Substance             | Effect                                                                                                                                                                                                                                                    | Source                      | Cost      |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------- |
-| White Ash of Khundar  | Suppresses fatigue and the need for sleep for 12 hours. After the effect ends, the user makes POT 6 vs CON; failure means 1D3 CON loss, recovering 1/day with rest. Addictive.                                                                            | Mountain plant; uncommon    | Average   |
-| Tears of the Wolf-God | Battle rage. After ingestion, +20% to all melee skill rolls and immunity to fear for 1D6 rounds. The user cannot parry, dodge, or cast during the rage. When it ends, the user is exhausted (Stamina rolls every round or fall unconscious).              | Barbaric ritual drink; rare | Average   |
-| Lotus Dust            | Inhaled or eaten. Target makes POT 12 vs CON; failure means deep sleep for 1D6 hours - matching the Slumber of the Lotus spell (P6). The sleeper does not wake to ordinary noise. Strongly addictive after three uses.                                    | Lotus harvest; uncommon     | Average   |
-| Dream-Reed Vapour     | Burned, inhaled. The user receives a vision pertaining to one question held in mind. The GM narrates a fragment of truth - never a complete answer. POT 10 vs CON: failure means 1 Corruption (sorcerers) or -1 INT for 1D6 hours (non-sorcerers).        | Black-river reeds; rare     | Expensive |
-| Iron-blood Tincture   | Drunk by witch-hunters and paranoid kings. For 1 hour after ingestion, all iron and steel the user carries counts as if doubled in ENC for the iron-vs-sorcery rule (P7 §12.1). Effectively a -10% per ENC iron penalty to any sorcerer the user opposes. | Bitter draught; uncommon    | Average   |
-| Moth-Wing Dust        | Applied to a blade. On a successful hit that breaks skin, target makes POT 8 vs CON; failure means vivid hallucinations for 1D6 rounds during which the target cannot distinguish allies from enemies and attacks the nearest figure.                     | Pale moths; rare            | Expensive |
+| Substance             | Effect                                                                                                                                                                                                                                                   | Source                      | Cost      |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------- |
+| White Ash of Khundar  | Suppresses fatigue and the need for sleep for 12 hours. After the effect ends, the user makes POT 6 vs CON; failure means 1D3 CON loss, recovering 1/day with rest. Addictive.                                                                           | Mountain plant; uncommon    | Average   |
+| Tears of the Wolf-God | Battle rage. After ingestion, +20% to all melee skill rolls and immunity to fear for 1D6 rounds. The user cannot parry, dodge, or cast during the rage. When it ends, the user is exhausted (Stamina rolls every round or fall unconscious).             | Barbaric ritual drink; rare | Average   |
+| Lotus Dust            | Inhaled or eaten. Target makes POT 12 vs CON; failure means deep sleep for 1D6 hours - matching the Slumber of the Lotus spell (§6). The sleeper does not wake to ordinary noise. Strongly addictive after three uses.                                   | Lotus harvest; uncommon     | Average   |
+| Dream-Reed Vapour     | Burned, inhaled. The user receives a vision pertaining to one question held in mind. The GM narrates a fragment of truth - never a complete answer. POT 10 vs CON: failure means 1 Corruption (sorcerers) or -1 INT for 1D6 hours (non-sorcerers).       | Black-river reeds; rare     | Expensive |
+| Iron-blood Tincture   | Drunk by witch-hunters and paranoid kings. For 1 hour after ingestion, all iron and steel the user carries counts as if doubled in ENC for the iron-vs-sorcery rule (§7.12.1). Effectively a -10% per ENC iron penalty to any sorcerer the user opposes. | Bitter draught; uncommon    | Average   |
+| Moth-Wing Dust        | Applied to a blade. On a successful hit that breaks skin, target makes POT 8 vs CON; failure means vivid hallucinations for 1D6 rounds during which the target cannot distinguish allies from enemies and attacks the nearest figure.                    | Pale moths; rare            | Expensive |
 
 ### 3.3 Addiction
 
@@ -274,7 +274,7 @@ Submerged, strangled, or otherwise deprived of air: Stamina rolls at decreasing 
 
 **Taking a breath before submersion.** Luck roll: success, full breath taken, begin at Round 1. Failure, caught mid-exhale, begin at Round 2.
 
-**Sorcerers and drowning.** PP spent on spells while drowning is PP unavailable for Deflect the Killing Blow when the CON rolls fail (P4 §6).
+**Sorcerers and drowning.** PP spent on spells while drowning is PP unavailable for Deflect the Killing Blow when the CON rolls fail (§4.6).
 
 ---
 
@@ -350,7 +350,7 @@ When PCs are caught up in a larger battle, the GM does not run every combatant t
 
 **Duration.** Brief skirmish: 2-3 turns (10-15 minutes). Sustained engagement: 6-12 turns (30-60 minutes). PCs rest and recover normally after.
 
-**Fate Points in mass combat.** Fate Point spends (P4 §7) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
+**Fate Points in mass combat.** Fate Point spends (§4.7) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
 
 ---
 
@@ -372,7 +372,7 @@ Position is a shared understanding maintained by description. The GM and players
 
 ### 10.2 Adjudicating Range Bands
 
-The four range bands - Near, Normal, Far, Extreme - are defined in P5 §3.7 and give missile weapons a functional range structure without requiring measurement. At the table, apply them as follows.
+The four range bands - Near, Normal, Far, Extreme - are defined in §5.3.7 and give missile weapons a functional range structure without requiring measurement. At the table, apply them as follows.
 
 **Near** is arm's length - within the same engagement zone as the target. Throwing weapons at Near range use close combat rules. Bows at Near range are Difficult because a longbow is not a close-quarters weapon; the attacker is fighting the weapon's design as much as the target.
 
@@ -382,7 +382,7 @@ The four range bands - Near, Normal, Far, Extreme - are defined in P5 §3.7 and 
 
 **Extreme** is the edge of the weapon's capability. The extreme range of a war bow is hundreds of metres; the extreme range of a thrown dagger is perhaps fifteen. If a player asks to make a shot that requires you to say "that is genuinely the limit of what this weapon can do," it is Extreme. Apply the 1/5 skill cap.
 
-**Moving between bands.** A character who wants to close from Far to Normal must move; that is at least a Long Move, which delays their DEX rank by half. A character who wants to move from Near to Normal must disengage (see P5 §6.1). These costs make range management a meaningful tactical dimension without requiring measurement.
+**Moving between bands.** A character who wants to close from Far to Normal must move; that is at least a Long Move, which delays their DEX rank by half. A character who wants to move from Near to Normal must disengage (see §5.6.1). These costs make range management a meaningful tactical dimension without requiring measurement.
 
 ### 10.3 Keeping Tactical Pace Without a Grid
 
@@ -394,9 +394,9 @@ These practices prevent the tactical pace from slowing as players and GM lose tr
 
 **Let the players describe their victories.** When a PC lands a critical hit or drops an opponent, ask the player what it looks like. "What does that look like - how did you take him down?" This is not a time cost; it is a pacing beat that also enriches the fiction, makes the player feel the weight of the moment, and gives the table a breath between the peaks of the action.
 
-**Rabble go down fast.** The Rabble rule (P5 §8) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on.
+**Rabble go down fast.** The Rabble rule (§5.8) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on.
 
-**Keep the sorcerer in the picture.** Sorcery's Phase Two resolution and the interruption risk from melee (P5 §6.5) need active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to make it to Phase Two without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
+**Keep the sorcerer in the picture.** Sorcery's Phase Two resolution and the interruption risk from melee (§5.6.5) need active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to make it to Phase Two without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
 
 ---
 
@@ -409,7 +409,7 @@ The slowest, loudest, or most armoured character sets the pace. A rogue with Mov
 ### 11.1 Exceptions and Refinements
 
 - **Hanging back.** A character may opt out of the group roll by lagging behind. They then roll separately at their own rating; they are no longer "with" the group for stealth purposes.
-- **Leadership.** A leader with Strategy may attempt a complementary Strategy roll (P3 §3.1) to support the group's Move Quietly: success grants the appropriate complementary bonus, representing specific tactical guidance - staying off the gravel path, taking the gap behind the woodpile, holding for the lull between watch-bell strikes.
+- **Leadership.** A leader with Strategy may attempt a complementary Strategy roll (§3.3.1) to support the group's Move Quietly: success grants the appropriate complementary bonus, representing specific tactical guidance - staying off the gravel path, taking the gap behind the woodpile, holding for the lull between watch-bell strikes.
 - **Individual fumble.** A fumble by any single member still automatically alerts - even if the group roll succeeded overall - but only that member is initially detected. The GM may give the rest of the group one round to react before the sentry's shout commits the situation.
 
 ### 11.2 Concealment for Stationary Groups
