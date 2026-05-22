@@ -12,15 +12,13 @@ Sorcery, while prevalent in these stories, is rarely a tool the heroes can use. 
 
 WSR is a tabletop roleplaying game built on Chaosium's **Basic Roleplaying Universal Game Engine (BRP UGE)**, released under the ORC License.
 
-### Characters
+### 2.1 Characters
 
 Seven characteristics define your character: STR, CON, SIZ, INT, POW, DEX, CHA. From these derive your Hit Points (CON + SIZ / 2), your Power Point pool (= POW), your damage modifier, and your skill category bonuses. Choose a Cultural Background (P2 §4) and a Profession (P2 §5) to gain starting skills. Spend INT x10 free points on any skills you like. Choose 2 Talents from the four talent tables (P2 §7). Write down 3 Passions: one at 80%, two at 60%.
 
-### Action Resolution
+### 2.2 Action Resolution
 
-Characters are described primarily by skills, expressed as percentile ratings. To do something, roll two ten-sided dice and read them as a number from 01 to 00. Equal to or less than the skill: success. Higher: failure. Simple in concept, rich in play.
-
-When something uncertain and meaningful is at stake, roll two d10 as a percentile number (01-00). Roll equal to or less than your skill to succeed. Your GM sets difficulty: Easy doubles the effective skill, Difficult halves it.
+Characters are described primarily by skills, expressed as percentile ratings. When something uncertain and meaningful is at stake, roll two d10 as a percentile number (01-00); roll equal to or less than your skill to succeed. Your GM sets difficulty: Easy doubles the effective skill, Difficult halves it.
 
 - **Critical Success** - a roll of 01, or a success where both dice show the same digit (11, 22, 33, 44, 55, 66, 77, 88, 99). The best possible result.
 - **Success** - roll equals or beats the target; dice do not match.
@@ -29,10 +27,10 @@ When something uncertain and meaningful is at stake, roll two d10 as a percentil
 
 If you rolled an ordinary success, you can spend Power Points to convert it to a Critical. Find the nearest matching-dice value below your roll that is still within your skill. The cost is the gap between your roll and that matching value.
 
-### Power Points
+### 2.3 Power Points
 
 Each character's POW characteristic defines their Power Point pool - their vital force, their luck, and for sorcerers, their fuel for magic. PP are spent on Fate Point options (re-rolling, deflecting killing blows, standing your ground under wounds), on converting near-misses into criticals, and on spell casting.
 
-### Advancement
+### 2.4 Advancement
 
 When you _successfully_ use a skill in a genuinely uncertain, dramatic situation, mark it for an experience roll at the end of the adventure. Failure earns nothing - the genre learns from what works. (Sustained training or immersive practice can earn a checkmark without a roll; see P4 §8.) At the end of the adventure, roll D100; add INT/2. If the result exceeds your current skill rating, the skill improves by 1D6.

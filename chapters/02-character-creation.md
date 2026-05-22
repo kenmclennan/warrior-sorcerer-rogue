@@ -15,7 +15,7 @@ To create a character follow these steps
 9. **Determine Magical Abilities**: POW check; patron decision; starting spell; Corruption (sorcerer-archetype only)
 10. **Determine Starting Equipment**: Take the profession kit; spend starting coin
 
-After all ten steps: name your character, answer the Background Questions (§11), and agree one significant possession with a story attached.
+After all ten steps: answer the Background Questions (§12), agree one significant possession with a story attached (§12.1), and finalise the character sheet (§13).
 
 ## 2. Step 1: Characteristics
 
@@ -363,7 +363,7 @@ Choose **2 talents** from the four talent tables below. You may not choose both 
 **Eligibility:**
 
 - **Sorcery Talents:** Scholar of the Dark Arts only.
-- **Combat Talents:** martial profession (Tribal Warrior, Mercenary Soldier, Sea-Raider, Charioteer, Gladiator/Arena Fighter) or GM approval.
+- **Combat Talents:** martial profession (Tribal Warrior, Mercenary Soldier, Sea-Raider, Hunter-Tracker, Charioteer, Gladiator/Arena Fighter) or GM approval.
 - **Stealth & Finesse** and **Social & Cunning:** open to all.
 
 **Earning additional talents:** the GM may offer one through significant play milestones. Eligibility rules apply at that point.
