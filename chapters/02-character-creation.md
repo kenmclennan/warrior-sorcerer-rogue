@@ -1,32 +1,21 @@
 # Character Creation
 
-> _"He had been born on a battlefield, had grown to manhood fighting in a hundred wars, and his life had been one long adventure of peril and wild action."_
-> _- Robert E. Howard_
+## 1. Overview
 
-This chapter walks you through creating a character for Warrior \* Sorcerer \* Rogue. Work through the ten steps in order. The chapter assumes you have read P4 (the percentile mechanic and Power Points) and P3 (how skills work). It references P6 (Sorcery) for the sorcerer-specific step and P7 (Equipment) for starting gear.
+To create a character follow these steps
 
----
-
-## 1. Chargen Overview
-
-The ten steps are:
-
-| Step                   | What you decide                                                                  |
-| ---------------------- | -------------------------------------------------------------------------------- |
-| 1. Characteristics     | Roll or allocate seven core stats                                                |
-| 2. Derived Stats       | Calculate HP, PP, damage modifier, and MOV                                       |
-| 3. Cultural Background | Pick one of eight ancient-world backgrounds                                      |
-| 4. Profession          | Pick one of thirteen WSR professions; gain the profession skill bundle           |
-| 5. Personal Skills     | Spend INT x10 free points across any skills                                      |
-| 6. Talents             | Choose 2 talents from the four talent tables                                     |
-| 7. Passions            | Record three passions (1 at 80%, 2 at 60%)                                       |
-| 8. Reputation          | Record starting Reputation by profession                                         |
-| 9. Sorcerer-specific   | POW check; patron decision; starting spell; Corruption (sorcerer-archetype only) |
-| 10. Starting Equipment | Take the profession kit; spend starting coin                                     |
+1. **Roll Characteristics**: Roll and allocate seven core stats
+2. **Determine Derived Stats**: Calculate HP, PP, damage modifier, and MOV
+3. **Choose a Cultural Background**: Pick one of eight ancient-world backgrounds
+4. **Choose a Profession**: Pick one of thirteen WSR professions; gain the profession skill bundle
+5. **Choose Personal Skills**: Spend INT x10 free points across any skills
+6. **Choose Talents**: Choose 2 talents from the four talent tables
+7. **Choose Passions**: Record three passions (1 at 80%, 2 at 60%)
+8. **Determine Reputation**: Record starting Reputation by profession
+9. **Determine Magical Abilities**: POW check; patron decision; starting spell; Corruption (sorcerer-archetype only)
+10. **Determine Starting Equipment**: Take the profession kit; spend starting coin
 
 After all ten steps: name your character, answer the Background Questions (§11), and agree one significant possession with a story attached.
-
----
 
 ## 2. Step 1: Characteristics
 
@@ -44,8 +33,6 @@ Seven characteristics define the raw material of a character. They are expressed
 
 ### 2.1 Rolling Characteristics
 
-**Heroic scale** is the WSR default: PCs start exceptional.
-
 Roll 3D6 seven times. Assign each result to a characteristic of your choice. SIZ and INT may not be set below 8.
 
 ### 2.2 Characteristic Rolls
@@ -61,7 +48,7 @@ Each characteristic doubles as a fallback target for tasks that have no appropri
 | DEX x5 (Agility) | Balance, quick reactions when no skill applies    |
 | CHA x5 (Charm)   | First impression, raw force of personality        |
 
-Characteristic rolls follow the same four outcome tiers as skill rolls (Critical, Success, Failure, Fumble). They do not earn experience checkmarks.
+Characteristic rolls follow the same four outcome tiers as skill rolls (Critical, Success, Failure, Fumble). They do not earn experience check marks.
 
 ---
 
@@ -71,13 +58,15 @@ Characteristic rolls follow the same four outcome tiers as skill rolls (Critical
 
 **HP = CON + SIZ** (PCs and Named Antagonists).
 
-HP represents how much physical punishment a character can absorb before being incapacitated. PCs and Named Antagonists use the full CON+SIZ formula; lower-tier NPCs (Professionals and Rabble) use (CON+SIZ)/2 rounded up. This makes PCs durable enough to take serious wounds and keep fighting in the genre tradition. See P5 §5 for the damage and falling rules; see P8 §1 for NPC tier HP rules.
+HP represents how much physical punishment a character can absorb before being incapacitated.
+
+Note: lower-tier NPCs (Professionals and Rabble) use (CON+SIZ)/2 rounded up. This makes PCs more durable than regular foes, able to take serious wounds and keep fighting in the genre tradition.
 
 ### 3.2 Power Points
 
 **PP = POW (starting value).**
 
-PP is the character's vital force - spent on sorcery, Fate Point spends (including Critical Buys), and talent activations. PP regenerates over rest and sleep. See P4 §6 for recovery rates.
+PP is the character's vital force - spent on sorcery, Fate Point spends (including Critical Buys), and talent activations. PP regenerates over rest and sleep.
 
 ### 3.3 Damage Modifier
 
@@ -119,89 +108,131 @@ Each skill belongs to a category. Skills in that category receive a small bonus 
 
 Add the relevant category bonus to each skill's base chance. Skills granted by Cultural Background, Profession, or Personal Skill points are added on top of the adjusted base.
 
----
-
 ## 4. Step 3: Cultural Background
 
-Cultural Background is the kind of civilisation or community that shaped the character's early life. **These eight entries are archetypes, not specific cultures.** Your GM names them within the campaign setting; the same archetype may go by different names in different worlds. Pick the archetype that fits the character; the specific name is the setting's business.
+Cultural Background is the kind of civilisation or community that shaped the character's early life.
 
-Each background provides a first language (which the GM names), a handful of cultural skills, and a demeanour.
+Pick whether the character's culture is **Barbaric** or **Civilised**. Then roll a **d6** on each of the five tables for that column:
 
-### 4.1 The Warm Coast
+1. **Location** - where the people live
+2. **Distinctive Appearance** - a visible cultural marker
+3. **Cultural Reputation** - how outsiders describe them (and what they mostly live up to)
+4. **Cultural Skills** - a bundle of three skills the culture commonly trains. Each grants **+10%** at character creation.
+5. **Item** - a culturally significant possession the character starts with
 
-Cities of white stone on a warm sea: wine and olives, pediments and priests. Merchants, sailors, soldiers. A literate civilisation that argues for entertainment and goes to war with neighbours it calls barbarians.
+Players are encouraged to invent the rest - names, language, religion, leader - from the seeds those rolls produce.
 
-**Starting language:** The coastal tongue (INT x5)
-**Cultural skills:** Bargain +10%, Navigate +10%, Persuade +10%, Swim +10%
-**Common items:** Light tunic, sandals, personal knife, a few Drams' worth of coin
-**Demeanour:** Confident, rhetorically inclined, openly competitive
+### 4.1 Barbaric Cultures
 
-### 4.2 The Walled Cities
+| d6  | Where they live                             |
+| --- | ------------------------------------------- |
+| 1   | Frozen northern tundra and seal-ice         |
+| 2   | Granite highland moors veined with old pine |
+| 3   | Endless grass steppe under an open sky      |
+| 4   | Burning sand-and-salt desert                |
+| 5   | Fever-thick river jungle                    |
+| 6   | Drowned coastal ruins of an elder empire    |
 
-The great walled trading ports of an inland sea: merchants, scribes, priests, and spies. A culture of contracts, sealed credit-letters, and temple politics. Cosmopolitan, polyglot, and deeply experienced at reading strangers.
+| d6  | How they look                                                             |
+| --- | ------------------------------------------------------------------------- |
+| 1   | Whorls of woad or indigo tattooed across face and arms                    |
+| 2   | Ritual scarring on the cheeks; teeth filed to points                      |
+| 3   | Long braided hair weighted with bone, coin, or beadwork                   |
+| 4   | Sun-blackened skin under bleached linen wraps; eyes ringed with kohl      |
+| 5   | Crude iron piercings; necklaces of bear, boar, or crocodile teeth         |
+| 6   | Faces painted half-white half-red; shaved scalps but for a single topknot |
 
-**Starting language:** A trading tongue of the cities (INT x5)
-**Cultural skills:** Bargain +15%, Insight +10%, Language (one additional) +20%, Research +10%
-**Common items:** Robe or tunic, sandals, a sealed merchant's letter worth 2 Drams to the right fence
-**Demeanour:** Cautious, observant, quick to establish whose protection you enjoy
+| d6  | What outsiders say                                                      |
+| --- | ----------------------------------------------------------------------- |
+| 1   | Sworn to a single great oath that overrides all else                    |
+| 2   | Treacherous to outsiders, scrupulously loyal within the clan            |
+| 3   | Drinks any civilised soul under the table, and laughs while doing it    |
+| 4   | Will not negotiate seriously with anyone who has not first fought them  |
+| 5   | Believes the gods speak through omens; will halt a campaign over a bird |
+| 6   | Holds civilised folk in pitying contempt - "soft men have soft bones"   |
 
-### 4.3 The Great River Kingdoms
+| d6  | Skill bundle                           |
+| --- | -------------------------------------- |
+| 1   | Track, Bow, Stealth                    |
+| 2   | Spear, Climb, Throw                    |
+| 3   | Axe, Brawl, Endurance                  |
+| 4   | Ride, Sword, Spot                      |
+| 5   | Listen, Survival, Knowledge (Folklore) |
+| 6   | Dodge, Sling, Hide                     |
 
-A culture of stepped temples, written law, temple granaries, and military levy. Wealth is land and grain. The city-gods are demanding employers. Soldiers, scribes, administrators, and priests who double as accountants.
+| d6  | What they fight with                                                                                                               |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Bearded long-axe and round shield of layered hide and wood; wolf or bear pelt over boiled leather                                  |
+| 2   | Broad-bladed thrusting spear and small target shield; heavy fur cloak, no other armour                                             |
+| 3   | Two-handed greatsword or heavy falchion of pattern-iron, no shield; iron-studded leather harness                                   |
+| 4   | Composite recurve bow, curved sabre, and braided lasso; lamellar coat of lacquered hide                                            |
+| 5   | Wooden club edged with obsidian flakes (a *macuat*) and atlatl darts; cane-and-feather shield, quilted cotton armour hard as horn  |
+| 6   | Hand-axe, sling, and long bone-knife; no armour but war-paint and tattoos - which are said to protect the bearer, and sometimes do |
 
-**Starting language:** The river-city tongue (INT x5)
-**Cultural skills:** Command +10%, Knowledge (Law) +15%, Literacy (river-city script) +15%, Status +10%
-**Common items:** Woollen robe, leather belt with bronze buckle, clay seal-ring
-**Demeanour:** Formal, hierarchical, comfortable with bureaucracy and military organisation
+| d6  | What they carry                                                                                   |
+| --- | ------------------------------------------------------------------------------------------------- |
+| 1   | A pouch of finger-bones - both from honored ancestors and from enemies defeated, equally esteemed |
+| 2   | A spirit-fetish carved of antler or driftwood, consulted in silence before any rash act           |
+| 3   | A scarred and rust-pitted blade taken from a parent at the funeral pyre                           |
+| 4   | A drinking-horn rimmed with hammered copper, owned for life and buried with the bearer            |
+| 5   | A small clay pot of red ochre and oil for the ritual face-paint of war and judgement              |
+| 6   | A long knot-cord recording every deed, kill, and oath-debt of the bearer's life                   |
 
-### 4.4 The Vast Empire
+### 4.2 Civilised Cultures
 
-The great empire from sea to mountain: provincial governors, royal roads, sacred fires, and cavalry warfare. Honour and truth are obligations, not aspirations. The empire is sophisticated, tolerant of subject peoples' customs, and ruthless with disloyalty.
+| d6  | Where they live                                                |
+| --- | -------------------------------------------------------------- |
+| 1   | River-delta metropolis of canals, slums, and lacquered palaces |
+| 2   | Walled merchant city on a sheltered coastal bay                |
+| 3   | Marble theocracy carved into the side of a holy mountain       |
+| 4   | Lake-island academy where towers outnumber houses              |
+| 5   | Caravan oasis of nine guilds, ruled by no one and everyone     |
+| 6   | Tower-city of sorcerers in a half-poisoned waste               |
 
-**Starting language:** An imperial trade language (INT x5)
-**Cultural skills:** Etiquette (Noble Court) +10%, Knowledge (Politics) +10%, Ride (Horse) +15%, Status +10%
-**Common items:** Fine wool robe or riding coat, curved dagger, horse harness worth keeping
-**Demeanour:** Dignified, formal in authority, personally honourable
+| d6  | How they look                                                                |
+| --- | ---------------------------------------------------------------------------- |
+| 1   | Lacquered scalp in the family's hereditary colour; antimony eye-paint        |
+| 2   | Layered silk robes denoting status; long fingernails gilded on one hand only |
+| 3   | Half-mask of painted wood worn in public as a matter of course               |
+| 4   | Pale, fine-boned, violet or grey eyes; long unbound hair                     |
+| 5   | Tonsured scalp with a single braid; a glyph tattooed at the brow             |
+| 6   | Mirrored circlet at the brow; cheeks faintly dusted with metallic powder     |
 
-### 4.5 The Horse Folk
+| d6  | What outsiders say                                                               |
+| --- | -------------------------------------------------------------------------------- |
+| 1   | Polite to the point of menace; smiles freely, agrees often, commits rarely       |
+| 2   | Considers passion gauche, despair fashionable, urgency unforgivable              |
+| 3   | Treats poisoning as a regrettable but not necessarily criminal art               |
+| 4   | Will sell you a story before a sword, and a sword before a horse                 |
+| 5   | Distantly religious, fiercely litigious - calls a magistrate before a healer     |
+| 6   | Believes its city the only true civilisation; everywhere else is "the provinces" |
 
-Born in the saddle on the wind-scoured grasslands. Horses are wealth; hospitality is law; raiding is seasonal. The world beyond the horizon is either loot or enemies, and the difference is negotiated on arrival.
+| d6  | Skill bundle                                        |
+| --- | --------------------------------------------------- |
+| 1   | Etiquette, Persuade, Knowledge (Law)                |
+| 2   | Fast Talk, Hide, Sword (Rapier)                     |
+| 3   | Insight, Bargain, Knowledge (Heraldry)              |
+| 4   | Sorcery, Knowledge (Occult), Etiquette              |
+| 5   | Status, Disguise, Sleight of Hand                   |
+| 6   | Pilot (Small Boat), Navigate, Knowledge (Geography) |
 
-**Starting language:** A steppe tongue of the player's or GM's choice (INT x5)
-**Cultural skills:** Navigate +10%, Ride (Horse) +20%, Survival +15%, Track +10%
-**Common items:** Felt jacket, composite bow with 20 arrows, horse (basic breed; if this creates problems, a horse on credit or a GM-issued replacement)
-**Demeanour:** Direct, egalitarian, comfortable with silence and discomfort
+| d6  | What they fight with                                                                                                                   |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Curved scimitar, short composite bow, and oval cane-and-hide shield; scale corslet of bronze and lacquered horn beneath a conical helm |
+| 2   | Long arming-sword and round steel shield; mail hauberk beneath a heraldic surcoat                                                      |
+| 3   | Rapier and parrying-dagger; buff-coat or brigandine, plumed hat in place of a helm                                                     |
+| 4   | Slender venom-grooved duelling-blade (a *tsarith*) and wrist-mounted hand-crossbow; no armour, on principle                            |
+| 5   | Glaive or halberd carried in disciplined formation behind a tall pavise; segmented plate cuirass and visored helm                      |
+| 6   | Paired short blades, hand-crossbow, and smoke-bombs; black silks with no armour - speed and shadow do the work                         |
 
-> **A note on the horse:** Starting with a horse is significant. The GM should confirm this is appropriate for the campaign's starting situation. A city campaign may substitute the horse for its coin equivalent (8-12 Staters) or a quality weapon instead.
-
-### 4.6 The Cold Wilds
-
-Forests and coasts far from the warm seas. Clans, blood debts, long winters, and the gods who live in the storm. Warriors and hunters who enter the cities as foreigners, fighters-for-hire, and occasional raiders.
-
-**Starting language:** A northern tongue of the player's or GM's choice (INT x5)
-**Cultural skills:** Climb +10%, Knowledge (Folklore) +10%, Survival +15%, Melee Weapon (Axe or Sword, one speciality) +15%
-**Common items:** Heavy wool cloak, leather bracers, hand axe or broadsword
-**Demeanour:** Blunt, physical, prone to taking offense at slights that a city dweller would not notice
-
-### 4.7 The Burning Lands
-
-Hot, dry lands far from the cultivated world: desert traders, river-kingdom soldiers, forest hunters, and emissaries from kingdoms beyond the maps. A culture of difficult distance and resource scarcity that produces practical, adaptable individuals.
-
-**Starting language:** A southern tongue of the player's or GM's choice (INT x5)
-**Cultural skills:** Hide +10%, Survival +15%, Track +15%, Throw +10%
-**Common items:** Light linen wrap, hunting spear or short bow with 12 arrows, waterskin (good quality)
-**Demeanour:** Economical, acutely observant, unimpressed by architectural grandeur
-
-### 4.8 The Scattered Isles
-
-Archipelagos, coastal raiders, fisher-kings and sea-traders. A culture navigated by wave, wind, and star. The ocean is the highway, every island is a different power, and a ship is a home and a weapon simultaneously.
-
-**Starting language:** An island tongue or a trade pidgin (INT x5)
-**Cultural skills:** Navigate +15%, Sailor +15%, Swim +15%, Throw +10%
-**Common items:** Short sailcloth coat, sailor's knife, 50m of quality rope
-**Demeanour:** Adaptable, competent with water and rope, instinctively assessing who controls the exits
-
----
+| d6  | What they carry                                                                                  |
+| --- | ------------------------------------------------------------------------------------------------ |
+| 1   | A brass or silver signet-ring bearing the family glyph - without which an oath is presumed a lie |
+| 2   | A small phial of pale liqueur, considered the only acceptable peer-gift                          |
+| 3   | A folded fan of painted silk, used to signal in court (and in duels)                             |
+| 4   | A pocket-codex of memorized prayers, scripture, and useful aphorisms                             |
+| 5   | A purse of stamped coin, never quite empty - replenished from a family draft                     |
+| 6   | A palm-sized black-glass mirror, used for divination, vanity, or both                            |
 
 ## 5. Step 4: Profession
 
@@ -213,11 +244,7 @@ Profession is what the character did. The profession provides a starting skill b
 
 **Profession skill bundles are suggestions, not locks.** The profession bundle covers the baseline; Personal Skill points (Step 5) fill out the rest.
 
-### 5.1 The Thirteen Professions
-
----
-
-#### Tribal Warrior
+### Tribal Warrior
 
 A fighter raised in a clan or tribal culture who has never known another life. Raids, blood feuds, and the honour economy of a non-urban people. Could be from any of the wilder backgrounds.
 
@@ -225,9 +252,7 @@ A fighter raised in a clan or tribal culture who has never known another life. R
 **Reputation start:** 5%
 **Profession skills:** Brawl, Climb, Dodge, Listen, Melee Weapon (Axe or Spear), Parry (as weapon), Ride (Horse), Spot, Survival, Throw, Track, one of: Move Quietly / Animal Handling / Missile Weapon (Bow)
 
----
-
-#### Mercenary Soldier
+### Mercenary Soldier
 
 A professional fighter-for-hire with campaign experience. Knows how to march, follow orders, and stay alive in other people's wars. Has seen a city or two.
 
@@ -235,9 +260,7 @@ A professional fighter-for-hire with campaign experience. Knows how to march, fo
 **Reputation start:** 10%
 **Profession skills:** Brawl, Command, Dodge, First Aid, Listen, Melee Weapon (Sword or Spear), Parry (as weapon), Shield, Spot, Strategy, one of: Missile Weapon (Bow or Javelin) / Ride (Horse), one of: Bargain / Language (one additional)
 
----
-
-#### Sea-Raider
+### Sea-Raider
 
 Sailor and warrior in one. Raids coastal settlements, knows how to fight on a rolling deck, and has a sailor's practical relationship with rope, weather, and taking things that belong to other people.
 
@@ -245,9 +268,7 @@ Sailor and warrior in one. Raids coastal settlements, knows how to fight on a ro
 **Reputation start:** 10%
 **Profession skills:** Brawl, Climb, Dodge, Melee Weapon (Axe or Sword), Missile Weapon (Javelin), Navigate, Parry (as weapon), Sailor, Spot, Move Quietly, Swim, Throw
 
----
-
-#### City Thief
+### City Thief
 
 A product of urban crime: picking pockets, casing houses, working with fences, and knowing which rooftops connect to which alleys. Has contacts in the underworld and the specific anxiety of someone who lives inside the law's reach.
 
@@ -255,9 +276,7 @@ A product of urban crime: picking pockets, casing houses, working with fences, a
 **Reputation start:** 5% (higher if notorious; see §8)
 **Profession skills:** Bargain, Climb, Disguise, Dodge, Etiquette (Thieves' Guild), Fine Manipulation, Hide, Insight, Sleight of Hand, Spot, Move Quietly, one of: Fast Talk / Persuade
 
----
-
-#### Wayfarer
+### Wayfarer
 
 The singer, the storyteller, the person who lives on the edge of every circle. Carries news from one place to another, performs for coin or hospitality, and knows how to make themselves welcome - or invisible - depending on which would serve them better.
 
@@ -265,9 +284,7 @@ The singer, the storyteller, the person who lives on the edge of every circle. C
 **Reputation start:** 15%
 **Profession skills:** Bargain, Disguise, Fast Talk, Hide, Insight, Language (one additional), Perform (Storytelling or Instrument), Persuade, Sleight of Hand, Spot, Move Quietly, one of: Knowledge (Folklore) / Knowledge (History) / Survival
 
----
-
-#### Hunter-Tracker
+### Hunter-Tracker
 
 Lives by reading the land. Knows the habits of animals, can follow a three-day-old trail, and understands ambush as a way of life. May hunt for a community or as a solitary livelihood.
 
@@ -275,9 +292,7 @@ Lives by reading the land. Knows the habits of animals, can follow a three-day-o
 **Reputation start:** 5%
 **Profession skills:** Climb, First Aid, Hide, Listen, Melee Weapon (Spear), Missile Weapon (Bow), Move Quietly, Navigate, Spot, Survival, Track, one of: Animal Handling / Craft (Apothecary)
 
----
-
-#### Charioteer
+### Charioteer
 
 Rider-warrior of the elite corps: trained to handle a war-chariot under combat conditions, fight from it, and keep the vehicle operational. A profession that implies status and wealth in cultures that use chariots.
 
@@ -285,9 +300,7 @@ Rider-warrior of the elite corps: trained to handle a war-chariot under combat c
 **Reputation start:** 15%
 **Profession skills:** Brawl, Craft (Carpentry or Metalworking), Dodge, Drive (Chariot via Ride speciality), Listen, Melee Weapon (Spear), Missile Weapon (Bow, Composite), Ride (Chariot), Spot, Strategy, one of: Command / Persuade, one of: Status / Knowledge (Politics)
 
----
-
-#### Temple Hierophant
+### Temple Hierophant
 
 A priest, ritual specialist, or high-ranking temple servant. Trained in ceremony, literate, expert in the theology and politics of the temple. May have genuine religious convictions or may regard the whole enterprise as a useful career. Either way, knows where the bodies are buried.
 
@@ -295,9 +308,7 @@ A priest, ritual specialist, or high-ranking temple servant. Trained in ceremony
 **Reputation start:** 25%
 **Profession skills:** Art (Calligraphy or Oratory), Bargain, Etiquette (Temple), Insight, Knowledge (Religion), Language (one additional), Literacy (one script), Perform (Ritual), Persuade, Research, Status, one of: Command / Knowledge (Law)
 
----
-
-#### Merchant
+### Merchant
 
 A trader: regional, caravan, or maritime. Knows markets, supply chains, and the price of everything. Comfortable in strange cities because they always know who the local equivalent of their own guild is.
 
@@ -305,9 +316,7 @@ A trader: regional, caravan, or maritime. Knows markets, supply chains, and the 
 **Reputation start:** 10%
 **Profession skills:** Appraise, Bargain, Command, Etiquette (Merchant Guild), Fast Talk, Insight, Knowledge (Politics), Language (one additional), Navigate, Persuade, Research, one of: Ride (Horse or Camel) / Sailor
 
----
-
-#### Scholar of the Dark Arts
+### Scholar of the Dark Arts
 
 The sorcerer-archetype profession. A trained researcher in forbidden knowledge: self-taught from stolen texts, apprenticed to a dangerous master, or initiated into a small and secretive order. **This is the only profession that qualifies a character to take the sorcerer-specific Step 9.**
 
@@ -317,9 +326,7 @@ The sorcerer-archetype profession. A trained researcher in forbidden knowledge: 
 
 > **Sorcery as a skill:** The Sorcery skill governs the sorcerer's ability to perform resistance-table-relevant actions during spellcasting and ritual work. It is not a casting-success roll (casting is automatic given PP and time - see P6 §2.1) but a modifier for contested workings: Resistance Table rolls use the sorcerer's current PP total against the target's POW. Sorcery skill as a complementary bonus applies when the GM rules that technique is meaningfully at stake.
 
----
-
-#### Outcast
+### Outcast
 
 The exile, the disgraced, the one who cannot go home. Was something else once: soldier, merchant, priest, or noble. The profession is not what they did originally but the condition they are now in. Carries a mix of skills from the former life and the years since.
 
@@ -327,9 +334,7 @@ The exile, the disgraced, the one who cannot go home. Was something else once: s
 **Reputation start:** 5% (may be for the wrong reasons)
 **Profession skills:** Choose any eight skills reflecting the former profession. Add Bargain, Dodge, Insight, and Move Quietly as mandatory entries. Total: twelve.
 
----
-
-#### Gladiator or Arena Fighter
+### Gladiator or Arena Fighter
 
 Sells blood for entertainment in the pit, the ring, or the arena. Could be war-captive, condemned criminal, or voluntary. Has a specific, violent kind of local celebrity. Knows how to make a wound look worse than it is, and how to stay alive when the crowd wants a killing.
 
@@ -337,9 +342,7 @@ Sells blood for entertainment in the pit, the ring, or the arena. Could be war-c
 **Reputation start:** 15%
 **Profession skills:** Brawl, Command, Dodge, Etiquette (Underworld), First Aid, Grapple, Insight, Melee Weapon (two specialities), Parry (as primary weapon), Spot, one of: Shield / Missile Weapon (Net)
 
----
-
-#### Spy or Infiltrator
+### Spy or Infiltrator
 
 Works for someone who pays to know things other people are hiding. May be attached to a noble house, a merchant guild, a temple, or an empire's intelligence apparatus. Or may freelance. Skilled at being someone else.
 
@@ -347,19 +350,15 @@ Works for someone who pays to know things other people are hiding. May be attach
 **Reputation start:** 0% (public Reputation is a liability in this profession)
 **Profession skills:** Disguise, Etiquette (Noble Court), Fast Talk, Insight, Language (one additional), Literacy (one script), Persuade, Research, Sleight of Hand, Spot, Move Quietly, one of: Bargain / Fine Manipulation
 
----
-
 ## 6. Step 5: Personal Skills
 
 **Personal Skill Points = INT x10.**
 
 Spend freely on any skills in the WSR skill list (P3). Maximum starting rating for any skill is 75%. Specialities are purchased separately. Personal points add on top of Cultural Background and Profession bonuses. The first point spent on a skill not in the profession bundle opens it at its base chance.
 
----
-
 ## 7. Step 6: Talents
 
-At chargen, choose **2 talents** from the four talent tables below. You may not choose both from the same table.
+Choose **2 talents** from the four talent tables below. You may not choose both from the same table.
 
 **Eligibility:**
 
@@ -373,113 +372,70 @@ At chargen, choose **2 talents** from the four talent tables below. You may not 
 
 Requires a martial profession or equivalent background.
 
----
-
-**Two-Weapon Whirl.** 5 PP. Make an additional attack this round with your off-hand weapon at -20%. Must be holding a weapon in each hand. Declare before the round's actions.
-
-**Bone-Breaker.** 4 PP. On a successful melee attack this round, add +1D6 damage. This bonus damage applies before armour; it represents the precision and force of a blow targeted at a weak point.
-
-**Unbreakable.** 3 PP. When you would need to make a Stamina roll to avoid falling unconscious from a wound, you succeed automatically. Only works once per combat; subsequent Stamina tests proceed normally.
-
-**Steel Rain.** 4 PP. When using a missile weapon, fire or throw two projectiles this round, each at -10% to the normal skill. Both projectiles must target the same opponent. Declare at the start of the round, before initiative.
-
-**Warlord's Eye.** 2 PP. You may make a Strategy roll as a free action at the start of combat. On a success, you or one ally of your choice gains +5 effective DEX for initiative order this round. On a critical, apply this to every ally.
-
-**Battle Tempo.** 3 PP. Declare before Phase One Statements. For this round, treat your DEX as +5 for initiative order only. The bonus does not affect skill rolls, Dodge, or damage modifier - it changes the order in which you declare and act, nothing more. Once per combat.
-
-**Throat of the Wolf.** 4 PP. Spend after taking a critical hit. The PA1 entry's impairment effects (stunned, useless limb, hindered actions) are halved in duration. Damage, bleeding, and permanent injuries still apply.
-
-**Shield Slam.** 3 PP. When you successfully parry with a shield, you may immediately make a free Brawl attack against the attacker as a reaction. This attack does not cost an action.
-
-**Pack-Breaker.** 4 PP. When two or more opponents are attacking you in the same round, spend before the round resolves. You may redirect one attack, after the roll is made, to one of the other attackers - the attacker has struck their ally. The redirect is limited to one attack per activation.
-
-**Veteran's Gut.** 0 PP (passive). You are never surprised. When an ambush or surprise attack would give opponents a free action, you always act in the first round, even if others do not.
-
-**Killing Ground.** 5 PP. Declare before your attack. If your attack incapacitates or kills the target, make an immediate free attack against a second adjacent opponent at -20%. This free attack cannot trigger another Killing Ground.
-
----
+| Talent             | Cost | Description                                                                                                                                                                                                                                                                     |
+| ------------------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Two-Weapon Whirl   | 5 PP | Make an additional attack this round with your off-hand weapon at -20%. Must be holding a weapon in each hand. Declare before the round's actions.                                                                                                                              |
+| Bone-Breaker       | 4 PP | On a successful melee attack this round, add +1D6 damage. This bonus damage applies before armour; it represents the precision and force of a blow targeted at a weak point.                                                                                                    |
+| Unbreakable        | 3 PP | When you would need to make a Stamina roll to avoid falling unconscious from a wound, you succeed automatically. Only works once per combat; subsequent Stamina tests proceed normally.                                                                                         |
+| Steel Rain         | 4 PP | When using a missile weapon, fire or throw two projectiles this round, each at -10% to the normal skill. Both projectiles must target the same opponent. Declare at the start of the round, before initiative.                                                                  |
+| Warlord's Eye      | 2 PP | You may make a Strategy roll as a free action at the start of combat. On a success, you or one ally of your choice gains +5 effective DEX for initiative order this round. On a critical, apply this to every ally.                                                             |
+| Battle Tempo       | 3 PP | Declare before Phase One Statements. For this round, treat your DEX as +5 for initiative order only. The bonus does not affect skill rolls, Dodge, or damage modifier - it changes the order in which you declare and act, nothing more. Once per combat.                       |
+| Throat of the Wolf | 4 PP | Spend after taking a critical hit. The PA1 entry's impairment effects (stunned, useless limb, hindered actions) are halved in duration. Damage, bleeding, and permanent injuries still apply.                                                                                   |
+| Shield Slam        | 3 PP | When you successfully parry with a shield, you may immediately make a free Brawl attack against the attacker as a reaction. This attack does not cost an action.                                                                                                                |
+| Pack-Breaker       | 4 PP | When two or more opponents are attacking you in the same round, spend before the round resolves. You may redirect one attack, after the roll is made, to one of the other attackers - the attacker has struck their ally. The redirect is limited to one attack per activation. |
+| Veteran's Gut      | 0 PP | You are never surprised. When an ambush or surprise attack would give opponents a free action, you always act in the first round, even if others do not.                                                                                                                        |
+| Killing Ground     | 5 PP | Declare before your attack. If your attack incapacitates or kills the target, make an immediate free attack against a second adjacent opponent at -20%. This free attack cannot trigger another Killing Ground.                                                                 |
 
 ### 7.2 Sorcery Talents
 
-Scholar of the Dark Arts only.
+Requires a sorcerous profession or equivalent background.
 
----
-
-**Whisper of the Patron.** 4 PP. Invoke your patron by name even if your Patron Score is below 20. Make the Patron Intercession roll at Difficult (halved Patron Score). Only available to characters with a patron compact.
-
-**Cold Iron Warding.** 3 PP. For one scene, reduce the penalty from unenchanted iron you are carrying by 10%. If you carry iron worth 2 ENC or less, it imposes no penalty for the scene.
-
-**The Sorcerer's Reach.** 3 PP. A spell you cast this round takes effect at double its normal range or area. Duration, cost, and resistance rolls are unchanged.
-
-**Still-Face.** 2 PP. When a source of Corruption triggers, you may pay this cost instead of making the Corruption roll. The Corruption loss is 0 (success result) rather than rolled. Only works once per triggering event; cannot suppress losses from casting past PP exhaustion.
-
-**Drinker of the Current.** 4 PP. Regain 1D3 PP immediately. This recovery is not natural rest - it is a dangerous draw on reserves that leave a mark. Each use in the same scene accumulates 1 Corruption (in addition to any standard casting Corruption). Maximum once per round.
-
-**Flesh Memory.** 2 PP. After successfully casting a spell, remember it for one additional casting in the same scene even if you have already used your memorised slot for that spell level. The additional casting costs normal PP.
-
-**Mirror's Edge.** 5 PP. When a sorcerous working targets you (a spell or Resistance Table roll by another sorcerer), you may reflect it at the caster. Make a POW resistance roll; if you succeed, the spell or effect is redirected to the original caster, who is the new target. PP cost for the spell is still the original caster's. This talent does not work against demon powers or patron manifestations.
-
-**Blood Price.** 0 PP, but costs 1 HP. Once per scene, reduce the PP cost of a spell by 3 (minimum 1). The HP cost cannot be reduced or absorbed by armour. Bleeding from a deliberate cut is the price. Cannot be used if the HP cost would drop you to 0 HP or below.
-
-**Shadow Speech.** 2 PP. You may communicate with a bound demon you have named using a brief mental message of no more than one sentence. The demon hears and may respond. This works at any distance as long as the binding holds.
-
-**The Long Memory.** 0 PP (passive). You learn spells from grimoires in half the normal time (one study session per 2 days per spell level instead of one week per spell level). You may also attempt to read a grimoire in a script or language you don't know at a Difficult Language roll.
-
----
+| Talent                 | Cost                 | Description                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Whisper of the Patron  | 4 PP                 | Invoke your patron by name even if your Patron Score is below 20. Make the Patron Intercession roll at Difficult (halved Patron Score). Only available to characters with a patron compact.                                                                                                                                                                                                |
+| Cold Iron Warding      | 3 PP                 | For one scene, reduce the penalty from unenchanted iron you are carrying by 10%. If you carry iron worth 2 ENC or less, it imposes no penalty for the scene.                                                                                                                                                                                                                               |
+| The Sorcerer's Reach   | 3 PP                 | A spell you cast this round takes effect at double its normal range or area. Duration, cost, and resistance rolls are unchanged.                                                                                                                                                                                                                                                           |
+| Still-Face             | 2 PP                 | When a source of Corruption triggers, you may pay this cost instead of making the Corruption roll. The Corruption loss is 0 (success result) rather than rolled. Only works once per triggering event; cannot suppress losses from casting past PP exhaustion.                                                                                                                             |
+| Drinker of the Current | 4 PP                 | Regain 1D3 PP immediately. This recovery is not natural rest - it is a dangerous draw on reserves that leave a mark. Each use in the same scene accumulates 1 Corruption (in addition to any standard casting Corruption). Maximum once per round.                                                                                                                                         |
+| Flesh Memory           | 2 PP                 | After successfully casting a spell, remember it for one additional casting in the same scene even if you have already used your memorised slot for that spell level. The additional casting costs normal PP.                                                                                                                                                                               |
+| Mirror's Edge          | 5 PP                 | When a sorcerous working targets you (a spell or Resistance Table roll by another sorcerer), you may reflect it at the caster. Make a POW resistance roll; if you succeed, the spell or effect is redirected to the original caster, who is the new target. PP cost for the spell is still the original caster's. This talent does not work against demon powers or patron manifestations. |
+| Blood Price            | 0 PP, but costs 2 HP | Once per scene, reduce the PP cost of a spell by 3 (minimum 1). The HP cost cannot be reduced or absorbed by armour. Bleeding from a deliberate cut is the price. Cannot be used if the HP cost would drop you to 0 HP or below.                                                                                                                                                           |
+| Shadow Speech          | 2 PP                 | You may communicate with a bound demon you have named using a brief mental message of no more than one sentence. The demon hears and may respond. This works at any distance as long as the binding holds.                                                                                                                                                                                 |
+| The Long Memory        | 0 PP                 | You learn spells from grimoires in half the normal time (one study session per 2 days per spell level instead of one week per spell level). You may also attempt to read a grimoire in a script or language you don't know at a Difficult Language roll.                                                                                                                                   |
 
 ### 7.3 Stealth and Finesse Talents
 
 Available to all professions.
 
----
-
-**Shadow's Step.** 3 PP. For one round, halve all noise penalties to Move Quietly. You may move at full speed without the Difficult penalty. Must be declared before movement.
-
-**Vanishing Act.** 4 PP. Immediately after taking an action in combat or a scene, you may attempt a Move Quietly roll against all observers' Spot. If no observer beats your roll, you are no longer visible - even if they were watching you. You must still be somewhere reasonable to hide.
-
-**Careful Hands.** 2 PP. On a Fine Manipulation roll this scene, treat your current skill as 20% higher than rated. Declare before rolling.
-
-**Second Skin.** 3 PP. Your Disguise roll this scene is treated as having spent ten minutes on preparation even if you only had a moment. Additionally, observers who would automatically detect your disguise (close friends of the target, for instance) must succeed on a Difficult Insight roll to do so.
-
-**The Quiet Knife.** 4 PP. When attacking a target who has not yet acted in this round and is not in active combat, your attack is treated as having initiative advantage regardless of Strike Rank. The target cannot declare a parry or dodge before your attack resolves.
-
-**Trailing Smoke.** 2 PP. You leave no physical evidence of having been somewhere: no tracks, no fingerprints, no hair or thread. This effect applies retroactively to the scene you are currently in. Evidence already collected by an observer remains with them.
-
-**Light Fingers.** 3 PP. On a successful Sleight of Hand roll, the target does not make a Spot or Insight roll to notice, even if they would normally be entitled to one. The act simply passes unseen.
-
-**Rooftop Runner.** 2 PP. For one extended chase or movement scene, ignore all Difficult penalties to Climb and Jump. You may move at full speed across broken terrain (rooftops, rigging, rubble) without rolls unless the GM rules the specific attempt is genuinely impossible.
-
-**Death's Calm.** 3 PP. Immediately after killing or incapacitating someone, you may make a Move Quietly or Disguise roll at +30% to avoid anyone connecting you to the act. The bonus applies only in the moment - not to later investigation.
-
-**Elusive.** 4 PP. When pursued, add +3 to your effective MOV for the duration of the chase scene. If another chase-relevant roll (Jump, Climb, Swim) would normally be Difficult, it is treated as Average instead.
-
----
+| Talent          | Cost | Description                                                                                                                                                                                                                                                                            |
+| --------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Shadow's Step   | 3 PP | For one round, halve all noise penalties to Move Quietly. You may move at full speed without the Difficult penalty. Must be declared before movement.                                                                                                                                  |
+| Vanishing Act   | 4 PP | Immediately after taking an action in combat or a scene, you may attempt a Move Quietly roll against all observers' Spot. If no observer beats your roll, you are no longer visible - even if they were watching you. You must still be somewhere reasonable to hide.                  |
+| Careful Hands   | 2 PP | On a Fine Manipulation roll this scene, treat your current skill as 20% higher than rated. Declare before rolling.                                                                                                                                                                     |
+| Second Skin     | 3 PP | Your Disguise roll this scene is treated as having spent ten minutes on preparation even if you only had a moment. Additionally, observers who would automatically detect your disguise (close friends of the target, for instance) must succeed on a Difficult Insight roll to do so. |
+| The Quiet Knife | 4 PP | When attacking a target who has not yet acted in this round and is not in active combat, your attack is treated as having initiative advantage regardless of Strike Rank. The target cannot declare a parry or dodge before your attack resolves.                                      |
+| Trailing Smoke  | 2 PP | You leave no physical evidence of having been somewhere: no tracks, no fingerprints, no hair or thread. This effect applies retroactively to the scene you are currently in. Evidence already collected by an observer remains with them.                                              |
+| Light Fingers   | 3 PP | On a successful Sleight of Hand roll, the target does not make a Spot or Insight roll to notice, even if they would normally be entitled to one. The act simply passes unseen.                                                                                                         |
+| Rooftop Runner  | 2 PP | For one extended chase or movement scene, ignore all Difficult penalties to Climb and Jump. You may move at full speed across broken terrain (rooftops, rigging, rubble) without rolls unless the GM rules the specific attempt is genuinely impossible.                               |
+| Death's Calm    | 3 PP | Immediately after killing or incapacitating someone, you may make a Move Quietly or Disguise roll at +30% to avoid anyone connecting you to the act. The bonus applies only in the moment - not to later investigation.                                                                |
+| Elusive         | 4 PP | When pursued, add +3 to your effective MOV for the duration of the chase scene. If another chase-relevant roll (Jump, Climb, Swim) would normally be Difficult, it is treated as Average instead.                                                                                      |
 
 ### 7.4 Social and Cunning Talents
 
 Available to all professions.
 
----
-
-**Forked Tongue.** 4 PP. Convert a Persuade fumble into an ordinary failure. The speech did not convince, but the catastrophic consequence - the mark who now knows you're lying, the patron who is now an enemy - does not occur.
-
-**The Open Hand.** 3 PP. Before making a Bargain or Persuade roll, declare you are offering something tangible (coin, information, a favour, goodwill). You gain +20% to the roll. If you later fail to deliver the offer, the target gains the same +20% bonus on any retaliatory social or combat action against you.
-
-**Read the Room.** 2 PP. Before entering a social situation, make a free Insight roll. On a success, the GM tells you the emotional temperature: what the main NPC wants most, what they fear most, or what would immediately end the conversation badly. On a critical, all three.
-
-**Long Con.** 0 PP (passive). You can maintain a single false identity (name, profession, origin, allegiance) indefinitely, without daily Disguise rolls, as long as no specific trigger occurs. When a trigger occurs (a native of your claimed home region, someone who knew the person you're impersonating), you immediately make a Disguise roll.
-
-**Viper's Tongue.** 4 PP. After a successful Fast Talk roll, the target's compliance lasts until the end of the scene rather than until they have time to reflect. They will not re-examine the situation until the scene ends - at which point the usual Fast Talk limitations apply.
-
-**The Right Friends.** 3 PP. Once per city or significant location, declare you have a contact here: someone who owes you a favour, is in your debt, or has reason to help. The GM determines what they can realistically provide. The contact is a one-use resource per location unless developed further in play.
-
-**Commanding Presence.** 3 PP. Make a Command roll targeting a group rather than individuals. On a success, anyone in the group who does not make a Difficult POW roll follows a single direct, simple instruction. The instruction must be non-suicidal and must not violate a strongly held passion.
-
-**Cold Read.** 2 PP. On an Insight roll, you also determine whether the target is armed and where the weapon is, what they would most readily trade, and whether they have a patron or superior they fear. Available on both success and critical; not on failure.
-
-**Silver Tongue.** 5 PP. Make one Persuade roll at double your current skill rating. The target cannot spend their own PP to resist your social pressure this scene. Usable once per scene.
-
-**Killer's Timing.** 3 PP. When a negotiation or social contest is about to turn against you, you may interrupt the scene with a dramatic gesture, revelation, or threat - even out of initiative order. Make an appropriate skill roll; on a success, the scene's trajectory changes in your favour before the bad outcome resolves.
+| Talent              | Cost           | Description                                                                                                                                                                                                                                                                                                              |
+| ------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Forked Tongue       | 4 PP           | Convert a Persuade fumble into an ordinary failure. The speech did not convince, but the catastrophic consequence - the mark who now knows you're lying, the patron who is now an enemy - does not occur.                                                                                                                |
+| The Open Hand       | 3 PP           | Before making a Bargain or Persuade roll, declare you are offering something tangible (coin, information, a favour, goodwill). You gain +20% to the roll. If you later fail to deliver the offer, the target gains the same +20% bonus on any retaliatory social or combat action against you.                           |
+| Read the Room       | 2 PP           | Before entering a social situation, make a free Insight roll. On a success, the GM tells you the emotional temperature: what the main NPC wants most, what they fear most, or what would immediately end the conversation badly. On a critical, all three.                                                               |
+| Long Con            | 0 PP (passive) | You can maintain a single false identity (name, profession, origin, allegiance) indefinitely, without daily Disguise rolls, as long as no specific trigger occurs. When a trigger occurs (a native of your claimed home region, someone who knew the person you're impersonating), you immediately make a Disguise roll. |
+| Viper's Tongue      | 4 PP           | After a successful Fast Talk roll, the target's compliance lasts until the end of the scene rather than until they have time to reflect. They will not re-examine the situation until the scene ends - at which point the usual Fast Talk limitations apply.                                                             |
+| The Right Friends   | 3 PP           | Once per city or significant location, declare you have a contact here: someone who owes you a favour, is in your debt, or has reason to help. The GM determines what they can realistically provide. The contact is a one-use resource per location unless developed further in play.                                   |
+| Commanding Presence | 3 PP           | Make a Command roll targeting a group rather than individuals. On a success, anyone in the group who does not make a Difficult POW roll follows a single direct, simple instruction. The instruction must be non-suicidal and must not violate a strongly held passion.                                                  |
+| Cold Read           | 2 PP           | On an Insight roll, you also determine whether the target is armed and where the weapon is, what they would most readily trade, and whether they have a patron or superior they fear. Available on both success and critical; not on failure.                                                                            |
+| Silver Tongue       | 5 PP           | Make one Persuade roll at double your current skill rating. The target cannot spend their own PP to resist your social pressure this scene. Usable once per scene.                                                                                                                                                       |
+| Killer's Timing     | 3 PP           | When a negotiation or social contest is about to turn against you, you may interrupt the scene with a dramatic gesture, revelation, or threat - even out of initiative order. Make an appropriate skill roll; on a success, the scene's trajectory changes in your favour before the bad outcome resolves.               |
 
 ---
 
@@ -489,7 +445,7 @@ Passions are mandatory. Every character has three.
 
 ### 8.1 Starting Passions
 
-Choose three Passions at chargen, player-authored:
+Create three Passions at character generation:
 
 - **One Passion at 80%.** This is the character's defining drive - the thing that will put them in motion no matter how inconvenient.
 - **Two Passions at 60%.** These are real but not all-consuming.
@@ -498,17 +454,17 @@ Choose three Passions at chargen, player-authored:
 
 A Passion can be any of the following:
 
-| Passion       | Examples                                                                            |
-| ------------- | ----------------------------------------------------------------------------------- |
-| **Love**      | "Love of my brother Khess 80%" / "Love of the sea 60%"                              |
-| **Hate**      | "Hatred of the Serpent Throne 80%" / "Hatred of the Pit Lords 60%"                  |
-| **Loyalty**   | "Loyalty to my mercenary company 80%" / "Loyalty to Aara who bought my freedom 60%" |
-| **Fear**      | "Fear of sorcery 60%" / "Fear of returning to the place of my exile 60%"            |
-| **Honor**     | "My word, once given, holds 80%"                                                    |
-| **Devotion**  | "Devotion to the aspect of the storm-god I have sworn by 60%"                       |
-| **Greed**     | "Greed for the treasury of Aktar-Ur 80%"                                            |
-| **Vengeance** | "Vengeance against Lord Mekhet for my family's destruction 80%"                     |
-| **Dread**     | "Dread of what I am becoming 60%"                                                   |
+| Passion   | Examples                                                                            |
+| --------- | ----------------------------------------------------------------------------------- |
+| Love      | "Love of my brother Khess 80%" / "Love of the sea 60%"                              |
+| Hate      | "Hatred of the Serpent Throne 80%" / "Hatred of the Pit Lords 60%"                  |
+| Loyalty   | "Loyalty to my mercenary company 80%" / "Loyalty to Aara who bought my freedom 60%" |
+| Fear      | "Fear of sorcery 60%" / "Fear of returning to the place of my exile 60%"            |
+| Honor     | "My word, once given, holds 80%"                                                    |
+| Devotion  | "Devotion to the aspect of the storm-god I have sworn by 60%"                       |
+| Greed     | "Greed for the treasury of Aktar-Ur 80%"                                            |
+| Vengeance | "Vengeance against Lord Mekhet for my family's destruction 80%"                     |
+| Dread     | "Dread of what I am becoming 60%"                                                   |
 
 **Passions are player-authored.** The type is taken from the list; the specific target and phrasing are yours.
 
@@ -536,8 +492,6 @@ When a Passion is directly relevant to what the character is attempting, the pla
 ### 8.4 Gaining Passions in Play
 
 A new Passion gained through events in play starts at 60%, or higher if circumstances are particularly dramatic. The GM introduces new Passions; players may request them. A Passion extinguished by a fumble (reduced to 0%) cannot be recovered without extraordinary circumstances.
-
----
 
 ## 9. Step 8: Reputation
 
@@ -594,8 +548,6 @@ The GM awards Reputation after significant deeds:
 
 Reputation is never secret. If you earn it, people talk about it.
 
----
-
 ## 10. Step 9: Sorcerer-Specific
 
 This step applies **only to characters who have chosen the Scholar of the Dark Arts profession.** All other characters skip to Step 10.
@@ -610,7 +562,7 @@ A character who qualifies may also use the **Sorcerous Heritage** option (P6 §1
 
 The starting sorcerer knows a number of spell levels equal to **half their INT, rounded up.** A sorcerer with INT 16 knows spell levels totalling 8 - for example, four spells of level 2 each, or two spells of level 3 and two of level 1. All starting spells are memorised and immediately available (see P6 §2.4).
 
-Choose starting spells from the spell list in P6 §6. The GM may restrict certain spells at chargen; spells involving Greater Demons or direct patron contact are typically learned in play, not at creation.
+Choose starting spells from the spell list in P6 §6. The GM may restrict certain spells at character generation; spells involving Greater Demons or direct patron contact are typically learned in play, not at creation.
 
 ### 10.3 The Patron Compact (Optional)
 
@@ -624,7 +576,7 @@ A starting sorcerer may choose to have already entered a patron compact. This is
 4. The patron is watching from the start. High Patron Scores draw attention; see P10 for what patrons actually want.
 
 **If you do not take a patron:**
-Record Patron Score as **None.** The option to enter a compact later remains open - it is a story event, not a chargen lock.
+Record Patron Score as **None.** The option to enter a compact later remains open - it is a story event, not a character generation lock.
 
 ### 10.4 Starting Corruption
 
@@ -646,13 +598,11 @@ Every sorcerer begins with a grimoire containing their starting spells. Choose t
 
 The grimoire is the sorcerer's most valuable possession. Losing it is not the end - memorised spells remain until displaced - but it is the beginning of a very bad time.
 
----
-
 ## 11. Step 10: Starting Equipment
 
 ### 11.1 Profession Kit
 
-Each profession has a typical starting kit. This is the gear the character arrives at the table with; it reflects what someone of that profession would plausibly own and carry. Items in the kit are free; they come with the profession.
+Each profession has a typical starting kit. This is the gear the character arrives at the table with; it reflects what someone of that profession would plausibly own and carry. Items in the kit are free; they come with the profession. Players are free to replace any item of weapon or armour with a cultural equivalent.
 
 | Profession                 | Starting Kit                                                                                        |
 | -------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -683,8 +633,6 @@ The coin listed above is the character's current working funds. Characters of Af
 
 After the profession kit, characters may purchase additional equipment from P7 using their starting coin. The GM may rule that certain items are unavailable at the campaign's starting location.
 
----
-
 ## 12. Background Questions
 
 Answer these questions in brief. Each answer gives the GM material to use at the table.
@@ -710,8 +658,6 @@ Record it. Give it one sentence of history.
 
 The significant possession is not a mechanical item with stats. It is an anchor. At the GM's discretion, invoking it during a scene of personal crisis may allow an Inspiration roll using the character's highest Passion even if the Passion is not obviously relevant.
 
----
-
 ## 13. Finalising the Character
 
 ### 13.1 Name and Physical Description
@@ -722,7 +668,7 @@ Choose a name and note two or three physical markers. **PA4 Names** provides ten
 
 ### 13.2 Character Sheet Summary
 
-By the end of chargen, record:
+By the end of character generation, record:
 
 - All seven characteristics
 - HP, PP, damage modifier, MOV, Experience Bonus
