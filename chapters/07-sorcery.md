@@ -1,6 +1,6 @@
 # Sorcery
 
-This chapter covers becoming a sorcerer, casting spells, the three costs, iron disruption, grimoires, and the full spell list. §10 covers the GM side: patrons, demons, and what happens when a sorcerer goes too far.
+This chapter covers becoming a sorcerer, casting spells, the three costs, iron disruption, grimoires, and the full spell list. §11 covers the GM side: patrons, demons, and what happens when a sorcerer goes too far.
 
 ---
 
@@ -101,9 +101,9 @@ A sorcerer who has entered a compact with a patron entity maintains a Patron Sco
 - **PP Reserve.** When the sorcerer's own PP pool reaches 0, they may call on the patron for an emergency draw. They may draw up to 1/10 of their current Patron Score (round up) as emergency PP. This may be done up to three times per session. Each use increases the Patron Score by 1 (the debt deepens).
 - **Patron Intercession.** When the sorcerer's situation is truly desperate, they may invoke the patron by true name as a full action. Make an allegiance roll (D100 vs. current Patron Score). On a Critical (matching dice within the Patron Score), the patron intervenes directly - a demon servant appears, a curse falls on enemies, a door opens that should not. The form of intervention is the GM's call. A successful Patron Intercession always increases the Patron Score by 2D6. The patron has spent something, and the debt has grown.
 
-**The obligation:** A high Patron Score draws the patron's attention. §10 describes what patrons want and how the relationship escalates. A Patron Score above 50 brings increasingly specific demands.
+**The obligation:** A high Patron Score draws the patron's attention. §11 describes what patrons want and how the relationship escalates. A Patron Score above 50 brings increasingly specific demands.
 
-**Earning Patron Score:** After any adventure in which the sorcerer performed actions that served the patron's interests, the GM may call for a patron test. Roll D100. If the roll is less than the current Patron Score, the score increases by 1D6. §10 defines what a given patron values - each patron has its own trigger list.
+**Earning Patron Score:** After any adventure in which the sorcerer performed actions that served the patron's interests, the GM may call for a patron test. Roll D100. If the roll is less than the current Patron Score, the score increases by 1D6. §11 defines what a given patron values - each patron has its own trigger list.
 
 ### 3.3 Corruption
 
@@ -176,7 +176,7 @@ Unenchanted iron is inimical to the sorcerous current.
 
 **Practical:** Iron sword (ENC 1) + iron helm (ENC 1) = -10% on all sorcery rolls. Iron mail (ENC 9) = -45%. Most sorcerers travel in bronze or leather.
 
-See §7.11 for ENC, §7.5 for material tiers, and §7.12.1 for the full iron-vs-sorcery rules.
+See §8.11 for ENC, §8.5 for material tiers, and §8.12.1 for the full iron-vs-sorcery rules.
 
 ---
 
@@ -627,7 +627,7 @@ The target must fail a POW resistance roll or be unable to cast spells, plan coh
 **Cast Time:** 4 hours minimum (preparation and invocation)
 **Duration:** Until released or binding broken
 
-The sorcerer prepares a circle, invokes a demon by the appropriate formula, and calls it into physical presence. The demon arrives not bound, and has agreed to nothing - that negotiation follows. The player-side procedure is in §7; the demon's behaviour and demands are in §10.
+The sorcerer prepares a circle, invokes a demon by the appropriate formula, and calls it into physical presence. The demon arrives not bound, and has agreed to nothing - that negotiation follows. The player-side procedure is in §8; the demon's behaviour and demands are in §11.
 
 **Cost Notes:** Summoning a lesser demon causes Corruption per the §3.3 table. Summoning a Greater Demon causes 1D3 additional Corruption regardless of the roll result.
 
@@ -736,7 +736,7 @@ The sorcerer examines a wound, a body, or a patient in extremis and reads what h
 
 ## 7. Demon Summoning: The Player's Side
 
-Summoning is an extended ritual followed by a negotiation. The demon's appearance, demands, and behaviour are in §10. This section covers the sorcerer's side.
+Summoning is an extended ritual followed by a negotiation. The demon's appearance, demands, and behaviour are in §11. This section covers the sorcerer's side.
 
 ### 7.1 Preparation
 
@@ -746,7 +746,7 @@ Before invoking a demon, the sorcerer must:
 
 **Research the target.** Know the demon's nature (possessing spirit, flesh-eater, chaos-entity), its approximate power (See the Unseen helps), and its true name if available. Summoning without a true name is possible, but the demon arrives without the obligation a name implies.
 
-**Gather materials.** §10 describes what a specific demon prefers. Preparing without the appropriate materials imposes penalties on the binding roll.
+**Gather materials.** §11 describes what a specific demon prefers. Preparing without the appropriate materials imposes penalties on the binding roll.
 
 ### 7.2 The Invocation
 
@@ -779,4 +779,4 @@ A binding ends in one of four ways:
 - **The sorcerer dies.** Active bindings end; object-bound and place-bound demons may persist.
 - **Another sorcerer learns the true name and rebinds.** The demon now serves the new binder.
 
-What the demon does when freed depends on the entity's nature, the bargain terms, and how it was treated. §10 has guidance.
+What the demon does when freed depends on the entity's nature, the bargain terms, and how it was treated. §11 has guidance.

@@ -5,7 +5,7 @@
 
 The world is ancient. Civilisations rose, over-reached, collapsed, and were forgotten; the current age is the latest stratum laid over older and stranger ones. Pre-cataclysm ruins are the central treasure source of sword & sorcery and the engine of most adventures.
 
-This chapter is in two halves. **§§1-4** are generators that build deep history piece by piece - empires, cataclysms, ruins, and the lost sorcery and technology that bleed through into the present. **§§5-7** are worked examples - six adventure locales, six archetypal NPCs, and six archetypal beasts, each with hooks ready to drop into a session. Combine them: a generator-built fallen empire produces the Sorcerer's Tower in §5.1, occupied by the Sorcerer-Tyrant in §6.1, defended by the Serpent-Folk in §7.6. Build only what the adventure requires; the edge where your knowledge ends is where dread lives.
+This chapter is in two halves. **§§1-4** are generators that build deep history piece by piece - empires, cataclysms, ruins, and the lost sorcery and technology that bleed through into the present. **§§5-7** are worked examples - six adventure locales, six archetypal NPCs, and six archetypal beasts, each with hooks ready to drop into a session. Combine them: a generator-built fallen empire produces the Sorcerer's Tower in §5.1, occupied by the Sorcerer-Tyrant in §7.1, defended by the Serpent-Folk in §8.6. Build only what the adventure requires; the edge where your knowledge ends is where dread lives.
 
 ---
 
@@ -60,7 +60,7 @@ _The residue of a civilisation - what the PCs will find._
 | --- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Ruins**                | Physical structures - temples, citadels, harbours, roads, aqueducts - spread across a region. Each one is a site. Many have things living in them now.                                                                                                                                                                          |
 | 2   | **Texts**                | Grimoires, histories, star-charts, engineering manuals. Written in a dead language the PCs probably cannot read; valuable to sorcerers, scholars, and patrons. Also dangerous: the texts contain what the empire learned, and some of what they learned should not be loose in the world.                                       |
-| 3   | **Artifacts**            | Objects that still work, whose function is not always obvious. The mechanisms may be sorcerous, may be technological, may be both, may be neither. Artifacts are the primary treasure of ruins exploration. See §11 for artifact rules.                                                                                         |
+| 3   | **Artifacts**            | Objects that still work, whose function is not always obvious. The mechanisms may be sorcerous, may be technological, may be both, may be neither. Artifacts are the primary treasure of ruins exploration. See §12 for artifact rules.                                                                                         |
 | 4   | **A curse**              | Not a simple malediction but something woven into the land, the water, the air. Animals behave strangely in the affected region. Sorcerers dream badly. People who settle in the area age faster, or do not age at all, or develop particular fixations. The curse is not random - it is the residue of what the empire did.    |
 | 5   | **A remnant population** | People who survived the cataclysm, or their descendants, carrying the old culture into the present in changed form. They may not know what they once were. They may know exactly. They may be friendly; they may be deeply territorial; they may be something that was once human and has since moved in a different direction. |
 | 6   | **A sealed gate**        | The empire built something intended to contain - a prison, a barrier, an airlock between the world and something else. It is still sealed. The seals are old and stressed. Whatever built the gate wanted nothing to enter from this side; whatever is behind the gate has had a long time to think about getting out.          |
@@ -69,7 +69,7 @@ _The residue of a civilisation - what the PCs will find._
 
 ## 2. Generator: Cataclysms
 
-A cataclysm reshapes landscape, fractures cultures, and leaves survivors carrying inherited trauma for generations. Use this generator to build cataclysms or detail the collapse type from §1.3. A cataclysm needs entries from at least the first two categories.
+A cataclysm reshapes landscape, fractures cultures, and leaves survivors carrying inherited trauma for generations. Use this generator to build cataclysms or detail the collapse type from §13.1.3. A cataclysm needs entries from at least the first two categories.
 
 ### 2.1 Type
 
@@ -117,7 +117,7 @@ _The permanent mark on the land._
 | 3   | **A continent of glass** | Terrain that was melted and re-solidified - by fire, by a sorcerous event, by something that generated heat on a scale that should not be possible. Beautiful and terrible. Nothing grows there. The glass is not always empty.                                                                                                                                                                    |
 | 4   | **Poisoned skies**       | Something in the atmosphere that does not disperse: perpetual ash cloud, an aurora that the locals call an omen, a smell of copper when the wind comes from a certain direction. The air in the affected region causes slow harm: the Corruption track loses a point per week for sorcerers; non-sorcerers suffer a -5% on all rolls that require concentration after more than a day in the zone. |
 | 5   | **A wandering plague**   | The original disease, or its descendant, still moves through the land. Not enough to break civilisation now - most people have partial immunity - but enough to mark isolated communities and be weaponisable. A motivated sorcerer with access to a live sample and a laboratory might be able to restore it to its original potency.                                                             |
-| 6   | **A thinned veil**       | The boundary between the world and what lies beyond it was permanently damaged in the affected region. Demons do not need to be summoned here - they leak through. The sorcery cost architecture (§6.3) functions strangely: spells that should cost 1 PP cost nothing; spells that should cost 3 PP trigger Corruption automatically. Nothing here obeys the rules it should.                     |
+| 6   | **A thinned veil**       | The boundary between the world and what lies beyond it was permanently damaged in the affected region. Demons do not need to be summoned here - they leak through. The sorcery cost architecture (§7.3) functions strangely: spells that should cost 1 PP cost nothing; spells that should cost 3 PP trigger Corruption automatically. Nothing here obeys the rules it should.                     |
 
 ---
 
@@ -170,14 +170,14 @@ _Why the PCs would go here._
 
 _What threatens the PCs inside the site. Combine two for a more complex location._
 
-| D6  | Danger                     | Character                                                                                                                                                                                                                                                                                                                   |
-| --- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Undead**                 | The dead of this place have not rested. The form of the undead reflects what the site was: priests become hungry things with an echo of devotion; soldiers become automatons that still patrol a perimeter; scholars become something worse, because they understood what was happening to them. See §9 for undead entries. |
-| 2   | **Beasts**                 | Animals - ordinary or otherwise - have made the site their territory. They have adapted to its specific conditions in ways that may no longer make them ordinary. The ruins are home turf to them; the PCs are intruders.                                                                                                   |
-| 3   | **The original guardians** | The defensive measures the empire put in place are still in operation. These may be sorcerous constructs, bound demons, automated mechanisms, or something else; they do not distinguish between the empire's enemies and strangers who arrived a thousand years too late.                                                  |
-| 4   | **Rival explorers**        | Other people are here with the same objective, or a conflicting one. They may be competitors, enemies, allies of convenience, or people with better intelligence about the site who have been waiting for someone else to deal with the first level.                                                                        |
-| 5   | **The place itself**       | The site is actively hostile - not through any agent but through what it is. Trapped corridors. Architecture designed to disorient. A working that affects perception or memory. Something about the layout that makes it very hard to leave.                                                                               |
-| 6   | **A survivor**             | One entity from the original civilisation - or something that served it - is still here, still alive or still present, still aware. Its goals are not necessarily violent. They may be desperate. They have had a very long time to form opinions about what they will and will not do.                                     |
+| D6  | Danger                     | Character                                                                                                                                                                                                                                                                                                                    |
+| --- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Undead**                 | The dead of this place have not rested. The form of the undead reflects what the site was: priests become hungry things with an echo of devotion; soldiers become automatons that still patrol a perimeter; scholars become something worse, because they understood what was happening to them. See §10 for undead entries. |
+| 2   | **Beasts**                 | Animals - ordinary or otherwise - have made the site their territory. They have adapted to its specific conditions in ways that may no longer make them ordinary. The ruins are home turf to them; the PCs are intruders.                                                                                                    |
+| 3   | **The original guardians** | The defensive measures the empire put in place are still in operation. These may be sorcerous constructs, bound demons, automated mechanisms, or something else; they do not distinguish between the empire's enemies and strangers who arrived a thousand years too late.                                                   |
+| 4   | **Rival explorers**        | Other people are here with the same objective, or a conflicting one. They may be competitors, enemies, allies of convenience, or people with better intelligence about the site who have been waiting for someone else to deal with the first level.                                                                         |
+| 5   | **The place itself**       | The site is actively hostile - not through any agent but through what it is. Trapped corridors. Architecture designed to disorient. A working that affects perception or memory. Something about the layout that makes it very hard to leave.                                                                                |
+| 6   | **A survivor**             | One entity from the original civilisation - or something that served it - is still here, still alive or still present, still aware. Its goals are not necessarily violent. They may be desperate. They have had a very long time to form opinions about what they will and will not do.                                      |
 
 ### 3.5 The Treasure
 
@@ -185,7 +185,7 @@ _What makes the risk worthwhile. A site can have more than one._
 
 | D6  | Treasure Category  | Notes                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Artifact**       | An object of pre-cataclysm manufacture that still functions. Its function is not immediately obvious. Its function, when understood, is either enormously useful or enormously dangerous or both. See §11 for artifact rules.                                                                          |
+| 1   | **Artifact**       | An object of pre-cataclysm manufacture that still functions. Its function is not immediately obvious. Its function, when understood, is either enormously useful or enormously dangerous or both. See §12 for artifact rules.                                                                          |
 | 2   | **Lore**           | Knowledge in some fixed form - texts, star-charts, inscribed ritual workings, a sorcerer's annotated grimoire. Valuable to any sorcerer, scholar, or patron who deals in old knowledge. May be dangerous to possess; there may be others who want it and are willing to act on that want.              |
 | 3   | **An ally**        | Something trapped, imprisoned, or held here wants to be released and will owe a significant debt if the PCs manage it. Whether this debt is safe to collect depends entirely on what the something is and what it was imprisoned for.                                                                  |
 | 4   | **Mundane wealth** | Coin, gems, art objects, trade goods, accumulated offerings. The old world was rich. Its surplus is still here in some places, untouched because whoever held it last is no longer in a position to spend it. The wealth is real; getting it out is the problem.                                       |
@@ -196,15 +196,15 @@ _What makes the risk worthwhile. A site can have more than one._
 
 ## 4. Pre-Cataclysm Sorcery and Science
 
-The §6 spell list is what has survived the cataclysms in transmissible form. Pre-cataclysm sorcery operated at a different scale - binding gods, mastering death at industrial scale, encoding spells into architecture - and surviving fragments of it are the engine of many scenarios.
+The §7 spell list is what has survived the cataclysms in transmissible form. Pre-cataclysm sorcery operated at a different scale - binding gods, mastering death at industrial scale, encoding spells into architecture - and surviving fragments of it are the engine of many scenarios.
 
 **Surviving pre-cataclysm sorcery takes three forms:**
 
 - **Encoded in architecture.** The spell _is_ the building and it is still running. Entering is entering the working. Destroying the building ends the spell - if destruction is possible.
 - **Recorded in grimoires.** The text exists, but learning from it differs from a current grimoire: notation may be opaque, language dead, required components or ritual spaces gone. Working out a pre-cataclysm spell from first principles is genuinely rare and likely to attract attention from people who do not want that spell loose.
-- **Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See §11 for artifact rules.
+- **Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See §12 for artifact rules.
 
-**Lost technology.** Sword & sorcery's lost super-science sits alongside lost sorcery as a valid ingredient. To the people of the current age, advanced technology is indistinguishable from sorcery: a weapon firing coherent light is a "fire-lance of the old people"; a navigation device using orbital signals is an "oracle of the sky-watchers." Lost technology does not respond to the sorcerous current - iron-sensitivity (§6.4) does not apply unless the item is also sorcerous. Identification typically requires Knowledge (Engineering) or Knowledge (Occult) rather than sorcerous analysis.
+**Lost technology.** Sword & sorcery's lost super-science sits alongside lost sorcery as a valid ingredient. To the people of the current age, advanced technology is indistinguishable from sorcery: a weapon firing coherent light is a "fire-lance of the old people"; a navigation device using orbital signals is an "oracle of the sky-watchers." Lost technology does not respond to the sorcerous current - iron-sensitivity (§7.4) does not apply unless the item is also sorcerous. Identification typically requires Knowledge (Engineering) or Knowledge (Occult) rather than sorcerous analysis.
 
 **Three adventure engines.** The generators above feed three recurring scenarios:
 
@@ -327,11 +327,11 @@ A city perched atop sheer cliffs of jade-blue and crimson stone, hidden in a val
 
 ## 6. Archetypal NPCs
 
-Six recurring figures, statted for drop-in use. Adjust characteristics for your campaign's power level and name them for your setting. Where an NPC overlaps with a §8 sample stat block, the entry here focuses on campaign use; refer to §8 for the alternative build.
+Six recurring figures, statted for drop-in use. Adjust characteristics for your campaign's power level and name them for your setting. Where an NPC overlaps with a §9 sample stat block, the entry here focuses on campaign use; refer to §9 for the alternative build.
 
 ### 6.1 The Sorcerer-Tyrant (Named Antagonist)
 
-A high priest of a sorcerous order whose ambitions extend past the order itself. Has bound a demon, walked a Patron compact, and learned spells from sources that no longer exist. Now holds a tower, a city, or a region in private fief. Negotiates only with peers; everyone else is a tool, an obstacle, or a resource. Distinct from the mid-tier sorcerer-villain in §8.5.6 by sheer accumulated power and the established institution beneath him.
+A high priest of a sorcerous order whose ambitions extend past the order itself. Has bound a demon, walked a Patron compact, and learned spells from sources that no longer exist. Now holds a tower, a city, or a region in private fief. Negotiates only with peers; everyone else is a tool, an obstacle, or a resource. Distinct from the mid-tier sorcerer-villain in §9.5.6 by sheer accumulated power and the established institution beneath him.
 
 ```text
 [Name], Sorcerer-Tyrant
@@ -361,7 +361,7 @@ Sorcery:
     Curse of Sorcery (level 3)
     Sorcerous Armor (level 3)
     Witch Sight (level 2)
-    Bound Demon command-word (situational; see §10)
+    Bound Demon command-word (situational; see §11)
 
 Talents:
   Arcane Insight - +20% to casting-related rolls.
@@ -470,7 +470,7 @@ Fate Point access: yes.  Likely spends: Steel-Eye, Hard To Kill, Deflect
 the Killing Blow.
 ```
 
-**Running the Hetman.** Commands eight to fifteen raiders (use Bandit Raider Rabble stats from §8.5.2). Believes in personal combat; will accept a duel-challenge from anyone the band thinks credible. Will not break a hospitality oath, but interprets the oath narrowly. If the PCs prove tougher than his band thinks possible, he will hire them rather than fight them - assuming they are buyable, which is its own question.
+**Running the Hetman.** Commands eight to fifteen raiders (use Bandit Raider Rabble stats from §9.5.2). Believes in personal combat; will accept a duel-challenge from anyone the band thinks credible. Will not break a hospitality oath, but interprets the oath narrowly. If the PCs prove tougher than his band thinks possible, he will hire them rather than fight them - assuming they are buyable, which is its own question.
 
 **Adventure Hooks:**
 
@@ -609,7 +609,7 @@ Other skills:
   Knowledge (Local Politics) 60%
 
 Notes: Maintains 2-4 bodyguards (Professionals; use the Mercenary Captain
-stat in §8.5.3 as a model, scaled down). Will betray the PCs the moment
+stat in §9.5.3 as a model, scaled down). Will betray the PCs the moment
 the betrayal becomes safer than continuing the partnership; will pretend
 not to until then. The threshold for "safer" is low.
 ```
@@ -626,7 +626,7 @@ not to until then. The threshold for "safer" is low.
 
 ## 7. Archetypal Beasts
 
-Six adversaries for the deep places. Stat blocks follow the §9 format; for the rules they reference, see §5 (combat), §6 (sorcery), and §9.1 (creature entry conventions). Each entry includes adventure hooks - not encounters but seeds for sessions the beast can anchor.
+Six adversaries for the deep places. Stat blocks follow the §10 format; for the rules they reference, see §5 (combat), §7 (sorcery), and §10.1 (creature entry conventions). Each entry includes adventure hooks - not encounters but seeds for sessions the beast can anchor.
 
 ### 7.1 Giant Serpent
 
@@ -773,7 +773,7 @@ Gray, hairy, almost-human things that walk upright but speak only a gibberish no
 - **Damage Modifier:** +1D4
 - **Attacks:** Grasp 45% / Grapple (STR 14 vs target STR); Bone-Knife 50% / 1D4+1+dm (Pierce); Net (carried) 40% / immobilise.
 - **Special Abilities:**
-  - _Drag to Water._ A grappled target is dragged toward the nearest deep water or pit. A target dropped into the underground river is in immediate drowning danger (§12.7.2).
+  - _Drag to Water._ A grappled target is dragged toward the nearest deep water or pit. A target dropped into the underground river is in immediate drowning danger (§6.7.2).
   - _Coordinated Hunters._ Servants hunt in groups of three to six and communicate by gestures and clicks; Easy attacks when three or more flank a single target.
   - _Long Memory._ Once a creature has entered their domain, they remember it. Returning to the same palace decades later means meeting the same servants - and they know what worked last time.
 - **Morale:** Drives off when half their number have fallen, then returns the next night with the rest.
@@ -804,10 +804,10 @@ The last of an elder race that ruled the world before humanity rose from the mir
 - **Damage Modifier:** none
 - **Attacks (true form):** Bite 55% / 1D6+dm (Pierce, venomous - POT 12 vs CON, paralysis 1D6 rounds on failure); Talons 50% / 1D4+dm (Slash). In human form, weapons by choice (often a curved dagger 55% / 1D4+2, ceremonial robe over scaled hide).
 - **Special Abilities:**
-  - _Human Form._ A Serpent-Folk holds a glamour of any human form they have seen; they may impersonate a specific person if they have studied them. The glamour breaks under prolonged iron contact (§6.4) or on death.
-  - _Sorcery._ Treat each Serpent-Folk as a low-tier sorcerer (Sorcery 50%, two spells of choice from §6, 8 PP). The order's elders are mid-tier sorcerers (Sorcery 65%, four spells, 14 PP).
+  - _Human Form._ A Serpent-Folk holds a glamour of any human form they have seen; they may impersonate a specific person if they have studied them. The glamour breaks under prolonged iron contact (§7.4) or on death.
+  - _Sorcery._ Treat each Serpent-Folk as a low-tier sorcerer (Sorcery 50%, two spells of choice from §7, 8 PP). The order's elders are mid-tier sorcerers (Sorcery 65%, four spells, 14 PP).
   - _Cold Patience._ The Serpent-Folk think in centuries. A given individual's plan in any scenario is a small piece of a longer arc; killing the visible one does not stop the plan unless the players uncover what it serves.
-  - _Detected by See the Unseen._ The See the Unseen spell (§6) and the Witch Sight working both reveal the true form. A sorcerer who casts within line of sight of a disguised Serpent-Folk sees them clearly.
+  - _Detected by See the Unseen._ The See the Unseen spell (§7) and the Witch Sight working both reveal the true form. A sorcerer who casts within line of sight of a disguised Serpent-Folk sees them clearly.
 - **Morale:** Will not fight to the death if escape is possible. A Serpent-Folk that flees a fight reports back to the order, and the order has long memory.
 
 **Adventure Hooks:**

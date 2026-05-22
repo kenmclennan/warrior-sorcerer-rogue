@@ -27,18 +27,18 @@ The chapter source lives in `chapters/`. The links below open the markdown files
 - [1. Introduction](chapters/01-introduction.md)
 - [2. Character Creation](chapters/02-character-creation.md)
 - [3. Skills](chapters/03-skills.md)
-- [4. Action Resolution](chapters/04-action-resolution.md)
+- [4. System](chapters/04-system.md)
 - [5. Combat](chapters/05-combat.md)
-- [6. Sorcery](chapters/06-sorcery.md)
-- [7. Equipment](chapters/07-equipment.md)
+- [6. Spot Rules](chapters/06-spot-rules.md)
+- [7. Sorcery](chapters/07-sorcery.md)
+- [8. Equipment](chapters/08-equipment.md)
 
 **GM-facing**
 
-- [8. NPCs and Adversaries](chapters/08-npcs-and-adversaries.md)
-- [9. Bestiary](chapters/09-bestiary.md)
-- [10. NPC Sorcery and Patrons](chapters/10-npc-sorcery-and-patrons.md)
-- [11. Treasure and Artifacts](chapters/11-treasure-and-artifacts.md)
-- [12. Hazards and Spot Rules](chapters/12-hazards-and-spot-rules.md)
+- [9. NPCs and Adversaries](chapters/09-npcs-and-adversaries.md)
+- [10. Bestiary](chapters/10-bestiary.md)
+- [11. NPC Sorcery and Patrons](chapters/11-npc-sorcery-and-patrons.md)
+- [12. Treasure and Artifacts](chapters/12-treasure-and-artifacts.md)
 - [13. The Deep Past](chapters/13-the-deep-past.md)
 
 **Appendices**

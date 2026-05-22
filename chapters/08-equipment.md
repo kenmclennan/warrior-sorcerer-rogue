@@ -44,7 +44,7 @@ Each weapon entry lists:
 - **Damage:** Dice rolled, plus damage modifier (dm) where applicable. The dm is derived from STR and SIZ (see §2.3.1).
 - **SR (Strike Rank):** The weapon's position in the initiative sequence. Lower SR acts sooner.
 - **Hands:** 1H (one-handed), 2H (two-handed), or 1H/2H (can be used either way).
-- **ENC:** Encumbrance. See §11 for the encumbrance rules.
+- **ENC:** Encumbrance. See §12 for the encumbrance rules.
 - **HP:** The weapon's own hit points (for the purposes of parrying and weapon destruction).
 - **Parry:** Whether the weapon can be used to parry an incoming blow.
 - **STR/DEX:** Minimum STR and DEX required to use the weapon effectively. A character below these values takes a -20% penalty.
@@ -169,7 +169,7 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 **Bow, Composite:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
 
-**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See §12.2 for poison rules.
+**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See §6.2 for poison rules.
 
 **Bola and Lasso:** The bola entangles the target's legs on a hit (Difficult DEX roll or fall prone). It can also be used as a damaging throw (use the listed damage). The thrown lasso entangles on a hit; the target makes a Difficult STR or DEX roll to break free.
 
@@ -197,7 +197,7 @@ Superior weapons also tend to have slightly higher HP (add 2-4 at the GM's discr
 
 Armour provides **Armour Points (AP)** - a flat reduction applied to any damage the wearer takes before HP are subtracted. WSR uses a single AP value per armour piece, not per-location ratings. When a hit lands, subtract the armour's AP from the damage; the remainder reaches the wearer's HP.
 
-Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Climb, Brawl, Dodge, Move Quietly, Swim, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §12.1).
+Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Climb, Brawl, Dodge, Move Quietly, Swim, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §6.1).
 
 **Layering:** Soft armour (leather, padded, linen cuirass) may be worn under hard armour. Add their AP values. However, layering adds the ENC of both pieces, and any skill modifier from the outer armour is used at full (not combined). Layering hard armour under hard armour is impractical and not supported.
 
@@ -238,7 +238,7 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 
 **Cataphract Suit:** The heavy lamellar-and-scale armour of Persian and Sassanian elite cavalry. Full-body coverage achieved by layering lamellar plates over an under-suit of scale - the suit is heavy and exhausting to wear, but it turns most blows. At the GM's discretion, a complete cataphract suit may only be available in the great empires of the East.
 
-**Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (§6.4), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
+**Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (§7.4), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
 
 ### 3.4 Helmets
 
@@ -312,7 +312,7 @@ Iron is cheaper than bronze and more widely available - any village with bog ore
 - **Weapons and armour:** Mechanically identical to bronze.
 - **Cost:** One Cost tier cheaper than bronze (Average -> Inexpensive; Inexpensive -> Cheap; Cheap stays Cheap).
 
-Iron has one inherent property bronze lacks: it disrupts sorcery. See §12.1.
+Iron has one inherent property bronze lacks: it disrupts sorcery. See §6.1.
 
 ### 5.4 Steel
 
@@ -324,11 +324,11 @@ Steel - carburised iron, pattern-welded or crucible-forged - is the genuine tech
 
 Steel weapons and armour are rare. Most warriors never own one. Finding a steel piece is a meaningful event - the gleam of the steel is the master-craft signature.
 
-For the iron-vs-sorcery rule (§12.1), steel counts as iron. The sorcerous current finds the metal regardless of carbon content.
+For the iron-vs-sorcery rule (§6.1), steel counts as iron. The sorcerous current finds the metal regardless of carbon content.
 
 ### 5.5 Enchanted Iron and Steel
 
-An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in §11.
+An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in §12.
 
 ---
 
@@ -410,7 +410,7 @@ Items marked - for ENC weigh too little to track individually. Ten such items to
 | Lamp, Clay        | 1            | -   | 6 hours per oil flask | Cheap; fragile; burns olive oil          |
 | Lamp, Bronze      | 4            | -   | 6 hours per oil flask | More durable; steady flame               |
 | Lantern, Hooded   | 10           | 1   | 6 hours per oil flask | Directable beam; windproof               |
-| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see §12.4)    |
+| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see §6.4)     |
 | Torch             | -            | 1   | 1 hour                | Obvious; hard to hide; good bright light |
 
 A dash (-) in the Cost column means the item is too inexpensive to track by the Dram - a handful of coin covers it. Ten such items count as 1 Dram for purchasing purposes.
@@ -497,7 +497,7 @@ The prices below reflect standard market animals. War-trained animals - horses a
 
 **War Horse:** Trained to carry an armoured rider into combat and respond to knee pressure when the rider's hands are occupied. Untrained horses near combat must make a CON roll (Easy for loud noise, Average for combat nearby, Difficult for close melee) or bolt.
 
-**War Elephant:** Tramples, gores, and routs enemy troops and horses. Enemy troops (and horses) must make a Difficult Luck or Morale roll when first confronted with war elephants. A routing elephant turns on its own side. Requires dedicated handlers and a mahout specialist (see §10).
+**War Elephant:** Tramples, gores, and routs enemy troops and horses. Enemy troops (and horses) must make a Difficult Luck or Morale roll when first confronted with war elephants. A routing elephant turns on its own side. Requires dedicated handlers and a mahout specialist (see §11).
 
 **Move** descriptions: Very Slow = roughly half walking pace; Slow = walking pace; Normal = horse-and-rider pace at a sustainable canter; Fast = cavalry charge pace, sustainable for short distances only.
 
@@ -635,7 +635,7 @@ A flophouse is a shared floor and a questionable blanket. A decent inn has priva
 
 ### 11.1 The ENC System
 
-Encumbrance (ENC) measures the physical burden a character carries. It governs overload penalties and (for sorcerers) the iron-vs-sorcery calculation (see §12.1). Significant items count as 1 ENC or more; very small items individually count as negligible but accumulate.
+Encumbrance (ENC) measures the physical burden a character carries. It governs overload penalties and (for sorcerers) the iron-vs-sorcery calculation (see §6.1). Significant items count as 1 ENC or more; very small items individually count as negligible but accumulate.
 
 **ENC guidelines:**
 
@@ -693,6 +693,6 @@ Unenchanted iron is inimical to the sorcerous current.
 - Recharging: the creator (or any sorcerer who has attuned to the item) may transfer 1 PP per combat round from their own body to the artifact's reservoir. This is a concentration action.
 - The artifact's HP equals its SIZ characteristic. If destroyed, any POW invested in it is permanently lost.
 
-Full creation rules - ritual requirements, costs, and dangers - are in §11.
+Full creation rules - ritual requirements, costs, and dangers - are in §12.
 
 **Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §5.3). The enchantment is part of the binding process and is noted when the artifact is described.

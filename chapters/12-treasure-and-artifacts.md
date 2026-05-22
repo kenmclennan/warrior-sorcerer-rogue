@@ -10,7 +10,7 @@ This chapter covers what heroes find, what they can make, and what they might wi
 
 ### 1.1 Coin
 
-The four-tier coin system (see §7.1 for the full currency table) gives you an economy that feels ancient without becoming an accounting exercise.
+The four-tier coin system (see §8.1 for the full currency table) gives you an economy that feels ancient without becoming an accounting exercise.
 
 | Coin   | Metal         | Approx. Value                                  |
 | ------ | ------------- | ---------------------------------------------- |
@@ -110,8 +110,8 @@ For improvised treasure when the party searches an unexpected place:
 | ---- | ------------------------------------------------------------ |
 | 2-4  | Dust and disappointment; the tomb was already looted         |
 | 5-6  | 2D6 Drams worth of antique coin, corroded and stuck together |
-| 7-8  | A small art object (roll §1.3), corroded but restorable      |
-| 9-10 | 1D6 gems (roll §1.2 twice, take the better result)           |
+| 7-8  | A small art object (roll §12.1.3), corroded but restorable   |
+| 9-10 | 1D6 gems (roll §12.1.2 twice, take the better result)        |
 | 11   | An art object plus 2D6 Staters in old coin                   |
 | 12   | A minor artifact or a named gem - something worth the risk   |
 
@@ -119,7 +119,7 @@ For improvised treasure when the party searches an unexpected place:
 
 ## 2. Artifact Creation
 
-An artifact is any item into which a sorcerer has permanently bound one or more sorcery spells - a piece of vital force crystallised in metal, stone, or bone that does not fade when the sorcerer sleeps. These rules expand on §7.12.2. Artifacts belong to the GM's world: who made it, what it cost, who wants it back, what happens when it is destroyed.
+An artifact is any item into which a sorcerer has permanently bound one or more sorcery spells - a piece of vital force crystallised in metal, stone, or bone that does not fade when the sorcerer sleeps. These rules expand on §8.12.2. Artifacts belong to the GM's world: who made it, what it cost, who wants it back, what happens when it is destroyed.
 
 ### 2.1 The Fundamental Costs
 
@@ -131,7 +131,7 @@ Creating an artifact requires three things: time, permanent POW, and a specific 
 
 **The ritual:** Creating an artifact is not a standard casting. It requires:
 
-- A dedicated working space (the creator's laboratory, a ritual circle, or a place of sorcerous significance). The Brazier of Power (see §10.6) provides the ideal environment.
+- A dedicated working space (the creator's laboratory, a ritual circle, or a place of sorcerous significance). The Brazier of Power (see §11.6) provides the ideal environment.
 - Time equal to one day per spell being bound, spent in uninterrupted focus.
 - A successful Knowledge (Occult) roll for each spell being bound. Each roll is made separately. A failure means that spell's binding fails - the POW is still sacrificed, but the spell is not bound. The creator knows immediately. They may attempt a second binding on the same item for the same spell, paying the POW cost again.
 - Components appropriate to the item and the spell - a sword being bound with Hell's Razor needs blood shed during the working; an amulet being bound with Inescapable Bonds needs cord woven from the hair of someone successfully bound.
@@ -142,11 +142,11 @@ Creating an artifact requires three things: time, permanent POW, and a specific 
 
 Anyone can use a properly keyed artifact, not only sorcerers. The user activates what the creator has already bound - no casting required.
 
-**Activation:** To activate a spell bound in an artifact, the user concentrates for one combat round (a full action) and draws on the artifact's PP reservoir. The artifact deducts the spell's standard PP cost from its own reservoir. The effect triggers on Phase Two of the next round (same timing as standard sorcery, per §6.2.3).
+**Activation:** To activate a spell bound in an artifact, the user concentrates for one combat round (a full action) and draws on the artifact's PP reservoir. The artifact deducts the spell's standard PP cost from its own reservoir. The effect triggers on Phase Two of the next round (same timing as standard sorcery, per §7.2.3).
 
 **Who can attune:** Physical contact for one uninterrupted hour plus a successful POW roll. No PP cost. Multiple people can be attuned; the creator is always considered attuned.
 
-**Iron artifacts:** The binding process harmonises iron with the sorcerous current, removing the iron-vs-sorcery penalty (§7.12.1) for creator and attuned users while the artifact has at least 1 PP. At 0 PP it reverts to disruptive iron until recharged.
+**Iron artifacts:** The binding process harmonises iron with the sorcerous current, removing the iron-vs-sorcery penalty (§8.12.1) for creator and attuned users while the artifact has at least 1 PP. At 0 PP it reverts to disruptive iron until recharged.
 
 ### 2.3 Recharging
 
@@ -156,7 +156,7 @@ Non-sorcerers cannot recharge artifacts - without a sorcerer to maintain them, t
 
 ### 2.4 Enchanting Iron
 
-Iron can be harmonised with the sorcerous current only through the artifact-creation process, consecrating it to a specific patron or principle. Requires the creator to have a patron (§6.3.2) and costs 1 additional permanent POW beyond the normal cost. See §7.5.3 for the enchanted iron rule.
+Iron can be harmonised with the sorcerous current only through the artifact-creation process, consecrating it to a specific patron or principle. Requires the creator to have a patron (§7.3.2) and costs 1 additional permanent POW beyond the normal cost. See §8.5.3 for the enchanted iron rule.
 
 An iron artifact that runs dry reverts to disruptive iron immediately.
 
@@ -166,7 +166,7 @@ Reduce an artifact's HP to 0 to destroy it. An artifact's HP equals its SIZ (a b
 
 When destroyed, the POW invested is permanently lost - the creator's POW does not recover, ever. The PP reservoir disperses instantly.
 
-Artifacts take damage through normal object mechanics (a sword artifact is damaged by a successful enemy parry, not casual attack). Deliberate destruction requires targeting the object specifically - use the Damaging Objects rules from §12.
+Artifacts take damage through normal object mechanics (a sword artifact is damaged by a successful enemy parry, not casual attack). Deliberate destruction requires targeting the object specifically - use the Damaging Objects rules from §6.
 
 ### 2.6 Artifacts in the GM's Hands
 
@@ -189,7 +189,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Form:** A short bronze dagger, single-edged, with a wavy blade. The grip is wrapped in cured skin of unidentifiable origin. The crossguard is shaped like a serpent with its jaws open.
 
-**Bound spell:** Hell's Razor (1 PP to activate; see §6.5).
+**Bound spell:** Hell's Razor (1 PP to activate; see §7.5).
 
 **Effect:** When activated, the blade holds a sorcerous edge beyond natural sharpness. The dagger deals its damage as if it were a superior-quality weapon (+20% to attack skill, for the remainder of the activation's duration). Additionally, any wound inflicted while Hell's Razor is active does not naturally stop bleeding - the victim loses 1 additional HP per round until the wound is treated (First Aid or Medicine roll, Difficulty: Standard).
 
@@ -227,7 +227,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Inescapable Bonds (3 PP) and Cloak of Night (1 PP per intensity level).
 
-**Effect:** Inescapable Bonds, when activated through the ring, works on targets within Medium range without requiring the ring-wearer to have line of sight - the bonds erupt from the ground. Cloak of Night works as described in §6.5 but specifically generates a cold, wet-smelling dark that smells of deep water and tar.
+**Effect:** Inescapable Bonds, when activated through the ring, works on targets within Medium range without requiring the ring-wearer to have line of sight - the bonds erupt from the ground. Cloak of Night works as described in §7.5 but specifically generates a cold, wet-smelling dark that smells of deep water and tar.
 
 **Cost to use:** Standard PP from the reservoir.
 
@@ -281,7 +281,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Fury (1 PP), Muddle (1 PP per target), and Pox (1 PP).
 
-**Effect:** Fury activates on the wearer, inducing berserker state (per §6.5). Muddle and Pox affect targets within the wearer's sight. While any of the three spells are active simultaneously, the discs turn face-outward and the screaming faces become audible - not loudly, but to everyone near the wearer.
+**Effect:** Fury activates on the wearer, inducing berserker state (per §7.5). Muddle and Pox affect targets within the wearer's sight. While any of the three spells are active simultaneously, the discs turn face-outward and the screaming faces become audible - not loudly, but to everyone near the wearer.
 
 **Cost to use:** Standard PP from the reservoir.
 
@@ -299,7 +299,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Ward (3 PP) and Summon (bound pattern, see below).
 
-**Effect:** When opened and a handful of salt scattered in a circle, Ward activates automatically (no action required) creating a sorcerous ward around the circle at no PP cost. The jar maintains a permanent slow-burn Ward with its own PP. The second binding is unusual: the Jar contains a partial binding pattern for a Lesser Demon of the Shallow Waters (see §9.4 for base statistics). Scattering salt in standing water activates the summons at a cost of 6 PP. The demon arrives but is not bound - the binding must still be negotiated normally. The salt gives the summoner a +10% to their first Knowledge (Occult) roll in the negotiation only.
+**Effect:** When opened and a handful of salt scattered in a circle, Ward activates automatically (no action required) creating a sorcerous ward around the circle at no PP cost. The jar maintains a permanent slow-burn Ward with its own PP. The second binding is unusual: the Jar contains a partial binding pattern for a Lesser Demon of the Shallow Waters (see §10.4 for base statistics). Scattering salt in standing water activates the summons at a cost of 6 PP. The demon arrives but is not bound - the binding must still be negotiated normally. The salt gives the summoner a +10% to their first Knowledge (Occult) roll in the negotiation only.
 
 **Cost to use:** The Ward is always active while the jar has PP. The summons costs 6 PP.
 
@@ -317,7 +317,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Hammer of the Gods (2 PP), Chain of Being (4 PP), and Undo Sorcery (1-4 PP, variable).
 
-**Effect:** All three spells function as standard (per §6.5). The Staff functions as a standard staff in combat (see §7.2.2 for Staff, Quarter stats). While the sorcerer holds the Staff and has it charged, the Corruption cost for casting Chain of Being is waived - the Staff absorbs the burden of the communal working.
+**Effect:** All three spells function as standard (per §7.5). The Staff functions as a standard staff in combat (see §8.2.2 for Staff, Quarter stats). While the sorcerer holds the Staff and has it charged, the Corruption cost for casting Chain of Being is waived - the Staff absorbs the burden of the communal working.
 
 **Cost to use:** Standard PP for each spell. The Corruption waiver applies only while the Staff is held.
 
@@ -371,13 +371,13 @@ A cursed item is not a bad magic item. It is a trap wearing the shape of treasur
 
 ### 4.1 Identifying Cursed Items
 
-Witch Sight (§6.5) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Blasphemous Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
+Witch Sight (§7.5) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Blasphemous Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
 
 The most reliable method is reputation. Cursed items have histories, and those histories circulate.
 
 ### 4.2 Removing a Curse
 
-Curses do not lift when the item is dropped. They lift when their specific release condition is met - which the GM knows and the player typically does not. The general process: identify the curse pattern (Knowledge (Blasphemous Lore)), determine the release condition (research, patron knowledge, a specialist sorcerer), fulfil it. Undo Sorcery (§6.5) suppresses a curse for the caster's POW in hours but cannot remove it permanently.
+Curses do not lift when the item is dropped. They lift when their specific release condition is met - which the GM knows and the player typically does not. The general process: identify the curse pattern (Knowledge (Blasphemous Lore)), determine the release condition (research, patron knowledge, a specialist sorcerer), fulfil it. Undo Sorcery (§7.5) suppresses a curse for the caster's POW in hours but cannot remove it permanently.
 
 ---
 

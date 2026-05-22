@@ -15,7 +15,7 @@ To create a character follow these steps
 9. **Determine Magical Abilities**: POW check; patron decision; starting spell; Corruption (sorcerer-archetype only)
 10. **Determine Starting Equipment**: Take the profession kit; spend starting coin
 
-After all ten steps: answer the Background Questions (§12), agree one significant possession with a story attached (§12.1), and finalise the character sheet (§13).
+After all ten steps: answer the Background Questions (§6), agree one significant possession with a story attached (§6.1), and finalise the character sheet (§13).
 
 ## 2. Step 1: Characteristics
 
@@ -87,7 +87,7 @@ The damage modifier applies to all melee and thrown weapon attacks. For thrown a
 
 ### 3.4 Movement Rate
 
-**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See §12.8 for chase rules.
+**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See §6.8 for chase rules.
 
 ### 3.5 Experience Bonus
 
@@ -240,7 +240,7 @@ Profession is what the character did. The profession provides a starting skill b
 
 **Heroic profession skill points:** Add 325 points distributed across the twelve profession skills. The maximum starting rating for any skill is 75%. Remaining points after all skills are allocated are lost - they cannot be converted to personal skill points or held over.
 
-**Wealth tier:** Each profession lists a starting wealth tier (see §7.1.2).
+**Wealth tier:** Each profession lists a starting wealth tier (see §8.1.2).
 
 **Profession skill bundles are suggestions, not locks.** The profession bundle covers the baseline; Personal Skill points (Step 5) fill out the rest.
 
@@ -273,7 +273,7 @@ Sailor and warrior in one. Raids coastal settlements, knows how to fight on a ro
 A product of urban crime: picking pockets, casing houses, working with fences, and knowing which rooftops connect to which alleys. Has contacts in the underworld and the specific anxiety of someone who lives inside the law's reach.
 
 **Wealth:** Poor
-**Reputation start:** 5% (higher if notorious; see §8)
+**Reputation start:** 5% (higher if notorious; see §9)
 **Profession skills:** Bargain, Climb, Disguise, Dodge, Etiquette (Thieves' Guild), Fine Manipulation, Hide, Insight, Sleight of Hand, Spot, Move Quietly, one of: Fast Talk / Persuade
 
 ### Wayfarer
@@ -324,7 +324,7 @@ The sorcerer-archetype profession. A trained researcher in forbidden knowledge: 
 **Reputation start:** 10% (higher if their activities are known)
 **Profession skills:** Disguise, Hide, Knowledge (Occult), Language (one additional), Literacy (one script), Perform (Ritual), Research, Sense, Sorcery, Spot, Move Quietly, one of: Insight / Bargain / Craft (Apothecary)
 
-> **Sorcery as a skill:** The Sorcery skill governs the sorcerer's ability to perform resistance-table-relevant actions during spellcasting and ritual work. It is not a casting-success roll (casting is automatic given PP and time - see §6.2.1) but a modifier for contested workings: Resistance Table rolls use the sorcerer's current PP total against the target's POW. Sorcery skill as a complementary bonus applies when the GM rules that technique is meaningfully at stake.
+> **Sorcery as a skill:** The Sorcery skill governs the sorcerer's ability to perform resistance-table-relevant actions during spellcasting and ritual work. It is not a casting-success roll (casting is automatic given PP and time - see §7.2.1) but a modifier for contested workings: Resistance Table rolls use the sorcerer's current PP total against the target's POW. Sorcery skill as a complementary bonus applies when the GM rules that technique is meaningfully at stake.
 
 ### Outcast
 
@@ -556,13 +556,13 @@ This step applies **only to characters who have chosen the Scholar of the Dark A
 
 A sorcerer-archetype character must have POW 16 or higher. If the character's rolled POW is 15 or below after redistribution, they do not qualify. Either redistribute (if a point is available) or choose a different profession.
 
-A character who qualifies may also use the **Sorcerous Heritage** option (§6.1.4): permanently reduce STR, CON, or CHA by 2 points each to gain 1 point of POW, up to a maximum of POW 21. This trade is irreversible and visible.
+A character who qualifies may also use the **Sorcerous Heritage** option (§7.1.4): permanently reduce STR, CON, or CHA by 2 points each to gain 1 point of POW, up to a maximum of POW 21. This trade is irreversible and visible.
 
 ### 10.2 Starting Spells
 
-The starting sorcerer knows a number of spell levels equal to **half their INT, rounded up.** A sorcerer with INT 16 knows spell levels totalling 8 - for example, four spells of level 2 each, or two spells of level 3 and two of level 1. All starting spells are memorised and immediately available (see §6.2.4).
+The starting sorcerer knows a number of spell levels equal to **half their INT, rounded up.** A sorcerer with INT 16 knows spell levels totalling 8 - for example, four spells of level 2 each, or two spells of level 3 and two of level 1. All starting spells are memorised and immediately available (see §7.2.4).
 
-Choose starting spells from the spell list in §6.6. The GM may restrict certain spells at character generation; spells involving Greater Demons or direct patron contact are typically learned in play, not at creation.
+Choose starting spells from the spell list in §7.6. The GM may restrict certain spells at character generation; spells involving Greater Demons or direct patron contact are typically learned in play, not at creation.
 
 ### 10.3 The Patron Compact (Optional)
 
@@ -572,8 +572,8 @@ A starting sorcerer may choose to have already entered a patron compact. This is
 
 1. Name the patron or describe its nature (demon lord, chaos power, dead god, old elemental intelligence). The specifics are yours and the GM's to develop.
 2. Record **Patron Score = 1D6+5** (roughly 6-11 at creation).
-3. You receive the patron's PP reserve benefit and Patron Intercession access as described in §6.3.2.
-4. The patron is watching from the start. High Patron Scores draw attention; see §10 for what patrons actually want.
+3. You receive the patron's PP reserve benefit and Patron Intercession access as described in §7.3.2.
+4. The patron is watching from the start. High Patron Scores draw attention; see §11 for what patrons actually want.
 
 **If you do not take a patron:**
 Record Patron Score as **None.** The option to enter a compact later remains open - it is a story event, not a character generation lock.
@@ -582,13 +582,13 @@ Record Patron Score as **None.** The option to enter a compact later remains ope
 
 All sorcerers start with **Corruption = POW x5.** This is the full track; it has not been reduced by anything at creation.
 
-If the character has Knowledge (Blasphemous Lore) from their profession bundle or personal skill points, apply the cap immediately: the maximum Corruption is reduced by 1 point for every 1% of Knowledge (Blasphemous Lore) the character already has (§6.3.3).
+If the character has Knowledge (Blasphemous Lore) from their profession bundle or personal skill points, apply the cap immediately: the maximum Corruption is reduced by 1 point for every 1% of Knowledge (Blasphemous Lore) the character already has (§7.3.3).
 
 Record the starting Corruption total, the Blasphemous Lore cap if applicable, and the Breaking Point (half the starting value).
 
 ### 10.5 Starting Grimoire
 
-Every sorcerer begins with a grimoire containing their starting spells. Choose the grimoire's format from the options in §6.5.1. Note that the format implies something about the character's background:
+Every sorcerer begins with a grimoire containing their starting spells. Choose the grimoire's format from the options in §7.5.1. Note that the format implies something about the character's background:
 
 - A codex implies formal learning or a wealthy patron.
 - A scroll implies mobility and concealment.
@@ -631,7 +631,7 @@ The coin listed above is the character's current working funds. Characters of Af
 
 ### 11.3 Additional Equipment
 
-After the profession kit, characters may purchase additional equipment from §7 using their starting coin. The GM may rule that certain items are unavailable at the campaign's starting location.
+After the profession kit, characters may purchase additional equipment from §8 using their starting coin. The GM may rule that certain items are unavailable at the campaign's starting location.
 
 ## 12. Background Questions
 

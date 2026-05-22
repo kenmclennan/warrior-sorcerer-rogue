@@ -4,7 +4,7 @@
 
 Stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and elementals, plus the Chaotic Features table for generating unique demons and mutated things. Stat blocks are GM-side only; players encounter these creatures through description and dice, not foreknowledge.
 
-Read §5 for the combat rules these stat blocks reference. Demons tie back to §6.7 (player-side summoning) and §10 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in §10.
+Read §5 for the combat rules these stat blocks reference. Demons tie back to §7.7 (player-side summoning) and §11 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in §11.
 
 ---
 
@@ -14,7 +14,7 @@ Read §5 for the combat rules these stat blocks reference. Demons tie back to §
 
 **HP** - (CON + SIZ) / 2, round up, unless stated otherwise. 0 HP = dying or dead. A wounded creature continues to act normally until HP reaches 0 - the GM may narrate slowing, staggering, or fleeing as the fiction suggests, but no special threshold triggers.
 
-**Bestiary HP and the PC/NPC formula split.** §2.3.1 and §8.1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
+**Bestiary HP and the PC/NPC formula split.** §2.3.1 and §9.1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
 
 ### 1.2 Named Creatures
 
@@ -753,7 +753,7 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
 
 Demons are entities of the outer dark - not from this world, not concerned with its values, fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
 
-For GM demon design tools, patron relationships, and what happens when a binding breaks, see §10. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with §6.7. When a demon appears, it should feel like a significant event.
+For GM demon design tools, patron relationships, and what happens when a binding breaks, see §11. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with §7.7. When a demon appears, it should feel like a significant event.
 
 ### 5.1 Lesser Demon
 
@@ -779,7 +779,7 @@ _The thing crouched at the edge of the circle's light, gargoyle-thin, its wings 
 - **Special Abilities:**
   - _Spells._ Lesser demons may know spells if their POW is sufficient (POW 12+). Common selections: Midnight, Pox of the Sorcerer, and up to 2 others appropriate to the demon's nature. A sorcerer who researches a specific demon before summoning may determine what spells it knows and request a particular loadout during bargaining.
   - _Bargaining._ A lesser demon wants to remain in this world. It will negotiate, trade information, and perform services in exchange for the security of a binding or simply being left to go free. Skills: Bargain 55%, Fast Talk 40%.
-  - _Chaotic Features._ A lesser demon may have 1D3 features from the Chaotic Features table (§7). Roll or select to make each demon distinct.
+  - _Chaotic Features._ A lesser demon may have 1D3 features from the Chaotic Features table (§8). Roll or select to make each demon distinct.
 - **Morale:** Avoids direct combat unless bound and commanded, or cornered. Prefers negotiation.
 
 ### 5.2 Greater Demon
@@ -812,7 +812,7 @@ _It came through the smoke of the summoning circle smelling of old metal and unf
   - _Regeneration._ The demon regains 1D6 HP per round. This regeneration is not stopped by fire (which it is immune to) but is stopped by silver or by sorcerous working specifically aimed at suppressing it.
   - _Sheath of Smoke and Fire._ Costs 1 PP per round to maintain. Any creature within 2 metres of the demon takes 1D6 fire damage at the end of each Phase Four. Additionally, wooden missile weapons striking the demon have a 50% chance to ignite and deal no damage (they burn up on contact).
   - _Spells._ Greater demons know sorcery. A typical greater demon knows 2D6 spells. Ancient, powerful specimens may know nearly every spell in the list. They cast from the same PP pool (typically 17) and suffer the standard PP depletion.
-  - _Corruption from Presence._ See §6.3.3 (Encountering a Greater Demon unbound: 1D3 / 1D6 Corruption).
+  - _Corruption from Presence._ See §7.3.3 (Encountering a Greater Demon unbound: 1D3 / 1D6 Corruption).
 - **Morale:** Does not retreat while bound (the binding prevents it). Unbound, it retreats only if its destruction seems probable - which takes considerable firepower. It does not forget. It comes back.
 
 ### 5.3 Yog-Hath the Devourer (Sample Named Greater Demon)
@@ -842,7 +842,7 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
   - _POW Drain._ On a successful Grapple, Yog-Hath drains 1D6 POW permanently from the target. POW drained this way replenishes Yog-Hath's PP pool but is not recovered by the target without extraordinary sorcerous intervention.
   - _True Binding Resistance._ Binding Yog-Hath costs 3 permanent POW (not 1) and requires the target to fail a POW resistance roll against Yog-Hath's full POW (28). Failure to bind Yog-Hath after summoning it is likely to ruin the sorcerer's week.
   - _Knows the Names._ Yog-Hath knows the true names of 1D10 lesser demons currently bound in the world. It may use these names as leverage in negotiations, or to interfere with another sorcerer's bindings.
-  - _Spells._ Knows all 29 spells in §6.6. Casts using a PP pool of 28.
+  - _Spells._ Knows all 29 spells in §7.6. Casts using a PP pool of 28.
 - **Demands in Summoning:** The ritual requires the sorcerer to offer a personal item of significant value (not monetary - emotional), a quantity of their own blood, and 6 hours of uninterrupted preparation. Yog-Hath arrives curious, not hostile. Its opening demand is typically a sorcerer it knows about, delivered into its reach. It negotiates from there.
 
 ---
@@ -851,7 +851,7 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
 
 An elemental is not a demon. It does not negotiate, does not have a personal agenda, and has no interest in binding. It is a vast and focused intelligence that is also, essentially, a large portion of a primal element made semi-coherent. This does not make it safe.
 
-Elementals are summoned via the Summon Elemental working (§10). Each is a distinct entity - a particular surge of fire, a column of earth - not a type of creature with interchangeable members. The elemental called tonight is new; it does not remember being called before. Elementals do not value human life, property, or time. An elemental given direction by a sorcerer will pursue that direction; when it has completed the task or the binding expires, anything in its way back to its element is not its concern.
+Elementals are summoned via the Summon Elemental working (§11). Each is a distinct entity - a particular surge of fire, a column of earth - not a type of creature with interchangeable members. The elemental called tonight is new; it does not remember being called before. Elementals do not value human life, property, or time. An elemental given direction by a sorcerer will pursue that direction; when it has completed the task or the binding expires, anything in its way back to its element is not its concern.
 
 The "sylph," "gnome," "salamander," "undine" labels are names given by scholars who needed to call them something. The elementals neither know nor care.
 

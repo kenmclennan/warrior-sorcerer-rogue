@@ -23,7 +23,7 @@ Declarations are intentions, not contracts. A character may change their action 
 
 ### 1.2 Phase Two: Powers
 
-Spells and power-based abilities resolve in DEX order. A spell takes effect before melee strikes in Phase Three, unless the caster is interrupted (see §6.5).
+Spells and power-based abilities resolve in DEX order. A spell takes effect before melee strikes in Phase Three, unless the caster is interrupted (see §7.5).
 
 ### 1.3 Phase Three: Action
 
@@ -90,7 +90,7 @@ A defender may attempt to dodge instead of parrying. Roll the Dodge skill. The s
 
 A Critical attack that lands against a defender who failed to defend (or was not defended) deals maximum damage and ignores armour entirely. A defender who parried or dodged successfully against a Critical reduces the result to a standard Success - the attack still strikes, but armour applies and damage is halved.
 
-When a critical attack lands and there is no successful defence: determine the severity band from the matching-dice value and damage type, then look up the result in §A1. See §8 for how to read the crit tables.
+When a critical attack lands and there is no successful defence: determine the severity band from the matching-dice value and damage type, then look up the result in §A1. See §9 for how to read the crit tables.
 
 ### 3.6 Fighting Defensively
 
@@ -139,7 +139,7 @@ Each weapon lists a damage dice expression. The attacker rolls this dice, adds t
 
 Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from damage before applying to HP. If the reduction brings damage to 0 or below, no HP are lost - but the impact still occurred.
 
-**Armour disadvantages.** Armour imposes skill penalties on Agility, Move Quietly, Swim, Climb, and Perception skills as listed in the equipment tables (see §7.3). It is also socially conspicuous: arriving at a merchant's hall in full bronze scales makes certain conversations difficult.
+**Armour disadvantages.** Armour imposes skill penalties on Agility, Move Quietly, Swim, Climb, and Perception skills as listed in the equipment tables (see §8.3). It is also socially conspicuous: arriving at a merchant's hall in full bronze scales makes certain conversations difficult.
 
 **Armour fit.** Armour is sized for its original wearer. Armour that does not fit (different SIZ) imposes an additional -20% penalty on all physical skills and halves its AV.
 
@@ -159,7 +159,7 @@ Damage is subtracted from current HP. Combat continues at any positive HP - the 
 
 **Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
 
-**Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§9): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (§4.7). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
+**Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§10): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (§4.7). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
 
 ### 5.2 Healing
 
@@ -175,7 +175,7 @@ First Aid applied immediately after a wound heals 1D4 HP (Critical: 2D4 HP) and 
 
 Medicine skill applied in proper conditions heals 1D4 HP or restores 1 point to a reduced characteristic per treatment (Critical: 2D4 HP, or 1D3 to a characteristic). Medicine cannot be applied in the middle of combat.
 
-Sorcerous healing exists as rare, costly spells in the sorcery list (see §6.3). It is never the default recovery path, and it pays its own price.
+Sorcerous healing exists as rare, costly spells in the sorcery list (see §7.3). It is never the default recovery path, and it pays its own price.
 
 ---
 
@@ -219,7 +219,7 @@ When a character is attacked by more opponents than they have parry and dodge at
 
 A sorcerer struck before Phase Two resolves must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if they act first. Disengage first or accept the risk.
 
-See §6.2 for full sorcery casting rules.
+See §7.2 for full sorcery casting rules.
 
 ### 6.6 Close Combat and Weapon Length
 
@@ -247,7 +247,7 @@ For every 5 DEX ranks spent delaying, add +10% to the attack skill, up to the ba
 
 ## 7. Damage Types
 
-WSR weapons deal one of four damage types. Type determines which critical hit table is consulted in §A1 when a critical attack lands. Type also affects armour interactions (some armours protect better against some types - see §7 Equipment) and certain talents and creature abilities that react to specific types.
+WSR weapons deal one of four damage types. Type determines which critical hit table is consulted in §A1 when a critical attack lands. Type also affects armour interactions (some armours protect better against some types - see §8 Equipment) and certain talents and creature abilities that react to specific types.
 
 ### 7.1 Slashing (swords, axes, daggers, claws)
 
@@ -283,7 +283,7 @@ A Rabble is never a named character. The moment an NPC becomes plot-relevant or 
 
 **Rabble have no Fate Point access.** They cannot spend PP on any option from the menu in §4.7.
 
-For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see §8.1.
+For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see §9.1.
 
 ---
 
@@ -339,4 +339,4 @@ Within the damage type table and severity band column, roll 1D100 and read the r
 
 **Rabble inflicting criticals.** A Rabble who rolls matching dice within their skill (or rolls 01) inflicts a critical normally. The PC may defend; if the attack lands, the standard §A1 table is consulted, full damage applies, and armour is ignored. Rabble cannot Critical Buy (no Fate Point access), and their natural skill cap (typically 30-50%) limits them to Band A or B - an exceptionally-skilled Rabble at skill 50+ may reach Band C, but Bands D and E require skill 66+ and 88+ respectively, which is above the tier's design envelope.
 
-**Rabble receiving criticals.** Rabble do not consult the crit tables when struck. A critical hit deals full damage ignoring armour; if this reaches the incapacitation threshold (§8), the Rabble is done. The crit table may be consulted for descriptive colour only.
+**Rabble receiving criticals.** Rabble do not consult the crit tables when struck. A critical hit deals full damage ignoring armour; if this reaches the incapacitation threshold (§9), the Rabble is done. The crit table may be consulted for descriptive colour only.

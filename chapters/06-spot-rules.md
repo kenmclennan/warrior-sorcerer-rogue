@@ -1,4 +1,4 @@
-# Hazards and Spot Rules
+# Spot Rules
 
 > _"The desert has its own laws, older and crueller than the laws of men."_
 > _- Robert E. Howard_
@@ -69,7 +69,7 @@ The following are representative ancient-world poisons for GM use. POT values as
 | Viper venom                 | 9      | Slow  | HP damage; CON roll or severe swelling, -1D3 STR                            | Desert asp; common in ruins and grain stores.                                                |
 | Scorpion sting              | 6      | Fast  | HP damage; failed CON roll = muscle spasms, actions Difficult for 1D6 hours | Large desert scorpions may reach POT 10.                                                     |
 | Stonefish toxin             | 12     | Fast  | Agonising HP damage; failed CON roll = unconscious 1D6 hours                | Coastal/river encounters; wound site turns black.                                            |
-| Spider venom (large)        | 8      | Slow  | HP damage; CON roll or paralysis for 1D6 hours                              | Giant spiders (Bestiary §9.2) inflict POT 10-14.                                             |
+| Spider venom (large)        | 8      | Slow  | HP damage; CON roll or paralysis for 1D6 hours                              | Giant spiders (Bestiary §10.2) inflict POT 10-14.                                            |
 | Ergot (grain contamination) | 6      | Slow  | Delirium, Shakes (as disease onset); cumulative with repeated exposure      | Affects whole groups if a food supply is contaminated.                                       |
 | Black lotus extract         | 16     | Slow  | HP damage; failed CON roll = coma for 1D6 days                              | Extremely rare, sorcerer-adjacent. The GM may add Corruption implications for the harvester. |
 | Alchemical acid             | varies | Fast  | HP damage to flesh; armour degraded 1 point per round of contact            | See §4 for full fire/acid rules. POT equals the 1D6 type used.                               |
@@ -103,9 +103,9 @@ These produce intentional effects: alertness, fearlessness, dreams, hallucinatio
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------- |
 | White Ash of Khundar  | Suppresses fatigue and the need for sleep for 12 hours. After the effect ends, the user makes POT 6 vs CON; failure means 1D3 CON loss, recovering 1/day with rest. Addictive.                                                                           | Mountain plant; uncommon    | Average   |
 | Tears of the Wolf-God | Battle rage. After ingestion, +20% to all melee skill rolls and immunity to fear for 1D6 rounds. The user cannot parry, dodge, or cast during the rage. When it ends, the user is exhausted (Stamina rolls every round or fall unconscious).             | Barbaric ritual drink; rare | Average   |
-| Lotus Dust            | Inhaled or eaten. Target makes POT 12 vs CON; failure means deep sleep for 1D6 hours - matching the Slumber of the Lotus spell (§6). The sleeper does not wake to ordinary noise. Strongly addictive after three uses.                                   | Lotus harvest; uncommon     | Average   |
+| Lotus Dust            | Inhaled or eaten. Target makes POT 12 vs CON; failure means deep sleep for 1D6 hours - matching the Slumber of the Lotus spell (§7). The sleeper does not wake to ordinary noise. Strongly addictive after three uses.                                   | Lotus harvest; uncommon     | Average   |
 | Dream-Reed Vapour     | Burned, inhaled. The user receives a vision pertaining to one question held in mind. The GM narrates a fragment of truth - never a complete answer. POT 10 vs CON: failure means 1 Corruption (sorcerers) or -1 INT for 1D6 hours (non-sorcerers).       | Black-river reeds; rare     | Expensive |
-| Iron-blood Tincture   | Drunk by witch-hunters and paranoid kings. For 1 hour after ingestion, all iron and steel the user carries counts as if doubled in ENC for the iron-vs-sorcery rule (§7.12.1). Effectively a -10% per ENC iron penalty to any sorcerer the user opposes. | Bitter draught; uncommon    | Average   |
+| Iron-blood Tincture   | Drunk by witch-hunters and paranoid kings. For 1 hour after ingestion, all iron and steel the user carries counts as if doubled in ENC for the iron-vs-sorcery rule (§8.12.1). Effectively a -10% per ENC iron penalty to any sorcerer the user opposes. | Bitter draught; uncommon    | Average   |
 | Moth-Wing Dust        | Applied to a blade. On a successful hit that breaks skin, target makes POT 8 vs CON; failure means vivid hallucinations for 1D6 rounds during which the target cannot distinguish allies from enemies and attacks the nearest figure.                    | Pale moths; rare            | Expensive |
 
 ### 3.3 Addiction

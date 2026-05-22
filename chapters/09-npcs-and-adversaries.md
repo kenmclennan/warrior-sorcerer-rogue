@@ -39,7 +39,7 @@ Named antagonists are PC-grade characters: individuals with full stat blocks, Fa
 
 **Mechanical profile.** Build named antagonists exactly as you would build a PC (see §2 for the chargen procedure). All the same rules apply: characteristics, derived stats, skills, talents, passions, reputation. **HP uses the full PC formula: CON + SIZ** (not the half formula used by Rabble and Professionals). The GM version of a named antagonist has full Fate Point access - their Power Points can fund defensive spends, and they will use them when the stakes are high enough.
 
-For sorcerer-villain antagonists, apply the full Sorcery rules from §6. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in §10 (NPC Sorcery and Patrons); the stat blocks in §5 of this chapter include a worked example.
+For sorcerer-villain antagonists, apply the full Sorcery rules from §7. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in §11 (NPC Sorcery and Patrons); the stat blocks in §5 of this chapter include a worked example.
 
 ---
 
@@ -188,15 +188,15 @@ The villain's PP are the GM's primary pacing tool. Decide at session prep how ma
 
 ### 4.3 Sorcerer Antagonists
 
-Sorcerer-villain antagonists have a Corruption track and may have a Patron Score. Use the full mechanics from §6 for their sorcery. Additionally:
+Sorcerer-villain antagonists have a Corruption track and may have a Patron Score. Use the full mechanics from §7 for their sorcery. Additionally:
 
 **Spells in memory.** Two or three spells, total levels not exceeding half INT (consistent with the PC rule in §2.10.2).
 
-**Casting under pressure.** Sorcerer antagonists follow §6.2 and share the combat interruption risk (§5.6.5). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
+**Casting under pressure.** Sorcerer antagonists follow §7.2 and share the combat interruption risk (§5.6.5). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
 
 **Corruption as a signal.** Corruption level shows how far the sorcerer has gone. Near the Breaking Point means they have sold something fundamental - let that show in their behaviour and decisions.
 
-Cross-reference §10 for patron design, ritual magic, and demon binding. This chapter provides the stat block; §10 provides what is behind it.
+Cross-reference §11 for patron design, ritual magic, and demon binding. This chapter provides the stat block; §11 provides what is behind it.
 
 ### 4.4 The Recurring Antagonist
 
@@ -466,7 +466,7 @@ it is interested in the Codex of the Third Circle, which it sent her to
 retrieve. If she fails, another agent will be found. Nashtira knows this,
 which explains both her ruthlessness and her desperation.
 
-Cross-reference §10 for the Devouring Lattice's full patron profile and the
+Cross-reference §11 for the Devouring Lattice's full patron profile and the
 Patron Intercession mechanics at Patron Score 14.
 ```
 

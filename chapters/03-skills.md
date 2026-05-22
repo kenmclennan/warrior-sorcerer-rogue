@@ -2,8 +2,6 @@
 
 Skills are expressed as percentile ratings - roll equal to or less than the skill to succeed. This chapter is the full skill reference. For the mechanics of rolling - outcome tiers, criticals, fumbles, the Critical Buy - see §4.
 
----
-
 ## 1. Using Skills
 
 Roll against a skill when two conditions are both true: the task is neither trivially easy nor plainly impossible, and something meaningful is at stake. The GM calls for the roll and sets the difficulty. See §4.1 for the four difficulty levels (Easy, Average, Difficult, Impossible) and how situational modifiers stack.
@@ -18,8 +16,6 @@ Every skill has a **base chance** - the starting rating before character creatio
 
 **Base chances in WSR.** Where the source gives era-variant base chances, WSR uses the ancient-world column throughout.
 
----
-
 ## 2. Speciality Skills
 
 Many skills have specialities - sub-categories representing distinct techniques, traditions, or subjects. A character's rating in a speciality is independent of any other speciality within the same skill.
@@ -31,8 +27,6 @@ Many skills have specialities - sub-categories representing distinct techniques,
 **Speciality notation.** Skills with specialities are written with parentheses in this chapter: **Melee Weapon (Sword)**, **Knowledge (Occult)**, **Language (Aramaic)**. When a skill entry says "(various)" in its name heading, this means specialities are required - there is no rating in Craft as a whole, only in Craft (Blacksmithing), Craft (Weaving), and so on.
 
 **Speciality lists.** Fixed and short lists appear under the skill entry. Open-ended lists (Language, Knowledge, Craft, Art) give guidance and typical examples; the full list is whatever is relevant to the campaign.
-
----
 
 ## 3. Complementary Skills and Augments
 
@@ -72,13 +66,9 @@ If the lead succeeds at any tier, every helper who rolled a success or better ea
 
 **Critical (Cooperative Rolls):** a helper who rolls a Critical grants +50% to the lead's effective skill. See §4.2.4.
 
----
-
 ## 4. Skill List
 
 The 44 WSR skills in alphabetical order. Five skills carry a **Critical:** line giving a specific numerical outcome; all others follow the general rule that a critical produces the best achievable version of success.
-
----
 
 ### Animal Handling
 
@@ -90,8 +80,6 @@ Animal Handling is distinct from Ride, which covers mounted use of an animal alr
 
 Roll Animal Handling when training a young animal, working with a hostile or skittish one, or attempting to make a beast do something outside its normal disposition.
 
----
-
 ### Appraise
 
 _(Mental, base 15%)_
@@ -99,8 +87,6 @@ _(Mental, base 15%)_
 Estimating the worth, quality, and authenticity of objects - gems, weapons, horses, cloth, artworks, ancient relics, a vessel's seaworthiness. A successful roll gives a reasonable market value and obvious flaws or virtues. On a critical, the character extracts precise value, the object's provenance, any hidden property (a flaw concealed by a smith, a gem that is glass, a relic that is genuine), and any unusual feature the GM considers notable.
 
 Roll Appraise when a character inspects something unfamiliar and needs a reliable assessment before buying, selling, or staking their life on it. Routine haggling in a familiar market does not require a roll.
-
----
 
 ### Art (various)
 
@@ -112,8 +98,6 @@ Roll Art when producing work that matters - a forgery that must be convincing, a
 
 **Specialities:** Calligraphy, Drawing, Painting, Poetry, Pottery, Sculpture, Writing.
 
----
-
 ### Bargain
 
 _(Communication, base 05%)_
@@ -121,8 +105,6 @@ _(Communication, base 05%)_
 Negotiating the terms of an exchange - price, trade ratio, barter, tribute. An opposed roll against the other party's Bargain or Persuade resolves contested negotiations. A success achieves a reasonable outcome for the character; the difference in success levels determines how well. A failure means the other party sets the terms.
 
 Roll Bargain when price genuinely matters and the other party has interests of their own. Buying from a merchant who has no interest in refusing is not a Bargain roll; it is a transaction at list price.
-
----
 
 ### Brawl
 
@@ -132,8 +114,6 @@ Unarmed fighting: punches, kicks, headbutts, elbows, knees. Brawl can also be us
 
 Roll Brawl when no weapon is drawn, when a fight goes to grappling, or when a character needs to incapacitate without killing. Brawl damage is typically 1D3 + damage modifier.
 
----
-
 ### Climb
 
 _(Physical, base 40%)_
@@ -142,8 +122,6 @@ Ascending and descending vertical surfaces: walls, cliffs, ropes, ship rigging, 
 
 Roll Climb when the surface is non-trivial and the consequence of failure matters. Speed and silence while climbing may impose situational penalties.
 
----
-
 ### Command
 
 _(Communication, base 05%)_
@@ -151,8 +129,6 @@ _(Communication, base 05%)_
 Directing subordinates in combat or complex coordinated tasks: inspiring a warband, holding a defensive line, coordinating a ship's crew in a storm. A successful Command roll provides one-fifth of the Command rating as a complementary bonus to each subordinate's relevant roll during the scene. A fumble has the opposite effect - the leader's directions cause confusion.
 
 Roll Command in any situation where the character is directing more than one other person toward a shared goal under pressure. It does not work on allies who have no reason to accept direction.
-
----
 
 ### Craft (various)
 
@@ -166,8 +142,6 @@ Roll Craft when producing something that must actually work under stress. Routin
 
 **Apothecary** is a special case. It covers gathering and recognising herbs, preparing salves, antitoxins, sleep-draughts, herbal remedies, and poisons. Apothecary produces consumables that other skills then use - Medicine to treat patients, a combat skill to apply a coated blade, Survival to extract nourishment from indifferent forage. It does not include theoretical toxicology (Knowledge (Occult) for forbidden substances) or the bedside treatment of patients (Medicine).
 
----
-
 ### Disguise
 
 _(Communication, base 01%)_
@@ -176,8 +150,6 @@ Altering appearance, voice, and manner to pass as someone else or a different ty
 
 Roll Disguise when passing through a checkpoint, infiltrating a social environment, or impersonating a specific individual. The longer the disguise must hold under close scrutiny, the harder it becomes.
 
----
-
 ### Dodge
 
 _(Combat/Physical, base DEX x2)_
@@ -185,8 +157,6 @@ _(Combat/Physical, base DEX x2)_
 Throwing oneself clear of an incoming attack. When the attacker succeeds, the defender may declare a Dodge as their response; the Dodge roll is compared against the attack using the Opposed Roll rules (§4.4.1). A successful Dodge cancels the attack even if the attack itself succeeded. A critical Dodge counts as a higher-degree success.
 
 Roll Dodge when attacked, as an alternative to Parry. Dodge can be used against attacks that cannot be parried (a thrown boulder, a collapsing ceiling), but cannot itself be used offensively.
-
----
 
 ### Etiquette (various)
 
@@ -200,8 +170,6 @@ Roll Etiquette whenever navigating a formal or high-stakes social environment wi
 
 **Specialities:** Military, Merchant Guild, Noble Court, Nomad Clan, Temple, Thieves' Guild, Underworld. Others as the campaign requires.
 
----
-
 ### Fast Talk
 
 _(Communication, base 05%)_
@@ -210,8 +178,6 @@ Quick convincing, bluffing, distraction, and verbal misdirection. Fast Talk prod
 
 Roll Fast Talk when speed matters more than permanence: talking past a checkpoint, bluffing a creditor, creating a momentary distraction. For lasting conviction, use Persuade.
 
----
-
 ### Fine Manipulation
 
 _(Manipulation, base 05%)_
@@ -219,8 +185,6 @@ _(Manipulation, base 05%)_
 Precise physical control of small objects and mechanisms: picking locks, disabling traps, palming coins, threading needles under stress, performing delicate surgery. A successful roll achieves the result cleanly; a critical completes it faster, makes future attempts easier, or leaves no evidence. A fumble on a trap typically triggers it.
 
 Roll Fine Manipulation when precision matters and failure has consequences. Working with room and time on a familiar mechanism may not require a roll. Working under pressure, in darkness, or with unfamiliar mechanisms does.
-
----
 
 ### First Aid
 
@@ -232,8 +196,6 @@ A successful First Aid roll heals 1D4 HP on a single wound and stabilises the pa
 
 **Critical:** heals 2D4 HP instead of 1D4.
 
----
-
 ### Gaming
 
 _(Mental, base INT+POW)_
@@ -241,8 +203,6 @@ _(Mental, base INT+POW)_
 Skill in games of strategy, memory, or chance: board games, dice, gambling, riddle-contests. A successful roll represents competent play or a moderate win in a gambling session. To cheat at gambling, use Sleight of Hand or Fast Talk rather than Gaming.
 
 Roll Gaming when the outcome of a game matters to the fiction - a wager with real stakes, a contest for information, or a situation where being caught losing face would matter. Casual games between PCs with nothing at stake do not require rolls.
-
----
 
 ### Grapple
 
@@ -252,8 +212,6 @@ Wrestling, submission holds, choking, throwing, and pinning. A Grapple attack mu
 
 Roll Grapple when attempting to take a target alive, to control rather than kill, or when a fight goes to close quarters where weapons are a hindrance.
 
----
-
 ### Hide
 
 _(Physical, base 10%)_
@@ -261,8 +219,6 @@ _(Physical, base 10%)_
 Concealing oneself or an object in a fixed position. Hide is for stillness and camouflage, not movement - a character who moves while hiding uses Move Quietly instead. A successful roll means the character is not noticed by casual observers; active search triggers an opposed roll against the searcher's Spot. The hiding character must remain still; any significant movement ends the Hide.
 
 Roll Hide when waiting in ambush, concealing a body, or taking cover during a fight.
-
----
 
 ### Insight
 
@@ -272,8 +228,6 @@ Reading character, emotional state, and immediate intentions. Insight allows a c
 
 Roll Insight when the character needs to judge a person rather than a statement. The GM may use this as a concealed roll.
 
----
-
 ### Jump
 
 _(Physical, base 25%)_
@@ -281,8 +235,6 @@ _(Physical, base 25%)_
 Leaping for height, distance, or across a gap, and reducing the damage of a fall by controlled landing. A successful Jump roll achieves the expected distance for the character's STR and DEX; the GM sets the target distance. Jump also reduces falling damage: a successful roll reduces fall damage by 1D6 per 3 metres fallen (to a minimum of 0).
 
 **Critical:** doubles the distance jumped or height cleared; reduces fall damage by 3D6 instead of 1D6.
-
----
 
 ### Knowledge (various)
 
@@ -295,8 +247,6 @@ Formal and informal knowledge: accumulated study, tradition, and remembered lore
 Roll Knowledge when a character needs to recall something they would plausibly have studied or experienced.
 
 **Specialities:** Academic Lore, Anthropology, Archaeology, Art History, Folklore, History, Law, Linguistics, Literature, Occult, Philosophy, Politics, Region (specify), Religion (specify), Streetwise.
-
----
 
 ### Language (various)
 
@@ -316,8 +266,6 @@ Roll Language when attempting to communicate under pressure, when nuance matters
 
 **Common ancient-world languages for WSR campaigns:** Egyptian, Greek, Aramaic, Persian, Akkadian, Latin, various Steppe tongues, Demotic, Phoenician, and others as the campaign region requires.
 
----
-
 ### Listen
 
 _(Perception, base 25%)_
@@ -325,8 +273,6 @@ _(Perception, base 25%)_
 Hearing sounds, recognising voices, detecting approaching danger, eavesdropping through a door. Both passive (the GM rolls for ambient detection) and active (the player declares their character is listening). A successful roll detects sounds that are audible but not obvious; a critical provides precise direction, distance estimate, and additional detail such as the number of people moving or the specific words spoken.
 
 The GM makes Listen rolls as concealed rolls when the information is something the character would not know they missed.
-
----
 
 ### Literacy (various)
 
@@ -340,8 +286,6 @@ Roll Literacy when reading or writing under pressure - quickly transcribing a me
 
 **Specialities (by script):** Aramaic, Cuneiform, Greek, Hieroglyphic, Linear Script, Runic. Others as the campaign region requires.
 
----
-
 ### Martial Arts (various)
 
 _(Combat, base 01%)_
@@ -354,8 +298,6 @@ Roll Martial Arts alongside the paired combat skill on any attack where the trad
 
 **Specialities (ancient-world traditions):** Kalaripayattu, Pankration, Swordsmanship School (specify), Wrestler's School (specify). Others as appropriate.
 
----
-
 ### Medicine
 
 _(Mental, base 05%)_
@@ -366,8 +308,6 @@ A successful Medicine roll heals 1D4 HP from one injury, stabilises a poisoned o
 
 **Critical:** heals 2D4 HP, or restores 1D3 points to a damaged characteristic.
 
----
-
 ### Melee Weapon (various)
 
 _(Combat, base 20% or weapon-class dependent)_
@@ -376,9 +316,7 @@ Fighting with a hand-held weapon in close combat. The speciality is the weapon c
 
 Roll Melee Weapon on each attack. The result determines which outcome tier applies; in combat, critical results are resolved on the appropriate critical hit table (§A1).
 
-**Specialities (weapon classes - precise list defined in §7 Equipment):** Axe, Club/Mace, Dagger, Flail, Polearm, Shield (see Shield skill), Spear, Staff, Sword. Others as the weapon chapter specifies.
-
----
+**Specialities (weapon classes - precise list defined in §8 Equipment):** Axe, Club/Mace, Dagger, Flail, Polearm, Shield (see Shield skill), Spear, Staff, Sword. Others as the weapon chapter specifies.
 
 ### Missile Weapon (various)
 
@@ -390,8 +328,6 @@ Roll Missile Weapon on each ranged attack. Critical results are resolved on the 
 
 **Specialities:** Blowgun, Bow (Short), Bow (Composite), Javelin, Sling, Spear (thrown). Grenades and thrown improvised objects use Throw rather than Missile Weapon.
 
----
-
 ### Move Quietly
 
 _(Physical, base 10%)_
@@ -402,9 +338,7 @@ Roll Move Quietly when the character needs to move through an area without drawi
 
 **Detection.** When no specific observer is alert and oriented, a successful Move Quietly is enough; failure means the character did not move silently, but unless there is someone in a position to notice it rarely matters. When a guard, sentry, or other observer **is** paying attention to the area, resolve as an opposed roll: the character's Move Quietly result against the observer's Spot (visual) or Listen (auditory). Higher successful result wins; criticals beat ordinary successes; ties favour the observer (the alert defender). A **failed Move Quietly does not mean automatic detection** - it only means the character has not concealed their passage, and any alert observer gets their roll. A **fumble** is a distinct sound - a kicked tankard, a snapped branch, a footfall on dry leaves - that automatically alerts anyone within hearing range; the GM should narrate the specific noise.
 
-For group stealth (when the whole party is moving together), see §12.11.
-
----
+For group stealth (when the whole party is moving together), see §6.11.
 
 ### Navigate
 
@@ -413,8 +347,6 @@ _(Physical/Perception, base 10%)_
 Finding one's way by stars, landmarks, dead reckoning, memory, and sea charts. Navigate covers both land and sea travel. Familiar terrain does not require a roll; navigating an open desert or open ocean without landmarks or instruments is Difficult. A failure means the party becomes disoriented; a fumble means they have gone measurably wrong.
 
 Roll Navigate when the route is genuinely uncertain and getting lost would have consequences.
-
----
 
 ### Parry (various)
 
@@ -426,8 +358,6 @@ Roll Parry when a character declares they are defending with their weapon rather
 
 **Specialities:** match the Melee Weapon specialities.
 
----
-
 ### Perform (various)
 
 _(Communication, base 05%)_
@@ -438,8 +368,6 @@ Roll Perform when the quality of the performance matters: when playing to an aud
 
 **Specialities:** Dance, Instrument (specify), Oration, Ritual, Singing, Storytelling.
 
----
-
 ### Persuade
 
 _(Communication, base 15%)_
@@ -448,8 +376,6 @@ Changing someone's mind through reasoned argument, emotional appeal, or sustaine
 
 Roll Persuade in formal negotiation, courtroom argument, sustained diplomatic effort, or any situation where lasting conviction is the goal. The GM may require multiple rolls for very resistant targets or very significant position changes.
 
----
-
 ### Research
 
 _(Perception, base 25%)_
@@ -457,8 +383,6 @@ _(Perception, base 25%)_
 Systematic investigation through documentary sources: consulting scrolls, reading temple records, interviewing sages with specific knowledge, cross-referencing library holdings. Research requires access to appropriate materials and Literacy in the relevant script to succeed fully; in oral-tradition contexts (interviewing sages, consulting tradition-keepers), it can function without Literacy.
 
 Roll Research when pursuing a specific question through available records, when the information exists but is not immediately obvious, and when time spent searching is meaningful.
-
----
 
 ### Ride (various)
 
@@ -470,8 +394,6 @@ Roll Ride in challenging conditions: rough terrain, battle, forced march, or whe
 
 **Specialities:** Camel, Chariot (driver), Horse, War Elephant. Others as the campaign requires. Note: Chariot driving is a Ride speciality, not a separate skill.
 
----
-
 ### Sailor
 
 _(Physical, base 05%)_
@@ -479,8 +401,6 @@ _(Physical, base 05%)_
 Practical seamanship: handling rigging, tying functional knots under wet conditions, reading wind and current, working a ship's lines under the bosun's call, and surviving the daily work of a vessel. A successful roll keeps the character productive as crew; a critical is the kind of competence a captain remembers. Sailor does not include captaincy or navigation by chart - those are Command and Navigate respectively - and it does not include shipbuilding (Craft (Carpentry) or a dedicated Shipwright speciality).
 
 Roll Sailor when crew skill matters: holding course in heavy weather, reefing a sail under fire, executing a manoeuvre the captain has ordered, or surviving a sudden squall on a small craft.
-
----
 
 ### Sense
 
@@ -490,8 +410,6 @@ Acute perception through touch, smell, and taste. Sense covers non-visual and no
 
 The GM typically rolls Sense as a concealed roll. Roll Sense when the character has reason to be suspicious and non-visual perception could reveal something.
 
----
-
 ### Shield
 
 _(Combat, base 15%)_
@@ -499,8 +417,6 @@ _(Combat, base 15%)_
 Using a shield in combat: blocking attacks, making aimed bashes, exploiting the shield's size for knockback. Shield is used offensively (as a crushing/knockback attack) and defensively (as a parry). A shield parry follows the same opposed roll rules as weapon parry. Shield bashes are resolved as Krush-type critical hits when a critical is achieved.
 
 Roll Shield on each attempt to block or bash with a shield. The Shield skill is separate from any Parry (weapon) specialities the character may have.
-
----
 
 ### Sleight of Hand
 
@@ -510,8 +426,6 @@ Picking pockets, palming objects, planting items on a person, stage magic, and c
 
 Roll Sleight of Hand whenever the character needs to move an object without being seen doing it.
 
----
-
 ### Spot
 
 _(Perception, base 25%)_
@@ -519,8 +433,6 @@ _(Perception, base 25%)_
 Actively or passively noticing details: hidden objects, concealed people, a disguised face, an unusual marking, the glint of an arrowhead at a window. Spot is the primary counter to Hide, Disguise, and Sleight of Hand; it is rolled in opposition to those skills when the situation demands it. The GM may call for a Spot roll without prompting the player when something detectable is present.
 
 Spot is also used for general situational awareness: noticing an ambush, recognising that a person at the back of the room is watching, seeing the exit before the fight starts.
-
----
 
 ### Status
 
@@ -546,8 +458,6 @@ Roll Status when attempting to use social standing as leverage - demanding acces
 
 > **Status and Reputation.** These are distinct mechanics. Status is standing within a specific community you are part of. Reputation is fame recognised beyond your home ground. A banished noble has high Status in their original court and may have substantial Reputation elsewhere; a famous wandering warrior may have great Reputation but no Status in any court. Both matter; neither replaces the other. Reputation mechanics are in §2.5.
 
----
-
 ### Strategy
 
 _(Mental, base 01%)_
@@ -555,8 +465,6 @@ _(Mental, base 01%)_
 Military command at the operational level: organising a force for battle, choosing ground, coordinating supply and movement, reading an opponent's tactical intentions from their deployment. Strategy applies to actions above the skirmish level - squads, formations, warbands, fleets. It does not apply to the personal combat that §5 covers.
 
 Roll Strategy before or during a significant military engagement when the PC is in command or advising command. A success improves the PC's side's starting position; a critical provides a decisive advantage. A fumble produces a significant tactical error.
-
----
 
 ### Survival
 
@@ -570,8 +478,6 @@ Survival does not cover specialised hunting techniques (use the relevant Missile
 
 Roll Survival when the wilderness threatens to kill the character through ordinary means: thirst, exposure, hunger, getting lost, eating the wrong thing.
 
----
-
 ### Swim
 
 _(Physical, base 25%)_
@@ -579,8 +485,6 @@ _(Physical, base 25%)_
 Moving through water with intent - not drowning. Floating and treading water in calm conditions is automatic. Dangerous currents, rough seas, or exhausting distances require rolls. A character who fails a Swim roll in dangerous water goes under; subsequent rolls to resurface are Difficult. Underwater melee uses the lower of the combat skill and the character's Swim rating; only impaling weapons are effective submerged.
 
 Roll Swim when conditions make water dangerous: currents, armour weight, pursuit, exhaustion, or fighting in water.
-
----
 
 ### Teach
 
@@ -592,8 +496,6 @@ A successful Teach roll means training proceeds by the standard rules (student m
 
 **Critical:** the student gains 1D6 points to the skill being taught directly, without requiring an improvement roll.
 
----
-
 ### Technical Skill (various)
 
 _(Mental, base 05%)_
@@ -604,8 +506,6 @@ Roll Technical Skill when operating a specialist device under meaningful pressur
 
 **Specialities:** Clockwork, Siege Engine, Traps.
 
----
-
 ### Throw
 
 _(Physical, base 25%)_
@@ -614,8 +514,6 @@ Throwing improvised objects, non-throwing weapons, or weighted cords. Throw cove
 
 Roll Throw during combat for improvised ranged attacks, or in any situation where a thrown object must hit a target at a distance.
 
----
-
 ### Track
 
 _(Perception, base 10%)_
@@ -623,8 +521,6 @@ _(Perception, base 10%)_
 Following the trail of a person, animal, or vehicle across terrain. Track covers reading prints, disturbed vegetation, broken branches, and other physical signs of passage. Opposed by deliberate concealment (the quarry's Move Quietly if they are specifically trying to cover tracks). Old trails, rain, and hard surfaces make tracking Difficult; fresh trails in soft ground are Average.
 
 Roll Track when the character is actively following a trail and the quarry's passage is not obvious. The GM may call for Track as a concealed roll when a character might notice a trail without specifically looking.
-
----
 
 ## 5. Acting Without a Skill
 
@@ -635,8 +531,6 @@ A character who lacks a skill can still attempt the task. The GM chooses one of 
 **Characteristic Roll:** for tasks that directly reflect a characteristic, roll against the relevant characteristic x5. The GM picks whichever better fits the fiction.
 
 Neither fallback earns an experience checkmark.
-
----
 
 ## 6. The Skill Rating Table
 
