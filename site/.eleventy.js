@@ -33,27 +33,48 @@ function sectionSlug(s) {
  */
 function buildCrossRefTransform(chapterMap, pathPrefix) {
   const codes = Object.keys(chapterMap).sort((a, b) => b.length - a.length);
-  // Build a regex like (PA1|PA2|...|P13|P12|...|P1) §section
-  // Longest codes first so PA1 matches before P1.
+  // Build a regex like (PA1|PA2|...|P13|P12|...|P1)
+  // Longest codes first so PA1 matches before P1 and P13 matches before P1.
   const codePattern = codes.join("|");
+
+  // Section ref: "P5 §3", "PA1 §1.2"
   const refRe = new RegExp(
     `\\b(${codePattern})\\s+§(\\d+(?:\\.\\d+){0,3})`,
     "g",
   );
 
+  // Bare chapter ref: "P5", "PA1" - matches only when NOT followed by
+  // a section number. The negative lookahead lets the section-ref pass
+  // run first without this pass eating its inputs.
+  const bareRe = new RegExp(
+    `\\b(${codePattern})\\b(?!\\s+§)`,
+    "g",
+  );
+
   return function (content, outputPath) {
     if (!outputPath || !outputPath.endsWith(".html")) return content;
-    return content.replace(refRe, (match, code, section) => {
+
+    // Section refs: "P4 §8" -> "§4.8", "PA1 §1.2" -> "§A1.1.2".
+    content = content.replace(refRe, (match, code, section) => {
       const slug = chapterMap[code];
       if (!slug) return match;
       const anchor = `sec-${section.replace(/\./g, "-")}`;
-      // Display the link in the global-numbering form. "P5" -> "5",
-      // "PA1" -> "A1"; section number appends after a dot.
-      // Examples: "P4 §8" -> "§4.8", "PA1 §1.2" -> "§A1.1.2".
       const num = code.slice(1);
       const displayText = `§${num}.${section}`;
       return `<a class="xref" href="${pathPrefix}${slug}/#${anchor}">${displayText}</a>`;
     });
+
+    // Bare chapter refs: "P5" -> "§5", "PA1" -> "§A1". Links to chapter
+    // index URL with no anchor fragment.
+    content = content.replace(bareRe, (match, code) => {
+      const slug = chapterMap[code];
+      if (!slug) return match;
+      const num = code.slice(1);
+      const displayText = `§${num}`;
+      return `<a class="xref" href="${pathPrefix}${slug}/">${displayText}</a>`;
+    });
+
+    return content;
   };
 }
 
