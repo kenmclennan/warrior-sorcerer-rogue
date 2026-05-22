@@ -662,11 +662,51 @@ The significant possession is not a mechanical item with stats. It is an anchor.
 
 ### 13.1 Name and Physical Description
 
-Choose a name and note two or three physical markers. **PA4 Names** provides ten male and ten female sample names for each Cultural Background; use them as a starting palette or invent your own. At the player's option, note one or two distinctive features - visible marks of adventure, background, or personality. These are cosmetic unless the player and GM agree otherwise.
+Choose a name and note two or three physical markers. **PA4 Names** provides ten male and ten female sample names for each Cultural Background; use them as a starting palette or invent your own.
 
-> Appropriate distinctive features include: visible scars (location and cause), ritual scarification, tattoos, missing digits from an oath kept too literally, an arcane brand (sorcerers only), a crooked nose, unusual colouring, a distinctive manner of movement or stillness.
+### 13.2 Distinctive Features (Optional)
 
-### 13.2 Character Sheet Summary
+Distinctive features are visible markers - hair, scars, ornaments, bearing, the way a person stands or speaks - that make a character recognisable in the fiction. They are descriptive only; no game effects attach.
+
+The number of features tracks how far CHA sits from average. Most people are unremarkable; very low or very high CHA produces a person you would remember.
+
+| CHA       | Features |
+| --------- | -------- |
+| 3 or less | 4        |
+| 4-7       | 3        |
+| 8-9       | 2        |
+| 10-11     | 1        |
+| 12-14     | 2        |
+| 15-16     | 3        |
+| 17+       | 4        |
+
+For each feature, roll 1d10 or pick a category. Take one or more items from the entry; the same category may be chosen more than once. Low-CHA features tend toward the unpleasant, unusual, or unsettling; high-CHA features tend toward the striking or attractive - though appearance lies as often as it tells the truth, and the GM may veto a feature that does not fit the setting.
+
+#### 13.2.1 Categories
+
+**1 - Hair.** Bald, bald on top, blond, black, braided, brown, crew-cut, curly, dirty, lice-ridden, glossy, grey, long, lustrous, matted, oily, perfumed, receding, red, shaven, spiky, very long, wavy, wig, or a feature of your own.
+
+**2 - Facial hair.** Arched eyebrows, braided beard, bushy beard, curled and perfumed beard, enormous moustachios, eyebrows grown together, goatee, long beard, no eyebrows, sideburns, strange designs cut into a close-trimmed beard, thick eyebrows, or your own.
+
+**3 - Face.** Birthmark, black eyes, blue eyes, bright eyes, broken nose, broken teeth, brown eyes, deeply tanned, double chin, earrings, enormous chin, even teeth, eye patch, fleshy lips, gap-toothed, grey eyes, hairy ears, high cheekbones, hooked nose, large eyes, large nose, long eyelashes, jagged teeth, nose ring, pale, pockmarked skin, pointed chin, pointed teeth, prominent incisors, pug nose, round face, scar, sensuous lips, stained teeth, tattooed, thin lips, tiny ears, turned-up nose, warts, weak chin, white teeth, wide-eyed, yellow teeth, or your own.
+
+**4 - Expression.** Adoring, alluring, arrogant, bemused, bright-eyed, curious, cringing, dour, drunken, friendly, guarded, haughty, lecherous, leering, meek, mischievous, naïve, outgoing, piercing, pleasant, proud, seductive, sneaky, sneering, squinting, or your own.
+
+**5 - Clothes.** Ancient style, armoured hat, athletic, barefoot, conical hat, embroidered with a special emblem, expensive, fashionable, fine boots, formfitting, full of holes, garish, gaudy, ill-fitting, lots of cheap jewellery, new, night-clothes, partly nude, peaked hat, prim, rich, sandals, satiny, sexy, skin-tight, sporty, subdued, too much ornamentation, utilitarian, vulgar, wide hat, or your own.
+
+**6 - Bearing.** Angry, casual, clumsy, confident, ethereal, fearful, graceful, humble, jaunty, languid, military, nimble, plodding, pushy, reserved, slouching, sprightly, stiff, swaggering, sensual, swaying, wary, weary, yielding, or your own.
+
+**7 - Speech.** Accented, affected, aggressive, deep, demanding, drawling, faint, hesitant, high-pitched, imperious, musical, mumbling, nasal, raspy, sharp, sensual, shrill, slow, smooth, soft-spoken, strong, throaty, unintelligible, whining, or your own.
+
+**8 - Arms and hands.** Birthmark visible, bracelets or arm jewellery, bulging biceps, calloused hands, deeply tanned, hairless, hairy, knobby elbows, large knuckles, left-handed, long arms, long fingernails, muscular, one arm longer than the other, one finger missing, an extra finger, pointed elbows, pointed fingernails, powerful arms and hands, rings, scar, slender, smooth-skinned, tattooed, unlined, very hairy, very pale skin, or your own.
+
+**9 - Torso.** Barrel-chested, belly ring, birthmark visible, broad-shouldered, curvy, every bone shows, flat stomach, hairless, high waist, lean, long torso, many scars, muscular, narrow, no navel, one nipple gone, potbellied, prominent scar, short, shrunken chest, sinewy, sleek, slender, slim-hipped, svelte, tall, tan-lines visible, tanned, tattooed, thick, thin, very hairy, very pale, willowy, or your own.
+
+**10 - Legs and feet.** Birthmark visible, bulging thighs and calves, calloused feet, deeply tanned, hairless, hairy, knobby knees, limping in one leg, many scars, muscular, one toe missing, an extra toe, scar, scars from flame or acid, sleek, smooth, tanned, tattooed, toe ring, very hairy, very long legs, very pale skin, very short legs, weathered skin, or your own.
+
+Combine features in interesting ways. Picture the character in your mind and imagine how they appear in the world.
+
+### 13.3 Character Sheet Summary
 
 By the end of character generation, record:
 
