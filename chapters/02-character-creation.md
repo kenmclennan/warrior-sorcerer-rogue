@@ -684,7 +684,7 @@ For each feature, roll 1d10 or pick a category. Take one or more items from the 
 
 #### 13.2.1 Categories
 
-**1 - Hair.** Bald, bald on top, blond, black, braided, brown, crew-cut, curly, dirty, lice-ridden, glossy, grey, long, lustrous, matted, oily, perfumed, receding, red, shaven, spiky, very long, wavy, wig, or a feature of your own.
+**1 - Hair.** Bald, bald on top, blond, black, braided, brown, curly, dirty, lice-ridden, glossy, grey, long, lustrous, matted, oily, perfumed, receding, red, shaven, very long, wavy, wig, or a feature of your own.
 
 **2 - Facial hair.** Arched eyebrows, braided beard, bushy beard, curled and perfumed beard, enormous moustachios, eyebrows grown together, goatee, long beard, no eyebrows, sideburns, strange designs cut into a close-trimmed beard, thick eyebrows, or your own.
 
@@ -692,7 +692,7 @@ For each feature, roll 1d10 or pick a category. Take one or more items from the 
 
 **4 - Expression.** Adoring, alluring, arrogant, bemused, bright-eyed, curious, cringing, dour, drunken, friendly, guarded, haughty, lecherous, leering, meek, mischievous, naïve, outgoing, piercing, pleasant, proud, seductive, sneaky, sneering, squinting, or your own.
 
-**5 - Clothes.** Ancient style, armoured hat, athletic, barefoot, conical hat, embroidered with a special emblem, expensive, fashionable, fine boots, formfitting, full of holes, garish, gaudy, ill-fitting, lots of cheap jewellery, new, night-clothes, partly nude, peaked hat, prim, rich, sandals, satiny, sexy, skin-tight, sporty, subdued, too much ornamentation, utilitarian, vulgar, wide hat, or your own.
+**5 - Clothes.** Armoured hat, barefoot, conical hat, embroidered with a special emblem, expensive, fashionable, fine boots, formfitting, full of holes, garish, gaudy, ill-fitting, lots of cheap jewellery, new, partly nude, peaked hat, prim, rich, sandals, satiny, sexy, subdued, too much ornamentation, utilitarian, vulgar, wide hat, or your own.
 
 **6 - Bearing.** Angry, casual, clumsy, confident, ethereal, fearful, graceful, humble, jaunty, languid, military, nimble, plodding, pushy, reserved, slouching, sprightly, stiff, swaggering, sensual, swaying, wary, weary, yielding, or your own.
 
@@ -700,7 +700,7 @@ For each feature, roll 1d10 or pick a category. Take one or more items from the 
 
 **8 - Arms and hands.** Birthmark visible, bracelets or arm jewellery, bulging biceps, calloused hands, deeply tanned, hairless, hairy, knobby elbows, large knuckles, left-handed, long arms, long fingernails, muscular, one arm longer than the other, one finger missing, an extra finger, pointed elbows, pointed fingernails, powerful arms and hands, rings, scar, slender, smooth-skinned, tattooed, unlined, very hairy, very pale skin, or your own.
 
-**9 - Torso.** Barrel-chested, belly ring, birthmark visible, broad-shouldered, curvy, every bone shows, flat stomach, hairless, high waist, lean, long torso, many scars, muscular, narrow, no navel, one nipple gone, potbellied, prominent scar, short, shrunken chest, sinewy, sleek, slender, slim-hipped, svelte, tall, tan-lines visible, tanned, tattooed, thick, thin, very hairy, very pale, willowy, or your own.
+**9 - Torso.** Barrel-chested, belly ring, birthmark visible, broad-shouldered, curvy, every bone shows, flat stomach, hairless, high waist, lean, long torso, many scars, muscular, narrow, no navel, one nipple gone, potbellied, prominent scar, short, shrunken chest, sinewy, sleek, slender, slim-hipped, svelte, tall, tanned, tattooed, thick, thin, very hairy, very pale, willowy, or your own.
 
 **10 - Legs and feet.** Birthmark visible, bulging thighs and calves, calloused feet, deeply tanned, hairless, hairy, knobby knees, limping in one leg, many scars, muscular, one toe missing, an extra toe, scar, scars from flame or acid, sleek, smooth, tanned, tattooed, toe ring, very hairy, very long legs, very pale skin, very short legs, weathered skin, or your own.
 
