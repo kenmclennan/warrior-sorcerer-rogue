@@ -35,8 +35,6 @@ Characters act in descending DEX order. Within a DEX rank, resolve in weapon-len
 
 Apply ongoing effects: bleeding, expiring conditions, end-of-round bookkeeping. The next round begins.
 
----
-
 ## 2. Movement
 
 Movement in combat is described, not measured. Three categories cover most situations:
@@ -46,8 +44,6 @@ Movement in combat is described, not measured. Three categories cover most situa
 **Long Move.** Across a significant portion of the fighting ground. Acts at half DEX rank (round down).
 
 **Full Sprint.** Maximum speed. Acts at quarter DEX rank (round down); cannot attack; defensive actions only if directly threatened.
-
----
 
 ## 3. Attack and Defence
 
@@ -127,8 +123,6 @@ A character whose weapon skill exceeds 100% may split that skill into multiple a
 
 **Example.** A warrior with Sword 110% may attack twice: once at 110% on their normal DEX rank and once at 50% at DEX -5. Or they may choose 70%/70% (any split summing to the base, each at minimum 50%). The second attack comes at -5 DEX ranks from the first.
 
----
-
 ## 4. Damage and Armour
 
 ### 4.1 Damage Rolls
@@ -146,8 +140,6 @@ Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from da
 ### 4.3 Shields
 
 Shields are both weapons (use Shield skill to attack) and parrying tools (use Shield skill to parry melee and intercept missiles as above). Shield skill has the same -30% cumulative penalty as all parry skill uses.
-
----
 
 ## 5. Wounds
 
@@ -176,8 +168,6 @@ First Aid applied immediately after a wound heals 1D4 HP (Critical: 2D4 HP) and 
 Medicine skill applied in proper conditions heals 1D4 HP or restores 1 point to a reduced characteristic per treatment (Critical: 2D4 HP, or 1D3 to a characteristic). Medicine cannot be applied in the middle of combat.
 
 Sorcerous healing exists as rare, costly spells in the sorcery list (see §7.3). It is never the default recovery path, and it pays its own price.
-
----
 
 ## 6. Common Combat Situations
 
@@ -243,8 +233,6 @@ All attacks, parries, and dodges are Difficult while prone; attacks against the 
 
 For every 5 DEX ranks spent delaying, add +10% to the attack skill, up to the base skill maximum. Announce at the start of Phase Three; count off the ranks openly.
 
----
-
 ## 7. Damage Types
 
 WSR weapons deal one of four damage types. Type determines which critical hit table is consulted in §A1 when a critical attack lands. Type also affects armour interactions (some armours protect better against some types - see §8 Equipment) and certain talents and creature abilities that react to specific types.
@@ -271,8 +259,6 @@ An entangling critical (whether on a damage attack or an entangle attempt) impos
 
 **Other damage types.** Fire damage (sorcerous flame, Greek fire, dragon breath, fire elementals) and Grapple damage (the §3 Grapple skill, creature constricting attacks) have their own §A1 critical hit tables - see §A1.5 (Burn) and §A1.6 (Grapple). They follow the same band structure (A through E) and the same matching-dice severity rules as Slash, Pierce, and Krush.
 
----
-
 ## 8. Rabble
 
 Rabble are ordinary soldiers, hired thugs, city guards, and bandit conscripts - fighters without exceptional qualities, without Fate Point access, and without the will to fight to the death.
@@ -285,8 +271,6 @@ A Rabble is never a named character. The moment an NPC becomes plot-relevant or 
 
 For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see §9.1.
 
----
-
 ## 9. Dying Blows
 
 A character at 0 HP or below may attempt one last act before falling.
@@ -296,8 +280,6 @@ A character at 0 HP or below may attempt one last act before falling.
 **Actions already spent.** If the character has exhausted their action for the round when the killing wound arrives, the Dying Blow is still available, but the Stamina roll is Difficult (halved).
 
 A Dying Blow cannot be a defensive action. It can trigger a Fate Point spend, including Deflect the Killing Blow (see §4.7.7).
-
----
 
 ## 10. Reading the Crit Tables
 

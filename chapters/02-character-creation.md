@@ -7,7 +7,7 @@ To create a character follow these steps
 1. **Roll Characteristics**: Roll and allocate seven core stats
 2. **Determine Derived Stats**: Calculate HP, PP, damage modifier, and MOV
 3. **Choose a Cultural Background**: Pick one of eight ancient-world backgrounds
-4. **Choose a Profession**: Pick one of thirteen WSR professions; gain the profession skill bundle
+4. **Choose a Profession**: Pick one of fourteen WSR professions; gain the profession skill bundle
 5. **Choose Personal Skills**: Spend INT x10 free points across any skills
 6. **Choose Talents**: Choose 2 talents from the four talent tables
 7. **Choose Passions**: Record three passions (1 at 80%, 2 at 60%)
@@ -318,13 +318,21 @@ A trader: regional, caravan, or maritime. Knows markets, supply chains, and the 
 
 ### Scholar of the Dark Arts
 
-The sorcerer-archetype profession. A trained researcher in forbidden knowledge: self-taught from stolen texts, apprenticed to a dangerous master, or initiated into a small and secretive order. **This is the only profession that qualifies a character to take the sorcerer-specific Step 9.**
+A sorcerer-archetype profession: the urban, literate one. A trained researcher in forbidden knowledge - self-taught from stolen texts, apprenticed to a dangerous master, or initiated into a small and secretive order. **This profession (along with Shaman) qualifies a character to take the sorcerer-specific Step 9.**
 
 **Wealth:** Poor to Average (sorcerers have patrons, not savings)
 **Reputation start:** 10% (higher if their activities are known)
 **Profession skills:** Disguise, Hide, Knowledge (Occult), Language (one additional), Literacy (one script), Perform (Ritual), Research, Sense, Sorcery, Spot, Move Quietly, one of: Insight / Bargain / Craft (Apothecary)
 
 > **Sorcery as a skill:** The Sorcery skill governs the sorcerer's ability to perform resistance-table-relevant actions during spellcasting and ritual work. It is not a casting-success roll (casting is automatic given PP and time - see §7.2.1) but a modifier for contested workings: Resistance Table rolls use the sorcerer's current PP total against the target's POW. Sorcery skill as a complementary bonus applies when the GM rules that technique is meaningfully at stake.
+
+### Shaman
+
+A sorcerer-archetype profession: the tribal, oral one. Works with spirits, ancestors, and the unseen powers of land and weather. Knowledge is passed mentor to student, not from books. Where the Scholar of the Dark Arts reads forbidden tomes in a city library, the Shaman reads the entrails of birds and dreams in the burial mounds. **This profession (along with Scholar of the Dark Arts) qualifies a character to take the sorcerer-specific Step 9.**
+
+**Wealth:** Poor (lives outside the coin economy)
+**Reputation start:** 15% (community standing among their own people; feared and distrusted elsewhere)
+**Profession skills:** Craft (Apothecary), First Aid, Insight, Knowledge (Folklore), Knowledge (Occult), Listen, Perform (Ritual), Sense, Sorcery, Spot, Survival, one of: Hide / Persuade / Track
 
 ### Outcast
 
@@ -362,7 +370,7 @@ Choose **2 talents** from the four talent tables below. You may not choose both 
 
 **Eligibility:**
 
-- **Sorcery Talents:** Scholar of the Dark Arts only.
+- **Sorcery Talents:** Scholar of the Dark Arts or Shaman.
 - **Combat Talents:** martial profession (Tribal Warrior, Mercenary Soldier, Sea-Raider, Hunter-Tracker, Charioteer, Gladiator/Arena Fighter) or GM approval.
 - **Stealth & Finesse** and **Social & Cunning:** open to all.
 
@@ -511,6 +519,7 @@ Reputation is fame - or notoriety - recognised beyond the character's home groun
 | Temple Hierophant          | 25%                 |
 | Merchant                   | 10%                 |
 | Scholar of the Dark Arts   | 10%                 |
+| Shaman                     | 15%                 |
 | Outcast                    | 5%                  |
 | Gladiator or Arena Fighter | 15%                 |
 | Spy or Infiltrator         | 0%                  |
@@ -550,7 +559,7 @@ Reputation is never secret. If you earn it, people talk about it.
 
 ## 10. Step 9: Sorcerer-Specific
 
-This step applies **only to characters who have chosen the Scholar of the Dark Arts profession.** All other characters skip to Step 10.
+This step applies **only to characters who have chosen the Scholar of the Dark Arts or Shaman profession.** All other characters skip to Step 10.
 
 ### 10.1 POW Requirement
 
@@ -570,7 +579,7 @@ A starting sorcerer may choose to have already entered a patron compact. This is
 
 **If you take a patron:**
 
-1. Name the patron or describe its nature (demon lord, chaos power, dead god, old elemental intelligence). The specifics are yours and the GM's to develop.
+1. Name the patron or describe its nature (demon lord, chaos power, dead god, old elemental intelligence, ancestral spirit, totem power). The specifics are yours and the GM's to develop.
 2. Record **Patron Score = 1D6+5** (roughly 6-11 at creation).
 3. You receive the patron's PP reserve benefit and Patron Intercession access as described in §7.3.2.
 4. The patron is watching from the start. High Patron Scores draw attention; see §11 for what patrons actually want.
@@ -604,21 +613,22 @@ The grimoire is the sorcerer's most valuable possession. Losing it is not the en
 
 Each profession has a typical starting kit. This is the gear the character arrives at the table with; it reflects what someone of that profession would plausibly own and carry. Items in the kit are free; they come with the profession. Players are free to replace any item of weapon or armour with a cultural equivalent.
 
-| Profession                 | Starting Kit                                                                                        |
-| -------------------------- | --------------------------------------------------------------------------------------------------- |
-| Tribal Warrior             | Weapon of choice (hand axe or spear, standard quality), leather armour or hide, belt knife, 5 Drams |
-| Mercenary Soldier          | Sword or spear (standard), light shield, leather or scale armour, belt knife, 10 Drams              |
-| Sea-Raider                 | Axe or sword (standard), dagger, light hide armour, 50m rope, 8 Drams                               |
-| City Thief                 | Dagger, a thief's tools (Fine Manipulation +10% when using these), dark clothing, 5 Drams           |
-| Wayfarer                   | Instrument or storyteller's props, dagger, travelling cloak, 8 Drams                                |
-| Hunter-Tracker             | Spear or bow (standard, with 20 arrows if bow), hunting knife, hide armour, 3 Drams                 |
-| Charioteer                 | Composite bow (standard) with 30 arrows, dagger, scale armour, 15 Drams                             |
-| Temple Hierophant          | Ceremonial robes, seal-ring of office, writing tools and blank scrolls, dagger, 2 Staters           |
-| Merchant                   | Accounting tablets and seal, quality travelling clothes, dagger, donkey or pack animal, 3 Staters   |
-| Scholar of the Dark Arts   | Grimoire (chosen format), writing materials, dark or travelling clothes, dagger, 5 Drams            |
-| Outcast                    | Whatever they could carry when they left (GM-negotiated starting kit within Poor wealth level)      |
-| Gladiator or Arena Fighter | Arena weapon of choice (standard quality), arena armour (light, 3 AP), street clothes, 8 Drams      |
-| Spy or Infiltrator         | Disguise kit (+15% Disguise for these materials), quality street clothes, thin blade, 15 Drams      |
+| Profession                 | Starting Kit                                                                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tribal Warrior             | Weapon of choice (hand axe or spear, standard quality), leather armour or hide, belt knife, 5 Drams                                         |
+| Mercenary Soldier          | Sword or spear (standard), light shield, leather or scale armour, belt knife, 10 Drams                                                      |
+| Sea-Raider                 | Axe or sword (standard), dagger, light hide armour, 50m rope, 8 Drams                                                                       |
+| City Thief                 | Dagger, a thief's tools (Fine Manipulation +10% when using these), dark clothing, 5 Drams                                                   |
+| Wayfarer                   | Instrument or storyteller's props, dagger, travelling cloak, 8 Drams                                                                        |
+| Hunter-Tracker             | Spear or bow (standard, with 20 arrows if bow), hunting knife, hide armour, 3 Drams                                                         |
+| Charioteer                 | Composite bow (standard) with 30 arrows, dagger, scale armour, 15 Drams                                                                     |
+| Temple Hierophant          | Ceremonial robes, seal-ring of office, writing tools and blank scrolls, dagger, 2 Staters                                                   |
+| Merchant                   | Accounting tablets and seal, quality travelling clothes, dagger, donkey or pack animal, 3 Staters                                           |
+| Scholar of the Dark Arts   | Grimoire (chosen format), writing materials, dark or travelling clothes, dagger, 5 Drams                                                    |
+| Shaman                     | Ritual focus (drum, rattle, or charm pouch), grimoire (bone, knotted rope, or scroll), bone or flint knife, herb pouch, hide cloak, 3 Drams |
+| Outcast                    | Whatever they could carry when they left (GM-negotiated starting kit within Poor wealth level)                                              |
+| Gladiator or Arena Fighter | Arena weapon of choice (standard quality), arena armour (light, 3 AP), street clothes, 8 Drams                                              |
+| Spy or Infiltrator         | Disguise kit (+15% Disguise for these materials), quality street clothes, thin blade, 15 Drams                                              |
 
 ### 11.2 Starting Coin Allowance
 

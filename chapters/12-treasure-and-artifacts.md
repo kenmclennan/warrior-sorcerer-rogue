@@ -4,8 +4,6 @@
 
 This chapter covers what heroes find, what they can make, and what they might wish they had never touched. Mundane treasure, artifacts, cursed items, and the economics of Reputation.
 
----
-
 ## 1. Mundane Treasure
 
 ### 1.1 Coin
@@ -115,8 +113,6 @@ For improvised treasure when the party searches an unexpected place:
 | 11   | An art object plus 2D6 Staters in old coin                   |
 | 12   | A minor artifact or a named gem - something worth the risk   |
 
----
-
 ## 2. Artifact Creation
 
 An artifact is any item into which a sorcerer has permanently bound one or more sorcery spells - a piece of vital force crystallised in metal, stone, or bone that does not fade when the sorcerer sleeps. These rules expand on §8.12.2. Artifacts belong to the GM's world: who made it, what it cost, who wants it back, what happens when it is destroyed.
@@ -177,13 +173,9 @@ Every artifact has:
 - A PP reservoir that is charged or empty (empty artifacts are inert but not dead - one PP from a sorcerer revives them).
 - A question: why is it here? Artifacts do not arrive by accident.
 
----
-
 ## 3. Sample Artifacts
 
 Ten pre-cataclysm relics, each droppable into a session with minimal preparation. All have charged reservoirs unless the GM rules otherwise. An empty artifact is the same object with a different question: who maintained it, and when did they stop?
-
----
 
 ### 3.1 The Serpent's Tongue
 
@@ -201,8 +193,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by a court poisoner-sorcerer called the Mouth, who served a dynasty that destroyed the cult and was subsequently destroyed by the cult. The dagger predates the last of those three events.
 
----
-
 ### 3.2 The Brazen Eye
 
 **Form:** A polished bronze disc roughly hand-sized, convex on one face, flat on the other. The flat face has a pupil incised in the centre - an eye that looks directly at you. It weighs more than it should.
@@ -218,8 +208,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 **Hook:** The Eye was made to spy on a demon compact. The demon in question is still bound, still aware of the Eye's existence, and has been trying to get a hand on it for two centuries to prevent its compact from being seen.
 
 **Origin:** Made by a council of mirror-seers who believed all political catastrophe could be averted if only you could see what was actually happening. They were wrong. The council is gone. The Eye survives.
-
----
 
 ### 3.3 The Ring of the Drowned General
 
@@ -237,8 +225,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by the General's sorcerer-advisor who died with the fleet but somehow arranged for the ring to wash ashore three years later. No one knows how.
 
----
-
 ### 3.4 The Mask of the Interlocutor
 
 **Form:** A full-face theatre mask in fired and painted terracotta, white with exaggerated features - wide eyes, a slightly open mouth. Wearing it fits oddly, as if it were made for a face that is not quite the wearer's shape.
@@ -254,8 +240,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 **Hook:** The Mask was used to impersonate a dead emperor during a succession crisis. The impersonation lasted eleven months before the Mask's previous user ran out of PP and could not recharge. The consequences of the revelation were considerable. The dynasty that resulted from that crisis still rules the relevant territory. They know about the Mask.
 
 **Origin:** Made by a sorcerer-playwright who believed that political reality was theatrical reality. This belief was eventually validated in the worst possible way.
-
----
 
 ### 3.5 The Compass of Unmapped Places
 
@@ -273,8 +257,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by an expedition sorcerer who died somewhere the needle was pointing. Nobody has found the body. The Compass came back; they did not.
 
----
-
 ### 3.6 The Chained Crown
 
 **Form:** A bronze circlet with three pendant chains hanging from it, each ending in a small bronze disc. The discs are blank on one side and engraved with a screaming face on the other - different faces on each disc.
@@ -290,8 +272,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 **Hook:** The three screaming faces are the last three people the Crown's creator killed using all three spells simultaneously. One of them was a member of the same family the party's current employer comes from. The employer does not know this.
 
 **Origin:** Made by a warlord's sorcerer for use in personal duels. The warlord's appetite for such duels eventually exhausted the Crown's reservoir and the warlord, separately.
-
----
 
 ### 3.7 The Jar of Salts
 
@@ -309,8 +289,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by a marsh-witch who kept a Lesser Demon as her primary interlocutor with the spirit world. The marsh-witch is dead. The demon is not.
 
----
-
 ### 3.8 The Sigil-Carved Staff
 
 **Form:** A straight staff of hardened black wood, roughly six feet long, carved from end to end with interlocking sorcerous sigils in a script that predates any living language. The wood is warm to the touch.
@@ -326,8 +304,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 **Hook:** The Staff was made to lead a ritual working that would do something enormous - the creator never finished writing down what. The sigils near the base end with an incomplete formula. Completing it would require Knowledge (Blasphemous Lore) at 60% or higher and access to texts that no longer exist above ground.
 
 **Origin:** The head of a sorcerers' collegium who was building toward something when the collegium was destroyed. What they were building toward and who destroyed the collegium are separate questions with the same answer.
-
----
 
 ### 3.9 The Flensing Mirror
 
@@ -345,8 +321,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by a sorcerer employed by a spy service that wanted to separate real ambassadors from assassins sent in their place. The spy service was disbanded when the Mirror revealed that the spymaster's employer was themselves an impersonator.
 
----
-
 ### 3.10 The Hand of the Hanging Judge
 
 **Form:** A mummified human hand, preserved in bitumen, hanging from a cord of braided horsehair. The fingers are curled as if gripping something. It smells of tar and very old smoke.
@@ -363,8 +337,6 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made in a city-state that combined judicial and sorcerous authority. The city-state collapsed from within. The Hand is one of the more defensible remnants of its legal tradition.
 
----
-
 ## 4. Cursed Items
 
 A cursed item is not a bad magic item. It is a trap wearing the shape of treasure. The genre's model is irony and fate, not a penalty to attack rolls - the ending of a bad story the character did not realise they were in.
@@ -379,8 +351,6 @@ The most reliable method is reputation. Cursed items have histories, and those h
 
 Curses do not lift when the item is dropped. They lift when their specific release condition is met - which the GM knows and the player typically does not. The general process: identify the curse pattern (Knowledge (Blasphemous Lore)), determine the release condition (research, patron knowledge, a specialist sorcerer), fulfil it. Undo Sorcery (§7.5) suppresses a curse for the caster's POW in hours but cannot remove it permanently.
 
----
-
 ### 4.3 The Warlord's Bracelet
 
 **Form:** A thick gold bracelet engraved with scenes of battle. Magnificent. The engraving includes, on careful inspection, scenes of defeat.
@@ -392,8 +362,6 @@ Curses do not lift when the item is dropped. They lift when their specific relea
 **The curse:** For every combat in which the Bracelet is worn and the wearer survives, their enemies become aware of the Bracelet's existence. Within one week of any combat, at least one of the defeated side (or their allies, or someone who heard) will send someone to reclaim it. The Bracelet was made for a warlord whose enemies kept destroying themselves trying to take it from them - but eventually the enemies outnumbered the victories, and the last warlord who wore it had no one left to fight for them.
 
 **Release condition:** The Bracelet must be given freely and without expectation of return to someone who has never fought in their life. Once given, the curse transfers with the new owner's first combat.
-
----
 
 ### 4.4 The Grateful Ghost's Coin
 
@@ -408,8 +376,6 @@ Curses do not lift when the item is dropped. They lift when their specific relea
 Failure to complete the task within one month of the tenth trigger results in the king haunting the bearer actively - a persistent ghost visible only to them, audible only to them, who will not stop talking about the task.
 
 **Release condition:** Complete the task. The task is always in a place the party would not otherwise go. This is not a coincidence.
-
----
 
 ### 4.5 The Sorcerer's Eye
 
@@ -427,8 +393,6 @@ After 1D6 weeks of use (the GM rolls this privately), the sorcerer appears to th
 
 **Release condition:** Return the Eye to the sorcerer voluntarily. The journey to reach the sorcerer is the adventure. Whether the sorcerer is an ally or an enemy when you arrive depends entirely on how the first two demands were handled.
 
----
-
 ### 4.6 The Mirror of True Names
 
 **Form:** A small silver hand mirror, tarnished almost to black, with a back engraved in concentric circles. The reflection is always perfectly clear.
@@ -443,8 +407,6 @@ More critically: the bearer's own true name is visible in the Mirror when they l
 
 **Release condition:** Never discovered. No one who has had the Mirror long enough to find the release condition has been alive to tell anyone.
 
----
-
 ### 4.7 The Crown of Voices
 
 **Form:** A bronze circlet set with seven small stones, each a different colour. When worn in a crowd, the wearer hears whispers - thoughts near the surface of the minds around them, not deep truth but immediate intent and fear.
@@ -458,8 +420,6 @@ More critically: the bearer's own true name is visible in the Mirror when they l
 By the end of the fourth week, the bearer has effectively acquired the mental architecture of everyone they have spent significant time near. They act inconsistently. They know things they have not been told. They do not always know which thoughts are theirs.
 
 **Release condition:** Leave the Crown somewhere crowded and do not return. The Crown always ends up back with someone within a month. It likes crowds.
-
----
 
 ## 5. The Economics of Fame
 

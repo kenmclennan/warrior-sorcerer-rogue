@@ -5,8 +5,6 @@
 
 This chapter covers stat block formats, design principles, and ready-to-use examples for the three tiers of human enemy: Rabble, professionals, and named antagonists. The player-facing Rabble rule is in §5.8; this chapter is the GM's side.
 
----
-
 ## 1. The Three-Tier Model
 
 Every human enemy belongs to one of three tiers. The tier determines mechanical complexity, narrative weight, and preparation time.
@@ -40,8 +38,6 @@ Named antagonists are PC-grade characters: individuals with full stat blocks, Fa
 **Mechanical profile.** Build named antagonists exactly as you would build a PC (see §2 for the chargen procedure). All the same rules apply: characteristics, derived stats, skills, talents, passions, reputation. **HP uses the full PC formula: CON + SIZ** (not the half formula used by Rabble and Professionals). The GM version of a named antagonist has full Fate Point access - their Power Points can fund defensive spends, and they will use them when the stakes are high enough.
 
 For sorcerer-villain antagonists, apply the full Sorcery rules from §7. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in §11 (NPC Sorcery and Patrons); the stat blocks in §5 of this chapter include a worked example.
-
----
 
 ## 2. Rabble Stat Block Format
 
@@ -98,8 +94,6 @@ If no Rabble qualifies, the mechanic cannot be used.
 
 The PP minimum of 8 ensures this is not free for villains who have already spent heavily.
 
----
-
 ## 3. Building Professional NPCs
 
 Professionals are built from the same skeleton as Rabble with a broader skill profile and enough character to feel real in an encounter.
@@ -135,8 +129,6 @@ Notes: [any notable equipment, drives, or situational rules]
 ### 3.2 What Professionals Are Not
 
 Professionals are not named antagonists in waiting. Do not give them Fate Point access, Corruption tracks, or patron relationships. A professional who becomes important enough for full mechanical weight should be re-statted from scratch as a named antagonist.
-
----
 
 ## 4. Building Named Antagonists
 
@@ -204,13 +196,9 @@ The villain who keeps escaping is a campaign asset. The mechanics are simple: th
 
 Track surviving antagonists between sessions: what they lost (PP, Rabble, resources) and what they gained (rest, allies, information about the PCs). A villain who has suffered once is cannier, warier, and probably angrier. Let that show.
 
----
-
 ## 5. Sample Stat Blocks
 
 Five ready-to-use stat blocks calibrated for a mid-campaign WSR session. Adjust characteristics as needed for your party.
-
----
 
 ### 5.1 City Guard (Rabble)
 
@@ -236,8 +224,6 @@ unless pride or watch-captain presence demands otherwise.
 
 **Running city guards.** The threat is the whistle, not the spear. PCs inside a city wall should be calculating whether they can end the fight before reinforcements arrive. Narrate incapacitation as going down hard, not necessarily dying - twelve dead watchmen create different problems than twelve unconscious ones.
 
----
-
 ### 5.2 Bandit Raider (Rabble)
 
 Desert road-watcher, mountain pass ambusher, organised criminal.
@@ -261,8 +247,6 @@ attempt to disengage (the first one who runs takes the rest with them).
 ```
 
 **Running bandit raiders.** Bandits are opportunists who will not fight to the last without a professional or named antagonist holding them in the fight. Low armour, slightly higher weapon skills than guards; most dangerous in an ambush before the PCs have time to prepare.
-
----
 
 ### 5.3 Mercenary Captain (Professional)
 
@@ -297,8 +281,6 @@ complication). Equipment includes a silver arm-ring worth 4 Staters.
 ```
 
 **Running the mercenary captain.** Fights smart: directs Rabble with Command, takes the best ground, keeps the shield up. Not a berserker - a professional who has survived by avoiding unnecessary risks. At Sword 60% / Shield 55%, they genuinely threaten any PC without comparable skills. They will flee if the paymaster is visibly dead, or switch sides for a price.
-
----
 
 ### 5.4 Cult Priest (Professional)
 
@@ -336,8 +318,6 @@ to trade information for survival).
 ```
 
 **Running the cult priest.** Most dangerous when they have information the PCs need and use it as leverage. In a fight, they defend and protect the sorcerer or ritual. High Insight (70%) means they read the PCs quickly - play them as observant and calculating, not a mace-charging zealot. The cultist followers are true believers with improvised weapons; they die on command, but only the priest's or sorcerer's command.
-
----
 
 ### 5.5 Tribal Champion (Named Antagonist)
 
@@ -393,8 +373,6 @@ the powers that sent them raiding.
 ```
 
 **Running Dhakar.** In a formal duel, his Honour passion is active - benefits him (+20% to +50% inspiration) and constrains him. A clever PC may deliberately make the fight informal to disrupt his rhythm and trigger the passion as a liability. At Spear 75% + Bone-Breaker, he is devastating. His low HP (16) means focused fire ends him fast, but Unbreakable and Deflect the Killing Blow make him harder to finish than he looks.
-
----
 
 ### 5.6 Sorcerer-Villain (Named Antagonist)
 
@@ -471,8 +449,6 @@ Patron Intercession mechanics at Patron Score 14.
 ```
 
 **Running Nashtira.** Physically fragile (HP 11, no armour), magically dangerous (POW 18). The PCs can kill her quickly if they reach melee; the challenge is getting through the Rabble and bodyguard. Her Corruption past the Breaking Point is a description tool: she should seem wrong - too still, too calm, capable of decisions a normal person would flinch from. She knows the patron will not intercede unless the Codex is at stake, so she burns her own resources first. Look Out Master! is available at full PP; after heavy casting it may not be, leaving her running - which is an invitation for a chase scene.
-
----
 
 ## 6. Encounter Design Notes
 

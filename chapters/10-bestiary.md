@@ -6,8 +6,6 @@ Stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and 
 
 Read §5 for the combat rules these stat blocks reference. Demons tie back to §7.7 (player-side summoning) and §11 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in §11.
 
----
-
 ## 1. Creature Entry Format
 
 **Characteristics** - STR, CON, SIZ, INT, POW, DEX, CHA. Typical values listed; for variable creatures, the dice expression is given with average in parentheses.
@@ -62,8 +60,6 @@ The Great Wolf is a legendary fight. When defeated, its pelt is a relic worth a 
 ### 1.1 Rabble and Creatures
 
 Undead created by sorcery (skeletons, zombies) are Rabble-scale and use the Rabble incapacitation rule. Ordinary animals use standard combat rules - a wolf or lion is not a Rabble. A lone crocodile is a serious threat; a dozen crocodiles in a river are a hazard requiring a different resolution approach.
-
----
 
 ## 2. Mortal Beasts
 
@@ -361,8 +357,6 @@ Larger than a tiger, heavier-boned, and armed with elongated canine teeth that c
   - _Killing Bite._ If the sabre bite is a critical hit, the target is bleeding for 1D6 HP per round (the great teeth sever blood vessels that normal wounds do not reach) in addition to the §A1 entry's effects. First Aid stops this bleeding as normal.
 - **Morale:** Fights to incapacitate prey. Retreats if injured before a kill is achieved.
 
----
-
 ## 3. Undead
 
 In a world layered over older civilisations - tombs sealed before the last cataclysm, curses laid by sorcerers who have been bones for five centuries, burial rites performed wrong or not at all - the undead are not a rare accident. They are a predictable consequence of the deep past.
@@ -555,8 +549,6 @@ The wight is an older form of undead than the mummy - pre-sorcery, pre-city, a w
   - _Command Undead._ A wight can compel skeletons and zombies within POW metres to obey it (commanding as a free action).
 - **Morale:** Defends its barrow to destruction. Does not pursue beyond its burial mound.
 
----
-
 ## 4. Fantasy Beasts
 
 Creatures of the world's mythology as much as its ecology - things that live in the hostile wilderness, ruins, and the old places where the deep past is close to the surface. Not supernatural in the way undead and demons are, but strange. Encountering them is not like encountering a lion.
@@ -747,8 +739,6 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
   - _Carry Prey._ A griffin can grapple and carry prey up to SIZ 30 (a horse, a large human). Grappled targets take talon damage each round; escaping requires STR vs STR (Difficult).
 - **Morale:** Defends its nest and cubs to the death. Hunts opportunistically and retreats if prey fights back effectively.
 
----
-
 ## 5. Demons
 
 Demons are entities of the outer dark - not from this world, not concerned with its values, fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
@@ -844,8 +834,6 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
   - _Knows the Names._ Yog-Hath knows the true names of 1D10 lesser demons currently bound in the world. It may use these names as leverage in negotiations, or to interfere with another sorcerer's bindings.
   - _Spells._ Knows all 29 spells in §7.6. Casts using a PP pool of 28.
 - **Demands in Summoning:** The ritual requires the sorcerer to offer a personal item of significant value (not monetary - emotional), a quantity of their own blood, and 6 hours of uninterrupted preparation. Yog-Hath arrives curious, not hostile. Its opening demand is typically a sorcerer it knows about, delivered into its reach. It negotiates from there.
-
----
 
 ## 6. Elementals
 
@@ -958,8 +946,6 @@ A surge of coherent water, nearly unstoppable in open water - a river, a harbour
   - _Fire Vulnerability._ Intense, sustained fire (a flaming area attack, not a torch) causes 1D8 per round of contact. Steam is released; the elemental loses 1 AV per round of fire exposure.
   - _Immunity._ Ordinary physical impacts deal half damage.
 - **Morale:** Follows direction. When released or the binding expires, flows back toward the nearest significant body of water.
-
----
 
 ## 7. The Chaotic Features Table
 

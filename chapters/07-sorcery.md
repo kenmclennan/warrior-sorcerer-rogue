@@ -2,8 +2,6 @@
 
 This chapter covers becoming a sorcerer, casting spells, the three costs, iron disruption, grimoires, and the full spell list. §11 covers the GM side: patrons, demons, and what happens when a sorcerer goes too far.
 
----
-
 ## 1. Becoming a Sorcerer
 
 ### 1.1 What a Sorcerer Is
@@ -16,7 +14,7 @@ To become a sorcerer, a character must meet all three of the following condition
 
 **Power (POW 16 or higher).** The sorcerous current demands a minimum vital force. A character with POW 15 or below can own a grimoire, can even read it, but cannot draw power through the text. The spells simply will not come. This threshold is not negotiable.
 
-**A sorcerer's profession or background.** The character must have pursued sorcery through a recognised path: formal apprenticeship under an established sorcerer, years alone in a dark library, a pact exchanged in a place that should not exist, or initiation into a small and secretive order. Characters from purely martial or criminal backgrounds who have never been near sorcerous instruction cannot qualify, however high their POW. See §2.5 for the professions that qualify.
+**A sorcerer's profession or background.** The character must have pursued sorcery through a recognised path: formal apprenticeship under an established sorcerer, years alone in a dark library, a pact exchanged in a place that should not exist, initiation into a small and secretive order, or the oral tradition of a tribal mentor working with spirits and ancestors. Characters from purely martial or criminal backgrounds who have never been near sorcerous instruction cannot qualify, however high their POW. See §2.5 for the professions that qualify.
 
 **A grimoire.** Every sorcerer begins with at least one grimoire containing their starting spells. Without access to written sorcerous knowledge, no learning is possible. Starting sorcerers know a number of spell levels equal to half their INT (round up), inscribed in their grimoire and memorised for immediate use. See §5 for grimoire rules.
 
@@ -24,7 +22,7 @@ To become a sorcerer, a character must meet all three of the following condition
 
 These are narrative distinctions, not mechanical ones. Each produces the same sorcerer; they shape debts, enemies, and casting signature.
 
-**Apprenticeship.** Years under an established sorcerer - a court mage, desert hermit, marsh witch. The apprentice's grimoire is usually a partial copy of the master's, taken in secret or given reluctantly.
+**Apprenticeship.** Years under an established sorcerer - a court mage, desert hermit, marsh witch, tribal shaman, or mountain wise-woman. The apprentice's grimoire is usually a partial copy of the master's, taken in secret or given reluctantly; for a shaman, this may be a bone-scrimshaw or knotted-cord record rather than ink on parchment.
 
 **The Dark Library.** Self-taught from texts found in a ruin, temple archive, or dead scholar's estate. Slow, dangerous, prone to misunderstanding. The grimoire may be incomplete or in languages only partially understood.
 
@@ -37,8 +35,6 @@ These are narrative distinctions, not mechanical ones. Each produces the same so
 At character creation, a sorcerer-archetype PC may trade vitality for power: every 2 points permanently reduced from any combination of STR, CON, or CHA grants 1 POW. Irreversible. Cannot push POW above 21. Available only at creation.
 
 The trade is visible to those who know what to look for: hollowness about the eyes, a chill in the handshake, an unnatural stillness. The signs of a transaction.
-
----
 
 ## 2. Casting Spells
 
@@ -77,8 +73,6 @@ Default duration is the caster's POW in combat rounds, unless the entry states o
 ### 2.8 Resistance and Contested Spells
 
 Targeted spells must overcome the target's resistance via the Resistance Table (§4.4.4): the sorcerer's current PP (after paying the cost) vs. the target's POW. On a failure, the spell is blocked; PP are still spent. Winning a resistance roll against a target with equal or higher POW earns an experience checkmark toward improving POW (§4.8.5).
-
----
 
 ## 3. The Cost Trio
 
@@ -162,8 +156,6 @@ _At Corruption 0:_ the sorcerer is lost - retired as an NPC or an entity under G
 - **Destroying the source.** Permanently destroying or banishing the entity responsible may restore up to half the Corruption that source threatened. The GM sets the amount.
 - **Ritual substances.** Rare alchemical and herbal preparations (black lotus, specific ritual fumes) can restore small amounts. Expensive and unavailable in most markets; GM sets availability and cost.
 
----
-
 ## 4. Iron Disrupts Sorcery
 
 Unenchanted iron is inimical to the sorcerous current.
@@ -177,8 +169,6 @@ Unenchanted iron is inimical to the sorcerous current.
 **Practical:** Iron sword (ENC 1) + iron helm (ENC 1) = -10% on all sorcery rolls. Iron mail (ENC 9) = -45%. Most sorcerers travel in bronze or leather.
 
 See §8.11 for ENC, §8.5 for material tiers, and §8.12.1 for the full iron-vs-sorcery rules.
-
----
 
 ## 5. Grimoires
 
@@ -217,8 +207,6 @@ Requirements:
 ### 5.3 Scribing Your Own Grimoire
 
 A sorcerer may copy memorised spells into a new grimoire. One day per spell level; appropriate tools required (ink and parchment for codex, kiln for clay tablets, etc.). If the original grimoire is damaged or lost, memorised spells are retained - but displaced spells are gone unless re-copied from a surviving grimoire or relearned. Multiple grimoires provide security at the cost of protection and transport.
-
----
 
 ## 6. The Spell List
 
@@ -264,8 +252,6 @@ The spells below are available to sorcerer PCs. Ritual workings, patron-specific
 | Whisper Across Distance    | 2 PP/intensity (max 4)       | 1 round           | Instantaneous          |
 | Wisdom of Wounds           | 1 PP                         | 1 minute          | Instantaneous          |
 
----
-
 ### Animate Dead
 
 **Cost:** 3 PP per body + 1 Corruption per body
@@ -282,8 +268,6 @@ A sorcerer may have up to POW/3 (round down) animated dead under their command a
 
 **Cost Notes:** Causes 1 Corruption per body animated. Animating the corpse of a known relative, or of a person the sorcerer has personally killed, causes 1D3 Corruption per body.
 
----
-
 ### Bind the Raging Heart
 
 **Cost:** 1 PP per intensity (max 4)
@@ -293,8 +277,6 @@ A sorcerer may have up to POW/3 (round down) animated dead under their command a
 The target must fail a POW resistance roll (§4.4.4) or enter a berserker state: attacks the nearest creature, cannot parry or dodge, cannot stop fighting even when mortally wounded. Does not feel pain. When the spell ends, the target collapses unless wounds were minor.
 
 **Cost Notes:** Casting at intensity 3 or higher increases Corruption by 1 (in addition to standard casting cost).
-
----
 
 ### Bird's Eye
 
@@ -306,8 +288,6 @@ The sorcerer sees through the eyes of a bird within range (intensity 1: line of 
 
 At intensity 3, the sorcerer may leap from one bird to another within range with a Difficult Idea roll.
 
----
-
 ### Brazier of Power
 
 **Cost:** 1 permanent POW + 4 PP per level of capacity
@@ -317,8 +297,6 @@ At intensity 3, the sorcerer may leap from one bird to another within range with
 The sorcerer binds permanent vital force into a physical object - a brazier, stone, sealed vessel, or carved monolith - creating a PP reservoir holding twice the sorcerer's normal PP maximum. Once created, the brazier can be recharged: spend 1 PP per round transferring from body to reservoir. The sorcerer may draw from the brazier as if from their own pool, but only while in physical contact or within POW x2 metres. If destroyed, the permanent POW investment is lost. If the sorcerer dies, stored power dissipates over POW hours.
 
 **Cost Notes:** Costs 1 permanent POW. Losing the brazier cannot restore this cost. A new brazier requires the full creation cost again.
-
----
 
 ### Chain of Being
 
@@ -330,8 +308,6 @@ The sorcerer becomes the focal point of a PP chain, drawing on the vital force o
 
 **Cost Notes:** Participants who contribute more than half their PP in a single session each suffer 1 Corruption.
 
----
-
 ### Cloak of Night
 
 **Cost:** 1 PP per intensity (max 4)
@@ -339,8 +315,6 @@ The sorcerer becomes the focal point of a PP chain, drawing on the vital force o
 **Duration:** POW rounds
 
 Enhances the target's Move Quietly skill: intensity 1 = +20%; intensity 2 = +40%; intensity 3 = +60%; intensity 4 = +80%. At intensity 4, the target becomes nearly invisible in dim light and completely invisible in darkness, audible only by breath and footfall.
-
----
 
 ### Curse of the Withered Hand
 
@@ -351,8 +325,6 @@ Enhances the target's Move Quietly skill: intensity 1 = +20%; intensity 2 = +40%
 The target must fail a POW resistance roll (§4.4.4) or receive a permanent, visible disfigurement: a hand turned claw, an eye that clouds and weeps black, hair that falls and does not grow back. The mark imposes -20% to all social interactions in communities that recognise it, and is visible to See the Unseen. The curse can only be broken by Undo Sorcery at equal or greater intensity, or by killing the caster.
 
 **Cost Notes:** Casting increases Corruption by 1D3 (in addition to standard casting cost).
-
----
 
 ### Far Sight
 
@@ -374,8 +346,6 @@ Targets of Far Sight at intensity 3 may sense the scrying with a Difficult Sense
 
 **Cost Notes:** Intensity 3 causes 1 Corruption.
 
----
-
 ### Flaying Blade
 
 **Cost:** 2 PP per intensity (max 4)
@@ -383,8 +353,6 @@ Targets of Far Sight at intensity 3 may sense the scrying with a Difficult Sense
 **Duration:** POW rounds
 
 Sheathes a bludgeoning weapon in sorcerous force. Enhanced weapon gains: intensity 1 = +1D6 damage; intensity 2 = +2D6; intensity 3 = +3D6; intensity 4 = +4D6. Ignores mundane armour (sorcerous armour, such as Shadow-Wrap, is not bypassed). The weapon glows faintly; wounds from it do not clot normally. A character who takes a critical hit from a Flaying Blade-enhanced weapon loses 1 HP per round until treated with First Aid.
-
----
 
 ### Hammer of the Gods
 
@@ -394,8 +362,6 @@ Sheathes a bludgeoning weapon in sorcerous force. Enhanced weapon gains: intensi
 
 Wraps a crushing weapon (mace, hammer, club, maul) in sorcerous force. Intensity 1 = +2D6 damage; target must make CON x5 or be knocked prone. Intensity 2 = +3D6 damage; knockdown roll is Difficult. Intensity 3 = +4D6 damage; knockdown roll is Difficult; targets knocked prone also lose their next action. The weapon makes a deep resonant sound on impact, audible at long range.
 
----
-
 ### Hell's Razor
 
 **Cost:** 2 PP per intensity (max 4)
@@ -403,8 +369,6 @@ Wraps a crushing weapon (mace, hammer, club, maul) in sorcerous force. Intensity
 **Duration:** POW rounds
 
 As Flaying Blade, but for a slashing or piercing weapon. Intensity 1 = +1D6 damage; intensity 2 = +2D6; intensity 3 = +3D6; intensity 4 = +4D6. Ignores mundane armour; wounds bleed until treated. Hell's Razor appears in most grimoires and is more commonly known than Flaying Blade. The two spells cannot both be active on the same weapon simultaneously.
-
----
 
 ### Honeyed Whisper
 
@@ -424,8 +388,6 @@ When the spell ends, the target remembers their actions and feels disturbed by t
 
 **Cost Notes:** Intensity 3 causes 1 Corruption.
 
----
-
 ### Inescapable Bonds
 
 **Cost:** 3 PP
@@ -433,8 +395,6 @@ When the spell ends, the target remembers their actions and feels disturbed by t
 **Duration:** POW rounds
 
 The target must fail a STR resistance roll (STR x5 vs. the sorcerer's current PP total x5) or be immobilised: unable to move, attack, cast, or take significant physical action. They may still speak and observe. Each round, the target may attempt a Difficult STR resistance roll (halved STR) to break free. Once free, the spell is spent.
-
----
 
 ### Iron Ward
 
@@ -444,8 +404,6 @@ The target must fail a STR resistance roll (STR x5 vs. the sorcerer's current PP
 
 Counter-magic. When cast before a specific spell or sorcerous effect, Iron Ward resists it. Intensity 1 resists spells of level 1-2; intensity 2 resists up to level 3; intensity 3 resists up to level 5; intensity 4 resists any working of any level. When two sorcerers contest with Iron Ward and a competing spell, compare PP pools after casting costs: the working with the higher remaining PP prevails.
 
----
-
 ### Leap of the Shadow Cat
 
 **Cost:** 1 PP per intensity (max 4)
@@ -453,8 +411,6 @@ Counter-magic. When cast before a specific spell or sorcerous effect, Iron Ward 
 **Duration:** POW rounds
 
 Enhances the target's Athletics (jump and climb) and Acrobatics skills: intensity 1 = +20%; intensity 2 = +40%; intensity 3 = +60%; intensity 4 = +80%. At intensity 4, the target can traverse vertical surfaces at normal movement speed and falls never exceed 3 metres of effective height.
-
----
 
 ### Lethe Touch
 
@@ -470,8 +426,6 @@ The spell does not erase physical evidence. The target may find the dagger they 
 
 **Cost Notes:** Casting increases Corruption by 1.
 
----
-
 ### Liken Shape
 
 **Cost:** 4 PP
@@ -479,8 +433,6 @@ The spell does not erase physical evidence. The target may find the dagger they 
 **Duration:** POW x10 rounds (approximately one hour)
 
 The sorcerer or a touched target assumes the appearance of a specific person or creature the sorcerer has observed closely. Visual only - voice and movement can be approximated but not replicated. Close acquaintances may sense something wrong with a Difficult Perception roll. Maintaining the shape requires concentration; no other spells can be cast while sustaining it. A sorcerer seen through while impersonating someone suffers -30% to social interactions with those present for the revelation.
-
----
 
 ### Mend the Mortal Frame
 
@@ -492,8 +444,6 @@ Heals 1D6+POW/5 (round up) HP in the sorcerer or a touched target. If used on a 
 
 **Cost Notes:** Always causes 1D3 Corruption regardless of the standard casting Corruption roll.
 
----
-
 ### Midnight
 
 **Cost:** 1 PP
@@ -504,8 +454,6 @@ Creates complete and unnatural darkness within POW metres. No light source withi
 
 The darkness has a quality beyond mere absence of light. It presses.
 
----
-
 ### Moonrise
 
 **Cost:** 1 PP
@@ -513,8 +461,6 @@ The darkness has a quality beyond mere absence of light. It presses.
 **Duration:** POW rounds
 
 Creates a floating light source equivalent to full moonlight, illuminating POW x2 metres. Cold, blue-white. Moves with the sorcerer unless anchored. At the GM's option, creatures of the deep dark (certain undead, certain demons) take a -10% penalty to actions while within it.
-
----
 
 ### Night Ear
 
@@ -524,8 +470,6 @@ Creates a floating light source equivalent to full moonlight, illuminating POW x
 
 The sorcerer's hearing becomes supernaturally precise: whispered conversation at 100 metres, individual footsteps in a crowd, heartbeats and breathing in adjacent rooms. Imposes -20% to tasks requiring visual concentration. At the GM's option, sudden loud noises cause 1D6 PP loss.
 
----
-
 ### Pox of the Sorcerer
 
 **Cost:** 1 PP
@@ -533,8 +477,6 @@ The sorcerer's hearing becomes supernaturally precise: whispered conversation at
 **Duration:** POW rounds
 
 Drains the target's PP pool by 1D3 per round for the duration. The target must fail a POW resistance roll each round or lose the PP. The drained PP are not transferred - they dissipate. A target drained to 0 PP collapses unconscious.
-
----
 
 ### See the Unseen
 
@@ -544,8 +486,6 @@ Drains the target's PP pool by 1D3 per round for the duration. The target must f
 
 The sorcerer perceives magical auras within POW x5 metres: roughly how much PP a creature has remaining, whether an object bears an active working, whether a creature is a bound demon or has demonic essence, and whether a sorcerer has a patron relationship and roughly what kind. Essential before attempting to bind a demon - reveals whether the demon's POW is beyond the sorcerer's ability to contain.
 
----
-
 ### Shadow-Wrap
 
 **Cost:** 2 PP per intensity (max 4)
@@ -553,8 +493,6 @@ The sorcerer perceives magical auras within POW x5 metres: roughly how much PP a
 **Duration:** POW rounds
 
 Wraps the sorcerer or a touched target in sorcerous protection functioning as armour: intensity 1 = AP 2; intensity 2 = AP 4; intensity 3 = AP 6; intensity 4 = AP 8. Stacks with worn armour. Does not protect against Flaying Blade or Hell's Razor, which ignore mundane armour but not sorcerous protection. Appears as a faint darkening of the air around the target.
-
----
 
 ### Shape Thief
 
@@ -565,8 +503,6 @@ Wraps the sorcerer or a touched target in sorcerous protection functioning as ar
 A more extreme version of Liken Shape. Cast on a human: the sorcerer gains the target's STR, DEX, and SIZ for the duration while appearing to be them. Cast on an animal: the sorcerer becomes that species with full physical capabilities. The sorcerer retains their own INT and POW and cannot cast other spells while maintaining Shape Thief.
 
 **Cost Notes:** Each use to take on a non-human form causes 1 Corruption (in addition to the standard casting cost).
-
----
 
 ### Skin of the Beast
 
@@ -588,8 +524,6 @@ Skin of the Beast is a less burdensome shape-changing spell than Shape Thief. It
 
 Learning Skin of the Beast for the first time in a campaign typically involves a brief ritual incorporating the totem animal's blood, hide, or sacred ground at the GM's discretion.
 
----
-
 ### Slumber of the Lotus
 
 **Cost:** 2 PP per intensity (max 4)
@@ -609,8 +543,6 @@ The spell's name comes from the Hyperborean lotus said to grow only in graveyard
 
 **Cost Notes:** Intensity 3 or 4 causes 1 Corruption.
 
----
-
 ### Still the Mind
 
 **Cost:** 1 PP
@@ -618,8 +550,6 @@ The spell's name comes from the Hyperborean lotus said to grow only in graveyard
 **Duration:** 1D6 rounds
 
 The target must fail a POW resistance roll or be unable to cast spells, plan coherently, or perform any task requiring concentration. They may still fight and move on instinct. A target who is attacked may make a new POW resistance roll at the start of each following round to shake free.
-
----
 
 ### Summon Demon
 
@@ -631,8 +561,6 @@ The sorcerer prepares a circle, invokes a demon by the appropriate formula, and 
 
 **Cost Notes:** Summoning a lesser demon causes Corruption per the §3.3 table. Summoning a Greater Demon causes 1D3 additional Corruption regardless of the roll result.
 
----
-
 ### Sureness of Hand
 
 **Cost:** 1 PP per intensity (max 4)
@@ -640,8 +568,6 @@ The sorcerer prepares a circle, invokes a demon by the appropriate formula, and 
 **Duration:** POW rounds
 
 Enhances the target's manual or ranged combat skill: intensity 1 = +20%; intensity 2 = +40%; intensity 3 = +60%; intensity 4 = +80%. At intensity 4, the target's hands do not shake under stress and they receive an additional +10% to any action requiring precise fine manipulation.
-
----
 
 ### Undo Sorcery
 
@@ -659,8 +585,6 @@ The sorcerer ends an active spell or sorcerous effect. The target spell must be 
 
 **Cost Notes:** Dispelling a curse cast by another sorcerer, or breaking a patron's working, causes 1 Corruption.
 
----
-
 ### Undying Strength
 
 **Cost:** 2 PP per intensity (max 3)
@@ -668,8 +592,6 @@ The sorcerer ends an active spell or sorcerous effect. The target spell must be 
 **Duration:** POW rounds
 
 Augments the target's physical power: intensity 1 = +1D6 STR; intensity 2 = +2D6 STR; intensity 3 = +3D6 STR. Applies to damage modifier, Brawn rolls, and STR-minimum weapon requirements. At intensity 3, the target can lift objects that would ordinarily require a crew. The augmentation is visible. When the spell ends, the target takes 1D3 fatigue damage (applied to HP).
-
----
 
 ### Vampire's Kiss
 
@@ -681,8 +603,6 @@ Drains vitality from a touched target to heal the sorcerer or a third party. The
 
 **Cost Notes:** Each use causes 1 Corruption (in addition to standard casting cost).
 
----
-
 ### Veil of the Ancient
 
 **Cost:** 1 PP
@@ -691,8 +611,6 @@ Drains vitality from a touched target to heal the sorcerer or a third party. The
 
 Creates a magical alarm on a defined perimeter. Any creature larger than a cat that crosses it triggers a silent alarm the sorcerer perceives as a physical sensation. The alarm does not stop intruders - it only signals their presence.
 
----
-
 ### Vermin's Eye
 
 **Cost:** 1 PP per intensity (max 3)
@@ -700,8 +618,6 @@ Creates a magical alarm on a defined perimeter. Any creature larger than a cat t
 **Duration:** POW rounds
 
 As Bird's Eye, but through the eyes of a rat, snake, insect colony, or similar small creature. Shorter range (intensity 1: close; intensity 2: within 200m; intensity 3: within 1 km) but targets are ubiquitous. At intensity 3, the sorcerer may share perception with multiple creatures simultaneously; overlapping information is difficult to parse (Difficult Idea roll to act on specific data from a particular creature).
-
----
 
 ### Whisper Across Distance
 
@@ -722,8 +638,6 @@ The target may refuse the contact - choosing to ignore the voice in their head r
 
 **Cost Notes:** Intensity 4 causes 1 Corruption.
 
----
-
 ### Wisdom of Wounds
 
 **Cost:** 1 PP
@@ -731,8 +645,6 @@ The target may refuse the contact - choosing to ignore the voice in their head r
 **Duration:** Instantaneous
 
 The sorcerer examines a wound, a body, or a patient in extremis and reads what happened with sorcerous clarity: the exact cause, timing, and weapon type of any wound; whether a death was caused by poison and roughly which; and how close to death a living patient is. Diagnostic only - it does not heal.
-
----
 
 ## 7. Demon Summoning: The Player's Side
 

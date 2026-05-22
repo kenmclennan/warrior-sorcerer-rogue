@@ -6,15 +6,11 @@
 
 **Female:** Pheneithia, Aglaonia, Cassiopra, Doriasta, Helossora, Lyrissia, Phaedrana, Selemaia, Thalassina, Xanthella
 
----
-
 ## 2. The Walled Cities
 
 **Male:** Yarhibet, Tabnitar, Eshmu'al, Bomilcaru, Hanyamel, Magolar, Sikkarith, Adunaba, Bostarith, Sicharu
 
 **Female:** Tanithra, Bithyel, Imilcat, Maharbet, Sapha'it, Anathra, Sicharbi, Yeretut, Astarith, Eshmunya
-
----
 
 ## 3. The Great River Kingdoms
 
@@ -22,15 +18,11 @@
 
 **Female:** Nefersara, Innaslag, Hatshepra, Beletunet, Tashmir-Iset, Iset-Hora, Senebra, Naqi-El, Mutnera, Sammurat
 
----
-
 ## 4. The Vast Empire
 
 **Male:** Darianos, Khsathrios, Bahranid, Khordagh, Ardashar, Shapuran, Mithradan, Tiribazid, Pharnos, Mardonal
 
 **Female:** Aratossa, Rashanith, Stairissa, Parynath, Mandavia, Amesthryne, Artydissa, Panthissa, Drypadira, Cassandara
-
----
 
 ## 5. The Horse Folk
 
@@ -38,23 +30,17 @@
 
 **Female:** Tomyrisa, Zarinaca, Amagaita, Tirgata, Sparethra, Khutulansa, Bortessa, Mandukha, Sorghada, Yesuyan
 
----
-
 ## 6. The Cold Wilds
 
 **Male:** Hrolgund, Vidulfr, Snorragar, Hakthal, Eirvald, Asgrith, Ulfhalmr, Ragenmar, Throgar, Bjarmir
 
 **Female:** Astharil, Bryndila, Freyhild, Gudvinna, Hildraga, Yngslada, Solvinna, Throsdis, Halgrida, Ranvalda
 
----
-
 ## 7. The Burning Lands
 
 **Male:** Hazimar, Mansurat, Karyamet, Tarikal, Sundakar, Aszendar, Tunkali, Yuma-Bel, Walidem, Zaharun
 
 **Female:** Aysharia, Laylinath, Faytimet, Sogolanith, Inkpiya, Khadirun, Mariamat, Yasminat, Zaramara, Nadwira
-
----
 
 ## 8. The Scattered Isles
 

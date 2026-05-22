@@ -7,13 +7,9 @@ Worked examples on the GM side of the book - the tools in §9-§13 applied to a 
 
 Characters from §A2 (Khess the Knife, Orryn, and Karash) appear throughout.
 
----
-
 ## 1. Designing a Session
 
 _GM building a single session: hook, complications, reckoning. PCs: Khess the Knife (City Thief), Orryn (Mercenary Soldier), Karash (Scholar of the Dark Arts)._
-
----
 
 ### 1.1 Starting with the PCs
 
@@ -26,8 +22,6 @@ The GM reviews the Passion lists from last session's sheets.
 **Karash:** Patron compact with the Faceless One; current Patron Score 14. Passion: Dread of losing himself to the working (60%).
 
 Three usable hooks: the Syndicate (Khess's Hatred 80%); the Pit Lords (Orryn's Hatred 75%); patron communication (Karash's Dread 60%). The hook should engage at least one Passion directly. The GM chooses the Syndicate - Khess's Hatred at 80% is the highest Passion in the group and has not yet been directly resolved.
-
----
 
 ### 1.2 Using the §13 Generator: A Small Fallen Empire Hit
 
@@ -43,8 +37,6 @@ The GM rolls on §13.1 and §13.2 for a fallen empire profile to seat the advent
 
 **What this gives the GM:** The Serpent Syndicate uses the archive as a private document vault - stumbled on the lower entrance three years ago and has no idea what they are sitting on. The ancient wall-encoding is starting to behave strangely now that the Syndicate is burning lamp oil and storing sorcerously-adjacent documents there. This is the background the PCs do not know.
 
----
-
 ### 1.3 Building the Hook
 
 The hook needs to be specific, engage a Passion, and leave the stakes clear.
@@ -57,8 +49,6 @@ _Passion invocation gives +20% to negotiation and information-gathering in the f
 
 **The stakes:** The prefect will sell Essa to the Pit Lords within three days. This engages Orryn's Hatred of the Pit Lords - the GM plans to reveal it at the end of the hook scene, when Brine mentions where the Pit Lords' agents ship their captives. Two Passions firing before the PCs leave the room.
 
----
-
 ### 1.4 Seeding the Complications
 
 Two complications - one external (a problem in the world), one internal (a problem that lands on a specific PC).
@@ -68,8 +58,6 @@ Two complications - one external (a problem in the world), one internal (a probl
 **Complication two - the sorcerous residue.** When Karash enters the lower archive (which he will, because a sorcerer's player never passes up "ancient ruin beneath the city"), See the Unseen will immediately reveal three things: the Ward on the inner sanctum (a moderate-strength working, Intensity 3), the encoded sorcery in the walls pulsing with recent activation, and a second presence - another sorcerer's recent casting signature, overlaid on the Syndicate clerk's lamp oil smell. Someone else has been working in here.
 
 _This complication centres on Karash rather than Khess - good complication design uses a different PC as the locus for the second threat._
-
----
 
 ### 1.5 Preparing the Reckoning
 
@@ -83,8 +71,6 @@ Three acceptable endings: costly success, partial success, expensive escape. The
 
 _Have all three in mind; run whichever the fiction arrives at._
 
----
-
 ### 1.6 One NPC Built for the Session
 
 The GM needs the Syndicate clerk: Perrak, a professional (§9.1.2) - document forger, self-taught sorcerous dabbler, no patron.
@@ -93,13 +79,9 @@ _Perrak's stat block is drafted in fifteen minutes using §9.3's professional fo
 
 The archive is now "dangerous known plus Perrak's unknowing amplification" rather than "dangerous unknown" - more human, and the PCs' choice about Perrak is a genuine moral one. Turn him in alongside the forged document. Let him go. Warn him what the walls are doing with his castings. That call belongs to the players.
 
----
-
 ## 2. Designing an NPC Sorcerer Step-by-Step
 
 _G4 §1 framework applied to a mid-tier patron sorcerer as named antagonist. Drop into any scenario involving a regional cult or a patron's local instrument._
-
----
 
 ### 2.1 The Three Questions First
 
@@ -116,8 +98,6 @@ A specific piece of information that only the Charnel Heir can provide: the loca
 **Question 3 - How does she relate to the PCs?**
 
 Not hunting them - working a parallel angle on the same artifact. When they meet, she assesses: tool, threat, or irrelevant. Her first move will not be violence.
-
----
 
 ### 2.2 Characteristics and Derived Statistics
 
@@ -142,8 +122,6 @@ Not hunting them - working a parallel angle on the same artifact. When they meet
 - **Damage Modifier:** STR + SIZ = 10 + 11 = 21. Consulting the table: no modifier. She does not rely on physical force.
 - **Corruption:** 51 (Breaking Point: 47 - she is past it)
 
----
-
 ### 2.3 Key Skills
 
 Twelve years in study and field research:
@@ -160,8 +138,6 @@ Twelve years in study and field research:
 
 She fights in emergencies only.
 
----
-
 ### 2.4 Patron Compact: The Charnel Heir
 
 Ysolde is bonded to the Charnel Heir (§11.4.3). The relevant mechanics:
@@ -170,8 +146,6 @@ Ysolde is bonded to the Charnel Heir (§11.4.3). The relevant mechanics:
 - **Demands she is actively fulfilling:** "Advance the lineage" (she is hunting the bloodline artifact); "Read the record" (monthly commune, which she finds increasingly distressing).
 - **Demand she has avoided:** "The dead are owed" - she has not been able to bring herself to perform the post-death property ritual. This is the fracture in her compact she does not want the PCs to see.
 - **Gift active:** _Speak to the Dead_ - she may question recently dead persons. She has used this three times. All three experiences reinforced that she is not ready for what the Charnel Heir wants from her.
-
----
 
 ### 2.5 Spell Loadout
 
@@ -192,15 +166,11 @@ Ysolde's INT is 18, so she may hold 18 levels of spells in memory. She has chose
 
 **Grimoire:** also contains Moonrise, Undo Sorcery (_The Erasure_), and a partial formula for a unique spell built from Charnel Heir fragments over eight months. The GM leaves it undefined until scenario-relevant.
 
----
-
 ### 2.6 Casting Signature and Presentation
 
 **Casting signature** (per design.md §2.2 - magic is theatrical): The smell of old paper and copper-gall ink. When she casts, the ambient temperature drops sharply for three seconds, then returns. Anyone who has spent time in old archives will find the smell immediately familiar but wrong - it is stronger and older than any archive they have been in.
 
 **Presentation past Breaking Point:** Casting signature manifests without casting. Animals will not approach her. In low light her shadow occasionally misaligns. She is aware of all of this: meets people in well-lit rooms, avoids outdoors, explains the animals as an old allergy.
-
----
 
 ### 2.7 The Finished Stat Block
 
@@ -229,13 +199,9 @@ Casting signature: Old paper and copper-gall ink; three-second temperature drop.
 Fate Point access: Yes (full named-antagonist PP pool, spends normally).
 ```
 
----
-
 ## 3. Running a Chase Scene at the Table
 
 _Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: §6.8._
-
----
 
 ### 3.1 Set-Up
 
@@ -253,8 +219,6 @@ _Khess has been spotted in the Syndicate archive. Two professional enforcers and
 
 6. **Conclusion:** Khess reaches Out of Sight for two consecutive rounds and makes it to the safe door at the dyer's yard (which Karash is holding from the other side). Or: the lead enforcer reaches Side by Side and she is caught.
 
----
-
 ### 3.2 Round 1: Through the Spicer's Market
 
 **Starting position:** Engaged.
@@ -266,8 +230,6 @@ _Khess has been spotted in the Syndicate archive. Two professional enforcers and
 _Result: Pursuer failed, quarry succeeded. Position shifts one step further away. Engaged becomes Distant._
 
 **Narration:** "You scatter three tiers of pomegranates off a trestle table as you cut through - the vendor's shout covers the sound of your boots - and when you glance back through the crowd, the first enforcer has stumbled into the cleared space and lost you for a beat. You are pulling away."
-
----
 
 ### 3.3 Round 2: The Obstacle - the Low Roof
 
@@ -285,8 +247,6 @@ _Result: Standard chase - quarry succeeds, pursuer fails - position moves one fu
 
 **Position: Out of Sight (first consecutive round).**
 
----
-
 ### 3.4 Round 3: Across the Rooftop
 
 Khess has one round of Out of Sight. She needs a second to end the chase.
@@ -299,19 +259,13 @@ _No pursuer succeeds this round. Position remains Out of Sight - second consecut
 
 **Chase ends: Khess has escaped.**
 
----
-
 ### 3.5 Resolution at the Table
 
 **Narration:** "You clear the rooftop at a run and drop into the dyer's yard - the familiar smell of mordant and damp wool hits you before you land. Karash has the door. He does not ask any questions you cannot answer while moving. The two of you are two streets away before the Syndicate men make it back to ground level. You hear the Rabble's horse at a canter on the wider avenue, going the wrong direction."
 
----
-
 ## 4. Adjudicating Sorcery Costs in Play
 
 _The GM's side of a sorcerer PC's major casting. Player-side in §A2.3. Karash wants to cast Bind the Raging Heart at Intensity 3 on a named professional antagonist mid-combat. PP cost significant, Corruption risk real, iron check relevant._
-
----
 
 ### 4.1 The GM's Pre-Casting Checklist
 
@@ -343,8 +297,6 @@ _The GM calculates this silently; the resistance roll is disclosed once casting 
 
 Magic is theatrical (design.md §2.2). The GM describes Karash's casting signature before the dice: "The air thickens. The shadow from that wall lamp isn't falling right. The mercenary blinks. What are you doing?" This is also tactical information: the mercenary (a professional, not a Rabble) will attempt to close range in the Statements phase of the next round if the spell fails.
 
----
-
 ### 4.2 Casting Phase and Roll
 
 Per §7.2.2: the casting occurs in Phase Two of the round (Powers phase). The spell's full effect (if it takes hold) resolves at the end of Phase Two.
@@ -365,8 +317,6 @@ Additionally, the standard table applies on failure. But this was not a spell fa
 
 **Total Corruption cost: 2. From 85 to 83.**
 
----
-
 ### 4.3 The Patron Compact Moment
 
 Karash has 9 PP remaining. His patron, the Faceless One, has a PP reserve available. The player asks: "Can I invoke Patron Intercession to try the spell again?"
@@ -380,8 +330,6 @@ The GM does not say this out loud. But the GM knows it. If the player invokes th
 _This is the GM's side of the patron compact: knowing what the patron would and would not do, and running that honestly even when it is inconvenient for the PC. The player knows their patron's demands from their character sheet (§7.3.2). The GM knows what those demands mean in practice._
 
 Karash does not invoke. The player decides 9 PP is enough for a Deflect the Killing Blow if needed, and the mercenary is already badly wounded from Orryn's earlier attack. They will finish the fight the old way.
-
----
 
 ### 4.4 GM Checklist Summary
 

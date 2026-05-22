@@ -7,8 +7,6 @@ The world is ancient. Civilisations rose, over-reached, collapsed, and were forg
 
 This chapter is in two halves. **§§1-4** are generators that build deep history piece by piece - empires, cataclysms, ruins, and the lost sorcery and technology that bleed through into the present. **§§5-7** are worked examples - six adventure locales, six archetypal NPCs, and six archetypal beasts, each with hooks ready to drop into a session. Combine them: a generator-built fallen empire produces the Sorcerer's Tower in §5.1, occupied by the Sorcerer-Tyrant in §7.1, defended by the Serpent-Folk in §8.6. Build only what the adventure requires; the edge where your knowledge ends is where dread lives.
 
----
-
 ## 1. Generator: Fallen Empires
 
 Roll or select; combine categories as needed. A fallen empire needs at least one entry from each of the four categories below. Two or three entries from a single category produces a richer picture. These are raw material, not finished histories.
@@ -65,8 +63,6 @@ _The residue of a civilisation - what the PCs will find._
 | 5   | **A remnant population** | People who survived the cataclysm, or their descendants, carrying the old culture into the present in changed form. They may not know what they once were. They may know exactly. They may be friendly; they may be deeply territorial; they may be something that was once human and has since moved in a different direction. |
 | 6   | **A sealed gate**        | The empire built something intended to contain - a prison, a barrier, an airlock between the world and something else. It is still sealed. The seals are old and stressed. Whatever built the gate wanted nothing to enter from this side; whatever is behind the gate has had a long time to think about getting out.          |
 
----
-
 ## 2. Generator: Cataclysms
 
 A cataclysm reshapes landscape, fractures cultures, and leaves survivors carrying inherited trauma for generations. Use this generator to build cataclysms or detail the collapse type from §13.1.3. A cataclysm needs entries from at least the first two categories.
@@ -118,8 +114,6 @@ _The permanent mark on the land._
 | 4   | **Poisoned skies**       | Something in the atmosphere that does not disperse: perpetual ash cloud, an aurora that the locals call an omen, a smell of copper when the wind comes from a certain direction. The air in the affected region causes slow harm: the Corruption track loses a point per week for sorcerers; non-sorcerers suffer a -5% on all rolls that require concentration after more than a day in the zone. |
 | 5   | **A wandering plague**   | The original disease, or its descendant, still moves through the land. Not enough to break civilisation now - most people have partial immunity - but enough to mark isolated communities and be weaponisable. A motivated sorcerer with access to a live sample and a laboratory might be able to restore it to its original potency.                                                             |
 | 6   | **A thinned veil**       | The boundary between the world and what lies beyond it was permanently damaged in the affected region. Demons do not need to be summoned here - they leak through. The sorcery cost architecture (§7.3) functions strangely: spells that should cost 1 PP cost nothing; spells that should cost 3 PP trigger Corruption automatically. Nothing here obeys the rules it should.                     |
-
----
 
 ## 3. Generator: Ruins
 
@@ -192,8 +186,6 @@ _What makes the risk worthwhile. A site can have more than one._
 | 5   | **Reputation**     | The deed itself - surviving the site, retrieving a specific object, accomplishing a task no one else has managed - is worth something in the world above. Whoever sent the PCs here gains significantly. So, potentially, do the PCs.                                                                  |
 | 6   | **Cursed**         | Whatever the PCs recover is compromised - bound to something that will follow it, carrying a working that will trigger, bearing the obligation of the last person who held it. The curse is not obvious until it is active. By then, the PCs have had it long enough that the solution is complicated. |
 
----
-
 ## 4. Pre-Cataclysm Sorcery and Science
 
 The §7 spell list is what has survived the cataclysms in transmissible form. Pre-cataclysm sorcery operated at a different scale - binding gods, mastering death at industrial scale, encoding spells into architecture - and surviving fragments of it are the engine of many scenarios.
@@ -213,8 +205,6 @@ The §7 spell list is what has survived the cataclysms in transmissible form. Pr
 - **The knowledge problem.** Pre-cataclysm lore exists and someone wants it - or wants to prevent others from having it. A weapon, a map, a formula, a history that would overturn what living institutions claim. The PCs are in the middle of the competition.
 
 None of these require a world with a defined history. They only require a world with a past.
-
----
 
 ## 5. Adventure Locales
 
@@ -322,8 +312,6 @@ A city perched atop sheer cliffs of jade-blue and crimson stone, hidden in a val
 1. **The Question.** A patron requires an answer only the preserved king can give. The PCs are paid to deliver the question and bring back the answer. The question itself is dangerous; bringing it into the chamber may draw the king's attention to the patron. The journey back is the harder leg.
 2. **The Heir.** A claimant to a surface kingdom believes their bloodline runs to the lost city's original royal house. They have hired the PCs to verify - and, if verified, to retrieve a sign of legitimacy that the current ruler is not willing to part with.
 3. **The Awakening.** Something in the Underbelow is moving. The current population does not know it; the ruler does, and has decided the only solution is to draw outside attention to themselves and let the visitors deal with it. The PCs are the visitors.
-
----
 
 ## 6. Archetypal NPCs
 
@@ -621,8 +609,6 @@ not to until then. The threshold for "safer" is low.
 1. **The Documents.** The patron commissions a theft of specific documents from a rival. The rival is forewarned. The PCs are caught, escape, and discover that the patron arranged the warning - he wanted the rival's response, not the documents.
 2. **The Setup.** The patron pays in advance for once. The coin is real but marked; the PCs leave the meeting carrying evidence that ties them to a crime they have not yet committed. The crime will happen tonight, and the patron's signature will be nowhere on it.
 3. **The Recurring Betrayer.** This is not the first time. A PC recognises him from an old job that went wrong. The PC's choice is to refuse the work, take it knowing what is coming, or use the meeting to settle the old account. The patron has prepared for all three.
-
----
 
 ## 7. Archetypal Beasts
 

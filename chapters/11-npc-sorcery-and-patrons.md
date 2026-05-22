@@ -4,8 +4,6 @@
 
 This chapter covers building sorcerer antagonists, naming and running patron entities, conducting ritual workings, managing bound demons as campaign elements, and running the Apotheosis trajectory for patron-bonded sorcerers who have gone too far. Read §7 first - this chapter deepens what players see from the other side of the circle.
 
----
-
 ## 1. Designing an NPC Sorcerer
 
 ### 1.1 What Makes an NPC Sorcerer Different
@@ -51,13 +49,9 @@ High-tier NPC sorcerers may possess spells not on the player spell list (§7.6).
 
 The best sorcerer antagonists are not one-encounter threats. Use the patron relationship, the demon-binding debt, and the slowly advancing Corruption to give them a trajectory: the PCs defeat them, they retreat diminished, they appear again - patron-diminished or with a new bargain. The campaign history accumulates around them.
 
----
-
 ## 2. Sample NPC Sorcerers
 
 Scenario seeds, not finished characters. Adjust characteristics to suit the campaign's power level by scaling POW and PP up or down by 2-4 points.
-
----
 
 ### 2.1 The Cult Leader
 
@@ -89,8 +83,6 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 **Motivation:** Haraka wants completion. He has been assembling a ritual working for eleven years, piece by piece. The PCs arrive when the last component is almost within reach. He will kill them if necessary, bargain if preferable, and only panic if the ritual is directly threatened.
 
 **Hook for PCs:** A missing person - merchant, noble, young scholar - has joined the cult and their family wants them back. The extraction is messier than expected. Haraka is not a mindless villain; he is a man who has made choices that compounded, and he genuinely believes his patron will reward his followers.
-
----
 
 ### 2.2 The Court Mage
 
@@ -131,8 +123,6 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Hook for PCs:** The PCs are sent to court with a message. Verethane intercepts it. Why? What was in the message that she needed no one else to see? The answer will take the entire campaign to unravel.
 
----
-
 ### 2.3 The Hermit
 
 **Title:** "The Old Wound" (true name: Ossian)
@@ -162,8 +152,6 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 **Motivation:** Ossian wants to give his knowledge to someone trustworthy before he dies or becomes something that is no longer him. His Patron Score is high; the Empty One has begun to communicate. He does not like what it says. He needs to act before he runs out of time or self.
 
 **Hook for PCs:** A PC sorcerer hears of the Old Wound from another sorcerer who was once a student - briefly, until it became too strange. The hermit is genuinely willing to teach. He is also being hunted by agents of the court, who know he is still alive and still remembers things. The PCs arrive in the desert and find the tower before the hunters do. Whether they get there first is a question of how fast they travel.
-
----
 
 ### 2.4 The Witch-Queen
 
@@ -207,8 +195,6 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Hook for PCs:** One of the neighbouring kingdoms hires the PCs to do what four royal armies have failed to do: kill the Witch-Queen, or retrieve something from her palace that will give them leverage. The Witch-Queen herself is not an unreasonable woman, under the circumstances. She might hire the PCs herself, if they can reach her before her court kills them.
 
----
-
 ### 2.5 The Apprentice-Risen
 
 **Title:** "The Fortunate One" (true name: Tamas)
@@ -240,8 +226,6 @@ Tamas is now a sorcerer with a powerful bound demon who is structurally dependen
 **Motivation:** Tamas needs help. He will approach PCs who have sorcerous capability, tell them a version of his story that makes him seem more sympathetic than culpable, and offer something in return - Vas-Saroth's labour for a defined task, the name of a sorcerer who could teach them, or information about the court mage whose grimoire he still has.
 
 **Hook for PCs:** Tamas's real danger is Vas-Saroth. If the PCs discover what Tamas has done and are tempted to free the demon (killing him, taking his true name, or simply weakening the binding), Vas-Saroth's release is a scenario in itself. The demon is patient. It has been waiting for someone with more power than Tamas to deal with it properly.
-
----
 
 ## 3. Patron Design
 
@@ -296,13 +280,9 @@ What does this patron actually want at the deepest level? For the GM only - but 
 
 The true nature should be discoverable through ancient texts, bound demons' knowledge, or the Apotheosis trajectory - but discovering it is dangerous. The sorcerer who understands their patron fully may have information they cannot safely use.
 
----
-
 ## 4. Sample Patrons
 
 Seven patron entities, each designed to anchor a campaign rather than a single encounter.
-
----
 
 ### 4.1 The Drowned Goddess
 
@@ -327,8 +307,6 @@ Seven patron entities, each designed to anchor a campaign rather than a single e
 
 **Dooms of apotheosis:** A sorcerer who reaches Patron Score 100 with the Drowned Goddess is given a vision of what accepting apotheosis means: they will walk into the sea. They will not come back. Something else will come out of it.
 
----
-
 ### 4.2 The Faceless One
 
 **Nature:** Chaos entity - not a god, not a demon, not a thing with name or consistent form. It is the idea of an open wound at the edge of what is. It communicates in urges.
@@ -350,8 +328,6 @@ Seven patron entities, each designed to anchor a campaign rather than a single e
 
 **True nature:** The Faceless One does not have goals in the ordinary sense. It is an attractor. Sorcerers who serve it long enough begin to resemble it: featureless, placeless, changed beyond recognition. Apotheosis with the Faceless One is not transformation into an avatar. It is dissolution. The sorcerer becomes part of the open wound.
 
----
-
 ### 4.3 The Charnel Heir
 
 **Nature:** Ancestral intelligence - the accumulated sorcerous essence of a dynasty of sorcerer-kings who ruled four thousand years ago. The dynasty is dead. The inheritance is not.
@@ -372,8 +348,6 @@ Seven patron entities, each designed to anchor a campaign rather than a single e
 **Doom:** The Charnel Heir's doom is debt. A sorcerer who fails it becomes the subject of a claim. The Heir's agents - dead-eyed scholars, animate servants, things that should have stayed buried - begin collecting what the sorcerer owes. They are patient. They do not stop.
 
 **True nature:** The Charnel Heir's dynasty was destroyed by a coalition of city-states who feared their growing power. The Heir wants the coalition's descendants destroyed and the dynasty's territory restored. It is using sorcerers as instruments toward this goal. It has been doing so for four thousand years and it is closer than it has ever been.
-
----
 
 ### 4.4 Set the Serpent
 
@@ -397,8 +371,6 @@ Seven patron entities, each designed to anchor a campaign rather than a single e
 
 **True nature:** Set is looking for a sorcerer of sufficient depth to be his avatar in a specific conflict that has been unresolved since the previous age. The conflict involves another deity (GM's choice) and a wrong that Set has not forgotten. Set's apotheosis differs from others: the sorcerer does not dissolve. They become Set's hand in the world - retaining their identity but bound to Set's agenda permanently.
 
----
-
 ### 4.5 The Empty Throne
 
 **Nature:** Alien intelligence - something that occupied a specific point in space for long enough to develop presence. It does not communicate in language; it communicates in structural compulsions. It may not be aware that the sorcerers who contact it are individuals rather than instruments.
@@ -419,8 +391,6 @@ Seven patron entities, each designed to anchor a campaign rather than a single e
 **Doom:** The Empty Throne does not doom. It simply stops noticing. The Patron Score drops and does not recover. The sorcerer who served it long enough to lose it feels an absence they cannot name - a gap in the centre of their experience that was not there before.
 
 **True nature:** Unknown. Possibly unknowable. A sorcerer who reaches Patron Score 100 with the Empty Throne receives a vision of a vast and silent space that should contain something but does not. Apotheosis, if accepted, results in the sorcerer becoming part of that absence. From outside: they simply are no longer present. No body. No sign. Gone.
-
----
 
 ### 4.6 The Plague-Bride
 
@@ -444,8 +414,6 @@ Seven patron entities, each designed to anchor a campaign rather than a single e
 
 **True nature:** The Plague-Bride is engaged in something that looks, from a sufficient distance, like selective pressure on mortal populations. She has been doing it for long enough that her effects are visible in bloodlines. She is not malevolent in any simple sense. She is simply engaged in a project that does not particularly prioritise any individual's survival. Apotheosis with the Plague-Bride means becoming a vector of the project. The sorcerer no longer gets sick. They become something that diseases talk to.
 
----
-
 ### 4.7 The Brass Warden
 
 **Nature:** Dead god - a lawgiver deity from a desert civilization, worshipped for five hundred years and then abandoned during a famine. The abandonment enraged it. It has been looking for servants since.
@@ -466,8 +434,6 @@ Seven patron entities, each designed to anchor a campaign rather than a single e
 **Doom:** The Brass Warden's doom is precedent. When a sorcerer fails the Warden, every agreement they make from that point becomes the subject of scrutiny - by the Warden's agents (who manifest as figures in brass-coloured armour that only the sorcerer can see), by strangers who find fault with their contracts, by authorities who question their dealings. The world decides they are not to be trusted. This continues until penance.
 
 **True nature:** The Brass Warden was abandoned by its civilization and it has not forgiven this. Its long-term goal is the destruction of every bloodline descended from the people who abandoned it. It presents as a lawgiver because law is a useful instrument. Its sorcerers believe they serve justice. They serve revenge.
-
----
 
 ## 5. Ritual Magic
 
@@ -513,8 +479,6 @@ For wholly unique rituals, the GM sets the cost directly - it should require mor
 Interrupted before completion: the work is lost, PP already spent are gone, materials consumed. The sorcerer may need to start over.
 
 Corrupted - interrupted at a critical moment, wrong materials substituted, a participant not truly willing - the effect may be partial, reversed, or something other than intended. Corrupted rituals are among the best adventure hooks: the sorcerer attempted to bind a demon and instead tore a hole in the sorcerous current, which is now everyone's problem.
-
----
 
 ## 6. Demon Binding: The Deep Dive
 
@@ -591,8 +555,6 @@ When a binding ends - by the four conditions in §7.7.5 or by an escape clause -
 
 **Greater Demon, any treatment:** Looks at the sorcerer for a moment. Then does something unexpected - it will demonstrate what it is before it goes, to make sure the sorcerer understands what they bound.
 
----
-
 ## 7. The Brazier of Power
 
 The Brazier of Power spell (§7.6) creates a sorcerer's most important physical possession.
@@ -610,8 +572,6 @@ Each additional Brazier costs 1 permanent POW. The sorcerer can draw from all si
 ### 7.3 The Brazier as Target
 
 The Brazier is identifiable through See the Unseen (it radiates stored PP as a strong aura) and potentially removable. A PC sorcerer who steals the physical object before the former owner can stop them has stolen the stored PP too. Whoever controls the Brazier controls its contents - making Brazier theft an extremely dangerous and extremely satisfying heist objective.
-
----
 
 ## 8. Apotheosis
 

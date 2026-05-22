@@ -5,8 +5,6 @@
 
 GM reference for environmental threats, natural hazards, and situation rules outside ordinary combat. Player-facing rules (prone, aimed attacks, disengaging, close combat, weapon length) are in §5.
 
----
-
 ## 1. Disease
 
 Infection follows exposure: a plague victim's wounds, foul water, ruin miasma, a curse-inflicted bite. The GM sets disease Potency (POT 3-18, treating it as a poison for the initial resistance roll).
@@ -44,8 +42,6 @@ Each disease attacks a different characteristic. Same recovery mechanic througho
 
 **Characteristic recovery.** Lost points return at the same rate they were lost, once infection is thrown off - no faster. Medicine applied daily improves the rate by one step.
 
----
-
 ## 2. Poison
 
 Poisons use the Resistance Table: POT vs. CON. Overcomes CON: full POT in HP damage. Fails: half POT (round up). Two doses of the same poison do not combine into a double-strength dose.
@@ -75,8 +71,6 @@ The following are representative ancient-world poisons for GM use. POT values as
 | Alchemical acid             | varies | Fast  | HP damage to flesh; armour degraded 1 point per round of contact            | See §4 for full fire/acid rules. POT equals the 1D6 type used.                               |
 
 **Named poisons.** The genre convention is that poison is cowardly and honourable characters regard it with contempt - which does not stop rogues. Name poisons for your setting: "Black Tears of Stygia" is more evocative than "Nightshade (POT 13)."
-
----
 
 ## 3. Herbs, Drugs, and Substances
 
@@ -122,8 +116,6 @@ Craft (Apothecary) prepares these substances. Preparation time runs from one day
 
 The GM may add further substances using the entries above as calibration. The Apothecary's craft is older than any nation's law, and a clever player will find that brewing their own can be more interesting than buying.
 
----
-
 ## 4. Fire and Heat
 
 Fire causes HP damage each round of exposure. Armour provides protection for the first 1D3 rounds before heat penetrates; non-metal armour then loses 1 AV per round of sustained fire. Metal armour does not degrade but becomes dangerously hot (see below).
@@ -155,8 +147,6 @@ Dense smoke in an enclosed space (burning building, smoke-filled tunnel, burning
 
 A character who falls unconscious from smoke inhalation continues to take smoke damage each round until removed from the area.
 
----
-
 ## 5. Cold and Exposure
 
 Cold is an attrition threat. Each day without adequate protection chips away at the character's capacity to function.
@@ -184,8 +174,6 @@ When the character's CON is reduced to half or less by cold exposure, roll on th
 | 6    | Hands              | Both hands affected; weapon use Difficult permanently unless treated within one day |
 
 Frostbite treatment requires warmth, clean bindings, and a successful Medicine roll. On a critical Medicine result, no permanent effect occurs even if the one-day window has passed.
-
----
 
 ## 6. Hunger, Thirst, and Fatigue
 
@@ -228,8 +216,6 @@ Extended exertion without rest degrades performance. Use this rule when characte
 **Moving along the track.** One step down for: a full combat (3+ rounds); a significant overland march; extended swimming, climbing, or heavy loads. Short Rest (one turn): recover one step. Full night's rest: return to Fresh.
 
 **Interaction with wounds and disease.** Wounded, diseased, and exhausted simultaneously: GM may advance two steps for a significant exertion; requires two nights' rest to return to Fresh.
-
----
 
 ## 7. Falling and Drowning
 
@@ -275,8 +261,6 @@ Submerged, strangled, or otherwise deprived of air: Stamina rolls at decreasing 
 **Taking a breath before submersion.** Luck roll: success, full breath taken, begin at Round 1. Failure, caught mid-exhale, begin at Round 2.
 
 **Sorcerers and drowning.** PP spent on spells while drowning is PP unavailable for Deflect the Killing Blow when the CON rolls fail (§4.6).
-
----
 
 ## 8. Chases
 
@@ -327,8 +311,6 @@ Each round, each side makes the relevant skill roll. Compare results:
 
 Five verbal positions; no miniatures, no tape measures. For GM tracking: write SS | CL | EN | DI | OS and mark the current gap with a slash. Shift each round.
 
----
-
 ## 9. Mass Combat
 
 When PCs are caught up in a larger battle, the GM does not run every combatant through standard combat resolution. The engagement's outcome has already been determined by narrative or prep; the PCs are fighting within it, not commanding it.
@@ -351,8 +333,6 @@ When PCs are caught up in a larger battle, the GM does not run every combatant t
 **Duration.** Brief skirmish: 2-3 turns (10-15 minutes). Sustained engagement: 6-12 turns (30-60 minutes). PCs rest and recover normally after.
 
 **Fate Points in mass combat.** Fate Point spends (§4.7) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
-
----
 
 ## 10. Theatre-of-Mind Combat
 
@@ -397,8 +377,6 @@ These practices prevent the tactical pace from slowing as players and GM lose tr
 **Rabble go down fast.** The Rabble rule (§5.8) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on.
 
 **Keep the sorcerer in the picture.** Sorcery's Phase Two resolution and the interruption risk from melee (§5.6.5) need active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to make it to Phase Two without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
-
----
 
 ## 11. Group Stealth and Concealment
 

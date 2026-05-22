@@ -33,8 +33,6 @@ Five wealth tiers describe a character's standing and roughly translate to coin 
 
 At character creation, starting equipment is purchased using the character's starting Wealth tier (defined in §2.6). The GM may also allocate specific items thematically - a sea-raider starts with appropriate kit even before any coin is counted.
 
----
-
 ## 2. Weapons
 
 ### 2.1 Reading the Weapon Tables
@@ -189,8 +187,6 @@ Three quality levels affect weapons:
 
 Superior weapons also tend to have slightly higher HP (add 2-4 at the GM's discretion). They may carry makers' marks, names, and reputation in the fiction.
 
----
-
 ## 3. Armour
 
 ### 3.1 How Armour Works
@@ -258,8 +254,6 @@ A crested helm does not add AP but marks its wearer as a person of note. In sett
 
 Leather armour is repaired with a Craft (Leather) roll and appropriate materials. Metal armour requires Craft (Armourer) and access to a forge; field repairs restore partial AP at the GM's discretion. Full restoration of badly damaged armour always requires a smithy and time.
 
----
-
 ## 4. Shields
 
 Shields are both defensive tools and weapons. They provide Armour Points when used to parry, and a parry bonus to the Shield skill.
@@ -283,8 +277,6 @@ Shields are both defensive tools and weapons. They provide Armour Points when us
 **Throwing a shield:** A thrown shield is an improvised missile attack using the Shield skill at Difficult, Short range only. No parry value after throwing.
 
 **Slung shield:** A shield carried on the back provides half its AP (round up) against hits from behind, without requiring any defensive action.
-
----
 
 ## 5. Material Tiers
 
@@ -329,8 +321,6 @@ For the iron-vs-sorcery rule (§6.1), steel counts as iron. The sorcerous curren
 ### 5.5 Enchanted Iron and Steel
 
 An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in §12.
-
----
 
 ## 6. Mundane Gear
 
@@ -476,8 +466,6 @@ Prices are per unit as described.
 | Horn / Trumpet      | 10 Drams     | 1   | Signaling and performance                            |
 | Lute / Lyre         | 15 Drams     | 2   | String instrument                                    |
 
----
-
 ## 7. Mounts
 
 ### 7.1 Riding and Working Animals
@@ -514,8 +502,6 @@ The prices below reflect standard market animals. War-trained animals - horses a
 
 **Stirrups:** Not universally available. Many ancient cultures rode without them. The GM decides whether stirrups exist in the current setting. If available, stirrups cost 10 Drams and provide +10% to Ride skill for mounted combat.
 
----
-
 ## 8. Vehicles
 
 ### 8.1 Land Vehicles
@@ -549,8 +535,6 @@ The prices below reflect standard market animals. War-trained animals - horses a
 | Chariot, Heavy | 22    | 6   |             |
 
 Vehicles are not destroyed at 0 HP but become non-functional (wheel collapses, axle shatters). Animals pulling a destroyed vehicle are not automatically harmed.
-
----
 
 ## 9. Watercraft
 
@@ -594,8 +578,6 @@ These rates assume favourable conditions. The GM may adjust for storms, head win
 | Whole ship hire             | -             | 40-60 Drams/trip                     |
 | Animal on deck              | -             | Double human cost + 2 Drams/day feed |
 
----
-
 ## 10. Hirelings and Inn Prices
 
 ### 10.1 Common Services and Hirelings
@@ -628,8 +610,6 @@ Hirelings are contracted by the day or week. Equipment not included unless negot
 | Good Inn   | 10 Drams/night  | 6-10 Drams | 6 Drams              |
 
 A flophouse is a shared floor and a questionable blanket. A decent inn has private rooms. A good inn has private rooms, a separate stable yard, and a proper cook.
-
----
 
 ## 11. Encumbrance
 
@@ -664,8 +644,6 @@ A character can carry ENC up to their STR score without penalty. Beyond that:
 ### 11.3 STR, SIZ, and Heavy Loads
 
 Characters with both high STR and high SIZ carry more naturally. At the GM's option, characters whose SIZ exceeds their STR may use SIZ instead for the carry capacity baseline.
-
----
 
 ## 12. Equipment and Sorcery
 
