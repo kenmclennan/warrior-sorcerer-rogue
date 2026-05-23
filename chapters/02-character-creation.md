@@ -1,6 +1,6 @@
-# Character Creation
+# 2. Character Creation
 
-## 1. Overview
+## 2.1 Overview
 
 To create a character follow these steps
 
@@ -17,7 +17,7 @@ To create a character follow these steps
 
 After all ten steps: answer the Background Questions (§6), agree one significant possession with a story attached (§6.1), and finalise the character sheet (§13).
 
-## 2. Step 1: Characteristics
+## 2.2 Step 1: Characteristics
 
 Seven characteristics define the raw material of a character. They are expressed as numbers, usually in the range 3-18.
 
@@ -31,11 +31,11 @@ Seven characteristics define the raw material of a character. They are expressed
 | Dexterity      | DEX          | Speed, agility, fine motor control                 |
 | Charisma       | CHA          | Persuasion, leadership, social force               |
 
-### 2.1 Rolling Characteristics
+### 2.2.1 Rolling Characteristics
 
 Roll 3D6 seven times. Assign each result to a characteristic of your choice. SIZ and INT may not be set below 8.
 
-### 2.2 Characteristic Rolls
+### 2.2.2 Characteristic Rolls
 
 Each characteristic doubles as a fallback target for tasks that have no appropriate skill. Multiply the relevant characteristic by five and roll against that target.
 
@@ -50,11 +50,9 @@ Each characteristic doubles as a fallback target for tasks that have no appropri
 
 Characteristic rolls follow the same four outcome tiers as skill rolls (Critical, Success, Failure, Fumble). They do not earn experience check marks.
 
----
+## 2.3 Step 2: Derived Statistics
 
-## 3. Step 2: Derived Statistics
-
-### 3.1 Hit Points
+### 2.3.1 Hit Points
 
 **HP = CON + SIZ** (PCs and Named Antagonists).
 
@@ -62,13 +60,13 @@ HP represents how much physical punishment a character can absorb before being i
 
 Note: lower-tier NPCs (Professionals and Rabble) use (CON+SIZ)/2 rounded up. This makes PCs more durable than regular foes, able to take serious wounds and keep fighting in the genre tradition.
 
-### 3.2 Power Points
+### 2.3.2 Power Points
 
 **PP = POW (starting value).**
 
 PP is the character's vital force - spent on sorcery, Fate Point spends (including Critical Buys), and talent activations. PP regenerates over rest and sleep.
 
-### 3.3 Damage Modifier
+### 2.3.3 Damage Modifier
 
 The damage modifier (dm) reflects the brute-force contribution of size and strength to weapon damage. Add STR + SIZ, then consult:
 
@@ -85,15 +83,15 @@ The damage modifier (dm) reflects the brute-force contribution of size and stren
 
 The damage modifier applies to all melee and thrown weapon attacks. For thrown and missile weapons, use half the dm (round down). A character with a -1D6 modifier takes that off their roll, to a minimum of 1 point of damage.
 
-### 3.4 Movement Rate
+### 2.3.4 Movement Rate
 
 **MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See §6.8 for chase rules.
 
-### 3.5 Experience Bonus
+### 2.3.5 Experience Bonus
 
 **Experience Bonus = INT / 2, rounded up.** This value is added to improvement rolls during downtime. See §4.8 for the improvement procedure.
 
-### 3.6 Skill Category Bonuses
+### 2.3.6 Skill Category Bonuses
 
 Each skill belongs to a category. Skills in that category receive a small bonus derived from the governing characteristic:
 
@@ -108,7 +106,7 @@ Each skill belongs to a category. Skills in that category receive a small bonus 
 
 Add the relevant category bonus to each skill's base chance. Skills granted by Cultural Background, Profession, or Personal Skill points are added on top of the adjusted base.
 
-## 4. Step 3: Cultural Background
+## 2.4 Step 3: Cultural Background
 
 Cultural Background is the kind of civilisation or community that shaped the character's early life.
 
@@ -122,7 +120,7 @@ Pick whether the character's culture is **Barbaric** or **Civilised**. Then roll
 
 Players are encouraged to invent the rest - names, language, religion, leader - from the seeds those rolls produce.
 
-### 4.1 Barbaric Cultures
+### 2.4.1 Barbaric Cultures
 
 | d6  | Where they live                             |
 | --- | ------------------------------------------- |
@@ -178,7 +176,7 @@ Players are encouraged to invent the rest - names, language, religion, leader - 
 | 5   | A small clay pot of red ochre and oil for the ritual face-paint of war and judgement              |
 | 6   | A long knot-cord recording every deed, kill, and oath-debt of the bearer's life                   |
 
-### 4.2 Civilised Cultures
+### 2.4.2 Civilised Cultures
 
 | d6  | Where they live                                                |
 | --- | -------------------------------------------------------------- |
@@ -234,7 +232,7 @@ Players are encouraged to invent the rest - names, language, religion, leader - 
 | 5   | A purse of stamped coin, never quite empty - replenished from a family draft                     |
 | 6   | A palm-sized black-glass mirror, used for divination, vanity, or both                            |
 
-## 5. Step 4: Profession
+## 2.5 Step 4: Profession
 
 Profession is what the character did. The profession provides a starting skill bundle of twelve skills, each with a percentage added above the base chance.
 
@@ -244,7 +242,7 @@ Profession is what the character did. The profession provides a starting skill b
 
 **Profession skill bundles are suggestions, not locks.** The profession bundle covers the baseline; Personal Skill points (Step 5) fill out the rest.
 
-### Tribal Warrior
+### 2.5.1 Tribal Warrior
 
 A fighter raised in a clan or tribal culture who has never known another life. Raids, blood feuds, and the honour economy of a non-urban people. Could be from any of the wilder backgrounds.
 
@@ -252,7 +250,7 @@ A fighter raised in a clan or tribal culture who has never known another life. R
 **Reputation start:** 5%
 **Profession skills:** Brawl, Climb, Dodge, Listen, Melee Weapon (Axe or Spear), Parry (as weapon), Ride (Horse), Spot, Survival, Throw, Track, one of: Move Quietly / Animal Handling / Missile Weapon (Bow)
 
-### Mercenary Soldier
+### 2.5.2 Mercenary Soldier
 
 A professional fighter-for-hire with campaign experience. Knows how to march, follow orders, and stay alive in other people's wars. Has seen a city or two.
 
@@ -260,7 +258,7 @@ A professional fighter-for-hire with campaign experience. Knows how to march, fo
 **Reputation start:** 10%
 **Profession skills:** Brawl, Command, Dodge, First Aid, Listen, Melee Weapon (Sword or Spear), Parry (as weapon), Shield, Spot, Strategy, one of: Missile Weapon (Bow or Javelin) / Ride (Horse), one of: Bargain / Language (one additional)
 
-### Sea-Raider
+### 2.5.3 Sea-Raider
 
 Sailor and warrior in one. Raids coastal settlements, knows how to fight on a rolling deck, and has a sailor's practical relationship with rope, weather, and taking things that belong to other people.
 
@@ -268,7 +266,7 @@ Sailor and warrior in one. Raids coastal settlements, knows how to fight on a ro
 **Reputation start:** 10%
 **Profession skills:** Brawl, Climb, Dodge, Melee Weapon (Axe or Sword), Missile Weapon (Javelin), Navigate, Parry (as weapon), Sailor, Spot, Move Quietly, Swim, Throw
 
-### City Thief
+### 2.5.4 City Thief
 
 A product of urban crime: picking pockets, casing houses, working with fences, and knowing which rooftops connect to which alleys. Has contacts in the underworld and the specific anxiety of someone who lives inside the law's reach.
 
@@ -276,7 +274,7 @@ A product of urban crime: picking pockets, casing houses, working with fences, a
 **Reputation start:** 5% (higher if notorious; see §9)
 **Profession skills:** Bargain, Climb, Disguise, Dodge, Etiquette (Thieves' Guild), Fine Manipulation, Hide, Insight, Sleight of Hand, Spot, Move Quietly, one of: Fast Talk / Persuade
 
-### Wayfarer
+### 2.5.5 Wayfarer
 
 The singer, the storyteller, the person who lives on the edge of every circle. Carries news from one place to another, performs for coin or hospitality, and knows how to make themselves welcome - or invisible - depending on which would serve them better.
 
@@ -284,7 +282,7 @@ The singer, the storyteller, the person who lives on the edge of every circle. C
 **Reputation start:** 15%
 **Profession skills:** Bargain, Disguise, Fast Talk, Hide, Insight, Language (one additional), Perform (Storytelling or Instrument), Persuade, Sleight of Hand, Spot, Move Quietly, one of: Knowledge (Folklore) / Knowledge (History) / Survival
 
-### Hunter-Tracker
+### 2.5.6 Hunter-Tracker
 
 Lives by reading the land. Knows the habits of animals, can follow a three-day-old trail, and understands ambush as a way of life. May hunt for a community or as a solitary livelihood.
 
@@ -292,7 +290,7 @@ Lives by reading the land. Knows the habits of animals, can follow a three-day-o
 **Reputation start:** 5%
 **Profession skills:** Climb, First Aid, Hide, Listen, Melee Weapon (Spear), Missile Weapon (Bow), Move Quietly, Navigate, Spot, Survival, Track, one of: Animal Handling / Craft (Apothecary)
 
-### Charioteer
+### 2.5.7 Charioteer
 
 Rider-warrior of the elite corps: trained to handle a war-chariot under combat conditions, fight from it, and keep the vehicle operational. A profession that implies status and wealth in cultures that use chariots.
 
@@ -300,7 +298,7 @@ Rider-warrior of the elite corps: trained to handle a war-chariot under combat c
 **Reputation start:** 15%
 **Profession skills:** Brawl, Craft (Carpentry or Metalworking), Dodge, Drive (Chariot via Ride speciality), Listen, Melee Weapon (Spear), Missile Weapon (Bow, Composite), Ride (Chariot), Spot, Strategy, one of: Command / Persuade, one of: Status / Knowledge (Politics)
 
-### Temple Hierophant
+### 2.5.8 Temple Hierophant
 
 A priest, ritual specialist, or high-ranking temple servant. Trained in ceremony, literate, expert in the theology and politics of the temple. May have genuine religious convictions or may regard the whole enterprise as a useful career. Either way, knows where the bodies are buried.
 
@@ -308,7 +306,7 @@ A priest, ritual specialist, or high-ranking temple servant. Trained in ceremony
 **Reputation start:** 25%
 **Profession skills:** Art (Calligraphy or Oratory), Bargain, Etiquette (Temple), Insight, Knowledge (Religion), Language (one additional), Literacy (one script), Perform (Ritual), Persuade, Research, Status, one of: Command / Knowledge (Law)
 
-### Merchant
+### 2.5.9 Merchant
 
 A trader: regional, caravan, or maritime. Knows markets, supply chains, and the price of everything. Comfortable in strange cities because they always know who the local equivalent of their own guild is.
 
@@ -316,7 +314,7 @@ A trader: regional, caravan, or maritime. Knows markets, supply chains, and the 
 **Reputation start:** 10%
 **Profession skills:** Appraise, Bargain, Command, Etiquette (Merchant Guild), Fast Talk, Insight, Knowledge (Politics), Language (one additional), Navigate, Persuade, Research, one of: Ride (Horse or Camel) / Sailor
 
-### Scholar of the Dark Arts
+### 2.5.10 Scholar of the Dark Arts
 
 A sorcerer-archetype profession: the urban, literate one. A trained researcher in forbidden knowledge - self-taught from stolen texts, apprenticed to a dangerous master, or initiated into a small and secretive order. **This profession (along with Shaman) qualifies a character to take the sorcerer-specific Step 9.**
 
@@ -326,7 +324,7 @@ A sorcerer-archetype profession: the urban, literate one. A trained researcher i
 
 > **Sorcery as a skill:** The Sorcery skill governs the sorcerer's ability to perform resistance-table-relevant actions during spellcasting and ritual work. It is not a casting-success roll (casting is automatic given PP and time - see §7.2.1) but a modifier for contested workings: Resistance Table rolls use the sorcerer's current PP total against the target's POW. Sorcery skill as a complementary bonus applies when the GM rules that technique is meaningfully at stake.
 
-### Shaman
+### 2.5.11 Shaman
 
 A sorcerer-archetype profession: the tribal, oral one. Works with spirits, ancestors, and the unseen powers of land and weather. Knowledge is passed mentor to student, not from books. Where the Scholar of the Dark Arts reads forbidden tomes in a city library, the Shaman reads the entrails of birds and dreams in the burial mounds. **This profession (along with Scholar of the Dark Arts) qualifies a character to take the sorcerer-specific Step 9.**
 
@@ -334,7 +332,7 @@ A sorcerer-archetype profession: the tribal, oral one. Works with spirits, ances
 **Reputation start:** 15% (community standing among their own people; feared and distrusted elsewhere)
 **Profession skills:** Craft (Apothecary), First Aid, Insight, Knowledge (Folklore), Knowledge (Occult), Listen, Perform (Ritual), Sense, Sorcery, Spot, Survival, one of: Hide / Persuade / Track
 
-### Outcast
+### 2.5.12 Outcast
 
 The exile, the disgraced, the one who cannot go home. Was something else once: soldier, merchant, priest, or noble. The profession is not what they did originally but the condition they are now in. Carries a mix of skills from the former life and the years since.
 
@@ -342,7 +340,7 @@ The exile, the disgraced, the one who cannot go home. Was something else once: s
 **Reputation start:** 5% (may be for the wrong reasons)
 **Profession skills:** Choose any eight skills reflecting the former profession. Add Bargain, Dodge, Insight, and Move Quietly as mandatory entries. Total: twelve.
 
-### Gladiator or Arena Fighter
+### 2.5.13 Gladiator or Arena Fighter
 
 Sells blood for entertainment in the pit, the ring, or the arena. Could be war-captive, condemned criminal, or voluntary. Has a specific, violent kind of local celebrity. Knows how to make a wound look worse than it is, and how to stay alive when the crowd wants a killing.
 
@@ -350,7 +348,7 @@ Sells blood for entertainment in the pit, the ring, or the arena. Could be war-c
 **Reputation start:** 15%
 **Profession skills:** Brawl, Command, Dodge, Etiquette (Underworld), First Aid, Grapple, Insight, Melee Weapon (two specialities), Parry (as primary weapon), Spot, one of: Shield / Missile Weapon (Net)
 
-### Spy or Infiltrator
+### 2.5.14 Spy or Infiltrator
 
 Works for someone who pays to know things other people are hiding. May be attached to a noble house, a merchant guild, a temple, or an empire's intelligence apparatus. Or may freelance. Skilled at being someone else.
 
@@ -358,13 +356,13 @@ Works for someone who pays to know things other people are hiding. May be attach
 **Reputation start:** 0% (public Reputation is a liability in this profession)
 **Profession skills:** Disguise, Etiquette (Noble Court), Fast Talk, Insight, Language (one additional), Literacy (one script), Persuade, Research, Sleight of Hand, Spot, Move Quietly, one of: Bargain / Fine Manipulation
 
-## 6. Step 5: Personal Skills
+## 2.6 Step 5: Personal Skills
 
 **Personal Skill Points = INT x10.**
 
 Spend freely on any skills in the WSR skill list (§3). Maximum starting rating for any skill is 75%. Specialities are purchased separately. Personal points add on top of Cultural Background and Profession bonuses. The first point spent on a skill not in the profession bundle opens it at its base chance.
 
-## 7. Step 6: Talents
+## 2.7 Step 6: Talents
 
 Choose **2 talents** from the four talent tables below. You may not choose both from the same table.
 
@@ -376,7 +374,7 @@ Choose **2 talents** from the four talent tables below. You may not choose both 
 
 **Earning additional talents:** the GM may offer one through significant play milestones. Eligibility rules apply at that point.
 
-### 7.1 Combat Talents
+### 2.7.1 Combat Talents
 
 Requires a martial profession or equivalent background.
 
@@ -394,7 +392,7 @@ Requires a martial profession or equivalent background.
 | Veteran's Gut      | 0 PP | You are never surprised. When an ambush or surprise attack would give opponents a free action, you always act in the first round, even if others do not.                                                                                                                        |
 | Killing Ground     | 5 PP | Declare before your attack. If your attack incapacitates or kills the target, make an immediate free attack against a second adjacent opponent at -20%. This free attack cannot trigger another Killing Ground.                                                                 |
 
-### 7.2 Sorcery Talents
+### 2.7.2 Sorcery Talents
 
 Requires a sorcerous profession or equivalent background.
 
@@ -411,7 +409,7 @@ Requires a sorcerous profession or equivalent background.
 | Shadow Speech          | 2 PP                 | You may communicate with a bound demon you have named using a brief mental message of no more than one sentence. The demon hears and may respond. This works at any distance as long as the binding holds.                                                                                                                                                                                 |
 | The Long Memory        | 0 PP                 | You learn spells from grimoires in half the normal time (one study session per 2 days per spell level instead of one week per spell level). You may also attempt to read a grimoire in a script or language you don't know at a Difficult Language roll.                                                                                                                                   |
 
-### 7.3 Stealth and Finesse Talents
+### 2.7.3 Stealth and Finesse Talents
 
 Available to all professions.
 
@@ -428,7 +426,7 @@ Available to all professions.
 | Death's Calm    | 3 PP | Immediately after killing or incapacitating someone, you may make a Move Quietly or Disguise roll at +30% to avoid anyone connecting you to the act. The bonus applies only in the moment - not to later investigation.                                                                |
 | Elusive         | 4 PP | When pursued, add +3 to your effective MOV for the duration of the chase scene. If another chase-relevant roll (Jump, Climb, Swim) would normally be Difficult, it is treated as Average instead.                                                                                      |
 
-### 7.4 Social and Cunning Talents
+### 2.7.4 Social and Cunning Talents
 
 Available to all professions.
 
@@ -445,20 +443,18 @@ Available to all professions.
 | Silver Tongue       | 5 PP           | Make one Persuade roll at double your current skill rating. The target cannot spend their own PP to resist your social pressure this scene. Usable once per scene.                                                                                                                                                       |
 | Killer's Timing     | 3 PP           | When a negotiation or social contest is about to turn against you, you may interrupt the scene with a dramatic gesture, revelation, or threat - even out of initiative order. Make an appropriate skill roll; on a success, the scene's trajectory changes in your favour before the bad outcome resolves.               |
 
----
-
-## 8. Step 7: Passions
+## 2.8 Step 7: Passions
 
 Passions are mandatory. Every character has three.
 
-### 8.1 Starting Passions
+### 2.8.1 Starting Passions
 
 Create three Passions at character generation:
 
 - **One Passion at 80%.** This is the character's defining drive - the thing that will put them in motion no matter how inconvenient.
 - **Two Passions at 60%.** These are real but not all-consuming.
 
-### 8.2 Passion Types
+### 2.8.2 Passion Types
 
 A Passion can be any of the following:
 
@@ -478,7 +474,7 @@ A Passion can be any of the following:
 
 **Guidance on minimum content:** A Passion with no specific target ("Honor in general") is almost always weaker at the table than one with a precise object ("My word to the harbormaster Issa, given at knifepoint, holds"). Precision is a mechanical advantage: the GM can invoke a precise passion more readily, and the Inspiration mechanic rewards the character for engaging with the specificity.
 
-### 8.3 Using Passions: Inspiration and Despair
+### 2.8.3 Using Passions: Inspiration and Despair
 
 When a Passion is directly relevant to what the character is attempting, the player may invoke it before making a skill roll.
 
@@ -497,15 +493,15 @@ When a Passion is directly relevant to what the character is attempting, the pla
 
 **Earning experience.** After a scene in which a Passion was successfully invoked, place an experience checkmark on it. At the end of the adventure, make an improvement roll as for a skill. Passion ratings can increase - and can decrease, on a fumble.
 
-### 8.4 Gaining Passions in Play
+### 2.8.4 Gaining Passions in Play
 
 A new Passion gained through events in play starts at 60%, or higher if circumstances are particularly dramatic. The GM introduces new Passions; players may request them. A Passion extinguished by a fumble (reduced to 0%) cannot be recovered without extraordinary circumstances.
 
-## 9. Step 8: Reputation
+## 2.9 Step 8: Reputation
 
 Reputation is fame - or notoriety - recognised beyond the character's home ground. It is not the same as Status (see §3.4); Reputation travels. Reputation is a one-way ratchet: it only increases, never decreases.
 
-### 9.1 Starting Reputation by Profession
+### 2.9.1 Starting Reputation by Profession
 
 | Profession                 | Starting Reputation |
 | -------------------------- | ------------------- |
@@ -528,7 +524,7 @@ Reputation is fame - or notoriety - recognised beyond the character's home groun
 
 **Reputation from notoriety:** Heinous acts, spectacular failures, and infamous betrayals generate Reputation the same way heroism does.
 
-### 9.2 Using Reputation
+### 2.9.2 Using Reputation
 
 **Identifying someone.** When it might matter whether an NPC recognises the character, the GM rolls against the character's Reputation. On a success, the NPC knows who they are. On a critical, the NPC knows in detail - and has opinions.
 
@@ -539,7 +535,7 @@ Reputation is fame - or notoriety - recognised beyond the character's home groun
 - **Failure:** -20% (the Reputation works against them here)
 - **Fumble:** -50% (the character is infamous in exactly the wrong way for this audience)
 
-### 9.3 Gaining Reputation
+### 2.9.3 Gaining Reputation
 
 The GM awards Reputation after significant deeds:
 
@@ -557,23 +553,23 @@ The GM awards Reputation after significant deeds:
 
 Reputation is never secret. If you earn it, people talk about it.
 
-## 10. Step 9: Sorcerer-Specific
+## 2.10 Step 9: Sorcerer-Specific
 
 This step applies **only to characters who have chosen the Scholar of the Dark Arts or Shaman profession.** All other characters skip to Step 10.
 
-### 10.1 POW Requirement
+### 2.10.1 POW Requirement
 
 A sorcerer-archetype character must have POW 16 or higher. If the character's rolled POW is 15 or below after redistribution, they do not qualify. Either redistribute (if a point is available) or choose a different profession.
 
 A character who qualifies may also use the **Sorcerous Heritage** option (§7.1.4): permanently reduce STR, CON, or CHA by 2 points each to gain 1 point of POW, up to a maximum of POW 21. This trade is irreversible and visible.
 
-### 10.2 Starting Spells
+### 2.10.2 Starting Spells
 
 The starting sorcerer knows a number of spell levels equal to **half their INT, rounded up.** A sorcerer with INT 16 knows spell levels totalling 8 - for example, four spells of level 2 each, or two spells of level 3 and two of level 1. All starting spells are memorised and immediately available (see §7.2.4).
 
 Choose starting spells from the spell list in §7.6. The GM may restrict certain spells at character generation; spells involving Greater Demons or direct patron contact are typically learned in play, not at creation.
 
-### 10.3 The Patron Compact (Optional)
+### 2.10.3 The Patron Compact (Optional)
 
 A starting sorcerer may choose to have already entered a patron compact. This is an opt-in decision. Not every sorcerer has a patron; unbonded sorcerers are more independent but lack the emergency PP reserve.
 
@@ -587,7 +583,7 @@ A starting sorcerer may choose to have already entered a patron compact. This is
 **If you do not take a patron:**
 Record Patron Score as **None.** The option to enter a compact later remains open - it is a story event, not a character generation lock.
 
-### 10.4 Starting Corruption
+### 2.10.4 Starting Corruption
 
 All sorcerers start with **Corruption = POW x5.** This is the full track; it has not been reduced by anything at creation.
 
@@ -595,7 +591,7 @@ If the character has Knowledge (Blasphemous Lore) from their profession bundle o
 
 Record the starting Corruption total, the Blasphemous Lore cap if applicable, and the Breaking Point (half the starting value).
 
-### 10.5 Starting Grimoire
+### 2.10.5 Starting Grimoire
 
 Every sorcerer begins with a grimoire containing their starting spells. Choose the grimoire's format from the options in §7.5.1. Note that the format implies something about the character's background:
 
@@ -607,9 +603,9 @@ Every sorcerer begins with a grimoire containing their starting spells. Choose t
 
 The grimoire is the sorcerer's most valuable possession. Losing it is not the end - memorised spells remain until displaced - but it is the beginning of a very bad time.
 
-## 11. Step 10: Starting Equipment
+## 2.11 Step 10: Starting Equipment
 
-### 11.1 Profession Kit
+### 2.11.1 Profession Kit
 
 Each profession has a typical starting kit. This is the gear the character arrives at the table with; it reflects what someone of that profession would plausibly own and carry. Items in the kit are free; they come with the profession. Players are free to replace any item of weapon or armour with a cultural equivalent.
 
@@ -630,7 +626,7 @@ Each profession has a typical starting kit. This is the gear the character arriv
 | Gladiator or Arena Fighter | Arena weapon of choice (standard quality), arena armour (light, 3 AP), street clothes, 8 Drams                                              |
 | Spy or Infiltrator         | Disguise kit (+15% Disguise for these materials), quality street clothes, thin blade, 15 Drams                                              |
 
-### 11.2 Starting Coin Allowance
+### 2.11.2 Starting Coin Allowance
 
 The coin listed above is the character's current working funds. Characters of Affluent or Wealthy starting wealth (Charioteer, Temple Hierophant, Merchant) may begin with additional coin or assets:
 
@@ -639,11 +635,11 @@ The coin listed above is the character's current working funds. Characters of Af
 
 **Property and credit** are not portable coin. The GM determines how accessible they are and whether they can be converted to coin quickly.
 
-### 11.3 Additional Equipment
+### 2.11.3 Additional Equipment
 
 After the profession kit, characters may purchase additional equipment from §8 using their starting coin. The GM may rule that certain items are unavailable at the campaign's starting location.
 
-## 12. Background Questions
+## 2.12 Background Questions
 
 Answer these questions in brief. Each answer gives the GM material to use at the table.
 
@@ -658,7 +654,7 @@ Answer these questions in brief. Each answer gives the GM material to use at the
 
 Answers need not be long. "Settled it when I put a knife in him" is a complete answer to question one.
 
-### 12.1 The Significant Possession
+### 2.12.1 The Significant Possession
 
 Every WSR character carries one object with a story attached. It is not necessarily the most valuable or most useful thing they own. It is the thing they would go back for.
 
@@ -668,13 +664,13 @@ Record it. Give it one sentence of history.
 
 The significant possession is not a mechanical item with stats. It is an anchor. At the GM's discretion, invoking it during a scene of personal crisis may allow an Inspiration roll using the character's highest Passion even if the Passion is not obviously relevant.
 
-## 13. Finalising the Character
+## 2.13 Finalising the Character
 
-### 13.1 Name and Physical Description
+### 2.13.1 Name and Physical Description
 
 Choose a name and note two or three physical markers. **§A4 Names** provides ten male and ten female sample names for each Cultural Background; use them as a starting palette or invent your own.
 
-### 13.2 Distinctive Features (Optional)
+### 2.13.2 Distinctive Features (Optional)
 
 Distinctive features are visible markers - hair, scars, ornaments, bearing, the way a person stands or speaks - that make a character recognisable in the fiction. They are descriptive only; no game effects attach.
 
@@ -692,7 +688,7 @@ The number of features tracks how far CHA sits from average. Most people are unr
 
 For each feature, roll 1d10 or pick a category. Take one or more items from the entry; the same category may be chosen more than once. Low-CHA features tend toward the unpleasant, unusual, or unsettling; high-CHA features tend toward the striking or attractive - though appearance lies as often as it tells the truth, and the GM may veto a feature that does not fit the setting.
 
-#### 13.2.1 Categories
+#### 2.13.2.1 Categories
 
 **1 - Hair.** Bald, bald on top, blond, black, braided, brown, curly, dirty, lice-ridden, glossy, grey, long, lustrous, matted, oily, perfumed, receding, red, shaven, very long, wavy, wig, or a feature of your own.
 
@@ -716,7 +712,7 @@ For each feature, roll 1d10 or pick a category. Take one or more items from the 
 
 Combine features in interesting ways. Picture the character in your mind and imagine how they appear in the world.
 
-### 13.3 Character Sheet Summary
+### 2.13.3 Character Sheet Summary
 
 By the end of character generation, record:
 
