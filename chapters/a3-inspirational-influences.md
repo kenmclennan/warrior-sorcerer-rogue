@@ -1,6 +1,6 @@
-# Inspirational Influences
+# A3 Inspirational Influences
 
-## 1. Films
+## A3.1 Films
 
 - **The Seventh Voyage of Sinbad** (1958) - Ray Harryhausen at his prime. The cyclops, the dragon, the singular pleasure of stop-motion menace.
 - **Jason and the Argonauts** (1963) - The skeleton fight is canon. The film establishes the ancient-world flavour the system aims for.
@@ -15,7 +15,7 @@
 - **The Barbarians** (1987) - The Paul brothers as twin warriors. A cult favourite.
 - **John Carter** (2012) - Edgar Rice Burroughs' Mars adapted to film. Establishes the planetary-romance flavour permitted in WSR per the science-fiction allowance.
 
-## 2. Books
+## A3.2 Books
 
 - **Robert E. Howard** - the centre. Particularly:
   - _The Tower of the Elephant_
@@ -46,17 +46,17 @@
 - **Edgar Rice Burroughs** - the Martian (Barsoom) series. _A Princess of Mars_, _The Gods of Mars_, _The Warlord of Mars_, and onward. The sword-and-planet origin point.
 - **Oliver Dickinson** - the Griselda stories. Ancient-world thief tales tonally close to what WSR wants.
 
-## 3. Comics
+## A3.3 Comics
 
 - **Head Lopper** - Andrew MacLean. Norgal the Head-Lopper, his witch-companion, and a procession of ancient horrors. Gorgeous art and a well-tuned sense of pulp dread.
 
-## 4. Music
+## A3.4 Music
 
 - **The Chronicle of the Black Sword** - Hawkwind. A Moorcock-collaboration concept album drawing on Elric. Plays directly to the Moorcock-doom register.
 - **Conan the Barbarian OST** - Basil Poledouris. The genre's defining soundtrack. _Anvil of Crom_ and _Riders of Doom_ are scene-setters.
 - **Krull OST** - James Horner. Adventurous, cosmic, with a touch of menace.
 
-## 5. Art
+## A3.5 Art
 
 - **Frank Frazetta** - the visual lexicon of sword and sorcery. His Conan covers and Death Dealer paintings define what the genre _looks_ like.
 - **Brom** - particularly his work for the Dark Sun setting. Decadent, brutal, post-apocalyptic; useful reference for the cyclic-history "you have inherited a fallen world" aesthetic in WSR.

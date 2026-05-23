@@ -2,18 +2,19 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
 /**
- * Custom slug for headings.
+ * Custom slug for headings. Source markdown embeds global numbering in
+ * each heading ("## 4.1 Percentile Roll", "## A1.2 Slash Crits"), so
+ * the slug is just a kebabified copy of the leading number.
  *
- *   "## 3. The Three-Tier Model"   -> id="sec-3"
- *   "### 3.1 Rabble"               -> id="sec-3-1"
- *   "### 3.1.2 Sub-sub"            -> id="sec-3-1-2"
- *   "## 5. Wounds" / "### 5.1 ..." also work
+ *   "## 4.1 Percentile Roll"     -> id="sec-4-1"
+ *   "### 4.1.2 Difficulty"       -> id="sec-4-1-2"
+ *   "## A1.2 Slash Crit Table"   -> id="sec-A1-2"
  *
  * Headings without a leading number (rare; epigraph quotes, etc.) fall back
  * to a kebabified slug of the heading text.
  */
 function sectionSlug(s) {
-  const m = s.match(/^(\d+(?:\.\d+)*)\b/);
+  const m = s.match(/^(A?\d+(?:\.\d+)*)\b/);
   if (m) return `sec-${m[1].replace(/\./g, "-")}`;
   return s
     .toLowerCase()
@@ -40,11 +41,11 @@ function buildCrossRefTransform(chapterMap, pathPrefix) {
   return function (content, outputPath) {
     if (!outputPath || !outputPath.endsWith(".html")) return content;
 
-    // Section refs: "§5.3" -> link to /05-combat/#sec-3
+    // Section refs: "§5.3" -> link to /05-combat/#sec-5-3
     content = content.replace(refRe, (match, num, section) => {
       const slug = chapterMap[num];
       if (!slug) return match;
-      const anchor = `sec-${section.replace(/\./g, "-")}`;
+      const anchor = `sec-${num}-${section.replace(/\./g, "-")}`;
       const displayText = `§${num}.${section}`;
       return `<a class="xref" href="${pathPrefix}${slug}/#${anchor}">${displayText}</a>`;
     });
@@ -93,42 +94,9 @@ module.exports = function (eleventyConfig) {
     buildCrossRefTransform(chapterMap, pathPrefix),
   );
 
-  // Chapter+section numbering transform. Source markdown uses local
-  // numbering ("## 1. Becoming a Sorcerer" / "### 1.1 What a Sorcerer
-  // Is") inside each chapter. For the rendered book we want global
-  // numbering ("6.1 Becoming a Sorcerer" / "6.1.1 What a Sorcerer Is"
-  // in chapter 6). The transform finds the file's chapter num and
-  // prefixes the H1 title plus each H2/H3/H4 section number.
-  const slugToNum = Object.fromEntries(chapters.map((c) => [c.slug, c.num]));
-  eleventyConfig.addTransform(
-    "chapter-numbering",
-    function (content, outputPath) {
-      if (!outputPath || !outputPath.endsWith(".html")) return content;
-      const m = outputPath.match(/\/([^/]+)\/index\.html$/);
-      if (!m) return content;
-      const num = slugToNum[m[1]];
-      if (!num) return content; // not a chapter page
-
-      // H1 chapter title: "<h1>Sorcery</h1>" -> "<h1>6. Sorcery</h1>".
-      // Only the first H1, which is the chapter title.
-      content = content.replace(
-        /<h1>([^<]+)<\/h1>/,
-        `<h1>${num}. $1</h1>`,
-      );
-
-      // H2/H3/H4 section numbers. Markdown source uses "1.", "1.1", "1.1.1";
-      // markdown-it-anchor renders to:
-      //   <h2 id="sec-1" tabindex="-1">1. Becoming a Sorcerer <a ...>#</a></h2>
-      // Prefix the section number with the chapter num and a dot, dropping
-      // any trailing dot after the original section number.
-      content = content.replace(
-        /(<h[234]\s+id="sec-[\d-]+"[^>]*>\s*)(\d+(?:\.\d+)*)\.?(\s+)/g,
-        `$1${num}.$2$3`,
-      );
-
-      return content;
-    },
-  );
+  // (Heading numbering transform retired: source markdown now embeds
+  // global numbers directly in headings - "## 6.1 Becoming a Sorcerer",
+  // "### 6.1.1 What a Sorcerer Is" - so no runtime renumbering needed.)
 
   // Passthrough static assets. The css folder lives at site/css/ but
   // we want it served from /css/ in the output, so use the mapping form.

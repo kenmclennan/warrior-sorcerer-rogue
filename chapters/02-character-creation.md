@@ -499,7 +499,7 @@ A new Passion gained through events in play starts at 60%, or higher if circumst
 
 ## 2.9 Step 8: Reputation
 
-Reputation is fame - or notoriety - recognised beyond the character's home ground. It is not the same as Status (see §3.4); Reputation travels. Reputation is a one-way ratchet: it only increases, never decreases.
+Reputation is fame - or notoriety - recognised beyond the character's home ground. It is not the same as Status (see §3.3.40); Reputation travels. Reputation is a one-way ratchet: it only increases, never decreases.
 
 ### 2.9.1 Starting Reputation by Profession
 

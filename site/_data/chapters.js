@@ -4,11 +4,10 @@
  *
  * Fields:
  *   num      The chapter's identifier: 1, 2, ..., 13 for chapters and
- *            A1-A5 for appendices. Used as the display number in the
- *            sidebar and headings, and as the lookup key for the
- *            cross-reference transform (the markdown text still uses
- *            "P5 §3" / "PA1 §1.2" form; the transform derives the
- *            P / PA prefix from num at runtime).
+ *            A1-A6 for appendices. Used as the display number in the
+ *            sidebar and as the lookup key for the cross-reference
+ *            transform. Source markdown embeds global numbers in
+ *            headings ("## 6.1 Foo") so no runtime numbering is needed.
  *   slug     The URL slug and source filename stem.
  *   title    The chapter title (no number).
  *   sections Array of {id, num, title, level} extracted from the
@@ -53,11 +52,12 @@ function extractSections(slug) {
   const content = fs.readFileSync(filepath, "utf-8");
   const sections = [];
   for (const line of content.split("\n")) {
-    // Matches:
-    //   ## 1. Title         (level 2, with dot)
-    //   ### 1.1 Title       (level 3, no dot)
-    //   #### 1.1.1 Title    (level 4)
-    const m = line.match(/^(#{2,4})\s+(\d+(?:\.\d+)*)\.?\s+(.+?)\s*$/);
+    // Matches headings with embedded global numbering:
+    //   ## 6.1 Title          (level 2)
+    //   ### 6.1.1 Title       (level 3)
+    //   #### 6.1.1.1 Title    (level 4)
+    //   ## A1.1 Title         (appendix level 2)
+    const m = line.match(/^(#{2,4})\s+(A?\d+(?:\.\d+)*)\.?\s+(.+?)\s*$/);
     if (!m) continue;
     const level = m[1].length;
     const num = m[2];

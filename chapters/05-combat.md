@@ -1,6 +1,6 @@
-# Combat
+# 5 Combat
 
-## 1. The Combat Round
+## 5.1 The Combat Round
 
 Each combat round represents twelve seconds of action, divided into four phases resolved in sequence.
 
@@ -11,7 +11,7 @@ Each combat round represents twelve seconds of action, divided into four phases 
 3. **Action.** Attacks, parries, dodges, and movement resolve in descending DEX order.
 4. **Resolution.** Ongoing effects apply; next round begins.
 
-### 1.1 Phase One: Statements
+### 5.1.1 Phase One: Statements
 
 Every participant declares their intended action. Lower DEX declares first; higher DEX declares last (more information, later commitment).
 
@@ -21,21 +21,21 @@ Declarations are intentions, not contracts. A character may change their action 
 
 **Ties in DEX:** if two characters share the same DEX, the character with the higher relevant weapon skill declares last. If still tied, both declare simultaneously.
 
-### 1.2 Phase Two: Powers
+### 5.1.2 Phase Two: Powers
 
 Spells and power-based abilities resolve in DEX order. A spell takes effect before melee strikes in Phase Three, unless the caster is interrupted (see §7.5).
 
-### 1.3 Phase Three: Action
+### 5.1.3 Phase Three: Action
 
 Characters act in descending DEX order. Within a DEX rank, resolve in weapon-length order: missiles before long weapons, long before medium, medium before short and unarmed.
 
 **Delaying action.** A character may delay their action, acting at any lower DEX rank in the same round. Once delayed, they cannot return to their original rank. A character who delays to after the last rank loses their action for the round.
 
-### 1.4 Phase Four: Resolution
+### 5.1.4 Phase Four: Resolution
 
 Apply ongoing effects: bleeding, expiring conditions, end-of-round bookkeeping. The next round begins.
 
-## 2. Movement
+## 5.2 Movement
 
 Movement in combat is described, not measured. Three categories cover most situations:
 
@@ -45,9 +45,9 @@ Movement in combat is described, not measured. Three categories cover most situa
 
 **Full Sprint.** Maximum speed. Acts at quarter DEX rank (round down); cannot attack; defensive actions only if directly threatened.
 
-## 3. Attack and Defence
+## 5.3 Attack and Defence
 
-### 3.1 The Attack Roll
+### 5.3.1 The Attack Roll
 
 To attack, roll D100 against the relevant weapon skill. Consult the outcome tiers from §4.2:
 
@@ -56,7 +56,7 @@ To attack, roll D100 against the relevant weapon skill. Consult the outcome tier
 - **Failure**: the attack misses. No defensive roll needed.
 - **Fumble** (00, or matching dice outside success range): something has gone wrong. The GM narrates the complication - a dropped weapon, a stumble, an opening left for the opponent.
 
-### 3.2 The Attack and Defence Matrix
+### 5.3.2 The Attack and Defence Matrix
 
 When an attack succeeds, the defender may attempt a parry or dodge. Both attack and defence generate an outcome tier. The interaction between the two tiers determines the result:
 
@@ -72,27 +72,27 @@ When an attack succeeds, the defender may attempt a parry or dodge. Both attack 
 
 A Critical attack that is not defended against (the defender chose not to parry or dodge, or had no defence remaining) deals full damage and ignores armour.
 
-### 3.3 Parrying
+### 5.3.3 Parrying
 
 A defender may attempt to parry any successful attack by rolling their parrying weapon or shield skill. Each parry attempt beyond the first in a round suffers a cumulative -30% penalty to the parry skill. A defender who has attempted two parries that round makes the third at -60%, the fourth at -90%, and so on.
 
-Parry and dodge cannot both be used against the same attack, except when fighting defensively (§3.6).
+Parry and dodge cannot both be used against the same attack, except when fighting defensively (§5.3.6).
 
-### 3.4 Dodging
+### 5.3.4 Dodging
 
 A defender may attempt to dodge instead of parrying. Roll the Dodge skill. The same cumulative -30% penalty applies as for parries, tracking separately from parry attempts. A character who dodges three times in a round makes the third at -60%.
 
-### 3.5 Critical Attacks and Armour
+### 5.3.5 Critical Attacks and Armour
 
 A Critical attack that lands against a defender who failed to defend (or was not defended) deals maximum damage and ignores armour entirely. A defender who parried or dodged successfully against a Critical reduces the result to a standard Success - the attack still strikes, but armour applies and damage is halved.
 
 When a critical attack lands and there is no successful defence: determine the severity band from the matching-dice value and damage type, then look up the result in §A1. See §9 for how to read the crit tables.
 
-### 3.6 Fighting Defensively
+### 5.3.6 Fighting Defensively
 
 A character who forgoes all attacks for the round gains one additional Dodge that costs no -30% penalty. They may still parry normally (with cumulative penalties), and the free dodge does not count toward the parry penalty track. Declare at the start of Phase Three.
 
-### 3.7 Missile Weapons
+### 5.3.7 Missile Weapons
 
 Missile attacks follow the same success tiers as melee attacks. Missiles cannot generally be dodged or parried by the target unless the attack was visible before it was launched (the first visible arrow or thrown weapon in a round may be dodged at Difficult).
 
@@ -117,19 +117,19 @@ This is a separate roll, not a parry: the shield either blocks the missile or th
 
 The GM determines which band applies based on the description of the scene.
 
-### 3.8 Multiple Attacks
+### 5.3.8 Multiple Attacks
 
 A character whose weapon skill exceeds 100% may split that skill into multiple attacks, each at a minimum effective skill of 50%. Additional attacks resolve at -5 DEX rank intervals after the first. No single attack may exceed the character's full skill rating.
 
 **Example.** A warrior with Sword 110% may attack twice: once at 110% on their normal DEX rank and once at 50% at DEX -5. Or they may choose 70%/70% (any split summing to the base, each at minimum 50%). The second attack comes at -5 DEX ranks from the first.
 
-## 4. Damage and Armour
+## 5.4 Damage and Armour
 
-### 4.1 Damage Rolls
+### 5.4.1 Damage Rolls
 
 Each weapon lists a damage dice expression. The attacker rolls this dice, adds their damage modifier (derived from STR and SIZ), and applies the result to the defender's HP total after subtracting armour.
 
-### 4.2 Armour Value
+### 5.4.2 Armour Value
 
 Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from damage before applying to HP. If the reduction brings damage to 0 or below, no HP are lost - but the impact still occurred.
 
@@ -137,13 +137,13 @@ Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from da
 
 **Armour fit.** Armour is sized for its original wearer. Armour that does not fit (different SIZ) imposes an additional -20% penalty on all physical skills and halves its AV.
 
-### 4.3 Shields
+### 5.4.3 Shields
 
 Shields are both weapons (use Shield skill to attack) and parrying tools (use Shield skill to parry melee and intercept missiles as above). Shield skill has the same -30% cumulative penalty as all parry skill uses.
 
-## 5. Wounds
+## 5.5 Wounds
 
-### 5.1 Damage and Falling
+### 5.5.1 Damage and Falling
 
 Damage is subtracted from current HP. Combat continues at any positive HP - the character keeps acting, parrying, casting, regardless of the wound count. The genre tolerates beating, blood, and exhaustion right up until the moment a character drops.
 
@@ -153,7 +153,7 @@ Damage is subtracted from current HP. Combat continues at any positive HP - the 
 
 **Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§10): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (§4.7). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
 
-### 5.2 Healing
+### 5.5.2 Healing
 
 Natural healing is slow. A character recovers 1D4 HP per game week, modified by conditions:
 
@@ -169,9 +169,9 @@ Medicine skill applied in proper conditions heals 1D4 HP or restores 1 point to 
 
 Sorcerous healing exists as rare, costly spells in the sorcery list (see §7.3). It is never the default recovery path, and it pays its own price.
 
-## 6. Common Combat Situations
+## 5.6 Common Combat Situations
 
-### 6.1 Engaging and Disengaging
+### 5.6.1 Engaging and Disengaging
 
 **Engaging.** Moving into hand-to-hand range costs a Short Move. An engaged character is within weapon's reach and subject to melee attack without penalty.
 
@@ -183,7 +183,7 @@ Sorcerous healing exists as rare, costly spells in the sorcery list (see §7.3).
 
 3. **Turn and run.** The character turns and moves. This abandons all defence: the opponent gets one immediate attack against the fleeing character that cannot be parried or dodged.
 
-### 6.2 Knockout and Subdual
+### 5.6.2 Knockout and Subdual
 
 **Knockout attack.** Declare at the start of Phase Three. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). §A1 critical effects do not apply to Knockout criticals - the result is the unconsciousness rule above, not the brutal wounds of a lethal critical. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
 
@@ -191,7 +191,7 @@ Sorcerous healing exists as rare, costly spells in the sorcery list (see §7.3).
 
 **Grapple and restrain.** A successful Grapple roll (Brawl or Grapple skill) establishes a hold. The restrained character must make an opposed STR vs. STR or DEX vs. DEX resistance roll to break free (their choice). An immobilised character cannot attack but can still speak.
 
-### 6.3 Surprise
+### 5.6.3 Surprise
 
 A completely unaware character cannot parry or dodge; the attacker gains an Easy roll. A partially surprised character (knew a fight was possible but did not see this attack) may attempt a Difficult parry or dodge.
 
@@ -199,57 +199,57 @@ When both sides are surprised, an opposed Spot or Listen roll determines who act
 
 **Ambush.** Hidden attackers get Easy attacks on the first round. Victims may not parry or dodge until the following round - unless some succeed at a Spot or Listen roll before the attack lands, in which case those individuals may defend normally.
 
-### 6.4 Multiple Attackers
+### 5.6.4 Multiple Attackers
 
 No more than five human-sized opponents can meaningfully engage a single target simultaneously. Large weapons reduce this number further. Attackers beyond the limit are crowded out.
 
 When a character is attacked by more opponents than they have parry and dodge attempts remaining, some attacks land undefended. Choose which to defend; the rest hit automatically.
 
-### 6.5 Casting in Combat
+### 5.6.5 Casting in Combat
 
 A sorcerer struck before Phase Two resolves must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if they act first. Disengage first or accept the risk.
 
 See §7.2 for full sorcery casting rules.
 
-### 6.6 Close Combat and Weapon Length
+### 5.6.6 Close Combat and Weapon Length
 
 Long weapons attack first within a DEX rank. Once a short-weapon fighter closes to grappling distance, long-weapon parries become Difficult and the full reach cannot be used. To close, the short-weapon fighter must survive the initial strike (long weapon attacks first in that exchange); subsequent rounds at close range penalise the long-weapon fighter.
 
 Daggers and unarmed strikes are unaffected by close quarters. Two-handed polearms may be unusable in tight spaces.
 
-### 6.7 Cover
+### 5.6.7 Cover
 
 Partial cover (a door-frame, a low wall, a fallen pillar) makes attacks against the covered character Difficult. If the attack roll falls between the modified skill (with Difficult applied) and the unmodified skill, the cover is struck instead. Damage that exceeds the cover's structural integrity passes through.
 
 A character who is kneeling or prone behind a full shield or wall gains substantial cover. The GM determines coverage based on description.
 
-### 6.8 Fighting While Down
+### 5.6.8 Fighting While Down
 
 All attacks, parries, and dodges are Difficult while prone; attacks against the character are Easy. Rising takes an attack slot, during which these penalties still apply.
 
 **Difficult Dodge to rise.** A prone character may attempt a Difficult Dodge on their DEX rank. Success: they rise and may still attack. Failure: they remain prone.
 
-### 6.9 Aimed Attacks
+### 5.6.9 Aimed Attacks
 
 For every 5 DEX ranks spent delaying, add +10% to the attack skill, up to the base skill maximum. Announce at the start of Phase Three; count off the ranks openly.
 
-## 7. Damage Types
+## 5.7 Damage Types
 
 WSR weapons deal one of four damage types. Type determines which critical hit table is consulted in §A1 when a critical attack lands. Type also affects armour interactions (some armours protect better against some types - see §8 Equipment) and certain talents and creature abilities that react to specific types.
 
-### 7.1 Slashing (swords, axes, daggers, claws)
+### 5.7.1 Slashing (swords, axes, daggers, claws)
 
 Cutting wounds. Slash criticals resolve on the **§A1 Slash table** (§A1.2). Slash critical entries commonly cause bleeding wounds; the bleed effect is defined in §A1.1.4.
 
-### 7.2 Impaling (spears, arrows, javelins, thrusting swords)
+### 5.7.2 Impaling (spears, arrows, javelins, thrusting swords)
 
 Puncturing wounds. Impale criticals resolve on the **§A1 Pierce table** (§A1.3). Pierce critical entries can lodge a weapon in the wound or pin a limb; the specific effect is described within the relevant entry.
 
-### 7.3 Crushing (maces, hammers, clubs, shields)
+### 5.7.3 Crushing (maces, hammers, clubs, shields)
 
 Blunt-force wounds. Crush criticals resolve on the **§A1 Krush table** (§A1.4). Krush critical entries commonly stun the target or knock them prone; the stunned and knocked-down effects are defined in §A1.1.4.
 
-### 7.4 Entangling (whips, nets, chains, ropes)
+### 5.7.4 Entangling (whips, nets, chains, ropes)
 
 Restraining attacks. Entangling weapons have a dedicated tactical option:
 
@@ -259,7 +259,7 @@ An entangling critical (whether on a damage attack or an entangle attempt) impos
 
 **Other damage types.** Fire damage (sorcerous flame, Greek fire, dragon breath, fire elementals) and Grapple damage (the §3 Grapple skill, creature constricting attacks) have their own §A1 critical hit tables - see §A1.5 (Burn) and §A1.6 (Grapple). They follow the same band structure (A through E) and the same matching-dice severity rules as Slash, Pierce, and Krush.
 
-## 8. Rabble
+## 5.8 Rabble
 
 Rabble are ordinary soldiers, hired thugs, city guards, and bandit conscripts - fighters without exceptional qualities, without Fate Point access, and without the will to fight to the death.
 
@@ -271,7 +271,7 @@ A Rabble is never a named character. The moment an NPC becomes plot-relevant or 
 
 For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see §9.1.
 
-## 9. Dying Blows
+## 5.9 Dying Blows
 
 A character at 0 HP or below may attempt one last act before falling.
 
@@ -281,11 +281,11 @@ A character at 0 HP or below may attempt one last act before falling.
 
 A Dying Blow cannot be a defensive action. It can trigger a Fate Point spend, including Deflect the Killing Blow (see §4.7.7).
 
-## 10. Reading the Crit Tables
+## 5.10 Reading the Crit Tables
 
 When a critical attack lands and is not fully defended, look up the result in §A1. This section explains how to find the right result.
 
-### 10.1 Determine the Damage Type
+### 5.10.1 Determine the Damage Type
 
 The weapon used determines which table to consult:
 
@@ -295,7 +295,7 @@ The weapon used determines which table to consult:
 
 Some weapons may fall into more than one type (a short sword used for a hacking cut is Slash; the same weapon used for a thrusting stab is Pierce). The attacker declares which type applies at the time of the roll.
 
-### 10.2 Determine the Severity Band
+### 5.10.2 Determine the Severity Band
 
 The severity band (A through E) is determined by the matching-dice value that triggered or was bought into the critical:
 
@@ -313,11 +313,11 @@ A higher matching-dice value is only accessible to characters whose skill (after
 
 **Critical Buy.** A Critical Buy uses the purchased value. If a character with Sword 65 rolls 47 and spends 3 PP to claim 44, the severity band is C. See §A1.1 for the full lethality gradient.
 
-### 10.3 Find the Roll
+### 5.10.3 Find the Roll
 
 Within the damage type table and severity band column, roll 1D100 and read the result. A character who has received a lethal crit may spend PP (§4.7) after hearing the result but before it takes full effect.
 
-### 10.4 Criticals and Rabble
+### 5.10.4 Criticals and Rabble
 
 **Rabble inflicting criticals.** A Rabble who rolls matching dice within their skill (or rolls 01) inflicts a critical normally. The PC may defend; if the attack lands, the standard §A1 table is consulted, full damage applies, and armour is ignored. Rabble cannot Critical Buy (no Fate Point access), and their natural skill cap (typically 30-50%) limits them to Band A or B - an exceptionally-skilled Rabble at skill 50+ may reach Band C, but Bands D and E require skill 66+ and 88+ respectively, which is above the tier's design envelope.
 

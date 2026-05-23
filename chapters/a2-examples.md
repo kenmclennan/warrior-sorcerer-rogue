@@ -1,10 +1,10 @@
-# Play Examples
+# A2 Play Examples
 
-## 1. Character Creation: Building Khess the Knife
+## A2.1 Character Creation: Building Khess the Knife
 
 Khess is a City Thief from The Walled Cities background. This example takes each step in turn.
 
-### 1.1 Step 1: Characteristics
+### A2.1.1 Step 1: Characteristics
 
 The player rolls 3D6 seven times: **9, 10, 12, 13, 13, 14, 18.**
 
@@ -22,7 +22,7 @@ Per §2.2.1, results are assigned to characteristics in any order; SIZ and INT m
 
 Khess is fast and clever. She is not strong.
 
-### 1.2 Step 2: Derived Statistics
+### A2.1.2 Step 2: Derived Statistics
 
 **Hit Points.** CON + SIZ = 10 + 13 = **23 HP.** (PCs use the full formula; lower-tier NPCs use (CON+SIZ)/2 - see §9.1.)
 
@@ -45,7 +45,7 @@ Khess is fast and clever. She is not strong.
 | Perception    | (INT + CON) / 2 = (14 + 10) / 2 = 12             | +6    |
 | Physical      | (STR + DEX + CON) / 3 = (9 + 18 + 10) / 3 = 12.3 | +6    |
 
-### 1.3 Step 3: Cultural Background - The Walled Cities
+### A2.1.3 Step 3: Cultural Background - The Walled Cities
 
 Khess grew up in one of the great walled trading ports: merchants, scribes, priests, and spies. She speaks the cities' trading tongue, is literate in two scripts, and has the specific wariness of someone who has spent her whole life reading strangers.
 
@@ -60,7 +60,7 @@ Khess grew up in one of the great walled trading ports: merchants, scribes, prie
 
 **Common items:** Robe or tunic, sandals, and a sealed merchant's letter worth 2 Drams to the right fence.
 
-### 1.4 Step 4: Profession - City Thief
+### A2.1.4 Step 4: Profession - City Thief
 
 Khess spent several years working the markets, warehouses, and back-alleys of her port city. She picked pockets, worked with fences, and learned which rooftops connected to which alleys.
 
@@ -95,7 +95,7 @@ _(Total profession points spent: 325.)_
 - Insight +10%: now **56%**
 - Research +10% (added as a new skill not in bundle): Research = 25% base + 6% category + 10% = **41%**
 
-### 1.5 Step 5: Personal Skills
+### A2.1.5 Step 5: Personal Skills
 
 **Personal Skill Points = INT x10 = 14 x 10 = 140 points.**
 
@@ -112,7 +112,7 @@ The player spreads these across skills, choosing what Khess picked up outside he
 
 _(Total personal points spent: 140.)_
 
-### 1.6 Step 6: Talents
+### A2.1.6 Step 6: Talents
 
 Khess chooses 2 talents. She qualifies for the Stealth and Finesse table and the Social and Cunning table. She takes one from each.
 
@@ -120,7 +120,7 @@ Khess chooses 2 talents. She qualifies for the Stealth and Finesse table and the
 
 **Social and Cunning:** _Cold Read_ (2 PP). On an Insight roll, she also determines whether the target is armed and where the weapon is, what they would most readily trade, and whether they have a patron or superior they fear.
 
-### 1.7 Step 7: Passions
+### A2.1.7 Step 7: Passions
 
 Khess must record three passions: one at 80%, two at 60%. Passions are player-authored (see §2.8.2).
 
@@ -128,21 +128,21 @@ Khess must record three passions: one at 80%, two at 60%. Passions are player-au
 - **Loyalty to her fence, the old woman called Brine - 60%.** Brine gave her a roof when she had nothing. Khess does not sell people who have been good to her.
 - **Greed for the treasury of Aktar-Ur - 60%.** She heard a rumour. She has not been able to stop thinking about it.
 
-### 1.8 Step 8: Reputation
+### A2.1.8 Step 8: Reputation
 
 Starting Reputation for City Thief: **5%.** Khess tags it: _"the girl who climbed the Harbormaster's archive and came back with something nobody was supposed to see."_
 
-### 1.9 Step 9: Sorcerer-Specific
+### A2.1.9 Step 9: Sorcerer-Specific
 
 Khess is not a sorcerer. She skips this step.
 
-### 1.10 Step 10: Starting Equipment
+### A2.1.10 Step 10: Starting Equipment
 
 **Profession kit (City Thief):** Dagger, a thief's tools (Fine Manipulation +10% when using these), dark clothing, 5 Drams.
 
 **Additional equipment purchased:** She spends 3 Drams on a quality belt pouch (concealable), leaving her with 2 Drams.
 
-### 1.11 Background Questions
+### A2.1.11 Background Questions
 
 **Who wronged you, and have you settled it yet?** The Serpent Syndicate killed Verinax and took the spice cargo. Not settled. Settling it would require either burning down the Syndicate or taking everything from the man who gave the order.
 
@@ -154,7 +154,7 @@ Khess is not a sorcerer. She skips this step.
 
 **What one possession are you never without, and why?** A small copper ring, bent, from Verinax's hand. She took it herself when she found him. She keeps it so she does not let herself forget what this is about.
 
-### 1.12 Finalising: Character Sheet Summary
+### A2.1.12 Finalising: Character Sheet Summary
 
 **Name:** Khess (the Knife is a nickname, not something she chose).
 
@@ -184,11 +184,11 @@ Khess is not a sorcerer. She skips this step.
 
 **Significant possession:** A bent copper ring from Verinax's hand.
 
-## 2. Combat Example: The Ambush at the Salt Causeway
+## A2.2 Combat Example: The Ambush at the Salt Causeway
 
 _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a Mercenary Soldier, and the unnamed sorcerer Karash. They have been hired to escort a salt merchant's ledger to a buyer across the city. Three members of the Serpent Syndicate are waiting in an alley mouth on the Salt Causeway: one named enforcer, Davan the Flayer, and two hired Rabble._
 
-### 2.1 Set-Up: Characteristics at the Moment of the Fight
+### A2.2.1 Set-Up: Characteristics at the Moment of the Fight
 
 **Khess the Knife** (City Thief, from Section 1):
 
@@ -213,7 +213,7 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 - _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a Rabble (§5.8)._
 - _No PP. No Fate Point access._
 
-### 2.2 Round 1: Statements and Initiative
+### A2.2.2 Round 1: Statements and Initiative
 
 The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the Rabble flank him.
 
@@ -277,7 +277,7 @@ Result: Success vs. Failure - Orryn's attack hits normally, armour applies. Rabb
 
 **Phase Four: Ongoing effects.** Davan bleeds: 1 HP at the end of the round. He drops from HP 1 to HP 0. He is at the Fatal Wound threshold.
 
-### 2.3 Round 2: A Dying Blow and Stand Your Ground
+### A2.2.3 Round 2: A Dying Blow and Stand Your Ground
 
 **Davan is at 0 HP.** He is dying (§5.5.1). His stun has 1 round remaining. He cannot attack. He can attempt one last act.
 
@@ -295,7 +295,7 @@ Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Rabble 
 
 **Orryn acts (DEX 13).** Both Rabble are down. He moves to Davan, who is at HP 1, gravely wounded and labouring to breathe from the lung-puncture. He delivers First Aid. First Aid 40%: he rolls **28.** Success. He binds the wound and stabilises Davan - alive at HP 1, helpless, and now a prisoner. The party has someone to question.
 
-### 2.4 Combat Bookkeeping: Where the PP Went
+### A2.2.4 Combat Bookkeeping: Where the PP Went
 
 | Character | Starting PP | Spent                                    | Remaining |
 | --------- | ----------- | ---------------------------------------- | --------- |
@@ -305,7 +305,7 @@ Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Rabble 
 
 Khess spent 7 PP to take Davan from full health to dying in a single action. She is below half her pool. Fate Point spends are now expensive for her.
 
-### 2.5 What the Example Demonstrated
+### A2.2.5 What the Example Demonstrated
 
 - **Strike Ranks / Initiative** (§5.1): DEX order determined who declared last and acted first. Khess's DEX 18 was a meaningful advantage.
 - **Rabble incapacitation** (§5.8): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
@@ -316,13 +316,13 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 - **Dying Blow** (§5.9): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
 - **Corruption roll** (§7.3.3): Karash cast a low-intensity spell and succeeded his Corruption roll. Nothing lost this round.
 
-## 3. Sorcery Example: Karash Casts the Curse
+## A2.3 Sorcery Example: Karash Casts the Curse
 
 _Two days after the Salt Causeway ambush. Davan the Flayer, despite his wounds, talked freely about the man who gave the order to kill Verinax: a Syndicate treasurer called Mekhos, who keeps offices above a spice warehouse in the merchant quarter. Khess wants him marked. Karash owes Khess a favour - or rather, Karash's patron does, and the sorcerer prefers to pay debts with someone else's currency._
 
 _Karash is at his casting spot: a rented room with a cleared floor, a brazier burning cedarwood, and the window shuttered. He intends to cast Curse of the Withered Hand on Mekhos, who is three streets away in his counting-house. For this, Karash will need the spell's range to reach Mekhos._
 
-### 3.1 The Set-Up: Karash's Current State
+### A2.3.1 The Set-Up: Karash's Current State
 
 **Karash** (Scholar of the Dark Arts):
 
@@ -334,13 +334,13 @@ _Karash is at his casting spot: a rented room with a cleared floor, a brazier bu
 
 **Memorised spells (INT = 15 spell levels):** Curse of the Withered Hand (level 4), Cloak of Night (level 1), See the Unseen (level 3), Moonrise (level 1), Shadow-Wrap (level 2), Midnight (level 1), Bird's Eye (level 3) - total: 15 levels. He is at capacity.
 
-**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (§4.4.4). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
+**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (§4.4.5). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
 
-### 3.2 The Iron Problem
+### A2.3.2 The Iron Problem
 
 Karash reviews what he is carrying before casting. He has a bronze dagger at his hip (bronze, no penalty), leather wrappings on the grimoire (no penalty), a belt with iron buckles. The GM rules the iron buckles are trivial - small fittings on primarily leather items, below the threshold (§7.4). No iron penalty applies tonight. Karash has dressed carefully.
 
-### 3.3 Extending the Range: The Sorcerer's Reach Talent
+### A2.3.3 Extending the Range: The Sorcerer's Reach Talent
 
 _Curse of the Withered Hand_ has its standard range (the target must be in the sorcerer's presence, typically within POW x5 metres = 85 metres for Karash). Mekhos is three streets away - perhaps 400 metres. The spell cannot reach him at standard range.
 
@@ -350,7 +350,7 @@ However, Karash also has _Bird's Eye_ memorised. He casts _Bird's Eye_ at Intens
 
 _This is a two-casting night._ Karash will cast Bird's Eye first (Phase Two of round one), then sustain the working while he casts the Curse in a second round.
 
-### 3.4 Casting Bird's Eye (Round 1, Phase Two)
+### A2.3.4 Casting Bird's Eye (Round 1, Phase Two)
 
 **Cost:** 3 PP. Karash's PP drops from 15 to **12.**
 
@@ -362,7 +362,7 @@ _This is a two-casting night._ Karash will cast Bird's Eye first (Phase Two of r
 
 Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, counting coin by lamplight. The raven is on the counting-house windowsill. Karash knows his target's position. The POW resistance roll for the Curse will be based on Karash's PP total at the moment of casting (after the Curse's own cost) versus Mekhos's POW.
 
-### 3.5 Casting the Curse (Round 2, Phase Two)
+### A2.3.5 Casting the Curse (Round 2, Phase Two)
 
 **Cost:** 4 PP. Karash's PP drops from 12 to **8.**
 
@@ -382,7 +382,7 @@ _Total Corruption lost this casting: 3. From 85 to 82._
 
 Karash notes this on his sheet. His Breaking Point is 42. He is nowhere near the immediate crisis threshold for an acute episode (losing more than 42 in a single session), but the ceiling is visible. Every casting like this moves him closer to the edge.
 
-### 3.6 The Patron Compact Moment
+### A2.3.6 The Patron Compact Moment
 
 Karash has 8 PP remaining. He considers whether to try again - can Mekhos be reached another way, or should he invoke the Faceless One?
 
@@ -392,7 +392,7 @@ Karash does not invoke. Instead he makes a practical decision: he will find anot
 
 **The Patron Score does not change this session.** The Faceless One was not called. The debt neither grew nor shrank.
 
-### 3.7 The Visible Drama
+### A2.3.7 The Visible Drama
 
 Per _design.md_ §2.2: magic is theatrical. The following happened whether anyone outside the room saw it or not:
 
@@ -400,7 +400,7 @@ When the Curse was cast and failed, the room shuddered. The cedarwood brazier fl
 
 Karash is intact. He is 3 Corruption lighter. He smells of copper. He has 8 PP and is nowhere near his limit.
 
-### 3.8 What the Example Demonstrated
+### A2.3.8 What the Example Demonstrated
 
 - **PP cost and casting time** (§7.2.2 and §2.3): Each spell costs PP at the moment of casting. Two spells in two rounds depleted Karash's pool significantly.
 - **Corruption gain and a Corruption roll** (§7.3.3): Even a failed curse costs Corruption. Two separate Corruption costs applied to a single casting: the standard table roll plus the spell's specific additional cost.
@@ -410,17 +410,17 @@ Karash is intact. He is 3 Corruption lighter. He smells of copper. He has 8 PP a
 - **Iron-vs-sorcery** (§7.4): Karash dressed carefully. No iron penalty this night.
 - **PP economy after the fight**: Karash began the casting at 15 PP (two days' recovery from the ambush). He spent 3 on Bird's Eye and 4 on the Curse, ending at 8 PP. He retains enough PP for one defensive Fate Point spend if needed, but he is not comfortable.
 
-## 4. Session Sketch: The Ledger of Mekhos
+## A2.4 Session Sketch: The Ledger of Mekhos
 
 _A single-session sketch using the hook-complications-reckoning structure (design.md §4.1). Not a full scenario - a framework showing how a session feels from the outside._
 
-### 4.1 The Hook
+### A2.4.1 The Hook
 
 A minor spice merchant called Hattu approaches the three characters at a harbourside wine-house. He has a problem: his business ledger has been seized by the Serpent Syndicate as collateral on a debt he cannot pay. The ledger contains entries that would destroy him if they were ever read by the city prefect - nothing he did, exactly, but payments he received that he should have refused. He wants the ledger back. He offers 30 Staters.
 
 **The personal stake:** Khess recognises the Syndicate connection immediately. Any job that hurts the Syndicate is a job worth doing, regardless of the coin. Her Hatred of the Serpent Syndicate (80%) is directly engaged. _The player invokes the Passion before the negotiation even ends: she rolls 63 against her 80%, a success. She gains +20% to all relevant rolls in this scene. Khess talks Hattu up to 40 Staters and asks for half in advance._
 
-### 4.2 The Complications
+### A2.4.2 The Complications
 
 The ledger is in the Syndicate's counting-house in the merchant quarter - which the party already know is above Mekhos's operation. They case the building for a day (Research rolls, Spot, Karash uses Vermin's Eye to send a rat under the floor).
 
@@ -430,7 +430,7 @@ The ledger is in the Syndicate's counting-house in the merchant quarter - which 
 
 **Complication three (sorcerous):** Karash detects a warding on the vault door with _See the Unseen._ The ward is not complex, but it is real: a minor sorcerous alarm (based on the Veil of the Ancient spell). Someone in the Syndicate's employ is sorcerously trained, or has access to someone who is. If the ward triggers, the Syndicate knows the vault has been entered within seconds.
 
-### 4.3 The Reckoning
+### A2.4.3 The Reckoning
 
 The party finds a solution: Karash uses _Iron Ward_ at Intensity 2 to suppress the vault ward while Khess picks the lock (Fine Manipulation, augmented with Research from her case study). They enter before Selka is alerted.
 

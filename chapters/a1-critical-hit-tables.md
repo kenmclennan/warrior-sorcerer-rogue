@@ -1,10 +1,10 @@
-# Critical Hit Tables
+# A1 Critical Hit Tables
 
 Critical hit tables for use when a Critical Success is scored in melee or ranged combat (§5). Tables are organised by damage type and severity band. Each entry gives a wound and its immediate mechanical consequence. The GM reads or paraphrases the result aloud.
 
-## 1. How to Read These Tables
+## A1.1 How to Read These Tables
 
-### 1.1 Damage Types
+### A1.1.1 Damage Types
 
 Each attack deals one of five damage types. The damage type determines which table applies.
 
@@ -20,7 +20,7 @@ The weapon's entry in §8 Equipment lists its damage type. When two types apply 
 
 **Animal and natural-weapon attacks.** Beasts and other non-weapon-using creatures use these same tables. Map the attack to its mechanical character: bite or rake = Slash, gore with tusk or horn = Pierce, hoof or paw-buffet = Krush, constricting or grappling attack = Grapple (§7), supernatural flame or fire-touch = Burn (§5). Substitute appropriate descriptors when reading the result aloud (fang for blade, claw for edge, hoof for haft, gore for thrust). The mechanical effects apply unchanged.
 
-### 1.2 Severity Bands
+### A1.1.2 Severity Bands
 
 Five severity bands, A through E. The severity band is determined by which matching-dice value triggered the critical:
 
@@ -53,11 +53,11 @@ Read across the row for the character's effective skill (after any difficulty mo
 
 A character with skill 20-29 can only reach Band A via matching dice (only 11 is within range), plus Band B if their 01 lucky shot fires at skill 22+. A fighter with skill 80 caps at Band D for matching-dice crits and Critical Buys (the highest reachable matching value is 77, which is Band D). Skill 88+ is required to reach Band E - either by rolling 88 or 99 naturally, or by Critical Buy.
 
-### 1.3 Selecting the Result Within a Band
+### A1.1.3 Selecting the Result Within a Band
 
 Roll 1d10. The GM may substitute the result that best fits the fiction (e.g., a result referencing a shield arm when the target has no shield arm). Lower results trend toward disruption; higher results toward the severe end of the band's lethality range.
 
-### 1.4 Reading a Result Entry
+### A1.1.4 Reading a Result Entry
 
 Each result: **wound description + mechanical effect**. Read or paraphrase the description; apply the effect immediately. Vocabulary:
 
@@ -83,7 +83,7 @@ Each result: **wound description + mechanical effect**. Read or paraphrase the d
 
 **Dying.** The character will die in the stated number of rounds unless they receive First Aid (stopping the dying process - a successful roll stabilises them at 1 HP, but they remain unconscious and gravely wounded).
 
-### 1.5 Lethality by Band - At a Glance
+### A1.1.5 Lethality by Band - At a Glance
 
 Each band is a mix of severities. Roughly:
 
@@ -113,7 +113,7 @@ Within a band, results trend lighter at the bottom of the 1d10 and heavier at th
 >
 > If Korrath had rolled 44, he would be in Band C. If he had rolled a plain 37 (success, no matching dice), there is no critical at all - ordinary success only.
 
-## 2. Slash Critical Hit Table
+## A1.2 Slash Critical Hit Table
 
 Slash criticals carve flesh, open arteries, and sever tendons. Higher bands attack limbs, faces, and vital organs.
 
@@ -132,7 +132,7 @@ Slash criticals carve flesh, open arteries, and sever tendons. Higher bands atta
 | 9    | The blade slips between two ribs; +6 bonus damage, bleeds, stunned 2 rounds, attacks Difficult 3 rounds.     | Blade bites deep into the shield arm; +5 bonus damage, shield arm useless 2 rounds, bleeds, parries Difficult 3 rounds.     | Weapon-arm tendons severed; +7 bonus damage, weapon arm useless 4 rounds, bleeds, attacks Difficult for fight.               | Blade severs vessels in the armpit; +8 bonus damage, shield arm useless, dying in 6 rounds.                       | Stroke through the ribcage into the heart; the target is dead.                                                                               |
 | 10   | A lashing cut across cheek and forearm; +6 bonus damage, weapon arm useless 3 rounds, bleeds.                | Heavy stroke shatters the collarbone; +6 bonus damage, shield arm useless 3 rounds, attacks and parries Difficult 3 rounds. | Sweeping cut takes the throat fully; +9 bonus damage, dying in 1 rounds, bleeds catastrophically (2 HP/round), cannot speak. | A tremendous cut nearly removes the head; dead immediately.                                                       | Cut in two; dead instantly. Adjacent allies must make a Difficult Luck roll or lose their next action in horror.                             |
 
-## 3. Pierce Critical Hit Table
+## A1.3 Pierce Critical Hit Table
 
 Pierce criticals drive past armour into soft tissue. Deep punctures, internal organ damage, and at high bands wounds that cannot be easily reached and bound.
 
@@ -151,7 +151,7 @@ Pierce criticals drive past armour into soft tissue. Deep punctures, internal or
 | 9    | Deep thrust to the side; +6 bonus damage, bleeds, stunned 2 rounds, attacks Difficult 3 rounds.                   | Precise thrust into the armpit; +6 bonus damage, shield arm useless 3 rounds, bleeds, parries Difficult 3 rounds. | Thrust into the side of the neck; +7 bonus damage, stunned 3 rounds, bleeds, attacks Difficult for fight.                     | Drives through the heart wall; +9 bonus damage, dying in 1 rounds. Only Deflect the Killing Blow prevents death. | Point pierces the spine at the neck; paralysed neck-down, dying in 3 rounds. Only sorcery undoes paralysis.                             |
 | 10   | Thrust through the shield-arm forearm; +6 bonus damage, shield arm useless 3 rounds, parries Difficult for fight. | Thrust into the sternum; +7 bonus damage, stunned 3 rounds, attacks and parries Difficult for fight.              | Deep gut thrust; +8 bonus damage, dying in 4 rounds, bleeds catastrophically (2 HP/round), attacks Difficult for fight.       | Thrust into the heart; dead instantly. Weapon may lodge - lose it unless a STR roll pulls it free.               | Strike through the soft jaw into the brain stem; dead before pain registers.                                                            |
 
-## 4. Krush Critical Hit Table
+## A1.4 Krush Critical Hit Table
 
 Krush criticals crush bone, rupture organs, and knock targets senseless. They bleed less than Slash but shatter and break more. High-band results destroy joints and cave in skulls.
 
@@ -170,7 +170,7 @@ Krush criticals crush bone, rupture organs, and knock targets senseless. They bl
 | 9    | Strike drives all air from the lungs; +6 bonus damage, stunned 3 rounds, attacks Difficult 3 rounds.  | Weapon shatters the thigh; +6 bonus damage, knocked down, leg useless 3 rounds, attacks Difficult for fight.         | Weapon caves in the temple; +8 bonus damage, stunned 4 rounds, knocked down, dying in 6 rounds unless treated.          | Strike snaps the forearm, bone through skin; weapon arm useless, +8 bonus damage, bleeds.                                 | Weapon catches the skull at a weak point; +10 bonus damage. If they survive, lose 1D3 INT or POW permanently.                      |
 | 10   | Strike clips the jaw hard; +7 bonus damage, stunned 3 rounds, attacks and parries Difficult 3 rounds. | Crushing strike over the sternum; +7 bonus damage, stunned 3 rounds, attacks and parries Difficult for fight.        | Blow shatters the upper spine; +8 bonus damage, knocked down, dying in 6 rounds unless treated, all actions Difficult.  | Crushing blow to the crown; +9 bonus damage. Skull fails. Dead.                                                           | Skull simply ceases to be a skull; dead, the body falls memorably.                                                                 |
 
-## 5. Burn Critical Hit Table
+## A1.5 Burn Critical Hit Table
 
 Burn criticals sear flesh, blind eyes, cook lungs, and consume bodies. Lower bands singe and stagger; higher bands destroy limbs and reduce targets to ash.
 
@@ -189,7 +189,7 @@ Burn criticals sear flesh, blind eyes, cook lungs, and consume bodies. Lower ban
 | 9    | Flame engulfs the weapon arm; +6 bonus damage, weapon arm useless 3 rounds, burns 3 rounds.                              | Wave of fire across the chest; +7 bonus damage, stunned 3 rounds, burns 3 rounds, attacks Difficult for fight.    | Flames run between the shoulder blades; +7 bonus damage, parries Difficult for fight, burns 4 rounds, stunned 2 rounds.                 | Supernatural fire scours the body to bone; +10 bonus damage, dying in 2 rounds; burns too deep without sorcery.              | Fire opens through chest and out the back; dead before falling, chest consumed.                                                                 |
 | 10   | Hot blast engulfs shield arm; +7 bonus damage, shield arm useless 3 rounds, burns 3 rounds, parries Difficult for fight. | Flame strikes the head; +7 bonus damage, stunned 3 rounds, sight Difficult 3 rounds, burns 2 rounds.              | Fire takes the eyes; +10 bonus damage, permanent blindness (only sorcery restores), unconscious 1D6 rounds.                             | Fire engulfs the target entirely; +9 bonus damage, dying in 3 rounds; body continues burning 1D6 rounds after death.         | Target incinerated where they stand; dead, only ash remains. Witnesses make a Difficult Luck roll or be stunned 1 round.                        |
 
-## 6. Grapple Critical Hit Table
+## A1.6 Grapple Critical Hit Table
 
 Grapple criticals dislocate joints, crush bones, choke off breath, and bend bodies past their breaking point. Lower bands wrench and squeeze; higher bands snap necks and crush ribcages.
 

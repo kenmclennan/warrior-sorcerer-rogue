@@ -1,4 +1,4 @@
-# Bestiary
+# 10 Bestiary
 
 > _"The wilderness harbours things that do not care about your courage, your reputation, or your sword. They are simply hungry, or ancient, or both."_
 
@@ -6,7 +6,7 @@ Stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and 
 
 Read §5 for the combat rules these stat blocks reference. Demons tie back to §7.7 (player-side summoning) and §11 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in §11.
 
-## 1. Creature Entry Format
+## 10.1 Creature Entry Format
 
 **Characteristics** - STR, CON, SIZ, INT, POW, DEX, CHA. Typical values listed; for variable creatures, the dice expression is given with average in parentheses.
 
@@ -14,7 +14,7 @@ Read §5 for the combat rules these stat blocks reference. Demons tie back to §
 
 **Bestiary HP and the PC/NPC formula split.** §2.3.1 and §9.1 set out the asymmetric HP formula - PCs and Named Antagonists use CON+SIZ; Professionals and Rabble use (CON+SIZ)/2. Bestiary stat blocks below use the half formula by default; their HP values are calibrated for encounter use. See §1.2 below for the Named Creature concept - a singular legendary individual elevated above its species.
 
-### 1.2 Named Creatures
+### 10.1.2 Named Creatures
 
 A specific creature can be elevated above its species: the Great Wolf of T'althu, the demon-prince Iz-Karoth bound a thousand years in the salt vault, the boar that scarred a generation of huntsmen and is named in every cottage along the river. These are not the generic stat block - they are singular, named individuals, treated as Named Antagonists for mechanical purposes.
 
@@ -57,15 +57,15 @@ The Great Wolf is a legendary fight. When defeated, its pelt is a relic worth a 
 
 **Morale** - When the creature breaks, flees, or fights to the death. Rabble (§5.8) are incapacitated at half HP. Named creatures and those listed as "does not flee" are full combatants.
 
-### 1.1 Rabble and Creatures
+### 10.1.1 Rabble and Creatures
 
 Undead created by sorcery (skeletons, zombies) are Rabble-scale and use the Rabble incapacitation rule. Ordinary animals use standard combat rules - a wolf or lion is not a Rabble. A lone crocodile is a serious threat; a dozen crocodiles in a river are a hazard requiring a different resolution approach.
 
-## 2. Mortal Beasts
+## 10.2 Mortal Beasts
 
 Natural creatures - large, dangerous, indifferent to the distinction between adventurers and prey. The wilderness presses against every city wall.
 
-### 2.1 Lion
+### 10.2.1 Lion
 
 The lion hunts in tall grass, river margins, and the ruins at the edge of inhabited lands - an apex predator that has decided a human is a reasonable meal. Males are territorial and aggressive when cornered; females hunting with a pride are methodical and patient. A lion that has tasted easy prey near a settlement is a serious threat to everyone on that road.
 
@@ -89,7 +89,7 @@ The lion hunts in tall grass, river margins, and the ruins at the edge of inhabi
   - _Grapple on Bite._ If the bite attack succeeds, the lion may also grapple the target as a free action (STR vs STR resistance). A grappled target is held; the lion automatically bites again each subsequent round at 55%.
 - **Morale:** Fights until driven off by fire, significant wounds, or the death of multiple companions. Does not flee easily once blood is drawn.
 
-### 2.2 Tiger
+### 10.2.2 Tiger
 
 Larger and more solitary than a lion, the tiger is a forest and riverside hunter of the eastern lands. It stalks silently and prefers to strike from ambush - often from above, dropping from ledges and low branches. A tiger that fails its initial pounce is likely to retreat and attempt another angle rather than commit to a prolonged fight.
 
@@ -113,7 +113,7 @@ Larger and more solitary than a lion, the tiger is a forest and riverside hunter
   - _Rake._ On a successful grapple, the tiger rakes with both hind claws for 1D6+dm each, Slash.
 - **Morale:** Withdraws after significant injury; returns later from a different angle if hungry enough.
 
-### 2.3 Wolf and Wolf Pack
+### 10.2.3 Wolf and Wolf Pack
 
 A lone wolf is a moderate threat - watchful, fast, and intelligent enough to probe for weakness before committing. A wolf pack is something else: coordinated, relentless, capable of cutting an armoured human down through sheer attrition, and willing to run for hours through snow to do it.
 
@@ -140,7 +140,7 @@ A lone wolf is a moderate threat - watchful, fast, and intelligent enough to pro
 
 **Wolf Pack (6-12 wolves):** Use the above stat block for each wolf. The pack counts as a group of Rabble for incapacitation purposes (each wolf is incapacitated at 6 HP). The pack coordinates: some wolves will attempt hamstring attacks while others go for the throat.
 
-### 2.4 Bear
+### 10.2.4 Bear
 
 The bear does not seek human prey. It is territorial, protective of cubs, and possessed of a temper that can go from placid to lethal in a moment. A bear that decides to fight does so with complete, uninterested ferocity.
 
@@ -164,7 +164,7 @@ The bear does not seek human prey. It is territorial, protective of cubs, and po
   - _Tenacity._ A bear at 0 HP is not immediately dead - it makes a CON roll each round to keep fighting. Three failed rolls, or damage exceeding CON below 0 HP, ends it.
 - **Morale:** Defends territory and cubs to the death. Otherwise retreats when significantly wounded.
 
-### 2.5 Boar
+### 10.2.5 Boar
 
 The wild boar is low, fast, armoured in tough skin and layers of fat, and possessed of tusks that can open a man from hip to chest. It charges without warning when threatened. Hunters who underestimate boars do not make that mistake twice.
 
@@ -188,7 +188,7 @@ The wild boar is low, fast, armoured in tough skin and layers of fat, and posses
   - _Toughness._ The boar continues a charge at full speed regardless of damage taken; only being dropped to 0 HP stops it.
 - **Morale:** Attacks when cornered or when its path is blocked. Does not pursue far once a threat retreats.
 
-### 2.6 Giant Constrictor Snake
+### 10.2.6 Giant Constrictor Snake
 
 The giant constrictor moves silently through reed beds, river margins, and jungle floors. It does not inject venom - it embraces its prey and squeezes the life from it methodically, and it does not let go. A constrictor large enough to take human prey is the length of four men laid end to end.
 
@@ -212,7 +212,7 @@ The giant constrictor moves silently through reed beds, river margins, and jungl
   - _Ambush._ The snake gains Easy attacks when lying in wait in water, undergrowth, or darkness.
 - **Morale:** Constricts until prey is dead, then releases to feed. Driven off by fire.
 
-### 2.7 Giant Venomous Snake
+### 10.2.7 Giant Venomous Snake
 
 Smaller than the constrictor but faster, the giant venomous snake is found near ruins, in desert rock formations, and in the darker reaches of old temples. Its bite delivers venom that can kill a healthy adult within hours. The snake strikes from shadows and retreats; it does not fight to the death.
 
@@ -235,7 +235,7 @@ Smaller than the constrictor but faster, the giant venomous snake is found near 
   - _Venom._ Potency (POT) 16. On a failed CON vs POT resistance roll, the victim suffers 1D6 HP per hour for CON hours. A successful roll halves the ongoing damage and halves the duration. Antidotes must be applied within one hour to prevent full effect.
 - **Morale:** Strikes once or twice and retreats to a defensible position. Does not pursue.
 
-### 2.8 Giant Spider
+### 10.2.8 Giant Spider
 
 In ruins, cave systems, and sealed tombs, the giant spider waits. It does not hunt actively - it maintains its web and takes what comes. A spider that has not fed in weeks will risk pursuit.
 
@@ -259,7 +259,7 @@ In ruins, cave systems, and sealed tombs, the giant spider waits. It does not hu
   - _Venom._ POT 14. On a failed CON vs POT resistance roll, the victim is paralysed for 1D6 hours. A successful roll causes Difficulty on all physical actions for the same duration. The venom is not lethal but immobilises prey.
 - **Morale:** Retreats to its web-anchor if significantly injured. Pursues prey that has touched the web.
 
-### 2.9 Crocodile
+### 10.2.9 Crocodile
 
 The crocodile was old when the first cities were founded. It lies in shallow water or on mud banks, looking like a log until it does not. The bite is an irresistible mechanical clamp, and then the roll, which drowns what the bite did not shred.
 
@@ -284,7 +284,7 @@ The crocodile was old when the first cities were founded. It lies in shallow wat
   - _Ambush in Water._ A crocodile in water has Easy attacks on the first round against targets who have not spotted it.
 - **Morale:** Releases prey if the fight becomes difficult. Does not pursue far from water.
 
-### 2.10 Large Eagle
+### 10.2.10 Large Eagle
 
 The great eagle of mountain crags and open plains is not aggressive toward humans by nature - but one that has nested near a ruin or been disturbed by intruders will defend its territory with the full mechanical advantage of diving speed and talons designed to crush bone.
 
@@ -308,7 +308,7 @@ The great eagle of mountain crags and open plains is not aggressive toward human
   - _Carry._ An eagle may grapple a target of SIZ 8 or less and carry it aloft. The grappled target takes 1D4 talons damage per round and may attempt STR resistance to escape.
 - **Morale:** Defends nest to the death. Otherwise retreats after a failed diving strike.
 
-### 2.11 Mammoth
+### 10.2.11 Mammoth
 
 The mammoth survives in the upland steppes and deep wilderness, a relic of the age before the old empires fell. It is not aggressive by nature, but its perception of threat is not delicate. A herd disturbed by humans will panic, and a panicking mammoth does not go around obstacles - it goes through them.
 
@@ -333,7 +333,7 @@ The mammoth survives in the upland steppes and deep wilderness, a relic of the a
   - _Difficult to Kill._ A mammoth does not die from wounds that would kill a human. Reduce its HP to 0 and it still acts for 1D6 more rounds.
 - **Morale:** Herd protects young; lone males charge threats. Both retreat if burned or significantly injured.
 
-### 2.12 Sabre-Tooth Cat
+### 10.2.12 Sabre-Tooth Cat
 
 Larger than a tiger, heavier-boned, and armed with elongated canine teeth that can punch through hide and bone, the sabre-tooth cat is a hunter of the old world's megafauna. It still exists in pockets of deep wilderness where the great animals it prefers to hunt have not been killed off. Finding one usually means you have wandered somewhere that has not seen humans in a long time.
 
@@ -357,13 +357,13 @@ Larger than a tiger, heavier-boned, and armed with elongated canine teeth that c
   - _Killing Bite._ If the sabre bite is a critical hit, the target is bleeding for 1D6 HP per round (the great teeth sever blood vessels that normal wounds do not reach) in addition to the §A1 entry's effects. First Aid stops this bleeding as normal.
 - **Morale:** Fights to incapacitate prey. Retreats if injured before a kill is achieved.
 
-## 3. Undead
+## 10.3 Undead
 
 In a world layered over older civilisations - tombs sealed before the last cataclysm, curses laid by sorcerers who have been bones for five centuries, burial rites performed wrong or not at all - the undead are not a rare accident. They are a predictable consequence of the deep past.
 
 Undead have no Fate Point access. They must be destroyed or specifically turned aside - they do not retreat from wounds, do not feel fear or pain, and are persistent where a living opponent would have fled or surrendered.
 
-### 3.1 Skeleton
+### 10.3.1 Skeleton
 
 A construction of ossified matter that walks because it has been told to and stops when it is broken. The intelligence animating the frame is minimal or absent. It does not tire. It does not feel the cold.
 
@@ -389,7 +389,7 @@ A construction of ossified matter that walks because it has been told to and sto
   - _Rabble._ Skeletons are always treated as Rabble (incapacitated at half HP).
 - **Morale:** None. Fights until destroyed.
 
-### 3.2 Zombie
+### 10.3.2 Zombie
 
 The reanimated corpse is slower and more durable than a skeleton - enough residual flesh to absorb damage, and it continues even when it should not. Fresh corpses are worse: recognisable faces, still bleeding from their wounds. The old ones are desiccated, dry, and almost odourless. Both are equally relentless.
 
@@ -415,7 +415,7 @@ The reanimated corpse is slower and more durable than a skeleton - enough residu
   - _Rabble._ Zombies are always treated as Rabble (incapacitated at half HP).
 - **Morale:** None. Fights until destroyed.
 
-### 3.3 Mummy
+### 10.3.3 Mummy
 
 Not animated by sorcery in the conventional sense - preserved and charged with purpose at interment, it wakes when that purpose is threatened. The sorcerer-kings and high priests of the old civilisations knew how to do this. Some of their sealed tombs still hold guardians that have been waiting for centuries; the mummy does not know it has been waiting.
 
@@ -442,7 +442,7 @@ Not animated by sorcery in the conventional sense - preserved and charged with p
 
 **Mummy Sorcerer.** A tomb guardian mummy of a former sorcerer retains access to some of its spells. POW 1D6+16 (19); knows 2D4 spells from its former life (the GM chooses or rolls; avoid healing spells). The mummy sorcerer may cast during combat if not struck while casting. It is rare, dangerous, and the sort of thing that requires preparation to face.
 
-### 3.4 Ghoul
+### 10.3.4 Ghoul
 
 The ghoul is human-adjacent: it walks upright, has hands that grasp and tear, and in the right light might almost pass for what it was. It feeds on the dead, and the flesh it eats has changed it. Ghouls gather in necropoli, charnel pits, and the burial grounds of fallen civilisations - they have a language of barks and howls, and they remember where the good bodies are.
 
@@ -468,7 +468,7 @@ The ghoul is human-adjacent: it walks upright, has hands that grasp and tear, an
   - _Pack Sense._ Ghouls in groups support each other with Pack Tactics as per wolves (§2.3).
 - **Morale:** Fights aggressively when hungry; retreats if substantially outnumbered or significantly wounded.
 
-### 3.5 Vampire
+### 10.3.5 Vampire
 
 The vampire is not simply a predator. It is intelligent, patient, and in the urbane forms, charming enough to have walked openly in society for years before anyone understood what they were. It is ancient, and it remembers things about the world's predecessors that no living historian does.
 
@@ -497,7 +497,7 @@ The vampire is not simply a predator. It is intelligent, patient, and in the urb
   - _Weaknesses._ Daylight (exposure to direct sun deals 2D6 HP per round, ignoring armour, and stops regeneration). Decapitation (instant death). Fire (stops regeneration). Sacred Earth (a vampire cannot cross a threshold made sacred by active faith - the GM determines what qualifies). Stakes (a vampire struck through the heart with a wooden stake while helpless is paralysed until the stake is removed).
 - **Morale:** Does not flee from a fight it believes it can win. Retreats by transforming to mist or bat form if severely threatened. Rarely takes risks that could end its long life permanently.
 
-### 3.6 Ghost
+### 10.3.6 Ghost
 
 The ghost is what remains when something terrible happened and did not finish. It is not always malicious - but it is desperate in a way the living cannot quite understand, and it draws on the living to sustain itself. Some ghosts have been waiting longer than the current civilisation has existed.
 
@@ -523,7 +523,7 @@ The ghost is what remains when something terrible happened and did not finish. I
   - _Vulnerability._ The ghost can be permanently destroyed only by fulfilling the condition tied to its haunting (learning what kept it here, completing or preventing the thing it was waiting for) - or by reducing its HP to 0, which disperses it for years, not permanently.
 - **Morale:** Does not retreat from violence it cannot feel. May withdraw if its conditions are met.
 
-### 3.7 Wight
+### 10.3.7 Wight
 
 The wight is an older form of undead than the mummy - pre-sorcery, pre-city, a warrior-chieftain of the deep past buried with full arms and armour in a barrow mound. Something in the burial rite, or in the warrior's own refusal to leave, animated it. Wights are intelligent undead: they remember who they were, they resent intrusion, and they can still fight with the skill of the warriors they were in life.
 
@@ -549,11 +549,11 @@ The wight is an older form of undead than the mummy - pre-sorcery, pre-city, a w
   - _Command Undead._ A wight can compel skeletons and zombies within POW metres to obey it (commanding as a free action).
 - **Morale:** Defends its barrow to destruction. Does not pursue beyond its burial mound.
 
-## 4. Fantasy Beasts
+## 10.4 Fantasy Beasts
 
 Creatures of the world's mythology as much as its ecology - things that live in the hostile wilderness, ruins, and the old places where the deep past is close to the surface. Not supernatural in the way undead and demons are, but strange. Encountering them is not like encountering a lion.
 
-### 4.1 Dragon
+### 10.4.1 Dragon
 
 The great reptiles of the deep past did not all die when the civilisations built over their territory fell. They retreated to mountain peaks, sea caves, and ruins where nothing competent was likely to find them. The ones that remain are old, and their lairs contain fragments of every civilisation that tried to displace them. A dragon is a campaign event, not a wandering monster roll.
 
@@ -579,7 +579,7 @@ The great reptiles of the deep past did not all die when the civilisations built
   - _Scale Resistance._ Arrows and small piercing weapons deal half damage against a dragon's body. Area attacks (fire, explosions) deal full damage.
 - **Morale:** A bestial dragon fights until driven from its lair or destroyed. An intelligent dragon fights until the odds turn against it, then withdraws and plans revenge.
 
-### 4.2 Giant
+### 10.4.2 Giant
 
 Giants grow old, and the oldest are the largest - a young giant stands four metres; ancient hill-giants and sea-giants measure eight or more. They have been at war with settled civilisation since it began building fences across their old ranges. They are not unintelligent: they speak a language, hold grudges for decades, and know the names of the heroes who have wronged them.
 
@@ -603,7 +603,7 @@ Giants grow old, and the oldest are the largest - a young giant stands four metr
   - _Terrible Strength._ A giant may attempt to pick up a target of SIZ 20 or less with a successful Grapple (STR vs STR, Difficult for the target). A picked-up target may be thrown (3D6 Krush from the fall) or squeezed (1D8+dm Krush per round).
 - **Morale:** Giants defend territory ferociously. Ancient giants are shrewd and may negotiate if approached correctly (a giant who has had dealings with sorcerers is more dangerous, not less).
 
-### 4.3 Minotaur
+### 10.4.3 Minotaur
 
 A human body with a bull's head, and the merger has done neither half any favours in temperament. Found in ruins, ancient labyrinths, and the wild places where old things go to avoid cities. Some minotaurs speak the language of whatever civilisation built them; most do not.
 
@@ -627,7 +627,7 @@ A human body with a bull's head, and the merger has done neither half any favour
   - _Charge._ A minotaur that charges adds +1D8 to its gore damage and makes a free knockback attempt (STR vs STR) against the target.
 - **Morale:** Rarely retreats, especially when berserk. An unberserked minotaur will disengage if injured and its immediate territory is not threatened.
 
-### 4.4 Werewolf
+### 10.4.4 Werewolf
 
 A werewolf is a human who has been changed - by a curse, a bite, an old bargain - and may or may not have come to terms with it. In human form, indistinguishable from anyone else. In hybrid or wolf form, a weapon that was once a person. The change is not triggered by the moon; strong emotion does it. Fear, rage, grief. The creature that surfaces has their memories but not their restraint.
 
@@ -662,7 +662,7 @@ Three forms:
 - _Infection._ A target bitten by a werewolf who is not using a silver weapon must succeed at a POW vs POW resistance roll. Failure means the bite has transmitted lycanthropy; the next full moon triggers the change. There is no cure except sorcery (a specific counter-working, at GM's discretion).
 - **Morale:** The changed werewolf does not retreat. The human within may beg it to stop. The wolf does not listen.
 
-### 4.5 Troll
+### 10.4.5 Troll
 
 The troll is nocturnal, lives in wild places, and is large, stupid in conversation but cunning in the hunt. Simply wounding it is a poor strategy: fire stops its regeneration, sunlight reverses it. The trollwife is smaller, smarter, and significantly more dangerous.
 
@@ -689,7 +689,7 @@ The troll is nocturnal, lives in wild places, and is large, stupid in conversati
 
 **Trollwife.** STR 3D6+6 (17), CON 2D6+3 (10), SIZ 3D6+6 (17), INT 3D6+6 (17), POW 3D6+9 (20). HP 14, AV 2, Move 8. The trollwife may know 1D4 sorcery spells (Curse of the Withered Hand, Midnight, Still the Mind, and Pox of the Sorcerer are common). It plots while the troll charges.
 
-### 4.6 Centaur (Steppe Raider)
+### 10.4.6 Centaur (Steppe Raider)
 
 The centaur of the ancient-world steppe is not the pastoral philosopher of legend. The centaur bands that raid lowland settlements are aggressive cavalry, gifted archers, and willing to follow a strong leader into coordinated raids that leave nothing standing. Some serve as mercenaries for city powers who need a unit that will cross difficult terrain without complaint.
 
@@ -715,7 +715,7 @@ The centaur of the ancient-world steppe is not the pastoral philosopher of legen
   - _Spells (at GM's discretion)._ A centaur shaman or elder may know 1D4 sorcery spells. Common selections: Bird's Eye, Midnight, Veil of the Ancient. Never Heal-category spells.
 - **Morale:** Raids with purpose; retreats when the raid has achieved its goal or losses are significant. Does not die for strangers.
 
-### 4.7 Griffin
+### 10.4.7 Griffin
 
 The griffin nests in high crags above the treeline, hunts in alpine meadows and cliff faces, and is one of the few predators large enough to take horses as prey. It does not discriminate between a horse and a rider when it is hungry. Griffins have been kept as mounts by the war-leaders of old civilisations; a few still exist in captivity, generations removed from the wild, trained by methods that died with their trainers.
 
@@ -739,13 +739,13 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
   - _Carry Prey._ A griffin can grapple and carry prey up to SIZ 30 (a horse, a large human). Grappled targets take talon damage each round; escaping requires STR vs STR (Difficult).
 - **Morale:** Defends its nest and cubs to the death. Hunts opportunistically and retreats if prey fights back effectively.
 
-## 5. Demons
+## 10.5 Demons
 
 Demons are entities of the outer dark - not from this world, not concerned with its values, fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
 
 For GM demon design tools, patron relationships, and what happens when a binding breaks, see §11. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with §7.7. When a demon appears, it should feel like a significant event.
 
-### 5.1 Lesser Demon
+### 10.5.1 Lesser Demon
 
 Lesser demons are the grunts of the outer dark, bullied and tormented in the infernal realms - any time in this world is better than what they were doing. They prefer to avoid direct combat, using their abilities and bargaining positions to achieve what they want. A bound lesser demon behaves very differently from one encountered loose.
 
@@ -772,7 +772,7 @@ _The thing crouched at the edge of the circle's light, gargoyle-thin, its wings 
   - _Chaotic Features._ A lesser demon may have 1D3 features from the Chaotic Features table (§8). Roll or select to make each demon distinct.
 - **Morale:** Avoids direct combat unless bound and commanded, or cornered. Prefers negotiation.
 
-### 5.2 Greater Demon
+### 10.5.2 Greater Demon
 
 Greater demons do not appear for small reasons. Each is a named, individual entity - specifically itself, with its own history, preferences, and grievances. A greater demon that has encountered the sorcerer before remembers, and factors the previous interaction into its opening position.
 
@@ -805,7 +805,7 @@ _It came through the smoke of the summoning circle smelling of old metal and unf
   - _Corruption from Presence._ See §7.3.3 (Encountering a Greater Demon unbound: 1D3 / 1D6 Corruption).
 - **Morale:** Does not retreat while bound (the binding prevents it). Unbound, it retreats only if its destruction seems probable - which takes considerable firepower. It does not forget. It comes back.
 
-### 5.3 Yog-Hath the Devourer (Sample Named Greater Demon)
+### 10.5.3 Yog-Hath the Devourer (Sample Named Greater Demon)
 
 _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckoning - it agreed to destroy the city's enemies in exchange for a single night unbound at the war's end. The sorcerer who made the deal is why there is no temple district anymore. The city rebuilt around the gap. The scholars do not discuss what happened to the sorcerer._
 
@@ -835,7 +835,7 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
   - _Spells._ Knows all 29 spells in §7.6. Casts using a PP pool of 28.
 - **Demands in Summoning:** The ritual requires the sorcerer to offer a personal item of significant value (not monetary - emotional), a quantity of their own blood, and 6 hours of uninterrupted preparation. Yog-Hath arrives curious, not hostile. Its opening demand is typically a sorcerer it knows about, delivered into its reach. It negotiates from there.
 
-## 6. Elementals
+## 10.6 Elementals
 
 An elemental is not a demon. It does not negotiate, does not have a personal agenda, and has no interest in binding. It is a vast and focused intelligence that is also, essentially, a large portion of a primal element made semi-coherent. This does not make it safe.
 
@@ -843,7 +843,7 @@ Elementals are summoned via the Summon Elemental working (§11). Each is a disti
 
 The "sylph," "gnome," "salamander," "undine" labels are names given by scholars who needed to call them something. The elementals neither know nor care.
 
-### 6.1 Air Elemental
+### 10.6.1 Air Elemental
 
 A column of concentrated wind with no fixed shape - visible only by its effects: the dust lifted, the hair driven horizontal, the unsettling sound of displacement. Enclosed spaces trouble it; open sky does not.
 
@@ -869,7 +869,7 @@ A column of concentrated wind with no fixed shape - visible only by its effects:
   - _Immunity._ Physical weapons deal half damage unless enchanted.
 - **Morale:** Follows direction until the working expires. When released, it disperses immediately. It does not pursue beyond its assigned task.
 
-### 6.2 Earth Elemental
+### 10.6.2 Earth Elemental
 
 Stone made briefly aware and given direction - not a creature in stone, not a golem. Slow, nearly indestructible by conventional means, travelling through stone and packed earth as if through open water. Anything in its direct path is beneath its notice.
 
@@ -895,7 +895,7 @@ Stone made briefly aware and given direction - not a creature in stone, not a go
   - _Immunity._ Fire, cold, and lightning deal no damage to an earth elemental. Physical weapons of any type deal half damage (the AV represents this plus the sheer mass of stone).
 - **Morale:** Follows direction. Moving it from its task requires compelling it with the binding words; otherwise it continues until the binding expires.
 
-### 6.3 Fire Elemental
+### 10.6.3 Fire Elemental
 
 A crawling pillar of coherent flame, roughly man-shaped. Heat radiates from it in waves; wooden floors and thatch are immediate problems. A fire elemental directed at a target is a problem for everyone standing between here and there.
 
@@ -921,7 +921,7 @@ A crawling pillar of coherent flame, roughly man-shaped. Heat radiates from it i
   - _Immunity._ Physical weapons deal half damage.
 - **Morale:** Follows direction relentlessly. The fire elemental does not fear its own destruction.
 
-### 6.4 Water Elemental
+### 10.6.4 Water Elemental
 
 A surge of coherent water, nearly unstoppable in open water - a river, a harbour, a flooded cellar - and still dangerous out of it. It does not breathe. It fills spaces. Drowning is a significant risk in any encounter in an enclosed space.
 
@@ -947,7 +947,7 @@ A surge of coherent water, nearly unstoppable in open water - a river, a harbour
   - _Immunity._ Ordinary physical impacts deal half damage.
 - **Morale:** Follows direction. When released or the binding expires, flows back toward the nearest significant body of water.
 
-## 7. The Chaotic Features Table
+## 10.7 The Chaotic Features Table
 
 Demons are not standardised - two lesser demons are individuals shaped by their time in the infernal realms, their particular natures, and whatever they have absorbed from previous bindings. Roll or select features when creating a demon, mutated creature, or chaotic antagonist. Features may also apply to creatures encountered in places of deep sorcerous corruption: the aftermath of a demon's long presence, a ruined city built over a chaos-gate, a battlefield where too much blood was spilled.
 

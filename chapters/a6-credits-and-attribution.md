@@ -1,6 +1,6 @@
-# Credits and Attribution
+# A6 Credits and Attribution
 
-## 1. System Basis and ORC License
+## A6.1 System Basis and ORC License
 
 Warrior \* Sorcerer \* Rogue is built on Chaosium's **Basic Roleplaying: Universal Game Engine** (BRP UGE), released under the ORC License.
 
@@ -18,7 +18,7 @@ Warrior \* Sorcerer \* Rogue is built on Chaosium's **Basic Roleplaying: Univers
 
 **Expressly Designated Licensed Material.** All rules text and mechanisms reproduced or adapted from BRP UGE, as identified in each chapter's source notes.
 
-## 2. Literary Inspirations
+## A6.2 Literary Inspirations
 
 Warrior \* Sorcerer \* Rogue draws on a century of sword & sorcery fiction. The following authors and works are the primary sources of the game's tone, world-assumptions, and the register in which it is meant to be played:
 
@@ -32,6 +32,6 @@ No text from these works is reproduced in this game. The literary inspirations a
 
 For the full list of inspirational works - films, books, comics, music, and art - see **§A3 Inspirational Influences**.
 
-## 3. Author
+## A6.3 Author
 
 Warrior \* Sorcerer \* Rogue was written by Ken McLennan.

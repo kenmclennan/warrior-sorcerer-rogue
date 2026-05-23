@@ -1,12 +1,12 @@
-# Treasure and Artifacts
+# 12 Treasure and Artifacts
 
 > _"He had come to loot the tomb - but the tomb had been waiting for him."_
 
 This chapter covers what heroes find, what they can make, and what they might wish they had never touched. Mundane treasure, artifacts, cursed items, and the economics of Reputation.
 
-## 1. Mundane Treasure
+## 12.1 Mundane Treasure
 
-### 1.1 Coin
+### 12.1.1 Coin
 
 The four-tier coin system (see §8.1 for the full currency table) gives you an economy that feels ancient without becoming an accounting exercise.
 
@@ -21,7 +21,7 @@ The four-tier coin system (see §8.1 for the full currency table) gives you an e
 
 **Coin condition:** Freshly minted coin is face value. Shaved or clipped coin: 50-80% at a reputable money-changer, 70-90% on the street. Ancient coin of pure metal may exceed face value if the empire that minted it is now legendary.
 
-### 1.2 Gems and Precious Stones
+### 12.1.2 Gems and Precious Stones
 
 Gems are portable wealth with no issuing authority - useful for moving value across borders without a paper trail, and difficult to appraise quickly.
 
@@ -42,7 +42,7 @@ Roll or choose:
 
 **Appraising gems:** The Evaluate skill (see §3). A failed roll means the character cannot determine value; they do not know they failed. A fumble means they have badly misjudged.
 
-### 1.3 Art Objects and Valuables
+### 12.1.3 Art Objects and Valuables
 
 | Object Category                  | Value Range  | Notes                                      |
 | -------------------------------- | ------------ | ------------------------------------------ |
@@ -61,7 +61,7 @@ Art objects are inconvenient treasure: heavy, identifiable, and recognisable to 
 
 **Selling art:** The full value of an art object requires a buyer who wants it - a collector, a temple, a rich patron. Selling to a fence (see Reputation §5.4) returns 30-60% of value. Selling to the right buyer at the right time may return 100-150% if the buyer is desperate for that particular piece.
 
-### 1.4 Exotic Goods
+### 12.1.4 Exotic Goods
 
 Trade goods as treasure. These are things that have extraordinary value in one place because they are rare there, and are available as loot in another place because they are produced there.
 
@@ -80,7 +80,7 @@ Trade goods as treasure. These are things that have extraordinary value in one p
 
 **Practical note:** Exotic goods are often better loot than art objects: less identifiable, more divisible, more stable market.
 
-### 1.5 Treasure Hoards: Quick Tables
+### 12.1.5 Treasure Hoards: Quick Tables
 
 For improvised treasure when the party searches an unexpected place:
 
@@ -113,11 +113,11 @@ For improvised treasure when the party searches an unexpected place:
 | 11   | An art object plus 2D6 Staters in old coin                   |
 | 12   | A minor artifact or a named gem - something worth the risk   |
 
-## 2. Artifact Creation
+## 12.2 Artifact Creation
 
 An artifact is any item into which a sorcerer has permanently bound one or more sorcery spells - a piece of vital force crystallised in metal, stone, or bone that does not fade when the sorcerer sleeps. These rules expand on §8.12.2. Artifacts belong to the GM's world: who made it, what it cost, who wants it back, what happens when it is destroyed.
 
-### 2.1 The Fundamental Costs
+### 12.2.1 The Fundamental Costs
 
 Creating an artifact requires three things: time, permanent POW, and a specific ritual working.
 
@@ -134,7 +134,7 @@ Creating an artifact requires three things: time, permanent POW, and a specific 
 
 **At 0 PP:** The artifact is inert - bound spells cannot be activated. The physical object functions normally; a sword at 0 PP is still a sword.
 
-### 2.2 Using an Artifact
+### 12.2.2 Using an Artifact
 
 Anyone can use a properly keyed artifact, not only sorcerers. The user activates what the creator has already bound - no casting required.
 
@@ -144,19 +144,19 @@ Anyone can use a properly keyed artifact, not only sorcerers. The user activates
 
 **Iron artifacts:** The binding process harmonises iron with the sorcerous current, removing the iron-vs-sorcery penalty (§8.12.1) for creator and attuned users while the artifact has at least 1 PP. At 0 PP it reverts to disruptive iron until recharged.
 
-### 2.3 Recharging
+### 12.2.3 Recharging
 
 Any attuned sorcerer may recharge an artifact: 1 PP per combat round, concentration action. The artifact cannot be recharged beyond double its creation-time reservoir maximum.
 
 Non-sorcerers cannot recharge artifacts - without a sorcerer to maintain them, they run dry, which is why artifacts eventually return to sorcerous hands.
 
-### 2.4 Enchanting Iron
+### 12.2.4 Enchanting Iron
 
 Iron can be harmonised with the sorcerous current only through the artifact-creation process, consecrating it to a specific patron or principle. Requires the creator to have a patron (§7.3.2) and costs 1 additional permanent POW beyond the normal cost. See §8.5.3 for the enchanted iron rule.
 
 An iron artifact that runs dry reverts to disruptive iron immediately.
 
-### 2.5 Destroying an Artifact
+### 12.2.5 Destroying an Artifact
 
 Reduce an artifact's HP to 0 to destroy it. An artifact's HP equals its SIZ (a bronze sword: SIZ 2 = 2 HP; a stone idol: SIZ 14 = 14 HP).
 
@@ -164,7 +164,7 @@ When destroyed, the POW invested is permanently lost - the creator's POW does no
 
 Artifacts take damage through normal object mechanics (a sword artifact is damaged by a successful enemy parry, not casual attack). Deliberate destruction requires targeting the object specifically - use the Damaging Objects rules from §6.
 
-### 2.6 Artifacts in the GM's Hands
+### 12.2.6 Artifacts in the GM's Hands
 
 Every artifact has:
 
@@ -173,11 +173,11 @@ Every artifact has:
 - A PP reservoir that is charged or empty (empty artifacts are inert but not dead - one PP from a sorcerer revives them).
 - A question: why is it here? Artifacts do not arrive by accident.
 
-## 3. Sample Artifacts
+## 12.3 Sample Artifacts
 
 Ten pre-cataclysm relics, each droppable into a session with minimal preparation. All have charged reservoirs unless the GM rules otherwise. An empty artifact is the same object with a different question: who maintained it, and when did they stop?
 
-### 3.1 The Serpent's Tongue
+### 12.3.1 The Serpent's Tongue
 
 **Form:** A short bronze dagger, single-edged, with a wavy blade. The grip is wrapped in cured skin of unidentifiable origin. The crossguard is shaped like a serpent with its jaws open.
 
@@ -193,7 +193,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by a court poisoner-sorcerer called the Mouth, who served a dynasty that destroyed the cult and was subsequently destroyed by the cult. The dagger predates the last of those three events.
 
-### 3.2 The Brazen Eye
+### 12.3.2 The Brazen Eye
 
 **Form:** A polished bronze disc roughly hand-sized, convex on one face, flat on the other. The flat face has a pupil incised in the centre - an eye that looks directly at you. It weighs more than it should.
 
@@ -209,7 +209,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by a council of mirror-seers who believed all political catastrophe could be averted if only you could see what was actually happening. They were wrong. The council is gone. The Eye survives.
 
-### 3.3 The Ring of the Drowned General
+### 12.3.3 The Ring of the Drowned General
 
 **Form:** A gold signet ring, sized for a large hand. The seal shows a war galley at full oar, viewed from above, sinking. Wearing it feels like cold water against the skin.
 
@@ -225,7 +225,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by the General's sorcerer-advisor who died with the fleet but somehow arranged for the ring to wash ashore three years later. No one knows how.
 
-### 3.4 The Mask of the Interlocutor
+### 12.3.4 The Mask of the Interlocutor
 
 **Form:** A full-face theatre mask in fired and painted terracotta, white with exaggerated features - wide eyes, a slightly open mouth. Wearing it fits oddly, as if it were made for a face that is not quite the wearer's shape.
 
@@ -241,7 +241,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by a sorcerer-playwright who believed that political reality was theatrical reality. This belief was eventually validated in the worst possible way.
 
-### 3.5 The Compass of Unmapped Places
+### 12.3.5 The Compass of Unmapped Places
 
 **Form:** A disc of black stone, roughly palm-sized, inscribed with concentric circles and a pointing needle carved from a single piece of bone. The needle moves.
 
@@ -257,7 +257,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by an expedition sorcerer who died somewhere the needle was pointing. Nobody has found the body. The Compass came back; they did not.
 
-### 3.6 The Chained Crown
+### 12.3.6 The Chained Crown
 
 **Form:** A bronze circlet with three pendant chains hanging from it, each ending in a small bronze disc. The discs are blank on one side and engraved with a screaming face on the other - different faces on each disc.
 
@@ -273,7 +273,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by a warlord's sorcerer for use in personal duels. The warlord's appetite for such duels eventually exhausted the Crown's reservoir and the warlord, separately.
 
-### 3.7 The Jar of Salts
+### 12.3.7 The Jar of Salts
 
 **Form:** A plain terracotta jar, sealed with black wax and wound around with bronze wire. It holds approximately two litres of white crystals that smell faintly of the sea and something else. Something older.
 
@@ -289,7 +289,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by a marsh-witch who kept a Lesser Demon as her primary interlocutor with the spirit world. The marsh-witch is dead. The demon is not.
 
-### 3.8 The Sigil-Carved Staff
+### 12.3.8 The Sigil-Carved Staff
 
 **Form:** A straight staff of hardened black wood, roughly six feet long, carved from end to end with interlocking sorcerous sigils in a script that predates any living language. The wood is warm to the touch.
 
@@ -305,7 +305,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** The head of a sorcerers' collegium who was building toward something when the collegium was destroyed. What they were building toward and who destroyed the collegium are separate questions with the same answer.
 
-### 3.9 The Flensing Mirror
+### 12.3.9 The Flensing Mirror
 
 **Form:** A hand mirror of polished obsidian in a silver frame worked with abstract patterns that resolve, on close inspection, into very small figures in extremis. The reflection it shows is accurate but always appears slightly colder and more severe than the thing it reflects.
 
@@ -321,7 +321,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made by a sorcerer employed by a spy service that wanted to separate real ambassadors from assassins sent in their place. The spy service was disbanded when the Mirror revealed that the spymaster's employer was themselves an impersonator.
 
-### 3.10 The Hand of the Hanging Judge
+### 12.3.10 The Hand of the Hanging Judge
 
 **Form:** A mummified human hand, preserved in bitumen, hanging from a cord of braided horsehair. The fingers are curled as if gripping something. It smells of tar and very old smoke.
 
@@ -337,21 +337,21 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Origin:** Made in a city-state that combined judicial and sorcerous authority. The city-state collapsed from within. The Hand is one of the more defensible remnants of its legal tradition.
 
-## 4. Cursed Items
+## 12.4 Cursed Items
 
 A cursed item is not a bad magic item. It is a trap wearing the shape of treasure. The genre's model is irony and fate, not a penalty to attack rolls - the ending of a bad story the character did not realise they were in.
 
-### 4.1 Identifying Cursed Items
+### 12.4.1 Identifying Cursed Items
 
 Witch Sight (§7.5) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Blasphemous Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
 
 The most reliable method is reputation. Cursed items have histories, and those histories circulate.
 
-### 4.2 Removing a Curse
+### 12.4.2 Removing a Curse
 
 Curses do not lift when the item is dropped. They lift when their specific release condition is met - which the GM knows and the player typically does not. The general process: identify the curse pattern (Knowledge (Blasphemous Lore)), determine the release condition (research, patron knowledge, a specialist sorcerer), fulfil it. Undo Sorcery (§7.5) suppresses a curse for the caster's POW in hours but cannot remove it permanently.
 
-### 4.3 The Warlord's Bracelet
+### 12.4.3 The Warlord's Bracelet
 
 **Form:** A thick gold bracelet engraved with scenes of battle. Magnificent. The engraving includes, on careful inspection, scenes of defeat.
 
@@ -363,7 +363,7 @@ Curses do not lift when the item is dropped. They lift when their specific relea
 
 **Release condition:** The Bracelet must be given freely and without expectation of return to someone who has never fought in their life. Once given, the curse transfers with the new owner's first combat.
 
-### 4.4 The Grateful Ghost's Coin
+### 12.4.4 The Grateful Ghost's Coin
 
 **Form:** A single gold coin of foreign mint, very old, with a king's face on one side and a closed eye on the other. It is always warm.
 
@@ -377,7 +377,7 @@ Failure to complete the task within one month of the tenth trigger results in th
 
 **Release condition:** Complete the task. The task is always in a place the party would not otherwise go. This is not a coincidence.
 
-### 4.5 The Sorcerer's Eye
+### 12.4.5 The Sorcerer's Eye
 
 **Form:** A glass orb approximately 3 cm across, deep red, that pulses faintly with what might be internal light. It is warm to the touch.
 
@@ -393,7 +393,7 @@ After 1D6 weeks of use (the GM rolls this privately), the sorcerer appears to th
 
 **Release condition:** Return the Eye to the sorcerer voluntarily. The journey to reach the sorcerer is the adventure. Whether the sorcerer is an ally or an enemy when you arrive depends entirely on how the first two demands were handled.
 
-### 4.6 The Mirror of True Names
+### 12.4.6 The Mirror of True Names
 
 **Form:** A small silver hand mirror, tarnished almost to black, with a back engraved in concentric circles. The reflection is always perfectly clear.
 
@@ -407,7 +407,7 @@ More critically: the bearer's own true name is visible in the Mirror when they l
 
 **Release condition:** Never discovered. No one who has had the Mirror long enough to find the release condition has been alive to tell anyone.
 
-### 4.7 The Crown of Voices
+### 12.4.7 The Crown of Voices
 
 **Form:** A bronze circlet set with seven small stones, each a different colour. When worn in a crowd, the wearer hears whispers - thoughts near the surface of the minds around them, not deep truth but immediate intent and fear.
 
@@ -421,11 +421,11 @@ By the end of the fourth week, the bearer has effectively acquired the mental ar
 
 **Release condition:** Leave the Crown somewhere crowded and do not return. The Crown always ends up back with someone within a month. It likes crowds.
 
-## 5. The Economics of Fame
+## 12.5 The Economics of Fame
 
 Reputation is money in a social economy. See §2.8 for the full mechanic; this section covers the GM-facing economic implications.
 
-### 5.1 Fame Opens Doors
+### 12.5.1 Fame Opens Doors
 
 A character with Reputation 40%+ is known - not necessarily liked, but known - and this has practical economic consequences.
 
@@ -435,7 +435,7 @@ A character with Reputation 40%+ is known - not necessarily liked, but known - a
 
 **Auction access:** Rare artifacts, named gems, and unusual animals move through private channels. Reputation 50+ in the relevant field gets the introduction required to access them.
 
-### 5.2 Fame Costs More
+### 12.5.2 Fame Costs More
 
 The other side.
 
@@ -445,7 +445,7 @@ The other side.
 
 **Visible targets:** A villain who wants to hurt the famous party does not need to track them - they can ask anyone. Habits, preferred inns, suppliers, associations: all public knowledge proportional to Reputation.
 
-### 5.3 Cursed Fame: Reputation as Liability
+### 12.5.3 Cursed Fame: Reputation as Liability
 
 In some specific circumstances, Reputation actively works against the party's economic interests.
 
@@ -455,7 +455,7 @@ In some specific circumstances, Reputation actively works against the party's ec
 
 **Price of mercy:** Enemies who know the party spares surrendering foes will surrender. Ransoms, fed prisoners, paroled enemies who report back - a reputation for honour is economically expensive.
 
-### 5.4 Fences, Brokers, and the Grey Market
+### 12.5.4 Fences, Brokers, and the Grey Market
 
 Most valuable treasure passes through an intermediary before reaching its final buyer.
 

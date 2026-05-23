@@ -1,11 +1,11 @@
-# Spot Rules
+# 6 Spot Rules
 
 > _"The desert has its own laws, older and crueller than the laws of men."_
 > _- Robert E. Howard_
 
 GM reference for environmental threats, natural hazards, and situation rules outside ordinary combat. Player-facing rules (prone, aimed attacks, disengaging, close combat, weapon length) are in §5.
 
-## 1. Disease
+## 6.1 Disease
 
 Infection follows exposure: a plague victim's wounds, foul water, ruin miasma, a curse-inflicted bite. The GM sets disease Potency (POT 3-18, treating it as a poison for the initial resistance roll).
 
@@ -25,7 +25,7 @@ Infection follows exposure: a plague victim's wounds, foul water, ruin miasma, a
 | 3                    | Severe                      | 1 point per hour         |
 | 4+                   | Terminal                    | 1 point per minute       |
 
-### 1.1 Disease Types
+### 6.1.1 Disease Types
 
 Each disease attacks a different characteristic. Same recovery mechanic throughout; only the target characteristic differs.
 
@@ -42,7 +42,7 @@ Each disease attacks a different characteristic. Same recovery mechanic througho
 
 **Characteristic recovery.** Lost points return at the same rate they were lost, once infection is thrown off - no faster. Medicine applied daily improves the rate by one step.
 
-## 2. Poison
+## 6.2 Poison
 
 Poisons use the Resistance Table: POT vs. CON. Overcomes CON: full POT in HP damage. Fails: half POT (round up). Two doses of the same poison do not combine into a double-strength dose.
 
@@ -52,7 +52,7 @@ Poisons use the Resistance Table: POT vs. CON. Overcomes CON: full POT in HP dam
 
 **Delivery.** Unless otherwise noted, all poisons below assume ingestion or injection (blade, bite, sting). Contact poisons are rarer; a bare-hand search of a poisoned object requires a Luck roll to avoid exposure.
 
-### 2.1 Poison Reference
+### 6.2.1 Poison Reference
 
 The following are representative ancient-world poisons for GM use. POT values assume a full dose; fractional doses halve POT. The GM may create further poisons using these as calibration points.
 
@@ -72,13 +72,13 @@ The following are representative ancient-world poisons for GM use. POT values as
 
 **Named poisons.** The genre convention is that poison is cowardly and honourable characters regard it with contempt - which does not stop rogues. Name poisons for your setting: "Black Tears of Stygia" is more evocative than "Nightshade (POT 13)."
 
-## 3. Herbs, Drugs, and Substances
+## 6.3 Herbs, Drugs, and Substances
 
 Sword & sorcery is thick with alchemy: lotus-vials in a sorcerer's sleeve; the bitter resin that lets a mercenary captain march another day on no sleep; dream-reeds the tomb-finder consults before breaking a seal. Where the BRP UGE source leaves these implicit, WSR makes them part of the toolkit.
 
-Craft (Apothecary) (§3) prepares and recognises these substances. Medicine (§3) administers them. Most use the Resistance Table - POT vs CON - the same as the poison system in §2. Effects are time-limited unless noted; some substances are addictive (see §3.3).
+Craft (Apothecary) (§3.3.8) prepares and recognises these substances. Medicine (§3.3.25) administers them. Most use the Resistance Table - POT vs CON - the same as the poison system in §6.2. Effects are time-limited unless noted; some substances are addictive (see §6.3.3).
 
-### 3.1 Healing Herbs
+### 6.3.1 Healing Herbs
 
 These supplement First Aid and Medicine. A successful Medicine roll is required to apply most healing herbs - the herb is the medicament; the doctor is the technique. Application within one turn of injury achieves the full benefit; later application is less effective.
 
@@ -89,9 +89,9 @@ These supplement First Aid and Medicine. A successful Medicine roll is required 
 | Vault-Lichen            | Halves the recovery time for crippling §A1 critical effects when chewed daily during convalescence. Cures ordinary fever and infection at the GM's discretion.                                   | Uncommon; cold caves              | Average                   |
 | Saramodian Resin        | Cleanses one disease, paralysis poison, or active curse. Costs the recipient 1 CON permanently - the purge is aggressive. Single use per character.                                              | Legendary; cult formulation       | Expensive (or unfindable) |
 
-### 3.2 Drugs and Strange Substances
+### 6.3.2 Drugs and Strange Substances
 
-These produce intentional effects: alertness, fearlessness, dreams, hallucinations. Most are addictive (see §3.3).
+These produce intentional effects: alertness, fearlessness, dreams, hallucinations. Most are addictive (see §6.3.3).
 
 | Substance             | Effect                                                                                                                                                                                                                                                   | Source                      | Cost      |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------- |
@@ -102,7 +102,7 @@ These produce intentional effects: alertness, fearlessness, dreams, hallucinatio
 | Iron-blood Tincture   | Drunk by witch-hunters and paranoid kings. For 1 hour after ingestion, all iron and steel the user carries counts as if doubled in ENC for the iron-vs-sorcery rule (§8.12.1). Effectively a -10% per ENC iron penalty to any sorcerer the user opposes. | Bitter draught; uncommon    | Average   |
 | Moth-Wing Dust        | Applied to a blade. On a successful hit that breaks skin, target makes POT 8 vs CON; failure means vivid hallucinations for 1D6 rounds during which the target cannot distinguish allies from enemies and attacks the nearest figure.                    | Pale moths; rare            | Expensive |
 
-### 3.3 Addiction
+### 6.3.3 Addiction
 
 Substances marked addictive create tolerance and dependency with repeated use. After the third use of an addictive substance within a single adventure (or GM-defined equivalent), the user makes POT 8 vs CON; failure means the user is **addicted**.
 
@@ -110,17 +110,17 @@ An addicted character suffers **withdrawal** when more than 24 hours pass withou
 
 Breaking an addiction requires a successful Medicine roll and one full week of rest, free of the substance. A failed Medicine roll means the character relapses on next exposure.
 
-### 3.4 Preparation and Trade
+### 6.3.4 Preparation and Trade
 
 Craft (Apothecary) prepares these substances. Preparation time runs from one day for common salves to one month or more for rare formulations. Most herbs and drugs trade in markets, temple apothecaries, and the back-rooms of certain merchants; some require specific cultures, seasonal harvests, or relationships with particular cults.
 
 The GM may add further substances using the entries above as calibration. The Apothecary's craft is older than any nation's law, and a clever player will find that brewing their own can be more interesting than buying.
 
-## 4. Fire and Heat
+## 6.4 Fire and Heat
 
 Fire causes HP damage each round of exposure. Armour provides protection for the first 1D3 rounds before heat penetrates; non-metal armour then loses 1 AV per round of sustained fire. Metal armour does not degrade but becomes dangerously hot (see below).
 
-### 4.1 Fire Intensity
+### 6.4.1 Fire Intensity
 
 | Source                                               | Damage per round | Notes                                                                                   |
 | ---------------------------------------------------- | ---------------- | --------------------------------------------------------------------------------------- |
@@ -136,7 +136,7 @@ Fire causes HP damage each round of exposure. Armour provides protection for the
 
 **Metal armour and heat.** Does not burn but retains heat. After 2+ rounds in sustained fire: armour is unwearable for 1D6 turns while cooling; all armour skill penalties become Extreme during that period.
 
-### 4.2 Smoke Inhalation
+### 6.4.2 Smoke Inhalation
 
 Dense smoke in an enclosed space (burning building, smoke-filled tunnel, burning ship) imposes the following in addition to fire damage:
 
@@ -147,7 +147,7 @@ Dense smoke in an enclosed space (burning building, smoke-filled tunnel, burning
 
 A character who falls unconscious from smoke inhalation continues to take smoke damage each round until removed from the area.
 
-## 5. Cold and Exposure
+## 6.5 Cold and Exposure
 
 Cold is an attrition threat. Each day without adequate protection chips away at the character's capacity to function.
 
@@ -155,13 +155,13 @@ Cold is an attrition threat. Each day without adequate protection chips away at 
 
 **Accelerated exposure.** Sudden catastrophic cold (plunging into icy water, being caught in a blizzard unclothed, a winter storm in the open steppe) demands an immediate Stamina roll. Failure: 1D3 CON loss immediately. Fumble: 1D6 CON and the character is incapacitated (hypothermia or frostbite).
 
-### 5.1 Hypothermia
+### 6.5.1 Hypothermia
 
 A character who has failed two or more consecutive daily Stamina rolls is hypothermic. Their DEX and INT each drop by 1D3 (temporarily, recovering with warmth and rest). All actions are Difficult. The hypothermic character may not run - only slow, shambling movement. A fumble on any physical roll results in collapse.
 
 Warmth and rest halt further CON loss and restore temporary DEX/INT penalty at 1 point per hour.
 
-### 5.2 Frostbite
+### 6.5.2 Frostbite
 
 When the character's CON is reduced to half or less by cold exposure, roll on the following table (1D6):
 
@@ -175,11 +175,11 @@ When the character's CON is reduced to half or less by cold exposure, roll on th
 
 Frostbite treatment requires warmth, clean bindings, and a successful Medicine roll. On a critical Medicine result, no permanent effect occurs even if the one-day window has passed.
 
-## 6. Hunger, Thirst, and Fatigue
+## 6.6 Hunger, Thirst, and Fatigue
 
 The ancient world does not provision adventurers. A character without supplies degrades over days.
 
-### 6.1 Hunger
+### 6.6.1 Hunger
 
 A character without adequate food begins to feel the effects after CON/2 days (round down, minimum 2 days). After that threshold:
 
@@ -189,7 +189,7 @@ A character without adequate food begins to feel the effects after CON/2 days (r
 
 A single adequate meal (a day's rations or equivalent foraging) resets the clock.
 
-### 6.2 Thirst
+### 6.6.2 Thirst
 
 Thirst is faster and more lethal than hunger.
 
@@ -199,7 +199,7 @@ Thirst is faster and more lethal than hunger.
 
 Desert conditions (heat, exertion) halve all thresholds. Water found in the field may be foul: CON roll or mild disease (Chills, POT 6, see §1).
 
-### 6.3 Fatigue
+### 6.6.3 Fatigue
 
 Extended exertion without rest degrades performance. Use this rule when characters push beyond normal limits: multiple combats in a single day, forced marches, swimming against current, extended climbing.
 
@@ -217,9 +217,9 @@ Extended exertion without rest degrades performance. Use this rule when characte
 
 **Interaction with wounds and disease.** Wounded, diseased, and exhausted simultaneously: GM may advance two steps for a significant exertion; requires two nights' rest to return to Fresh.
 
-## 7. Falling and Drowning
+## 6.7 Falling and Drowning
 
-### 7.1 Falling
+### 6.7.1 Falling
 
 The GM assigns a narrative fall category based on the fiction.
 
@@ -238,7 +238,7 @@ The GM assigns a narrative fall category based on the fiction.
 
 **Obstacles.** Landing on stakes, sharp rubble, or similar hazards adds a separate 1D10+1 damage roll in addition to the fall damage.
 
-### 7.2 Drowning and Asphyxiation
+### 6.7.2 Drowning and Asphyxiation
 
 Submerged, strangled, or otherwise deprived of air: Stamina rolls at decreasing ease each round.
 
@@ -262,11 +262,11 @@ Submerged, strangled, or otherwise deprived of air: Stamina rolls at decreasing 
 
 **Sorcerers and drowning.** PP spent on spells while drowning is PP unavailable for Deflect the Killing Blow when the CON rolls fail (§4.6).
 
-## 8. Chases
+## 6.8 Chases
 
 The GM uses the following framework to run a chase.
 
-### 8.1 Before the Chase Begins
+### 6.8.1 Before the Chase Begins
 
 Establish six elements before running the chase:
 
@@ -277,7 +277,7 @@ Establish six elements before running the chase:
 5. **Duration.** Chase rounds represent approximately 10-12 seconds - the same as a combat round. The GM may declare a maximum number of rounds before terrain changes or a conclusion is forced.
 6. **Conclusion.** What ends the chase? The quarry reaches a safe door; the pursuer's horse stumbles; the city watch blocks the alley; the river is crossed. Establish at least one possible conclusion for each side.
 
-### 8.2 The Range Track
+### 6.8.2 The Range Track
 
 Five narrative positions describe the distance between pursuer and quarry. Track this verbally; no physical prop is required.
 
@@ -307,11 +307,11 @@ Each round, each side makes the relevant skill roll. Compare results:
 
 **Conclusion.** Quarry at Out of Sight for two consecutive rounds: escaped. Pursuer at Side by Side: caught. Environmental conclusions (quarry reaches a known door; horse falls) called by the GM at any point.
 
-### 8.3 Tracking the Chase
+### 6.8.3 Tracking the Chase
 
 Five verbal positions; no miniatures, no tape measures. For GM tracking: write SS | CL | EN | DI | OS and mark the current gap with a slash. Shift each round.
 
-## 9. Mass Combat
+## 6.9 Mass Combat
 
 When PCs are caught up in a larger battle, the GM does not run every combatant through standard combat resolution. The engagement's outcome has already been determined by narrative or prep; the PCs are fighting within it, not commanding it.
 
@@ -334,11 +334,11 @@ When PCs are caught up in a larger battle, the GM does not run every combatant t
 
 **Fate Points in mass combat.** Fate Point spends (§4.7) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
 
-## 10. Theatre-of-Mind Combat
+## 6.10 Theatre-of-Mind Combat
 
 Warrior \* Sorcerer \* Rogue is designed to be played without a grid. Combat is described rather than measured, and the GM's job is to make the description carry the weight that geometry carries in a grid-based game.
 
-### 10.1 Describing Position in Prose
+### 6.10.1 Describing Position in Prose
 
 Position is a shared understanding maintained by description. The GM and players together build a mental picture of the fight, specific enough that tactical decisions are meaningful.
 
@@ -350,7 +350,7 @@ Position is a shared understanding maintained by description. The GM and players
 
 **Use the fiction when a rule is unclear.** When two players disagree about whether a position is valid - whether there is cover, whether a PC is in range, whether an opponent can reach them - decide based on what makes sense given everything that has been described. Not every tactical ambiguity needs a ruling; some are resolved by asking "what would this look like if we were watching it?" and going with that answer.
 
-### 10.2 Adjudicating Range Bands
+### 6.10.2 Adjudicating Range Bands
 
 The four range bands - Near, Normal, Far, Extreme - are defined in §5.3.7 and give missile weapons a functional range structure without requiring measurement. At the table, apply them as follows.
 
@@ -364,7 +364,7 @@ The four range bands - Near, Normal, Far, Extreme - are defined in §5.3.7 and g
 
 **Moving between bands.** A character who wants to close from Far to Normal must move; that is at least a Long Move, which delays their DEX rank by half. A character who wants to move from Near to Normal must disengage (see §5.6.1). These costs make range management a meaningful tactical dimension without requiring measurement.
 
-### 10.3 Keeping Tactical Pace Without a Grid
+### 6.10.3 Keeping Tactical Pace Without a Grid
 
 These practices prevent the tactical pace from slowing as players and GM lose track of position.
 
@@ -378,18 +378,18 @@ These practices prevent the tactical pace from slowing as players and GM lose tr
 
 **Keep the sorcerer in the picture.** Sorcery's Phase Two resolution and the interruption risk from melee (§5.6.5) need active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to make it to Phase Two without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
 
-## 11. Group Stealth and Concealment
+## 6.11 Group Stealth and Concealment
 
 When a group needs to move quietly together - a warband creeping toward a sentry post, a band of thieves crossing a temple precinct, a party trying not to wake the household - do not roll Move Quietly for every character. Roll once for the group at the rating of the **least capable** member.
 
 The slowest, loudest, or most armoured character sets the pace. A rogue with Move Quietly 75% gains nothing by accompanying a warrior in bronze scale who has Move Quietly 25% - the warrior is the limit. This produces the genre-correct outcome: scouts go alone or in pairs, and large groups must split up or make peace with being detected.
 
-### 11.1 Exceptions and Refinements
+### 6.11.1 Exceptions and Refinements
 
 - **Hanging back.** A character may opt out of the group roll by lagging behind. They then roll separately at their own rating; they are no longer "with" the group for stealth purposes.
-- **Leadership.** A leader with Strategy may attempt a complementary Strategy roll (§3.3.1) to support the group's Move Quietly: success grants the appropriate complementary bonus, representing specific tactical guidance - staying off the gravel path, taking the gap behind the woodpile, holding for the lull between watch-bell strikes.
+- **Leadership.** A leader with Strategy may attempt a complementary Strategy roll (§4.4.3) to support the group's Move Quietly: success grants the appropriate complementary bonus, representing specific tactical guidance - staying off the gravel path, taking the gap behind the woodpile, holding for the lull between watch-bell strikes.
 - **Individual fumble.** A fumble by any single member still automatically alerts - even if the group roll succeeded overall - but only that member is initially detected. The GM may give the rest of the group one round to react before the sentry's shout commits the situation.
 
-### 11.2 Concealment for Stationary Groups
+### 6.11.2 Concealment for Stationary Groups
 
 The same principle applies to Hide. A group concealing itself takes the worst Hide rating among them. Splitting up to hide separately is often the better tactical choice, but it has the price you would expect: when the violence starts, the group is not together.
