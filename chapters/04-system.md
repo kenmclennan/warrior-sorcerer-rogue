@@ -68,7 +68,7 @@ The percentile roll mechanics continue to work normally - any roll equal to or b
 - **Headroom on Difficult tasks.** Halving the rating still leaves significant skill. A character with Sword 140 rolls Difficult at 70%, an expert-level chance.
 - **Headroom against situational penalties.** A character with Persuade 120 facing a -30% situational penalty still rolls at 90%.
 - **Criticals dominate matching dice.** At 99+ effective skill, all nine matching-dice values (11 through 99) are Criticals; only a natural 00 remains a Fumble.
-- **Multiple attacks in combat.** A weapon skill above 100% enables multiple attacks per round; see §5.3.8.
+- **Multiple attacks in combat.** A weapon skill above 100% enables multiple attacks per round; see §5.3.9.
 
 ## 4.2 Outcome Tiers
 

@@ -246,7 +246,7 @@ Khess's player announces: _"She bought that critical. Dagger, Pierce type."_ No 
 
 The GM rolls 1d10 on the Pierce, Band C table: result is **5**. The entry reads: _"The weapon pierces the lung; +5 bonus damage, stunned for 2 rounds, and the target can hear themselves breathing with a terrible sound."_
 
-Khess rolls dagger damage: 1D4+2 = 4+2 = **6.** Plus +5 bonus damage = **11 total damage.** Davan has HP 12. He takes 11 damage, dropping to HP 1. He is stunned for 2 rounds, his breathing terrible from the lung wound.
+Khess takes maximum dagger damage on the crit: 1D4+2 = max 4+2 = **6.** Plus +5 bonus damage from the §A1 entry = **11 total damage.** Davan has HP 12. He takes 11 damage, dropping to HP 1. He is stunned for 2 rounds, his breathing terrible from the lung wound.
 
 > The critical applies the §A1 entry: pierced lung, stunned for 2 rounds, terrible breathing. Damage knocks Davan from HP 12 to HP 1 - one more hit will drop him.
 
@@ -277,7 +277,7 @@ Initiative is rolled fresh. Khess rolls 1D10 + DEX 18 = 8 + 18 = **26**. Davan r
 
 The GM rolls 1d10 on Pierce, Band B: result is **3**. The entry reads: _"The blade enters between shoulder and neck; the target loses all feeling in the arm for 3 rounds - parries Difficult, +4 bonus damage."_
 
-Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Rabble B's half-HP threshold is 5. 9 exceeds 5. **Rabble B is automatically incapacitated.** He drops to the cobblestones, arm hanging useless.
+Maximum dagger damage on the crit: 1D4+2 = 4+2 = **6.** Plus +4 bonus damage = **10 damage.** Rabble B's half-HP threshold is 5. 10 exceeds 5. **Rabble B is automatically incapacitated.** He drops to the cobblestones, arm hanging useless.
 
 **At initiative 23 (Davan).** He is at 0 HP, dying, his stun with 1 round remaining. He declares a **Dying Blow** (§5.9). Stamina roll (CON x5): CON 12, so 60%. He rolls **37.** Success. He gets one final Difficult action.
 

@@ -352,7 +352,7 @@ Position is a shared understanding maintained by description. The GM and players
 
 ### 6.10.2 Adjudicating Range Bands
 
-The four range bands - Near, Normal, Far, Extreme - are defined in §5.3.7 and give missile weapons a functional range structure without requiring measurement. At the table, apply them as follows.
+The four range bands - Near, Normal, Far, Extreme - are defined in §5.3.8 and give missile weapons a functional range structure without requiring measurement. At the table, apply them as follows.
 
 **Near** is arm's length - within the same engagement zone as the target. Throwing weapons at Near range use close combat rules. Bows at Near range are Difficult because a longbow is not a close-quarters weapon; the attacker is fighting the weapon's design as much as the target.
 
