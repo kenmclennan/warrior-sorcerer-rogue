@@ -139,6 +139,8 @@ This is a separate roll, not a parry: the shield either blocks the missile or th
 
 The GM determines which band applies based on the description of the scene.
 
+**Shooting up or down.** Elevation modifies missile attacks. A target significantly _below_ the attacker's line of sight (downhill, a lower floor, the street from a parapet): **+10%**. A target _above_ the attacker (uphill, an upper floor, a defender on a wall): **-10%**. A target directly overhead (more than 45° up): **Difficult**, and effective range is halved. Some weapons (slings, crossbows) may be unable to fire directly above or below at the GM's call.
+
 ### 5.3.9 Multiple Attacks
 
 A character whose weapon skill exceeds 100% may split that skill into multiple attacks, each at a minimum effective skill of 50%. Additional attacks resolve at -5 initiative count intervals after the first. No single attack may exceed the character's full skill rating.
@@ -162,6 +164,18 @@ Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from da
 ### 5.4.3 Shields
 
 Shields are both weapons (use Shield skill to attack) and parrying tools (use Shield skill to parry melee and intercept missiles as above). Shield skill has the same -30% cumulative penalty as all parry skill uses.
+
+### 5.4.4 Broken Weapons
+
+A weapon or shield reduced to 0 HP through combat - typically by parrying attacks that exceed its hit points - **breaks**. A broken weapon:
+
+- Does **half rolled damage** (round up).
+- Attacks and parries with it are **Difficult**.
+- May be unusable entirely if the break is fundamental (a bow string, a flail's chain, a spearhead snapped from its haft).
+
+A broken weapon resembling a smaller weapon may be used at the smaller weapon's skill rating instead - a broadsword broken to half-length can be used as a Sword (Short) at the corresponding speciality rating without the Difficult penalty. The GM decides what the broken weapon now resembles.
+
+The break is permanent until a competent smith repairs it (Craft (Smithing) at the GM's call; cost and time scale with the weapon).
 
 ## 5.5 Wounds
 
@@ -219,29 +233,74 @@ When both sides are surprised, an opposed Spot or Listen roll determines who act
 
 **Ambush.** Hidden attackers get Easy attacks on the first round. Victims may not parry or dodge until the following round - unless some succeed at a Spot or Listen roll before the attack lands, in which case those individuals may defend normally.
 
-### 5.6.2 Multiple Attackers
+### 5.6.2 Backstabs and Helpless Opponents
+
+A character attacking the unprotected back of a target in active combat strikes at **Easy**. The target may attempt a Difficult parry or dodge only if they succeed at a Difficult Listen or Sense roll first, and only if they have defensive attempts remaining.
+
+A **helpless target** - bound, unconscious, asleep, or otherwise unable to defend - can be attacked at Easy with no possibility of parry or dodge. The attack has its usual lethality; the helpless attack is the assassin's choice and the executioner's.
+
+The GM may allow a POW x1 roll for some external interruption (a sentry's footfall, a wind that snuffs the lamp, a creak that stays the attacker's hand for the round) when the dramatic timing demands it.
+
+### 5.6.3 Multiple Attackers
 
 No more than five human-sized opponents can meaningfully engage a single target simultaneously. Large weapons reduce this number further. Attackers beyond the limit are crowded out.
 
 When a character is attacked by more opponents than they have parry and dodge attempts remaining, some attacks land undefended. Choose which to defend; the rest hit automatically.
 
-### 5.6.3 Close Combat and Weapon Length
+### 5.6.4 Big and Little Targets
 
-Long weapons attack first within an initiative count. Once a short-weapon fighter closes to grappling distance, long-weapon parries become Difficult and the full reach cannot be used. To close, the short-weapon fighter must survive the initial strike (long weapon attacks first in that exchange); subsequent rounds at close range penalise the long-weapon fighter.
+Combat against creatures significantly larger or smaller than the attacker carries a size modifier:
+
+- **Target more than twice the attacker's SIZ** (giants, drakes, war elephants): attack skill **+20%**. The target is too large to miss easily.
+- **Target less than half the attacker's SIZ** (rats, sprites, small swift creatures): attack skill **-20%**. The target is too small and quick.
+
+Larger creatures attacking smaller targets apply the same modifiers in reverse. A giant swinging a club at a man-sized PC is at -20%; the PC swinging a sword at the giant is at +20%.
+
+Inanimate objects use the same scale: a large stationary object is Easy to hit; a tiny object is Difficult.
+
+### 5.6.5 Close Combat and Weapon Length
+
+Long weapons attack first within an initiative count. Once a short-weapon fighter closes to grappling distance, long-weapon parries become Difficult and the full reach cannot be used.
 
 Daggers and unarmed strikes are unaffected by close quarters. Two-handed polearms may be unusable in tight spaces.
 
-### 5.6.4 Cover
+**Closing.** To close from outside reach to grappling distance with a long-weapon fighter, the short-weapon fighter must survive the long weapon's initial strike (which always acts first in that exchange, regardless of initiative). Once closed, subsequent rounds at close range penalise the long-weapon fighter.
+
+**Keeping at bay.** Instead of attacking, a long-weapon fighter may use their initiative tick to **keep a short-weapon fighter at bay**: roll the weapon skill as a normal attack. On a success, the short-weapon fighter cannot close this round. On a failure, the short-weapon fighter may attempt to close as normal.
+
+**Slipping past the bay.** A short-weapon fighter being kept at bay may attempt a Dodge or Parry roll to slip past the long weapon's guard. On a success, they close immediately and may attack at the normal initiative tick.
+
+**Action economy at close range.** A long-weapon fighter engaged at close range loses some flexibility. While they remain at close range with a short-weapon fighter, on a single initiative tick they may attack **or** parry **or** dodge - not the usual combination of attack plus defensive actions. The reach that makes the long weapon dominant at normal range becomes a liability at arm's length.
+
+### 5.6.6 Enclosed Environments
+
+Fighting in tight quarters - a crypt corridor, a ship's hold, a narrow alley - restricts weapon choice.
+
+- **Normal corridor** (one-metre radius around the character): hand-to-hand weapons of ENC 2 or less work normally. Larger weapons (ENC 3+: greatswords, polearms, war-flails) attack and parry at **Difficult**; ENC 4+ are unusable.
+- **Cramped** (half-metre radius): even ENC 1 weapons attack and parry at **Difficult**. ENC 0 weapons (daggers, knives) and unarmed strikes work normally.
+- **No room** (smaller still): only ENC 0 weapons and unarmed.
+
+The character with the smaller weapon has the advantage in cramped quarters - inverting the usual long-weapon reach dynamic.
+
+### 5.6.7 Cover
 
 Partial cover (a door-frame, a low wall, a fallen pillar) makes attacks against the covered character Difficult. If the attack roll falls between the modified skill (with Difficult applied) and the unmodified skill, the cover is struck instead. Damage that exceeds the cover's structural integrity passes through.
 
 A character who is kneeling or prone behind a full shield or wall gains substantial cover. The GM determines coverage based on description.
 
-### 5.6.5 Fighting While Down
+**Fortified positions.** A character standing or kneeling behind a sturdy defensive structure (a stone parapet, a battlement, the lip of a trench) is in a fortified position. Attacks against them are Difficult, as with cover. A character who crouches or kneels _entirely_ behind the fortification cannot be hit by small missile fire at all - though they remain vulnerable to area attacks, siege weapons, and sorcery that reaches over or through. Aimed Attacks (§5.7.1) can overcome a fortified position one accumulated tick at a time.
+
+### 5.6.8 Fighting While Down
 
 All attacks, parries, and dodges are Difficult while prone; attacks against the character are Easy. Rising takes an attack slot, during which these penalties still apply.
 
 **Difficult Dodge to rise.** A prone character may attempt a Difficult Dodge on their initiative count. Success: they rise and may still attack. Failure: they remain prone.
+
+### 5.6.9 Slippery and Unstable Surfaces
+
+Fighting on ice, oil, wet stone, a ship's deck in a storm, or any other unsteady footing requires an Agility roll (DEX x5) at the start of each round to keep balance. On a failure, the character falls prone (§5.6.8). On a fumble, they take 1D3 damage from the fall.
+
+The GM may rule the roll Difficult on particularly treacherous surfaces (an oil-slick floor, an earthquake, a heaving deck). Movement on slippery surfaces is reduced - a Long Move requires the Agility roll _and_ halves initiative again (essentially Full Sprint cost for Long Move distance).
 
 ## 5.7 Special Combat Actions
 
@@ -305,6 +364,28 @@ Aiming reduces the risk: each +10% from Aimed Attacks (§5.7.1) also reduces the
 **Subduing.** Declare on the attacker's initiative tick. The attacker reduces the damage dice or omits the damage modifier, to a minimum of 1D2.
 
 **Grapple and restrain.** A successful Grapple roll (Brawl or Grapple skill) establishes a hold. The restrained character must make an opposed STR vs. STR or DEX vs. DEX resistance roll to break free (their choice). An immobilised character cannot attack but can still speak.
+
+### 5.7.8 Improvised Weapons
+
+A character can pick up almost any solid object and use it as a weapon. Damage and properties scale with the object's size:
+
+- **Small improvised** (chair leg, wine bottle, candlestick, dropped torch): 1D4 + dm, ENC 1, HP 6, Krush damage.
+- **Large improvised** (bench, broken spear haft, large rock): 1D6 + dm, ENC 2, HP 8, Krush damage.
+- **Sharp improvised** (broken bottle, jagged shard, dropped knife caught by the hilt): 1D4 + dm, ENC 1, HP 4, Slash or Pierce.
+
+Attack skill is **half the character's nearest similar weapon skill** (e.g., Club for a chair leg, Dagger for a sharp shard) or 25%, whichever is higher. Improvised weapons take 1 HP damage per successful parry and may break (§5.4.4).
+
+**Improvised parrying.** A character holding a weapon not designed for parrying (a bow, a held thrown weapon, a torch, a lantern) may still parry with it at **half the weapon's skill rating** (or 20%, whichever is higher). The parrying object takes 1 HP damage per successful parry and may break.
+
+### 5.7.9 Desperate Actions
+
+When a character has already taken their action for the round but a situation demands one more - the door is closing, the priest is invoking the final word, an ally is about to die at a sword's point - the GM may permit a **desperate action**.
+
+Roll DEX x3 (effectively a Difficult Agility roll). On a success, the character takes one final action this round, resolved at the bottom of the initiative order. The action itself is Difficult. On a failure, the action does not happen.
+
+In the round following a desperate action - successful or not - the character cannot attack or move; they are unbalanced and recovering. Parries and dodges work normally.
+
+Desperate actions are a **GM-approved last resort**, not a routine option. They fit the "back against the wall" moment when the character is out of PP, out of options, and the genre is calling for one last act of will.
 
 ## 5.8 Mounted Combat
 
