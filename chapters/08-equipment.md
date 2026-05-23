@@ -42,7 +42,7 @@ Each weapon entry lists:
 - **Damage:** Dice rolled, plus damage modifier (dm) where applicable. The dm is derived from STR and SIZ (see §2.3.1).
 - **SR (Strike Rank):** The weapon's position in the initiative sequence. Lower SR acts sooner.
 - **Hands:** 1H (one-handed), 2H (two-handed), or 1H/2H (can be used either way).
-- **ENC:** Encumbrance. See §12 for the encumbrance rules.
+- **ENC:** Encumbrance. See §8.11 for the encumbrance rules.
 - **HP:** The weapon's own hit points (for the purposes of parrying and weapon destruction).
 - **Parry:** Whether the weapon can be used to parry an incoming blow.
 - **STR/DEX:** Minimum STR and DEX required to use the weapon effectively. A character below these values takes a -20% penalty.

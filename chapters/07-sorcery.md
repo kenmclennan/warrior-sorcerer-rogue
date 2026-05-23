@@ -44,9 +44,9 @@ Sorcery does not fail through incompetence. A sorcerer who knows a spell, has th
 
 ### 7.2.2 Power Point Cost
 
-Every spell costs PP equal to its intensity, paid at the moment of casting. Fixed-intensity spells always cost the same amount; scaling spells cost more for stronger effects. PP are shared with all Fate Point spends - the Critical Buy (§4.3) and the standard menu (§4.7) draw from the same pool, every draw. If the sorcerer lacks PP to complete a casting, the spell fails and any gathered PP disperses.
+Every spell costs PP equal to its intensity, paid at the moment of casting. Fixed-intensity spells always cost the same amount; scaling spells cost more for stronger effects. PP are shared with all Fate Point spends - the Critical Buy (§4.6.1) and the standard menu (§4.6) draw from the same pool, every draw. If the sorcerer lacks PP to complete a casting, the spell fails and any gathered PP disperses.
 
-See §4.6 for PP totals and recovery.
+See §4.5 for PP totals and recovery.
 
 ### 7.2.3 Time to Cast
 
@@ -72,7 +72,7 @@ Default duration is the caster's POW in combat rounds, unless the entry states o
 
 ### 7.2.8 Resistance and Contested Spells
 
-Targeted spells must overcome the target's resistance via the Resistance Table (§4.4.5): the sorcerer's current PP (after paying the cost) vs. the target's POW. On a failure, the spell is blocked; PP are still spent. Winning a resistance roll against a target with equal or higher POW earns an experience checkmark toward improving POW (§4.8.5).
+Targeted spells must overcome the target's resistance via a resistance roll (§4.3.5): the sorcerer's current PP (after paying the cost) vs. the target's POW. On a failure, the spell is blocked; PP are still spent. Winning a resistance roll against a target with equal or higher POW earns an experience checkmark toward improving POW (§4.7.5).
 
 ## 7.3 The Cost Trio
 
@@ -80,7 +80,7 @@ Sorcery has three costs operating at different scales. All three are real and in
 
 ### 7.3.1 Power Points
 
-The immediate cost. Every spell costs PP; at zero the sorcerer collapses. Every spend is a real decision: spell or Fate Point; Critical Buy or working. See §4.6 for the full Power Point rules.
+The immediate cost. Every spell costs PP; at zero the sorcerer collapses. Every spend is a real decision: spell or Fate Point; Critical Buy or working. See §4.5 for the full Power Point rules.
 
 ### 7.3.2 Patron Score (Optional)
 
@@ -274,7 +274,7 @@ A sorcerer may have up to POW/3 (round down) animated dead under their command a
 **Cast Time:** 1 round
 **Duration:** POW rounds
 
-The target must fail a POW resistance roll (§4.4.5) or enter a berserker state: attacks the nearest creature, cannot parry or dodge, cannot stop fighting even when mortally wounded. Does not feel pain. When the spell ends, the target collapses unless wounds were minor.
+The target must fail a POW resistance roll (§4.3.5) or enter a berserker state: attacks the nearest creature, cannot parry or dodge, cannot stop fighting even when mortally wounded. Does not feel pain. When the spell ends, the target collapses unless wounds were minor.
 
 **Cost Notes:** Casting at intensity 3 or higher increases Corruption by 1 (in addition to standard casting cost).
 
@@ -322,7 +322,7 @@ Enhances the target's Move Quietly skill: intensity 1 = +20%; intensity 2 = +40%
 **Cast Time:** 1 round
 **Duration:** Permanent until broken
 
-The target must fail a POW resistance roll (§4.4.5) or receive a permanent, visible disfigurement: a hand turned claw, an eye that clouds and weeps black, hair that falls and does not grow back. The mark imposes -20% to all social interactions in communities that recognise it, and is visible to See the Unseen. The curse can only be broken by Undo Sorcery at equal or greater intensity, or by killing the caster.
+The target must fail a POW resistance roll (§4.3.5) or receive a permanent, visible disfigurement: a hand turned claw, an eye that clouds and weeps black, hair that falls and does not grow back. The mark imposes -20% to all social interactions in communities that recognise it, and is visible to See the Unseen. The curse can only be broken by Undo Sorcery at equal or greater intensity, or by killing the caster.
 
 **Cost Notes:** Casting increases Corruption by 1D3 (in addition to standard casting cost).
 

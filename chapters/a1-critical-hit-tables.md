@@ -103,7 +103,7 @@ Each band is a mix of severities. Roughly:
 
 **Deadly** - life-changing or life-ending: permanent injury, instant death, dying in 1-2 rounds, permanent characteristic loss.
 
-Within a band, results trend lighter at the bottom of the 1d10 and heavier at the top, but the exact category mix is fuzzy - a Band C roll-2 might still bite hard, and a Band E roll-1 might be merciful by E's standards. Band E entries can be survived by spending PP on Deflect the Killing Blow (§4.7.7). Named antagonists can do the same; Rabble cannot.
+Within a band, results trend lighter at the bottom of the 1d10 and heavier at the top, but the exact category mix is fuzzy - a Band C roll-2 might still bite hard, and a Band E roll-1 might be merciful by E's standards. Band E entries can be survived by spending PP on Deflect the Killing Blow (§4.6.8). Named antagonists can do the same; Rabble cannot.
 
 > **Sidebar: A Worked Example**
 >

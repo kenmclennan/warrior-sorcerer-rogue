@@ -89,7 +89,7 @@ The damage modifier applies to all melee and thrown weapon attacks. For thrown a
 
 ### 2.3.5 Experience Bonus
 
-**Experience Bonus = INT / 2, rounded up.** This value is added to improvement rolls during downtime. See §4.8 for the improvement procedure.
+**Experience Bonus = INT / 2, rounded up.** This value is added to improvement rolls during downtime. See §4.7 for the improvement procedure.
 
 ### 2.3.6 Skill Category Bonuses
 

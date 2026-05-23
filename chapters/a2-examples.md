@@ -310,7 +310,7 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 - **Strike Ranks / Initiative** (§5.1): DEX order determined who declared last and acted first. Khess's DEX 18 was a meaningful advantage.
 - **Rabble incapacitation** (§5.8): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
 - **The Quiet Knife talent** (§2.7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
-- **Critical Buy** (§4.3): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
+- **Critical Buy** (§4.6.1): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
 - **§A1 lookup** (§A1.3): Band C Pierce, 1d10 = 5. Result: pierced lung, stunned 2 rounds, terrible breathing. Read aloud, resolved immediately.
 - **Fate Point: not spent** - Davan was reduced to 0 HP before he could spend PP on Deflect the Killing Blow (which requires minimum 8 PP; he had 9). His player chose not to spend, because it would leave him alive with 1 HP and surrounded by enemies.
 - **Dying Blow** (§5.9): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
@@ -334,7 +334,7 @@ _Karash is at his casting spot: a rented room with a cleared floor, a brazier bu
 
 **Memorised spells (INT = 15 spell levels):** Curse of the Withered Hand (level 4), Cloak of Night (level 1), See the Unseen (level 3), Moonrise (level 1), Shadow-Wrap (level 2), Midnight (level 1), Bird's Eye (level 3) - total: 15 levels. He is at capacity.
 
-**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (§4.4.5). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
+**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (§4.3.5). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
 
 ### A2.3.2 The Iron Problem
 

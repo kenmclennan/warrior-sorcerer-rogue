@@ -8,7 +8,7 @@ Every skill has a **base chance** - the starting rating before character creatio
 
 **Skill categories.** Skills are grouped into six categories: Combat, Communication, Manipulation, Mental, Perception, and Physical. Category bonuses (derived from the relevant characteristic average, calculated in §2.3.6) appear in the skill entries as a parenthetical after the base chance.
 
-**Skills above 100%.** A skill pushed above 100% confers two advantages: the character may attack or act twice in a combat round (once above 100%, again above 50%), and when rolling at a reduced difficulty, the effective skill after difficulty halving may still be well above the normal ceiling.
+**Skills above 100%.** Skills can grow past 100% through experience improvement and characteristic bonuses; the rule for what that means in play is in §4.1.4.
 
 **Concealed rolls.** For perception, social, and knowledge skills where the character would not know whether they succeeded, the GM rolls on the player's behalf and narrates the result. The player never sees the number. This covers Listen, Spot, Sense, Insight, and some uses of Track and Research.
 
@@ -24,8 +24,6 @@ Every skill has a **base chance** - the starting rating before character creatio
 | 76-90%  | Expert     | Better than most who do this for a living. Handles hard tasks.                        |
 | 91-100% | Master     | At the peak of normal human achievement. Rarely fails.                                |
 | 101%+   | Legend     | Beyond the norm. Multiple actions per round; effective even under extreme conditions. |
-
-WSR PCs begin near the top of the Journeyman range in core skills and push into Expert territory through play.
 
 ## 3.3 Speciality Skills
 
@@ -127,7 +125,7 @@ Roll Disguise when passing through a checkpoint, infiltrating a social environme
 
 _(Combat/Physical, base DEX x2)_
 
-Throwing oneself clear of an incoming attack. When the attacker succeeds, the defender may declare a Dodge as their response; the Dodge roll is compared against the attack using the Opposed Roll rules (§4.4.1). A successful Dodge cancels the attack even if the attack itself succeeded. A critical Dodge counts as a higher-degree success.
+Throwing oneself clear of an incoming attack. When the attacker succeeds, the defender may declare a Dodge as their response; the Dodge roll is compared against the attack using the Opposed Roll rules (§4.3.1). A successful Dodge cancels the attack even if the attack itself succeeded. A critical Dodge counts as a higher-degree success.
 
 Roll Dodge when attacked, as an alternative to Parry. Dodge can be used against attacks that cannot be parried (a thrown boulder, a collapsing ceiling), but cannot itself be used offensively.
 
@@ -327,7 +325,7 @@ _(Combat, base 10% or weapon-class dependent)_
 
 Deflecting an incoming blow with a weapon. Parry is the active defensive alternative to Dodge; unlike Dodge, Parry can inflict a cost on the attacker (a weapon struck against a parrying blade may be damaged; a shield parry can push an attacker off-balance). Parry is paired with Melee Weapon - the speciality matches the weapon used.
 
-Roll Parry when a character declares they are defending with their weapon rather than dodging. The Opposed Roll rules determine the outcome (§4.4.1); see §5 for the full attack-and-defence matrix.
+Roll Parry when a character declares they are defending with their weapon rather than dodging. The Opposed Roll rules determine the outcome (§4.3.1); see §5 for the full attack-and-defence matrix.
 
 **Specialities:** match the Melee Weapon specialities.
 
@@ -463,7 +461,7 @@ Roll Swim when conditions make water dangerous: currents, armour weight, pursuit
 
 _(Communication, base 10%)_
 
-Training another character in a skill. Teach requires the teacher's skill rating in the subject to be at least twice the student's current rating, or at least 50%, whichever is lower. Each training session is measured in weeks; the time required scales with the student's current rating (see §4.8.3 for the training time table).
+Training another character in a skill. Teach requires the teacher's skill rating in the subject to be at least twice the student's current rating, or at least 50%, whichever is lower. Each training session is measured in weeks; the time required scales with the student's current rating (see §4.7.3 for the training time table).
 
 A successful Teach roll means training proceeds by the standard rules (student makes an improvement roll at the end of the training period). A fumble ingrain a bad habit: the student loses 1D3 from the skill.
 

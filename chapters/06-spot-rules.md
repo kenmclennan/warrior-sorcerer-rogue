@@ -260,7 +260,7 @@ Submerged, strangled, or otherwise deprived of air: Stamina rolls at decreasing 
 
 **Taking a breath before submersion.** Luck roll: success, full breath taken, begin at Round 1. Failure, caught mid-exhale, begin at Round 2.
 
-**Sorcerers and drowning.** PP spent on spells while drowning is PP unavailable for Deflect the Killing Blow when the CON rolls fail (§4.6).
+**Sorcerers and drowning.** PP spent on spells while drowning is PP unavailable for Deflect the Killing Blow when the CON rolls fail (§4.5).
 
 ## 6.8 Chases
 
@@ -332,7 +332,7 @@ When PCs are caught up in a larger battle, the GM does not run every combatant t
 
 **Duration.** Brief skirmish: 2-3 turns (10-15 minutes). Sustained engagement: 6-12 turns (30-60 minutes). PCs rest and recover normally after.
 
-**Fate Points in mass combat.** Fate Point spends (§4.7) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
+**Fate Points in mass combat.** Fate Point spends (§4.6) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
 
 ## 6.10 Theatre-of-Mind Combat
 
@@ -387,7 +387,7 @@ The slowest, loudest, or most armoured character sets the pace. A rogue with Mov
 ### 6.11.1 Exceptions and Refinements
 
 - **Hanging back.** A character may opt out of the group roll by lagging behind. They then roll separately at their own rating; they are no longer "with" the group for stealth purposes.
-- **Leadership.** A leader with Strategy may attempt a complementary Strategy roll (§4.4.3) to support the group's Move Quietly: success grants the appropriate complementary bonus, representing specific tactical guidance - staying off the gravel path, taking the gap behind the woodpile, holding for the lull between watch-bell strikes.
+- **Leadership.** A leader with Strategy may attempt a complementary Strategy roll (§4.3.3) to support the group's Move Quietly: success grants the appropriate complementary bonus, representing specific tactical guidance - staying off the gravel path, taking the gap behind the woodpile, holding for the lull between watch-bell strikes.
 - **Individual fumble.** A fumble by any single member still automatically alerts - even if the group roll succeeded overall - but only that member is initially detected. The GM may give the rest of the group one round to react before the sentry's shout commits the situation.
 
 ### 6.11.2 Concealment for Stationary Groups

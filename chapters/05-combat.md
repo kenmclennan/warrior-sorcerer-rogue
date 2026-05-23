@@ -51,7 +51,7 @@ Movement in combat is described, not measured. Three categories cover most situa
 
 To attack, roll D100 against the relevant weapon skill. Consult the outcome tiers from §4.2:
 
-- **Critical Success** (matching dice within success range): the attack lands with exceptional force. Consult the appropriate crit table in §A1. The attacker may also have spent PP to convert a normal success to a critical (see §4.3).
+- **Critical Success** (matching dice within success range): the attack lands with exceptional force. Consult the appropriate crit table in §A1. The attacker may also have spent PP to convert a normal success to a critical (see §4.6.1).
 - **Success**: the attack connects. The defender may attempt to parry or dodge.
 - **Failure**: the attack misses. No defensive roll needed.
 - **Fumble** (00, or matching dice outside success range): something has gone wrong. The GM narrates the complication - a dropped weapon, a stumble, an opening left for the opponent.
@@ -151,7 +151,7 @@ Damage is subtracted from current HP. Combat continues at any positive HP - the 
 
 **Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
 
-**Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§10): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (§4.7). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
+**Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§10): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (§4.6). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
 
 ### 5.5.2 Healing
 
@@ -267,7 +267,7 @@ Rabble are ordinary soldiers, hired thugs, city guards, and bandit conscripts - 
 
 A Rabble is never a named character. The moment an NPC becomes plot-relevant or individually characterised, they resolve under full combat rules.
 
-**Rabble have no Fate Point access.** They cannot spend PP on any option from the menu in §4.7.
+**Rabble have no Fate Point access.** They cannot spend PP on any option from the menu in §4.6.
 
 For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" villain mechanic, see §9.1.
 
@@ -279,7 +279,7 @@ A character at 0 HP or below may attempt one last act before falling.
 
 **Actions already spent.** If the character has exhausted their action for the round when the killing wound arrives, the Dying Blow is still available, but the Stamina roll is Difficult (halved).
 
-A Dying Blow cannot be a defensive action. It can trigger a Fate Point spend, including Deflect the Killing Blow (see §4.7.7).
+A Dying Blow cannot be a defensive action. It can trigger a Fate Point spend, including Deflect the Killing Blow (see §4.6.8).
 
 ## 5.10 Reading the Crit Tables
 
@@ -315,7 +315,7 @@ A higher matching-dice value is only accessible to characters whose skill (after
 
 ### 5.10.3 Find the Roll
 
-Within the damage type table and severity band column, roll 1D100 and read the result. A character who has received a lethal crit may spend PP (§4.7) after hearing the result but before it takes full effect.
+Within the damage type table and severity band column, roll 1D100 and read the result. A character who has received a lethal crit may spend PP (§4.6) after hearing the result but before it takes full effect.
 
 ### 5.10.4 Criticals and Rabble
 
