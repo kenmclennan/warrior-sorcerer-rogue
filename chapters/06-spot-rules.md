@@ -374,9 +374,9 @@ These practices prevent the tactical pace from slowing as players and GM lose tr
 
 **Let the players describe their victories.** When a PC lands a critical hit or drops an opponent, ask the player what it looks like. "What does that look like - how did you take him down?" This is not a time cost; it is a pacing beat that also enriches the fiction, makes the player feel the weight of the moment, and gives the table a breath between the peaks of the action.
 
-**Rabble go down fast.** The Rabble rule (§5.8) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on.
+**Rabble go down fast.** The Rabble rule (§9.2) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on.
 
-**Keep the sorcerer in the picture.** The interruption risk from melee (§5.6.4) needs active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to reach her INT initiative tick without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
+**Keep the sorcerer in the picture.** The interruption risk from melee (§5.9) needs active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to reach her INT initiative tick without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
 
 ## 6.11 Group Stealth and Concealment
 

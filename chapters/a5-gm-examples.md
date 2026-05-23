@@ -305,7 +305,7 @@ Per §7.2.3: the spell resolves on Karash's **INT initiative** this round (§5.1
 
 **Initiative rolls.** Karash rolls 1D10 + INT 16 = 5 + 16 = **INT 21**. The mercenary rolls 1D10 + DEX 12 = 7 + 12 = **DEX 19**. Khess and Orryn roll higher than the mercenary and engage the close-range threats first.
 
-**The GM notes:** Karash must reach initiative 21 without taking a hit (§5.6.4 - any wound before the cast resolves causes the spell to fail and the PP are spent). The mercenary's DEX 19 is one tick lower, and Khess and Orryn are tying him up. Karash is clear.
+**The GM notes:** Karash must reach initiative 21 without taking a hit (§5.9 - any wound before the cast resolves causes the spell to fail and the PP are spent). The mercenary's DEX 19 is one tick lower, and Khess and Orryn are tying him up. Karash is clear.
 
 **At initiative 21:** Karash casts. The player spends 3 PP (pool drops to 9). No roll is made for the casting itself.
 

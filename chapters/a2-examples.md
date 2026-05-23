@@ -210,7 +210,7 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 **Rabble A and Rabble B** (hired swords):
 
 - HP 9 each, DEX 11, Sword 35%
-- _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a Rabble (§5.8)._
+- _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a Rabble (§9.2)._
 - _No PP. No Fate Point access._
 
 ### A2.2.2 Round 1: Initiative and Casting
@@ -240,7 +240,7 @@ She moves from the entry of the alley to Davan's flank (Short Move - no initiati
 
 > Is 47 a matching-dice value? No (matching values are 11, 22, 33, 44, 55, 66, 77, 88). It is a normal success.
 >
-> Khess's player considers a Critical Buy. The nearest matching value below 47 within her skill (62%) is 44. Cost: 47 - 44 = **3 PP.** She has 9 PP remaining (13 - 4 for The Quiet Knife = 9). She pays 3 PP. Her roll is now treated as **44** - a Critical Success. Severity band: 44 = Band C (see §A1.1.2 and §5.10.2).
+> Khess's player considers a Critical Buy. The nearest matching value below 47 within her skill (62%) is 44. Cost: 47 - 44 = **3 PP.** She has 9 PP remaining (13 - 4 for The Quiet Knife = 9). She pays 3 PP. Her roll is now treated as **44** - a Critical Success. Severity band: 44 = Band C (see §A1.1.2 and §A1.1.2).
 
 Khess's player announces: _"She bought that critical. Dagger, Pierce type."_ No defence is available because of The Quiet Knife talent.
 
@@ -279,7 +279,7 @@ The GM rolls 1d10 on Pierce, Band B: result is **3**. The entry reads: _"The bla
 
 Maximum dagger damage on the crit: 1D4+2 = 4+2 = **6.** Plus +4 bonus damage = **10 damage.** Rabble B's half-HP threshold is 5. 10 exceeds 5. **Rabble B is automatically incapacitated.** He drops to the cobblestones, arm hanging useless.
 
-**At initiative 23 (Davan).** He is at 0 HP, dying, his stun with 1 round remaining. He declares a **Dying Blow** (§5.9). Stamina roll (CON x5): CON 12, so 60%. He rolls **37.** Success. He gets one final Difficult action.
+**At initiative 23 (Davan).** He is at 0 HP, dying, his stun with 1 round remaining. He declares a **Dying Blow** (§5.11). Stamina roll (CON x5): CON 12, so 60%. He rolls **37.** Success. He gets one final Difficult action.
 
 He shouts in a ragged voice: _"Syndicate! The Knife is here! Salt Causeway!"_ - alerting any Syndicate members within earshot. Shouting is not a roll-dependent task; the GM rules the warning is out. Davan collapses.
 
@@ -298,12 +298,12 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 ### A2.2.5 What the Example Demonstrated
 
 - **Initiative** (§5.1): 1D10 + DEX gave Khess a high initiative (24) and let her act before Davan despite his action being declared first in the narration. Karash's 1D10 + INT (26) put his cast at the top of the round.
-- **Rabble incapacitation** (§5.8): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
+- **Rabble incapacitation** (§9.2): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
 - **The Quiet Knife talent** (§2.7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
 - **Critical Buy** (§4.6.1): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
 - **§A1 lookup** (§A1.3): Band C Pierce, 1d10 = 5. Result: pierced lung, stunned 2 rounds, terrible breathing. Read aloud, resolved immediately.
 - **Fate Point: not spent** - Davan was reduced to 0 HP before he could spend PP on Deflect the Killing Blow (which requires minimum 8 PP; he had 9). His player chose not to spend, because it would leave him alive with 1 HP and surrounded by enemies.
-- **Dying Blow** (§5.9): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
+- **Dying Blow** (§5.11): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
 - **Corruption roll** (§7.3.3): Karash cast a low-intensity spell and succeeded his Corruption roll. Nothing lost this round.
 
 ## A2.3 Sorcery Example: Karash Casts the Curse

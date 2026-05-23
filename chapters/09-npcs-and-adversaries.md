@@ -3,7 +3,7 @@
 > _"There were at least a score of them - hard, lean, wolfish men, with a sprinkling of black-bearded nomads among them."_
 > _- Robert E. Howard_
 
-This chapter covers stat block formats, design principles, and ready-to-use examples for the three tiers of human enemy: Rabble, professionals, and named antagonists. The player-facing Rabble rule is in §5.8; this chapter is the GM's side.
+This chapter covers stat block formats, design principles, and ready-to-use examples for the three tiers of human enemy: Rabble, professionals, and named antagonists. The combat chapter keeps a brief Rabble pointer in §5.5.1; the full Rabble rule and stat-block format are below.
 
 ## 9.1 The Three-Tier Model
 
@@ -69,7 +69,9 @@ No Fate Point access.
 
 **Cumulative threshold.** Total damage taken, not per-blow. A Rabble with 8 HP is incapacitated at 4 HP cumulative - whether from one solid hit or three scratches.
 
-**Critical hits.** Full damage ignoring armour (§5.10.4). If cumulative damage reaches the threshold, incapacitated immediately. Crit table results are colour only - the GM may narrate severed limbs or grievous wounds for flavour, but no §A1 entry needs to be consulted.
+**Critical hits — Rabble receiving.** Rabble do not consult the crit tables when struck. A critical inflicts maximum damage ignoring armour; if cumulative damage reaches the incapacitation threshold, the Rabble is done. The crit table may be consulted for descriptive colour only.
+
+**Critical hits — Rabble inflicting.** A Rabble who rolls matching dice within their skill (or 01) inflicts a critical normally. The PC may defend; if the attack lands, the §A1 table is consulted, maximum damage applies, and armour is ignored. Rabble cannot Critical Buy (no Fate Point access), and their natural skill cap (typically 30-50%) limits them to Band A or B - an exceptionally skilled Rabble at 50+ may reach Band C, but Bands D and E require skill 66+ and 88+ respectively, above the tier's design envelope.
 
 **Describing incapacitation.** Not always lethal. A bandit struck by a sword might be dead; the same bandit knocked sprawling by a half-spent blow is unconscious. City guardsmen beaten down create a different problem than twelve dead ones. Let the fiction determine what "incapacitated" looks like.
 
@@ -184,7 +186,7 @@ Sorcerer-villain antagonists have a Corruption track and may have a Patron Score
 
 **Spells in memory.** Two or three spells, total levels not exceeding half INT (consistent with the PC rule in §2.10.2).
 
-**Casting under pressure.** Sorcerer antagonists follow §7.2 and share the combat interruption risk (§5.6.4). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
+**Casting under pressure.** Sorcerer antagonists follow §7.2 and share the combat interruption risk (§5.9). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
 
 **Corruption as a signal.** Corruption level shows how far the sorcerer has gone. Near the Breaking Point means they have sold something fundamental - let that show in their behaviour and decisions.
 

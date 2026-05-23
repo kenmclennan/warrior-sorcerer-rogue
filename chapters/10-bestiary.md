@@ -55,7 +55,7 @@ The Great Wolf is a legendary fight. When defeated, its pelt is a relic worth a 
 
 **Special Abilities** - Distinctive powers, immunities, or conditions not covered by standard combat.
 
-**Morale** - When the creature breaks, flees, or fights to the death. Rabble (§5.8) are incapacitated at half HP. Named creatures and those listed as "does not flee" are full combatants.
+**Morale** - When the creature breaks, flees, or fights to the death. Rabble (§9.2) are incapacitated at half HP. Named creatures and those listed as "does not flee" are full combatants.
 
 ### 10.1.1 Rabble and Creatures
 
@@ -109,7 +109,7 @@ Larger and more solitary than a lion, the tiger is a forest and riverside hunter
 - **Damage Modifier:** +2D6
 - **Attacks:** Bite 60% / 1D10+dm (Pierce); Claw 65% / 1D8+dm (Slash). May make both attacks in the same round.
 - **Special Abilities:**
-  - _Ambush Hunter._ A tiger that attacks from cover or from above has Easy attacks on the first round, and targets may not parry or dodge (they are treated as surprised, per §5.6.2).
+  - _Ambush Hunter._ A tiger that attacks from cover or from above has Easy attacks on the first round, and targets may not parry or dodge (they are treated as surprised, per §5.6.1).
   - _Rake._ On a successful grapple, the tiger rakes with both hind claws for 1D6+dm each, Slash.
 - **Morale:** Withdraws after significant injury; returns later from a different angle if hungry enough.
 
