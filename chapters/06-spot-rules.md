@@ -76,7 +76,7 @@ The following are representative ancient-world poisons for GM use. POT values as
 
 Sword & sorcery is thick with alchemy: lotus-vials in a sorcerer's sleeve; the bitter resin that lets a mercenary captain march another day on no sleep; dream-reeds the tomb-finder consults before breaking a seal. Where the BRP UGE source leaves these implicit, WSR makes them part of the toolkit.
 
-Craft (Apothecary) (§3.3.8) prepares and recognises these substances. Medicine (§3.3.25) administers them. Most use the Resistance Table - POT vs CON - the same as the poison system in §6.2. Effects are time-limited unless noted; some substances are addictive (see §6.3.3).
+Craft (Apothecary) (§3.4.8) prepares and recognises these substances. Medicine (§3.4.25) administers them. Most use the Resistance Table - POT vs CON - the same as the poison system in §6.2. Effects are time-limited unless noted; some substances are addictive (see §6.3.3).
 
 ### 6.3.1 Healing Herbs
 
