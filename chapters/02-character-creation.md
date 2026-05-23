@@ -1,4 +1,4 @@
-# 2. Character Creation
+# 2 Character Creation
 
 ## 2.1 Overview
 

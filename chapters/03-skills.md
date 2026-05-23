@@ -505,7 +505,7 @@ Following the trail of a person, animal, or vehicle across terrain. Track covers
 
 Roll Track when the character is actively following a trail and the quarry's passage is not obvious. The GM may call for Track as a concealed roll when a character might notice a trail without specifically looking.
 
-## 5. Acting Without a Skill
+## 3.5 Acting Without a Skill
 
 A character who lacks a skill can still attempt the task. The GM chooses one of two fallbacks:
 
@@ -515,7 +515,7 @@ A character who lacks a skill can still attempt the task. The GM chooses one of 
 
 Neither fallback earns an experience checkmark.
 
-## 6. The Skill Rating Table
+## 3.6 The Skill Rating Table
 
 | Rating  | Descriptor | What it means in practice                                                             |
 | ------- | ---------- | ------------------------------------------------------------------------------------- |
