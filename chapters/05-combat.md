@@ -165,15 +165,23 @@ Shields are both weapons (use Shield skill to attack) and parrying tools (use Sh
 
 ## 5.5 Wounds
 
-### 5.5.1 Damage and Falling
+### 5.5.1 Taking Damage
 
 Damage is subtracted from current HP. Combat continues at any positive HP - the character keeps acting, parrying, casting, regardless of the wound count. The genre tolerates beating, blood, and exhaustion right up until the moment a character drops.
 
 **Critical attack.** A critical hit applies the appropriate §A1 entry in addition to its damage. The §A1 entry is the wound - its stated duration, impairment, and permanence are authoritative. Crit-driven wounds are the only source of permanent injury in WSR; ordinary damage just accumulates as HP loss.
 
+**Reeling Blows.** When a non-critical attack deals damage equal to or greater than the defender's **half max HP** in a single blow, the defender is **Reeling**. Until their next action resolves:
+
+- Their next action is at Difficult.
+- They may move no more than a Short Move.
+- Their next parry or dodge is at an additional -30% beyond any cumulative penalty already applied.
+
+A Reeling blow is the heavy strike that doesn't quite get through your guard cleanly: you took the wound, but it broke your rhythm. The attacker presses the advantage on the next exchange. Critical attacks do not trigger Reeling - the §A1 entry replaces it. If the blow is also a crushing impact past the SIZ threshold, Knockback (§5.6.12) applies in addition.
+
 **Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
 
-**Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§10): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (§4.6). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
+**Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§5.9): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (§4.6.8). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
 
 ### 5.5.2 Healing
 
