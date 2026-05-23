@@ -138,7 +138,7 @@ Creating an artifact requires three things: time, permanent POW, and a specific 
 
 Anyone can use a properly keyed artifact, not only sorcerers. The user activates what the creator has already bound - no casting required.
 
-**Activation:** To activate a spell bound in an artifact, the user concentrates for one combat round (a full action) and draws on the artifact's PP reservoir. The artifact deducts the spell's standard PP cost from its own reservoir. The effect triggers on Phase Two of the next round (same timing as standard sorcery, per §7.2.3).
+**Activation:** To activate a spell bound in an artifact, the user concentrates for one combat round (a full action) and draws on the artifact's PP reservoir. The artifact deducts the spell's standard PP cost from its own reservoir. The effect resolves on the user's INT initiative in the following round (treated as a Pending Power per §5.1).
 
 **Who can attune:** Physical contact for one uninterrupted hour plus a successful POW roll. No PP cost. Multiple people can be attuned; the creator is always considered attuned.
 

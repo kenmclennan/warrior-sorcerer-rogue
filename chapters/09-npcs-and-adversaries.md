@@ -184,7 +184,7 @@ Sorcerer-villain antagonists have a Corruption track and may have a Patron Score
 
 **Spells in memory.** Two or three spells, total levels not exceeding half INT (consistent with the PC rule in §2.10.2).
 
-**Casting under pressure.** Sorcerer antagonists follow §7.2 and share the combat interruption risk (§5.6.5). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
+**Casting under pressure.** Sorcerer antagonists follow §7.2 and share the combat interruption risk (§5.6.4). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
 
 **Corruption as a signal.** Corruption level shows how far the sorcerer has gone. Near the Breaking Point means they have sold something fundamental - let that show in their behaviour and decisions.
 

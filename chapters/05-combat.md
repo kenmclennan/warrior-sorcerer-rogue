@@ -2,48 +2,62 @@
 
 ## 5.1 The Combat Round
 
-Each combat round represents twelve seconds of action, divided into four phases resolved in sequence.
+Each combat round represents twelve seconds of action and runs through these steps:
 
-**Combat Round Sequence**
+1. **Initiative.** At the start of the round, every combatant rolls **1D10 + DEX** to determine their initiative for physical actions. Sorcerers who plan to cast a spell also roll **1D10 + INT** for their casting initiative. Reroll fresh each round.
 
-1. **Statements.** All participants declare intent in reverse DEX order (lowest DEX declares first).
-2. **Powers.** Spells and power-based actions resolve in DEX order.
-3. **Action.** Attacks, parries, dodges, and movement resolve in descending DEX order.
-4. **Resolution.** Ongoing effects apply; next round begins.
+2. **Pending Powers resolve.** Non-instantaneous spells from earlier rounds (rituals, multi-round summons) take effect now, before any new actions.
 
-### 5.1.1 Phase One: Statements
+3. **Action.** Combatants act in descending initiative order. On their tick, a character takes one action (see §5.2 Combat Actions). A sorcerer casting a spell acts on their **INT initiative**; everything else uses the **DEX initiative**. Parries and dodges are reactions, not actions, and happen in response to incoming attacks regardless of initiative.
 
-Every participant declares their intended action. Lower DEX declares first; higher DEX declares last (more information, later commitment).
+4. **Resolution.** Apply ongoing effects (bleeding, expiring conditions, end-of-round bookkeeping). The round ends.
 
-Typical actions: move and attack, hold position and attack, disengage, perform a non-combat action, cast a spell (in Phase Two), or fight defensively.
+**Ties.** The character with the higher relevant skill acts first. If still tied, simultaneous. Within a single initiative count for melee attacks, weapon length matters: missiles before long weapons, long before medium, medium before short and unarmed.
 
-Declarations are intentions, not contracts. A character may change their action when their turn arrives in Phase Three, but only based on events that have already occurred - not by waiting to see what a faster character does.
+**Delaying.** A character may delay their action to act at any lower initiative count in the same round. Once delayed, they cannot return to their original count. A character who delays past initiative 1 loses their action for the round.
 
-**Ties in DEX:** if two characters share the same DEX, the character with the higher relevant weapon skill declares last. If still tied, both declare simultaneously.
+**Multiple actions in a round.** A character with a weapon skill above 100% (§4.1.4) or other circumstance permitting a second action takes the second action 5 initiative counts below the first.
 
-### 5.1.2 Phase Two: Powers
+## 5.2 Combat Actions
 
-Spells and power-based abilities resolve in DEX order. A spell takes effect before melee strikes in Phase Three, unless the caster is interrupted (see §7.5).
+**Engaged or unengaged.** A character is **engaged** when they are within striking distance of an opponent who can attack them and committed to the close-quarters melee. They are **unengaged** when they are not - free to move, take non-combat actions, ready a missile weapon, or stand outside the close fight. Engagement status determines which actions are available and what defences apply.
 
-### 5.1.3 Phase Three: Action
+On their initiative tick, a character may take **one** of the following actions:
 
-Characters act in descending DEX order. Within a DEX rank, resolve in weapon-length order: missiles before long weapons, long before medium, medium before short and unarmed.
+- **Attack.** Make one melee or missile attack against a target in range (see §5.3).
+- **Cast a spell.** Acts on the caster's INT initiative. The spell resolves at that tick. See §7 for sorcery rules.
+- **Move.** See §5.2.1 below.
+- **Engage.** Close to hand-to-hand range with a chosen opponent and make a single attack at no penalty - a combined move-and-attack into close combat. See §5.2.2.
+- **Disengage.** Break out of close combat. See §5.2.3.
+- **Non-combat action.** Draw a weapon, open a door, fish a vial from a pouch, address a crowd. Only available to an unengaged character; an engaged character cannot safely take their eyes off the fight.
 
-**Delaying action.** A character may delay their action, acting at any lower DEX rank in the same round. Once delayed, they cannot return to their original rank. A character who delays to after the last rank loses their action for the round.
+**Free at any time:**
 
-### 5.1.4 Phase Four: Resolution
+- **Parry or Dodge.** React to an incoming attack with a defensive roll (§5.3.3, §5.3.4). No declaration required.
+- **Fight defensively.** Declare instead of attacking; gain one free dodge that does not count against the cumulative parry/dodge penalty stack (§5.3.6).
+- **Speak.** A short sentence. No cost.
 
-Apply ongoing effects: bleeding, expiring conditions, end-of-round bookkeeping. The next round begins.
-
-## 5.2 Movement
+### 5.2.1 Movement
 
 Movement in combat is described, not measured. Three categories cover most situations:
 
-**Short Move.** Within the immediate area. Acts at normal DEX rank.
+- **Short Move.** Within the immediate area. No initiative penalty; combines freely with an Attack on the same tick.
+- **Long Move.** Across a significant portion of the fighting ground. Halves the character's initiative this round (round down).
+- **Full Sprint.** Maximum speed. Reduces initiative to a quarter (round down). Cannot attack; defensive actions only if directly threatened.
 
-**Long Move.** Across a significant portion of the fighting ground. Acts at half DEX rank (round down).
+### 5.2.2 Engaging
 
-**Full Sprint.** Maximum speed. Acts at quarter DEX rank (round down); cannot attack; defensive actions only if directly threatened.
+Moving from unengaged to engaged costs a Short Move and may be combined with a single attack on the same initiative tick.
+
+### 5.2.3 Disengaging
+
+Breaking out of close combat is dangerous. Choose one method:
+
+1. **Fight withdrawal.** Spend the entire round in defensive action only (parries and dodges). If every attack against the character is successfully parried or dodged, the character is disengaged at the end of the round.
+
+2. **Knocked-back disengage.** If a Crushing critical has knocked the character prone (see §A1.1.4 _Knocked down_), they may attempt a Dodge immediately. Success: the character rolls away and is disengaged. Failure: they remain prone and engaged.
+
+3. **Turn and run.** The character turns and moves. This abandons all defence: the opponent gets one immediate attack against the fleeing character that cannot be parried or dodged.
 
 ## 5.3 Attack and Defence
 
@@ -90,7 +104,7 @@ When a critical attack lands and there is no successful defence: determine the s
 
 ### 5.3.6 Fighting Defensively
 
-A character who forgoes all attacks for the round gains one additional Dodge that costs no -30% penalty. They may still parry normally (with cumulative penalties), and the free dodge does not count toward the parry penalty track. Declare at the start of Phase Three.
+A character who forgoes all attacks for the round gains one additional Dodge that costs no -30% penalty. They may still parry normally (with cumulative penalties), and the free dodge does not count toward the parry penalty track. Declare on the attacker's initiative tick.
 
 ### 5.3.7 Missile Weapons
 
@@ -119,9 +133,9 @@ The GM determines which band applies based on the description of the scene.
 
 ### 5.3.8 Multiple Attacks
 
-A character whose weapon skill exceeds 100% may split that skill into multiple attacks, each at a minimum effective skill of 50%. Additional attacks resolve at -5 DEX rank intervals after the first. No single attack may exceed the character's full skill rating.
+A character whose weapon skill exceeds 100% may split that skill into multiple attacks, each at a minimum effective skill of 50%. Additional attacks resolve at -5 initiative count intervals after the first. No single attack may exceed the character's full skill rating.
 
-**Example.** A warrior with Sword 110% may attack twice: once at 110% on their normal DEX rank and once at 50% at DEX -5. Or they may choose 70%/70% (any split summing to the base, each at minimum 50%). The second attack comes at -5 DEX ranks from the first.
+**Example.** A warrior with Sword 110% may attack twice: once at 110% on their normal initiative count and once at 50% -5 initiative. Or they may choose 70%/70% (any split summing to the base, each at minimum 50%). The second attack comes at -5 initiative counts from the first.
 
 ## 5.4 Damage and Armour
 
@@ -171,27 +185,15 @@ Sorcerous healing exists as rare, costly spells in the sorcery list (see §7.3).
 
 ## 5.6 Common Combat Situations
 
-### 5.6.1 Engaging and Disengaging
+### 5.6.1 Knockout and Subdual
 
-**Engaging.** Moving into hand-to-hand range costs a Short Move. An engaged character is within weapon's reach and subject to melee attack without penalty.
+**Knockout attack.** Declare on the attacker's initiative tick. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). §A1 critical effects do not apply to Knockout criticals - the result is the unconsciousness rule above, not the brutal wounds of a lethal critical. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
 
-**Disengaging.** Breaking out of melee is dangerous. Choose one method:
-
-1. **Fight withdrawal.** Spend the entire round in defensive action only (parries and dodges). If every attack against the character is successfully parried or dodged, the character is disengaged at the end of the round.
-
-2. **Knocked-back disengage.** If a Crushing critical has knocked the character prone (see §A1.1.4 _Knocked down_), they may attempt a Dodge immediately. Success means the character rolls away and is disengaged; failure means they remain prone and engaged.
-
-3. **Turn and run.** The character turns and moves. This abandons all defence: the opponent gets one immediate attack against the fleeing character that cannot be parried or dodged.
-
-### 5.6.2 Knockout and Subdual
-
-**Knockout attack.** Declare at the start of Phase Three. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). §A1 critical effects do not apply to Knockout criticals - the result is the unconsciousness rule above, not the brutal wounds of a lethal critical. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
-
-**Subduing.** Declare at the start of Phase Three. The attacker reduces the damage dice or omits the damage modifier, to a minimum of 1D2.
+**Subduing.** Declare on the attacker's initiative tick. The attacker reduces the damage dice or omits the damage modifier, to a minimum of 1D2.
 
 **Grapple and restrain.** A successful Grapple roll (Brawl or Grapple skill) establishes a hold. The restrained character must make an opposed STR vs. STR or DEX vs. DEX resistance roll to break free (their choice). An immobilised character cannot attack but can still speak.
 
-### 5.6.3 Surprise
+### 5.6.2 Surprise
 
 A completely unaware character cannot parry or dodge; the attacker gains an Easy roll. A partially surprised character (knew a fight was possible but did not see this attack) may attempt a Difficult parry or dodge.
 
@@ -199,39 +201,39 @@ When both sides are surprised, an opposed Spot or Listen roll determines who act
 
 **Ambush.** Hidden attackers get Easy attacks on the first round. Victims may not parry or dodge until the following round - unless some succeed at a Spot or Listen roll before the attack lands, in which case those individuals may defend normally.
 
-### 5.6.4 Multiple Attackers
+### 5.6.3 Multiple Attackers
 
 No more than five human-sized opponents can meaningfully engage a single target simultaneously. Large weapons reduce this number further. Attackers beyond the limit are crowded out.
 
 When a character is attacked by more opponents than they have parry and dodge attempts remaining, some attacks land undefended. Choose which to defend; the rest hit automatically.
 
-### 5.6.5 Casting in Combat
+### 5.6.4 Casting in Combat
 
-A sorcerer struck before Phase Two resolves must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if they act first. Disengage first or accept the risk.
+A sorcerer struck before their spell resolves on their INT initiative must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if their INT initiative beats the attacker's DEX initiative - any attack that connects before the casting tick is enough. Disengage first or accept the risk.
 
 See §7.2 for full sorcery casting rules.
 
-### 5.6.6 Close Combat and Weapon Length
+### 5.6.5 Close Combat and Weapon Length
 
-Long weapons attack first within a DEX rank. Once a short-weapon fighter closes to grappling distance, long-weapon parries become Difficult and the full reach cannot be used. To close, the short-weapon fighter must survive the initial strike (long weapon attacks first in that exchange); subsequent rounds at close range penalise the long-weapon fighter.
+Long weapons attack first within a initiative count. Once a short-weapon fighter closes to grappling distance, long-weapon parries become Difficult and the full reach cannot be used. To close, the short-weapon fighter must survive the initial strike (long weapon attacks first in that exchange); subsequent rounds at close range penalise the long-weapon fighter.
 
 Daggers and unarmed strikes are unaffected by close quarters. Two-handed polearms may be unusable in tight spaces.
 
-### 5.6.7 Cover
+### 5.6.6 Cover
 
 Partial cover (a door-frame, a low wall, a fallen pillar) makes attacks against the covered character Difficult. If the attack roll falls between the modified skill (with Difficult applied) and the unmodified skill, the cover is struck instead. Damage that exceeds the cover's structural integrity passes through.
 
 A character who is kneeling or prone behind a full shield or wall gains substantial cover. The GM determines coverage based on description.
 
-### 5.6.8 Fighting While Down
+### 5.6.7 Fighting While Down
 
 All attacks, parries, and dodges are Difficult while prone; attacks against the character are Easy. Rising takes an attack slot, during which these penalties still apply.
 
-**Difficult Dodge to rise.** A prone character may attempt a Difficult Dodge on their DEX rank. Success: they rise and may still attack. Failure: they remain prone.
+**Difficult Dodge to rise.** A prone character may attempt a Difficult Dodge on their initiative count. Success: they rise and may still attack. Failure: they remain prone.
 
-### 5.6.9 Aimed Attacks
+### 5.6.8 Aimed Attacks
 
-For every 5 DEX ranks spent delaying, add +10% to the attack skill, up to the base skill maximum. Announce at the start of Phase Three; count off the ranks openly.
+For every 5 initiative counts spent delaying, add +10% to the attack skill, up to the base skill maximum. Announce when delaying begins; count off the initiative ticks openly.
 
 ## 5.7 Damage Types
 
@@ -275,7 +277,7 @@ For Rabble stat blocks, the three-tier NPC model, and the "Look Out Master!" vil
 
 A character at 0 HP or below may attempt one last act before falling.
 
-**Declaring a Dying Blow.** On their DEX rank, declare the Dying Blow and make a Stamina roll (CON x5). On a success, take one final action - a single attack, a warning shout, a dropped potion, the triggering of a prepared sorcerous effect. The action is Difficult. After it resolves, the character falls unconscious and is dying as normal.
+**Declaring a Dying Blow.** On their initiative tick, declare the Dying Blow and make a Stamina roll (CON x5). On a success, take one final action - a single attack, a warning shout, a dropped potion, the triggering of a prepared sorcerous effect. The action is Difficult. After it resolves, the character falls unconscious and is dying as normal.
 
 **Actions already spent.** If the character has exhausted their action for the round when the killing wound arrives, the Dying Blow is still available, but the Stamina roll is Difficult (halved).
 

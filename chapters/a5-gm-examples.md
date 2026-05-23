@@ -295,17 +295,19 @@ _The GM calculates this silently; the resistance roll is disclosed once casting 
 
 **5. What is the casting drama?**
 
-Magic is theatrical (design.md §2.2). The GM describes Karash's casting signature before the dice: "The air thickens. The shadow from that wall lamp isn't falling right. The mercenary blinks. What are you doing?" This is also tactical information: the mercenary (a professional, not a Rabble) will attempt to close range in the Statements phase of the next round if the spell fails.
+Magic is theatrical (design.md §2.2). The GM describes Karash's casting signature before the dice: "The air thickens. The shadow from that wall lamp isn't falling right. The mercenary blinks. What are you doing?" This is also tactical information: the mercenary (a professional, not a Rabble) will close range next round if the spell fails.
 
-### A5.4.2 Casting Phase and Roll
+### A5.4.2 Initiative and Casting
 
-Per §7.2.2: the casting occurs in Phase Two of the round (Powers phase). The spell's full effect (if it takes hold) resolves at the end of Phase Two.
+Per §7.2.3: the spell resolves on Karash's **INT initiative** this round (§5.1). The cost is paid and the effect fires when his tick comes up - sorcery casting is automatic for memorised spells (§7.2.2); the only risk is being interrupted before the tick.
 
 **Karash's player declares:** "Casting Bind the Raging Heart, Intensity 3, targeting the mercenary."
 
-**The GM notes:** Karash must make it to Phase Two without taking a hit (§5.6.5 - any wound during Phase One before the cast completes causes the spell to fail and the PP are spent). The GM checks whether any attacker has declared against Karash in Phase One. They have not - Khess and Orryn drew the close-range threats. Karash is clear.
+**Initiative rolls.** Karash rolls 1D10 + INT 16 = 5 + 16 = **INT 21**. The mercenary rolls 1D10 + DEX 12 = 7 + 12 = **DEX 19**. Khess and Orryn roll higher than the mercenary and engage the close-range threats first.
 
-**Phase Two:** Karash casts. The player spends 3 PP (pool drops to 9). No roll is made for the casting itself (sorcery casting in WSR is automatic for memorised spells - the cost is paid and the effect fires; per §7.2.2).
+**The GM notes:** Karash must reach initiative 21 without taking a hit (§5.6.4 - any wound before the cast resolves causes the spell to fail and the PP are spent). The mercenary's DEX 19 is one tick lower, and Khess and Orryn are tying him up. Karash is clear.
+
+**At initiative 21:** Karash casts. The player spends 3 PP (pool drops to 9). No roll is made for the casting itself.
 
 **The resistance roll:** The GM rolls the mercenary's POW resistance against the 30% base chance. **Result: 44.** 44 exceeds 30%. The mercenary resists. The spell does not take hold.
 

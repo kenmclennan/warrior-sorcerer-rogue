@@ -130,7 +130,7 @@ Fire causes HP damage each round of exposure. Armour provides protection for the
 | Building fire (room fully alight)                    | 2D6 HP           | Plus smoke inhalation (see §4.2). Character automatically catches fire unless armoured. |
 | Intense fire (forge, molten metal, alchemical flame) | 3D6 HP           | Character automatically catches fire; armour provides no protection from the heat.      |
 
-**Catching fire.** Ongoing 1D4 HP per round at the start of each Phase Four. Putting out the fire: full round of action (rolling on ground, dousing, stripping burning clothing). All rolls Difficult while on fire.
+**Catching fire.** Ongoing 1D4 HP per round at the end of each round. Putting out the fire: full round of action (rolling on ground, dousing, stripping burning clothing). All rolls Difficult while on fire.
 
 **Burning characteristics.** If fire damage in a single round exceeds one-quarter current HP: Luck roll. Failure: roll 1D6 to determine affected characteristic (1=STR, 2=DEX, 3=APP/CHA, 4=CON, 5-6=HP only); lose 1D4 points. Repeated failures accumulate.
 
@@ -362,7 +362,7 @@ The four range bands - Near, Normal, Far, Extreme - are defined in §5.3.7 and g
 
 **Extreme** is the edge of the weapon's capability. The extreme range of a war bow is hundreds of metres; the extreme range of a thrown dagger is perhaps fifteen. If a player asks to make a shot that requires you to say "that is genuinely the limit of what this weapon can do," it is Extreme. Apply the 1/5 skill cap.
 
-**Moving between bands.** A character who wants to close from Far to Normal must move; that is at least a Long Move, which delays their DEX rank by half. A character who wants to move from Near to Normal must disengage (see §5.6.1). These costs make range management a meaningful tactical dimension without requiring measurement.
+**Moving between bands.** A character who wants to close from Far to Normal must move; that is at least a Long Move, which halves their initiative this round. A character who wants to move from Near to Normal must disengage (see §5.2.3). These costs make range management a meaningful tactical dimension without requiring measurement.
 
 ### 6.10.3 Keeping Tactical Pace Without a Grid
 
@@ -376,7 +376,7 @@ These practices prevent the tactical pace from slowing as players and GM lose tr
 
 **Rabble go down fast.** The Rabble rule (§5.8) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on.
 
-**Keep the sorcerer in the picture.** Sorcery's Phase Two resolution and the interruption risk from melee (§5.6.5) need active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to make it to Phase Two without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
+**Keep the sorcerer in the picture.** The interruption risk from melee (§5.6.4) needs active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to reach her INT initiative tick without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
 
 ## 6.11 Group Stealth and Concealment
 

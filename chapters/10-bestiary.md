@@ -109,7 +109,7 @@ Larger and more solitary than a lion, the tiger is a forest and riverside hunter
 - **Damage Modifier:** +2D6
 - **Attacks:** Bite 60% / 1D10+dm (Pierce); Claw 65% / 1D8+dm (Slash). May make both attacks in the same round.
 - **Special Abilities:**
-  - _Ambush Hunter._ A tiger that attacks from cover or from above has Easy attacks on the first round, and targets may not parry or dodge (they are treated as surprised, per §5.6.3).
+  - _Ambush Hunter._ A tiger that attacks from cover or from above has Easy attacks on the first round, and targets may not parry or dodge (they are treated as surprised, per §5.6.2).
   - _Rake._ On a successful grapple, the tiger rakes with both hind claws for 1D6+dm each, Slash.
 - **Morale:** Withdraws after significant injury; returns later from a different angle if hungry enough.
 
@@ -491,7 +491,7 @@ The vampire is not simply a predator. It is intelligent, patient, and in the urb
   - _Blood Drain._ A successful bite drains 1D6 STR or CON (GM's choice based on what the vampire most needs). Drained characteristics recover at 1 per day of rest. A character drained to 0 STR falls unconscious; drained to 0 CON dies.
   - _Chill Touch._ On a successful Chill Touch attack, the target loses 1D6 PP. At 0 PP, the target collapses (standard rules). The vampire does not gain these PP - they dissipate.
   - _Hypnotic Gaze._ The vampire may use an action to lock eyes with a target. The target makes a POW vs POW resistance roll. On failure, they are entranced: they cannot attack the vampire, must obey simple commands, and will not flee for POW rounds.
-  - _Regeneration._ The vampire regains 1D3 HP per round (at the end of Phase Four). This regeneration is stopped by fire damage or by running water.
+  - _Regeneration._ The vampire regains 1D3 HP per round (at the end of each round). This regeneration is stopped by fire damage or by running water.
   - _Night Sight._ Sees perfectly in all darkness.
   - _Optional Powers (select 1-3 for the specific vampire)._ Legions of the Night (commands bats, wolves, or rats in the vicinity), Mist Form (becomes insubstantial mist for Move 4; cannot attack), Shape Shift (wolf form, bat form - use relevant animal stat blocks for attacks), Spellcasting (may know 1D6 spells if ancient enough).
   - _Weaknesses._ Daylight (exposure to direct sun deals 2D6 HP per round, ignoring armour, and stops regeneration). Decapitation (instant death). Fire (stops regeneration). Sacred Earth (a vampire cannot cross a threshold made sacred by active faith - the GM determines what qualifies). Stakes (a vampire struck through the heart with a wooden stake while helpless is paralysed until the stake is removed).
@@ -682,7 +682,7 @@ The troll is nocturnal, lives in wild places, and is large, stupid in conversati
 - **Damage Modifier:** +2D6
 - **Attacks:** Great Club or Tree Trunk 65% / 2D8+dm (Krush); Bite 50% / 1D8+dm (Pierce).
 - **Special Abilities:**
-  - _Regeneration._ The troll regains 1D3 HP per round at the end of Phase Four. This regeneration is stopped by fire damage (the round it takes fire damage, no regeneration; subsequent rounds without fire resume). Sunlight burns away regeneration entirely while exposed.
+  - _Regeneration._ The troll regains 1D3 HP per round at the end of each round. This regeneration is stopped by fire damage (the round it takes fire damage, no regeneration; subsequent rounds without fire resume). Sunlight burns away regeneration entirely while exposed.
   - _Sunlight Vulnerability._ A troll caught in direct sunlight loses its regeneration and takes -20% to all actions. Prolonged exposure (more than an hour) kills older, weaker trolls.
   - _Fire Fear._ Trolls that see fire must succeed at a POW x5 roll or flee. A troll that has been set alight will try to extinguish itself first.
 - **Morale:** Fights until severely injured; retreats into darkness or toward water when near destruction. The trollwife does not flee.
@@ -800,7 +800,7 @@ _It came through the smoke of the summoning circle smelling of old metal and unf
   - _Aura of Terror._ The demon may activate its aura as a free action; costs 1 PP. All living creatures within POW metres must succeed at a POW vs POW resistance roll or be terror-stricken: all their actions are Difficult and they cannot approach the demon voluntarily. The aura lasts POW rounds.
   - _Blight._ The demon's presence corrupts the area around it over time. A location where a greater demon has spent more than a day begins to decay: food spoils, water becomes brackish, animals flee, plants wither. The effect persists for weeks after the demon's departure and takes active effort (sorcery, ritual purification, or simple time) to reverse.
   - _Regeneration._ The demon regains 1D6 HP per round. This regeneration is not stopped by fire (which it is immune to) but is stopped by silver or by sorcerous working specifically aimed at suppressing it.
-  - _Sheath of Smoke and Fire._ Costs 1 PP per round to maintain. Any creature within 2 metres of the demon takes 1D6 fire damage at the end of each Phase Four. Additionally, wooden missile weapons striking the demon have a 50% chance to ignite and deal no damage (they burn up on contact).
+  - _Sheath of Smoke and Fire._ Costs 1 PP per round to maintain. Any creature within 2 metres of the demon takes 1D6 fire damage at the end of each round. Additionally, wooden missile weapons striking the demon have a 50% chance to ignite and deal no damage (they burn up on contact).
   - _Spells._ Greater demons know sorcery. A typical greater demon knows 2D6 spells. Ancient, powerful specimens may know nearly every spell in the list. They cast from the same PP pool (typically 17) and suffer the standard PP depletion.
   - _Corruption from Presence._ See §7.3.3 (Encountering a Greater Demon unbound: 1D3 / 1D6 Corruption).
 - **Morale:** Does not retreat while bound (the binding prevents it). Unbound, it retreats only if its destruction seems probable - which takes considerable firepower. It does not forget. It comes back.
@@ -915,7 +915,7 @@ A crawling pillar of coherent flame, roughly man-shaped. Heat radiates from it i
 - **Damage Modifier:** +1D6
 - **Attacks:** Flame Touch 70% / 2D6 fire (Burn); Flame Breath 60% / 3D6 fire in a 5-metre cone (Burn).
 - **Special Abilities:**
-  - _Ignition Aura._ Any flammable material within 2 metres of the fire elemental ignites at the end of each Phase Four. Wooden weapons and shields carried by characters engaging it in melee must make Stamina rolls (CON x5) or catch fire.
+  - _Ignition Aura._ Any flammable material within 2 metres of the fire elemental ignites at the end of each round. Wooden weapons and shields carried by characters engaging it in melee must make Stamina rolls (CON x5) or catch fire.
   - _Fire Immunity._ Fire deals no damage to a fire elemental.
   - _Water Vulnerability._ Immersion in water or a large water attack (3 litres or more) deals 2D8 damage to the fire elemental and reduces its AV by 2 (cumulative) for the remainder of the encounter.
   - _Immunity._ Physical weapons deal half damage.
@@ -966,12 +966,12 @@ Roll 1D20 for one feature; roll twice (or three times) for a more monstrous crea
 | 9    | **Barbed Hide.** Any creature that grapples the creature or strikes it with an unarmed attack takes 1D4 Slash damage automatically.                                                                                                                                                                                          |
 | 10   | **Scream.** Once per combat, the creature emits a sound beyond normal hearing. All living creatures within 20 metres make CON x5 rolls or are stunned for 1D3 rounds (standard stun effects per §A1.1.4).                                                                                                                    |
 | 11   | **Void Touch.** Successful unarmed attacks drain 1D3 PP from the target (in addition to normal damage). The creature absorbs these PP into its own pool.                                                                                                                                                                     |
-| 12   | **Flame-Wreathed.** The creature burns constantly. Non-fire damage is reduced by 2 (minimum 1). Anyone within 1 metre at the end of Phase Four takes 1D4 fire damage.                                                                                                                                                        |
+| 12   | **Flame-Wreathed.** The creature burns constantly. Non-fire damage is reduced by 2 (minimum 1). Anyone within 1 metre at the end of each round takes 1D4 fire damage.                                                                                                                                                        |
 | 13   | **Tentacle Mass.** In addition to its normal attacks, the creature has 1D4 tentacles. Each tentacle may make one grapple attempt per round (no skill roll - opposed STR vs STR). A grappled target cannot act until they break free.                                                                                         |
 | 14   | **Silence.** The creature makes no sound whatsoever. Attacks from it cannot be heard and have +20% to skill against targets who are listening for approaching threats.                                                                                                                                                       |
 | 15   | **Magic Absorption.** Any sorcerous working that targets the creature and fails to overcome its POW is absorbed rather than wasted. The creature gains PP equal to the spell's cost.                                                                                                                                         |
 | 16   | **Detachable Parts.** The creature can voluntarily detach body parts (a head, a hand, an eye) as free actions. Detached parts remain animate and obey the creature's commands.                                                                                                                                               |
 | 17   | **Corrupting Gaze.** As a free action, the creature can direct its gaze at one target. That target makes a Corruption roll (sorcerers roll Corruption check; non-sorcerers roll CON x5). On failure, the target gains 1D3 Corruption immediately.                                                                            |
-| 18   | **Unnatural Speed.** The creature acts twice per round at its normal DEX rank. The second action comes at -5 DEX rank.                                                                                                                                                                                                       |
+| 18   | **Unnatural Speed.** The creature acts twice per round at its normal initiative count. The second action comes at -5 initiative count.                                                                                                                                                                                       |
 | 19   | **The Long Memory.** The creature knows everything that has happened within 100 metres of its current location for the past century. This knowledge can be bargained for. The creature does not offer it freely.                                                                                                             |
 | 20   | **True Name Resonance.** The creature's true name is written somewhere on its body in a language that must be found and read. Discovering and speaking the name causes the creature 1D10 damage per round until it retreats or is destroyed. Finding the inscription requires a Spot or Knowledge (Arcane) roll (Difficult). |

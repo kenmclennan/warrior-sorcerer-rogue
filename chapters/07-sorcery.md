@@ -50,7 +50,7 @@ See §4.5 for PP totals and recovery.
 
 ### 7.2.3 Time to Cast
 
-Casting takes one combat round, taking effect during Phase Two (§5.1.2). While casting, the sorcerer may do nothing else. Multi-round workings (rituals, demon summoning) are noted in the spell entry; they cannot be done mid-combat.
+An instantaneous spell resolves on the caster's **INT initiative** in the round it is cast (§5.1). The sorcerer's combat action for the round is the cast itself; they may not also attack or move beyond a Short Move. Multi-round workings (rituals, demon summoning) are noted in the spell entry and cannot be performed mid-combat.
 
 ### 7.2.4 Memorised Spells and the Grimoire
 

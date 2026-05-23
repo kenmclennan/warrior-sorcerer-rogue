@@ -213,42 +213,30 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 - _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a Rabble (§5.8)._
 - _No PP. No Fate Point access._
 
-### A2.2.2 Round 1: Statements and Initiative
+### A2.2.2 Round 1: Initiative and Casting
 
-The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the Rabble flank him.
+The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the Rabble flank him. Everyone rolls initiative (§5.1): 1D10 + DEX for physical actions, 1D10 + INT for the spell Karash plans to cast.
 
-**Initiative order by DEX (highest goes last in the Statements phase; acts first in Action phase):**
+**Initiative rolls (descending):**
 
-1. Khess - DEX 18 (declares last; acts first)
-2. Davan - DEX 15
-3. Orryn - DEX 13
-4. Rabble A - DEX 11
-5. Rabble B - DEX 11
-6. Karash - DEX 11
+1. Karash - 1D10 + INT 17 = 9 + 17 = **26** (casting)
+2. Khess - 1D10 + DEX 18 = 6 + 18 = **24**
+3. Davan - 1D10 + DEX 15 = 7 + 15 = **22**
+4. Orryn - 1D10 + DEX 13 = 6 + 13 = **19**
+5. Rabble B - 1D10 + DEX 11 = 5 + 11 = **16**
+6. Rabble A - 1D10 + DEX 11 = 4 + 11 = **15**
 
-**Statements phase (declared from DEX 11 upward - lowest DEX declares first):**
-
-Karash (DEX 11) declares: he will cast _Cloak of Night_ at Intensity 1 on Khess, next Phase Two.
-
-Rabble A and B declare: each will advance and attack Orryn.
-
-Orryn declares: he will engage and attack Rabble A with his sword.
-
-Davan declares: he will advance and attack Orryn with his khopesh.
-
-Khess declares last, with the most information: she will move to flank Davan and use the Quiet Knife talent.
-
-**Phase Two (Powers):**
+**At initiative 26 (Karash):**
 
 Karash casts _Cloak of Night_ at Intensity 1 (see §7.6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Move Quietly. Her Move Quietly is now effectively 71% for the duration.
 
 No Corruption roll: Intensity 1 and 2 spells trigger the Corruption roll only on failure; standard casting Corruption applies (see §7.3.3 - casting Intensity 1: 0 / 1 Corruption). Karash rolls against his Corruption of 85: he rolls 44. Success. No Corruption lost this round.
 
-**Phase Three (Action - descending DEX):**
+**Action (descending initiative):**
 
-**Khess acts first (DEX 18).** Davan has not yet acted. Khess spends 4 PP to activate _The Quiet Knife_: her attack is treated as having initiative advantage; Davan cannot parry or dodge.
+**Khess acts at initiative 24.** Davan has not yet acted. Khess spends 4 PP to activate _The Quiet Knife_: her attack is treated as having initiative advantage; Davan cannot parry or dodge.
 
-She moves from the entry of the alley to Davan's flank (Short Move - no DEX penalty). She attacks with her dagger: rolls **47** against Dagger 62%.
+She moves from the entry of the alley to Davan's flank (Short Move - no initiative penalty). She attacks with her dagger: rolls **47** against Dagger 62%.
 
 > Is 47 a matching-dice value? No (matching values are 11, 22, 33, 44, 55, 66, 77, 88). It is a normal success.
 >
@@ -262,30 +250,28 @@ Khess rolls dagger damage: 1D4+2 = 4+2 = **6.** Plus +5 bonus damage = **11 tota
 
 > The critical applies the §A1 entry: pierced lung, stunned for 2 rounds, terrible breathing. Damage knocks Davan from HP 12 to HP 1 - one more hit will drop him.
 
-**Davan acts (DEX 15).** He is stunned. A stunned character cannot attack (see §A1.1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
+**Davan's tick (initiative 22).** He is stunned. A stunned character cannot attack (see §A1.1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
 
-**Orryn acts (DEX 13).** He attacks Rabble A with his sword: rolls **39** against Sword 65%. A normal success.
+**Orryn acts at initiative 19.** He attacks Rabble A with his sword: rolls **39** against Sword 65%. A normal success.
 
 > Matching-dice check: 39 is not a matching value. Ordinary success.
 > Rabble A may attempt to parry: rolls 58 against Sword 35%. Fails (58 > 35, no matching dice - ordinary failure).
 
 Result: Success vs. Failure - Orryn's attack hits normally, armour applies. Rabble A has no armour. Orryn rolls 1D8 + dm. His damage modifier is +1D4 (STR 13 + SIZ 14 = 27; dm = +1D4). Rolls 1D8 = 5, +1D4 = 3 = **8 damage.** Rabble A has HP 9, half-HP threshold 5. 8 damage exceeds 5. **Rabble A is automatically incapacitated.** The GM narrates: he stumbles backward, sword dropping, clutching his side, and slides down the wall. He is out of the fight.
 
-**Rabble B acts (DEX 11).** He attacks Orryn: rolls **51** against Sword 35%. Fails - ordinary failure. The swing is wide.
+**Rabble B acts at initiative 16.** He attacks Orryn: rolls **51** against Sword 35%. Fails - ordinary failure. The swing is wide.
 
-**Karash acts (DEX 11).** He has already cast in Phase Two. He has no remaining action this round.
+**Rabble A's tick (initiative 15)** does not arrive - he was incapacitated on Orryn's tick. Karash has already cast and has no further action this round.
 
-**Phase Four: Ongoing effects.** Davan bleeds: 1 HP at the end of the round. He drops from HP 1 to HP 0. He is at the Fatal Wound threshold.
+**End of round - ongoing effects.** Davan bleeds: 1 HP at the end of the round. He drops from HP 1 to HP 0. He is at the Fatal Wound threshold.
 
 ### A2.2.3 Round 2: A Dying Blow and Stand Your Ground
 
 **Davan is at 0 HP.** He is dying (§5.5.1). His stun has 1 round remaining. He cannot attack. He can attempt one last act.
 
-On his DEX rank (15), Davan declares a **Dying Blow** (§5.9). He makes a Stamina roll (CON x5) to attempt one final action. His CON is 12; CON x5 = 60%. He rolls **37.** Success. He can take one final Difficult action.
+Initiative is rolled fresh. Khess rolls 1D10 + DEX 18 = 8 + 18 = **26**. Davan rolls 1D10 + DEX 15 = 8 + 15 = **23**. Orryn rolls 1D10 + DEX 13 = 7 + 13 = **20**.
 
-He shouts in a ragged voice: _"Syndicate! The Knife is here! Salt Causeway!"_ - alerting any Syndicate members within earshot. This is a noncombat action (shouting). It is Difficult, but shouting is not a roll-dependent task. The GM rules it succeeds: the warning is out. Davan collapses.
-
-**Khess acts (DEX 18).** She turns to engage Rabble B. She attacks with her dagger: rolls **22** against Dagger 62%.
+**At initiative 26 (Khess).** She turns to engage Rabble B. She attacks with her dagger: rolls **22** against Dagger 62%.
 
 > Matching-dice check: 22 is both a matching-dice value and within her skill of 62%. **Critical Success automatically.** Matching value 22 = Band B (Pierce).
 
@@ -293,7 +279,11 @@ The GM rolls 1d10 on Pierce, Band B: result is **3**. The entry reads: _"The bla
 
 Dagger damage: 1D4+2 = 3+2 = **5.** Plus +4 bonus damage = **9 damage.** Rabble B's half-HP threshold is 5. 9 exceeds 5. **Rabble B is automatically incapacitated.** He drops to the cobblestones, arm hanging useless.
 
-**Orryn acts (DEX 13).** Both Rabble are down. He moves to Davan, who is at HP 1, gravely wounded and labouring to breathe from the lung-puncture. He delivers First Aid. First Aid 40%: he rolls **28.** Success. He binds the wound and stabilises Davan - alive at HP 1, helpless, and now a prisoner. The party has someone to question.
+**At initiative 23 (Davan).** He is at 0 HP, dying, his stun with 1 round remaining. He declares a **Dying Blow** (§5.9). Stamina roll (CON x5): CON 12, so 60%. He rolls **37.** Success. He gets one final Difficult action.
+
+He shouts in a ragged voice: _"Syndicate! The Knife is here! Salt Causeway!"_ - alerting any Syndicate members within earshot. Shouting is not a roll-dependent task; the GM rules the warning is out. Davan collapses.
+
+**At initiative 20 (Orryn).** Both Rabble are down. He moves to Davan, who is at HP 0, gravely wounded and labouring to breathe from the lung-puncture. He delivers First Aid. First Aid 40%: he rolls **28.** Success. He binds the wound and stabilises Davan - alive at HP 1, helpless, and now a prisoner. The party has someone to question.
 
 ### A2.2.4 Combat Bookkeeping: Where the PP Went
 
@@ -307,7 +297,7 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 
 ### A2.2.5 What the Example Demonstrated
 
-- **Strike Ranks / Initiative** (§5.1): DEX order determined who declared last and acted first. Khess's DEX 18 was a meaningful advantage.
+- **Initiative** (§5.1): 1D10 + DEX gave Khess a high initiative (24) and let her act before Davan despite his action being declared first in the narration. Karash's 1D10 + INT (26) put his cast at the top of the round.
 - **Rabble incapacitation** (§5.8): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
 - **The Quiet Knife talent** (§2.7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
 - **Critical Buy** (§4.6.1): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
@@ -348,9 +338,9 @@ Karash has the Sorcery Talent _The Sorcerer's Reach_ (§2.7.2): for 3 PP, a spel
 
 However, Karash also has _Bird's Eye_ memorised. He casts _Bird's Eye_ at Intensity 3 (cost: 3 PP) to perceive through a raven perched on Mekhos's counting-house roof - putting him, perceptually, in the same location as his target. He intends to cast the Curse while maintaining the Bird's Eye.
 
-_This is a two-casting night._ Karash will cast Bird's Eye first (Phase Two of round one), then sustain the working while he casts the Curse in a second round.
+_This is a two-casting night._ Karash will cast Bird's Eye in round one, then sustain the working while he casts the Curse in a second round.
 
-### A2.3.4 Casting Bird's Eye (Round 1, Phase Two)
+### A2.3.4 Round 1: Casting Bird's Eye
 
 **Cost:** 3 PP. Karash's PP drops from 15 to **12.**
 
@@ -362,7 +352,7 @@ _This is a two-casting night._ Karash will cast Bird's Eye first (Phase Two of r
 
 Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, counting coin by lamplight. The raven is on the counting-house windowsill. Karash knows his target's position. The POW resistance roll for the Curse will be based on Karash's PP total at the moment of casting (after the Curse's own cost) versus Mekhos's POW.
 
-### A2.3.5 Casting the Curse (Round 2, Phase Two)
+### A2.3.5 Round 2: Casting the Curse
 
 **Cost:** 4 PP. Karash's PP drops from 12 to **8.**
 
