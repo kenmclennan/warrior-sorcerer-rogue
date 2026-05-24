@@ -63,25 +63,15 @@ Each result: **wound description + mechanical effect**. Read or paraphrase the d
 
 **Round counts.** Conditions last the stated number of full combat rounds. A condition lasting "2 rounds" expires at the start of the affected character's action two rounds after the result is applied.
 
-**Attacks and parries Difficult.** The affected character's attack and parry skills are halved for the duration.
-
-**Attacks Difficult.** Only attacks are halved; parries roll normally.
-
-**Parries Difficult.** Only parries are halved; attacks roll normally.
+**Attacks and parries Difficult / Attacks Difficult / Parries Difficult.** The named rolls are halved for the duration; the others roll normally.
 
 **Bonus damage.** Additional HP damage applied immediately, on top of the attack's base damage. This damage bypasses armour.
 
-**Bleeds.** The target loses 1 HP per round until the wound is bound (a successful First Aid roll, or 1 full round spent binding the wound with cloth - no roll needed, but costs the action).
-
-**Burns.** The target loses 1 HP per round from clinging fire for the stated number of rounds. Extinguished early by spending an action to pat out, roll on ground, or douse with water (no roll required). Catastrophic burns (2 HP/round) typically require Medicine treatment or sorcery to stop, like a severe bleed.
+**Status names.** Many entries inflict named statuses - **Bleeding**, **Burning**, **Impaled**, **Knockback**, **Knocked Down**, **Stunned**, **Reeling**, **Grappled**, **Entangled**. These are defined once in §5.5.2 Status Effects; their effects, durations, and removal procedures live there.
 
 **Useless.** The affected limb cannot be used until the wound is treated and the character rests. A useless weapon arm means weapons must be switched to the other hand (all attacks Difficult until trained); a useless shield arm means no shield bonus to parry.
 
-**Stunned.** The character loses their next action entirely. They may still defend (parry or dodge) at Difficult but cannot attack, cast, or move meaningfully.
-
-**Knocked down.** The character falls prone. Rising costs 1 action.
-
-**Dying.** The character will die in the stated number of rounds unless they receive First Aid (stopping the dying process - a successful roll stabilises them at 1 HP, but they remain unconscious and gravely wounded).
+**Dying.** The character will die in the stated number of rounds unless they receive First Aid (a successful roll stabilises them at 1 HP, but they remain unconscious and gravely wounded).
 
 ### A1.1.5 Lethality by Band - At a Glance
 

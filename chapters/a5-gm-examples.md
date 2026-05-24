@@ -299,13 +299,13 @@ Magic is theatrical (design.md §2.2). The GM describes Karash's casting signatu
 
 ### A5.4.2 Initiative and Casting
 
-Per §7.2.3: the spell resolves on Karash's **INT initiative** this round (§5.1). The cost is paid and the effect fires when his tick comes up - sorcery casting is automatic for memorised spells (§7.2.2); the only risk is being interrupted before the tick.
+Per §7.2.3: Karash declares his intent to cast at the start of the round and rolls **1D10 + INT** (instead of the usual 1D10 + DEX) for his initiative this round - the mental quickness of the working drives the cast's speed (§5.1). The cost is paid and the effect fires when his tick comes up - sorcery casting is automatic for memorised spells (§7.2.2); the only risk is being interrupted before the tick.
 
 **Karash's player declares:** "Casting Bind the Raging Heart, Intensity 3, targeting the mercenary."
 
-**Initiative rolls.** Karash rolls 1D10 + INT 16 = 5 + 16 = **INT 21**. The mercenary rolls 1D10 + DEX 12 = 7 + 12 = **DEX 19**. Khess and Orryn roll higher than the mercenary and engage the close-range threats first.
+**Initiative rolls.** Karash rolls 1D10 + INT 16 = 5 + 16 = **21**. The mercenary rolls 1D10 + DEX 12 = 7 + 12 = **19**. Khess and Orryn roll higher than the mercenary and engage the close-range threats first.
 
-**The GM notes:** Karash must reach initiative 21 without taking a hit (§5.9 - any wound before the cast resolves causes the spell to fail and the PP are spent). The mercenary's DEX 19 is one tick lower, and Khess and Orryn are tying him up. Karash is clear.
+**The GM notes:** Karash must reach initiative 21 without taking a hit (§5.9 - any wound before the cast resolves causes the spell to fail and the PP are spent). The mercenary's 19 is one tick lower, and Khess and Orryn are tying him up. Karash is clear.
 
 **At initiative 21:** Karash casts. The player spends 3 PP (pool drops to 9). No roll is made for the casting itself.
 

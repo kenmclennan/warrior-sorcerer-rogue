@@ -215,7 +215,7 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 
 ### A2.2.2 Round 1: Initiative and Casting
 
-The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the Rabble flank him. Everyone rolls initiative (§5.1): 1D10 + DEX for physical actions, 1D10 + INT for the spell Karash plans to cast.
+The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the Rabble flank him. Everyone rolls initiative (§5.1): 1D10 + DEX by default. Karash declares he is casting this round and rolls 1D10 + INT instead.
 
 **Initiative rolls (descending):**
 
@@ -250,7 +250,7 @@ Khess takes maximum dagger damage on the crit: 1D4+2 = max 4+2 = **6.** Plus +5 
 
 > The critical applies the §A1 entry: pierced lung, stunned for 2 rounds, terrible breathing. Damage knocks Davan from HP 12 to HP 1 - one more hit will drop him.
 
-**Davan's tick (initiative 22).** He is stunned. A stunned character cannot attack (see §A1.1.4). He may still attempt to parry or dodge at Difficult with a successful Idea roll (INT x5 - but since he was not attacked again this round, there is nothing to defend against). He stands in the alley, labouring to breathe.
+**Davan's tick (initiative 22).** He is Stunned (§5.5.2). A stunned character cannot attack. He may still attempt to parry or dodge at Difficult - but since he was not attacked again this round, there is nothing to defend against. He stands in the alley, labouring to breathe.
 
 **Orryn acts at initiative 19.** He attacks Rabble A with his sword: rolls **39** against Sword 65%. A normal success.
 

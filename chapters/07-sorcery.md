@@ -50,7 +50,7 @@ See §4.5 for PP totals and recovery.
 
 ### 7.2.3 Time to Cast
 
-An instantaneous spell resolves on the caster's **INT initiative** in the round it is cast (§5.1). The sorcerer's combat action for the round is the cast itself; they may not also attack or move beyond a Short Move. Multi-round workings (rituals, demon summoning) are noted in the spell entry and cannot be performed mid-combat.
+An instantaneous spell resolves on the caster's initiative tick in the round it is cast (§5.1). A sorcerer who intends to cast may roll their initiative with **1D10 + INT** instead of the usual **1D10 + DEX**, reflecting the mental quickness of the working. The cast itself is the sorcerer's combat action for the round; they may not also attack or move beyond a Short Move. Multi-round workings (rituals, demon summoning) are noted in the spell entry and cannot be performed mid-combat.
 
 ### 7.2.4 Memorised Spells and the Grimoire
 

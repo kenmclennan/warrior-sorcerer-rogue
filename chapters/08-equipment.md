@@ -48,6 +48,7 @@ Each weapon entry lists:
 - **STR/DEX:** Minimum STR and DEX required to use the weapon effectively. A character below these values takes a -20% penalty.
 - **Special:** The damage type used to look up critical results (see §A1). Also notes unusual rules (Entangle, etc.).
 - **Cost:** Expressed in the coin tier most appropriate to the weapon.
+- **Attk (missile weapons only):** Maximum attacks per round. Most missile weapons have Attk 1 - a normal aimed shot. Weapons with Attk 2 or higher can be used for Volley Fire (§5.3.10), trading accuracy and defence for multiple shots in a single round.
 
 **Damage modifier (dm):** Calculated from the average of STR and SIZ. See §2.3.1 for the dm table.
 
@@ -145,23 +146,23 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 ### 8.2.3 Missile Weapons
 
-| Weapon             | Damage      | SR  | Hands | ENC | HP  | Range  | STR/DEX | Special  | Cost    |
-| ------------------ | ----------- | --- | ----- | --- | --- | ------ | ------- | -------- | ------- |
-| Axe, Hand (thrown) | 1D6+1/2dm   | 4   | 1H    | 1   | 12  | Short  | 9/11    | Slash    | Cheap   |
-| Blowgun            | 1D3         | 2   | 2H    | 1   | 4   | Short  | -/11    | Pierce   | Cheap   |
-| Bola               | 1D4+1/2dm   | 4   | 1H    | 1   | 1   | Short  | 9/13    | Entangle | Cheap   |
-| Boomerang          | 1D4+1/2dm   | 3   | 1H    | -   | 3   | Medium | 9/11    | Krush    | Cheap   |
-| Bow, Composite     | 1D8+1+1/2dm | 3   | 2H    | 2   | 12  | Far    | 13/9    | Pierce   | Average |
-| Bow, Long          | 1D8+1+1/2dm | 3   | 2H    | 2   | 10  | Far    | 11/9    | Pierce   | Cheap   |
-| Bow, Self          | 1D6+1+1/2dm | 3   | 2H    | 1   | 6   | Long   | 9/9     | Pierce   | Cheap   |
-| Dart, Thrown       | 1D4+1/2dm   | 2   | 1H    | -   | 4   | Short  | 7/11    | Pierce   | Cheap   |
-| Javelin            | 1D6+1/2dm   | 3   | 1H    | 2   | 10  | Medium | 9/9     | Pierce   | Cheap   |
-| Knife (thrown)     | 1D3+1/2dm   | 3   | 1H    | -   | 8   | Short  | 7/11    | Pierce   | Cheap   |
-| Knife, Throwing    | 1D4+1/2dm   | 2   | 1H    | -   | 10  | Short  | -/11    | Pierce   | Cheap   |
-| Lasso (thrown)     | -           | 4   | 2H    | 2   | 4   | Short  | 9/13    | Entangle | Cheap   |
-| Rock (thrown)      | 1D2+1/2dm   | 4   | 1H    | -   | -   | Short  | 5/5     | Krush    | -       |
-| Sling              | 1D8+1/2dm   | 3   | 1H    | -   | 2   | Long   | 7/11    | Krush    | Cheap   |
-| Sling, Staff       | 1D8+1/2dm   | 4   | 2H    | 2   | 4   | Far    | 9/7     | Krush    | Cheap   |
+| Weapon             | Damage      | SR  | Hands | Attk | ENC | HP  | Range  | STR/DEX | Special  | Cost    |
+| ------------------ | ----------- | --- | ----- | ---- | --- | --- | ------ | ------- | -------- | ------- |
+| Axe, Hand (thrown) | 1D6+1/2dm   | 4   | 1H    | 1    | 1   | 12  | Short  | 9/11    | Slash    | Cheap   |
+| Blowgun            | 1D3         | 2   | 2H    | 1    | 1   | 4   | Short  | -/11    | Pierce   | Cheap   |
+| Bola               | 1D4+1/2dm   | 4   | 1H    | 1    | 1   | 1   | Short  | 9/13    | Entangle | Cheap   |
+| Boomerang          | 1D4+1/2dm   | 3   | 1H    | 1    | -   | 3   | Medium | 9/11    | Krush    | Cheap   |
+| Bow, Composite     | 1D8+1+1/2dm | 3   | 2H    | 1    | 2   | 12  | Far    | 13/9    | Pierce   | Average |
+| Bow, Long          | 1D8+1+1/2dm | 3   | 2H    | 1    | 2   | 10  | Far    | 11/9    | Pierce   | Cheap   |
+| Bow, Self          | 1D6+1+1/2dm | 3   | 2H    | 1    | 1   | 6   | Long   | 9/9     | Pierce   | Cheap   |
+| Dart, Thrown       | 1D4+1/2dm   | 2   | 1H    | 2    | -   | 4   | Short  | 7/11    | Pierce   | Cheap   |
+| Javelin            | 1D6+1/2dm   | 3   | 1H    | 1    | 2   | 10  | Medium | 9/9     | Pierce   | Cheap   |
+| Knife (thrown)     | 1D3+1/2dm   | 3   | 1H    | 1    | -   | 8   | Short  | 7/11    | Pierce   | Cheap   |
+| Knife, Throwing    | 1D4+1/2dm   | 2   | 1H    | 2    | -   | 10  | Short  | -/11    | Pierce   | Cheap   |
+| Lasso (thrown)     | -           | 4   | 2H    | 1    | 2   | 4   | Short  | 9/13    | Entangle | Cheap   |
+| Rock (thrown)      | 1D2+1/2dm   | 4   | 1H    | 2    | -   | -   | Short  | 5/5     | Krush    | -       |
+| Sling              | 1D8+1/2dm   | 3   | 1H    | 1    | -   | 2   | Long   | 7/11    | Krush    | Cheap   |
+| Sling, Staff       | 1D8+1/2dm   | 4   | 2H    | 1    | 2   | 4   | Far    | 9/7     | Krush    | Cheap   |
 
 **1/2dm notation:** For thrown and missile weapons, the attacker adds half their damage modifier (round down). A dm of +1D4 becomes +1D2; a dm of +1D6 becomes +1D3; zero remains zero.
 

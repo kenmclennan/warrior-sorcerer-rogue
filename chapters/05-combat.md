@@ -2,13 +2,13 @@
 
 ## 5.1 The Combat Round
 
-Each combat round represents twelve seconds of action and runs through these steps:
+Each combat round represents twelve seconds of action and follows these steps:
 
-1. **Initiative.** At the start of the round, every combatant rolls **1D10 + DEX** to determine their initiative for physical actions. Sorcerers who plan to cast a spell also roll **1D10 + INT** for their casting initiative. Reroll fresh each round.
+1. **Initiative.** At the start of the round, every combatant rolls one initiative. The default is **1D10 + DEX**. A sorcerer intending to cast a spell this round may instead roll **1D10 + INT** - the mental quickness of the working drives the cast's speed. Choose before the dice come up; the character takes their action on whichever count they rolled. Initiative is re-rolled each round.
 
 2. **Pending Powers resolve.** Non-instantaneous spells from earlier rounds (rituals, multi-round summons) take effect now, before any new actions.
 
-3. **Action.** Combatants act in descending initiative order. On their tick, a character takes one action (see §5.2 Combat Actions). A sorcerer casting a spell acts on their **INT initiative**; everything else uses the **DEX initiative**. Parries and dodges are reactions, not actions, and happen in response to incoming attacks regardless of initiative.
+3. **Action.** Combatants act in descending initiative order. On their tick, a character takes one action (see §5.2 Combat Actions). Parries and dodges are reactions, not actions, and happen in response to incoming attacks regardless of initiative.
 
 4. **Resolution.** Apply ongoing effects (bleeding, expiring conditions, end-of-round bookkeeping). The round ends.
 
@@ -25,7 +25,7 @@ Each combat round represents twelve seconds of action and runs through these ste
 On their initiative tick, a character may take **one** of the following actions:
 
 - **Attack.** Make one melee or missile attack against a target in range (see §5.3).
-- **Cast a spell.** Acts on the caster's INT initiative. The spell resolves at that tick. See §7 for sorcery rules.
+- **Cast a spell.** The spell resolves on the caster's initiative tick (which they may have rolled with INT instead of DEX; see §5.1). See §7 for sorcery rules.
 - **Move.** See §5.2.1 below.
 - **Engage.** Close to hand-to-hand range with a chosen opponent and make a single attack at no penalty - a combined move-and-attack into close combat. See §5.2.2.
 - **Disengage.** Break out of close combat. See §5.2.3.
@@ -41,7 +41,7 @@ On their initiative tick, a character may take **one** of the following actions:
 
 Movement in combat is described, not measured. Three categories tie to the four range bands used by missile and theatre-of-mind combat (§5.3.8, §6.10): **Near** (arm's reach), **Normal** (standard distance within a fight), **Far** (across a significant space), **Extreme** (edge of vision).
 
-- **Short Move.** Repositioning within the same range band - circling for an opening, stepping off a fallen ally, taking the high ground, closing the last step on an opponent already at Near range. No initiative penalty; combines freely with an Attack on the same tick.
+- **Short Move.** Repositioning within the same range band - circling for an opening, stepping off a fallen ally, taking the high ground, closing the last step on an opponent already at Near range. No initiative penalty; combines freely with any action on the same tick (Attack, Cast, Engage, etc.).
 - **Long Move.** Crosses one range band (Far → Normal, or Normal → Near). Halves the character's initiative this round (round down). The character may still attack or take another action at the reduced initiative. Moving _out_ of Near range requires a Disengage first (§5.2.3).
 - **Full Sprint.** Maximum speed. Crosses two range bands in a single round, runs down a fleeing target, escapes bowshot, or traverses out of an encounter entirely. Reduces initiative to a quarter (round down). Cannot attack; defensive actions only if directly threatened. Sustained sprinting across multiple rounds is a chase (§6.8).
 
@@ -55,7 +55,7 @@ Breaking out of close combat is dangerous. Choose one method:
 
 1. **Fight withdrawal.** Spend the entire round in defensive action only (parries and dodges). If every attack against the character is successfully parried or dodged, the character is disengaged at the end of the round.
 
-2. **Knocked-back disengage.** If a character has been knocked prone (see §A1.1.4 _Knocked down_), they may attempt a Dodge immediately. Success: the character rolls away and is disengaged. Failure: they remain prone and engaged.
+2. **Knocked-back disengage.** If a character has been Knocked Down (§5.5.2), they may attempt a Dodge immediately. Success: the character rolls away and is disengaged. Failure: they remain prone and engaged.
 
 3. **Turn and run.** The character turns and moves. This abandons all defence: the opponent gets one immediate attack against the fleeing character that cannot be parried or dodged.
 
@@ -74,15 +74,17 @@ To attack, roll D100 against the relevant weapon skill. Consult the outcome tier
 
 When an attack succeeds, the defender may attempt a parry or dodge. Both attack and defence generate an outcome tier. The interaction between the two tiers determines the result:
 
-| Attack result | Defence result    | Outcome                                                                                  |
-| ------------- | ----------------- | ---------------------------------------------------------------------------------------- |
-| Critical      | Critical          | Attack parried/dodged; both combatants hold ground - neither gains the crit result       |
-| Critical      | Success           | Attack partially deflected: rolled damage, armour applies; no §A1 effect                 |
-| Critical      | Failure or Fumble | **Maximum** damage + §A1 entry, ignores armour                                           |
-| Success       | Critical          | Attack fully parried or dodged; defender has momentary advantage                         |
-| Success       | Success           | Attack partially deflected: half damage, armour applies                                  |
-| Success       | Failure           | Normal damage, armour applies                                                            |
-| Success       | Fumble            | Normal damage, armour applies; defender additionally suffers their fumble's consequences |
+| Attack result | Defence result    | Outcome                                                                                        |
+| ------------- | ----------------- | ---------------------------------------------------------------------------------------------- |
+| Critical      | Critical          | Attack parried/dodged; both combatants hold ground - neither gains the crit result             |
+| Critical      | Success           | Attack partially deflected: rolled damage, armour applies; no §A1 effect                       |
+| Critical      | Failure or Fumble | **Maximum** damage + §A1 entry, ignores armour                                                 |
+| Success       | Critical          | Attack fully parried or dodged; no damage. If parried, the attacker's weapon takes 2 HP damage |
+| Success       | Success           | Attack partially deflected: half damage, armour applies                                        |
+| Success       | Failure           | Normal damage, armour applies                                                                  |
+| Success       | Fumble            | Normal damage, armour applies; defender additionally suffers their fumble's consequences       |
+| Failure       | -                 | Attack misses. No defence required                                                             |
+| Fumble        | -                 | Attack misses; attacker suffers a complication (GM narrates)                                   |
 
 A Critical attack that is not defended against (the defender chose not to parry or dodge, or had no defence remaining) deals **maximum** damage on every damage die, adds any bonus damage from the §A1 entry, and ignores armour entirely.
 
@@ -100,6 +102,8 @@ A character commits to one defensive mode for the round - **either parrying or d
 
 The exception is Fight Defensively (§5.3.7). A character in that stance may freely mix parries and dodges, and the cumulative -30% penalty stack applies to both together: the second defensive action of the round (parry or dodge) is at -30%, the third at -60%, regardless of which type was first.
 
+**Defence floor.** If the cumulative penalty stack reduces a parry or dodge chance to 1% or below, no further defensive attempt of that type can be made this round.
+
 ### 5.3.6 Critical Attacks and Armour
 
 A Critical attack that lands against a defender who failed to defend (or was not defended) deals **maximum damage on every damage die**, adds any **bonus damage** specified by the §A1 critical entry, and **ignores armour entirely**. The damage modifier (dm) is rolled normally and added.
@@ -112,7 +116,12 @@ When a critical attack lands and there is no successful defence: determine the s
 
 ### 5.3.7 Fighting Defensively
 
-A character who forgoes all attacks for the round gains one additional Dodge that costs no -30% penalty. They may still parry normally (with cumulative penalties), and the free dodge does not count toward the parry penalty track. Declare on the attacker's initiative tick.
+A character may declare **Fighting Defensively** on their own initiative tick, in place of an Attack action. The declaration commits the character to defence for the round and grants two advantages:
+
+- They may freely mix parries and dodges in the same round, sharing a single cumulative -30% penalty stack (the exception in §5.3.5).
+- Their **first defensive action of the round** (parry or dodge) is free: it does not count toward the cumulative penalty stack and suffers no penalty itself.
+
+Once declared, the stance lasts the round. Re-declare each round.
 
 ### 5.3.8 Missile Weapons
 
@@ -130,12 +139,12 @@ This is a separate roll, not a parry: the shield either blocks the missile or th
 
 **Range bands.** Range affects all missile attacks:
 
-| Range                        | Modifier                                                                                       |
-| ---------------------------- | ---------------------------------------------------------------------------------------------- |
-| Near (within arm's reach)    | Easy - but bow attacks become Difficult or Impossible; throwing weapons use close combat rules |
-| Normal (standard distance)   | Skill as rated                                                                                 |
-| Far (challenging distance)   | Difficult                                                                                      |
-| Extreme (edge of capability) | 1/5 skill; any success counts as a normal success only                                         |
+| Range                        | Modifier                                                                                                                                                                                                               |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Near (within arm's reach)    | Easy to hit, but: short bows are Difficult, longbows and composite bows are Impossible (too long to bring to bear); thrown weapons can't be thrown and become improvised melee weapons (use §5.7.8 Improvised Weapons) |
+| Normal (standard distance)   | Skill as rated                                                                                                                                                                                                         |
+| Far (challenging distance)   | Difficult                                                                                                                                                                                                              |
+| Extreme (edge of capability) | 1/5 skill; any success counts as a normal success only                                                                                                                                                                 |
 
 The GM determines which band applies based on the description of the scene.
 
@@ -146,6 +155,18 @@ The GM determines which band applies based on the description of the scene.
 A character whose weapon skill exceeds 100% may split that skill into multiple attacks, each at a minimum effective skill of 50%. Additional attacks resolve at -5 initiative count intervals after the first. No single attack may exceed the character's full skill rating.
 
 **Example.** A warrior with Sword 110% may attack twice: once at 110% on their normal initiative count and once at 50% -5 initiative. Or they may choose 70%/70% (any split summing to the base, each at minimum 50%). The second attack comes at -5 initiative counts from the first.
+
+### 5.3.10 Volley Fire
+
+A character with a thrown or missile weapon may sacrifice accuracy and defence to send as many attacks at a target as the weapon allows in a single round. Declare at the start of the round.
+
+The weapon's **Attk** stat (from the missile weapons table, §8.2.3) gives the maximum number of attacks per round. The first attack resolves at the character's normal initiative tick; subsequent attacks resolve at **-5 initiative count intervals**, up to the Attk limit. **All volley fire attacks are Difficult.** If a subsequent initiative count falls below 1, that attack is lost.
+
+While volley firing, the character **cannot parry or dodge** until the start of their next initiative tick. Each shot consumes ammunition normally.
+
+Most missile weapons have Attk 1 - they cannot benefit from volley fire (one Difficult shot is strictly worse than one normal shot). Volley fire is reserved for weapons with Attk 2 or higher - typically small thrown weapons (throwing knives, darts, thrown rocks) that a character can release in quick succession.
+
+A character with weapon skill above 100% who also volleys combines volley fire with Multiple Attacks (§5.3.9): each shot is Difficult _and_ uses the split skill.
 
 ## 5.4 Damage and Armour
 
@@ -164,6 +185,8 @@ Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from da
 ### 5.4.3 Shields
 
 Shields are both weapons (use Shield skill to attack) and parrying tools (use Shield skill to parry melee and intercept missiles as above). Shield skill has the same -30% cumulative penalty as all parry skill uses.
+
+**Shield bash damage.** A shield used to attack deals **1D3 + dm** (small shield or buckler) or **1D4 + dm** (large shield), Krush damage type. Spiked shields deal Pierce instead. See §8.3 for full shield stats. A shield bash that exceeds the target's SIZ on the Resistance Table triggers Knockback (§5.5.1).
 
 ### 5.4.4 Broken Weapons
 
@@ -185,21 +208,11 @@ Damage is subtracted from current HP. Combat continues at any positive HP - the 
 
 **Critical attack.** A critical hit applies the appropriate §A1 entry in addition to its damage. The §A1 entry is the wound - its stated duration, impairment, and permanence are authoritative. Crit-driven wounds are the only source of permanent injury in WSR; ordinary damage just accumulates as HP loss.
 
-**Reeling Blows.** When a non-critical attack deals damage equal to or greater than the defender's **half max HP** in a single blow, the defender is **Reeling**. Until their next action resolves:
+**Reeling Blows.** A non-critical attack that deals damage equal to or greater than the defender's **half max HP** in a single blow (after armour) inflicts the **Reeling** status (§5.5.2). The heavy strike broke the character's rhythm without quite getting through their guard. Critical attacks do not trigger Reeling - the §A1 entry replaces it.
 
-- Their next action is at Difficult.
-- They may move no more than a Short Move.
-- Their next parry or dodge is at an additional -30% beyond any cumulative penalty already applied.
+**Knockback.** A non-critical crushing impact (mace, hammer, shield bash, charging mount, giant's club) whose **raw damage rolled** exceeds the target's **SIZ** on the Resistance Table (§4.3.5) inflicts the **Knockback** status (§5.5.2). Knockback applies to crushing/blunt attacks only by default; the GM may rule that a critical of any type carries knockback if the fiction calls for it (a spear through the gut driving the target into a wall).
 
-A Reeling blow is the heavy strike that doesn't quite get through your guard cleanly: you took the wound, but it broke your rhythm. The attacker presses the advantage on the next exchange. Critical attacks do not trigger Reeling - the §A1 entry replaces it.
-
-**Knockback.** A heavy crushing impact - a shield-bash, a charging shove, a giant's club-swing - may knock a defender backwards regardless of whether the attack wounds them. After damage is dealt, compare the **raw damage rolled** to the target's **SIZ** on the Resistance Table (§4.3.5). If damage exceeds SIZ, the target is pushed back one range step (typically Near → Normal, breaking engagement) and must make a DEX roll or fall prone (§5.6.5).
-
-Knockback applies to crushing/blunt attacks: maces, hammers, shield bashes, charging mounts, falling debris, kicks, and the natural attacks of large creatures. It does not apply to slashing or piercing damage by default. The GM may rule that a critical of any type carries knockback if the fiction calls for it (a spear through the gut, driving the target back into a wall).
-
-A target who declares a **brace stance** at the start of the round (forgoing all movement and Long Moves) doubles their effective SIZ for knockback resistance.
-
-Reeling and Knockback may both apply to the same blow. A crushing attack that exceeds both the defender's half-HP threshold and their SIZ leaves them Reeling _and_ knocked back.
+Reeling and Knockback may both apply to the same blow.
 
 **Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
 
@@ -207,7 +220,107 @@ Reeling and Knockback may both apply to the same blow. A crushing attack that ex
 
 **Rabble exception.** Rabble (§9.2) do not follow the full damage rules above. They are incapacitated when cumulative damage reaches half their HP total, regardless of which attack pushed them over. They do not consult §A1 entries on criticals received, do not take Reeling Blow effects, and have no Fate Point access. The full Rabble rules and stat-block format are in §9.2; this is the player-facing summary.
 
-### 5.5.2 Healing
+### 5.5.2 Status Effects
+
+A **status** is a named condition applied to a character by a critical, a special attack, sorcery, or the environment. Each status defines its own effect and how it ends. A character may carry multiple statuses simultaneously.
+
+#### Bleeding
+
+A wound that does not close on its own.
+
+- The character loses **1 HP per round** at the end of each round.
+- Stopped by First Aid (no roll required if applied within one turn of the wound; later application requires a successful First Aid roll), or by one full round of binding with cloth (no roll, but costs the action).
+- Multiple bleeds do not stack - a character bleeds 1 HP per round total regardless of the number of bleeding wounds.
+
+Triggers: Slash criticals (per §A1.2 entries); some bestiary attacks; an arrow lodged in the body (combines with Impaled).
+
+#### Burning
+
+Caught fire and taking ongoing damage.
+
+- The character loses **1D4 HP per round** at the start of each round, until extinguished. Catastrophic burns can be 2 HP/round per the §A1 entry.
+- All rolls Difficult while on fire.
+- Extinguish: one full round of action (rolling on the ground, dousing with water, stripping burning clothing). No roll required.
+
+Triggers: Burn criticals (per §A1.5 entries); contact with a fire source (a torch to the face, a brazier); alchemical acid; dragon breath; certain sorcery.
+
+#### Entangled
+
+Restrained by a passive constraint - a net, snare, trap, sorcerous binding, or an entangling weapon that an attacker has committed to maintaining.
+
+- Cannot move from current position.
+- Cannot attack with restrained limbs.
+- Parries and dodges are Difficult.
+- **Escape.** Opposed STR vs STR or DEX vs DEX resistance roll vs the entangling source's STR or DEX (or a fixed POT for sorcery and traps). Full-round action. The source may resist with its own roll where applicable.
+
+Triggers: Entangle attack (§5.10.4); sorcery (Inescapable Bonds and similar); snares and traps.
+
+The difference between Entangled and Grappled is opposition. Entangled is escape from a passive constraint; Grappled is an active contest against a thinking opponent.
+
+#### Grappled
+
+Held by an active opponent in close grapple.
+
+- Cannot move from the grappler's hold.
+- Cannot attack with the held limb(s); off-limb actions may be Difficult depending on the grip.
+- Parries and dodges are Difficult.
+- **Escape.** Opposed STR vs STR or DEX vs DEX resistance roll vs the grappler's STR or DEX, full-round action. The grappler may attempt to maintain the hold with their own roll. Both characters are committed to the grapple until one breaks free or surrenders.
+
+Triggers: Grapple skill (§5.7.7); Grapple criticals (per §A1.6 entries).
+
+#### Impaled
+
+A piercing weapon is lodged in the target's body.
+
+- The affected limb (or torso, throat) is Difficult to use; actions involving it suffer the penalty.
+- 1 HP per round bleeds around the entry point (compounds with Bleeding from other sources).
+- The wielder's weapon is unavailable to them while embedded - it's stuck in the target.
+- **Removing the weapon.** A full-round action by the impaled character or an ally. The pull deals the weapon's rolled damage again. The impaled character makes a Stamina roll (CON x5) or is Stunned 1 round from the pain. First Aid can be applied immediately after; the Impaled status ends.
+
+Triggers: Pierce criticals (per §A1.3 entries); set weapon against a charge (§5.8); falling onto spikes.
+
+#### Knockback
+
+A target is shoved backward by a heavy impact.
+
+- Pushed **one range step back** (typically Near → Normal, breaking engagement).
+- Must succeed at a DEX roll or fall prone (gaining the Knocked Down status, below).
+- A target who declared a **brace stance** at the start of the round (forgoing all movement and Long Moves) doubles their effective SIZ for knockback resistance.
+
+Triggers: Krush criticals (per §A1.4 entries); a non-crit crushing impact whose raw damage exceeds the target's SIZ on the Resistance Table (§4.3.5); shield bash that exceeds the target's SIZ.
+
+#### Knocked Down
+
+Prone.
+
+- All attacks, parries, and dodges from prone are Difficult.
+- Attacks against the character are Easy.
+- Rising costs the character's initiative tick (a full action). Alternately, they may attempt a Difficult Dodge on their tick to rise without consuming it (§5.6.8).
+
+Triggers: Krush criticals (per §A1.4 entries); failed DEX roll after Knockback; failed Agility roll on a slippery surface (§5.6.9); certain bestiary attacks.
+
+#### Reeling
+
+Struck by a heavy non-critical blow that broke the character's rhythm.
+
+- Next action at Difficult.
+- May move no more than a Short Move.
+- Next parry or dodge is at an additional -30% beyond any cumulative penalty already applied.
+- Duration: until the character's next action resolves.
+
+Trigger: a non-critical attack that deals damage equal to or greater than the defender's half max HP in a single blow (after armour). See §5.5.1.
+
+#### Stunned
+
+Disoriented by a heavy blow, shock, or extreme pain.
+
+- The character cannot attack, cast, or move meaningfully on their next action.
+- Parries and dodges are Difficult.
+- Duration: typically 1-3 rounds (specified by the trigger).
+
+Triggers: Krush criticals (per §A1.4 entries); Knockout attacks (§5.7.7); pain from removing an embedded weapon (see Impaled); some bestiary special attacks.
+
+### 5.5.3 Healing
 
 Natural healing is slow. A character recovers 1D4 HP per game week, modified by conditions:
 
@@ -393,9 +506,15 @@ A mounted character fights from horseback, chariot, camel, or other mount. The R
 
 **Initiative.** The mounted character uses their own DEX initiative; the mount does not roll separately. The character may move the mount up to a Long Move and attack on the same initiative tick - the mount's momentum carries the action.
 
+**Weapon skill capped by Ride.** While mounted, the rider's effective weapon skill is capped at their **Ride skill**. A character with Sword 80% and Ride 40% attacks at 40% from horseback. A career horseman with high Ride suffers no cap; a competent fighter on a borrowed horse may suddenly be ineffective. Train Ride to lift the cap.
+
+**Dodge while mounted.** All Dodge attempts the rider makes while mounted are **Difficult**. The horse's bulk and the rider's seat limit personal evasion - parrying with a weapon or shield is unaffected.
+
 **Height and reach.** Mounted characters strike down at unmounted opponents. Mounted attacks gain **+10%** against unmounted defenders. Unmounted attacks against a mounted target are at **-20%** unless the attacker uses a long weapon (spear, polearm, two-handed sword) or attacks the mount instead.
 
 **Charge.** A mounted character who moves a Long Move directly toward an opponent and attacks may declare a **charge** with a long weapon (lance, spear, pike). The attack deals **+1D6 bonus damage** and ignores the initiative penalty for the Long Move. The mount must have clear ground to gain momentum. A charge that misses leaves the character exposed: any opponent at Near range may make an immediate free attack as the rider hauls the mount to a stop.
+
+**Set weapon against charge.** An unmounted character with a long pointed weapon (lance, spear, pike, polearm) may declare a **set weapon** stance against an incoming mounted charge. Requires firm ground and a declaration before the charging mount's initiative tick. The set character takes no attack action that round; when the charge arrives, roll the set weapon's skill as a normal attack. On a hit, **add the mount's damage modifier to the set weapon's damage** (the mount's own momentum drives it onto the weapon). An intelligent mount may attempt its own Dodge to avoid the set weapon; the rider must succeed at a Difficult Ride roll (or a POW vs. mount's POW contest) to force the charge home over the mount's self-preservation.
 
 **Ride roll under attack.** A character making any attack while their mount is moving must succeed at a Ride roll, or attack at **-20%**. A character struck for serious damage (over half their HP in one blow) while mounted must make a Ride roll or be unhorsed (falling damage per §6.7.1).
 
@@ -405,35 +524,41 @@ A mounted character fights from horseback, chariot, camel, or other mount. The R
 
 ## 5.9 Casting in Combat
 
-A sorcerer struck before their spell resolves on their INT initiative must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if their INT initiative beats the attacker's DEX initiative - any attack that connects before the casting tick is enough. Disengage first or accept the risk.
+A sorcerer struck before their spell resolves on their initiative tick must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if their initiative is high - any attack that connects before the casting tick is enough. Disengage first or accept the risk.
 
 See §7.2 for full sorcery casting rules.
 
 ## 5.10 Damage Types
 
-WSR weapons deal one of four damage types. Type determines which critical hit table is consulted in §A1 when a critical attack lands. Type also affects armour interactions (some armours protect better against some types - see §8 Equipment) and certain talents and creature abilities that react to specific types.
+WSR weapons deal one of several damage types. Type determines which critical hit table is consulted in §A1 when a critical attack lands, and which **status** (§5.5.2) the attack characteristically inflicts. Type also affects armour interactions (some armours protect better against some types - see §8 Equipment) and certain talents and creature abilities that react to specific types.
 
 ### 5.10.1 Slashing (swords, axes, daggers, claws)
 
-Cutting wounds. Slash criticals resolve on the **§A1 Slash table** (§A1.2). Slash critical entries commonly cause bleeding wounds; the bleed effect is defined in §A1.1.4.
+Cutting wounds. Slash criticals resolve on the **§A1 Slash table** (§A1.2) and characteristically inflict the **Bleeding** status (§5.5.2) on top of the wound itself.
 
 ### 5.10.2 Impaling (spears, arrows, javelins, thrusting swords)
 
-Puncturing wounds. Impale criticals resolve on the **§A1 Pierce table** (§A1.3). Pierce critical entries can lodge a weapon in the wound or pin a limb; the specific effect is described within the relevant entry.
+Puncturing wounds. Impale criticals resolve on the **§A1 Pierce table** (§A1.3) and characteristically inflict the **Impaled** status (§5.5.2) - the weapon lodges in the target until pulled free.
 
 ### 5.10.3 Crushing (maces, hammers, clubs, shields)
 
-Blunt-force wounds. Crush criticals resolve on the **§A1 Krush table** (§A1.4). Krush critical entries commonly stun the target or knock them prone; the stunned and knocked-down effects are defined in §A1.1.4.
+Blunt-force wounds. Crush criticals resolve on the **§A1 Krush table** (§A1.4) and characteristically inflict **Knockback**, **Knocked Down**, or **Stunned** status (§5.5.2) depending on the entry. Crushing attacks also inflict the Knockback status directly on non-criticals when raw damage exceeds the target's SIZ - see §5.5.1.
 
 ### 5.10.4 Entangling (whips, nets, chains, ropes)
 
-Restraining attacks. Entangling weapons have a dedicated tactical option:
+Restraining attacks. Entangling weapons do not wound; they inflict the **Entangled** status (§5.5.2) via a successful entangle attempt - they have no §A1 critical hit table, because the status itself is the result.
 
-**Entangle attempt.** Instead of striking for damage, a character may declare an entangle attempt with an entangling weapon. The roll is Difficult; on a success, the target is entangled without taking damage. An entangled target cannot move from their current position and cannot attack with restrained limbs. Escape requires an opposed STR vs. STR or DEX vs. DEX resistance roll as a full-round action. The entangling weapon holds until deliberately released or the wielder is incapacitated.
+**Entangle attempt.** Instead of striking for damage, a character may declare an entangle attempt with an entangling weapon. The roll is Difficult; on a success, the target gains the Entangled status (§5.5.2) without taking damage. The entangling weapon holds until deliberately released or the wielder is incapacitated.
 
-An entangling critical (whether on a damage attack or an entangle attempt) imposes the entangle effect immediately and irresistibly: no resistance roll is permitted at the moment of impact, though subsequent escape attempts proceed normally.
+An entangling critical (whether on a damage attack or an entangle attempt) inflicts Entangled immediately and irresistibly: no resistance roll is permitted at the moment of impact, though subsequent escape attempts proceed normally.
 
-**Other damage types.** Fire damage (sorcerous flame, Greek fire, dragon breath, fire elementals) and Grapple damage (the §3 Grapple skill, creature constricting attacks) have their own §A1 critical hit tables - see §A1.5 (Burn) and §A1.6 (Grapple). They follow the same band structure (A through E) and the same matching-dice severity rules as Slash, Pierce, and Krush.
+### 5.10.5 Burn (sorcerous flame, dragon breath, alchemical acid)
+
+Heat and flame wounds. Burn criticals resolve on the **§A1 Burn table** (§A1.5) and characteristically inflict the **Burning** status (§5.5.2). Following the same band structure (A through E) and matching-dice severity rules as the other damage types.
+
+### 5.10.6 Grapple (Grapple skill, constricting attacks)
+
+Holds and crushing grips. Grapple criticals resolve on the **§A1 Grapple table** (§A1.6) and characteristically inflict the **Grappled** status (§5.5.2) - an active hold from a thinking opponent (compare to Entangled, which is escape from a passive constraint).
 
 ## 5.11 Dying Blows
 
