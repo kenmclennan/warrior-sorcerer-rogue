@@ -376,7 +376,7 @@ These practices prevent the tactical pace from slowing as players and GM lose tr
 
 **Rabble go down fast.** The Rabble rule (§9.2) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on.
 
-**Keep the sorcerer in the picture.** The interruption risk from melee (§5.9) needs active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to reach her initiative tick without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
+**Keep the sorcerer in the picture.** The interruption risk from melee (§5.9) needs active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to reach her Initiative Rank without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
 
 ## 6.11 Group Stealth and Concealment
 

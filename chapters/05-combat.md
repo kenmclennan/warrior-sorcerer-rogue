@@ -4,28 +4,28 @@
 
 Each combat round represents twelve seconds of action and follows these steps:
 
-1. **Initiative.** At the start of the round, every combatant rolls one initiative. The default is **1D10 + DEX**. A sorcerer intending to cast a spell this round may instead roll **1D10 + INT** - the mental quickness of the working drives the cast's speed. Choose before the dice come up; the character takes their action on whichever count they rolled. Initiative is re-rolled each round.
+1. **Initiative.** At the start of the round, every combatant rolls **1D10 + DEX** for initiative. A sorcerer intending to cast a spell this round may instead roll **1D10 + INT**. This is the Initiative Rank on which the combatant will act. Initiative is re-rolled each round.
 
 2. **Pending Powers resolve.** Non-instantaneous spells from earlier rounds (rituals, multi-round summons) take effect now, before any new actions.
 
-3. **Action.** Combatants act in descending initiative order. On their tick, a character takes one action (see §5.2 Combat Actions). Parries and dodges are reactions, not actions, and happen in response to incoming attacks regardless of initiative.
+3. **Action.** Combatants act in descending initiative order. On their Initiative Rank, a character takes one action (see §5.2 Combat Actions). Parries and dodges are reactions, not actions, and happen in response to incoming attacks regardless of initiative.
 
 4. **Resolution.** Apply ongoing effects (bleeding, expiring conditions, end-of-round bookkeeping). The round ends.
 
-**Ties.** The character with the higher relevant skill acts first. If still tied, simultaneous. Within a single initiative count for melee attacks, weapon length matters: missiles before long weapons, long before medium, medium before short and unarmed.
+**Ties.** The character with the higher relevant skill acts first. If still tied, simultaneous. Within a single Initiative Rank for melee attacks, weapon length matters: missiles before long weapons, long before medium, medium before short and unarmed.
 
-**Delaying.** A character may delay their action to act at any lower initiative count in the same round. Once delayed, they cannot return to their original count. A character who delays past initiative 1 loses their action for the round.
+**Delaying.** A character may delay their action to act at any lower Initiative Rank in the same round. Once delayed, they cannot return to their original count. A character who delays past initiative 1 loses their action for the round.
 
-**Multiple actions in a round.** A character with a weapon skill above 100% (§4.1.4) or other circumstance permitting a second action takes the second action 5 initiative counts below the first.
+**Multiple actions in a round.** A character with a weapon skill above 100% (§4.1.4) or other circumstance permitting a second action takes the second action 5 Initiative Ranks below the first.
 
 ## 5.2 Combat Actions
 
 **Engaged or unengaged.** A character is **engaged** when they are within striking distance of an opponent who can attack them and committed to the close-quarters melee. They are **unengaged** when they are not - free to move, take non-combat actions, ready a missile weapon, or stand outside the close fight. Engagement status determines which actions are available and what defences apply.
 
-On their initiative tick, a character may take **one** of the following actions:
+On their Initiative Rank, a character may take **one** of the following actions:
 
 - **Attack.** Make one melee or missile attack against a target in range (see §5.3).
-- **Cast a spell.** The spell resolves on the caster's initiative tick (which they may have rolled with INT instead of DEX; see §5.1). See §7 for sorcery rules.
+- **Cast a spell.** The spell resolves on the caster's Initiative Rank (which they may have rolled with INT instead of DEX; see §5.1). See §7 for sorcery rules.
 - **Move.** See §5.2.1 below.
 - **Engage.** Close to hand-to-hand range with a chosen opponent and make a single attack at no penalty - a combined move-and-attack into close combat. See §5.2.2.
 - **Disengage.** Break out of close combat. See §5.2.3.
@@ -41,13 +41,13 @@ On their initiative tick, a character may take **one** of the following actions:
 
 Movement in combat is described, not measured. Three categories tie to the four range bands used by missile and theatre-of-mind combat (§5.3.8, §6.10): **Near** (arm's reach), **Normal** (standard distance within a fight), **Far** (across a significant space), **Extreme** (edge of vision).
 
-- **Short Move.** Repositioning within the same range band - circling for an opening, stepping off a fallen ally, taking the high ground, closing the last step on an opponent already at Near range. No initiative penalty; combines freely with any action on the same tick (Attack, Cast, Engage, etc.).
+- **Short Move.** Repositioning within the same range band - circling for an opening, stepping off a fallen ally, taking the high ground, closing the last step on an opponent already at Near range. No initiative penalty; combines freely with any action on the same Initiative Rank (Attack, Cast, Engage, etc.).
 - **Long Move.** Crosses one range band (Far → Normal, or Normal → Near). Halves the character's initiative this round (round down). The character may still attack or take another action at the reduced initiative. Moving _out_ of Near range requires a Disengage first (§5.2.3).
 - **Full Sprint.** Maximum speed. Crosses two range bands in a single round, runs down a fleeing target, escapes bowshot, or traverses out of an encounter entirely. Reduces initiative to a quarter (round down). Cannot attack; defensive actions only if directly threatened. Sustained sprinting across multiple rounds is a chase (§6.8).
 
 ### 5.2.2 Engaging
 
-Moving from unengaged to engaged costs a Short Move and may be combined with a single attack on the same initiative tick.
+Moving from unengaged to engaged costs a Short Move and may be combined with a single attack on the same Initiative Rank.
 
 ### 5.2.3 Disengaging
 
@@ -116,7 +116,7 @@ When a critical attack lands and there is no successful defence: determine the s
 
 ### 5.3.7 Fighting Defensively
 
-A character may declare **Fighting Defensively** on their own initiative tick, in place of an Attack action. The declaration commits the character to defence for the round and grants two advantages:
+A character may declare **Fighting Defensively** on their own Initiative Rank, in place of an Attack action. The declaration commits the character to defence for the round and grants two advantages:
 
 - They may freely mix parries and dodges in the same round, sharing a single cumulative -30% penalty stack (the exception in §5.3.5).
 - Their **first defensive action of the round** (parry or dodge) is free: it does not count toward the cumulative penalty stack and suffers no penalty itself.
@@ -152,17 +152,17 @@ The GM determines which band applies based on the description of the scene.
 
 ### 5.3.9 Multiple Attacks
 
-A character whose weapon skill exceeds 100% may split that skill into multiple attacks, each at a minimum effective skill of 50%. Additional attacks resolve at -5 initiative count intervals after the first. No single attack may exceed the character's full skill rating.
+A character whose weapon skill exceeds 100% may split that skill into multiple attacks, each at a minimum effective skill of 50%. Additional attacks resolve at -5 Initiative Rank intervals after the first. No single attack may exceed the character's full skill rating.
 
-**Example.** A warrior with Sword 110% may attack twice: once at 110% on their normal initiative count and once at 50% -5 initiative. Or they may choose 70%/70% (any split summing to the base, each at minimum 50%). The second attack comes at -5 initiative counts from the first.
+**Example.** A warrior with Sword 110% may attack twice: once at 110% on their normal Initiative Rank and once at 50% -5 initiative. Or they may choose 70%/70% (any split summing to the base, each at minimum 50%). The second attack comes at -5 Initiative Ranks from the first.
 
 ### 5.3.10 Volley Fire
 
 A character with a thrown or missile weapon may sacrifice accuracy and defence to send as many attacks at a target as the weapon allows in a single round. Declare at the start of the round.
 
-The weapon's **Attk** stat (from the missile weapons table, §8.2.3) gives the maximum number of attacks per round. The first attack resolves at the character's normal initiative tick; subsequent attacks resolve at **-5 initiative count intervals**, up to the Attk limit. **All volley fire attacks are Difficult.** If a subsequent initiative count falls below 1, that attack is lost.
+The weapon's **Attk** stat (from the missile weapons table, §8.2.3) gives the maximum number of attacks per round. The first attack resolves at the character's normal Initiative Rank; subsequent attacks resolve at **-5 Initiative Rank intervals**, up to the Attk limit. **All volley fire attacks are Difficult.** If a subsequent Initiative Rank falls below 1, that attack is lost.
 
-While volley firing, the character **cannot parry or dodge** until the start of their next initiative tick. Each shot consumes ammunition normally.
+While volley firing, the character **cannot parry or dodge** until the start of their next Initiative Rank. Each shot consumes ammunition normally.
 
 Most missile weapons have Attk 1 - they cannot benefit from volley fire (one Difficult shot is strictly worse than one normal shot). Volley fire is reserved for weapons with Attk 2 or higher - typically small thrown weapons (throwing knives, darts, thrown rocks) that a character can release in quick succession.
 
@@ -295,7 +295,7 @@ Prone.
 
 - All attacks, parries, and dodges from prone are Difficult.
 - Attacks against the character are Easy.
-- Rising costs the character's initiative tick (a full action). Alternately, they may attempt a Difficult Dodge on their tick to rise without consuming it (§5.6.8).
+- Rising costs the character's Initiative Rank (a full action). Alternately, they may attempt a Difficult Dodge on their Rank to rise without consuming it (§5.6.8).
 
 Triggers: Krush criticals (per §A1.4 entries); failed DEX roll after Knockback; failed Agility roll on a slippery surface (§5.6.9); certain bestiary attacks.
 
@@ -373,17 +373,17 @@ Inanimate objects use the same scale: a large stationary object is Easy to hit; 
 
 ### 5.6.5 Close Combat and Weapon Length
 
-Long weapons attack first within an initiative count. Once a short-weapon fighter closes to grappling distance, long-weapon parries become Difficult and the full reach cannot be used.
+Long weapons attack first within an Initiative Rank. Once a short-weapon fighter closes to grappling distance, long-weapon parries become Difficult and the full reach cannot be used.
 
 Daggers and unarmed strikes are unaffected by close quarters. Two-handed polearms may be unusable in tight spaces.
 
 **Closing.** To close from outside reach to grappling distance with a long-weapon fighter, the short-weapon fighter must survive the long weapon's initial strike (which always acts first in that exchange, regardless of initiative). Once closed, subsequent rounds at close range penalise the long-weapon fighter.
 
-**Keeping at bay.** Instead of attacking, a long-weapon fighter may use their initiative tick to **keep a short-weapon fighter at bay**: roll the weapon skill as a normal attack. On a success, the short-weapon fighter cannot close this round. On a failure, the short-weapon fighter may attempt to close as normal.
+**Keeping at bay.** Instead of attacking, a long-weapon fighter may use their Initiative Rank to **keep a short-weapon fighter at bay**: roll the weapon skill as a normal attack. On a success, the short-weapon fighter cannot close this round. On a failure, the short-weapon fighter may attempt to close as normal.
 
-**Slipping past the bay.** A short-weapon fighter being kept at bay may attempt a Dodge or Parry roll to slip past the long weapon's guard. On a success, they close immediately and may attack at the normal initiative tick.
+**Slipping past the bay.** A short-weapon fighter being kept at bay may attempt a Dodge or Parry roll to slip past the long weapon's guard. On a success, they close immediately and may attack at the normal Initiative Rank.
 
-**Action economy at close range.** A long-weapon fighter engaged at close range loses some flexibility. While they remain at close range with a short-weapon fighter, on a single initiative tick they may attack **or** parry **or** dodge - not the usual combination of attack plus defensive actions. The reach that makes the long weapon dominant at normal range becomes a liability at arm's length.
+**Action economy at close range.** A long-weapon fighter engaged at close range loses some flexibility. While they remain at close range with a short-weapon fighter, on a single Initiative Rank they may attack **or** parry **or** dodge - not the usual combination of attack plus defensive actions. The reach that makes the long weapon dominant at normal range becomes a liability at arm's length.
 
 ### 5.6.6 Enclosed Environments
 
@@ -401,13 +401,13 @@ Partial cover (a door-frame, a low wall, a fallen pillar) makes attacks against 
 
 A character who is kneeling or prone behind a full shield or wall gains substantial cover. The GM determines coverage based on description.
 
-**Fortified positions.** A character standing or kneeling behind a sturdy defensive structure (a stone parapet, a battlement, the lip of a trench) is in a fortified position. Attacks against them are Difficult, as with cover. A character who crouches or kneels _entirely_ behind the fortification cannot be hit by small missile fire at all - though they remain vulnerable to area attacks, siege weapons, and sorcery that reaches over or through. Aimed Attacks (§5.7.1) can overcome a fortified position one accumulated tick at a time.
+**Fortified positions.** A character standing or kneeling behind a sturdy defensive structure (a stone parapet, a battlement, the lip of a trench) is in a fortified position. Attacks against them are Difficult, as with cover. A character who crouches or kneels _entirely_ behind the fortification cannot be hit by small missile fire at all - though they remain vulnerable to area attacks, siege weapons, and sorcery that reaches over or through. Aimed Attacks (§5.7.1) can overcome a fortified position one accumulated Rank at a time.
 
 ### 5.6.8 Fighting While Down
 
 All attacks, parries, and dodges are Difficult while prone; attacks against the character are Easy. Rising takes an attack slot, during which these penalties still apply.
 
-**Difficult Dodge to rise.** A prone character may attempt a Difficult Dodge on their initiative count. Success: they rise and may still attack. Failure: they remain prone.
+**Difficult Dodge to rise.** A prone character may attempt a Difficult Dodge on their Initiative Rank. Success: they rise and may still attack. Failure: they remain prone.
 
 ### 5.6.9 Slippery and Unstable Surfaces
 
@@ -419,7 +419,7 @@ The GM may rule the roll Difficult on particularly treacherous surfaces (an oil-
 
 ### 5.7.1 Aimed Attacks
 
-For every 5 initiative counts spent delaying, add +10% to the attack skill, up to the base skill maximum. Announce when delaying begins; count off the initiative ticks openly.
+For every 5 Initiative Ranks spent delaying, add +10% to the attack skill, up to the base skill maximum. Announce when delaying begins; count off the Initiative Ranks openly.
 
 ### 5.7.2 Disarming
 
@@ -429,11 +429,11 @@ A character may attempt to knock or twist an opponent's weapon from their grip r
 - **Critical disarm:** as above, plus the weapon lands in the attacker's hand, or in any position of the attacker's choosing.
 - **Attack fails or is defended:** no effect. The attacker has used their action.
 
-Picking up a dropped weapon takes a Non-combat action (§5.2) and requires being unengaged. A weapon within arm's reach may be retrieved by a Short Move combined with the Non-combat action on the same initiative tick.
+Picking up a dropped weapon takes a Non-combat action (§5.2) and requires being unengaged. A weapon within arm's reach may be retrieved by a Short Move combined with the Non-combat action on the same Initiative Rank.
 
 ### 5.7.3 Two-Weapon Fighting
 
-A character with a weapon in each hand may attack with both in the same round. The **primary attack** (with the dominant hand) uses the full weapon skill. The **off-hand attack** uses the off-hand weapon's skill at **-30%**. Both attacks resolve on the character's initiative count.
+A character with a weapon in each hand may attack with both in the same round. The **primary attack** (with the dominant hand) uses the full weapon skill. The **off-hand attack** uses the off-hand weapon's skill at **-30%**. Both attacks resolve on the character's Initiative Rank.
 
 **Training the off-hand.** A character may train the off-hand specifically. Once the off-hand attack skill (tracked as a separate speciality) reaches half the primary attack skill, the off-hand penalty drops to **-10%**. Once it reaches equal to or higher than the primary attack skill, the penalty is removed entirely.
 
@@ -443,7 +443,7 @@ A character with a weapon in each hand may attack with both in the same round. T
 
 ### 5.7.4 Quickdraw
 
-Drawing a weapon is normally a Non-combat action (§5.2), unavailable to engaged characters. A character may instead **quickdraw**: draw the weapon and attack in the same initiative tick, at **-20%** to the attack roll. Available only with weapons designed to be carried ready (a sheathed sword, dagger, hand-axe, throwing knife) - not a stowed bow or bundled spear.
+Drawing a weapon is normally a Non-combat action (§5.2), unavailable to engaged characters. A character may instead **quickdraw**: draw the weapon and attack in the same Initiative Rank, at **-20%** to the attack roll. Available only with weapons designed to be carried ready (a sheathed sword, dagger, hand-axe, throwing knife) - not a stowed bow or bundled spear.
 
 A character surprised and reaching for their weapon (§5.6.1) may quickdraw as their first action; they are otherwise treated as surprised for that exchange.
 
@@ -455,7 +455,7 @@ A character wielding a two-handed weapon with broad reach (greatsword, falx, gre
 
 - Maximum 3 opponents in a single sweep.
 - All targets must be within the weapon's reach and within an arc the swing can plausibly cover - the GM rules whether geometry permits.
-- The attacker may not parry or dodge until their next initiative tick (committing fully to the sweep).
+- The attacker may not parry or dodge until their next Initiative Rank (committing fully to the sweep).
 
 Larger creatures (giants, drakes, certain demons) may sweep larger groups; their stat blocks note the size of the sweep and any modifiers.
 
@@ -472,9 +472,9 @@ Aiming reduces the risk: each +10% from Aimed Attacks (§5.7.1) also reduces the
 
 ### 5.7.7 Knockout and Subdual
 
-**Knockout attack.** Declare on the attacker's initiative tick. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). §A1 critical effects do not apply to Knockout criticals - the result is the unconsciousness rule above, not the brutal wounds of a lethal critical. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
+**Knockout attack.** Declare on the attacker's Initiative Rank. Targets the head; roll is Difficult. On a success, resolve damage minus armour, then make a resistance roll: damage vs. CON. On a success, the target is knocked unconscious for 1D10+10 rounds (GM rolls secretly). §A1 critical effects do not apply to Knockout criticals - the result is the unconsciousness rule above, not the brutal wounds of a lethal critical. The target is not killed. A character already unconscious simply resets their unconsciousness duration.
 
-**Subduing.** Declare on the attacker's initiative tick. The attacker reduces the damage dice or omits the damage modifier, to a minimum of 1D2.
+**Subduing.** Declare on the attacker's Initiative Rank. The attacker reduces the damage dice or omits the damage modifier, to a minimum of 1D2.
 
 **Grapple and restrain.** A successful Grapple roll (Brawl or Grapple skill) establishes a hold. The restrained character must make an opposed STR vs. STR or DEX vs. DEX resistance roll to break free (their choice). An immobilised character cannot attack but can still speak.
 
@@ -504,7 +504,7 @@ Desperate actions are a **GM-approved last resort**, not a routine option. They 
 
 A mounted character fights from horseback, chariot, camel, or other mount. The Ride skill (§3.4.34) governs control of the mount and stability of the character while attacking.
 
-**Initiative.** The mounted character uses their own DEX initiative; the mount does not roll separately. The character may move the mount up to a Long Move and attack on the same initiative tick - the mount's momentum carries the action.
+**Initiative.** The mounted character uses their own DEX initiative; the mount does not roll separately. The character may move the mount up to a Long Move and attack on the same Initiative Rank - the mount's momentum carries the action.
 
 **Weapon skill capped by Ride.** While mounted, the rider's effective weapon skill is capped at their **Ride skill**. A character with Sword 80% and Ride 40% attacks at 40% from horseback. A career horseman with high Ride suffers no cap; a competent fighter on a borrowed horse may suddenly be ineffective. Train Ride to lift the cap.
 
@@ -514,7 +514,7 @@ A mounted character fights from horseback, chariot, camel, or other mount. The R
 
 **Charge.** A mounted character who moves a Long Move directly toward an opponent and attacks may declare a **charge** with a long weapon (lance, spear, pike). The attack deals **+1D6 bonus damage** and ignores the initiative penalty for the Long Move. The mount must have clear ground to gain momentum. A charge that misses leaves the character exposed: any opponent at Near range may make an immediate free attack as the rider hauls the mount to a stop.
 
-**Set weapon against charge.** An unmounted character with a long pointed weapon (lance, spear, pike, polearm) may declare a **set weapon** stance against an incoming mounted charge. Requires firm ground and a declaration before the charging mount's initiative tick. The set character takes no attack action that round; when the charge arrives, roll the set weapon's skill as a normal attack. On a hit, **add the mount's damage modifier to the set weapon's damage** (the mount's own momentum drives it onto the weapon). An intelligent mount may attempt its own Dodge to avoid the set weapon; the rider must succeed at a Difficult Ride roll (or a POW vs. mount's POW contest) to force the charge home over the mount's self-preservation.
+**Set weapon against charge.** An unmounted character with a long pointed weapon (lance, spear, pike, polearm) may declare a **set weapon** stance against an incoming mounted charge. Requires firm ground and a declaration before the charging mount's Initiative Rank. The set character takes no attack action that round; when the charge arrives, roll the set weapon's skill as a normal attack. On a hit, **add the mount's damage modifier to the set weapon's damage** (the mount's own momentum drives it onto the weapon). An intelligent mount may attempt its own Dodge to avoid the set weapon; the rider must succeed at a Difficult Ride roll (or a POW vs. mount's POW contest) to force the charge home over the mount's self-preservation.
 
 **Ride roll under attack.** A character making any attack while their mount is moving must succeed at a Ride roll, or attack at **-20%**. A character struck for serious damage (over half their HP in one blow) while mounted must make a Ride roll or be unhorsed (falling damage per §6.7.1).
 
@@ -524,7 +524,7 @@ A mounted character fights from horseback, chariot, camel, or other mount. The R
 
 ## 5.9 Casting in Combat
 
-A sorcerer struck before their spell resolves on their initiative tick must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if their initiative is high - any attack that connects before the casting tick is enough. Disengage first or accept the risk.
+A sorcerer struck before their spell resolves on their Initiative Rank must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if their initiative is high - any attack that connects before the casting Rank is enough. Disengage first or accept the risk.
 
 See §7.2 for full sorcery casting rules.
 
@@ -564,7 +564,7 @@ Holds and crushing grips. Grapple criticals resolve on the **§A1 Grapple table*
 
 A character at 0 HP or below may attempt one last act before falling.
 
-**Declaring a Dying Blow.** On their initiative tick, declare the Dying Blow and make a Stamina roll (CON x5). On a success, take one final action - a single attack, a warning shout, a dropped potion, the triggering of a prepared sorcerous effect. The action is Difficult. After it resolves, the character falls unconscious and is dying as normal.
+**Declaring a Dying Blow.** On their Initiative Rank, declare the Dying Blow and make a Stamina roll (CON x5). On a success, take one final action - a single attack, a warning shout, a dropped potion, the triggering of a prepared sorcerous effect. The action is Difficult. After it resolves, the character falls unconscious and is dying as normal.
 
 **Actions already spent.** If the character has exhausted their action for the round when the killing wound arrives, the Dying Blow is still available, but the Stamina roll is Difficult (halved).
 

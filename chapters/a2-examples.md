@@ -250,7 +250,7 @@ Khess takes maximum dagger damage on the crit: 1D4+2 = max 4+2 = **6.** Plus +5 
 
 > The critical applies the §A1 entry: pierced lung, stunned for 2 rounds, terrible breathing. Damage knocks Davan from HP 12 to HP 1 - one more hit will drop him.
 
-**Davan's tick (initiative 22).** He is Stunned (§5.5.2). A stunned character cannot attack. He may still attempt to parry or dodge at Difficult - but since he was not attacked again this round, there is nothing to defend against. He stands in the alley, labouring to breathe.
+**Davan's Initiative Rank (22).** He is Stunned (§5.5.2). A stunned character cannot attack. He may still attempt to parry or dodge at Difficult - but since he was not attacked again this round, there is nothing to defend against. He stands in the alley, labouring to breathe.
 
 **Orryn acts at initiative 19.** He attacks Rabble A with his sword: rolls **39** against Sword 65%. A normal success.
 
@@ -261,7 +261,7 @@ Result: Success vs. Failure - Orryn's attack hits normally, armour applies. Rabb
 
 **Rabble B acts at initiative 16.** He attacks Orryn: rolls **51** against Sword 35%. Fails - ordinary failure. The swing is wide.
 
-**Rabble A's tick (initiative 15)** does not arrive - he was incapacitated on Orryn's tick. Karash has already cast and has no further action this round.
+**Rabble A's Initiative Rank (15)** does not arrive - he was incapacitated on Orryn's Rank. Karash has already cast and has no further action this round.
 
 **End of round - ongoing effects.** Davan bleeds: 1 HP at the end of the round. He drops from HP 1 to HP 0. He is at the Fatal Wound threshold.
 
