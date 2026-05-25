@@ -48,11 +48,11 @@ Each weapon entry lists:
 - **STR/DEX:** Minimum STR and DEX required to use the weapon effectively. A character below these values takes a -20% penalty.
 - **Special:** The damage type used to look up critical results (see §A1). Also notes unusual rules (Entangle, etc.).
 - **Cost:** Expressed in the coin tier most appropriate to the weapon.
-- **Attk (missile weapons only):** Maximum attacks per round. Most missile weapons have Attk 1 - a normal aimed shot. Weapons with Attk 2 or higher can be used for Volley Fire (§5.3.10), trading accuracy and defence for multiple shots in a single round.
+- **Attk (missile weapons only):** Maximum attacks per round. Most missile weapons have Attk 1 - a normal aimed shot. Weapons with Attk 2 or higher can be used for Volley Fire (§6.3.10), trading accuracy and defence for multiple shots in a single round.
 
 **Damage modifier (dm):** Calculated from the average of STR and SIZ. See §2.3.1 for the dm table.
 
-**Narrative range:** Weapon reach is described as Short (arm's length), Medium (sword reach), Long (spear reach), or All (the quarterstaff's versatility). These interact with combat spacing as described in §5.6.5.
+**Narrative range:** Weapon reach is described as Short (arm's length), Medium (sword reach), Long (spear reach), or All (the quarterstaff's versatility). These interact with combat spacing as described in §6.6.5.
 
 ### 8.2.2 Melee Weapons
 
@@ -168,7 +168,7 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 **Bow, Composite:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
 
-**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See §6.2 for poison rules.
+**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See §7.2 for poison rules.
 
 **Bola and Lasso:** The bola entangles the target's legs on a hit (Difficult DEX roll or fall prone). It can also be used as a damaging throw (use the listed damage). The thrown lasso entangles on a hit; the target makes a Difficult STR or DEX roll to break free.
 
@@ -194,7 +194,7 @@ Superior weapons also tend to have slightly higher HP (add 2-4 at the GM's discr
 
 Armour provides **Armour Points (AP)** - a flat reduction applied to any damage the wearer takes before HP are subtracted. WSR uses a single AP value per armour piece, not per-location ratings. When a hit lands, subtract the armour's AP from the damage; the remainder reaches the wearer's HP.
 
-Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Climb, Brawl, Dodge, Move Quietly, Swim, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §6.1).
+Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Climb, Brawl, Dodge, Move Quietly, Swim, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §7.1).
 
 **Layering:** Soft armour (leather, padded, linen cuirass) may be worn under hard armour. Add their AP values. However, layering adds the ENC of both pieces, and any skill modifier from the outer armour is used at full (not combined). Layering hard armour under hard armour is impractical and not supported.
 
@@ -235,7 +235,7 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 
 **Cataphract Suit:** The heavy lamellar-and-scale armour of Persian and Sassanian elite cavalry. Full-body coverage achieved by layering lamellar plates over an under-suit of scale - the suit is heavy and exhausting to wear, but it turns most blows. At the GM's discretion, a complete cataphract suit may only be available in the great empires of the East.
 
-**Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (§7.4), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
+**Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (§4.4), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
 
 ### 8.3.4 Helmets
 
@@ -305,7 +305,7 @@ Iron is cheaper than bronze and more widely available - any village with bog ore
 - **Weapons and armour:** Mechanically identical to bronze.
 - **Cost:** One Cost tier cheaper than bronze (Average -> Inexpensive; Inexpensive -> Cheap; Cheap stays Cheap).
 
-Iron has one inherent property bronze lacks: it disrupts sorcery. See §6.1.
+Iron has one inherent property bronze lacks: it disrupts sorcery. See §7.1.
 
 ### 8.5.4 Steel
 
@@ -317,7 +317,7 @@ Steel - carburised iron, pattern-welded or crucible-forged - is the genuine tech
 
 Steel weapons and armour are rare. Most warriors never own one. Finding a steel piece is a meaningful event - the gleam of the steel is the master-craft signature.
 
-For the iron-vs-sorcery rule (§6.1), steel counts as iron. The sorcerous current finds the metal regardless of carbon content.
+For the iron-vs-sorcery rule (§7.1), steel counts as iron. The sorcerous current finds the metal regardless of carbon content.
 
 ### 8.5.5 Enchanted Iron and Steel
 
@@ -401,7 +401,7 @@ Items marked - for ENC weigh too little to track individually. Ten such items to
 | Lamp, Clay        | 1            | -   | 6 hours per oil flask | Cheap; fragile; burns olive oil          |
 | Lamp, Bronze      | 4            | -   | 6 hours per oil flask | More durable; steady flame               |
 | Lantern, Hooded   | 10           | 1   | 6 hours per oil flask | Directable beam; windproof               |
-| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see §6.4)     |
+| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see §7.4)     |
 | Torch             | -            | 1   | 1 hour                | Obvious; hard to hide; good bright light |
 
 A dash (-) in the Cost column means the item is too inexpensive to track by the Dram - a handful of coin covers it. Ten such items count as 1 Dram for purchasing purposes.
@@ -616,7 +616,7 @@ A flophouse is a shared floor and a questionable blanket. A decent inn has priva
 
 ### 8.11.1 The ENC System
 
-Encumbrance (ENC) measures the physical burden a character carries. It governs overload penalties and (for sorcerers) the iron-vs-sorcery calculation (see §6.1). Significant items count as 1 ENC or more; very small items individually count as negligible but accumulate.
+Encumbrance (ENC) measures the physical burden a character carries. It governs overload penalties and (for sorcerers) the iron-vs-sorcery calculation (see §7.1). Significant items count as 1 ENC or more; very small items individually count as negligible but accumulate.
 
 **ENC guidelines:**
 
@@ -656,7 +656,7 @@ Unenchanted iron is inimical to the sorcerous current.
 
 **What counts:** Iron and steel weapons, armour, manacles, chains - any significant iron-bearing item. Steel is iron with carbon worked in; the sorcerous current finds the ferrous metal regardless. Small iron fittings (buckles, rivets) on primarily leather or bronze items do not count unless the GM rules the iron proportion is significant.
 
-**What does not count:** Bronze, copper, leather, wood, stone, bone, or other non-ferrous materials. Enchanted iron or steel (see §5.5) does not impose the penalty.
+**What does not count:** Bronze, copper, leather, wood, stone, bone, or other non-ferrous materials. Enchanted iron or steel (see §6.5) does not impose the penalty.
 
 **Practical effect:** A sorcerer carrying an iron sword (ENC 1), iron armour (ENC 9), and an iron helm (ENC 1) carries 11 ENC of iron - sorcery rolls suffer -55%. Most sorcerers travel in bronze or leather and leave the heavy martial kit to their companions.
 
@@ -674,4 +674,4 @@ Unenchanted iron is inimical to the sorcerous current.
 
 Full creation rules - ritual requirements, costs, and dangers - are in §12.
 
-**Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §5.3). The enchantment is part of the binding process and is noted when the artifact is described.
+**Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §6.3). The enchantment is part of the binding process and is noted when the artifact is described.

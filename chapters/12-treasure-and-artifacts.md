@@ -59,7 +59,7 @@ Roll or choose:
 
 Art objects are inconvenient treasure: heavy, identifiable, and recognisable to anyone who knows where they came from. Lucrative but complicated.
 
-**Selling art:** The full value of an art object requires a buyer who wants it - a collector, a temple, a rich patron. Selling to a fence (see Reputation §5.4) returns 30-60% of value. Selling to the right buyer at the right time may return 100-150% if the buyer is desperate for that particular piece.
+**Selling art:** The full value of an art object requires a buyer who wants it - a collector, a temple, a rich patron. Selling to a fence (see Reputation §6.4) returns 30-60% of value. Selling to the right buyer at the right time may return 100-150% if the buyer is desperate for that particular piece.
 
 ### 12.1.4 Exotic Goods
 
@@ -138,7 +138,7 @@ Creating an artifact requires three things: time, permanent POW, and a specific 
 
 Anyone can use a properly keyed artifact, not only sorcerers. The user activates what the creator has already bound - no casting required.
 
-**Activation:** To activate a spell bound in an artifact, the user concentrates for one combat round (a full action) and draws on the artifact's PP reservoir. The artifact deducts the spell's standard PP cost from its own reservoir. The effect resolves on the user's initiative in the following round (treated as a Pending Power per §5.1).
+**Activation:** To activate a spell bound in an artifact, the user concentrates for one combat round (a full action) and draws on the artifact's PP reservoir. The artifact deducts the spell's standard PP cost from its own reservoir. The effect resolves on the user's initiative in the following round (treated as a Pending Power per §6.1).
 
 **Who can attune:** Physical contact for one uninterrupted hour plus a successful POW roll. No PP cost. Multiple people can be attuned; the creator is always considered attuned.
 
@@ -152,7 +152,7 @@ Non-sorcerers cannot recharge artifacts - without a sorcerer to maintain them, t
 
 ### 12.2.4 Enchanting Iron
 
-Iron can be harmonised with the sorcerous current only through the artifact-creation process, consecrating it to a specific patron or principle. Requires the creator to have a patron (§7.3.2) and costs 1 additional permanent POW beyond the normal cost. See §8.5.3 for the enchanted iron rule.
+Iron can be harmonised with the sorcerous current only through the artifact-creation process, consecrating it to a specific patron or principle. Requires the creator to have a patron (§4.3.2) and costs 1 additional permanent POW beyond the normal cost. See §8.5.3 for the enchanted iron rule.
 
 An iron artifact that runs dry reverts to disruptive iron immediately.
 
@@ -162,7 +162,7 @@ Reduce an artifact's HP to 0 to destroy it. An artifact's HP equals its SIZ (a b
 
 When destroyed, the POW invested is permanently lost - the creator's POW does not recover, ever. The PP reservoir disperses instantly.
 
-Artifacts take damage through normal object mechanics (a sword artifact is damaged by a successful enemy parry, not casual attack). Deliberate destruction requires targeting the object specifically - use the Damaging Objects rules from §6.
+Artifacts take damage through normal object mechanics (a sword artifact is damaged by a successful enemy parry, not casual attack). Deliberate destruction requires targeting the object specifically - use the Damaging Objects rules from §7.
 
 ### 12.2.6 Artifacts in the GM's Hands
 
@@ -181,7 +181,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Form:** A short bronze dagger, single-edged, with a wavy blade. The grip is wrapped in cured skin of unidentifiable origin. The crossguard is shaped like a serpent with its jaws open.
 
-**Bound spell:** Hell's Razor (1 PP to activate; see §7.5).
+**Bound spell:** Hell's Razor (1 PP to activate; see §4.5).
 
 **Effect:** When activated, the blade holds a sorcerous edge beyond natural sharpness. The dagger deals its damage as if it were a superior-quality weapon (+20% to attack skill, for the remainder of the activation's duration). Additionally, any wound inflicted while Hell's Razor is active does not naturally stop bleeding - the victim loses 1 additional HP per round until the wound is treated (First Aid or Medicine roll, Difficulty: Standard).
 
@@ -215,7 +215,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Inescapable Bonds (3 PP) and Cloak of Night (1 PP per intensity level).
 
-**Effect:** Inescapable Bonds, when activated through the ring, works on targets within Medium range without requiring the ring-wearer to have line of sight - the bonds erupt from the ground. Cloak of Night works as described in §7.5 but specifically generates a cold, wet-smelling dark that smells of deep water and tar.
+**Effect:** Inescapable Bonds, when activated through the ring, works on targets within Medium range without requiring the ring-wearer to have line of sight - the bonds erupt from the ground. Cloak of Night works as described in §4.5 but specifically generates a cold, wet-smelling dark that smells of deep water and tar.
 
 **Cost to use:** Standard PP from the reservoir.
 
@@ -263,7 +263,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Fury (1 PP), Muddle (1 PP per target), and Pox (1 PP).
 
-**Effect:** Fury activates on the wearer, inducing berserker state (per §7.5). Muddle and Pox affect targets within the wearer's sight. While any of the three spells are active simultaneously, the discs turn face-outward and the screaming faces become audible - not loudly, but to everyone near the wearer.
+**Effect:** Fury activates on the wearer, inducing berserker state (per §4.5). Muddle and Pox affect targets within the wearer's sight. While any of the three spells are active simultaneously, the discs turn face-outward and the screaming faces become audible - not loudly, but to everyone near the wearer.
 
 **Cost to use:** Standard PP from the reservoir.
 
@@ -295,7 +295,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Hammer of the Gods (2 PP), Chain of Being (4 PP), and Undo Sorcery (1-4 PP, variable).
 
-**Effect:** All three spells function as standard (per §7.5). The Staff functions as a standard staff in combat (see §8.2.2 for Staff, Quarter stats). While the sorcerer holds the Staff and has it charged, the Corruption cost for casting Chain of Being is waived - the Staff absorbs the burden of the communal working.
+**Effect:** All three spells function as standard (per §4.5). The Staff functions as a standard staff in combat (see §8.2.2 for Staff, Quarter stats). While the sorcerer holds the Staff and has it charged, the Corruption cost for casting Chain of Being is waived - the Staff absorbs the burden of the communal working.
 
 **Cost to use:** Standard PP for each spell. The Corruption waiver applies only while the Staff is held.
 
@@ -343,13 +343,13 @@ A cursed item is not a bad magic item. It is a trap wearing the shape of treasur
 
 ### 12.4.1 Identifying Cursed Items
 
-Witch Sight (§7.5) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Blasphemous Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
+Witch Sight (§4.5) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Blasphemous Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
 
 The most reliable method is reputation. Cursed items have histories, and those histories circulate.
 
 ### 12.4.2 Removing a Curse
 
-Curses do not lift when the item is dropped. They lift when their specific release condition is met - which the GM knows and the player typically does not. The general process: identify the curse pattern (Knowledge (Blasphemous Lore)), determine the release condition (research, patron knowledge, a specialist sorcerer), fulfil it. Undo Sorcery (§7.5) suppresses a curse for the caster's POW in hours but cannot remove it permanently.
+Curses do not lift when the item is dropped. They lift when their specific release condition is met - which the GM knows and the player typically does not. The general process: identify the curse pattern (Knowledge (Blasphemous Lore)), determine the release condition (research, patron knowledge, a specialist sorcerer), fulfil it. Undo Sorcery (§4.5) suppresses a curse for the caster's POW in hours but cannot remove it permanently.
 
 ### 12.4.3 The Warlord's Bracelet
 

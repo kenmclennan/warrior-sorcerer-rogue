@@ -27,10 +27,10 @@ The chapter source lives in `chapters/`. The links below open the markdown files
 - [1. Introduction](chapters/01-introduction.md)
 - [2. Character Creation](chapters/02-character-creation.md)
 - [3. Skills](chapters/03-skills.md)
-- [4. System](chapters/04-system.md)
-- [5. Combat](chapters/05-combat.md)
-- [6. Spot Rules](chapters/06-spot-rules.md)
-- [7. Sorcery](chapters/07-sorcery.md)
+- [4. Sorcery](chapters/04-sorcery.md)
+- [5. System](chapters/05-system.md)
+- [6. Combat](chapters/06-combat.md)
+- [7. Spot Rules](chapters/07-spot-rules.md)
 - [8. Equipment](chapters/08-equipment.md)
 
 **GM-facing**

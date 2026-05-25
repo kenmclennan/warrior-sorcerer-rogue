@@ -1,14 +1,14 @@
-# 7 Sorcery
+# 4 Sorcery
 
 This chapter covers becoming a sorcerer, casting spells, the three costs, iron disruption, grimoires, and the full spell list. §11 covers the GM side: patrons, demons, and what happens when a sorcerer goes too far.
 
-## 7.1 Becoming a Sorcerer
+## 4.1 Becoming a Sorcerer
 
-### 7.1.1 What a Sorcerer Is
+### 4.1.1 What a Sorcerer Is
 
 A sorcerer has learned to reach into the sorcerous current - the ancient flow of power that runs beneath the world. Not a gift. Not a birthright. Knowledge, acquired at cost, from a source that was not interested in sharing. Sorcerers are rare; most who study the arcane arts stop before it costs them anything important.
 
-### 7.1.2 Requirements
+### 4.1.2 Requirements
 
 To become a sorcerer, a character must meet all three of the following conditions at character creation. A warrior or rogue who later pursues sorcery may meet these requirements during play with the GM's agreement.
 
@@ -16,9 +16,9 @@ To become a sorcerer, a character must meet all three of the following condition
 
 **A sorcerer's profession or background.** The character must have pursued sorcery through a recognised path: formal apprenticeship under an established sorcerer, years alone in a dark library, a pact exchanged in a place that should not exist, initiation into a small and secretive order, or the oral tradition of a tribal mentor working with spirits and ancestors. Characters from purely martial or criminal backgrounds who have never been near sorcerous instruction cannot qualify, however high their POW. See §2.5 for the professions that qualify.
 
-**A grimoire.** Every sorcerer begins with at least one grimoire containing their starting spells. Without access to written sorcerous knowledge, no learning is possible. Starting sorcerers know a number of spell levels equal to half their INT (round up), inscribed in their grimoire and memorised for immediate use. See §5 for grimoire rules.
+**A grimoire.** Every sorcerer begins with at least one grimoire containing their starting spells. Without access to written sorcerous knowledge, no learning is possible. Starting sorcerers know a number of spell levels equal to half their INT (round up), inscribed in their grimoire and memorised for immediate use. See §6 for grimoire rules.
 
-### 7.1.3 Learning Methods
+### 4.1.3 Learning Methods
 
 These are narrative distinctions, not mechanical ones. Each produces the same sorcerer; they shape debts, enemies, and casting signature.
 
@@ -30,59 +30,59 @@ These are narrative distinctions, not mechanical ones. Each produces the same so
 
 **Stolen Power.** A warrior, thief, or scholar who encountered sorcery too closely and found it had changed them. Grimoire stolen, taken from a dead sorcerer, or recovered from a ruin. Self-taught from texts not meant for them.
 
-### 7.1.4 The Sorcerous Heritage Option
+### 4.1.4 The Sorcerous Heritage Option
 
 At character creation, a sorcerer-archetype PC may trade vitality for power: every 2 points permanently reduced from any combination of STR, CON, or CHA grants 1 POW. Irreversible. Cannot push POW above 21. Available only at creation.
 
 The trade is visible to those who know what to look for: hollowness about the eyes, a chill in the handshake, an unnatural stillness. The signs of a transaction.
 
-## 7.2 Casting Spells
+## 4.2 Casting Spells
 
-### 7.2.1 Automatic Success
+### 4.2.1 Automatic Success
 
 Sorcery does not fail through incompetence. A sorcerer who knows a spell, has the PP, and has time to cast it succeeds automatically. Failure comes from outside: interruption, a resisting target, iron in the kit. Not from the caster's technique.
 
-### 7.2.2 Power Point Cost
+### 4.2.2 Power Point Cost
 
-Every spell costs PP equal to its intensity, paid at the moment of casting. Fixed-intensity spells always cost the same amount; scaling spells cost more for stronger effects. PP are shared with all Fate Point spends - the Critical Buy (§4.6.1) and the standard menu (§4.6) draw from the same pool, every draw. If the sorcerer lacks PP to complete a casting, the spell fails and any gathered PP disperses.
+Every spell costs PP equal to its intensity, paid at the moment of casting. Fixed-intensity spells always cost the same amount; scaling spells cost more for stronger effects. PP are shared with all Fate Point spends - the Critical Buy (§5.6.1) and the standard menu (§5.6) draw from the same pool, every draw. If the sorcerer lacks PP to complete a casting, the spell fails and any gathered PP disperses.
 
-See §4.5 for PP totals and recovery.
+See §5.5 for PP totals and recovery.
 
-### 7.2.3 Time to Cast
+### 4.2.3 Time to Cast
 
-An instantaneous spell resolves on the caster's Initiative Rank in the round it is cast (§5.1). A sorcerer who intends to cast may roll their initiative with **1D10 + INT** instead of the usual **1D10 + DEX**, reflecting the mental quickness of the working. The cast itself is the sorcerer's combat action for the round; they may not also attack or move beyond a Short Move. Multi-round workings (rituals, demon summoning) are noted in the spell entry and cannot be performed mid-combat.
+An instantaneous spell resolves on the caster's Initiative Rank in the round it is cast (§6.1). A sorcerer who intends to cast may roll their initiative with **1D10 + INT** instead of the usual **1D10 + DEX**, reflecting the mental quickness of the working. The cast itself is the sorcerer's combat action for the round; they may not also attack or move beyond a Short Move. Multi-round workings (rituals, demon summoning) are noted in the spell entry and cannot be performed mid-combat.
 
-### 7.2.4 Memorised Spells and the Grimoire
+### 4.2.4 Memorised Spells and the Grimoire
 
 A sorcerer can hold spell levels in active memory equal to their INT. These can be cast immediately. Spells beyond the limit are grimoire-only and require readying before use.
 
 **Readying a spell from the grimoire:** a number of uninterrupted rounds equal to the spell's level. Cannot be done in combat unless the sorcerer is fully secure. Costs nothing beyond time.
 
-### 7.2.5 The Casting Signature
+### 4.2.5 The Casting Signature
 
 Every sorcerer's magic is distinctive. At character creation, define your casting signature: a specific combination of gestures, words, sounds, smells, or foci. Not mechanical - it does not affect casting - but it makes magic visible and theatrical. Magic should be seen. A sorcerer may attempt to suppress their signature, but the signs leak through at moments of strong power use.
 
-### 7.2.6 Interruption During Casting
+### 4.2.6 Interruption During Casting
 
 If the sorcerer takes damage or a sudden shock while casting, make a Difficult Idea roll (INT/2, round up). On a failure, the working collapses and committed PP are lost. Knocked unconscious: automatic failure.
 
-### 7.2.7 Spell Duration
+### 4.2.7 Spell Duration
 
 Default duration is the caster's POW in combat rounds, unless the entry states otherwise. Instantaneous spells have no duration. A sorcerer may end a spell early by will at no cost.
 
-### 7.2.8 Resistance and Contested Spells
+### 4.2.8 Resistance and Contested Spells
 
-Targeted spells must overcome the target's resistance via a resistance roll (§4.3.5): the sorcerer's current PP (after paying the cost) vs. the target's POW. On a failure, the spell is blocked; PP are still spent. Winning a resistance roll against a target with equal or higher POW earns an experience checkmark toward improving POW (§4.7.5).
+Targeted spells must overcome the target's resistance via a resistance roll (§5.3.5): the sorcerer's current PP (after paying the cost) vs. the target's POW. On a failure, the spell is blocked; PP are still spent. Winning a resistance roll against a target with equal or higher POW earns an experience checkmark toward improving POW (§5.7.5).
 
-## 7.3 The Cost Trio
+## 4.3 The Cost Trio
 
 Sorcery has three costs operating at different scales. All three are real and in play simultaneously.
 
-### 7.3.1 Power Points
+### 4.3.1 Power Points
 
-The immediate cost. Every spell costs PP; at zero the sorcerer collapses. Every spend is a real decision: spell or Fate Point; Critical Buy or working. See §4.5 for the full Power Point rules.
+The immediate cost. Every spell costs PP; at zero the sorcerer collapses. Every spend is a real decision: spell or Fate Point; Critical Buy or working. See §5.5 for the full Power Point rules.
 
-### 7.3.2 Patron Score (Optional)
+### 4.3.2 Patron Score (Optional)
 
 A sorcerer who has entered a compact with a patron entity maintains a Patron Score tracking the relationship. It rises when the sorcerer serves the patron's interests; it measures both investment and debt.
 
@@ -99,7 +99,7 @@ A sorcerer who has entered a compact with a patron entity maintains a Patron Sco
 
 **Earning Patron Score:** After any adventure in which the sorcerer performed actions that served the patron's interests, the GM may call for a patron test. Roll D100. If the roll is less than the current Patron Score, the score increases by 1D6. §11 defines what a given patron values - each patron has its own trigger list.
 
-### 7.3.3 Corruption
+### 4.3.3 Corruption
 
 The permanent cost. Every sorcerer has a Corruption track, expressed as a score descending toward zero.
 
@@ -156,7 +156,7 @@ _At Corruption 0:_ the sorcerer is lost - retired as an NPC or an entity under G
 - **Destroying the source.** Permanently destroying or banishing the entity responsible may restore up to half the Corruption that source threatened. The GM sets the amount.
 - **Ritual substances.** Rare alchemical and herbal preparations (black lotus, specific ritual fumes) can restore small amounts. Expensive and unavailable in most markets; GM sets availability and cost.
 
-## 7.4 Iron Disrupts Sorcery
+## 4.4 Iron Disrupts Sorcery
 
 Unenchanted iron is inimical to the sorcerous current.
 
@@ -170,11 +170,11 @@ Unenchanted iron is inimical to the sorcerous current.
 
 See §8.11 for ENC, §8.5 for material tiers, and §8.12.1 for the full iron-vs-sorcery rules.
 
-## 7.5 Grimoires
+## 4.5 Grimoires
 
 A grimoire is the physical record of a sorcerer's knowledge - though "book" is rarely the right word for it. The format varies wildly; the function does not. Without a grimoire in some form, a sorcerer cannot learn new spells or recover forgotten ones. Losing one is a catastrophe.
 
-### 7.5.1 Grimoire Formats
+### 4.5.1 Grimoire Formats
 
 Sorcerous knowledge can be recorded in any medium that can bear inscription and survive handling. The following formats are standard in the ancient world:
 
@@ -192,7 +192,7 @@ Sorcerous knowledge can be recorded in any medium that can bear inscription and 
 
 **Scribed Bone.** Individual bones - human or animal - bearing carved notation. Compact and durable. Regarded with suspicion by most people; sorcerers who carry bone grimoires tend not to show them to strangers.
 
-### 7.5.2 Learning New Spells
+### 4.5.2 Learning New Spells
 
 Requirements:
 
@@ -204,11 +204,11 @@ Requirements:
 
 **The INT memory limit:** When learning a spell that pushes past the INT limit, choose which memorised spell goes to grimoire-only. The spell is not forgotten; it simply requires readying time before casting again.
 
-### 7.5.3 Scribing Your Own Grimoire
+### 4.5.3 Scribing Your Own Grimoire
 
 A sorcerer may copy memorised spells into a new grimoire. One day per spell level; appropriate tools required (ink and parchment for codex, kiln for clay tablets, etc.). If the original grimoire is damaged or lost, memorised spells are retained - but displaced spells are gone unless re-copied from a surviving grimoire or relearned. Multiple grimoires provide security at the cost of protection and transport.
 
-## 7.6 The Spell List
+## 4.6 The Spell List
 
 The spells below are available to sorcerer PCs. Ritual workings, patron-specific powers, and spells unique to individual sorcerers are in the GM's domain. Consult the summary table for a quick cost and time overview; then consult the full entry for mechanics.
 
@@ -274,7 +274,7 @@ A sorcerer may have up to POW/3 (round down) animated dead under their command a
 **Cast Time:** 1 round
 **Duration:** POW rounds
 
-The target must fail a POW resistance roll (§4.3.5) or enter a berserker state: attacks the nearest creature, cannot parry or dodge, cannot stop fighting even when mortally wounded. Does not feel pain. When the spell ends, the target collapses unless wounds were minor.
+The target must fail a POW resistance roll (§5.3.5) or enter a berserker state: attacks the nearest creature, cannot parry or dodge, cannot stop fighting even when mortally wounded. Does not feel pain. When the spell ends, the target collapses unless wounds were minor.
 
 **Cost Notes:** Casting at intensity 3 or higher increases Corruption by 1 (in addition to standard casting cost).
 
@@ -322,7 +322,7 @@ Enhances the target's Move Quietly skill: intensity 1 = +20%; intensity 2 = +40%
 **Cast Time:** 1 round
 **Duration:** Permanent until broken
 
-The target must fail a POW resistance roll (§4.3.5) or receive a permanent, visible disfigurement: a hand turned claw, an eye that clouds and weeps black, hair that falls and does not grow back. The mark imposes -20% to all social interactions in communities that recognise it, and is visible to See the Unseen. The curse can only be broken by Undo Sorcery at equal or greater intensity, or by killing the caster.
+The target must fail a POW resistance roll (§5.3.5) or receive a permanent, visible disfigurement: a hand turned claw, an eye that clouds and weeps black, hair that falls and does not grow back. The mark imposes -20% to all social interactions in communities that recognise it, and is visible to See the Unseen. The curse can only be broken by Undo Sorcery at equal or greater intensity, or by killing the caster.
 
 **Cost Notes:** Casting increases Corruption by 1D3 (in addition to standard casting cost).
 
@@ -559,7 +559,7 @@ The target must fail a POW resistance roll or be unable to cast spells, plan coh
 
 The sorcerer prepares a circle, invokes a demon by the appropriate formula, and calls it into physical presence. The demon arrives not bound, and has agreed to nothing - that negotiation follows. The player-side procedure is in §8; the demon's behaviour and demands are in §11.
 
-**Cost Notes:** Summoning a lesser demon causes Corruption per the §7.3.3 table. Summoning a Greater Demon causes 1D3 additional Corruption regardless of the roll result.
+**Cost Notes:** Summoning a lesser demon causes Corruption per the §4.3.3 table. Summoning a Greater Demon causes 1D3 additional Corruption regardless of the roll result.
 
 ### Sureness of Hand
 
@@ -646,11 +646,11 @@ The target may refuse the contact - choosing to ignore the voice in their head r
 
 The sorcerer examines a wound, a body, or a patient in extremis and reads what happened with sorcerous clarity: the exact cause, timing, and weapon type of any wound; whether a death was caused by poison and roughly which; and how close to death a living patient is. Diagnostic only - it does not heal.
 
-## 7.7 Demon Summoning: The Player's Side
+## 4.7 Demon Summoning: The Player's Side
 
 Summoning is an extended ritual followed by a negotiation. The demon's appearance, demands, and behaviour are in §11. This section covers the sorcerer's side.
 
-### 7.7.1 Preparation
+### 4.7.1 Preparation
 
 Before invoking a demon, the sorcerer must:
 
@@ -660,15 +660,15 @@ Before invoking a demon, the sorcerer must:
 
 **Gather materials.** §11 describes what a specific demon prefers. Preparing without the appropriate materials imposes penalties on the binding roll.
 
-### 7.7.2 The Invocation
+### 4.7.2 The Invocation
 
 The sorcerer spends 4 PP and completes the minimum 4-hour working. The demon appears at the circle's edge - whether it enters is its own choice. With a true name, the demon is compelled to appear and hear the sorcerer's offer. Without a name, it may simply not come (GM rolls in secret). PP contributed via Chain of Being may pay the summoning cost and subsequent binding.
 
-### 7.7.3 The Bargain
+### 4.7.3 The Bargain
 
 The demon has desires. A lesser demon may want blood, PP, a body to wear, or a task done. A greater demon wants permanent POW, a future service, or a third party delivered. Both parties state their offer and demand; either may refuse, counter-offer, or accept. The GM may call for rolls on persuasion, willpower, or detecting deception. The bargain, once agreed, binds both parties in the demon's own fashion.
 
-### 7.7.4 The Binding
+### 4.7.4 The Binding
 
 To secure the demon's service beyond a one-time deal, it must be bound.
 
@@ -682,7 +682,7 @@ To secure the demon's service beyond a one-time deal, it must be bound.
 
 **True name:** Once bound, the demon's true name is surrendered to the sorcerer, allowing recall and dismissal at will (1 PP each).
 
-### 7.7.5 Release and Breaking
+### 4.7.5 Release and Breaking
 
 A binding ends in one of four ways:
 

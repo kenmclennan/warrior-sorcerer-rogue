@@ -3,7 +3,7 @@
 > _"There were at least a score of them - hard, lean, wolfish men, with a sprinkling of black-bearded nomads among them."_
 > _- Robert E. Howard_
 
-This chapter covers stat block formats, design principles, and ready-to-use examples for the three tiers of human enemy: Rabble, professionals, and named antagonists. The combat chapter keeps a brief Rabble pointer in §5.5.1; the full Rabble rule and stat-block format are below.
+This chapter covers stat block formats, design principles, and ready-to-use examples for the three tiers of human enemy: Rabble, professionals, and named antagonists. The combat chapter keeps a brief Rabble pointer in §6.5.1; the full Rabble rule and stat-block format are below.
 
 ## 9.1 The Three-Tier Model
 
@@ -37,7 +37,7 @@ Named antagonists are PC-grade characters: individuals with full stat blocks, Fa
 
 **Mechanical profile.** Build named antagonists exactly as you would build a PC (see §2 for the chargen procedure). All the same rules apply: characteristics, derived stats, skills, talents, passions, reputation. **HP uses the full PC formula: CON + SIZ** (not the half formula used by Rabble and Professionals). The GM version of a named antagonist has full Fate Point access - their Power Points can fund defensive spends, and they will use them when the stakes are high enough.
 
-For sorcerer-villain antagonists, apply the full Sorcery rules from §7. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in §11 (NPC Sorcery and Patrons); the stat blocks in §5 of this chapter include a worked example.
+For sorcerer-villain antagonists, apply the full Sorcery rules from §4. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in §11 (NPC Sorcery and Patrons); the stat blocks in §6 of this chapter include a worked example.
 
 ## 9.2 Rabble Stat Block Format
 
@@ -182,11 +182,11 @@ The villain's PP are the GM's primary pacing tool. Decide at session prep how ma
 
 ### 9.4.3 Sorcerer Antagonists
 
-Sorcerer-villain antagonists have a Corruption track and may have a Patron Score. Use the full mechanics from §7 for their sorcery. Additionally:
+Sorcerer-villain antagonists have a Corruption track and may have a Patron Score. Use the full mechanics from §4 for their sorcery. Additionally:
 
 **Spells in memory.** Two or three spells, total levels not exceeding half INT (consistent with the PC rule in §2.10.2).
 
-**Casting under pressure.** Sorcerer antagonists follow §7.2 and share the combat interruption risk (§5.9). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
+**Casting under pressure.** Sorcerer antagonists follow §4.2 and share the combat interruption risk (§6.9). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
 
 **Corruption as a signal.** Corruption level shows how far the sorcerer has gone. Near the Breaking Point means they have sold something fundamental - let that show in their behaviour and decisions.
 

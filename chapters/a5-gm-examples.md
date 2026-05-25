@@ -201,11 +201,11 @@ Fate Point access: Yes (full named-antagonist PP pool, spends normally).
 
 ## A5.3 Running a Chase Scene at the Table
 
-_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: §6.8._
+_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: §7.8._
 
 ### A5.3.1 Set-Up
 
-**Establish the six elements (§6.8.1):**
+**Establish the six elements (§7.8.1):**
 
 1. **Starting positions:** Khess was discovered in the archive's lower approach. She had thirty seconds' head start before the alarm went up. Starting position: **Engaged** (she is visible, they are closing).
 
@@ -235,7 +235,7 @@ _Result: Pursuer failed, quarry succeeded. Position shifts one step further away
 
 Khess reaches the chandler's shop. The low roof connection is her planned escape route.
 
-**The GM calls an obstacle roll:** Climb (§6.8.2). Khess has Climb 61%. She rolls **45** - success.
+**The GM calls an obstacle roll:** Climb (§7.8.2). Khess has Climb 61%. She rolls **45** - success.
 
 **Lead enforcer Climb roll** (his Climb is 40%): rolls **67** - failure. He fails the obstacle - loses one additional position from the standard result.
 
@@ -283,7 +283,7 @@ _If Karash had iron on him, the penalty would apply now. The GM reminds players 
 
 **3. What is the Corruption cost?**
 
-Intensity 3 casting: standard Corruption table (§7.3.3). If the casting succeeds: 0 Corruption. If it fails: 1 Corruption. Additionally, Bind the Raging Heart has a spell-specific note: a successful casting against a resisting target who nonetheless beats the resistance roll imposes 1D3 Corruption on the caster regardless (the spell attempted to override a strong will and was denied - the effort costs).
+Intensity 3 casting: standard Corruption table (§4.3.3). If the casting succeeds: 0 Corruption. If it fails: 1 Corruption. Additionally, Bind the Raging Heart has a spell-specific note: a successful casting against a resisting target who nonetheless beats the resistance roll imposes 1D3 Corruption on the caster regardless (the spell attempted to override a strong will and was denied - the effort costs).
 
 The GM flags this. It requires checking the spell entry but is not hidden from the player.
 
@@ -299,13 +299,13 @@ Magic is theatrical (design.md §2.2). The GM describes Karash's casting signatu
 
 ### A5.4.2 Initiative and Casting
 
-Per §7.2.3: Karash declares his intent to cast at the start of the round and rolls **1D10 + INT** (instead of the usual 1D10 + DEX) for his initiative this round - the mental quickness of the working drives the cast's speed (§5.1). The cost is paid and the effect fires when his Initiative Rank comes up - sorcery casting is automatic for memorised spells (§7.2.2); the only risk is being interrupted before that Rank.
+Per §4.2.3: Karash declares his intent to cast at the start of the round and rolls **1D10 + INT** (instead of the usual 1D10 + DEX) for his initiative this round - the mental quickness of the working drives the cast's speed (§6.1). The cost is paid and the effect fires when his Initiative Rank comes up - sorcery casting is automatic for memorised spells (§4.2.2); the only risk is being interrupted before that Rank.
 
 **Karash's player declares:** "Casting Bind the Raging Heart, Intensity 3, targeting the mercenary."
 
 **Initiative rolls.** Karash rolls 1D10 + INT 16 = 5 + 16 = **21**. The mercenary rolls 1D10 + DEX 12 = 7 + 12 = **19**. Khess and Orryn roll higher than the mercenary and engage the close-range threats first.
 
-**The GM notes:** Karash must reach Initiative Rank 21 without taking a hit (§5.9 - any wound before the cast resolves causes the spell to fail and the PP are spent). The mercenary's 19 is one Rank lower, and Khess and Orryn are tying him up. Karash is clear.
+**The GM notes:** Karash must reach Initiative Rank 21 without taking a hit (§6.9 - any wound before the cast resolves causes the spell to fail and the PP are spent). The mercenary's 19 is one Rank lower, and Khess and Orryn are tying him up. Karash is clear.
 
 **At initiative 21:** Karash casts. The player spends 3 PP (pool drops to 9). No roll is made for the casting itself.
 
@@ -329,7 +329,7 @@ More importantly: the Faceless One's demands (§11.4.2) include "No attachments"
 
 The GM does not say this out loud. But the GM knows it. If the player invokes the Faceless One and the allegiance roll succeeds, the intervention will arrive in a way that aligns with the patron's domain - transformation, loss, irreversible change - rather than simply binding the mercenary. The intervention might work on the mercenary, or it might work on something else in the scene. The Faceless One is not a precise tool.
 
-_This is the GM's side of the patron compact: knowing what the patron would and would not do, and running that honestly even when it is inconvenient for the PC. The player knows their patron's demands from their character sheet (§7.3.2). The GM knows what those demands mean in practice._
+_This is the GM's side of the patron compact: knowing what the patron would and would not do, and running that honestly even when it is inconvenient for the PC. The player knows their patron's demands from their character sheet (§4.3.2). The GM knows what those demands mean in practice._
 
 Karash does not invoke. The player decides 9 PP is enough for a Deflect the Killing Blow if needed, and the mercenary is already badly wounded from Orryn's earlier attack. They will finish the fight the old way.
 
@@ -337,6 +337,6 @@ Karash does not invoke. The player decides 9 PP is enough for a Deflect the Kill
 
 - **Pre-casting checklist:** PP cost, iron penalty, Corruption cost, resistance probability - worked through before a die is rolled.
 - **Resistance roll vs. spell failure:** The target resisted. PP spent, Corruption paid, spell did not take hold. This is a distinct outcome from the caster making an error (§A2.3.5).
-- **Spell-specific Corruption:** Standard Corruption table and spell-specific note are separate charges; check both (§7.3.3).
+- **Spell-specific Corruption:** Standard Corruption table and spell-specific note are separate charges; check both (§4.3.3).
 - **Patron compact:** Know what the patron would and would not do before the player invokes it - run the patron honestly, not as a convenient rescue (§11.3).
 - **Iron check:** GM responsibility to surface it before the roll, not after.

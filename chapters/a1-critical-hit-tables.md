@@ -23,7 +23,7 @@ Each attack deals one of five damage types. The damage type determines which tab
 
 The weapon's entry in §8 Equipment lists its damage type. When two types apply (a blade driven into a deep thrust, for instance), the attacker chooses which table to use at the moment the critical is declared.
 
-**Animal and natural-weapon attacks.** Beasts and other non-weapon-using creatures use these same tables. Map the attack to its mechanical character: bite or rake = Slash, gore with tusk or horn = Pierce, hoof or paw-buffet = Krush, constricting or grappling attack = Grapple (§7), supernatural flame or fire-touch = Burn (§5). Substitute appropriate descriptors when reading the result aloud (fang for blade, claw for edge, hoof for haft, gore for thrust). The mechanical effects apply unchanged.
+**Animal and natural-weapon attacks.** Beasts and other non-weapon-using creatures use these same tables. Map the attack to its mechanical character: bite or rake = Slash, gore with tusk or horn = Pierce, hoof or paw-buffet = Krush, constricting or grappling attack = Grapple (§4), supernatural flame or fire-touch = Burn (§6). Substitute appropriate descriptors when reading the result aloud (fang for blade, claw for edge, hoof for haft, gore for thrust). The mechanical effects apply unchanged.
 
 ### A1.1.2 Severity Bands
 
@@ -37,7 +37,7 @@ Five severity bands, A through E. The severity band is determined by which match
 | 66, 77              | D    |
 | 88, 99              | E    |
 
-**The 01 always-crit special case.** A roll of 01 is always a Critical Success (§4.2.1). Its severity band is the highest band the character could otherwise reach via matching dice at their effective skill (skill after difficulty modifiers): the 01 crit lands in the same band that the character's best regular crit would land. A novice's lucky shot is mild; a master's lucky shot is devastating.
+**The 01 always-crit special case.** A roll of 01 is always a Critical Success (§5.2.1). Its severity band is the highest band the character could otherwise reach via matching dice at their effective skill (skill after difficulty modifiers): the 01 crit lands in the same band that the character's best regular crit would land. A novice's lucky shot is mild; a master's lucky shot is devastating.
 
 **Skill vs matching-dice lookup.** Use this table to determine the band for any critical, including the 01 always-crit:
 
@@ -72,7 +72,7 @@ Each result: **wound description + mechanical effect**. Read or paraphrase the d
 
 **Bonus damage.** Additional HP damage applied immediately, on top of the attack's base damage. This damage bypasses armour.
 
-**Status names.** Many entries inflict named statuses - **Bleeding**, **Burning**, **Impaled**, **Knockback**, **Knocked Down**, **Stunned**, **Reeling**, **Grappled**, **Entangled**. These are defined once in §5.5.2 Status Effects; their effects, durations, and removal procedures live there.
+**Status names.** Many entries inflict named statuses - **Bleeding**, **Burning**, **Impaled**, **Knockback**, **Knocked Down**, **Stunned**, **Reeling**, **Grappled**, **Entangled**. These are defined once in §6.5.2 Status Effects; their effects, durations, and removal procedures live there.
 
 **Useless.** The affected limb cannot be used until the wound is treated and the character rests. A useless weapon arm means weapons must be switched to the other hand (all attacks Difficult until trained); a useless shield arm means no shield bonus to parry.
 
@@ -98,7 +98,7 @@ Each band is a mix of severities. Roughly:
 
 **Deadly** - life-changing or life-ending: permanent injury, instant death, dying in 1-2 rounds, permanent characteristic loss.
 
-Within a band, results trend lighter at the bottom of the 1d10 and heavier at the top, but the exact category mix is fuzzy - a Band C roll-2 might still bite hard, and a Band E roll-1 might be merciful by E's standards. Band E entries can be survived by spending PP on Deflect the Killing Blow (§4.6.8). Named antagonists can do the same; Rabble cannot.
+Within a band, results trend lighter at the bottom of the 1d10 and heavier at the top, but the exact category mix is fuzzy - a Band C roll-2 might still bite hard, and a Band E roll-1 might be merciful by E's standards. Band E entries can be survived by spending PP on Deflect the Killing Blow (§5.6.8). Named antagonists can do the same; Rabble cannot.
 
 > **Sidebar: A Worked Example**
 >
@@ -220,10 +220,10 @@ A **Fumble** in combat (a roll of 00, or matching dice outside the success range
 | ----- | ---------------------------------------------------------------------------------------------------------------------- |
 | 01-15 | Lose your next action; effectively helpless until then.                                                                |
 | 16-25 | Lose your next 1D3 actions; effectively helpless until then.                                                           |
-| 26-40 | Fall prone (Knocked Down, §5.5.2).                                                                                     |
+| 26-40 | Fall prone (Knocked Down, §6.5.2).                                                                                     |
 | 41-50 | Drop your weapon at your feet.                                                                                         |
 | 51-60 | The weapon flies from your grip 1D10 metres in a direction the GM picks.                                               |
-| 61-65 | Your weapon takes 1D10 HP damage (see Broken Weapons, §5.4.4).                                                         |
+| 61-65 | Your weapon takes 1D10 HP damage (see Broken Weapons, §6.4.4).                                                         |
 | 66-75 | Vision obscured (dust, blood, sweat in the eyes); all your skills at -30% for 1D3 rounds.                              |
 | 76-90 | The swing carries past the target and strikes the nearest ally for normal damage (use result 41-50 if no ally in arc). |
 | 91-98 | The blow lands on the nearest ally as a Critical (consult §A1; use result 51-60 if no ally in arc).                    |
@@ -235,7 +235,7 @@ A **Fumble** in combat (a roll of 00, or matching dice outside the success range
 | D100  | Result                                                                                                         |
 | ----- | -------------------------------------------------------------------------------------------------------------- |
 | 01-20 | Lose your next action (or this round's, if not yet used); effectively helpless.                                |
-| 21-40 | Fall prone (Knocked Down, §5.5.2).                                                                             |
+| 21-40 | Fall prone (Knocked Down, §6.5.2).                                                                             |
 | 41-50 | Drop your parrying weapon at your feet.                                                                        |
 | 51-60 | The parrying weapon flies from your grip 1D10 metres in a direction the GM picks.                              |
 | 61-75 | Vision obscured (deflected blow, blood, your own pommel in your face); all your skills at -30% for 1D3 rounds. |
@@ -250,11 +250,11 @@ A **Fumble** in combat (a roll of 00, or matching dice outside the success range
 | ----- | ----------------------------------------------------------------------------------------------------------------------- |
 | 01-15 | Lose your next missile attack or action.                                                                                |
 | 16-25 | Lose your next 1D3 actions.                                                                                             |
-| 26-40 | Fall prone (Knocked Down, §5.5.2).                                                                                      |
+| 26-40 | Fall prone (Knocked Down, §6.5.2).                                                                                      |
 | 41-55 | Vision obscured (a flash of sun, a sudden gust, sweat in the eyes); all your skills at -30% for 1D3 rounds.             |
 | 56-65 | Drop your weapon; it slides or bounces 1D6 metres.                                                                      |
 | 66-80 | Your weapon takes 1D6 HP damage (or use result 81-85 if it has no HP listed).                                           |
-| 81-85 | Your weapon breaks (regardless of current HP). See Broken Weapons (§5.4.4).                                             |
+| 81-85 | Your weapon breaks (regardless of current HP). See Broken Weapons (§6.4.4).                                             |
 | 86-95 | The shot strays into the nearest ally in the line of fire for normal damage (use result 56-65 if no ally in line).      |
 | 96-98 | The shot strikes the nearest ally in the line of fire as a Critical (consult §A1; use result 81-85 if no ally in line). |
 | 99    | A bad fumble: roll twice more on this table.                                                                            |
@@ -268,7 +268,7 @@ For unarmed attacks (Brawl, Grapple), natural-weapon attacks (claws, teeth, talo
 | ----- | ------------------------------------------------------------------------------------------------------------- |
 | 01-25 | Lose your next action (or this round's, if not yet used).                                                     |
 | 26-30 | Lose your next 1D3 actions.                                                                                   |
-| 31-50 | Fall prone (Knocked Down, §5.5.2).                                                                            |
+| 31-50 | Fall prone (Knocked Down, §6.5.2).                                                                            |
 | 51-60 | Fall prone and twist an ankle; -1 to MOV for 1D10 turns.                                                      |
 | 61-75 | Vision obscured (sweat, blood, dust); all your skills at -30% for 1D3 rounds.                                 |
 | 76-85 | Miss and strain something; lose 1 HP from the attacking limb.                                                 |

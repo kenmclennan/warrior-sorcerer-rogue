@@ -215,7 +215,7 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 
 ### A2.2.2 Round 1: Initiative and Casting
 
-The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the Rabble flank him. Everyone rolls initiative (§5.1): 1D10 + DEX by default. Karash declares he is casting this round and rolls 1D10 + INT instead.
+The ambush breaks as the party rounds a corner. Three men step out of an alley mouth. Davan is in the centre; the Rabble flank him. Everyone rolls initiative (§6.1): 1D10 + DEX by default. Karash declares he is casting this round and rolls 1D10 + INT instead.
 
 **Initiative rolls (descending):**
 
@@ -228,9 +228,9 @@ The ambush breaks as the party rounds a corner. Three men step out of an alley m
 
 **At initiative 26 (Karash):**
 
-Karash casts _Cloak of Night_ at Intensity 1 (see §7.6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Move Quietly. Her Move Quietly is now effectively 71% for the duration.
+Karash casts _Cloak of Night_ at Intensity 1 (see §4.6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Move Quietly. Her Move Quietly is now effectively 71% for the duration.
 
-No Corruption roll: Intensity 1 and 2 spells trigger the Corruption roll only on failure; standard casting Corruption applies (see §7.3.3 - casting Intensity 1: 0 / 1 Corruption). Karash rolls against his Corruption of 85: he rolls 44. Success. No Corruption lost this round.
+No Corruption roll: Intensity 1 and 2 spells trigger the Corruption roll only on failure; standard casting Corruption applies (see §4.3.3 - casting Intensity 1: 0 / 1 Corruption). Karash rolls against his Corruption of 85: he rolls 44. Success. No Corruption lost this round.
 
 **Action (descending initiative):**
 
@@ -250,7 +250,7 @@ Khess takes maximum dagger damage on the crit: 1D4+2 = max 4+2 = **6.** Plus +5 
 
 > The critical applies the §A1 entry: pierced lung, stunned for 2 rounds, terrible breathing. Damage knocks Davan from HP 12 to HP 1 - one more hit will drop him.
 
-**Davan's Initiative Rank (22).** He is Stunned (§5.5.2). A stunned character cannot attack. He may still attempt to parry or dodge at Difficult - but since he was not attacked again this round, there is nothing to defend against. He stands in the alley, labouring to breathe.
+**Davan's Initiative Rank (22).** He is Stunned (§6.5.2). A stunned character cannot attack. He may still attempt to parry or dodge at Difficult - but since he was not attacked again this round, there is nothing to defend against. He stands in the alley, labouring to breathe.
 
 **Orryn acts at initiative 19.** He attacks Rabble A with his sword: rolls **39** against Sword 65%. A normal success.
 
@@ -267,7 +267,7 @@ Result: Success vs. Failure - Orryn's attack hits normally, armour applies. Rabb
 
 ### A2.2.3 Round 2: A Dying Blow and Stand Your Ground
 
-**Davan is at 0 HP.** He is dying (§5.5.1). His stun has 1 round remaining. He cannot attack. He can attempt one last act.
+**Davan is at 0 HP.** He is dying (§6.5.1). His stun has 1 round remaining. He cannot attack. He can attempt one last act.
 
 Initiative is rolled fresh. Khess rolls 1D10 + DEX 18 = 8 + 18 = **26**. Davan rolls 1D10 + DEX 15 = 8 + 15 = **23**. Orryn rolls 1D10 + DEX 13 = 7 + 13 = **20**.
 
@@ -279,7 +279,7 @@ The GM rolls 1d10 on Pierce, Band B: result is **3**. The entry reads: _"The bla
 
 Maximum dagger damage on the crit: 1D4+2 = 4+2 = **6.** Plus +4 bonus damage = **10 damage.** Rabble B's half-HP threshold is 5. 10 exceeds 5. **Rabble B is automatically incapacitated.** He drops to the cobblestones, arm hanging useless.
 
-**At initiative 23 (Davan).** He is at 0 HP, dying, his stun with 1 round remaining. He declares a **Dying Blow** (§5.11). Stamina roll (CON x5): CON 12, so 60%. He rolls **37.** Success. He gets one final Difficult action.
+**At initiative 23 (Davan).** He is at 0 HP, dying, his stun with 1 round remaining. He declares a **Dying Blow** (§6.11). Stamina roll (CON x5): CON 12, so 60%. He rolls **37.** Success. He gets one final Difficult action.
 
 He shouts in a ragged voice: _"Syndicate! The Knife is here! Salt Causeway!"_ - alerting any Syndicate members within earshot. Shouting is not a roll-dependent task; the GM rules the warning is out. Davan collapses.
 
@@ -297,14 +297,14 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 
 ### A2.2.5 What the Example Demonstrated
 
-- **Initiative** (§5.1): 1D10 + DEX gave Khess a high initiative (24) and let her act before Davan despite his action being declared first in the narration. Karash's 1D10 + INT (26) put his cast at the top of the round.
+- **Initiative** (§6.1): 1D10 + DEX gave Khess a high initiative (24) and let her act before Davan despite his action being declared first in the narration. Karash's 1D10 + INT (26) put his cast at the top of the round.
 - **Rabble incapacitation** (§9.2): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
 - **The Quiet Knife talent** (§2.7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
-- **Critical Buy** (§4.6.1): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
+- **Critical Buy** (§5.6.1): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
 - **§A1 lookup** (§A1.3): Band C Pierce, 1d10 = 5. Result: pierced lung, stunned 2 rounds, terrible breathing. Read aloud, resolved immediately.
 - **Fate Point: not spent** - Davan was reduced to 0 HP before he could spend PP on Deflect the Killing Blow (which requires minimum 8 PP; he had 9). His player chose not to spend, because it would leave him alive with 1 HP and surrounded by enemies.
-- **Dying Blow** (§5.11): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
-- **Corruption roll** (§7.3.3): Karash cast a low-intensity spell and succeeded his Corruption roll. Nothing lost this round.
+- **Dying Blow** (§6.11): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
+- **Corruption roll** (§4.3.3): Karash cast a low-intensity spell and succeeded his Corruption roll. Nothing lost this round.
 
 ## A2.3 Sorcery Example: Karash Casts the Curse
 
@@ -324,11 +324,11 @@ _Karash is at his casting spot: a rented room with a cleared floor, a brazier bu
 
 **Memorised spells (INT = 15 spell levels):** Curse of the Withered Hand (level 4), Cloak of Night (level 1), See the Unseen (level 3), Moonrise (level 1), Shadow-Wrap (level 2), Midnight (level 1), Bird's Eye (level 3) - total: 15 levels. He is at capacity.
 
-**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (§4.3.5). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
+**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (§5.3.5). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
 
 ### A2.3.2 The Iron Problem
 
-Karash reviews what he is carrying before casting. He has a bronze dagger at his hip (bronze, no penalty), leather wrappings on the grimoire (no penalty), a belt with iron buckles. The GM rules the iron buckles are trivial - small fittings on primarily leather items, below the threshold (§7.4). No iron penalty applies tonight. Karash has dressed carefully.
+Karash reviews what he is carrying before casting. He has a bronze dagger at his hip (bronze, no penalty), leather wrappings on the grimoire (no penalty), a belt with iron buckles. The GM rules the iron buckles are trivial - small fittings on primarily leather items, below the threshold (§4.4). No iron penalty applies tonight. Karash has dressed carefully.
 
 ### A2.3.3 Extending the Range: The Sorcerer's Reach Talent
 
@@ -348,7 +348,7 @@ _This is a two-casting night._ Karash will cast Bird's Eye in round one, then su
 
 **Casting signature:** The smell of burning copper sharpens. The candle flames go sideways. The shadow on the wall is definitely facing the wrong direction.
 
-**Corruption roll (Bird's Eye, Intensity 3):** Intensity 3 crosses the standard Corruption trigger (§7.3.3 - casting Intensity 3 or lower: 0/1 on success/failure). Karash rolls against his current Corruption of 85: he rolls **74.** Success. No Corruption from Bird's Eye.
+**Corruption roll (Bird's Eye, Intensity 3):** Intensity 3 crosses the standard Corruption trigger (§4.3.3 - casting Intensity 3 or lower: 0/1 on success/failure). Karash rolls against his current Corruption of 85: he rolls **74.** Success. No Corruption from Bird's Eye.
 
 Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, counting coin by lamplight. The raven is on the counting-house windowsill. Karash knows his target's position. The POW resistance roll for the Curse will be based on Karash's PP total at the moment of casting (after the Curse's own cost) versus Mekhos's POW.
 
@@ -360,11 +360,11 @@ Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, co
 
 The GM rolls the resistance roll for Mekhos (since Mekhos is unaware): **76.** The result exceeds 40% - **the curse fails to set.** Mekhos does not feel it. His POW was enough, at that distance, to shrug it off without knowing.
 
-> _This is not a Fumble and it is not Karash's failure._ The PP were spent. The casting was correct. The target simply resisted. This is a sorcery failure mode that comes from outside the caster (§7.2.1): the target's resistance was sufficient.
+> _This is not a Fumble and it is not Karash's failure._ The PP were spent. The casting was correct. The target simply resisted. This is a sorcery failure mode that comes from outside the caster (§4.2.1): the target's resistance was sufficient.
 
 **Corruption roll (Curse of the Withered Hand, Intensity 4).** Even though the curse failed to take hold, the PP were spent and the casting occurred. Corruption applies regardless of target resistance.
 
-First, the standard Corruption table (§7.3.3 - casting Intensity 4 or higher: 1/1D3): Karash rolls against his current Corruption of 85: **31.** Success. He takes the lower result: **1 Corruption.** His Corruption drops from 85 to **84.**
+First, the standard Corruption table (§4.3.3 - casting Intensity 4 or higher: 1/1D3): Karash rolls against his current Corruption of 85: **31.** Success. He takes the lower result: **1 Corruption.** His Corruption drops from 85 to **84.**
 
 Second, the spell's specific Cost Notes: _Curse of the Withered Hand always causes 1D3 Corruption in addition to the standard cost._ Karash rolls 1D3: **2.** He takes 2 more Corruption. His Corruption drops from 84 to **82.**
 
@@ -376,9 +376,9 @@ Karash notes this on his sheet. His Breaking Point is 42. He is nowhere near the
 
 Karash has 8 PP remaining. He considers whether to try again - can Mekhos be reached another way, or should he invoke the Faceless One?
 
-Patron Intercession is available (§7.3.2): Karash may invoke the Faceless One by name as a full action. He makes an allegiance roll against his current Patron Score of 14. A Critical (matching dice within 14%) would bring the Faceless One's direct intervention - but only rolls of 11 would qualify as both a matching-dice value and within 14%. The odds are poor.
+Patron Intercession is available (§4.3.2): Karash may invoke the Faceless One by name as a full action. He makes an allegiance roll against his current Patron Score of 14. A Critical (matching dice within 14%) would bring the Faceless One's direct intervention - but only rolls of 11 would qualify as both a matching-dice value and within 14%. The odds are poor.
 
-Karash does not invoke. Instead he makes a practical decision: he will find another way to reach Mekhos, or wait until the man is in range. He releases the Bird's Eye working (ending it early costs nothing - §7.2.7) and closes the casting.
+Karash does not invoke. Instead he makes a practical decision: he will find another way to reach Mekhos, or wait until the man is in range. He releases the Bird's Eye working (ending it early costs nothing - §4.2.7) and closes the casting.
 
 **The Patron Score does not change this session.** The Faceless One was not called. The debt neither grew nor shrank.
 
@@ -392,17 +392,17 @@ Karash is intact. He is 3 Corruption lighter. He smells of copper. He has 8 PP a
 
 ### A2.3.8 What the Example Demonstrated
 
-- **PP cost and casting time** (§7.2.2 and §2.3): Each spell costs PP at the moment of casting. Two spells in two rounds depleted Karash's pool significantly.
-- **Corruption gain and a Corruption roll** (§7.3.3): Even a failed curse costs Corruption. Two separate Corruption costs applied to a single casting: the standard table roll plus the spell's specific additional cost.
-- **The resistance roll as a sorcery failure mode** (§7.2.8): Karash's sorcery did not fumble - the target simply resisted. PP spent, Corruption paid, curse blocked. This is the correct outcome.
+- **PP cost and casting time** (§4.2.2 and §2.3): Each spell costs PP at the moment of casting. Two spells in two rounds depleted Karash's pool significantly.
+- **Corruption gain and a Corruption roll** (§4.3.3): Even a failed curse costs Corruption. Two separate Corruption costs applied to a single casting: the standard table roll plus the spell's specific additional cost.
+- **The resistance roll as a sorcery failure mode** (§4.2.8): Karash's sorcery did not fumble - the target simply resisted. PP spent, Corruption paid, curse blocked. This is the correct outcome.
 - **Visual drama** (design.md §2.2): the casting signature is always present; the room responds to the working even when the working fails.
-- **Patron compact mechanics** (§7.3.2): Karash had access to Patron Intercession but chose not to invoke it. The patron relationship is a resource, not an obligation - until the Patron Score climbs high enough.
-- **Iron-vs-sorcery** (§7.4): Karash dressed carefully. No iron penalty this night.
+- **Patron compact mechanics** (§4.3.2): Karash had access to Patron Intercession but chose not to invoke it. The patron relationship is a resource, not an obligation - until the Patron Score climbs high enough.
+- **Iron-vs-sorcery** (§4.4): Karash dressed carefully. No iron penalty this night.
 - **PP economy after the fight**: Karash began the casting at 15 PP (two days' recovery from the ambush). He spent 3 on Bird's Eye and 4 on the Curse, ending at 8 PP. He retains enough PP for one defensive Fate Point spend if needed, but he is not comfortable.
 
 ## A2.4 Session Sketch: The Ledger of Mekhos
 
-_A single-session sketch using the hook-complications-reckoning structure (design.md §4.1). Not a full scenario - a framework showing how a session feels from the outside._
+_A single-session sketch using the hook-complications-reckoning structure (design.md §5.1). Not a full scenario - a framework showing how a session feels from the outside._
 
 ### A2.4.1 The Hook
 

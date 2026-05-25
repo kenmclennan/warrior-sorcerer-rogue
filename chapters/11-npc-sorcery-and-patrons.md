@@ -2,7 +2,7 @@
 
 > _"I have made a pact with powers that have no name in your tongue. I do not ask for your understanding. Only your service - or your life."_
 
-This chapter covers building sorcerer antagonists, naming and running patron entities, conducting ritual workings, managing bound demons as campaign elements, and running the Apotheosis trajectory for patron-bonded sorcerers who have gone too far. Read §7 first - this chapter deepens what players see from the other side of the circle.
+This chapter covers building sorcerer antagonists, naming and running patron entities, conducting ritual workings, managing bound demons as campaign elements, and running the Apotheosis trajectory for patron-bonded sorcerers who have gone too far. Read §4 first - this chapter deepens what players see from the other side of the circle.
 
 ## 11.1 Designing an NPC Sorcerer
 
@@ -18,9 +18,9 @@ Everything else follows from those answers.
 
 ### 11.1.2 POW and Spell Loadout
 
-**POW threshold:** NPC sorcerers require POW 16+ (§7.1.2). POW 18-20 is a senior practitioner; POW 21+ is genuinely exceptional. Demon binding costs permanent POW - a veteran demon-binder may have started at POW 22 and now sit at POW 17 after binding three demons. This shows: slightly more frail than their reputation suggests.
+**POW threshold:** NPC sorcerers require POW 16+ (§4.1.2). POW 18-20 is a senior practitioner; POW 21+ is genuinely exceptional. Demon binding costs permanent POW - a veteran demon-binder may have started at POW 22 and now sit at POW 17 after binding three demons. This shows: slightly more frail than their reputation suggests.
 
-**Spell loadout:** NPC sorcerers hold spells in memory up to their INT characteristic (§7.2.4). For practical GM use:
+**Spell loadout:** NPC sorcerers hold spells in memory up to their INT characteristic (§4.2.4). For practical GM use:
 
 - **Low-tier sorcerer (POW 16-17):** 3-4 spells in memory, total levels not exceeding INT. Typically survival spells (See the Unseen, Iron Ward), one offensive spell (Flaying Blade, Bind the Raging Heart), and one utility spell.
 - **Mid-tier sorcerer (POW 18-19):** 4-6 spells in memory. Adds defensive options (Shadow-Wrap), an investigative spell (Bird's Eye, Vermin's Eye), and one specialist spell matching their narrative role.
@@ -37,13 +37,13 @@ Everything else follows from those answers.
 - **Above half starting value:** Presents as intense but passes for human.
 - **At or below half starting value (Breaking Point zone):** Visibly changed. Animals will not approach; strangers feel unease; casting signature manifests involuntarily. Cannot blend into crowds.
 - **25 or below:** Deeply marked. Appearance alarms strangers; social interactions are Difficult unless the sorcerer's nature is expected in context.
-- **1-5:** On the edge, barely tethered. Apply acute episode results (§7.3.3) under stress.
+- **1-5:** On the edge, barely tethered. Apply acute episode results (§4.3.3) under stress.
 
 **Bound demons:** A single bound lesser demon costs 1 permanent POW; Greater Demon binding costs 1D6 permanent POW. An NPC who has bound multiple demons is significantly diminished from what they once were - and correspondingly more dangerous, because they have the demons to compensate.
 
 ### 11.1.4 Unique Spells
 
-High-tier NPC sorcerers may possess spells not on the player spell list (§7.6). These are described in the NPC's entry and require finding their personal grimoire and meeting the research conditions to obtain. Unique spells should do something the player list does not cover, reflect the NPC's specific specialisation, and carry a cost matching their power (at least 1D3 Corruption per casting for strong unique spells). See the sample entries below.
+High-tier NPC sorcerers may possess spells not on the player spell list (§4.6). These are described in the NPC's entry and require finding their personal grimoire and meeting the research conditions to obtain. Unique spells should do something the player list does not cover, reflect the NPC's specific specialisation, and carry a cost matching their power (at least 1D3 Corruption per casting for strong unique spells). See the sample entries below.
 
 ### 11.1.5 The NPC Sorcerer as Recurring Element
 
@@ -103,7 +103,7 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 **Bound demons:**
 
 - _Whisper in the Dark_ (lesser demon, object-bound in a silver ring she wears): a demon of information that overhears conversations within a quarter-mile of the ring and reports to Verethane. Combat-useless; intelligence-invaluable.
-- _Keth-Sarras_ (lesser demon, flesh-bound): a creature of raw force that manifests as a thickening of the air and invisible weight when Verethane commands it. Capable of inflicting 2D6 damage per round to a single target within 10 metres. Keth-Sarras resents Verethane and is looking for the escape clause in their contract (see §7.3).
+- _Keth-Sarras_ (lesser demon, flesh-bound): a creature of raw force that manifests as a thickening of the air and invisible weight when Verethane commands it. Capable of inflicting 2D6 damage per round to a single target within 10 metres. Keth-Sarras resents Verethane and is looking for the escape clause in their contract (see §4.3).
 
 **Casting signature:** No smell. No visible effect. A temperature drop of two degrees - enough to see breath in summer.
 
@@ -445,7 +445,7 @@ A ritual working differs from ordinary spellcasting in three ways:
 
 **Extended time.** Hours, days, or weeks of continuous or daily effort. The sorcerer must maintain the working's conditions throughout.
 
-**High PP cost.** More PP than a single sorcerer's pool. This is what Chain of Being (§7.6) was designed for.
+**High PP cost.** More PP than a single sorcerer's pool. This is what Chain of Being (§4.6) was designed for.
 
 **Specific conditions.** Correct location, timing (new moon, solstice, the anniversary of a death), materials, and formulae in the correct order. These cannot be relaxed.
 
@@ -482,7 +482,7 @@ Corrupted - interrupted at a critical moment, wrong materials substituted, a par
 
 ## 11.6 Demon Binding: The Deep Dive
 
-Player-facing summoning rules are in §7.7. This section covers the GM's side of the circle.
+Player-facing summoning rules are in §4.7. This section covers the GM's side of the circle.
 
 ### 11.6.1 Demon Personality
 
@@ -515,7 +515,7 @@ When the demon arrives, it comes with demands. Decide these before the session, 
 - The sorcerer's agreement not to use See the Unseen on the demon or its activities
 - The destruction of something specific (a rival demon's bond, a specific artifact, a named person)
 
-The demon's demands are binding from the moment the sorcerer agrees. Failure to deliver strains the binding (see §7.3).
+The demon's demands are binding from the moment the sorcerer agrees. Failure to deliver strains the binding (see §4.3).
 
 ### 11.6.3 Escape Clauses
 
@@ -545,7 +545,7 @@ The longer the mistreatment, the more creative its responses, within the letter 
 
 ### 11.6.5 When the Binding Breaks
 
-When a binding ends - by the four conditions in §7.7.5 or by an escape clause - what happens next depends on the relationship.
+When a binding ends - by the four conditions in §4.7.5 or by an escape clause - what happens next depends on the relationship.
 
 **Well-treated demon:** Leaves. May return someday; remembers the sorcerer with something like professional regard.
 
@@ -557,7 +557,7 @@ When a binding ends - by the four conditions in §7.7.5 or by an escape clause -
 
 ## 11.7 The Brazier of Power
 
-The Brazier of Power spell (§7.6) creates a sorcerer's most important physical possession.
+The Brazier of Power spell (§4.6) creates a sorcerer's most important physical possession.
 
 ### 11.7.1 The Lair-Bound Sorcerer
 
@@ -589,7 +589,7 @@ The sorcerer can decline. The patron does not doom them for declining - it wants
 
 ### 11.8.3 The Acceptance
 
-A sorcerer who accepts apotheosis retires from play as a PC. The nature varies by patron (see §4), but the broad strokes: the sorcerer is no longer available for ordinary play (they may appear as an NPC in whatever form the acceptance produced); the remaining party is changed by what they witnessed; the patron has gained something with implications for the campaign world.
+A sorcerer who accepts apotheosis retires from play as a PC. The nature varies by patron (see §5), but the broad strokes: the sorcerer is no longer available for ordinary play (they may appear as an NPC in whatever form the acceptance produced); the remaining party is changed by what they witnessed; the patron has gained something with implications for the campaign world.
 
 ### 11.8.4 The Apotheosis as Campaign Element
 

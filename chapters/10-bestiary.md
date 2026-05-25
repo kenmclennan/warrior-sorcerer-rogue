@@ -4,7 +4,7 @@
 
 Stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and elementals, plus the Chaotic Features table for generating unique demons and mutated things. Stat blocks are GM-side only; players encounter these creatures through description and dice, not foreknowledge.
 
-Read §5 for the combat rules these stat blocks reference. Demons tie back to §7.7 (player-side summoning) and §11 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in §11.
+Read §6 for the combat rules these stat blocks reference. Demons tie back to §4.7 (player-side summoning) and §11 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in §11.
 
 ## 10.1 Creature Entry Format
 
@@ -45,7 +45,7 @@ Elevate to Named Creature:
 
 The Great Wolf is a legendary fight. When defeated, its pelt is a relic worth a king's ransom or a powerful Patron Compact offering - and the village headman may not believe it is dead until he sees the head with his own eyes.
 
-**Resolving wounds against Named Creatures.** §A1 entries apply for critical hits; non-critical damage is HP attrition. Named Creatures fight unimpaired until HP reaches 0, like any PC or Named Antagonist (§5.5.1).
+**Resolving wounds against Named Creatures.** §A1 entries apply for critical hits; non-critical damage is HP attrition. Named Creatures fight unimpaired until HP reaches 0, like any PC or Named Antagonist (§6.5.1).
 
 **AV** - Reduces all incoming damage. A single value covers the whole creature.
 
@@ -109,7 +109,7 @@ Larger and more solitary than a lion, the tiger is a forest and riverside hunter
 - **Damage Modifier:** +2D6
 - **Attacks:** Bite 60% / 1D10+dm (Pierce); Claw 65% / 1D8+dm (Slash). May make both attacks in the same round.
 - **Special Abilities:**
-  - _Ambush Hunter._ A tiger that attacks from cover or from above has Easy attacks on the first round, and targets may not parry or dodge (they are treated as surprised, per §5.6.1).
+  - _Ambush Hunter._ A tiger that attacks from cover or from above has Easy attacks on the first round, and targets may not parry or dodge (they are treated as surprised, per §6.6.1).
   - _Rake._ On a successful grapple, the tiger rakes with both hind claws for 1D6+dm each, Slash.
 - **Morale:** Withdraws after significant injury; returns later from a different angle if hungry enough.
 
@@ -743,7 +743,7 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
 
 Demons are entities of the outer dark - not from this world, not concerned with its values, fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
 
-For GM demon design tools, patron relationships, and what happens when a binding breaks, see §11. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with §7.7. When a demon appears, it should feel like a significant event.
+For GM demon design tools, patron relationships, and what happens when a binding breaks, see §11. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with §4.7. When a demon appears, it should feel like a significant event.
 
 ### 10.5.1 Lesser Demon
 
@@ -802,7 +802,7 @@ _It came through the smoke of the summoning circle smelling of old metal and unf
   - _Regeneration._ The demon regains 1D6 HP per round. This regeneration is not stopped by fire (which it is immune to) but is stopped by silver or by sorcerous working specifically aimed at suppressing it.
   - _Sheath of Smoke and Fire._ Costs 1 PP per round to maintain. Any creature within 2 metres of the demon takes 1D6 fire damage at the end of each round. Additionally, wooden missile weapons striking the demon have a 50% chance to ignite and deal no damage (they burn up on contact).
   - _Spells._ Greater demons know sorcery. A typical greater demon knows 2D6 spells. Ancient, powerful specimens may know nearly every spell in the list. They cast from the same PP pool (typically 17) and suffer the standard PP depletion.
-  - _Corruption from Presence._ See §7.3.3 (Encountering a Greater Demon unbound: 1D3 / 1D6 Corruption).
+  - _Corruption from Presence._ See §4.3.3 (Encountering a Greater Demon unbound: 1D3 / 1D6 Corruption).
 - **Morale:** Does not retreat while bound (the binding prevents it). Unbound, it retreats only if its destruction seems probable - which takes considerable firepower. It does not forget. It comes back.
 
 ### 10.5.3 Yog-Hath the Devourer (Sample Named Greater Demon)
@@ -832,7 +832,7 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
   - _POW Drain._ On a successful Grapple, Yog-Hath drains 1D6 POW permanently from the target. POW drained this way replenishes Yog-Hath's PP pool but is not recovered by the target without extraordinary sorcerous intervention.
   - _True Binding Resistance._ Binding Yog-Hath costs 3 permanent POW (not 1) and requires the target to fail a POW resistance roll against Yog-Hath's full POW (28). Failure to bind Yog-Hath after summoning it is likely to ruin the sorcerer's week.
   - _Knows the Names._ Yog-Hath knows the true names of 1D10 lesser demons currently bound in the world. It may use these names as leverage in negotiations, or to interfere with another sorcerer's bindings.
-  - _Spells._ Knows all 29 spells in §7.6. Casts using a PP pool of 28.
+  - _Spells._ Knows all 29 spells in §4.6. Casts using a PP pool of 28.
 - **Demands in Summoning:** The ritual requires the sorcerer to offer a personal item of significant value (not monetary - emotional), a quantity of their own blood, and 6 hours of uninterrupted preparation. Yog-Hath arrives curious, not hostile. Its opening demand is typically a sorcerer it knows about, delivered into its reach. It negotiates from there.
 
 ## 10.6 Elementals
@@ -964,7 +964,7 @@ Roll 1D20 for one feature; roll twice (or three times) for a more monstrous crea
 | 7    | **Breath Weapon.** A cone of acid, cold, or electricity (GM's choice), 10 metres long, 5 metres wide. Damage 3D6 (Dodge for half). Usable once per three rounds.                                                                                                                                                             |
 | 8    | **Phase Shift.** Once per round as a free action, the creature becomes briefly immaterial. One attack against it this round misses automatically.                                                                                                                                                                            |
 | 9    | **Barbed Hide.** Any creature that grapples the creature or strikes it with an unarmed attack takes 1D4 Slash damage automatically.                                                                                                                                                                                          |
-| 10   | **Scream.** Once per combat, the creature emits a sound beyond normal hearing. All living creatures within 20 metres make CON x5 rolls or are Stunned for 1D3 rounds (status: §5.5.2).                                                                                                                                       |
+| 10   | **Scream.** Once per combat, the creature emits a sound beyond normal hearing. All living creatures within 20 metres make CON x5 rolls or are Stunned for 1D3 rounds (status: §6.5.2).                                                                                                                                       |
 | 11   | **Void Touch.** Successful unarmed attacks drain 1D3 PP from the target (in addition to normal damage). The creature absorbs these PP into its own pool.                                                                                                                                                                     |
 | 12   | **Flame-Wreathed.** The creature burns constantly. Non-fire damage is reduced by 2 (minimum 1). Anyone within 1 metre at the end of each round takes 1D4 fire damage.                                                                                                                                                        |
 | 13   | **Tentacle Mass.** In addition to its normal attacks, the creature has 1D4 tentacles. Each tentacle may make one grapple attempt per round (no skill roll - opposed STR vs STR). A grappled target cannot act until they break free.                                                                                         |

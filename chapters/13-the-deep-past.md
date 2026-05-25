@@ -5,7 +5,7 @@
 
 The world is ancient. Civilisations rose, over-reached, collapsed, and were forgotten; the current age is the latest stratum laid over older and stranger ones. Pre-cataclysm ruins are the central treasure source of sword & sorcery and the engine of most adventures.
 
-This chapter is in two halves. **§§1-4** are generators that build deep history piece by piece - empires, cataclysms, ruins, and the lost sorcery and technology that bleed through into the present. **§§5-7** are worked examples - six adventure locales, six archetypal NPCs, and six archetypal beasts, each with hooks ready to drop into a session. Combine them: a generator-built fallen empire produces the Sorcerer's Tower in §5.1, occupied by the Sorcerer-Tyrant in §7.1, defended by the Serpent-Folk in §8.6. Build only what the adventure requires; the edge where your knowledge ends is where dread lives.
+This chapter is in two halves. **§§1-4** are generators that build deep history piece by piece - empires, cataclysms, ruins, and the lost sorcery and technology that bleed through into the present. **§§6-7** are worked examples - six adventure locales, six archetypal NPCs, and six archetypal beasts, each with hooks ready to drop into a session. Combine them: a generator-built fallen empire produces the Sorcerer's Tower in §6.1, occupied by the Sorcerer-Tyrant in §4.1, defended by the Serpent-Folk in §8.6. Build only what the adventure requires; the edge where your knowledge ends is where dread lives.
 
 ## 13.1 Generator: Fallen Empires
 
@@ -113,7 +113,7 @@ _The permanent mark on the land._
 | 3   | **A continent of glass** | Terrain that was melted and re-solidified - by fire, by a sorcerous event, by something that generated heat on a scale that should not be possible. Beautiful and terrible. Nothing grows there. The glass is not always empty.                                                                                                                                                                    |
 | 4   | **Poisoned skies**       | Something in the atmosphere that does not disperse: perpetual ash cloud, an aurora that the locals call an omen, a smell of copper when the wind comes from a certain direction. The air in the affected region causes slow harm: the Corruption track loses a point per week for sorcerers; non-sorcerers suffer a -5% on all rolls that require concentration after more than a day in the zone. |
 | 5   | **A wandering plague**   | The original disease, or its descendant, still moves through the land. Not enough to break civilisation now - most people have partial immunity - but enough to mark isolated communities and be weaponisable. A motivated sorcerer with access to a live sample and a laboratory might be able to restore it to its original potency.                                                             |
-| 6   | **A thinned veil**       | The boundary between the world and what lies beyond it was permanently damaged in the affected region. Demons do not need to be summoned here - they leak through. The sorcery cost architecture (§7.3) functions strangely: spells that should cost 1 PP cost nothing; spells that should cost 3 PP trigger Corruption automatically. Nothing here obeys the rules it should.                     |
+| 6   | **A thinned veil**       | The boundary between the world and what lies beyond it was permanently damaged in the affected region. Demons do not need to be summoned here - they leak through. The sorcery cost architecture (§4.3) functions strangely: spells that should cost 1 PP cost nothing; spells that should cost 3 PP trigger Corruption automatically. Nothing here obeys the rules it should.                     |
 
 ## 13.3 Generator: Ruins
 
@@ -188,7 +188,7 @@ _What makes the risk worthwhile. A site can have more than one._
 
 ## 13.4 Pre-Cataclysm Sorcery and Science
 
-The §7 spell list is what has survived the cataclysms in transmissible form. Pre-cataclysm sorcery operated at a different scale - binding gods, mastering death at industrial scale, encoding spells into architecture - and surviving fragments of it are the engine of many scenarios.
+The §4 spell list is what has survived the cataclysms in transmissible form. Pre-cataclysm sorcery operated at a different scale - binding gods, mastering death at industrial scale, encoding spells into architecture - and surviving fragments of it are the engine of many scenarios.
 
 **Surviving pre-cataclysm sorcery takes three forms:**
 
@@ -196,7 +196,7 @@ The §7 spell list is what has survived the cataclysms in transmissible form. Pr
 - **Recorded in grimoires.** The text exists, but learning from it differs from a current grimoire: notation may be opaque, language dead, required components or ritual spaces gone. Working out a pre-cataclysm spell from first principles is genuinely rare and likely to attract attention from people who do not want that spell loose.
 - **Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See §12 for artifact rules.
 
-**Lost technology.** Sword & sorcery's lost super-science sits alongside lost sorcery as a valid ingredient. To the people of the current age, advanced technology is indistinguishable from sorcery: a weapon firing coherent light is a "fire-lance of the old people"; a navigation device using orbital signals is an "oracle of the sky-watchers." Lost technology does not respond to the sorcerous current - iron-sensitivity (§7.4) does not apply unless the item is also sorcerous. Identification typically requires Knowledge (Engineering) or Knowledge (Occult) rather than sorcerous analysis.
+**Lost technology.** Sword & sorcery's lost super-science sits alongside lost sorcery as a valid ingredient. To the people of the current age, advanced technology is indistinguishable from sorcery: a weapon firing coherent light is a "fire-lance of the old people"; a navigation device using orbital signals is an "oracle of the sky-watchers." Lost technology does not respond to the sorcerous current - iron-sensitivity (§4.4) does not apply unless the item is also sorcerous. Identification typically requires Knowledge (Engineering) or Knowledge (Occult) rather than sorcerous analysis.
 
 **Three adventure engines.** The generators above feed three recurring scenarios:
 
@@ -612,7 +612,7 @@ not to until then. The threshold for "safer" is low.
 
 ## 13.7 Archetypal Beasts
 
-Six adversaries for the deep places. Stat blocks follow the §10 format; for the rules they reference, see §5 (combat), §7 (sorcery), and §10.1 (creature entry conventions). Each entry includes adventure hooks - not encounters but seeds for sessions the beast can anchor.
+Six adversaries for the deep places. Stat blocks follow the §10 format; for the rules they reference, see §6 (combat), §4 (sorcery), and §10.1 (creature entry conventions). Each entry includes adventure hooks - not encounters but seeds for sessions the beast can anchor.
 
 ### 13.7.1 Giant Serpent
 
@@ -759,7 +759,7 @@ Gray, hairy, almost-human things that walk upright but speak only a gibberish no
 - **Damage Modifier:** +1D4
 - **Attacks:** Grasp 45% / Grapple (STR 14 vs target STR); Bone-Knife 50% / 1D4+1+dm (Pierce); Net (carried) 40% / immobilise.
 - **Special Abilities:**
-  - _Drag to Water._ A grappled target is dragged toward the nearest deep water or pit. A target dropped into the underground river is in immediate drowning danger (§6.7.2).
+  - _Drag to Water._ A grappled target is dragged toward the nearest deep water or pit. A target dropped into the underground river is in immediate drowning danger (§7.7.2).
   - _Coordinated Hunters._ Servants hunt in groups of three to six and communicate by gestures and clicks; Easy attacks when three or more flank a single target.
   - _Long Memory._ Once a creature has entered their domain, they remember it. Returning to the same palace decades later means meeting the same servants - and they know what worked last time.
 - **Morale:** Drives off when half their number have fallen, then returns the next night with the rest.
@@ -790,10 +790,10 @@ The last of an elder race that ruled the world before humanity rose from the mir
 - **Damage Modifier:** none
 - **Attacks (true form):** Bite 55% / 1D6+dm (Pierce, venomous - POT 12 vs CON, paralysis 1D6 rounds on failure); Talons 50% / 1D4+dm (Slash). In human form, weapons by choice (often a curved dagger 55% / 1D4+2, ceremonial robe over scaled hide).
 - **Special Abilities:**
-  - _Human Form._ A Serpent-Folk holds a glamour of any human form they have seen; they may impersonate a specific person if they have studied them. The glamour breaks under prolonged iron contact (§7.4) or on death.
-  - _Sorcery._ Treat each Serpent-Folk as a low-tier sorcerer (Sorcery 50%, two spells of choice from §7, 8 PP). The order's elders are mid-tier sorcerers (Sorcery 65%, four spells, 14 PP).
+  - _Human Form._ A Serpent-Folk holds a glamour of any human form they have seen; they may impersonate a specific person if they have studied them. The glamour breaks under prolonged iron contact (§4.4) or on death.
+  - _Sorcery._ Treat each Serpent-Folk as a low-tier sorcerer (Sorcery 50%, two spells of choice from §4, 8 PP). The order's elders are mid-tier sorcerers (Sorcery 65%, four spells, 14 PP).
   - _Cold Patience._ The Serpent-Folk think in centuries. A given individual's plan in any scenario is a small piece of a longer arc; killing the visible one does not stop the plan unless the players uncover what it serves.
-  - _Detected by See the Unseen._ The See the Unseen spell (§7) and the Witch Sight working both reveal the true form. A sorcerer who casts within line of sight of a disguised Serpent-Folk sees them clearly.
+  - _Detected by See the Unseen._ The See the Unseen spell (§4) and the Witch Sight working both reveal the true form. A sorcerer who casts within line of sight of a disguised Serpent-Folk sees them clearly.
 - **Morale:** Will not fight to the death if escape is possible. A Serpent-Folk that flees a fight reports back to the order, and the order has long memory.
 
 **Adventure Hooks:**

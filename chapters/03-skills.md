@@ -1,6 +1,6 @@
 # 3 Skills
 
-Skills are expressed as percentile ratings - roll equal to or less than the skill to succeed. This chapter is the catalogue: an entry for each WSR skill, the speciality conventions, and the rating bands. The full rules for _how_ to roll - when to roll, difficulty, criticals, fumbles, opposed and cooperative rolls, complementary skills, augments, acting without a skill, and the Resistance Table - all live in §4 (System).
+Skills are expressed as percentile ratings - roll equal to or less than the skill to succeed. This chapter is the catalogue: an entry for each WSR skill, the speciality conventions, and the rating bands. The full rules for _how_ to roll - when to roll, difficulty, criticals, fumbles, opposed and cooperative rolls, complementary skills, augments, acting without a skill, and the Resistance Table - all live in §5 (System).
 
 ## 3.1 About the Skill Entries
 
@@ -8,7 +8,7 @@ Every skill has a **base chance** - the starting rating before character creatio
 
 **Skill categories.** Skills are grouped into six categories: Combat, Communication, Manipulation, Mental, Perception, and Physical. Category bonuses (derived from the relevant characteristic average, calculated in §2.3.6) appear in the skill entries as a parenthetical after the base chance.
 
-**Skills above 100%.** Skills can grow past 100% through experience improvement and characteristic bonuses; the rule for what that means in play is in §4.1.4.
+**Skills above 100%.** Skills can grow past 100% through experience improvement and characteristic bonuses; the rule for what that means in play is in §5.1.4.
 
 **Concealed rolls.** For perception, social, and knowledge skills where the character would not know whether they succeeded, the GM rolls on the player's behalf and narrates the result. The player never sees the number. This covers Listen, Spot, Sense, Insight, and some uses of Track and Research.
 
@@ -125,7 +125,7 @@ Roll Disguise when passing through a checkpoint, infiltrating a social environme
 
 _(Combat/Physical, base DEX x2)_
 
-Throwing oneself clear of an incoming attack. When the attacker succeeds, the defender may declare a Dodge as their response; the Dodge roll is compared against the attack using the Opposed Roll rules (§4.3.1). A successful Dodge cancels the attack even if the attack itself succeeded. A critical Dodge counts as a higher-degree success.
+Throwing oneself clear of an incoming attack. When the attacker succeeds, the defender may declare a Dodge as their response; the Dodge roll is compared against the attack using the Opposed Roll rules (§5.3.1). A successful Dodge cancels the attack even if the attack itself succeeded. A critical Dodge counts as a higher-degree success.
 
 Roll Dodge when attacked, as an alternative to Parry. Dodge can be used against attacks that cannot be parried (a thrown boulder, a collapsing ceiling), but cannot itself be used offensively.
 
@@ -309,7 +309,7 @@ Roll Move Quietly when the character needs to move through an area without drawi
 
 **Detection.** When no specific observer is alert and oriented, a successful Move Quietly is enough; failure means the character did not move silently, but unless there is someone in a position to notice it rarely matters. When a guard, sentry, or other observer **is** paying attention to the area, resolve as an opposed roll: the character's Move Quietly result against the observer's Spot (visual) or Listen (auditory). Higher successful result wins; criticals beat ordinary successes; ties favour the observer (the alert defender). A **failed Move Quietly does not mean automatic detection** - it only means the character has not concealed their passage, and any alert observer gets their roll. A **fumble** is a distinct sound - a kicked tankard, a snapped branch, a footfall on dry leaves - that automatically alerts anyone within hearing range; the GM should narrate the specific noise.
 
-For group stealth (when the whole party is moving together), see §6.11.
+For group stealth (when the whole party is moving together), see §7.11.
 
 ### 3.4.29 Navigate
 
@@ -325,7 +325,7 @@ _(Combat, base 10% or weapon-class dependent)_
 
 Deflecting an incoming blow with a weapon. Parry is the active defensive alternative to Dodge; unlike Dodge, Parry can inflict a cost on the attacker (a weapon struck against a parrying blade may be damaged; a shield parry can push an attacker off-balance). Parry is paired with Melee Weapon - the speciality matches the weapon used.
 
-Roll Parry when a character declares they are defending with their weapon rather than dodging. The Opposed Roll rules determine the outcome (§4.3.1); see §5 for the full attack-and-defence matrix.
+Roll Parry when a character declares they are defending with their weapon rather than dodging. The Opposed Roll rules determine the outcome (§5.3.1); see §6 for the full attack-and-defence matrix.
 
 **Specialities:** match the Melee Weapon specialities.
 
@@ -359,7 +359,7 @@ Roll Research when pursuing a specific question through available records, when 
 
 _(Physical, base 05%)_
 
-Riding a trained animal, including in combat. At skill 50% or above, the character can fight from the saddle without a roll to stay mounted; below that, each combat round requires a Ride check to avoid being thrown. Mounted combat adds the mount's movement and SIZ to the tactical situation; details in §5.
+Riding a trained animal, including in combat. At skill 50% or above, the character can fight from the saddle without a roll to stay mounted; below that, each combat round requires a Ride check to avoid being thrown. Mounted combat adds the mount's movement and SIZ to the tactical situation; details in §6.
 
 Roll Ride in challenging conditions: rough terrain, battle, forced march, or when attempting mounted manoeuvres beyond simple travel.
 
@@ -433,7 +433,7 @@ Roll Status when attempting to use social standing as leverage - demanding acces
 
 _(Mental, base 01%)_
 
-Military command at the operational level: organising a force for battle, choosing ground, coordinating supply and movement, reading an opponent's tactical intentions from their deployment. Strategy applies to actions above the skirmish level - squads, formations, warbands, fleets. It does not apply to the personal combat that §5 covers.
+Military command at the operational level: organising a force for battle, choosing ground, coordinating supply and movement, reading an opponent's tactical intentions from their deployment. Strategy applies to actions above the skirmish level - squads, formations, warbands, fleets. It does not apply to the personal combat that §6 covers.
 
 Roll Strategy before or during a significant military engagement when the PC is in command or advising command. A success improves the PC's side's starting position; a critical provides a decisive advantage. A fumble produces a significant tactical error.
 
@@ -461,7 +461,7 @@ Roll Swim when conditions make water dangerous: currents, armour weight, pursuit
 
 _(Communication, base 10%)_
 
-Training another character in a skill. Teach requires the teacher's skill rating in the subject to be at least twice the student's current rating, or at least 50%, whichever is lower. Each training session is measured in weeks; the time required scales with the student's current rating (see §4.7.3 for the training time table).
+Training another character in a skill. Teach requires the teacher's skill rating in the subject to be at least twice the student's current rating, or at least 50%, whichever is lower. Each training session is measured in weeks; the time required scales with the student's current rating (see §5.7.3 for the training time table).
 
 A successful Teach roll means training proceeds by the standard rules (student makes an improvement roll at the end of the training period). A fumble ingrain a bad habit: the student loses 1D3 from the skill.
 
