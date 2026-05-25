@@ -68,25 +68,26 @@ To attack, roll D100 against the relevant weapon skill. Consult the outcome tier
 - **Critical Success** (01 or matching dice within success range): the attack lands with exceptional force. Consult the appropriate crit table in §A1. The attacker may also have spent PP to convert a normal success to a critical (see §4.6.1).
 - **Success**: the attack connects. The defender may attempt to parry or dodge.
 - **Failure**: the attack misses. No defensive roll needed.
-- **Fumble** (00, or matching dice outside success range): something has gone wrong. The GM narrates the complication - a dropped weapon, a stumble, an opening left for the opponent.
+- **Fumble** (00, or matching dice outside success range): something has gone wrong. Roll on the appropriate fumble table in §A1.7 - melee attack, melee parry, missile attack, or natural-weapon attack/dodge.
 
 ### 5.3.2 The Attack and Defence Matrix
 
 When an attack succeeds, the defender may attempt a parry or dodge. Both attack and defence generate an outcome tier. The interaction between the two tiers determines the result:
 
-| Attack result | Defence result    | Outcome                                                                                        |
-| ------------- | ----------------- | ---------------------------------------------------------------------------------------------- |
-| Critical      | Critical          | Attack parried/dodged; both combatants hold ground - neither gains the crit result             |
-| Critical      | Success           | Attack partially deflected: rolled damage, armour applies; no §A1 effect                       |
-| Critical      | Failure or Fumble | **Maximum** damage + §A1 entry, ignores armour                                                 |
-| Success       | Critical          | Attack fully parried or dodged; no damage. If parried, the attacker's weapon takes 2 HP damage |
-| Success       | Success           | Attack partially deflected: half damage, armour applies                                        |
-| Success       | Failure           | Normal damage, armour applies                                                                  |
-| Success       | Fumble            | Normal damage, armour applies; defender additionally suffers their fumble's consequences       |
-| Failure       | -                 | Attack misses. No defence required                                                             |
-| Fumble        | -                 | Attack misses; attacker suffers a complication (GM narrates)                                   |
+| Attack result | Defence result | Outcome                                                                                                |
+| ------------- | -------------- | ------------------------------------------------------------------------------------------------------ |
+| Critical      | Critical       | Attack parried/dodged; both combatants hold ground - neither gains the crit result                     |
+| Critical      | Success        | Attack partially deflected: rolled damage, armour applies; no §A1 effect                               |
+| Critical      | Failure        | **Maximum** damage + §A1 entry, ignores armour                                                         |
+| Critical      | Fumble         | **Maximum** damage + §A1 entry, ignores armour; defender rolls on the appropriate Fumble Table (§A1.7) |
+| Success       | Critical       | Attack fully parried or dodged; no damage. If parried, the attacker's weapon takes 2 HP damage         |
+| Success       | Success        | Attack partially deflected: half damage, armour applies                                                |
+| Success       | Failure        | Normal damage, armour applies                                                                          |
+| Success       | Fumble         | Normal damage, armour applies; defender rolls on the appropriate Fumble Table (§A1.7)                  |
+| Failure       | -              | Attack misses. No defence required                                                                     |
+| Fumble        | -              | Attack misses; attacker rolls on the appropriate Fumble Table (§A1.7)                                  |
 
-A Critical attack that is not defended against (the defender chose not to parry or dodge, or had no defence remaining) deals **maximum** damage on every damage die, adds any bonus damage from the §A1 entry, and ignores armour entirely.
+A Critical attack that is not defended against (the defender chose not to parry or dodge, or had no defence remaining) deals **maximum damage on the weapon dice** (the damage modifier is rolled normally and added), adds any bonus damage from the §A1 entry, and ignores armour entirely.
 
 ### 5.3.3 Parrying
 
@@ -106,7 +107,7 @@ The exception is Fight Defensively (§5.3.7). A character in that stance may fre
 
 ### 5.3.6 Critical Attacks and Armour
 
-A Critical attack that lands against a defender who failed to defend (or was not defended) deals **maximum damage on every damage die**, adds any **bonus damage** specified by the §A1 critical entry, and **ignores armour entirely**. The damage modifier (dm) is rolled normally and added.
+A Critical attack that lands against a defender who failed to defend (or was not defended) deals **maximum damage on the weapon dice** (the damage modifier is rolled normally and added), adds any **bonus damage** specified by the §A1 critical entry, and **ignores armour entirely**.
 
 > **Example.** A longsword does 1D8+dm. On a critical that lands undefended, the player takes the max of 1D8 = 8, adds dm (rolled normally - say +1D4 = 3), adds the §A1 entry's bonus (say +5), for **16 damage** total, applied directly to HP and ignoring any armour the target was wearing.
 
@@ -125,17 +126,7 @@ Once declared, the stance lasts the round. Re-declare each round.
 
 ### 5.3.8 Missile Weapons
 
-Missile attacks follow the same success tiers as melee attacks. Missiles cannot generally be dodged or parried by the target unless the attack was visible before it was launched (the first visible arrow or thrown weapon in a round may be dodged at Difficult).
-
-Shields can intercept missile attacks based on shield size:
-
-| Shield type      | Chance to intercept a missile |
-| ---------------- | ----------------------------- |
-| Small or buckler | 15%                           |
-| Full             | 30%                           |
-| Large            | 60%                           |
-
-This is a separate roll, not a parry: the shield either blocks the missile or the missile passes. A shield roll does not count against the parry-attempts limit.
+Missile attacks follow the same success tiers as melee attacks. Missiles cannot generally be dodged or parried by the target unless the attack was visible before it was launched (the first visible arrow or thrown weapon in a round may be dodged at Difficult). A shield can intercept incoming missiles; see §5.4.3.
 
 **Range bands.** Range affects all missile attacks:
 
@@ -184,9 +175,21 @@ Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from da
 
 ### 5.4.3 Shields
 
-Shields are both weapons (use Shield skill to attack) and parrying tools (use Shield skill to parry melee and intercept missiles as above). Shield skill has the same -30% cumulative penalty as all parry skill uses.
+Shields serve three roles: parrying tool, missile-interceptor, and weapon.
 
-**Shield bash damage.** A shield used to attack deals **1D3 + dm** (small shield or buckler) or **1D4 + dm** (large shield), Krush damage type. Spiked shields deal Pierce instead. See §8.3 for full shield stats. A shield bash that exceeds the target's SIZ on the Resistance Table triggers Knockback (§5.5.1).
+**Parry.** Shield skill is used to parry melee attacks, with the same -30% cumulative penalty as all parry skill uses (§5.3.3).
+
+**Intercept missiles.** A character carrying a shield may attempt to intercept incoming missile attacks. Roll against the shield's interception chance:
+
+| Shield type      | Chance to intercept a missile |
+| ---------------- | ----------------------------- |
+| Small or buckler | 15%                           |
+| Full             | 30%                           |
+| Large            | 60%                           |
+
+This is a separate roll, not a parry: the shield either blocks the missile or the missile passes. A shield interception roll does not count against the cumulative parry-attempts limit.
+
+**Shield bash.** A shield used to attack deals **1D3 + dm** (small shield or buckler) or **1D4 + dm** (large shield), Krush damage type. Spiked shields deal Pierce instead. See §8.3 for full shield stats. A shield bash that lands as a critical can inflict Knockback per the §A1.4 Krush table.
 
 ### 5.4.4 Broken Weapons
 
@@ -208,11 +211,7 @@ Damage is subtracted from current HP. Combat continues at any positive HP - the 
 
 **Critical attack.** A critical hit applies the appropriate §A1 entry in addition to its damage. The §A1 entry is the wound - its stated duration, impairment, and permanence are authoritative. Crit-driven wounds are the only source of permanent injury in WSR; ordinary damage just accumulates as HP loss.
 
-**Reeling Blows.** A non-critical attack that deals damage equal to or greater than the defender's **half max HP** in a single blow (after armour) inflicts the **Reeling** status (§5.5.2). The heavy strike broke the character's rhythm without quite getting through their guard. Critical attacks do not trigger Reeling - the §A1 entry replaces it.
-
-**Knockback.** A non-critical crushing impact (mace, hammer, shield bash, charging mount, giant's club) whose **raw damage rolled** exceeds the target's **SIZ** on the Resistance Table (§4.3.5) inflicts the **Knockback** status (§5.5.2). Knockback applies to crushing/blunt attacks only by default; the GM may rule that a critical of any type carries knockback if the fiction calls for it (a spear through the gut driving the target into a wall).
-
-Reeling and Knockback may both apply to the same blow.
+**Reeling Blows.** A non-critical attack that deals damage equal to or greater than the defender's **half max HP** in a single blow (after armour) inflicts the **Reeling** status (§5.5.2). The attacker has the advantage on the next exchange.
 
 **Fatal Wound.** A single attack reduces HP to 0 or below. The character falls: prone, unable to act, dying. A character with First Aid or Medicine must intervene in the same or following round to prevent death. A character reduced to negative HP equal to their CON is dead beyond any mundane intervention.
 
@@ -285,9 +284,8 @@ A target is shoved backward by a heavy impact.
 
 - Pushed **one range step back** (typically Near → Normal, breaking engagement).
 - Must succeed at a DEX roll or fall prone (gaining the Knocked Down status, below).
-- A target who declared a **brace stance** at the start of the round (forgoing all movement and Long Moves) doubles their effective SIZ for knockback resistance.
 
-Triggers: Krush criticals (per §A1.4 entries); a non-crit crushing impact whose raw damage exceeds the target's SIZ on the Resistance Table (§4.3.5); shield bash that exceeds the target's SIZ.
+Triggers: Krush criticals (per §A1.4 entries) and certain bestiary attacks (giant's swat, mount's barge). The GM may rule that a critical of any damage type carries knockback when the fiction calls for it (a spear through the gut driving the target into a wall).
 
 #### Knocked Down
 
@@ -301,7 +299,7 @@ Triggers: Krush criticals (per §A1.4 entries); failed DEX roll after Knockback;
 
 #### Reeling
 
-Struck by a heavy non-critical blow that broke the character's rhythm.
+Struck by a heavy non-critical blow that dealt real damage and broke the character's rhythm.
 
 - Next action at Difficult.
 - May move no more than a Short Move.
@@ -383,7 +381,7 @@ Daggers and unarmed strikes are unaffected by close quarters. Two-handed polearm
 
 **Slipping past the bay.** A short-weapon fighter being kept at bay may attempt a Dodge or Parry roll to slip past the long weapon's guard. On a success, they close immediately and may attack at the normal Initiative Rank.
 
-**Action economy at close range.** A long-weapon fighter engaged at close range loses some flexibility. While they remain at close range with a short-weapon fighter, on a single Initiative Rank they may attack **or** parry **or** dodge - not the usual combination of attack plus defensive actions. The reach that makes the long weapon dominant at normal range becomes a liability at arm's length.
+**Penalty for the closed long-weapon fighter.** A long-weapon fighter held at close range loses flexibility. While there, on a single Initiative Rank they may attack **or** parry **or** dodge - not the usual combination of attack plus defensive actions. The reach that makes the long weapon dominant at normal range becomes a liability at arm's length.
 
 ### 5.6.6 Enclosed Environments
 
@@ -439,7 +437,7 @@ A character with a weapon in each hand may attack with both in the same round. T
 
 **Off-hand parries.** A weapon held in the off-hand may parry attacks at no off-hand penalty. The cumulative parry penalty stack (§5.3.3) still applies across all parry attempts in the round.
 
-**Compatible weapons.** Both weapons must be one-handed (1H, or 1H/2H wielded one-handed). A shield wielded in the off-hand is for parrying or shield-bash (Knockback, §5.5.1) only and does not enable an off-hand attack roll alongside the primary.
+**Compatible weapons.** Both weapons must be one-handed (1H, or 1H/2H wielded one-handed). A shield wielded in the off-hand is for parrying or shield-bash (§5.4.3) only and does not enable an off-hand attack roll alongside the primary.
 
 ### 5.7.4 Quickdraw
 
@@ -482,7 +480,7 @@ Aiming reduces the risk: each +10% from Aimed Attacks (§5.7.1) also reduces the
 
 A character can pick up almost any solid object and use it as a weapon. Damage and properties scale with the object's size:
 
-- **Small improvised** (chair leg, wine bottle, candlestick, dropped torch): 1D4 + dm, ENC 1, HP 6, Krush damage.
+- **Small improvised** (chair leg, wine bottle, dropped torch): 1D4 + dm, ENC 1, HP 6, Krush damage.
 - **Large improvised** (bench, broken spear haft, large rock): 1D6 + dm, ENC 2, HP 8, Krush damage.
 - **Sharp improvised** (broken bottle, jagged shard, dropped knife caught by the hilt): 1D4 + dm, ENC 1, HP 4, Slash or Pierce.
 
@@ -542,15 +540,17 @@ Puncturing wounds. Impale criticals resolve on the **§A1 Pierce table** (§A1.3
 
 ### 5.10.3 Crushing (maces, hammers, clubs, shields)
 
-Blunt-force wounds. Crush criticals resolve on the **§A1 Krush table** (§A1.4) and characteristically inflict **Knockback**, **Knocked Down**, or **Stunned** status (§5.5.2) depending on the entry. Crushing attacks also inflict the Knockback status directly on non-criticals when raw damage exceeds the target's SIZ - see §5.5.1.
+Blunt-force wounds. Crush criticals resolve on the **§A1 Krush table** (§A1.4) and characteristically inflict **Knockback**, **Knocked Down**, or **Stunned** status (§5.5.2) depending on the entry.
 
 ### 5.10.4 Entangling (whips, nets, chains, ropes)
 
-Restraining attacks. Entangling weapons do not wound; they inflict the **Entangled** status (§5.5.2) via a successful entangle attempt - they have no §A1 critical hit table, because the status itself is the result.
+Restraining attacks. The characteristic outcome of an entangling weapon is the **Entangled** status (§5.5.2). Some entangling weapons deal damage as well (whip 1D3, bola 1D4+½dm); others entangle without damage (net, lasso). Each weapon's entry in §8 specifies its damage and how the entangle effect attaches to a hit. There is no §A1 critical hit table for entangling - the status itself is the entry.
 
-**Entangle attempt.** Instead of striking for damage, a character may declare an entangle attempt with an entangling weapon. The roll is Difficult; on a success, the target gains the Entangled status (§5.5.2) without taking damage. The entangling weapon holds until deliberately released or the wielder is incapacitated.
+**Standard attack.** Roll normally against the weapon skill. A successful hit deals the weapon's listed damage (if any) and applies the Entangled status as the weapon's entry specifies (most entangling weapons apply it on any successful hit).
 
-An entangling critical (whether on a damage attack or an entangle attempt) inflicts Entangled immediately and irresistibly: no resistance roll is permitted at the moment of impact, though subsequent escape attempts proceed normally.
+**Entangle attempt.** A character may declare an entangle attempt with any entangling weapon instead of a standard attack. The roll is **Difficult**; on a success, the target gains the Entangled status without taking damage - the wielder has wrapped them up rather than struck for harm. Useful for capture-alive scenarios.
+
+**Critical entangling result.** An entangling critical (on a damage attack or an entangle attempt) inflicts Entangled immediately and irresistibly: no escape attempt is permitted at the moment of impact, though subsequent attempts proceed normally.
 
 ### 5.10.5 Burn (sorcerous flame, dragon breath, alchemical acid)
 

@@ -1,8 +1,13 @@
-# A1 Critical Hit Tables
+# A1 Critical Hit and Fumble Tables
 
-Critical hit tables for use when a Critical Success is scored in melee or ranged combat (§5). Tables are organised by damage type and severity band. Each entry gives a wound and its immediate mechanical consequence. The GM reads or paraphrases the result aloud.
+Two sets of tables for resolving extreme combat outcomes:
 
-## A1.1 How to Read These Tables
+- **Critical hit tables** (§A1.1-§A1.6): consulted when a Critical Success is scored. Organised by damage type and severity band; each entry gives a wound and its immediate mechanical consequence.
+- **Fumble tables** (§A1.7): consulted when a Fumble is rolled. Organised by action type (melee attack, melee parry, missile attack, unarmed/natural-weapon/dodge).
+
+The GM reads or paraphrases the result aloud in each case.
+
+## A1.1 How to Read the Critical Hit Tables
 
 ### A1.1.1 Damage Types
 
@@ -197,3 +202,78 @@ Grapple criticals dislocate joints, crush bones, choke off breath, and bend bodi
 | 8    | Brief choke-hold to the throat; +3 bonus damage, stunned 2 rounds, attacks Difficult 2 rounds.                              | Grip wrenches the weapon shoulder out; +6 bonus damage, weapon arm useless 3 rounds, attacks Difficult for fight.  | Grapple wrenches the neck; +7 bonus damage, stunned 4 rounds, knocked down, attacks and parries Difficult for fight.   | Hold bends the spine past breaking; +8 bonus damage, immediately unconscious, dying in 8 rounds.                            | Hold twists the head past the limit; dead instantly.                                                                                     |
 | 9    | Grapple pins the shield arm; +6 bonus damage, shield arm useless 2 rounds, parries Difficult for fight.                     | Bear hug crushes the ribcage; +7 bonus damage, stunned 3 rounds, attacks and parries Difficult for fight.          | Grip destroys the shield-arm elbow; shield arm permanently useless without sorcery, +9 bonus damage, bleeds heavily.   | Choke breaks something in the throat; +8 bonus damage, dying in 4 rounds from collapsed windpipe.                           | Constriction crushes the chest; +10 bonus damage, dying in 1 rounds, cannot draw breath.                                                 |
 | 10   | Grip twists the weapon wrist hard; +6 bonus damage, weapon arm useless 3 rounds, drops weapon, attacks Difficult for fight. | Grapple locks the head and twists; +7 bonus damage, stunned 3 rounds, attacks and parries Difficult for fight.     | Choke crushes the windpipe; +8 bonus damage, dying in 3 rounds, cannot speak or cast, bleeds (windpipe crushed).       | The grip snaps the neck cleanly; the target is dead immediately.                                                            | Grip folds the body; +10 bonus damage, dead instantly. The wound disturbs anyone who sees it.                                            |
+
+## A1.7 Fumble Tables
+
+A **Fumble** in combat (a roll of 00, or matching dice outside the success range) sends the offending character to a fumble table. Roll 1D100 on the appropriate table:
+
+- **Melee weapon attack:** §A1.7.1
+- **Melee weapon parry:** §A1.7.2
+- **Missile weapon attack:** §A1.7.3
+- **Unarmed attack, natural-weapon attack, or dodge:** §A1.7.4
+
+**Cascade.** Some high results send the character to roll again on the same table (twice or three times more). These re-rolls are cumulative - if a re-roll produces another cascade result, roll the additional re-rolls on top of any already pending.
+
+### A1.7.1 Melee Weapon Attack Fumbles
+
+| D100  | Result                                                                                                                 |
+| ----- | ---------------------------------------------------------------------------------------------------------------------- |
+| 01-15 | Lose your next action; effectively helpless until then.                                                                |
+| 16-25 | Lose your next 1D3 actions; effectively helpless until then.                                                           |
+| 26-40 | Fall prone (Knocked Down, §5.5.2).                                                                                     |
+| 41-50 | Drop your weapon at your feet.                                                                                         |
+| 51-60 | The weapon flies from your grip 1D10 metres in a direction the GM picks.                                               |
+| 61-65 | Your weapon takes 1D10 HP damage (see Broken Weapons, §5.4.4).                                                         |
+| 66-75 | Vision obscured (dust, blood, sweat in the eyes); all your skills at -30% for 1D3 rounds.                              |
+| 76-90 | The swing carries past the target and strikes the nearest ally for normal damage (use result 41-50 if no ally in arc). |
+| 91-98 | The blow lands on the nearest ally as a Critical (consult §A1; use result 51-60 if no ally in arc).                    |
+| 99    | A bad fumble: roll twice more on this table.                                                                           |
+| 00    | A disastrous fumble: roll three times more on this table.                                                              |
+
+### A1.7.2 Melee Weapon Parry Fumbles
+
+| D100  | Result                                                                                                         |
+| ----- | -------------------------------------------------------------------------------------------------------------- |
+| 01-20 | Lose your next action (or this round's, if not yet used); effectively helpless.                                |
+| 21-40 | Fall prone (Knocked Down, §5.5.2).                                                                             |
+| 41-50 | Drop your parrying weapon at your feet.                                                                        |
+| 51-60 | The parrying weapon flies from your grip 1D10 metres in a direction the GM picks.                              |
+| 61-75 | Vision obscured (deflected blow, blood, your own pommel in your face); all your skills at -30% for 1D3 rounds. |
+| 76-90 | Wide open. The attacker's blow lands as a normal hit, automatically.                                           |
+| 91-93 | Wide open. The attacker's blow lands as a Critical (consult §A1), automatically.                               |
+| 94-98 | A bad fumble: roll twice more on this table.                                                                   |
+| 99-00 | A disastrous fumble: roll three times more on this table.                                                      |
+
+### A1.7.3 Missile Weapon Attack Fumbles
+
+| D100  | Result                                                                                                                  |
+| ----- | ----------------------------------------------------------------------------------------------------------------------- |
+| 01-15 | Lose your next missile attack or action.                                                                                |
+| 16-25 | Lose your next 1D3 actions.                                                                                             |
+| 26-40 | Fall prone (Knocked Down, §5.5.2).                                                                                      |
+| 41-55 | Vision obscured (a flash of sun, a sudden gust, sweat in the eyes); all your skills at -30% for 1D3 rounds.             |
+| 56-65 | Drop your weapon; it slides or bounces 1D6 metres.                                                                      |
+| 66-80 | Your weapon takes 1D6 HP damage (or use result 81-85 if it has no HP listed).                                           |
+| 81-85 | Your weapon breaks (regardless of current HP). See Broken Weapons (§5.4.4).                                             |
+| 86-95 | The shot strays into the nearest ally in the line of fire for normal damage (use result 56-65 if no ally in line).      |
+| 96-98 | The shot strikes the nearest ally in the line of fire as a Critical (consult §A1; use result 81-85 if no ally in line). |
+| 99    | A bad fumble: roll twice more on this table.                                                                            |
+| 00    | A disastrous fumble: roll three times more on this table.                                                               |
+
+### A1.7.4 Natural Weapon Attack and Parry Fumbles
+
+For unarmed attacks (Brawl, Grapple), natural-weapon attacks (claws, teeth, talons), and dodges.
+
+| D100  | Result                                                                                                        |
+| ----- | ------------------------------------------------------------------------------------------------------------- |
+| 01-25 | Lose your next action (or this round's, if not yet used).                                                     |
+| 26-30 | Lose your next 1D3 actions.                                                                                   |
+| 31-50 | Fall prone (Knocked Down, §5.5.2).                                                                            |
+| 51-60 | Fall prone and twist an ankle; -1 to MOV for 1D10 turns.                                                      |
+| 61-75 | Vision obscured (sweat, blood, dust); all your skills at -30% for 1D3 rounds.                                 |
+| 76-85 | Miss and strain something; lose 1 HP from the attacking limb.                                                 |
+| 86-90 | The swing or rake catches the nearest ally for normal damage (use result 76-85 if no ally adjacent).          |
+| 91-94 | The swing or rake catches the nearest ally as a Critical (consult §A1; use result 76-85 if no ally adjacent). |
+| 95-98 | Hit hard surface (wall, floor, armoured opponent); take the attack's normal damage to self.                   |
+| 99    | A bad fumble: roll twice more on this table.                                                                  |
+| 00    | A disastrous fumble: roll three times more on this table.                                                     |

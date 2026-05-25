@@ -38,7 +38,7 @@ const baseList = [
   { num: "11", slug: "11-npc-sorcery-and-patrons",  title: "NPC Sorcery and Patrons" },
   { num: "12", slug: "12-treasure-and-artifacts",   title: "Treasure and Artifacts" },
   { num: "13", slug: "13-the-deep-past",            title: "The Deep Past" },
-  { num: "A1", slug: "a1-critical-hit-tables",      title: "Critical Hit Tables" },
+  { num: "A1", slug: "a1-critical-hit-tables",      title: "Critical Hit and Fumble Tables" },
   { num: "A2", slug: "a2-examples",                 title: "Play Examples" },
   { num: "A3", slug: "a3-inspirational-influences", title: "Inspirational Influences" },
   { num: "A4", slug: "a4-names",                    title: "Names" },

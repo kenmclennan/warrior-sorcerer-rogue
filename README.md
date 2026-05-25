@@ -43,7 +43,7 @@ The chapter source lives in `chapters/`. The links below open the markdown files
 
 **Appendices**
 
-- [A1. Critical Hit Tables](chapters/a1-critical-hit-tables.md)
+- [A1. Critical Hit and Fumble Tables](chapters/a1-critical-hit-tables.md)
 - [A2. Play Examples](chapters/a2-examples.md)
 - [A3. Inspirational Influences](chapters/a3-inspirational-influences.md)
 - [A4. Names](chapters/a4-names.md)
