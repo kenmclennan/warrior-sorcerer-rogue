@@ -118,7 +118,7 @@ Khess chooses 2 talents. She qualifies for the Stealth and Finesse table and the
 
 **Stealth and Finesse:** _The Quiet Knife_ (4 PP). When attacking a target who has not yet acted in the round and is not in active combat, her attack is treated as having initiative advantage regardless of Strike Rank. The target cannot declare a parry or dodge before the attack resolves.
 
-**Social and Cunning:** _Cold Read_ (2 PP). On an Insight roll, she also determines whether the target is armed and where the weapon is, what they would most readily trade, and whether they have a patron or superior they fear.
+**Social and Cunning:** _Cold Read_ (2 PP). On an Insight roll, she also determines whether the target is armed and where the weapon is, what they would most readily trade, and whether they have a superior they fear.
 
 ### A2.1.7 Step 7: Passions
 
@@ -200,7 +200,7 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 
 **Karash** (Scholar of the Dark Arts, abbreviated stat block):
 
-- HP 20, PP 16, POW 17, DEX 11, Corruption 85
+- HP 20, PP 16, POW 17, DEX 11
 
 **Davan the Flayer** (named antagonist):
 
@@ -228,9 +228,7 @@ The ambush breaks as the party rounds a corner. Three men step out of an alley m
 
 **At initiative 26 (Karash):**
 
-Karash casts _Cloak of Night_ at Intensity 1 (see §4.6 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Move Quietly. Her Move Quietly is now effectively 71% for the duration.
-
-No Corruption roll: Intensity 1 and 2 spells trigger the Corruption roll only on failure; standard casting Corruption applies (see §4.3.3 - casting Intensity 1: 0 / 1 Corruption). Karash rolls against his Corruption of 85: he rolls 44. Success. No Corruption lost this round.
+Karash casts _Cloak of Night_ at Intensity 1 (see §4.7 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Move Quietly. Her Move Quietly is now effectively 71% for the duration.
 
 **Action (descending initiative):**
 
@@ -304,11 +302,11 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 - **§A1 lookup** (§A1.3): Band C Pierce, 1d10 = 5. Result: pierced lung, stunned 2 rounds, terrible breathing. Read aloud, resolved immediately.
 - **Fate Point: not spent** - Davan was reduced to 0 HP before he could spend PP on Deflect the Killing Blow (which requires minimum 8 PP; he had 9). His player chose not to spend, because it would leave him alive with 1 HP and surrounded by enemies.
 - **Dying Blow** (§6.11): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
-- **Corruption roll** (§4.3.3): Karash cast a low-intensity spell and succeeded his Corruption roll. Nothing lost this round.
+- **Sorcery in support** (§4.4): Karash cast a low-cost spell to support Khess rather than attack directly. Automatic success at the cost of 1 PP, no roll required.
 
 ## A2.3 Sorcery Example: Karash Casts the Curse
 
-_Two days after the Salt Causeway ambush. Davan the Flayer, despite his wounds, talked freely about the man who gave the order to kill Verinax: a Syndicate treasurer called Mekhos, who keeps offices above a spice warehouse in the merchant quarter. Khess wants him marked. Karash owes Khess a favour - or rather, Karash's patron does, and the sorcerer prefers to pay debts with someone else's currency._
+_Two days after the Salt Causeway ambush. Davan the Flayer, despite his wounds, talked freely about the man who gave the order to kill Verinax: a Syndicate treasurer called Mekhos, who keeps offices above a spice warehouse in the merchant quarter. Khess wants him marked. Karash owes Khess a favour, and the sorcerer prefers to pay debts before they have a chance to compound._
 
 _Karash is at his casting spot: a rented room with a cleared floor, a brazier burning cedarwood, and the window shuttered. He intends to cast Curse of the Withered Hand on Mekhos, who is three streets away in his counting-house. For this, Karash will need the spell's range to reach Mekhos._
 
@@ -316,19 +314,17 @@ _Karash is at his casting spot: a rented room with a cleared floor, a brazier bu
 
 **Karash** (Scholar of the Dark Arts):
 
-- POW 17, INT 15, Corruption 85 (Breaking Point: 42)
+- POW 17, INT 15
 - PP: 15 (he spent 1 on Cloak of Night two days ago; has mostly recovered)
-- Patron: a named entity called the Faceless One (Patron Score 14)
-- Casting signature: the air smells of burning copper; his shadow falls at the wrong angle relative to the light source
-- Grimoire: a prepared hide grimoire, knotted rope sections tucked behind each page
+- Talisman: a knotted leather cord wound around his left wrist, beads and small bone fragments worked into the knots
 
-**Memorised spells (INT = 15 spell levels):** Curse of the Withered Hand (level 4), Cloak of Night (level 1), See the Unseen (level 3), Moonrise (level 1), Shadow-Wrap (level 2), Midnight (level 1), Bird's Eye (level 3) - total: 15 levels. He is at capacity.
+**Held ready from last night's trance (INT = 15 spell levels):** Curse of the Withered Hand (level 4), Cloak of Night (level 1), See the Unseen (level 3), Moonrise (level 1), Shadow-Wrap (level 2), Midnight (level 1), Bird's Eye (level 3) - total: 15 levels. He is at capacity.
 
-**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent. Target must fail a POW resistance roll (§5.3.5). Corruption Notes: casting this spell always causes 1D3 Corruption in addition to the standard casting Corruption roll.
+**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent until broken. Target must fail a POW resistance roll (§5.3.5).
 
 ### A2.3.2 The Iron Problem
 
-Karash reviews what he is carrying before casting. He has a bronze dagger at his hip (bronze, no penalty), leather wrappings on the grimoire (no penalty), a belt with iron buckles. The GM rules the iron buckles are trivial - small fittings on primarily leather items, below the threshold (§4.4). No iron penalty applies tonight. Karash has dressed carefully.
+Karash reviews what he is carrying before casting. He has a bronze dagger at his hip (bronze, no penalty), his knotted-cord talisman at the wrist (no penalty), a belt with iron buckles. The GM rules the iron buckles are trivial - small fittings on primarily leather items, below the threshold (§4.5). No iron penalty applies tonight. Karash has dressed carefully.
 
 ### A2.3.3 Extending the Range: The Sorcerer's Reach Talent
 
@@ -336,7 +332,7 @@ _Curse of the Withered Hand_ has its standard range (the target must be in the s
 
 Karash has the Sorcery Talent _The Sorcerer's Reach_ (§2.7.2): for 3 PP, a spell he casts this round takes effect at double its normal range. But double 85 metres is 170 metres - still not enough.
 
-However, Karash also has _Bird's Eye_ memorised. He casts _Bird's Eye_ at Intensity 3 (cost: 3 PP) to perceive through a raven perched on Mekhos's counting-house roof - putting him, perceptually, in the same location as his target. He intends to cast the Curse while maintaining the Bird's Eye.
+However, Karash also has _Bird's Eye_ loaded. He casts _Bird's Eye_ at Intensity 3 (cost: 3 PP) to perceive through a raven perched on Mekhos's counting-house roof - putting him, perceptually, in the same location as his target. He intends to cast the Curse while maintaining the Bird's Eye.
 
 _This is a two-casting night._ Karash will cast Bird's Eye in round one, then sustain the working while he casts the Curse in a second round.
 
@@ -346,11 +342,7 @@ _This is a two-casting night._ Karash will cast Bird's Eye in round one, then su
 
 **Duration:** POW rounds = 17 rounds. He has 17 rounds to complete the Curse while Bird's Eye holds.
 
-**Casting signature:** The smell of burning copper sharpens. The candle flames go sideways. The shadow on the wall is definitely facing the wrong direction.
-
-**Corruption roll (Bird's Eye, Intensity 3):** Intensity 3 crosses the standard Corruption trigger (§4.3.3 - casting Intensity 3 or lower: 0/1 on success/failure). Karash rolls against his current Corruption of 85: he rolls **74.** Success. No Corruption from Bird's Eye.
-
-Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, counting coin by lamplight. The raven is on the counting-house windowsill. Karash knows his target's position. The POW resistance roll for the Curse will be based on Karash's PP total at the moment of casting (after the Curse's own cost) versus Mekhos's POW.
+**Cast effect.** The candle flames go sideways. The shadow on the wall falls at an angle wrong for the light source. Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, counting coin by lamplight. The raven is on the counting-house windowsill. Karash knows his target's position. The POW resistance roll for the Curse will be based on Karash's PP total at the moment of casting (after the Curse's own cost) versus Mekhos's POW.
 
 ### A2.3.5 Round 2: Casting the Curse
 
@@ -360,27 +352,13 @@ Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, co
 
 The GM rolls the resistance roll for Mekhos (since Mekhos is unaware): **76.** The result exceeds 40% - **the curse fails to set.** Mekhos does not feel it. His POW was enough, at that distance, to shrug it off without knowing.
 
-> _This is not a Fumble and it is not Karash's failure._ The PP were spent. The casting was correct. The target simply resisted. This is a sorcery failure mode that comes from outside the caster (§4.2.1): the target's resistance was sufficient.
+> _This is not a Fumble and it is not Karash's failure._ The PP were spent. The casting was correct. The target simply resisted. This is a sorcery failure mode that comes from outside the caster (§4.4): the target's resistance was sufficient.
 
-**Corruption roll (Curse of the Withered Hand, Intensity 4).** Even though the curse failed to take hold, the PP were spent and the casting occurred. Corruption applies regardless of target resistance.
+The PP are spent regardless of outcome. The casting was correct; the target was simply too strong. Karash has 8 PP remaining and the Curse of the Withered Hand will not affect Mekhos this night.
 
-First, the standard Corruption table (§4.3.3 - casting Intensity 4 or higher: 1/1D3): Karash rolls against his current Corruption of 85: **31.** Success. He takes the lower result: **1 Corruption.** His Corruption drops from 85 to **84.**
+### A2.3.6 The Aftermath
 
-Second, the spell's specific Cost Notes: _Curse of the Withered Hand always causes 1D3 Corruption in addition to the standard cost._ Karash rolls 1D3: **2.** He takes 2 more Corruption. His Corruption drops from 84 to **82.**
-
-_Total Corruption lost this casting: 3. From 85 to 82._
-
-Karash notes this on his sheet. His Breaking Point is 42. He is nowhere near the immediate crisis threshold for an acute episode (losing more than 42 in a single session), but the ceiling is visible. Every casting like this moves him closer to the edge.
-
-### A2.3.6 The Patron Compact Moment
-
-Karash has 8 PP remaining. He considers whether to try again - can Mekhos be reached another way, or should he invoke the Faceless One?
-
-Patron Intercession is available (§4.3.2): Karash may invoke the Faceless One by name as a full action. He makes an allegiance roll against his current Patron Score of 14. A Critical (matching dice within 14%) would bring the Faceless One's direct intervention - but only rolls of 11 would qualify as both a matching-dice value and within 14%. The odds are poor.
-
-Karash does not invoke. Instead he makes a practical decision: he will find another way to reach Mekhos, or wait until the man is in range. He releases the Bird's Eye working (ending it early costs nothing - §4.2.7) and closes the casting.
-
-**The Patron Score does not change this session.** The Faceless One was not called. The debt neither grew nor shrank.
+Karash has 8 PP remaining. He considers what to do next: try again from closer range, find a different leverage on Mekhos, or accept this attempt as spent. He makes a practical decision - he will find another way to reach Mekhos, or wait until the man is in range. He releases the Bird's Eye working (ending it early costs nothing - §4.4.4) and closes the casting.
 
 ### A2.3.7 The Visible Drama
 
@@ -388,16 +366,15 @@ Per _design.md_ §2.2: magic is theatrical. The following happened whether anyon
 
 When the Curse was cast and failed, the room shuddered. The cedarwood brazier flared orange-white, held for three seconds, then died to ash. The shadow on the wall - which had been falling at the wrong angle all evening - went flat and correct, and that was somehow worse. The smell of burning copper was so strong that Khess, in the room next door, knocked on the wall to ask if something was on fire.
 
-Karash is intact. He is 3 Corruption lighter. He smells of copper. He has 8 PP and is nowhere near his limit.
+Karash is intact. He smells of burning copper. He has 8 PP and is nowhere near his limit, but he is short of his curse and short of his target.
 
 ### A2.3.8 What the Example Demonstrated
 
-- **PP cost and casting time** (§4.2.2 and §2.3): Each spell costs PP at the moment of casting. Two spells in two rounds depleted Karash's pool significantly.
-- **Corruption gain and a Corruption roll** (§4.3.3): Even a failed curse costs Corruption. Two separate Corruption costs applied to a single casting: the standard table roll plus the spell's specific additional cost.
-- **The resistance roll as a sorcery failure mode** (§4.2.8): Karash's sorcery did not fumble - the target simply resisted. PP spent, Corruption paid, curse blocked. This is the correct outcome.
-- **Visual drama** (design.md §2.2): the casting signature is always present; the room responds to the working even when the working fails.
-- **Patron compact mechanics** (§4.3.2): Karash had access to Patron Intercession but chose not to invoke it. The patron relationship is a resource, not an obligation - until the Patron Score climbs high enough.
-- **Iron-vs-sorcery** (§4.4): Karash dressed carefully. No iron penalty this night.
+- **PP cost and casting time** (§4.4.1 and §2.3): Each spell costs PP equal to its level, at the moment of casting. Two spells in two rounds depleted Karash's pool significantly.
+- **The resistance roll as a sorcery failure mode** (§4.4.5): Karash's sorcery did not fumble - the target simply resisted. PP spent, curse blocked. This is the correct outcome.
+- **Visual drama** (design.md §2.2): the room responds to the working even when the working fails.
+- **Reach beyond range**: Karash combined two spells - Bird's Eye to perceive at a distance and Curse to act at it. Sorcery is most dangerous when worked in combination.
+- **Iron-vs-sorcery** (§4.5): Karash dressed carefully. No iron penalty this night.
 - **PP economy after the fight**: Karash began the casting at 15 PP (two days' recovery from the ambush). He spent 3 on Bird's Eye and 4 on the Curse, ending at 8 PP. He retains enough PP for one defensive Fate Point spend if needed, but he is not comfortable.
 
 ## A2.4 Session Sketch: The Ledger of Mekhos
@@ -434,7 +411,7 @@ They take the ledger. They also take Mekhos's secondary accounting tablet, which
 
 - The mission succeeded. The personal goal (hurt the Syndicate) was advanced. The coin is in hand.
 - Orryn carries a wound that will take a week to heal properly under good conditions.
-- Karash spent 6 PP on the night (Iron Ward + Cloak of Night on Khess for the extraction), took 1 Corruption, and his Patron Score did not increase - the Faceless One had no stake in tonight's work.
+- Karash spent 6 PP on the night (Iron Ward + Cloak of Night on Khess for the extraction). His talisman never left his wrist.
 - The secondary accounting tablet Khess took has information on it. The GM notes this. It will matter later.
 
 The session ends with the heroes alive, paid, and each of them carrying something forward: a wound, a secret, a question about what was on that tablet.

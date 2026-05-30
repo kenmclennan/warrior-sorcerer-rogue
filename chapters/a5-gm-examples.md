@@ -73,15 +73,17 @@ _Have all three in mind; run whichever the fiction arrives at._
 
 ### A5.1.6 One NPC Built for the Session
 
-The GM needs the Syndicate clerk: Perrak, a professional (§9.1.2) - document forger, self-taught sorcerous dabbler, no patron.
+The GM needs the Syndicate clerk: Perrak, a professional (§9.1.2) - document forger, self-taught sorcerous dabbler.
 
-_Perrak's stat block is drafted in fifteen minutes using §9.3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10), no Patron, Corruption 78 (self-taught sorcerers who do not know the Corruption rules pay a heavy price). He has See the Unseen as his only memorised spell and uses it obsessively to check for intruders - which is how the secondary casting signature in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and his Corruption is leaking into the encoded walls._
+_Perrak's stat block is drafted in fifteen minutes using §9.3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10). He has See the Unseen as his only ready spell and uses it obsessively to check for intruders - which is how the secondary casting residue in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and the room is starting to remember._
 
 The archive is now "dangerous known plus Perrak's unknowing amplification" rather than "dangerous unknown" - more human, and the PCs' choice about Perrak is a genuine moral one. Turn him in alongside the forged document. Let him go. Warn him what the walls are doing with his castings. That call belongs to the players.
 
 ## A5.2 Designing an NPC Sorcerer Step-by-Step
 
-_G4 §1 framework applied to a mid-tier patron sorcerer as named antagonist. Drop into any scenario involving a regional cult or a patron's local instrument._
+_G4 §1 framework applied to a mid-tier patron-bonded sorcerer as named antagonist. Drop into any scenario involving a regional cult or a patron's local instrument._
+
+> **Note.** This worked example uses **patron compact** mechanics that are now GM-side only and described in §11 (NPC Sorcery and Patrons). Player-side sorcery (§4) no longer references patrons; patrons exist as an option the GM can apply to NPC sorcerers to give them an extra resource and an extra leash. If §11 changes the patron mechanics, treat this example as illustrative rather than authoritative.\_
 
 ### A5.2.1 The Three Questions First
 
@@ -89,7 +91,7 @@ Per §11.1.1, start with three questions before touching statistics.
 
 **Question 1 - How much has this sorcerer paid?**
 
-Mid-tier means POW 18-19, Corruption above half, and a patron compact in place. The GM decides: this sorcerer has been practising for twelve years, has a Patron Score of 28, and has Corruption 51 (starting value was 95; she is visibly past the Breaking Point threshold at 47, meaning the mark is showing). She has not bound a demon - too cautious, or too principled, or both.
+Mid-tier means POW 18-19 and a patron compact in place. The GM decides: this sorcerer has been practising for twelve years and has a Patron Score of 28. She has not bound a demon - too cautious, or too principled, or both. Twelve years in the work have visibly marked her - more on this under presentation, below.
 
 **Question 2 - What does she want?**
 
@@ -101,7 +103,7 @@ Not hunting them - working a parallel angle on the same artifact. When they meet
 
 ### A5.2.2 Characteristics and Derived Statistics
 
-**Name:** Ysolde the Annotator (the epithet refers to her habit of writing commentary in the margins of any grimoire she handles).
+**Name:** Ysolde the Annotator (the epithet refers to her habit of writing commentary in the margins of any sorcerous text she handles).
 
 **Characteristics:**
 
@@ -120,21 +122,20 @@ Not hunting them - working a parallel angle on the same artifact. When they meet
 - **HP:** CON + SIZ = 11 + 11 = **22 HP** (Named Antagonist, full PC formula)
 - **PP:** Equal to POW = **19 PP** (plus patron reserve: up to 3 PP per draw, three times per session at Patron Score 28)
 - **Damage Modifier:** STR + SIZ = 10 + 11 = 21. Consulting the table: no modifier. She does not rely on physical force.
-- **Corruption:** 51 (Breaking Point: 47 - she is past it)
 
 ### A5.2.3 Key Skills
 
 Twelve years in study and field research:
 
-| Skill                        | Rating |
-| ---------------------------- | ------ |
-| Knowledge (Blasphemous Lore) | 70%    |
-| Knowledge (History)          | 65%    |
-| Research                     | 65%    |
-| Insight                      | 55%    |
-| Deceive                      | 50%    |
-| Persuade                     | 45%    |
-| Dagger                       | 30%    |
+| Skill                          | Rating |
+| ------------------------------ | ------ |
+| Knowledge (Preternatural Lore) | 70%    |
+| Knowledge (History)            | 65%    |
+| Research                       | 65%    |
+| Insight                        | 55%    |
+| Deceive                        | 50%    |
+| Persuade                       | 45%    |
+| Dagger                         | 30%    |
 
 She fights in emergencies only.
 
@@ -149,7 +150,7 @@ Ysolde is bonded to the Charnel Heir (§11.4.3). The relevant mechanics:
 
 ### A5.2.5 Spell Loadout
 
-Ysolde's INT is 18, so she may hold 18 levels of spells in memory. She has chosen carefully.
+Ysolde's INT is 18, so she may load 18 spell levels per trance. She has chosen carefully.
 
 | Spell                           | Level | Use                                               |
 | ------------------------------- | ----- | ------------------------------------------------- |
@@ -162,15 +163,17 @@ Ysolde's INT is 18, so she may hold 18 levels of spells in memory. She has chose
 | Still the Mind                  | 2     | For ending conversations before they escalate     |
 | Inescapable Bonds (Intensity 2) | 2     | Last resort before retreat                        |
 
-**Total levels memorised:** 16 of 18. She has two levels of capacity in reserve.
+**Total levels loaded:** 16 of 18. She has two levels of capacity in reserve.
 
-**Grimoire:** also contains Moonrise, Undo Sorcery (_The Erasure_), and a partial formula for a unique spell built from Charnel Heir fragments over eight months. The GM leaves it undefined until scenario-relevant.
+**Other known spells:** Moonrise, Undo Sorcery (_The Erasure_), and a partial formula for a unique spell pieced together from Charnel Heir fragments over eight months. These sit in her notes, ready to be loaded by the next trance. The GM leaves the unique spell undefined until scenario-relevant.
+
+**Talisman:** A small bronze stylus on a silver chain, worn at the throat. It has cut the marginalia on every text she has worked with for twelve years.
 
 ### A5.2.6 Casting Signature and Presentation
 
 **Casting signature** (per design.md §2.2 - magic is theatrical): The smell of old paper and copper-gall ink. When she casts, the ambient temperature drops sharply for three seconds, then returns. Anyone who has spent time in old archives will find the smell immediately familiar but wrong - it is stronger and older than any archive they have been in.
 
-**Presentation past Breaking Point:** Casting signature manifests without casting. Animals will not approach her. In low light her shadow occasionally misaligns. She is aware of all of this: meets people in well-lit rooms, avoids outdoors, explains the animals as an old allergy.
+**Presentation after twelve years' practice:** the signature manifests around her even when she is not casting. Animals will not approach her. In low light her shadow occasionally misaligns. She is aware of all of this: meets people in well-lit rooms, avoids outdoors, explains the animals as an old allergy.
 
 ### A5.2.7 The Finished Stat Block
 
@@ -185,13 +188,12 @@ Damage Modifier: None
 
 Dagger: 30%, damage 1D4+2
 
-Key skills: Knowledge (Blasphemous Lore) 70%, Knowledge (History) 65%,
+Key skills: Knowledge (Preternatural Lore) 70%, Knowledge (History) 65%,
   Research 65%, Insight 55%, Deceive 50%, Persuade 45%
 
-Patron: The Charnel Heir, Patron Score 28
-Corruption: 51 (Breaking Point: 47 - visibly marked)
+Patron: The Charnel Heir, Patron Score 28 (see §11; patron mechanics are GM-side)
 
-Spells in memory: See the Unseen, Veil of the Ancient, Iron Ward (x2),
+Spells loaded: See the Unseen, Veil of the Ancient, Iron Ward (x2),
   Bird's Eye (x3), Vermin's Eye (x2), Liken Shape (x2),
   Still the Mind, Inescapable Bonds (x2) [16 levels of 18]
 
@@ -265,7 +267,7 @@ _No pursuer succeeds this round. Position remains Out of Sight - second consecut
 
 ## A5.4 Adjudicating Sorcery Costs in Play
 
-_The GM's side of a sorcerer PC's major casting. Player-side in §A2.3. Karash wants to cast Bind the Raging Heart at Intensity 3 on a named professional antagonist mid-combat. PP cost significant, Corruption risk real, iron check relevant._
+_The GM's side of a sorcerer PC's major casting. Player-side in §A2.3. Karash wants to cast Bind the Raging Heart at Intensity 3 on a named professional antagonist mid-combat. PP cost significant, iron check relevant._
 
 ### A5.4.1 The GM's Pre-Casting Checklist
 
@@ -281,25 +283,19 @@ The antagonist is not wearing iron - he is a desert mercenary in leather armour 
 
 _If Karash had iron on him, the penalty would apply now. The GM reminds players of the iron rule when they take iron items, not retroactively._
 
-**3. What is the Corruption cost?**
-
-Intensity 3 casting: standard Corruption table (§4.3.3). If the casting succeeds: 0 Corruption. If it fails: 1 Corruption. Additionally, Bind the Raging Heart has a spell-specific note: a successful casting against a resisting target who nonetheless beats the resistance roll imposes 1D3 Corruption on the caster regardless (the spell attempted to override a strong will and was denied - the effort costs).
-
-The GM flags this. It requires checking the spell entry but is not hidden from the player.
-
-**4. Is a resistance roll required?**
+**3. Is a resistance roll required?**
 
 Bind the Raging Heart requires the target to fail a POW resistance roll (the spell's active vs. passive is Karash's remaining PP after casting vs. the target's POW). The antagonist has POW 13. Karash will have 9 PP remaining after the cost. Base chance = 50% + (9x5) - (13x5) = 50% + 45 - 65 = **30%.** The spell has a 30% chance of taking hold.
 
 _The GM calculates this silently; the resistance roll is disclosed once casting succeeds._
 
-**5. What is the casting drama?**
+**4. What is the casting drama?**
 
-Magic is theatrical (design.md §2.2). The GM describes Karash's casting signature before the dice: "The air thickens. The shadow from that wall lamp isn't falling right. The mercenary blinks. What are you doing?" This is also tactical information: the mercenary (a professional, not a Rabble) will close range next round if the spell fails.
+Magic is theatrical (design.md §2.2). The GM describes the working before the dice: "The air thickens. The shadow from that wall lamp isn't falling right. The mercenary blinks. What are you doing?" This is also tactical information: the mercenary (a professional, not a Rabble) will close range next round if the spell fails.
 
 ### A5.4.2 Initiative and Casting
 
-Per §4.2.3: Karash declares his intent to cast at the start of the round and rolls **1D10 + INT** (instead of the usual 1D10 + DEX) for his initiative this round - the mental quickness of the working drives the cast's speed (§6.1). The cost is paid and the effect fires when his Initiative Rank comes up - sorcery casting is automatic for memorised spells (§4.2.2); the only risk is being interrupted before that Rank.
+Per §4.4.2: Karash declares his intent to cast at the start of the round and rolls **1D10 + INT** (instead of the usual 1D10 + DEX) for his initiative this round - the mental quickness of the working drives the cast's speed (§6.1). The cost is paid and the effect fires when his Initiative Rank comes up - sorcery casting is automatic for ready spells (§4.4.1); the only risk is being interrupted before that Rank.
 
 **Karash's player declares:** "Casting Bind the Raging Heart, Intensity 3, targeting the mercenary."
 
@@ -313,30 +309,19 @@ Per §4.2.3: Karash declares his intent to cast at the start of the round and ro
 
 The GM announces: "The mercenary staggers - you can see him fighting it - but his face settles. The raging heart did not bind. He shakes his head once, like clearing water from his ears."
 
-**Corruption roll:** The casting occurred, the target resisted with a strong will (he beat the resistance roll). Per the spell-specific note: 1D3 Corruption. The GM rolls: **2.** Karash's Corruption drops by 2. His current Corruption was 85; it is now **83.**
+The PP were spent regardless. Karash's pool stays at 9. The spell did not take hold; his next options are to try a different working, support the melee with a smaller spell, or save his PP for a Fate Point defence.
 
-Additionally, the standard table applies on failure. But this was not a spell failure - it was a resistance success. The GM checks: the standard Corruption table triggers on a failed casting roll, and casting was automatic (no roll). No standard Corruption applies. Only the spell-specific resistance note fires.
+### A5.4.3 The Decision to Stop
 
-**Total Corruption cost: 2. From 85 to 83.**
+Karash has 9 PP remaining. The player weighs the options: try a different spell, throw another Bind the Raging Heart at the mercenary and hope for a worse resistance roll, or hold the PP back for a Deflect the Killing Blow.
 
-### A5.4.3 The Patron Compact Moment
+The mercenary is already badly wounded from Orryn's earlier attack. The fight is winnable without further sorcery. The player decides 9 PP is enough for a defensive Fate Point spend if the dice turn, and the cost of pushing the spell again is steep relative to the marginal gain. Karash holds back. They will finish the fight the old way.
 
-Karash has 9 PP remaining. His patron, the Faceless One, has a PP reserve available. The player asks: "Can I invoke Patron Intercession to try the spell again?"
-
-The GM checks (per §11.3.4, Patron Intercession rules): Patron Intercession requires invoking the patron's name as a full action and rolling against the current Patron Score. Karash's Patron Score is 14. A matching-dice critical within 14% (only 11 qualifies) would bring direct intervention. The chance of rolling 11 while also getting it as a success is poor.
-
-More importantly: the Faceless One's demands (§11.4.2) include "No attachments" and "Change something irreversibly." A sorcerer calling on the Faceless One to stop a mercenary from hitting his friend is... not what the Faceless One considers its work.
-
-The GM does not say this out loud. But the GM knows it. If the player invokes the Faceless One and the allegiance roll succeeds, the intervention will arrive in a way that aligns with the patron's domain - transformation, loss, irreversible change - rather than simply binding the mercenary. The intervention might work on the mercenary, or it might work on something else in the scene. The Faceless One is not a precise tool.
-
-_This is the GM's side of the patron compact: knowing what the patron would and would not do, and running that honestly even when it is inconvenient for the PC. The player knows their patron's demands from their character sheet (§4.3.2). The GM knows what those demands mean in practice._
-
-Karash does not invoke. The player decides 9 PP is enough for a Deflect the Killing Blow if needed, and the mercenary is already badly wounded from Orryn's earlier attack. They will finish the fight the old way.
+_This is the practical edge of sorcery in WSR: even a strong sorcerer rations PP carefully, because every casting is a casting that does not exist when the killing blow comes._
 
 ### A5.4.4 GM Checklist Summary
 
-- **Pre-casting checklist:** PP cost, iron penalty, Corruption cost, resistance probability - worked through before a die is rolled.
-- **Resistance roll vs. spell failure:** The target resisted. PP spent, Corruption paid, spell did not take hold. This is a distinct outcome from the caster making an error (§A2.3.5).
-- **Spell-specific Corruption:** Standard Corruption table and spell-specific note are separate charges; check both (§4.3.3).
-- **Patron compact:** Know what the patron would and would not do before the player invokes it - run the patron honestly, not as a convenient rescue (§11.3).
+- **Pre-casting checklist:** PP cost, iron penalty, resistance probability - worked through before a die is rolled.
+- **Resistance roll vs. spell failure:** The target resisted. PP spent, spell did not take hold. This is a distinct outcome from the caster making an error (§A2.3.5).
+- **PP rationing:** Even when a spell would help, the sorcerer must keep PP back for the Fate Point spend that may save their life later.
 - **Iron check:** GM responsibility to surface it before the roll, not after.

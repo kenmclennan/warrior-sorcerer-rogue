@@ -115,6 +115,22 @@ For improvised treasure when the party searches an unexpected place:
 
 ## 12.2 Artifact Creation
 
+### 8.12.2 Artifact Basics
+
+**Artifacts** are items into which a sorcerer has bound one or more sorcery spells. Creation requires permanent POW sacrifice. The item holds its own PP reservoir, separate from the creator's pool.
+
+**Key properties:**
+
+- The creator sacrifices 1 point of permanent POW for each sorcery spell bound into the item.
+- The artifact's PP reservoir equals the creator's normal maximum PP at the time of creation.
+- When the reservoir reaches 0 PP, the artifact is inert (no spells available) until recharged.
+- Recharging: the creator (or any sorcerer who has attuned to the item) may transfer 1 PP per combat round from their own body to the artifact's reservoir. This is a concentration action.
+- The artifact's HP equals its SIZ characteristic. If destroyed, any POW invested in it is permanently lost.
+
+Full creation rules - ritual requirements, costs, and dangers - are in §12.
+
+**Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §6.3). The enchantment is part of the binding process and is noted when the artifact is described.
+
 An artifact is any item into which a sorcerer has permanently bound one or more sorcery spells - a piece of vital force crystallised in metal, stone, or bone that does not fade when the sorcerer sleeps. These rules expand on §8.12.2. Artifacts belong to the GM's world: who made it, what it cost, who wants it back, what happens when it is destroyed.
 
 ### 12.2.1 The Fundamental Costs
@@ -152,7 +168,7 @@ Non-sorcerers cannot recharge artifacts - without a sorcerer to maintain them, t
 
 ### 12.2.4 Enchanting Iron
 
-Iron can be harmonised with the sorcerous current only through the artifact-creation process, consecrating it to a specific patron or principle. Requires the creator to have a patron (§4.3.2) and costs 1 additional permanent POW beyond the normal cost. See §8.5.3 for the enchanted iron rule.
+Iron can be harmonised with the sorcerous current only through the artifact-creation process, consecrating it to a specific principle, totem, or bound spirit. The consecration costs 1 additional permanent POW beyond the normal cost and requires a working session of at least seven nightly trances. See §8.5.3 for the enchanted iron rule.
 
 An iron artifact that runs dry reverts to disruptive iron immediately.
 
@@ -181,7 +197,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Form:** A short bronze dagger, single-edged, with a wavy blade. The grip is wrapped in cured skin of unidentifiable origin. The crossguard is shaped like a serpent with its jaws open.
 
-**Bound spell:** Hell's Razor (1 PP to activate; see §4.5).
+**Bound spell:** Hell's Razor (1 PP to activate; see §4.7).
 
 **Effect:** When activated, the blade holds a sorcerous edge beyond natural sharpness. The dagger deals its damage as if it were a superior-quality weapon (+20% to attack skill, for the remainder of the activation's duration). Additionally, any wound inflicted while Hell's Razor is active does not naturally stop bleeding - the victim loses 1 additional HP per round until the wound is treated (First Aid or Medicine roll, Difficulty: Standard).
 
@@ -215,7 +231,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Inescapable Bonds (3 PP) and Cloak of Night (1 PP per intensity level).
 
-**Effect:** Inescapable Bonds, when activated through the ring, works on targets within Medium range without requiring the ring-wearer to have line of sight - the bonds erupt from the ground. Cloak of Night works as described in §4.5 but specifically generates a cold, wet-smelling dark that smells of deep water and tar.
+**Effect:** Inescapable Bonds, when activated through the ring, works on targets within Medium range without requiring the ring-wearer to have line of sight - the bonds erupt from the ground. Cloak of Night works as described in §4.7 but specifically generates a cold, wet-smelling dark that smells of deep water and tar.
 
 **Cost to use:** Standard PP from the reservoir.
 
@@ -263,7 +279,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Fury (1 PP), Muddle (1 PP per target), and Pox (1 PP).
 
-**Effect:** Fury activates on the wearer, inducing berserker state (per §4.5). Muddle and Pox affect targets within the wearer's sight. While any of the three spells are active simultaneously, the discs turn face-outward and the screaming faces become audible - not loudly, but to everyone near the wearer.
+**Effect:** Fury activates on the wearer, inducing berserker state (per §4.7). Muddle and Pox affect targets within the wearer's sight. While any of the three spells are active simultaneously, the discs turn face-outward and the screaming faces become audible - not loudly, but to everyone near the wearer.
 
 **Cost to use:** Standard PP from the reservoir.
 
@@ -295,13 +311,13 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Bound spells:** Hammer of the Gods (2 PP), Chain of Being (4 PP), and Undo Sorcery (1-4 PP, variable).
 
-**Effect:** All three spells function as standard (per §4.5). The Staff functions as a standard staff in combat (see §8.2.2 for Staff, Quarter stats). While the sorcerer holds the Staff and has it charged, the Corruption cost for casting Chain of Being is waived - the Staff absorbs the burden of the communal working.
+**Effect:** All three spells function as standard (per §4.7). The Staff functions as a standard staff in combat (see §8.2.2 for Staff, Quarter stats). While the sorcerer holds the Staff and has it charged, participants in Chain of Being need spend only half the PP they would normally contribute - the Staff absorbs the rest.
 
-**Cost to use:** Standard PP for each spell. The Corruption waiver applies only while the Staff is held.
+**Cost to use:** Standard PP for each spell. The Chain of Being concession applies only while the Staff is held.
 
 **PP reservoir:** 18 (maximum).
 
-**Hook:** The Staff was made to lead a ritual working that would do something enormous - the creator never finished writing down what. The sigils near the base end with an incomplete formula. Completing it would require Knowledge (Blasphemous Lore) at 60% or higher and access to texts that no longer exist above ground.
+**Hook:** The Staff was made to lead a ritual working that would do something enormous - the creator never finished writing down what. The sigils near the base end with an incomplete formula. Completing it would require Knowledge (Preternatural Lore) at 60% or higher and access to texts that no longer exist above ground.
 
 **Origin:** The head of a sorcerers' collegium who was building toward something when the collegium was destroyed. What they were building toward and who destroyed the collegium are separate questions with the same answer.
 
@@ -343,13 +359,13 @@ A cursed item is not a bad magic item. It is a trap wearing the shape of treasur
 
 ### 12.4.1 Identifying Cursed Items
 
-Witch Sight (§4.5) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Blasphemous Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
+See the Unseen (§4.7) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Preternatural Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
 
 The most reliable method is reputation. Cursed items have histories, and those histories circulate.
 
 ### 12.4.2 Removing a Curse
 
-Curses do not lift when the item is dropped. They lift when their specific release condition is met - which the GM knows and the player typically does not. The general process: identify the curse pattern (Knowledge (Blasphemous Lore)), determine the release condition (research, patron knowledge, a specialist sorcerer), fulfil it. Undo Sorcery (§4.5) suppresses a curse for the caster's POW in hours but cannot remove it permanently.
+Curses do not lift when the item is dropped. They lift when their specific release condition is met - which the GM knows and the player typically does not. The general process: identify the curse pattern (Knowledge (Preternatural Lore)), determine the release condition (research, dream-sojourn, or consultation with a specialist sorcerer), fulfil it. Undo Sorcery (§4.7) suppresses a curse for the caster's POW in hours but cannot remove it permanently.
 
 ### 12.4.3 The Warlord's Bracelet
 

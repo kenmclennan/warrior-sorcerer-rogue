@@ -235,7 +235,7 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 
 **Cataphract Suit:** The heavy lamellar-and-scale armour of Persian and Sassanian elite cavalry. Full-body coverage achieved by layering lamellar plates over an under-suit of scale - the suit is heavy and exhausting to wear, but it turns most blows. At the GM's discretion, a complete cataphract suit may only be available in the great empires of the East.
 
-**Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (§4.4), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
+**Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (§4.5), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
 
 ### 8.3.4 Helmets
 
@@ -645,33 +645,3 @@ A character can carry ENC up to their STR score without penalty. Beyond that:
 ### 8.11.3 STR, SIZ, and Heavy Loads
 
 Characters with both high STR and high SIZ carry more naturally. At the GM's option, characters whose SIZ exceeds their STR may use SIZ instead for the carry capacity baseline.
-
-## 8.12 Equipment and Sorcery
-
-### 8.12.1 Iron Disrupts Sorcery
-
-Unenchanted iron is inimical to the sorcerous current.
-
-**Rule:** Each 1 ENC of unenchanted iron a sorcerer carries imposes a **-5% penalty to all sorcery skill rolls** and sorcery-related characteristic rolls.
-
-**What counts:** Iron and steel weapons, armour, manacles, chains - any significant iron-bearing item. Steel is iron with carbon worked in; the sorcerous current finds the ferrous metal regardless. Small iron fittings (buckles, rivets) on primarily leather or bronze items do not count unless the GM rules the iron proportion is significant.
-
-**What does not count:** Bronze, copper, leather, wood, stone, bone, or other non-ferrous materials. Enchanted iron or steel (see §6.5) does not impose the penalty.
-
-**Practical effect:** A sorcerer carrying an iron sword (ENC 1), iron armour (ENC 9), and an iron helm (ENC 1) carries 11 ENC of iron - sorcery rolls suffer -55%. Most sorcerers travel in bronze or leather and leave the heavy martial kit to their companions.
-
-### 8.12.2 Artifact Basics
-
-**Artifacts** are items into which a sorcerer has bound one or more sorcery spells. Creation requires permanent POW sacrifice. The item holds its own PP reservoir, separate from the creator's pool.
-
-**Key properties:**
-
-- The creator sacrifices 1 point of permanent POW for each sorcery spell bound into the item.
-- The artifact's PP reservoir equals the creator's normal maximum PP at the time of creation.
-- When the reservoir reaches 0 PP, the artifact is inert (no spells available) until recharged.
-- Recharging: the creator (or any sorcerer who has attuned to the item) may transfer 1 PP per combat round from their own body to the artifact's reservoir. This is a concentration action.
-- The artifact's HP equals its SIZ characteristic. If destroyed, any POW invested in it is permanently lost.
-
-Full creation rules - ritual requirements, costs, and dangers - are in §12.
-
-**Iron artifacts:** An iron artifact can be enchanted to remove the iron-vs-sorcery penalty (see §6.3). The enchantment is part of the binding process and is noted when the artifact is described.

@@ -20,13 +20,13 @@ Everything else follows from those answers.
 
 **POW threshold:** NPC sorcerers require POW 16+ (§4.1.2). POW 18-20 is a senior practitioner; POW 21+ is genuinely exceptional. Demon binding costs permanent POW - a veteran demon-binder may have started at POW 22 and now sit at POW 17 after binding three demons. This shows: slightly more frail than their reputation suggests.
 
-**Spell loadout:** NPC sorcerers hold spells in memory up to their INT characteristic (§4.2.4). For practical GM use:
+**Spell loadout:** NPC sorcerers load spells through the nightly trance up to their INT characteristic in spell levels (§4.2.4). For practical GM use:
 
-- **Low-tier sorcerer (POW 16-17):** 3-4 spells in memory, total levels not exceeding INT. Typically survival spells (See the Unseen, Iron Ward), one offensive spell (Flaying Blade, Bind the Raging Heart), and one utility spell.
-- **Mid-tier sorcerer (POW 18-19):** 4-6 spells in memory. Adds defensive options (Shadow-Wrap), an investigative spell (Bird's Eye, Vermin's Eye), and one specialist spell matching their narrative role.
-- **High-tier sorcerer (POW 20-21+):** 6-8 spells in memory, plus unique spells (see §11.1.4). Has a patron (usually), at least one bound demon, and a Brazier of Power.
+- **Low-tier sorcerer (POW 16-17):** 3-4 loaded spells, total levels not exceeding INT. Typically survival spells (See the Unseen, Iron Ward), one offensive spell (Flaying Blade, Bind the Raging Heart), and one utility spell.
+- **Mid-tier sorcerer (POW 18-19):** 4-6 loaded spells. Adds defensive options (Shadow-Wrap), an investigative spell (Bird's Eye, Vermin's Eye), and one specialist spell matching their narrative role.
+- **High-tier sorcerer (POW 20-21+):** 6-8 loaded spells, plus unique spells (see §11.1.4). Has a patron (usually), at least one bound demon, and a Brazier of Power.
 
-**NPC grimoires:** NPC sorcerers have grimoires containing more spells than they can memorise - a dead court mage's grimoire is worth more to a sorcerer PC than the gold in their safe.
+**NPC talismans:** Every NPC sorcerer is bound to a talisman (§4.5). It is the single most valuable thing they own, the lever a clever PC will reach for, and inert in any other hand. A captured talisman cannot be used by another sorcerer; its value is leverage - or destruction. A dead sorcerer's annotated notes, oral teachings preserved by a former apprentice, or the residue of their workings can still serve a PC sorcerer as a **source** for learning the dead one's spells (§4.5.4).
 
 ### 11.1.3 Cost Architecture
 
@@ -43,7 +43,7 @@ Everything else follows from those answers.
 
 ### 11.1.4 Unique Spells
 
-High-tier NPC sorcerers may possess spells not on the player spell list (§4.6). These are described in the NPC's entry and require finding their personal grimoire and meeting the research conditions to obtain. Unique spells should do something the player list does not cover, reflect the NPC's specific specialisation, and carry a cost matching their power (at least 1D3 Corruption per casting for strong unique spells). See the sample entries below.
+High-tier NPC sorcerers may possess spells not on the player spell list (§4.6). These are described in the NPC's entry and require acquiring a viable source - the NPC's annotated notes, the captured testimony of a bound demon, an apprentice willing to teach - and meeting the research conditions to learn them (§4.5.4). Unique spells should do something the player list does not cover, reflect the NPC's specific specialisation, and carry a cost matching their power (at least 1D3 Corruption per casting for strong unique spells). See the sample entries below.
 
 ### 11.1.5 The NPC Sorcerer as Recurring Element
 
@@ -63,13 +63,13 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 - STR 11, CON 13, SIZ 12, INT 17, POW 18, DEX 14, CHA 16
 - HP 13, PP 18 (plus patron reserve)
-- Skills: Knowledge (Blasphemous Lore) 65%, Persuade 70%, Deceive 60%, Medicine 55%, Insight 50%
+- Skills: Knowledge (Preternatural Lore) 65%, Persuade 70%, Deceive 60%, Medicine 55%, Insight 50%
 - Patron Score: 34 (the Serpent Lord); PP reserve up to 4 per draw, three times per session
 - Corruption: 52 (starting was 90; now past the Breaking Point threshold visibly)
 
 **Casting signature:** When Haraka casts, the air thickens with a smell of dry scales and old earth. His shadow sometimes moves a moment after he does.
 
-**Spell loadout (in memory):**
+**Spell loadout (loaded this trance):**
 
 - _Bind the Raging Heart_ (intensity 2) - used to discipline cultists who waver
 - _See the Unseen_ - always active before any significant encounter
@@ -94,7 +94,7 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 - STR 8, CON 12, SIZ 11, INT 21, POW 17 (was 20; -3 from demon bindings)
 - HP 12, PP 17 (plus Brazier reserve; see below)
-- Skills: Knowledge (Blasphemous Lore) 80%, Insight 85%, Bureaucracy 70%, History 65%, Persuade 60%, Deceive 75%
+- Skills: Knowledge (Preternatural Lore) 80%, Insight 85%, Bureaucracy 70%, History 65%, Persuade 60%, Deceive 75%
 - Patron Score: none
 - Corruption: 28 (starting was 85; she is visibly marked and does not hide it in private)
 
@@ -107,7 +107,7 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Casting signature:** No smell. No visible effect. A temperature drop of two degrees - enough to see breath in summer.
 
-**Spell loadout (in memory):**
+**Spell loadout (loaded this trance):**
 
 - _See the Unseen_ - the first thing she does on waking
 - _Bird's Eye_ (intensity 3) - she has seven ravens on the palace roof
@@ -127,19 +127,19 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Title:** "The Old Wound" (true name: Ossian)
 
-**Background:** Ossian was the court mage before Verethane. He was removed when he refused to participate in a royal assassination. He has lived in a tower in the desert for nineteen years. He has a Patron Score of 61 with an entity he calls "the Empty One" - a barely-aware cosmic presence that notices him from very far away. He is looking for a student to pass his grimoire to and then die in peace. He will not find peace, because he knows something that powerful people want to bury.
+**Background:** Ossian was the court mage before Verethane. He was removed when he refused to participate in a royal assassination. He has lived in a tower in the desert for nineteen years. He has a Patron Score of 61 with an entity he calls "the Empty One" - a barely-aware cosmic presence that notices him from very far away. He is looking for a student to pass his workings on to and then die in peace. He will not find peace, because he knows something that powerful people want to bury.
 
 **Statistics:**
 
 - STR 9, CON 10, SIZ 10, INT 20, POW 19 (was 21; -2 from one demon binding, now ended)
 - HP 10, PP 19
-- Skills: Knowledge (Blasphemous Lore) 90%, Knowledge (History) 75%, Knowledge (Occult) 85%, Insight 70%, Teach 65%
+- Skills: Knowledge (Preternatural Lore) 90%, Knowledge (History) 75%, Knowledge (Occult) 85%, Insight 70%, Teach 65%
 - Patron Score: 61 (the Empty One; PP reserve up to 7 per draw)
 - Corruption: 19 (starting was 95; the knowledge has eaten most of him; he cannot hide what he is)
 
 **Casting signature:** A sound like wind through an open door that is not there. Ossian himself does not notice it anymore.
 
-**Spell loadout (in memory):**
+**Spell loadout (loaded this trance):**
 
 - _See the Unseen_ - constant
 - _Veil of the Ancient_ - his tower has three nested perimeter alarms
@@ -163,7 +163,7 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 - STR 7, CON 9, SIZ 9, INT 18, POW 20 (was 27; -7 from demon bindings and ritual costs over forty years)
 - HP 9, PP 20 (plus patron reserve and Brazier)
-- Skills: Knowledge (Blasphemous Lore) 95%, Command 80%, Insight 75%, Intimidate 70%, Persuade 60%
+- Skills: Knowledge (Preternatural Lore) 95%, Command 80%, Insight 75%, Intimidate 70%, Persuade 60%
 - Patron Score: 89 (the Drowned Goddess; PP reserve up to 9 per draw, three times per session; Patron Intercession available)
 - Corruption: 8 (starting was 100; she is one episode away from the edge - her casting signature manifests constantly, she cannot be in a room with an animal for more than a minute, and strangers flee her on instinct)
 
@@ -176,7 +176,7 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Casting signature:** The temperature does not drop. The light dims, slowly, in a perfect circle around her. Candles burn blue. Water in nearby vessels begins to move as though there is a current in it.
 
-**Spell loadout (in memory):**
+**Spell loadout (loaded this trance):**
 
 - _See the Unseen_ - constant
 - _Bind the Raging Heart_ (intensity 4) - her first response to physical threats; she turns guards into berserkers
@@ -199,7 +199,7 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Title:** "The Fortunate One" (true name: Tamas)
 
-**Background:** Tamas was an undistinguished student of a court mage who died before finishing his training. Tamas stole the grimoire from his master's deathbed, left the city, and spent two years trying to summon the first demon he found a formula for. He succeeded. The demon, a Greater entity called Vas-Saroth, was not what he expected. It agreed to serve him. The price was most of his permanent POW.
+**Background:** Tamas was an undistinguished student of a court mage who died before finishing his training. Tamas stole his master's annotated notes from the deathbed, left the city, and spent two years trying to summon the first demon he found a formula for. He succeeded. The demon, a Greater entity called Vas-Saroth, was not what he expected. It agreed to serve him. The price was most of his permanent POW.
 
 Tamas is now a sorcerer with a powerful bound demon who is structurally dependent on that demon's goodwill and cannot afford to let it go. He knows the demon is looking for a way out of the bargain. He has been trying to find another sorcerer who can help him re-negotiate or re-bind for three years.
 
@@ -207,7 +207,7 @@ Tamas is now a sorcerer with a powerful bound demon who is structurally dependen
 
 - STR 12, CON 13, SIZ 12, INT 15, POW 10 (was 17; -7 from binding Vas-Saroth)
 - HP 13, PP 10
-- Skills: Knowledge (Blasphemous Lore) 40%, Bargain 60%, Deceive 55%, Persuade 50%
+- Skills: Knowledge (Preternatural Lore) 40%, Bargain 60%, Deceive 55%, Persuade 50%
 - Patron Score: none
 - Corruption: 58 (starting was 50; already past half, though he has not been practising long)
 
@@ -217,13 +217,13 @@ Tamas is now a sorcerer with a powerful bound demon who is structurally dependen
 
 **Casting signature:** Tamas's magic is stuttered and wrong-sounding. He can feel the demon listening through his castings.
 
-**Spell loadout (in memory):**
+**Spell loadout (loaded this trance):**
 
 - _Inescapable Bonds_ - his most-used spell; he keeps distance between himself and threats
 - _Still the Mind_ - for when bonds are not enough
 - _See the Unseen_ - used obsessively; he checks everything
 
-**Motivation:** Tamas needs help. He will approach PCs who have sorcerous capability, tell them a version of his story that makes him seem more sympathetic than culpable, and offer something in return - Vas-Saroth's labour for a defined task, the name of a sorcerer who could teach them, or information about the court mage whose grimoire he still has.
+**Motivation:** Tamas needs help. He will approach PCs who have sorcerous capability, tell them a version of his story that makes him seem more sympathetic than culpable, and offer something in return - Vas-Saroth's labour for a defined task, the name of a sorcerer who could teach them, or information about the court mage whose notes he still has.
 
 **Hook for PCs:** Tamas's real danger is Vas-Saroth. If the PCs discover what Tamas has done and are tempted to free the demon (killing him, taking his true name, or simply weakening the binding), Vas-Saroth's release is a scenario in itself. The demon is patient. It has been waiting for someone with more power than Tamas to deal with it properly.
 
@@ -259,7 +259,7 @@ Demands should advance the patron's agenda and put the sorcerer in moral difficu
 
 ### 11.3.4 Gifts
 
-Beyond the standard Patron Score benefits (PP reserve, Patron Intercession), some patrons grant patron-specific spells or abilities unavailable to other sorcerers. These cannot be inscribed in a grimoire or taught - they exist only through the patron relationship. Each patron has 1-3 patron-specific gifts. Examples:
+Beyond the standard Patron Score benefits (PP reserve, Patron Intercession), some patrons grant patron-specific spells or abilities unavailable to other sorcerers. These cannot be taught or negotiated for outside the patron relationship - they exist only as gifts of the bond. Each patron has 1-3 patron-specific gifts. Examples:
 
 - Access to a unique spell (see §2 examples above for the format)
 - The ability to communicate with specific creatures or entities that would not normally respond

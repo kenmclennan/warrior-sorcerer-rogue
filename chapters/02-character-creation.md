@@ -12,7 +12,7 @@ To create a character follow these steps
 6. **Choose Talents**: Choose 2 talents from the four talent tables
 7. **Choose Passions**: Record three passions (1 at 80%, 2 at 60%)
 8. **Determine Reputation**: Record starting Reputation by profession
-9. **Determine Magical Abilities**: POW check; patron decision; starting spell; Corruption (sorcerer-archetype only)
+9. **Determine Magical Abilities**: POW check; starting spells; talisman (sorcerer-archetype only)
 10. **Determine Starting Equipment**: Take the profession kit; spend starting coin
 
 After all ten steps: answer the Background Questions (§7), agree one significant possession with a story attached (§7.1), and finalise the character sheet (§13).
@@ -149,14 +149,14 @@ Players are encouraged to invent the rest - names, language, religion, leader - 
 | 5   | Believes the gods speak through omens; will halt a campaign over a bird |
 | 6   | Holds civilised folk in pitying contempt - "soft men have soft bones"   |
 
-| d6  | Skill bundle                           |
-| --- | -------------------------------------- |
-| 1   | Track, Bow, Stealth                    |
-| 2   | Spear, Climb, Throw                    |
-| 3   | Axe, Brawl, Endurance                  |
-| 4   | Ride, Sword, Spot                      |
-| 5   | Listen, Survival, Knowledge (Folklore) |
-| 6   | Dodge, Sling, Hide                     |
+| d6  | Skill bundle                              |
+| --- | ----------------------------------------- |
+| 1   | Track, Missile Weapon (Bow), Move Quietly |
+| 2   | Melee Weapon (Spear), Climb, Throw        |
+| 3   | Melee Weapon (Axe), Brawl, Survival       |
+| 4   | Ride, Melee Weapon (Sword), Spot          |
+| 5   | Listen, Survival, Knowledge (Folklore)    |
+| 6   | Dodge, Missile Weapon (Sling), Hide       |
 
 | d6  | What they fight with                                                                                                               |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -205,14 +205,14 @@ Players are encouraged to invent the rest - names, language, religion, leader - 
 | 5   | Distantly religious, fiercely litigious - calls a magistrate before a healer     |
 | 6   | Believes its city the only true civilisation; everywhere else is "the provinces" |
 
-| d6  | Skill bundle                                        |
-| --- | --------------------------------------------------- |
-| 1   | Etiquette, Persuade, Knowledge (Law)                |
-| 2   | Fast Talk, Hide, Sword (Rapier)                     |
-| 3   | Insight, Bargain, Knowledge (Heraldry)              |
-| 4   | Sorcery, Knowledge (Occult), Etiquette              |
-| 5   | Status, Disguise, Sleight of Hand                   |
-| 6   | Pilot (Small Boat), Navigate, Knowledge (Geography) |
+| d6  | Skill bundle                                |
+| --- | ------------------------------------------- |
+| 1   | Etiquette, Persuade, Knowledge (Law)        |
+| 2   | Fast Talk, Hide, Melee Weapon (Rapier)      |
+| 3   | Insight, Bargain, Knowledge (Heraldry)      |
+| 4   | Knowledge (Occult), Research, Etiquette     |
+| 5   | Status, Disguise, Sleight of Hand           |
+| 6   | Seamanship, Navigate, Knowledge (Geography) |
 
 | d6  | What they fight with                                                                                                                   |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -264,7 +264,7 @@ Sailor and warrior in one. Raids coastal settlements, knows how to fight on a ro
 
 **Wealth:** Average
 **Reputation start:** 10%
-**Profession skills:** Brawl, Climb, Dodge, Melee Weapon (Axe or Sword), Missile Weapon (Javelin), Navigate, Parry (as weapon), Sailor, Spot, Move Quietly, Swim, Throw
+**Profession skills:** Brawl, Climb, Dodge, Melee Weapon (Axe or Sword), Missile Weapon (Javelin), Navigate, Parry (as weapon), Seamanship, Spot, Move Quietly, Swim, Throw
 
 ### 2.5.4 City Thief
 
@@ -296,7 +296,7 @@ Rider-warrior of the elite corps: trained to handle a war-chariot under combat c
 
 **Wealth:** Affluent
 **Reputation start:** 15%
-**Profession skills:** Brawl, Craft (Carpentry or Metalworking), Dodge, Drive (Chariot via Ride speciality), Listen, Melee Weapon (Spear), Missile Weapon (Bow, Composite), Ride (Chariot), Spot, Strategy, one of: Command / Persuade, one of: Status / Knowledge (Politics)
+**Profession skills:** Brawl, Craft (Carpentry or Metalworking), Dodge, Listen, Melee Weapon (Spear), Missile Weapon (Bow, Composite), Ride (Chariot), Spot, Strategy, one of: Command / Persuade, one of: Status / Knowledge (Politics)
 
 ### 2.5.8 Temple Hierophant
 
@@ -312,17 +312,15 @@ A trader: regional, caravan, or maritime. Knows markets, supply chains, and the 
 
 **Wealth:** Affluent
 **Reputation start:** 10%
-**Profession skills:** Appraise, Bargain, Command, Etiquette (Merchant Guild), Fast Talk, Insight, Knowledge (Politics), Language (one additional), Navigate, Persuade, Research, one of: Ride (Horse or Camel) / Sailor
+**Profession skills:** Appraise, Bargain, Command, Etiquette (Merchant Guild), Fast Talk, Insight, Knowledge (Politics), Language (one additional), Navigate, Persuade, Research, one of: Ride (Horse or Camel) / Seamanship
 
 ### 2.5.10 Scholar of the Dark Arts
 
 A sorcerer-archetype profession: the urban, literate one. A trained researcher in forbidden knowledge - self-taught from stolen texts, apprenticed to a dangerous master, or initiated into a small and secretive order. **This profession (along with Shaman) qualifies a character to take the sorcerer-specific Step 9.**
 
-**Wealth:** Poor to Average (sorcerers have patrons, not savings)
+**Wealth:** Poor to Average (study consumes whatever wealth comes in)
 **Reputation start:** 10% (higher if their activities are known)
-**Profession skills:** Disguise, Hide, Knowledge (Occult), Language (one additional), Literacy (one script), Perform (Ritual), Research, Sense, Sorcery, Spot, Move Quietly, one of: Insight / Bargain / Craft (Apothecary)
-
-> **Sorcery as a skill:** The Sorcery skill governs the sorcerer's ability to perform resistance-table-relevant actions during spellcasting and ritual work. It is not a casting-success roll (casting is automatic given PP and time - see §4.2.1) but a modifier for contested workings: Resistance Table rolls use the sorcerer's current PP total against the target's POW. Sorcery skill as a complementary bonus applies when the GM rules that technique is meaningfully at stake.
+**Profession skills:** Disguise, Hide, Knowledge (Occult), Language (one additional), Literacy (one script), Perform (Ritual), Research, Sense, Spot, Move Quietly, one of: Insight / Bargain / Craft (Apothecary)
 
 ### 2.5.11 Shaman
 
@@ -330,7 +328,7 @@ A sorcerer-archetype profession: the tribal, oral one. Works with spirits, ances
 
 **Wealth:** Poor (lives outside the coin economy)
 **Reputation start:** 15% (community standing among their own people; feared and distrusted elsewhere)
-**Profession skills:** Craft (Apothecary), First Aid, Insight, Knowledge (Folklore), Knowledge (Occult), Listen, Perform (Ritual), Sense, Sorcery, Spot, Survival, one of: Hide / Persuade / Track
+**Profession skills:** Craft (Apothecary), First Aid, Insight, Knowledge (Folklore), Knowledge (Occult), Listen, Perform (Ritual), Sense, Spot, Survival, one of: Hide / Persuade / Track
 
 ### 2.5.12 Outcast
 
@@ -396,18 +394,18 @@ Requires a martial profession or equivalent background.
 
 Requires a sorcerous profession or equivalent background.
 
-| Talent                 | Cost                 | Description                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Whisper of the Patron  | 4 PP                 | Invoke your patron by name even if your Patron Score is below 20. Make the Patron Intercession roll at Difficult (halved Patron Score). Only available to characters with a patron compact.                                                                                                                                                                                                |
-| Cold Iron Warding      | 3 PP                 | For one scene, reduce the penalty from unenchanted iron you are carrying by 10%. If you carry iron worth 2 ENC or less, it imposes no penalty for the scene.                                                                                                                                                                                                                               |
-| The Sorcerer's Reach   | 3 PP                 | A spell you cast this round takes effect at double its normal range or area. Duration, cost, and resistance rolls are unchanged.                                                                                                                                                                                                                                                           |
-| Still-Face             | 2 PP                 | When a source of Corruption triggers, you may pay this cost instead of making the Corruption roll. The Corruption loss is 0 (success result) rather than rolled. Only works once per triggering event; cannot suppress losses from casting past PP exhaustion.                                                                                                                             |
-| Drinker of the Current | 4 PP                 | Regain 1D3 PP immediately. This recovery is not natural rest - it is a dangerous draw on reserves that leave a mark. Each use in the same scene accumulates 1 Corruption (in addition to any standard casting Corruption). Maximum once per round.                                                                                                                                         |
-| Flesh Memory           | 2 PP                 | After successfully casting a spell, remember it for one additional casting in the same scene even if you have already used your memorised slot for that spell level. The additional casting costs normal PP.                                                                                                                                                                               |
-| Mirror's Edge          | 5 PP                 | When a sorcerous working targets you (a spell or Resistance Table roll by another sorcerer), you may reflect it at the caster. Make a POW resistance roll; if you succeed, the spell or effect is redirected to the original caster, who is the new target. PP cost for the spell is still the original caster's. This talent does not work against demon powers or patron manifestations. |
-| Blood Price            | 0 PP, but costs 2 HP | Once per scene, reduce the PP cost of a spell by 3 (minimum 1). The HP cost cannot be reduced or absorbed by armour. Bleeding from a deliberate cut is the price. Cannot be used if the HP cost would drop you to 0 HP or below.                                                                                                                                                           |
-| Shadow Speech          | 2 PP                 | You may communicate with a bound demon you have named using a brief mental message of no more than one sentence. The demon hears and may respond. This works at any distance as long as the binding holds.                                                                                                                                                                                 |
-| The Long Memory        | 0 PP                 | You learn spells from grimoires in half the normal time (one study session per 2 days per spell level instead of one week per spell level). You may also attempt to read a grimoire in a script or language you don't know at a Difficult Language roll.                                                                                                                                   |
+| Talent                 | Cost                 | Description                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cold Iron Warding      | 3 PP                 | For one scene, reduce the penalty from unenchanted iron you are carrying by 10%. If you carry iron worth 2 ENC or less, it imposes no penalty for the scene.                                                                                                                                                                                                      |
+| The Sorcerer's Reach   | 3 PP                 | A spell you cast this round takes effect at double its normal range or area. Duration, cost, and resistance rolls are unchanged.                                                                                                                                                                                                                                  |
+| Drinker of the Current | 4 PP                 | Regain 1D3 PP immediately. This recovery is not natural rest - it is a dangerous draw on reserves. Maximum once per round.                                                                                                                                                                                                                                        |
+| Flesh Memory           | 2 PP                 | After successfully casting a spell, hold it for one additional casting in the same scene even if your ready slot for that spell level has been spent. The additional casting costs normal PP.                                                                                                                                                                     |
+| Mirror's Edge          | 5 PP                 | When a sorcerous working targets you (a spell or Resistance Table roll by another sorcerer), you may reflect it at the caster. Make a POW resistance roll; if you succeed, the spell or effect is redirected to the original caster, who is the new target. PP cost for the spell is still the original caster's. This talent does not work against demon powers. |
+| Blood Price            | 0 PP, but costs 2 HP | Once per scene, reduce the PP cost of a spell by 3 (minimum 1). The HP cost cannot be reduced or absorbed by armour. Bleeding from a deliberate cut is the price. Cannot be used if the HP cost would drop you to 0 HP or below.                                                                                                                                  |
+| Shadow Speech          | 2 PP                 | You may communicate with a bound demon you have named using a brief mental message of no more than one sentence. The demon hears and may respond. This works at any distance as long as the binding holds.                                                                                                                                                        |
+| The Long Memory        | 0 PP                 | You learn new spells in half the normal time (one negotiation cycle per 2 days per spell level instead of one week per spell level). You may also attempt to parse a written source in a script or language you don't know at a Difficult Language roll.                                                                                                          |
+| Deep Sojourn           | 0 PP                 | You may make ready a total of INT + 2 spell levels each nightly trance instead of INT. The extra burden takes a toll: your PP pool starts each day at POW - 1 rather than full POW, until you next miss a trance.                                                                                                                                                 |
+| The Open Threshold     | 3 PP                 | Once per scene, force a daytime trance to swap a single ready spell without the use of Smoke of the Silver Lotus or any other drug. The crossing still requires uninterrupted stillness for a number of turns equal to the spell's level, and you remain unaware of the physical world for the duration.                                                          |
 
 ### 2.7.3 Stealth and Finesse Talents
 
@@ -432,14 +430,14 @@ Available to all professions.
 
 | Talent              | Cost           | Description                                                                                                                                                                                                                                                                                                              |
 | ------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Forked Tongue       | 4 PP           | Convert a Persuade fumble into an ordinary failure. The speech did not convince, but the catastrophic consequence - the mark who now knows you're lying, the patron who is now an enemy - does not occur.                                                                                                                |
+| Forked Tongue       | 4 PP           | Convert a Persuade fumble into an ordinary failure. The speech did not convince, but the catastrophic consequence - the mark who now knows you're lying, the warlord who is now an enemy - does not occur.                                                                                                               |
 | The Open Hand       | 3 PP           | Before making a Bargain or Persuade roll, declare you are offering something tangible (coin, information, a favour, goodwill). You gain +20% to the roll. If you later fail to deliver the offer, the target gains the same +20% bonus on any retaliatory social or combat action against you.                           |
 | Read the Room       | 2 PP           | Before entering a social situation, make a free Insight roll. On a success, the GM tells you the emotional temperature: what the main NPC wants most, what they fear most, or what would immediately end the conversation badly. On a critical, all three.                                                               |
 | Long Con            | 0 PP (passive) | You can maintain a single false identity (name, profession, origin, allegiance) indefinitely, without daily Disguise rolls, as long as no specific trigger occurs. When a trigger occurs (a native of your claimed home region, someone who knew the person you're impersonating), you immediately make a Disguise roll. |
 | Viper's Tongue      | 4 PP           | After a successful Fast Talk roll, the target's compliance lasts until the end of the scene rather than until they have time to reflect. They will not re-examine the situation until the scene ends - at which point the usual Fast Talk limitations apply.                                                             |
 | The Right Friends   | 3 PP           | Once per city or significant location, declare you have a contact here: someone who owes you a favour, is in your debt, or has reason to help. The GM determines what they can realistically provide. The contact is a one-use resource per location unless developed further in play.                                   |
 | Commanding Presence | 3 PP           | Make a Command roll targeting a group rather than individuals. On a success, anyone in the group who does not make a Difficult POW roll follows a single direct, simple instruction. The instruction must be non-suicidal and must not violate a strongly held passion.                                                  |
-| Cold Read           | 2 PP           | On an Insight roll, you also determine whether the target is armed and where the weapon is, what they would most readily trade, and whether they have a patron or superior they fear. Available on both success and critical; not on failure.                                                                            |
+| Cold Read           | 2 PP           | On an Insight roll, you also determine whether the target is armed and where the weapon is, what they would most readily trade, and whether they have a superior they fear. Available on both success and critical; not on failure.                                                                                      |
 | Silver Tongue       | 5 PP           | Make one Persuade roll at double your current skill rating. The target cannot spend their own PP to resist your social pressure this scene. Usable once per scene.                                                                                                                                                       |
 | Killer's Timing     | 3 PP           | When a negotiation or social contest is about to turn against you, you may interrupt the scene with a dramatic gesture, revelation, or threat - even out of initiative order. Make an appropriate skill roll; on a success, the scene's trajectory changes in your favour before the bad outcome resolves.               |
 
@@ -561,47 +559,25 @@ This step applies **only to characters who have chosen the Scholar of the Dark A
 
 A sorcerer-archetype character must have POW 16 or higher. If the character's rolled POW is 15 or below after redistribution, they do not qualify. Either redistribute (if a point is available) or choose a different profession.
 
-A character who qualifies may also use the **Sorcerous Heritage** option (§4.1.4): permanently reduce STR, CON, or CHA by 2 points each to gain 1 point of POW, up to a maximum of POW 21. This trade is irreversible and visible.
+A character who qualifies may also use the **Sorcerous Heritage** option (§4.1.2): permanently reduce STR, CON, or CHA by 2 points each to gain 1 point of POW, up to a maximum of POW 21. This trade is irreversible and visible.
 
 ### 2.10.2 Starting Spells
 
-The starting sorcerer knows a number of spell levels equal to **half their INT, rounded up.** A sorcerer with INT 16 knows spell levels totalling 8 - for example, four spells of level 2 each, or two spells of level 3 and two of level 1. All starting spells are memorised and immediately available (see §4.2.4).
+The starting sorcerer knows a number of spell levels equal to **half their INT, rounded up.** A sorcerer with INT 16 knows spell levels totalling 8 - for example, four spells of level 2 each, or two spells of level 3 and two of level 1. All starting spells are available to be made ready through the nightly trance (see §4.3).
 
-Choose starting spells from the spell list in §4.6. The GM may restrict certain spells at character generation; spells involving Greater Demons or direct patron contact are typically learned in play, not at creation.
+Choose starting spells from the spell list in §4.7. The GM may restrict certain spells at character generation; spells involving Greater Demons are typically learned in play, not at creation.
 
-### 2.10.3 The Patron Compact (Optional)
+### 2.10.3 Starting Talisman
 
-A starting sorcerer may choose to have already entered a patron compact. This is an opt-in decision. Not every sorcerer has a patron; unbonded sorcerers are more independent but lack the emergency PP reserve.
+Every sorcerer begins play with a **talisman** - the personal object that anchors their bond to the realms beyond. Choose its form from the options in §4.2 (ring, amulet, staff, or small carrying object). The choice implies something about the character's background:
 
-**If you take a patron:**
+- A ring or amulet implies formal training or a wealthy initiator.
+- A staff implies an itinerant master, a wilderness practice, or a temple tradition.
+- A knotted cord, inscribed bone, or sealed phial implies an old or secretive tradition outside the city schools.
 
-1. Name the patron or describe its nature (demon lord, chaos power, dead god, old elemental intelligence, ancestral spirit, totem power). The specifics are yours and the GM's to develop.
-2. Record **Patron Score = 1D6+5** (roughly 6-11 at creation).
-3. You receive the patron's PP reserve benefit and Patron Intercession access as described in §4.3.2.
-4. The patron is watching from the start. High Patron Scores draw attention; see §11 for what patrons actually want.
+Note the talisman alongside the starting spell list. The starting spells are assumed already known; they may be made ready by the first night's trance in play.
 
-**If you do not take a patron:**
-Record Patron Score as **None.** The option to enter a compact later remains open - it is a story event, not a character generation lock.
-
-### 2.10.4 Starting Corruption
-
-All sorcerers start with **Corruption = POW x5.** This is the full track; it has not been reduced by anything at creation.
-
-If the character has Knowledge (Blasphemous Lore) from their profession bundle or personal skill points, apply the cap immediately: the maximum Corruption is reduced by 1 point for every 1% of Knowledge (Blasphemous Lore) the character already has (§4.3.3).
-
-Record the starting Corruption total, the Blasphemous Lore cap if applicable, and the Breaking Point (half the starting value).
-
-### 2.10.5 Starting Grimoire
-
-Every sorcerer begins with a grimoire containing their starting spells. Choose the grimoire's format from the options in §4.5.1. Note that the format implies something about the character's background:
-
-- A codex implies formal learning or a wealthy patron.
-- A scroll implies mobility and concealment.
-- A clay tablet implies Mesopotamian temple tradition.
-- Knotted rope implies a very old or very secretive tradition.
-- Scribed bone implies someone who learned from the worst possible sources.
-
-The grimoire is the sorcerer's most valuable possession. Losing it is not the end - memorised spells remain until displaced - but it is the beginning of a very bad time.
+The talisman is the sorcerer's most valuable possession and the lever every enemy will reach for. Losing it strands them on this side of the threshold until it is recovered or remade (§4.2).
 
 ## 2.11 Step 10: Starting Equipment
 
@@ -609,22 +585,22 @@ The grimoire is the sorcerer's most valuable possession. Losing it is not the en
 
 Each profession has a typical starting kit. This is the gear the character arrives at the table with; it reflects what someone of that profession would plausibly own and carry. Items in the kit are free; they come with the profession. Players are free to replace any item of weapon or armour with a cultural equivalent.
 
-| Profession                 | Starting Kit                                                                                                                                |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tribal Warrior             | Weapon of choice (hand axe or spear, standard quality), leather armour or hide, belt knife, 5 Drams                                         |
-| Mercenary Soldier          | Sword or spear (standard), light shield, leather or scale armour, belt knife, 10 Drams                                                      |
-| Sea-Raider                 | Axe or sword (standard), dagger, light hide armour, 50m rope, 8 Drams                                                                       |
-| City Thief                 | Dagger, a thief's tools (Fine Manipulation +10% when using these), dark clothing, 5 Drams                                                   |
-| Wayfarer                   | Instrument or storyteller's props, dagger, travelling cloak, 8 Drams                                                                        |
-| Hunter-Tracker             | Spear or bow (standard, with 20 arrows if bow), hunting knife, hide armour, 3 Drams                                                         |
-| Charioteer                 | Composite bow (standard) with 30 arrows, dagger, scale armour, 15 Drams                                                                     |
-| Temple Hierophant          | Ceremonial robes, seal-ring of office, writing tools and blank scrolls, dagger, 2 Staters                                                   |
-| Merchant                   | Accounting tablets and seal, quality travelling clothes, dagger, donkey or pack animal, 3 Staters                                           |
-| Scholar of the Dark Arts   | Grimoire (chosen format), writing materials, dark or travelling clothes, dagger, 5 Drams                                                    |
-| Shaman                     | Ritual focus (drum, rattle, or charm pouch), grimoire (bone, knotted rope, or scroll), bone or flint knife, herb pouch, hide cloak, 3 Drams |
-| Outcast                    | Whatever they could carry when they left (GM-negotiated starting kit within Poor wealth level)                                              |
-| Gladiator or Arena Fighter | Arena weapon of choice (standard quality), arena armour (light, 3 AP), street clothes, 8 Drams                                              |
-| Spy or Infiltrator         | Disguise kit (+15% Disguise for these materials), quality street clothes, thin blade, 15 Drams                                              |
+| Profession                 | Starting Kit                                                                                                                                                |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tribal Warrior             | Weapon of choice (hand axe or spear, standard quality), leather armour or hide, belt knife, 5 Drams                                                         |
+| Mercenary Soldier          | Sword or spear (standard), light shield, leather or scale armour, belt knife, 10 Drams                                                                      |
+| Sea-Raider                 | Axe or sword (standard), dagger, light hide armour, 50m rope, 8 Drams                                                                                       |
+| City Thief                 | Dagger, a thief's tools (Fine Manipulation +10% when using these), dark clothing, 5 Drams                                                                   |
+| Wayfarer                   | Instrument or storyteller's props, dagger, travelling cloak, 8 Drams                                                                                        |
+| Hunter-Tracker             | Spear or bow (standard, with 20 arrows if bow), hunting knife, hide armour, 3 Drams                                                                         |
+| Charioteer                 | Composite bow (standard) with 30 arrows, dagger, scale armour, 15 Drams                                                                                     |
+| Temple Hierophant          | Ceremonial robes, seal-ring of office, writing tools and blank scrolls, dagger, 2 Staters                                                                   |
+| Merchant                   | Accounting tablets and seal, quality travelling clothes, dagger, donkey or pack animal, 3 Staters                                                           |
+| Scholar of the Dark Arts   | Talisman (chosen form), writing materials, dark or travelling clothes, dagger, 5 Drams                                                                      |
+| Shaman                     | Ritual focus (drum, rattle, or charm pouch), talisman (charm of bone, knotted cord, or carved fetish), bone or flint knife, herb pouch, hide cloak, 3 Drams |
+| Outcast                    | Whatever they could carry when they left (GM-negotiated starting kit within Poor wealth level)                                                              |
+| Gladiator or Arena Fighter | Arena weapon of choice (standard quality), arena armour (light, 3 AP), street clothes, 8 Drams                                                              |
+| Spy or Infiltrator         | Disguise kit (+15% Disguise for these materials), quality street clothes, thin blade, 15 Drams                                                              |
 
 ### 2.11.2 Starting Coin Allowance
 
@@ -660,7 +636,7 @@ Every WSR character carries one object with a story attached. It is not necessar
 
 Record it. Give it one sentence of history.
 
-> **Examples:** "The manacle I cut off myself the night I escaped - I kept it to remind me what I'll never let happen again." / "A bronze coin stamped with the face of the first commander who ever trusted me." / "A grimoire cover with no pages, salvaged from the fire that killed my master." / "A knife with my mother's name scratched into the handle that I've never once used for violence."
+> **Examples:** "The manacle I cut off myself the night I escaped - I kept it to remind me what I'll never let happen again." / "A bronze coin stamped with the face of the first commander who ever trusted me." / "A scorched length of knotted cord, salvaged from the fire that killed my master." / "A knife with my mother's name scratched into the handle that I've never once used for violence."
 
 The significant possession is not a mechanical item with stats. It is an anchor. At the GM's discretion, invoking it during a scene of personal crisis may allow an Inspiration roll using the character's highest Passion even if the Passion is not obviously relevant.
 
@@ -722,7 +698,7 @@ By the end of character generation, record:
 - Two talents (and which table each came from)
 - Three passions with ratings and targets
 - Reputation rating with tag
-- For sorcerers: Corruption total, Breaking Point, Patron Score or None, memorised spells, grimoire format
+- For sorcerers: known spells, spells held ready, talisman form
 - Starting equipment and coin
 - Background Question answers (brief)
 - Significant possession

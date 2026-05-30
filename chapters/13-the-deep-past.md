@@ -54,14 +54,14 @@ _The cataclysm. See §2 for the fuller generator; use this summary in conjunctio
 
 _The residue of a civilisation - what the PCs will find._
 
-| D6  | Legacy                   | Adventure potential                                                                                                                                                                                                                                                                                                             |
-| --- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Ruins**                | Physical structures - temples, citadels, harbours, roads, aqueducts - spread across a region. Each one is a site. Many have things living in them now.                                                                                                                                                                          |
-| 2   | **Texts**                | Grimoires, histories, star-charts, engineering manuals. Written in a dead language the PCs probably cannot read; valuable to sorcerers, scholars, and patrons. Also dangerous: the texts contain what the empire learned, and some of what they learned should not be loose in the world.                                       |
-| 3   | **Artifacts**            | Objects that still work, whose function is not always obvious. The mechanisms may be sorcerous, may be technological, may be both, may be neither. Artifacts are the primary treasure of ruins exploration. See §12 for artifact rules.                                                                                         |
-| 4   | **A curse**              | Not a simple malediction but something woven into the land, the water, the air. Animals behave strangely in the affected region. Sorcerers dream badly. People who settle in the area age faster, or do not age at all, or develop particular fixations. The curse is not random - it is the residue of what the empire did.    |
-| 5   | **A remnant population** | People who survived the cataclysm, or their descendants, carrying the old culture into the present in changed form. They may not know what they once were. They may know exactly. They may be friendly; they may be deeply territorial; they may be something that was once human and has since moved in a different direction. |
-| 6   | **A sealed gate**        | The empire built something intended to contain - a prison, a barrier, an airlock between the world and something else. It is still sealed. The seals are old and stressed. Whatever built the gate wanted nothing to enter from this side; whatever is behind the gate has had a long time to think about getting out.          |
+| D6  | Legacy                   | Adventure potential                                                                                                                                                                                                                                                                                                                                                    |
+| --- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Ruins**                | Physical structures - temples, citadels, harbours, roads, aqueducts - spread across a region. Each one is a site. Many have things living in them now.                                                                                                                                                                                                                 |
+| 2   | **Texts**                | Spell-notations, histories, star-charts, engineering manuals. Written in a dead language the PCs probably cannot read; valuable to sorcerers as a source for negotiating workings (§4.6), and to scholars and patrons for what they record. Also dangerous: the texts contain what the empire learned, and some of what they learned should not be loose in the world. |
+| 3   | **Artifacts**            | Objects that still work, whose function is not always obvious. The mechanisms may be sorcerous, may be technological, may be both, may be neither. Artifacts are the primary treasure of ruins exploration. See §12 for artifact rules.                                                                                                                                |
+| 4   | **A curse**              | Not a simple malediction but something woven into the land, the water, the air. Animals behave strangely in the affected region. Sorcerers dream badly. People who settle in the area age faster, or do not age at all, or develop particular fixations. The curse is not random - it is the residue of what the empire did.                                           |
+| 5   | **A remnant population** | People who survived the cataclysm, or their descendants, carrying the old culture into the present in changed form. They may not know what they once were. They may know exactly. They may be friendly; they may be deeply territorial; they may be something that was once human and has since moved in a different direction.                                        |
+| 6   | **A sealed gate**        | The empire built something intended to contain - a prison, a barrier, an airlock between the world and something else. It is still sealed. The seals are old and stressed. Whatever built the gate wanted nothing to enter from this side; whatever is behind the gate has had a long time to think about getting out.                                                 |
 
 ## 13.2 Generator: Cataclysms
 
@@ -106,14 +106,14 @@ _Distance from the present._
 
 _The permanent mark on the land._
 
-| D6  | Remnant                  | Scenario use                                                                                                                                                                                                                                                                                                                                                                                       |
-| --- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Haunted ground**       | The land retains the echo of the event. The dead do not rest easily here; the veil between the living and whatever lies beyond is thin. Sorcerers dream others' dreams in the affected area. Some who die here do not stay dead.                                                                                                                                                                   |
-| 2   | **Drowned cities**       | Coast, lake-bed, or river-bottom settlements, preserved under water. Accessible by boat, by diving, or through flooded passages from above. Intact enough to be legible; inhabited by things that prefer the dark and the cold.                                                                                                                                                                    |
-| 3   | **A continent of glass** | Terrain that was melted and re-solidified - by fire, by a sorcerous event, by something that generated heat on a scale that should not be possible. Beautiful and terrible. Nothing grows there. The glass is not always empty.                                                                                                                                                                    |
-| 4   | **Poisoned skies**       | Something in the atmosphere that does not disperse: perpetual ash cloud, an aurora that the locals call an omen, a smell of copper when the wind comes from a certain direction. The air in the affected region causes slow harm: the Corruption track loses a point per week for sorcerers; non-sorcerers suffer a -5% on all rolls that require concentration after more than a day in the zone. |
-| 5   | **A wandering plague**   | The original disease, or its descendant, still moves through the land. Not enough to break civilisation now - most people have partial immunity - but enough to mark isolated communities and be weaponisable. A motivated sorcerer with access to a live sample and a laboratory might be able to restore it to its original potency.                                                             |
-| 6   | **A thinned veil**       | The boundary between the world and what lies beyond it was permanently damaged in the affected region. Demons do not need to be summoned here - they leak through. The sorcery cost architecture (§4.3) functions strangely: spells that should cost 1 PP cost nothing; spells that should cost 3 PP trigger Corruption automatically. Nothing here obeys the rules it should.                     |
+| D6  | Remnant                  | Scenario use                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Haunted ground**       | The land retains the echo of the event. The dead do not rest easily here; the veil between the living and whatever lies beyond is thin. Sorcerers dream others' dreams in the affected area. Some who die here do not stay dead.                                                                                                                                                                                                      |
+| 2   | **Drowned cities**       | Coast, lake-bed, or river-bottom settlements, preserved under water. Accessible by boat, by diving, or through flooded passages from above. Intact enough to be legible; inhabited by things that prefer the dark and the cold.                                                                                                                                                                                                       |
+| 3   | **A continent of glass** | Terrain that was melted and re-solidified - by fire, by a sorcerous event, by something that generated heat on a scale that should not be possible. Beautiful and terrible. Nothing grows there. The glass is not always empty.                                                                                                                                                                                                       |
+| 4   | **Poisoned skies**       | Something in the atmosphere that does not disperse: perpetual ash cloud, an aurora that the locals call an omen, a smell of copper when the wind comes from a certain direction. The air in the affected region causes slow harm: sorcerers' nightly trances grow shallower and yield 1 fewer spell level per week of exposure; non-sorcerers suffer a -5% on all rolls that require concentration after more than a day in the zone. |
+| 5   | **A wandering plague**   | The original disease, or its descendant, still moves through the land. Not enough to break civilisation now - most people have partial immunity - but enough to mark isolated communities and be weaponisable. A motivated sorcerer with access to a live sample and a laboratory might be able to restore it to its original potency.                                                                                                |
+| 6   | **A thinned veil**       | The boundary between the world and what lies beyond it was permanently damaged in the affected region. Demons do not need to be summoned here - they leak through. Sorcery functions strangely: spells that should cost 1 PP cost nothing; spells that should cost 3 PP cost a point of permanent POW. Nothing here obeys the rules it should.                                                                                        |
 
 ## 13.3 Generator: Ruins
 
@@ -154,7 +154,7 @@ _Why the PCs would go here._
 | D6  | Hook                                                                                                                                                                                                                                                                                    |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **A commission.** Someone with money wants something from this site. They have told the PCs what. They may not have told the PCs everything they know.                                                                                                                                  |
-| 2   | **A grimoire.** Reliable intelligence that a specific text - a spell, a formula, a record of an old working - is inside. For sorcerer PCs, this is sufficient motive on its own.                                                                                                        |
+| 2   | **A working.** Reliable intelligence that a specific text - a spell, a formula, a record of an old working - is inside, the kind of source a sorcerer needs to negotiate the spell for themselves (§4.6). For sorcerer PCs, this is sufficient motive on its own.                       |
 | 3   | **A missing person.** Someone went in and has not come out. There is either money for their return or a personal obligation attached.                                                                                                                                                   |
 | 4   | **A threat.** Something in the site is causing problems for a nearby community - raids, haunting, contamination, structural interference with the local water supply. The PCs have been sent to resolve it, or have decided to on their own, or have been offered enough money to care. |
 | 5   | **A map.** The PCs have come into possession of a map or chart that leads here. The map is partial; some of what it shows no longer corresponds to the site's current state. What the map was originally created for is its own question.                                               |
@@ -180,7 +180,7 @@ _What makes the risk worthwhile. A site can have more than one._
 | D6  | Treasure Category  | Notes                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Artifact**       | An object of pre-cataclysm manufacture that still functions. Its function is not immediately obvious. Its function, when understood, is either enormously useful or enormously dangerous or both. See §12 for artifact rules.                                                                          |
-| 2   | **Lore**           | Knowledge in some fixed form - texts, star-charts, inscribed ritual workings, a sorcerer's annotated grimoire. Valuable to any sorcerer, scholar, or patron who deals in old knowledge. May be dangerous to possess; there may be others who want it and are willing to act on that want.              |
+| 2   | **Lore**           | Knowledge in some fixed form - texts, star-charts, inscribed ritual workings, a dead sorcerer's annotated notes. Valuable to any sorcerer, scholar, or patron who deals in old knowledge. May be dangerous to possess; there may be others who want it and are willing to act on that want.            |
 | 3   | **An ally**        | Something trapped, imprisoned, or held here wants to be released and will owe a significant debt if the PCs manage it. Whether this debt is safe to collect depends entirely on what the something is and what it was imprisoned for.                                                                  |
 | 4   | **Mundane wealth** | Coin, gems, art objects, trade goods, accumulated offerings. The old world was rich. Its surplus is still here in some places, untouched because whoever held it last is no longer in a position to spend it. The wealth is real; getting it out is the problem.                                       |
 | 5   | **Reputation**     | The deed itself - surviving the site, retrieving a specific object, accomplishing a task no one else has managed - is worth something in the world above. Whoever sent the PCs here gains significantly. So, potentially, do the PCs.                                                                  |
@@ -193,10 +193,10 @@ The §4 spell list is what has survived the cataclysms in transmissible form. Pr
 **Surviving pre-cataclysm sorcery takes three forms:**
 
 - **Encoded in architecture.** The spell _is_ the building and it is still running. Entering is entering the working. Destroying the building ends the spell - if destruction is possible.
-- **Recorded in grimoires.** The text exists, but learning from it differs from a current grimoire: notation may be opaque, language dead, required components or ritual spaces gone. Working out a pre-cataclysm spell from first principles is genuinely rare and likely to attract attention from people who do not want that spell loose.
+- **Recorded in old texts.** The notation exists, but learning from it is harder than learning from a contemporary source: the script may be opaque, the language dead, the required components or ritual spaces gone. Working out a pre-cataclysm spell from a fragmentary source is a research project (§4.6) of months and is likely to attract attention from people who do not want that spell loose.
 - **Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See §12 for artifact rules.
 
-**Lost technology.** Sword & sorcery's lost super-science sits alongside lost sorcery as a valid ingredient. To the people of the current age, advanced technology is indistinguishable from sorcery: a weapon firing coherent light is a "fire-lance of the old people"; a navigation device using orbital signals is an "oracle of the sky-watchers." Lost technology does not respond to the sorcerous current - iron-sensitivity (§4.4) does not apply unless the item is also sorcerous. Identification typically requires Knowledge (Engineering) or Knowledge (Occult) rather than sorcerous analysis.
+**Lost technology.** Sword & sorcery's lost super-science sits alongside lost sorcery as a valid ingredient. To the people of the current age, advanced technology is indistinguishable from sorcery: a weapon firing coherent light is a "fire-lance of the old people"; a navigation device using orbital signals is an "oracle of the sky-watchers." Lost technology does not respond to the sorcerous current - iron-sensitivity (§4.5) does not apply unless the item is also sorcerous. Identification typically requires Knowledge (Engineering) or Knowledge (Occult) rather than sorcerous analysis.
 
 **Three adventure engines.** The generators above feed three recurring scenarios:
 
@@ -223,7 +223,7 @@ A slender spire jutting above its garden wall - jade-faced, bronze-banded, or cu
 
 **Adventure Hooks:**
 
-1. **The Commission.** A patron wants a specific item from the workshop - a grimoire, an instrument, the master's own hand if it can be obtained. The PCs are paid to break in while the master is travelling. The travelling story turns out to be incorrect.
+1. **The Commission.** A patron wants a specific item from the workshop - the master's annotated notes, an instrument, their talisman, the master's own hand if it can be obtained. The PCs are paid to break in while the master is travelling. The travelling story turns out to be incorrect.
 2. **The Silence.** The master has not been seen for weeks. The servants in the garden are restless and dangerous. Something locked away upstairs is no longer locked. The local magistrate offers coin to anyone willing to investigate before it spreads.
 3. **The Inheritance.** The master is dead. A rival sorcerer (§13.6.1) is moving to claim the workshop. The PCs can sell their services to either side, or to a third party who wants the tower destroyed before anyone inherits.
 
@@ -340,12 +340,11 @@ Other skills:
   Intimidate 65%
   Status 70%
   Research 75%
-  Sorcery 65%
 
 Sorcery:
   Corruption: 28  Breaking Point: 38
   Patron Score: 22  (a demonic intelligence; consults via ritual)
-  Spells in memory:
+  Spells loaded:
     Curse of Sorcery (level 3)
     Sorcerous Armor (level 3)
     Witch Sight (level 2)
@@ -489,15 +488,14 @@ Other skills:
   Persuade 60%
   Survival 75%
   Animal Handling 70%
-  Sorcery 55% (light workings only; she has refused the patron path)
 
 Sorcery:
   Corruption: 12  Breaking Point: 45 (she has chosen the careful path)
-  Spells in memory:
+  Spells loaded:
     Witch Sight (level 2)
     Whisper Across Distance (level 2)
     Far Sight (level 1; restricted to wilderness)
-  Grimoire: oral tradition; no codex
+  Talisman: a flint-and-bone amulet on a thong, worn under her shirt
 
 Passions:
   Custody of the boundary 75% - what comes out of the deep woods is hers
@@ -790,8 +788,8 @@ The last of an elder race that ruled the world before humanity rose from the mir
 - **Damage Modifier:** none
 - **Attacks (true form):** Bite 55% / 1D6+dm (Pierce, venomous - POT 12 vs CON, paralysis 1D6 rounds on failure); Talons 50% / 1D4+dm (Slash). In human form, weapons by choice (often a curved dagger 55% / 1D4+2, ceremonial robe over scaled hide).
 - **Special Abilities:**
-  - _Human Form._ A Serpent-Folk holds a glamour of any human form they have seen; they may impersonate a specific person if they have studied them. The glamour breaks under prolonged iron contact (§4.4) or on death.
-  - _Sorcery._ Treat each Serpent-Folk as a low-tier sorcerer (Sorcery 50%, two spells of choice from §4, 8 PP). The order's elders are mid-tier sorcerers (Sorcery 65%, four spells, 14 PP).
+  - _Human Form._ A Serpent-Folk holds a glamour of any human form they have seen; they may impersonate a specific person if they have studied them. The glamour breaks under prolonged iron contact (§4.5) or on death.
+  - _Sorcery._ Treat each Serpent-Folk as a low-tier sorcerer (two spells of choice from §4, 8 PP). The order's elders are mid-tier sorcerers (four spells, 14 PP).
   - _Cold Patience._ The Serpent-Folk think in centuries. A given individual's plan in any scenario is a small piece of a longer arc; killing the visible one does not stop the plan unless the players uncover what it serves.
   - _Detected by See the Unseen._ The See the Unseen spell (§4) and the Witch Sight working both reveal the true form. A sorcerer who casts within line of sight of a disguised Serpent-Folk sees them clearly.
 - **Morale:** Will not fight to the death if escape is possible. A Serpent-Folk that flees a fight reports back to the order, and the order has long memory.

@@ -138,7 +138,7 @@ A complementary skill or an augment is one of the character's _own_ skills used 
 
 **Complementary Skill Bonus.** A complementary skill is one that logically supports the primary skill being used. When the GM agrees the connection is valid, the character adds one-fifth of the complementary skill rating (round down) to the primary skill for that roll.
 
-A character using Persuade in a formal legal context might add one-fifth of their Knowledge (Law). A scout using Navigate to guide a party through mountain passes might add one-fifth of Navigate to their Ride roll. A sorcerer using Perform (Ritual) to prepare a summoning might add one-fifth of Perform to their Sorcery skill.
+A character using Persuade in a formal legal context might add one-fifth of their Knowledge (Law). A scout using Navigate to guide a party through mountain passes might add one-fifth of Navigate to their Ride roll. A sorcerer preparing a summoning circle might add one-fifth of Knowledge (Occult) to their Perform (Ritual) roll.
 
 The GM decides whether the connection is genuine. "I am very good at Brawl, so that helps my Bargain roll" is not a complementary connection. "My Knowledge (History) of this trade route helps my Bargain with the caravan master" is.
 
@@ -262,7 +262,7 @@ A Fate Point spend that would push a character to exactly 0 PP can still be decl
 
 Power Points are spent by:
 
-- **Sorcery (§4.2).** Casting spells costs PP equal to the spell's power cost, paid at the moment of casting.
+- **Sorcery (§4.4).** Casting spells costs PP equal to the spell's level, paid at the moment of casting.
 - **Buying a Critical (§5.6.1).** A Fate Point spend with variable cost: converting an ordinary success to a Critical costs PP equal to the gap between the roll and the nearest lower matching value.
 - **Other Fate Point spends (§5.6).** Fixed-cost spends from the menu - re-rolls, defensive responses, forcing a success.
 - **Talents (§2.4).** Certain talent abilities have a PP cost listed in their description.
@@ -296,7 +296,7 @@ After rolling an ordinary success, the player may claim any matching-dice value 
 - A roll forced to success by Push Through (§5.6.6) is not eligible for a Critical Buy.
 - A roll that has been re-rolled (§5.6.2) is not eligible for a Critical Buy.
 
-Sorcerer PCs: every PP spent on a Critical Buy is a PP unavailable for casting. See §4.3.1.
+Sorcerer PCs: every PP spent on a Critical Buy is a PP unavailable for casting. See §4.4.1.
 
 ### 5.6.2 Re-roll (Cost: 5 PP)
 
@@ -367,7 +367,7 @@ A character may engage a trainer with a higher skill rating and submit to formal
 
 ### 5.7.4 Research
 
-Independent study from appropriate materials (a library, a grimoire, an ancient text) takes the same time as training but requires no teacher. A successful improvement roll yields 1D6-2 (minimum 0), or take +2 as the safe option.
+Independent study from appropriate materials (a library, a sorcerer's annotated notes, an ancient text) takes the same time as training but requires no teacher. A successful improvement roll yields 1D6-2 (minimum 0), or take +2 as the safe option.
 
 Unlike training, research can push a skill above 75%: immersion in primary sources is not bounded by a trainer's competence ceiling.
 

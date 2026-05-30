@@ -68,7 +68,8 @@ body {
 .site-title .sep { color: var(--accent); font-weight: 400; }
 
 #search {
-  width: min(22rem, 50vw);
+  width: min(20rem, 45vw);
+  margin-right: 0.5rem;
   position: relative;
 }
 
@@ -109,6 +110,35 @@ body {
  * #search so the override sticks. */
 
 .pagefind-ui__form { font-size: 0.95rem; }
+
+/* Search input itself - Pagefind defaults are oversized and bold for the
+ * header context. Match the title's visual weight. */
+#search .pagefind-ui__search-input {
+  font-size: 0.95rem;
+  font-weight: 400;
+  padding: 0.35rem 0.6rem 0.35rem 2rem; /* room on the left for the icon */
+  height: auto;
+  line-height: 1.4;
+  border-radius: 4px;
+}
+#search .pagefind-ui__search-input::placeholder {
+  font-weight: 400;
+  font-size: 0.95rem;
+}
+/* Search icon (svg) inside the input - shrink and reposition to match. */
+#search .pagefind-ui__form::before {
+  width: 0.9rem;
+  height: 0.9rem;
+  left: 0.6rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background-size: contain;
+}
+/* Clear button - smaller and less visually loud. */
+#search .pagefind-ui__search-clear {
+  font-size: 0.85rem;
+  padding: 0.2rem 0.6rem;
+}
 
 #search .pagefind-ui__drawer {
   position: absolute;

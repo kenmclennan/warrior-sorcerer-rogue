@@ -369,9 +369,9 @@ Roll Ride in challenging conditions: rough terrain, battle, forced march, or whe
 
 _(Physical, base 05%)_
 
-Practical seamanship: handling rigging, tying functional knots under wet conditions, reading wind and current, working a ship's lines under the bosun's call, and surviving the daily work of a vessel. A successful roll keeps the character productive as crew; a critical is the kind of competence a captain remembers. Sailor does not include captaincy or navigation by chart - those are Command and Navigate respectively - and it does not include shipbuilding (Craft (Carpentry) or a dedicated Shipwright speciality).
+Practical seamanship: handling rigging, tying functional knots under wet conditions, reading wind and current, working a ship's lines under the bosun's call, and surviving the daily work of a vessel. A successful roll keeps the character productive as crew; a critical is the kind of competence a captain remembers. Seamanship does not include captaincy or navigation by chart - those are Command and Navigate respectively - and it does not include shipbuilding (Craft (Carpentry) or a dedicated Shipwright speciality).
 
-Roll Sailor when crew skill matters: holding course in heavy weather, reefing a sail under fire, executing a manoeuvre the captain has ordered, or surviving a sudden squall on a small craft.
+Roll Seamanship when crew skill matters: holding course in heavy weather, reefing a sail under fire, executing a manoeuvre the captain has ordered, or surviving a sudden squall on a small craft.
 
 ### 3.4.36 Sense
 

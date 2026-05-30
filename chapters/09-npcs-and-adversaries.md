@@ -37,7 +37,7 @@ Named antagonists are PC-grade characters: individuals with full stat blocks, Fa
 
 **Mechanical profile.** Build named antagonists exactly as you would build a PC (see §2 for the chargen procedure). All the same rules apply: characteristics, derived stats, skills, talents, passions, reputation. **HP uses the full PC formula: CON + SIZ** (not the half formula used by Rabble and Professionals). The GM version of a named antagonist has full Fate Point access - their Power Points can fund defensive spends, and they will use them when the stakes are high enough.
 
-For sorcerer-villain antagonists, apply the full Sorcery rules from §4. They have Corruption, may have a Patron Score, and memorise spells like any PC sorcerer. Building a sorcerer antagonist is covered in detail in §11 (NPC Sorcery and Patrons); the stat blocks in §6 of this chapter include a worked example.
+For sorcerer-villain antagonists, apply the full Sorcery rules from §4. They make ready their spells through the nightly trance and depend on a talisman like any PC sorcerer. Building a sorcerer antagonist is covered in detail in §11 (NPC Sorcery and Patrons); the stat blocks in §6 of this chapter include a worked example.
 
 ## 9.2 Rabble Stat Block Format
 
@@ -164,8 +164,9 @@ Fate Point access: yes.  PP spent on: [list options likely to be used]
 [For sorcerers only:]
 Corruption: ##  Breaking Point: ##
 Patron Score: ## (patron name or None)
-Spells in memory: [spell, level] x [number known]
-Grimoire: [format]
+Known spells: [spell, level] x [number known]
+Loaded this trance: [subset chosen for the scene]
+Talisman: [form]
 
 Notes: [drives, behavioural limits, escalation notes, scenario hooks]
 ```
@@ -184,11 +185,11 @@ The villain's PP are the GM's primary pacing tool. Decide at session prep how ma
 
 Sorcerer-villain antagonists have a Corruption track and may have a Patron Score. Use the full mechanics from §4 for their sorcery. Additionally:
 
-**Spells in memory.** Two or three spells, total levels not exceeding half INT (consistent with the PC rule in §2.10.2).
+**Spells loaded.** Two or three spells, total levels not exceeding half INT (consistent with the PC rule in §2.10.2).
 
-**Casting under pressure.** Sorcerer antagonists follow §4.2 and share the combat interruption risk (§6.9). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
+**Casting under pressure.** Sorcerer antagonists follow §4.4 and share the combat interruption risk (§6.9). A smart party closes to melee before the sorcerer casts; a smart sorcerer antagonist keeps Rabble and bodyguards between them and melee fighters.
 
-**Corruption as a signal.** Corruption level shows how far the sorcerer has gone. Near the Breaking Point means they have sold something fundamental - let that show in their behaviour and decisions.
+**The talisman as a lever.** A sorcerer's talisman is the single object most worth seizing. A PC who works out which object it is and gets hold of it can strand the sorcerer on this side of the threshold (§4.2). Let smart play be rewarded.
 
 Cross-reference §11 for patron design, ritual magic, and demon binding. This chapter provides the stat block; §11 provides what is behind it.
 
@@ -394,21 +395,20 @@ Combat skills:
 Other skills:
   Knowledge (Occult) 80%
   Knowledge (Demonic) 60%
-  Knowledge (Blasphemous Lore) 35%
+  Knowledge (Preternatural Lore) 35%
   Research 65%
   Insight 60%
   Persuade 55%
   Move Quietly 50%
-  Sorcery 55% (complementary on contested workings)
 
 Sorcery:
   Corruption: 72  Breaking Point: 45
   Patron Score: 14  (Patron: the Devouring Lattice, a chaos intelligence)
-  Spells in memory:
+  Spells loaded:
     Curse of Sorcery (level 3) - afflicts a target with sorcerous decay
     Sorcerous Armor (level 3) - 6 AP magical protection, costs PP per AP
     Witch Sight (level 2) - see sorcery, demons, invisible workings
-  Grimoire: a bronze-clasped codex, illegible to non-sorcerers
+  Talisman: a bronze signet ring worn under a gauntlet, never removed
 
 Talents:
   Arcane Insight (Sorcery): Halves time to learn new spells; bonus die on

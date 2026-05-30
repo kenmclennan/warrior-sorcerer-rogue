@@ -1,164 +1,83 @@
 # 4 Sorcery
 
-This chapter covers becoming a sorcerer, casting spells, the three costs, iron disruption, grimoires, and the full spell list. §11 covers the GM side: patrons, demons, and what happens when a sorcerer goes too far.
+This chapter covers becoming a sorcerer, casting spells, and summoning demons.
 
 ## 4.1 Becoming a Sorcerer
 
-### 4.1.1 What a Sorcerer Is
+### 4.1.1 The Source of Sorcerous Power
 
-A sorcerer has learned to reach into the sorcerous current - the ancient flow of power that runs beneath the world. Not a gift. Not a birthright. Knowledge, acquired at cost, from a source that was not interested in sharing. Sorcerers are rare; most who study the arcane arts stop before it costs them anything important.
+Sorcerers do not sleep. Instead, each night they send their souls on a sojourn into the realms beyond the mortal world, where entities of immense age and power dwell. There, in spirit form, they seek out these beings to bargain with, to trick, or to steal from them the power to bend the mortal world to their will: what ordinary folk call sorcery.
 
-### 4.1.2 Requirements
+The trance-like state they enter when crossing the threshold leaves them vulnerable and exposed. Sorcerers guard their resting places well.
 
-To become a sorcerer, a character must meet all three of the following conditions at character creation. A warrior or rogue who later pursues sorcery may meet these requirements during play with the GM's agreement.
+When their souls return from these nightly sojourns their minds are afire with the painfully incomprehensible shapes, patterns, colours, and sounds of magic. The magic must be unleashed; it cannot be held for long. When it is gone, it leaves behind a terrible emptiness.
 
-**Power (POW 16 or higher).** The sorcerous current demands a minimum vital force. A character with POW 15 or below can own a grimoire, can even read it, but cannot draw power through the text. The spells simply will not come. This threshold is not negotiable.
+Knowingly or not, the sorcerer serves the oblique purposes of these higher powers in the realms of humankind.
 
-**A sorcerer's profession or background.** The character must have pursued sorcery through a recognised path: formal apprenticeship under an established sorcerer, years alone in a dark library, a pact exchanged in a place that should not exist, initiation into a small and secretive order, or the oral tradition of a tribal mentor working with spirits and ancestors. Characters from purely martial or criminal backgrounds who have never been near sorcerous instruction cannot qualify, however high their POW. See §2.5 for the professions that qualify.
+### 4.1.2 Becoming a Sorcerer
 
-**A grimoire.** Every sorcerer begins with at least one grimoire containing their starting spells. Without access to written sorcerous knowledge, no learning is possible. Starting sorcerers know a number of spell levels equal to half their INT (round up), inscribed in their grimoire and memorised for immediate use. See §6 for grimoire rules.
+To become a sorcerer, a character must have a POW score of 16 or higher and a sorcerous profession or background. See §2.5 for the professions that qualify. A non-sorcerous character who later pursues sorcery may meet these requirements during play with the GM's agreement.
 
-### 4.1.3 Learning Methods
+Starting sorcerers know a number of spell levels equal to half their INT (round up). See §4.5 for talisman rules.
 
-These are narrative distinctions, not mechanical ones. Each produces the same sorcerer; they shape debts, enemies, and casting signature.
+At character creation, a sorcerer-archetype PC may trade vitality for power: every 2 points permanently reduced from any combination of STR, CON, or CHA grants 1 POW. POW cannot be raised above 21 by this trade, and the trade is only available during character creation.
 
-**Apprenticeship.** Years under an established sorcerer - a court mage, desert hermit, marsh witch, tribal shaman, or mountain wise-woman. The apprentice's grimoire is usually a partial copy of the master's, taken in secret or given reluctantly; for a shaman, this may be a bone-scrimshaw or knotted-cord record rather than ink on parchment.
+## 4.2 The Talisman
 
-**The Dark Library.** Self-taught from texts found in a ruin, temple archive, or dead scholar's estate. Slow, dangerous, prone to misunderstanding. The grimoire may be incomplete or in languages only partially understood.
+Every sorcerer possesses a **talisman** that acts as a focus and a conduit for their magic. Each talisman is unique to its sorcerer. Common forms include:
 
-**The Infernal Pact.** Knowledge bargained from a demon, patron entity, or chaos power. What was offered in return is the question. Characters who take a patron compact at creation have usually arrived here.
+- **A ring** carved or cast in bronze, silver, or stranger metal; often bearing a sigil only the sorcerer can read.
+- **An amulet** - a stone, a tooth, a fragment of a fallen star - worn on a thong against the skin.
+- **A staff** banded with the sorcerer's chosen alloys, struck into the ground when the trance begins.
+- **A small carrying object** - a sealed phial, a knotted cord, an inscribed bone, a tooth in a setting - chosen for portability and concealment.
 
-**Stolen Power.** A warrior, thief, or scholar who encountered sorcery too closely and found it had changed them. Grimoire stolen, taken from a dead sorcerer, or recovered from a ruin. Self-taught from texts not meant for them.
+A sorcerer makes their talisman once, at the beginning of their practice. Mechanically this is assumed to have happened before play begins (see §2.10.5).
 
-### 4.1.4 The Sorcerous Heritage Option
+Without a talisman a sorcerer cannot sojourn into the realms beyond to gain new magic, nor cast the magic they already possess. A sorcerer may use another's talisman only after a week-long period of attunement, and may be attuned to no more than one talisman at a time. Recovering a lost talisman restores all sorcerous abilities immediately on contact.
 
-At character creation, a sorcerer-archetype PC may trade vitality for power: every 2 points permanently reduced from any combination of STR, CON, or CHA grants 1 POW. Irreversible. Cannot push POW above 21. Available only at creation.
+A sorcerer whose talisman is destroyed may make a new one, but the process is complex, time-consuming, and expensive, involving some sort of quest. The player and the GM should work together to determine the details.
 
-The trade is visible to those who know what to look for: hollowness about the eyes, a chill in the handshake, an unnatural stillness. The signs of a transaction.
+## 4.3 Sojourning
 
-## 4.2 Casting Spells
+A sorcerer can hold spell levels ready in their mind equal to their INT. These are the workings they have negotiated for in their most recent trance and may cast immediately. Spells beyond this limit are known but not ready - to cast them, the sorcerer must trance again.
 
-### 4.2.1 Automatic Success
+**Sojourning.** Each night the sorcerer sits in a trance-like state, their soul cast into strange dimensions. They return at dawn with a mind full of spells - up to their INT in spell levels, chosen from their known spell list. This trance replaces ordinary sleep. While in trance the sorcerer is **unaware of the physical world**: they do not see, hear, or feel, and an attacker can act on the body with impunity. Returning from the trance to wakefulness takes a full round of confusion (acts last in the round, no parry or dodge).
 
-Sorcery does not fail through incompetence. A sorcerer who knows a spell, has the PP, and has time to cast it succeeds automatically. Failure comes from outside: interruption, a resisting target, iron in the kit. Not from the caster's technique.
+A sorcerer prevented from trancing for a full night cannot refresh their spells. If they still hold uncast spells from a previous trance, they must succeed on an Idea roll or lose 1D4 of them at random.
 
-### 4.2.2 Power Point Cost
+**Swapping a spell during the day.** A sorcerer may sojourn briefly between nights to swap a single ready spell for another from their known list. This requires uninterrupted stillness for a number of turns equal to the spell's level. To force the crossing in such a short space of time, the sorcerer must rely on rare and exotic herbs, elixirs, or drugs.
 
-Every spell costs PP equal to its intensity, paid at the moment of casting. Fixed-intensity spells always cost the same amount; scaling spells cost more for stronger effects. PP are shared with all Fate Point spends - the Critical Buy (§5.6.1) and the standard menu (§5.6) draw from the same pool, every draw. If the sorcerer lacks PP to complete a casting, the spell fails and any gathered PP disperses.
+## 4.4 Casting Spells
+
+A sorcerer who has their talisman, knows the spell, has the PP, and has time to cast succeeds automatically - unless they are interrupted during the casting or the target resists.
+
+### 4.4.1 Power Point Cost
+
+Every spell costs PP equal to its level, paid at the moment of casting. A sorcerer cannot spend more PP than they possess, and PP do not regenerate above the sorcerer's POW score.
+
+Some powerful spells demand permanent POW in addition to PP. Others require special herbs, potions, words, or other components. The GM may rule that additional requirements apply, or none at all. If a spell demands a sacrifice of permanent POW, the sorcerer's PP maximum drops with the POW; if their POW later increases, the PP maximum rises with it.
 
 See §5.5 for PP totals and recovery.
 
-### 4.2.3 Time to Cast
+### 4.4.2 Time to Cast
 
 An instantaneous spell resolves on the caster's Initiative Rank in the round it is cast (§6.1). A sorcerer who intends to cast may roll their initiative with **1D10 + INT** instead of the usual **1D10 + DEX**, reflecting the mental quickness of the working. The cast itself is the sorcerer's combat action for the round; they may not also attack or move beyond a Short Move. Multi-round workings (rituals, demon summoning) are noted in the spell entry and cannot be performed mid-combat.
 
-### 4.2.4 Memorised Spells and the Grimoire
-
-A sorcerer can hold spell levels in active memory equal to their INT. These can be cast immediately. Spells beyond the limit are grimoire-only and require readying before use.
-
-**Readying a spell from the grimoire:** a number of uninterrupted rounds equal to the spell's level. Cannot be done in combat unless the sorcerer is fully secure. Costs nothing beyond time.
-
-### 4.2.5 The Casting Signature
-
-Every sorcerer's magic is distinctive. At character creation, define your casting signature: a specific combination of gestures, words, sounds, smells, or foci. Not mechanical - it does not affect casting - but it makes magic visible and theatrical. Magic should be seen. A sorcerer may attempt to suppress their signature, but the signs leak through at moments of strong power use.
-
-### 4.2.6 Interruption During Casting
+### 4.4.3 Interruption During Casting
 
 If the sorcerer takes damage or a sudden shock while casting, make a Difficult Idea roll (INT/2, round up). On a failure, the working collapses and committed PP are lost. Knocked unconscious: automatic failure.
 
-### 4.2.7 Spell Duration
+### 4.4.4 Spell Duration
 
 Default duration is the caster's POW in combat rounds, unless the entry states otherwise. Instantaneous spells have no duration. A sorcerer may end a spell early by will at no cost.
 
-### 4.2.8 Resistance and Contested Spells
+### 4.4.5 Resistance and Contested Spells
 
 Targeted spells must overcome the target's resistance via a resistance roll (§5.3.5): the sorcerer's current PP (after paying the cost) vs. the target's POW. On a failure, the spell is blocked; PP are still spent. Winning a resistance roll against a target with equal or higher POW earns an experience checkmark toward improving POW (§5.7.5).
 
-## 4.3 The Cost Trio
+## 4.5 The Disruptive Impact of Iron
 
-Sorcery has three costs operating at different scales. All three are real and in play simultaneously.
-
-### 4.3.1 Power Points
-
-The immediate cost. Every spell costs PP; at zero the sorcerer collapses. Every spend is a real decision: spell or Fate Point; Critical Buy or working. See §5.5 for the full Power Point rules.
-
-### 4.3.2 Patron Score (Optional)
-
-A sorcerer who has entered a compact with a patron entity maintains a Patron Score tracking the relationship. It rises when the sorcerer serves the patron's interests; it measures both investment and debt.
-
-**Taking a patron is optional.** Unbonded sorcerers pay PP and Corruption and owe nothing to any named power - more independent, but without patron reserves.
-
-**Starting Patron Score:** A sorcerer who begins with a patron compact starts at a Patron Score of 1D6+5 (roughly 6-11). The score grows over adventures as the sorcerer performs deeds that please the patron. It rarely decreases.
-
-**Benefits of a Patron Score:**
-
-- **PP Reserve.** When the sorcerer's own PP pool reaches 0, they may call on the patron for an emergency draw. They may draw up to 1/10 of their current Patron Score (round up) as emergency PP. This may be done up to three times per session. Each use increases the Patron Score by 1 (the debt deepens).
-- **Patron Intercession.** When the sorcerer's situation is truly desperate, they may invoke the patron by true name as a full action. Make an allegiance roll (D100 vs. current Patron Score). On a Critical (matching dice within the Patron Score), the patron intervenes directly - a demon servant appears, a curse falls on enemies, a door opens that should not. The form of intervention is the GM's call. A successful Patron Intercession always increases the Patron Score by 2D6. The patron has spent something, and the debt has grown.
-
-**The obligation:** A high Patron Score draws the patron's attention. §11 describes what patrons want and how the relationship escalates. A Patron Score above 50 brings increasingly specific demands.
-
-**Earning Patron Score:** After any adventure in which the sorcerer performed actions that served the patron's interests, the GM may call for a patron test. Roll D100. If the roll is less than the current Patron Score, the score increases by 1D6. §11 defines what a given patron values - each patron has its own trigger list.
-
-### 4.3.3 Corruption
-
-The permanent cost. Every sorcerer has a Corruption track, expressed as a score descending toward zero.
-
-**Starting Corruption:** A sorcerer's Corruption track begins at POW x 5. A sorcerer with POW 17 starts with a Corruption track of 85.
-
-**The Corruption maximum cap:** Deep arcane knowledge lowers a sorcerer's maximum Corruption ceiling permanently. Each 10% of Knowledge (Blasphemous Lore) a sorcerer possesses reduces their Corruption maximum by 10 points. A sorcerer with Knowledge (Blasphemous Lore) 30% has a maximum Corruption of (starting value - 30). As they study darker texts, the ceiling drops. More experienced sorcerers are closer to the edge even when they have not yet fallen far. The knowledge itself eats capacity.
-
-**Losing Corruption:** The table below lists the circumstances that cost Corruption. When a triggering event occurs, make a D100 roll against the sorcerer's current Corruption. On a success, the sorcerer sustains the lower loss. On a failure, they sustain the higher.
-
-| Trigger                                       | Corruption Loss (success/failure) |
-| --------------------------------------------- | --------------------------------- |
-| Casting a spell of intensity 3 or lower       | 0 / 1                             |
-| Casting a spell of intensity 4 or higher      | 1 / 1D3                           |
-| Summoning a lesser demon (player side)        | 1 / 1D6                           |
-| Binding a demon (any type)                    | 1D3 / 1D6                         |
-| Casting past PP exhaustion (see §3.1)         | 1D6 / 2D6                         |
-| Patron Intercession (the patron manifesting)  | 1 / 1D3                           |
-| Encountering a Greater Demon unbound          | 1D3 / 1D6                         |
-| Direct contact with an Old Power              | 1D10 / 1D100                      |
-| Suffering a sorcerous curse or transformation | 1D6 / 2D10                        |
-
-**Desensitisation:** Repeated exposure to the same ordinary Corruption source loses its impact. The GM may reduce or waive the cost for familiar situations. Greater Demons and Old Powers never desensitise.
-
-**Corruption thresholds:** The track has three important levels.
-
-_At half starting value (the Breaking Point):_ if the sorcerer loses Corruption points equal to or greater than their Breaking Point (half starting value) in a single session, they suffer an **acute episode**. Roll 1D6 on the Acute Episode table and 1D8 on the Duration table.
-
-| 1D6 | Acute Episode                                                                                                                                                                                                |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Fugue Possession.** The sorcerer stares, unmoving, as something looks out through their eyes. They are present but not controlling their body. Duration applies.                                           |
-| 2   | **Speaking in the Dead Tongue.** The sorcerer speaks only in a dead arcane language they may or may not know. They can still understand others. Duration applies.                                            |
-| 3   | **Demonic Certainty.** The sorcerer becomes convinced they are being surveilled by a specific supernatural entity. They may still act but with paranoia-driven decisions. Duration applies.                  |
-| 4   | **Offering Compulsion.** The sorcerer is gripped by the need to make an offering - of blood, of something precious, of something irreversible. They resist with a Difficult Willpower roll or are compelled. |
-| 5   | **The Sorcerer's Mark.** A permanent physical mark appears - an arcane brand, a changed eye colour, scales along the wrist, a cold spot at the temples. This mark does not fade when the episode ends.       |
-| 6   | **Ecstatic Clarity.** For the duration, the sorcerer casts all spells at no PP cost. They also cannot be reasoned with and will not stop.                                                                    |
-
-| 1D8 | Duration                |
-| --- | ----------------------- |
-| 1   | One combat round        |
-| 2   | Five minutes (one turn) |
-| 3   | One hour                |
-| 4   | Two hours               |
-| 5   | Twelve hours            |
-| 6   | One day                 |
-| 7   | One week                |
-| 8   | Two weeks               |
-
-_At Corruption 25 or lower:_ the sorcerer is visibly marked by their practice. They cannot easily pass as an ordinary person. Strangers feel unease in their presence. Animals will not approach willingly. The casting signature has become involuntary - it appears even in ordinary moments.
-
-_At Corruption 0:_ the sorcerer is lost - retired as an NPC or an entity under GM control that may still speak with their voice but no longer has their goals. Not death, but worse.
-
-**Recovering Corruption:** Two paths exist.
-
-- **Destroying the source.** Permanently destroying or banishing the entity responsible may restore up to half the Corruption that source threatened. The GM sets the amount.
-- **Ritual substances.** Rare alchemical and herbal preparations (black lotus, specific ritual fumes) can restore small amounts. Expensive and unavailable in most markets; GM sets availability and cost.
-
-## 4.4 Iron Disrupts Sorcery
-
-Unenchanted iron is inimical to the sorcerous current.
+Unenchanted iron is inimical to sorcerous power.
 
 **Rule:** Each 1 ENC of unenchanted iron carried imposes **-5% on all sorcery rolls**, including Resistance Table rolls made as part of a spell's effect.
 
@@ -166,55 +85,26 @@ Unenchanted iron is inimical to the sorcerous current.
 
 **What does not count:** Bronze, copper, leather, bone, wood, stone, and all other non-ferrous materials. Enchanted iron or steel (consecrated through proper sorcerous ritual) does not impose the penalty.
 
-**Practical:** Iron sword (ENC 1) + iron helm (ENC 1) = -10% on all sorcery rolls. Iron mail (ENC 9) = -45%. Most sorcerers travel in bronze or leather.
+**Practical effect:** A sorcerer carrying an iron sword (ENC 1), iron armour (ENC 9), and an iron helm (ENC 1) carries 11 ENC of iron - sorcery rolls suffer -55%. Most sorcerers travel in bronze or leather and leave the heavy martial kit to their companions.
 
-See §8.11 for ENC, §8.5 for material tiers, and §8.12.1 for the full iron-vs-sorcery rules.
+## 4.6 Learning New Spells
 
-## 4.5 Grimoires
+Learning a new spell requires extensive exploration during the nightly sojourn. The search takes 1D6 weeks (the GM rolls in secret). After that time has elapsed the sorcerer makes an INT x3 roll and consults the table below:
 
-A grimoire is the physical record of a sorcerer's knowledge - though "book" is rarely the right word for it. The format varies wildly; the function does not. Without a grimoire in some form, a sorcerer cannot learn new spells or recover forgotten ones. Losing one is a catastrophe.
+| INT Roll         | Result                                                                       |
+| ---------------- | ---------------------------------------------------------------------------- |
+| Critical Success | The spell is learned. In addition, 1D3 points of POW are permanently gained. |
+| Success          | The spell is learned.                                                        |
+| Failure          | The spell is not learned.                                                    |
+| Fumble           | The spell is not learned. 1D3 points of POW are permanently lost.            |
 
-### 4.5.1 Grimoire Formats
+## 4.7 The Spell List
 
-Sorcerous knowledge can be recorded in any medium that can bear inscription and survive handling. The following formats are standard in the ancient world:
-
-**Codex (bound manuscript).** Papyrus or parchment leaves bound between wooden or bone covers. Portable, moderately durable, can hold many spells. Most expensive.
-
-**Scroll.** A papyrus or parchment roll, stored in a leather or ivory case. Good for a few spells; easier to conceal than a codex. Fragile if the case is lost.
-
-**Clay Tablet.** Heavy, durable, fireproof. A tablet can hold one or two spells. Sorcerers who inscribe on tablets often have a collection; the tablets must be carried or stored.
-
-**Carved Stone.** The format of old temple sorcery. A stone slab or carved monolith bearing a working in relief. Cannot be carried; the sorcerer must travel to the stone to study it. Effectively permanent.
-
-**Prepared Hide.** Tanned leather or dried skin bearing inscription. Portable, somewhat durable. Has a reputation for being the format of sorcerers who practice outside cities and civilisation.
-
-**Knotted Rope.** An old sorcerous notation system in which spells are encoded in the pattern of knots. Extremely compact, completely unreadable to anyone who does not know the system. The same length of rope can hold a dozen spells or a single complex working, depending on the knotter's skill.
-
-**Scribed Bone.** Individual bones - human or animal - bearing carved notation. Compact and durable. Regarded with suspicion by most people; sorcerers who carry bone grimoires tend not to show them to strangers.
-
-### 4.5.2 Learning New Spells
-
-Requirements:
-
-- **Access.** The sorcerer must read the grimoire; requires Literacy in its language. If the Language or Literacy skill is below INT x5, a successful Language roll is needed.
-- **Study time.** One week per spell level. Cannot be hurried.
-- **Materials.** Peace, reasonable light, and materials to copy into the sorcerer's own grimoire (approx. 2-5 Staters per spell for codex format).
-
-**Research:** Working from original principles or multiple grimoires, a sorcerer may research unwritten spells. One month per spell level; Knowledge (Occult) roll at GM-set difficulty (minimum Difficult for level 3+). Failure means a wall - find another approach.
-
-**The INT memory limit:** When learning a spell that pushes past the INT limit, choose which memorised spell goes to grimoire-only. The spell is not forgotten; it simply requires readying time before casting again.
-
-### 4.5.3 Scribing Your Own Grimoire
-
-A sorcerer may copy memorised spells into a new grimoire. One day per spell level; appropriate tools required (ink and parchment for codex, kiln for clay tablets, etc.). If the original grimoire is damaged or lost, memorised spells are retained - but displaced spells are gone unless re-copied from a surviving grimoire or relearned. Multiple grimoires provide security at the cost of protection and transport.
-
-## 4.6 The Spell List
-
-The spells below are available to sorcerer PCs. Ritual workings, patron-specific powers, and spells unique to individual sorcerers are in the GM's domain. Consult the summary table for a quick cost and time overview; then consult the full entry for mechanics.
+The spells below are available to sorcerer PCs. Ritual workings and spells unique to individual sorcerers are in the GM's domain. Consult the summary table for a quick cost and time overview; then consult the full entry for mechanics.
 
 | Spell                      | Cost                         | Cast Time         | Duration               |
 | -------------------------- | ---------------------------- | ----------------- | ---------------------- |
-| Animate Dead               | 3 PP/body + 1 Corruption     | 10 min/body       | POW hours              |
+| Animate Dead               | 3 PP/body                    | 10 min/body       | POW hours              |
 | Bind the Raging Heart      | 1 PP/intensity (max 4)       | 1 round           | POW rounds             |
 | Bird's Eye                 | 1 PP/intensity (max 3)       | 1 round           | POW rounds             |
 | Brazier of Power           | 1 permanent POW + 4 PP/level | 4 hours           | Permanent              |
@@ -231,14 +121,14 @@ The spells below are available to sorcerer PCs. Ritual workings, patron-specific
 | Leap of the Shadow Cat     | 1 PP/intensity (max 4)       | 1 round           | POW rounds             |
 | Lethe Touch                | 3 PP                         | 1 round           | Instantaneous          |
 | Liken Shape                | 4 PP                         | 1 round           | POW x10 rounds         |
-| Mend the Mortal Frame      | 3 PP + 1D3 Corruption        | 1 round or 10 min | Instantaneous          |
+| Mend the Mortal Frame      | 3 PP                         | 1 round or 10 min | Instantaneous          |
 | Midnight                   | 1 PP                         | 1 round           | POW rounds             |
 | Moonrise                   | 1 PP                         | 1 round           | POW rounds             |
 | Night Ear                  | 1 PP                         | 1 round           | POW rounds             |
 | Pox of the Sorcerer        | 1 PP                         | 1 round           | POW rounds             |
 | See the Unseen             | 3 PP                         | 1 round           | POW rounds             |
 | Shadow-Wrap                | 2 PP/intensity (max 4)       | 1 round           | POW rounds             |
-| Shape Thief                | 4 PP + 1 Corruption          | 1 round           | POW rounds             |
+| Shape Thief                | 4 PP                         | 1 round           | POW rounds             |
 | Skin of the Beast          | 3 PP                         | 1 round           | POW rounds             |
 | Slumber of the Lotus       | 2 PP/intensity (max 4)       | 1 round           | 1D6 rounds to days     |
 | Still the Mind             | 1 PP                         | 1 round           | 1D6 rounds             |
@@ -254,7 +144,7 @@ The spells below are available to sorcerer PCs. Ritual workings, patron-specific
 
 ### Animate Dead
 
-**Cost:** 3 PP per body + 1 Corruption per body
+**Cost:** 3 PP per body
 **Cast Time:** 10 minutes per body (ritual; requires the corpse and a sliver of the sorcerer's blood)
 **Duration:** POW hours, or until destroyed
 
@@ -266,8 +156,6 @@ A sorcerer may have up to POW/3 (round down) animated dead under their command a
 
 **The cost of the dead.** Communities almost universally revile necromancy. An animated corpse identified by a community will produce immediate hostility, and the recognition may come from a single relative seeing the body's face. Animate Dead is not a discreet working.
 
-**Cost Notes:** Causes 1 Corruption per body animated. Animating the corpse of a known relative, or of a person the sorcerer has personally killed, causes 1D3 Corruption per body.
-
 ### Bind the Raging Heart
 
 **Cost:** 1 PP per intensity (max 4)
@@ -275,8 +163,6 @@ A sorcerer may have up to POW/3 (round down) animated dead under their command a
 **Duration:** POW rounds
 
 The target must fail a POW resistance roll (§5.3.5) or enter a berserker state: attacks the nearest creature, cannot parry or dodge, cannot stop fighting even when mortally wounded. Does not feel pain. When the spell ends, the target collapses unless wounds were minor.
-
-**Cost Notes:** Casting at intensity 3 or higher increases Corruption by 1 (in addition to standard casting cost).
 
 ### Bird's Eye
 
@@ -306,8 +192,6 @@ The sorcerer binds permanent vital force into a physical object - a brazier, sto
 
 The sorcerer becomes the focal point of a PP chain, drawing on the vital force of up to eight willing participants in an unbroken touch-chain. Participants contribute PP as if they were the caster. Participants who drain to 0 PP fall unconscious immediately. The sorcerer uses the combined pool for the linked working (usually a demon summoning or great ritual). Once released, participants recover PP normally.
 
-**Cost Notes:** Participants who contribute more than half their PP in a single session each suffer 1 Corruption.
-
 ### Cloak of Night
 
 **Cost:** 1 PP per intensity (max 4)
@@ -324,8 +208,6 @@ Enhances the target's Move Quietly skill: intensity 1 = +20%; intensity 2 = +40%
 
 The target must fail a POW resistance roll (§5.3.5) or receive a permanent, visible disfigurement: a hand turned claw, an eye that clouds and weeps black, hair that falls and does not grow back. The mark imposes -20% to all social interactions in communities that recognise it, and is visible to See the Unseen. The curse can only be broken by Undo Sorcery at equal or greater intensity, or by killing the caster.
 
-**Cost Notes:** Casting increases Corruption by 1D3 (in addition to standard casting cost).
-
 ### Far Sight
 
 **Cost:** 2 PP per intensity (max 3)
@@ -338,13 +220,11 @@ Range scales with intensity:
 
 - Intensity 1: line of sight up to POW x 100 metres (over a wall, into the next room, across a battlefield).
 - Intensity 2: any location within one day's travel that the sorcerer has personally visited.
-- Intensity 3: any location the sorcerer has visited, regardless of distance; or any location of a person the sorcerer has bound by name and blood (a sworn enemy, a blood relative, a patron-marked target).
+- Intensity 3: any location the sorcerer has visited, regardless of distance; or any location of a person the sorcerer has bound by name and blood (a sworn enemy, a blood relative, a sworn ally).
 
 Far Sight requires a reflective focus: a bowl of still water, a polished obsidian disc, a mirror of silvered iron. The sorcerer must work in a quiet, dim space. Disrupting the focus or the sorcerer's concentration ends the spell - any damage taken automatically breaks the working.
 
 Targets of Far Sight at intensity 3 may sense the scrying with a Difficult Sense or Insight roll. A sorcerer being scryed may detect it with See the Unseen.
-
-**Cost Notes:** Intensity 3 causes 1 Corruption.
 
 ### Flaying Blade
 
@@ -368,7 +248,7 @@ Wraps a crushing weapon (mace, hammer, club, maul) in sorcerous force. Intensity
 **Cast Time:** 1 round
 **Duration:** POW rounds
 
-As Flaying Blade, but for a slashing or piercing weapon. Intensity 1 = +1D6 damage; intensity 2 = +2D6; intensity 3 = +3D6; intensity 4 = +4D6. Ignores mundane armour; wounds bleed until treated. Hell's Razor appears in most grimoires and is more commonly known than Flaying Blade. The two spells cannot both be active on the same weapon simultaneously.
+As Flaying Blade, but for a slashing or piercing weapon. Intensity 1 = +1D6 damage; intensity 2 = +2D6; intensity 3 = +3D6; intensity 4 = +4D6. Ignores mundane armour; wounds bleed until treated. Hell's Razor is more commonly known than Flaying Blade and turns up in more sorcerers' loadouts. The two spells cannot both be active on the same weapon simultaneously.
 
 ### Honeyed Whisper
 
@@ -385,8 +265,6 @@ The target must fail a POW resistance roll or perceive the sorcerer as a trusted
 The target retains their own goals and personality - the spell shapes their perception of the sorcerer, not their other relationships. Requests that would obviously betray a Passion at 70% or higher, kill an immediate family member, or contradict a deeply-held loyalty permit a new POW resistance roll to shake the effect free.
 
 When the spell ends, the target remembers their actions and feels disturbed by them. All future social interactions between the sorcerer and the target suffer a permanent -30% penalty.
-
-**Cost Notes:** Intensity 3 causes 1 Corruption.
 
 ### Inescapable Bonds
 
@@ -420,11 +298,9 @@ Enhances the target's Athletics (jump and climb) and Acrobatics skills: intensit
 
 The sorcerer touches the target's brow or other bare skin; the target must fail a POW resistance roll or forget the past 1D6 + POW/5 minutes (round up). They retain general impressions of where they were and who they were with, but specific details are lost: the route they were shown, the words spoken, the object handed over, the secret they confessed.
 
-The lost memory may be partially recovered later. A Difficult Idea roll triggered by encountering strong sensory cues (the same room, the same person, a smell or song from that time) restores a fragment of the forgotten interval. Full restoration requires sorcerous intervention (a successful Undo Sorcery, or specific patron-aided ritual).
+The lost memory may be partially recovered later. A Difficult Idea roll triggered by encountering strong sensory cues (the same room, the same person, a smell or song from that time) restores a fragment of the forgotten interval. Full restoration requires sorcerous intervention - typically a successful Undo Sorcery.
 
 The spell does not erase physical evidence. The target may find the dagger they accepted but will not remember accepting it; they will rationalise the gap, or they will not.
-
-**Cost Notes:** Casting increases Corruption by 1.
 
 ### Liken Shape
 
@@ -436,13 +312,11 @@ The sorcerer or a touched target assumes the appearance of a specific person or 
 
 ### Mend the Mortal Frame
 
-**Cost:** 3 PP + 1D3 Corruption
+**Cost:** 3 PP
 **Cast Time:** 1 round (emergency) or 10 minutes (careful)
 **Duration:** Instantaneous
 
-Heals 1D6+POW/5 (round up) HP in the sorcerer or a touched target. If used on a fresh critical wound (same scene), the §A1 entry's impairment effects may be mitigated to a severe but non-crippling injury at the GM's discretion - not guaranteed; requires a Difficult Medicine roll or a second casting. Does not restore lost limbs, cure disease, or reverse Corruption.
-
-**Cost Notes:** Always causes 1D3 Corruption regardless of the standard casting Corruption roll.
+Heals 1D6+POW/5 (round up) HP in the sorcerer or a touched target. If used on a fresh critical wound (same scene), the §A1 entry's impairment effects may be mitigated to a severe but non-crippling injury at the GM's discretion - not guaranteed; requires a Difficult Medicine roll or a second casting. Does not restore lost limbs or cure disease.
 
 ### Midnight
 
@@ -484,7 +358,7 @@ Drains the target's PP pool by 1D3 per round for the duration. The target must f
 **Cast Time:** 1 round
 **Duration:** POW rounds
 
-The sorcerer perceives magical auras within POW x5 metres: roughly how much PP a creature has remaining, whether an object bears an active working, whether a creature is a bound demon or has demonic essence, and whether a sorcerer has a patron relationship and roughly what kind. Essential before attempting to bind a demon - reveals whether the demon's POW is beyond the sorcerer's ability to contain.
+The sorcerer perceives magical auras within POW x5 metres: roughly how much PP a creature has remaining, whether an object bears an active working, and whether a creature is a bound demon or has demonic essence. Essential before attempting to bind a demon - reveals whether the demon's POW is beyond the sorcerer's ability to contain.
 
 ### Shadow-Wrap
 
@@ -496,13 +370,11 @@ Wraps the sorcerer or a touched target in sorcerous protection functioning as ar
 
 ### Shape Thief
 
-**Cost:** 4 PP + 1 Corruption
+**Cost:** 4 PP
 **Cast Time:** 1 round
 **Duration:** POW rounds
 
 A more extreme version of Liken Shape. Cast on a human: the sorcerer gains the target's STR, DEX, and SIZ for the duration while appearing to be them. Cast on an animal: the sorcerer becomes that species with full physical capabilities. The sorcerer retains their own INT and POW and cannot cast other spells while maintaining Shape Thief.
-
-**Cost Notes:** Each use to take on a non-human form causes 1 Corruption (in addition to the standard casting cost).
 
 ### Skin of the Beast
 
@@ -520,7 +392,7 @@ While transformed:
 - They cannot speak, cast sorcery, or use tools.
 - Their clothing and equipment transform into the animal's hide or feathers and reform when the spell ends.
 
-Skin of the Beast is a less burdensome shape-changing spell than Shape Thief. It costs no Corruption per casting, but offers only one form, requires advance preparation (the form is fixed at learning), and lasts only POW rounds rather than POW x10. A sorcerer who has learned both has access to a quick totem form (Skin) and the option of any animal at greater cost (Shape Thief).
+Skin of the Beast is a less flexible shape-changing spell than Shape Thief: it offers only one form, requires advance preparation (the form is fixed at learning), and lasts only POW rounds rather than POW x10. A sorcerer who has learned both has access to a quick totem form (Skin) and the option of any animal (Shape Thief).
 
 Learning Skin of the Beast for the first time in a campaign typically involves a brief ritual incorporating the totem animal's blood, hide, or sacred ground at the GM's discretion.
 
@@ -541,8 +413,6 @@ The sleeper does not wake to ordinary noise, conversation in the room, or being 
 
 The spell's name comes from the Hyperborean lotus said to grow only in graveyards, but no actual lotus is required. The sorcerer's gestures and whispered words are enough.
 
-**Cost Notes:** Intensity 3 or 4 causes 1 Corruption.
-
 ### Still the Mind
 
 **Cost:** 1 PP
@@ -557,9 +427,7 @@ The target must fail a POW resistance roll or be unable to cast spells, plan coh
 **Cast Time:** 4 hours minimum (preparation and invocation)
 **Duration:** Until released or binding broken
 
-The sorcerer prepares a circle, invokes a demon by the appropriate formula, and calls it into physical presence. The demon arrives not bound, and has agreed to nothing - that negotiation follows. The player-side procedure is in §8; the demon's behaviour and demands are in §11.
-
-**Cost Notes:** Summoning a lesser demon causes Corruption per the §4.3.3 table. Summoning a Greater Demon causes 1D3 additional Corruption regardless of the roll result.
+The sorcerer prepares a circle, invokes a demon by the appropriate formula, and calls it into physical presence. The demon arrives not bound, and has agreed to nothing - that negotiation follows. The player-side procedure is in §4.8; the demon's behaviour and demands are in §11.
 
 ### Sureness of Hand
 
@@ -575,15 +443,13 @@ Enhances the target's manual or ranged combat skill: intensity 1 = +20%; intensi
 **Cast Time:** 1 round
 **Duration:** Instantaneous
 
-The sorcerer ends an active spell or sorcerous effect. The target spell must be present and identifiable: a curse on a person, a lingering ward, a binding still in force, a transformation in progress, an enchantment on an object. The caster must know what kind of spell they are dispelling, though they need not have the spell themselves in their grimoire.
+The sorcerer ends an active spell or sorcerous effect. The target spell must be present and identifiable: a curse on a person, a lingering ward, a binding still in force, a transformation in progress, an enchantment on an object. The caster must know what kind of spell they are dispelling, though they need not know the spell themselves.
 
 **Resolving the dispel.** If the original sorcerer is present and contests, compare the Undo Sorcery caster's current PP (after the intensity cost) against the original caster's current PP on the Resistance Table; the higher prevails. If the original caster is absent or unaware, compare against the original spell's casting intensity directly - Undo Sorcery at equal or greater intensity succeeds; at lower intensity, it fails and the PP are spent.
 
 **What Undo Sorcery can break:** active spell effects still running, persistent curses, bindings (a bound demon may be released - the GM should adjudicate carefully), enchantments on objects.
 
-**What it cannot break:** spells that have already taken effect and ended; permanent characteristic loss; destroyed objects, limbs, or lives; Corruption; patron gifts and patron-sustained workings (only the patron can revoke).
-
-**Cost Notes:** Dispelling a curse cast by another sorcerer, or breaking a patron's working, causes 1 Corruption.
+**What it cannot break:** spells that have already taken effect and ended; permanent characteristic loss; destroyed objects, limbs, or lives.
 
 ### Undying Strength
 
@@ -600,8 +466,6 @@ Augments the target's physical power: intensity 1 = +1D6 STR; intensity 2 = +2D6
 **Duration:** Instantaneous
 
 Drains vitality from a touched target to heal the sorcerer or a third party. The target must fail a CON resistance roll or suffer the drain; on a success, the drain is halved. Intensity 1: drain 1D6 HP, restore 1D6 HP; intensity 2: drain 2D6 HP; intensity 3: drain 3D6 HP. The beneficiary cannot be healed above maximum HP.
-
-**Cost Notes:** Each use causes 1 Corruption (in addition to standard casting cost).
 
 ### Veil of the Ancient
 
@@ -631,12 +495,10 @@ Range scales with intensity:
 
 - Intensity 1: line of sight (cross a battlefield, signal a confederate across a hall).
 - Intensity 2: within POW kilometres (signal an ally across a city).
-- Intensity 3: within POW x 100 kilometres (signal a patron or contact across a region).
+- Intensity 3: within POW x 100 kilometres (signal a contact across a region).
 - Intensity 4: any distance on the same world (signal across a continent or sea).
 
 The target may refuse the contact - choosing to ignore the voice in their head requires a Difficult POW roll. A target ignoring the call still knows it came from the sorcerer. The exchange is private; only the sorcerer and target hear it.
-
-**Cost Notes:** Intensity 4 causes 1 Corruption.
 
 ### Wisdom of Wounds
 
@@ -646,11 +508,11 @@ The target may refuse the contact - choosing to ignore the voice in their head r
 
 The sorcerer examines a wound, a body, or a patient in extremis and reads what happened with sorcerous clarity: the exact cause, timing, and weapon type of any wound; whether a death was caused by poison and roughly which; and how close to death a living patient is. Diagnostic only - it does not heal.
 
-## 4.7 Demon Summoning: The Player's Side
+## 4.8 Demon Summoning: The Player's Side
 
 Summoning is an extended ritual followed by a negotiation. The demon's appearance, demands, and behaviour are in §11. This section covers the sorcerer's side.
 
-### 4.7.1 Preparation
+### 4.8.1 Preparation
 
 Before invoking a demon, the sorcerer must:
 
@@ -660,15 +522,15 @@ Before invoking a demon, the sorcerer must:
 
 **Gather materials.** §11 describes what a specific demon prefers. Preparing without the appropriate materials imposes penalties on the binding roll.
 
-### 4.7.2 The Invocation
+### 4.8.2 The Invocation
 
 The sorcerer spends 4 PP and completes the minimum 4-hour working. The demon appears at the circle's edge - whether it enters is its own choice. With a true name, the demon is compelled to appear and hear the sorcerer's offer. Without a name, it may simply not come (GM rolls in secret). PP contributed via Chain of Being may pay the summoning cost and subsequent binding.
 
-### 4.7.3 The Bargain
+### 4.8.3 The Bargain
 
 The demon has desires. A lesser demon may want blood, PP, a body to wear, or a task done. A greater demon wants permanent POW, a future service, or a third party delivered. Both parties state their offer and demand; either may refuse, counter-offer, or accept. The GM may call for rolls on persuasion, willpower, or detecting deception. The bargain, once agreed, binds both parties in the demon's own fashion.
 
-### 4.7.4 The Binding
+### 4.8.4 The Binding
 
 To secure the demon's service beyond a one-time deal, it must be bound.
 
@@ -682,7 +544,7 @@ To secure the demon's service beyond a one-time deal, it must be bound.
 
 **True name:** Once bound, the demon's true name is surrendered to the sorcerer, allowing recall and dismissal at will (1 PP each).
 
-### 4.7.5 Release and Breaking
+### 4.8.5 Release and Breaking
 
 A binding ends in one of four ways:
 

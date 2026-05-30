@@ -4,7 +4,7 @@
 
 Stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and elementals, plus the Chaotic Features table for generating unique demons and mutated things. Stat blocks are GM-side only; players encounter these creatures through description and dice, not foreknowledge.
 
-Read §6 for the combat rules these stat blocks reference. Demons tie back to §4.7 (player-side summoning) and §11 (patron design, demon behaviour, ritual mechanics). Elementals are summoned via the Summon Elemental working in §11.
+Read §6 for the combat rules these stat blocks reference. Demons tie back to §4.8 (player-side summoning) and §11 (demon behaviour and ritual mechanics from the GM's side). Elementals are summoned via the Summon Elemental working in §11.
 
 ## 10.1 Creature Entry Format
 
@@ -575,7 +575,7 @@ The great reptiles of the deep past did not all die when the civilisations built
 - **Special Abilities:**
   - _Breath Weapon._ The dragon breathes in a cone approximately 20 metres long and 10 metres wide at its end. Roll 4D6 base damage (fire, acid, or crushing force - the GM decides the type when designing the dragon); all targets in the area must succeed at a Dodge roll (Difficult) to take half damage. The dragon may use its breath weapon once every three rounds.
   - _Flight._ Dragons in flight dive to attack at +20% skill; they must land or lose speed to maintain engagement. A dragon that flies away is not retreating - it is repositioning.
-  - _Ancient Intelligence._ An intelligent dragon (high INT/POW variant) may know sorcery - up to 1D6+2 spells from its grimoire, typically ancient workings unavailable elsewhere. It bargains, threatens, and treats humans as mildly interesting temporary irritants unless pushed. It does not forget insults or thieves.
+  - _Ancient Intelligence._ An intelligent dragon (high INT/POW variant) may know sorcery - up to 1D6+2 spells, typically ancient workings unavailable elsewhere; an old dragon's bones, claws, or shed scales can serve a mortal sorcerer as a talisman or as a source for learning new spells. It bargains, threatens, and treats humans as mildly interesting temporary irritants unless pushed. It does not forget insults or thieves.
   - _Scale Resistance._ Arrows and small piercing weapons deal half damage against a dragon's body. Area attacks (fire, explosions) deal full damage.
 - **Morale:** A bestial dragon fights until driven from its lair or destroyed. An intelligent dragon fights until the odds turn against it, then withdraws and plans revenge.
 
@@ -743,7 +743,7 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
 
 Demons are entities of the outer dark - not from this world, not concerned with its values, fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
 
-For GM demon design tools, patron relationships, and what happens when a binding breaks, see §11. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with §4.7. When a demon appears, it should feel like a significant event.
+For GM demon design tools and what happens when a binding breaks, see §11. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with §4.8. When a demon appears, it should feel like a significant event.
 
 ### 10.5.1 Lesser Demon
 
@@ -802,7 +802,7 @@ _It came through the smoke of the summoning circle smelling of old metal and unf
   - _Regeneration._ The demon regains 1D6 HP per round. This regeneration is not stopped by fire (which it is immune to) but is stopped by silver or by sorcerous working specifically aimed at suppressing it.
   - _Sheath of Smoke and Fire._ Costs 1 PP per round to maintain. Any creature within 2 metres of the demon takes 1D6 fire damage at the end of each round. Additionally, wooden missile weapons striking the demon have a 50% chance to ignite and deal no damage (they burn up on contact).
   - _Spells._ Greater demons know sorcery. A typical greater demon knows 2D6 spells. Ancient, powerful specimens may know nearly every spell in the list. They cast from the same PP pool (typically 17) and suffer the standard PP depletion.
-  - _Corruption from Presence._ See §4.3.3 (Encountering a Greater Demon unbound: 1D3 / 1D6 Corruption).
+  - _Dread Presence._ Within POW metres of an unbound greater demon, any character not actively engaging it must succeed at a POW x3 roll each round or be paralysed by dread (cannot act). The roll renews as soon as the demon leaves the area or is contained.
 - **Morale:** Does not retreat while bound (the binding prevents it). Unbound, it retreats only if its destruction seems probable - which takes considerable firepower. It does not forget. It comes back.
 
 ### 10.5.3 Yog-Hath the Devourer (Sample Named Greater Demon)
@@ -832,7 +832,7 @@ _When Yog-Hath was last bound - four sorcerer-kings ago, by the scholars' reckon
   - _POW Drain._ On a successful Grapple, Yog-Hath drains 1D6 POW permanently from the target. POW drained this way replenishes Yog-Hath's PP pool but is not recovered by the target without extraordinary sorcerous intervention.
   - _True Binding Resistance._ Binding Yog-Hath costs 3 permanent POW (not 1) and requires the target to fail a POW resistance roll against Yog-Hath's full POW (28). Failure to bind Yog-Hath after summoning it is likely to ruin the sorcerer's week.
   - _Knows the Names._ Yog-Hath knows the true names of 1D10 lesser demons currently bound in the world. It may use these names as leverage in negotiations, or to interfere with another sorcerer's bindings.
-  - _Spells._ Knows all 29 spells in §4.6. Casts using a PP pool of 28.
+  - _Spells._ Knows every spell in §4.7. Casts using a PP pool of 28.
 - **Demands in Summoning:** The ritual requires the sorcerer to offer a personal item of significant value (not monetary - emotional), a quantity of their own blood, and 6 hours of uninterrupted preparation. Yog-Hath arrives curious, not hostile. Its opening demand is typically a sorcerer it knows about, delivered into its reach. It negotiates from there.
 
 ## 10.6 Elementals

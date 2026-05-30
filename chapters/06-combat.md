@@ -332,7 +332,7 @@ First Aid applied immediately after a wound heals 1D4 HP (Critical: 2D4 HP) and 
 
 Medicine skill applied in proper conditions heals 1D4 HP or restores 1 point to a reduced characteristic per treatment (Critical: 2D4 HP, or 1D3 to a characteristic). Medicine cannot be applied in the middle of combat.
 
-Sorcerous healing exists as rare, costly spells in the sorcery list (see §4.3). It is never the default recovery path, and it pays its own price.
+Sorcerous healing exists as rare, costly spells in the sorcery list (see §4.7). It is never the default recovery path, and it pays its own price.
 
 ## 6.6 Tactical Situations
 
@@ -524,7 +524,7 @@ A mounted character fights from horseback, chariot, camel, or other mount. The R
 
 A sorcerer struck before their spell resolves on their Initiative Rank must make a Stamina roll (CON x5) or the spell collapses; any PP spent are lost. An engaged sorcerer risks interruption from incoming attacks even if their initiative is high - any attack that connects before the casting Rank is enough. Disengage first or accept the risk.
 
-See §4.2 for full sorcery casting rules.
+See §4.4 for full sorcery casting rules.
 
 ## 6.10 Damage Types
 
