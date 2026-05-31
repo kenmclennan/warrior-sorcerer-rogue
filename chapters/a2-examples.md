@@ -228,7 +228,7 @@ The ambush breaks as the party rounds a corner. Three men step out of an alley m
 
 **At initiative 26 (Karash):**
 
-Karash casts _Cloak of Night_ at Intensity 1 (see §4.7 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Move Quietly. Her Move Quietly is now effectively 71% for the duration.
+Karash casts _Cloak of Night_ at level 1 (see §4.7 for spell details). Cost: 1 PP (his pool drops from 16 to 15). Duration: POW rounds = 17 rounds. The effect grants +20% to Khess's Hide. Her Hide is now effectively 66% for the duration.
 
 **Action (descending initiative):**
 
@@ -289,7 +289,7 @@ He shouts in a ragged voice: _"Syndicate! The Knife is here! Salt Causeway!"_ - 
 | --------- | ----------- | ---------------------------------------- | --------- |
 | Khess     | 13          | 4 (Quiet Knife) + 3 (Critical Buy to 44) | **6 PP**  |
 | Orryn     | 11          | 0                                        | **11 PP** |
-| Karash    | 16          | 1 (Cloak of Night, Intensity 1)          | **15 PP** |
+| Karash    | 16          | 1 (Cloak of Night, level 1)              | **15 PP** |
 
 Khess spent 7 PP to take Davan from full health to dying in a single action. She is below half her pool. Fate Point spends are now expensive for her.
 
@@ -304,11 +304,11 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 - **Dying Blow** (§6.11): Davan with 0 HP made a Stamina roll and succeeded - one last meaningful action before falling.
 - **Sorcery in support** (§4.4): Karash cast a low-cost spell to support Khess rather than attack directly. Automatic success at the cost of 1 PP, no roll required.
 
-## A2.3 Sorcery Example: Karash Casts the Curse
+## A2.3 Sorcery Example: Karash Sends a Sleep
 
-_Two days after the Salt Causeway ambush. Davan the Flayer, despite his wounds, talked freely about the man who gave the order to kill Verinax: a Syndicate treasurer called Mekhos, who keeps offices above a spice warehouse in the merchant quarter. Khess wants him marked. Karash owes Khess a favour, and the sorcerer prefers to pay debts before they have a chance to compound._
+_Two days after the Salt Causeway ambush. Davan the Flayer, despite his wounds, talked freely about the man who gave the order to kill Verinax: a Syndicate treasurer called Mekhos, who keeps offices above a spice warehouse in the merchant quarter. Khess wants him brought in for questioning. Karash owes Khess a favour, and the sorcerer prefers to pay debts before they have a chance to compound._
 
-_Karash is at his casting spot: a rented room with a cleared floor, a brazier burning cedarwood, and the window shuttered. He intends to cast Curse of the Withered Hand on Mekhos, who is three streets away in his counting-house. For this, Karash will need the spell's range to reach Mekhos._
+_Karash is in a rented upstairs room across the alley from Mekhos's counting-house. The window is unshuttered; the lamps inside are dim. Through his window Karash can see Mekhos at his counting table, lit by lamplight, less than thirty metres away. Khess waits in the alley below with a rope and a sack._
 
 ### A2.3.1 The Set-Up: Karash's Current State
 
@@ -318,64 +318,54 @@ _Karash is at his casting spot: a rented room with a cleared floor, a brazier bu
 - PP: 15 (he spent 1 on Cloak of Night two days ago; has mostly recovered)
 - Talisman: a knotted leather cord wound around his left wrist, beads and small bone fragments worked into the knots
 
-**Held ready from last night's trance (INT = 15 spell levels):** Curse of the Withered Hand (level 4), Cloak of Night (level 1), See the Unseen (level 3), Moonrise (level 1), Shadow-Wrap (level 2), Midnight (level 1), Bird's Eye (level 3) - total: 15 levels. He is at capacity.
+**Held ready from last night's trance (INT = 15 spell levels):** Curse of Sorcery (level 4), Witch Sight (level 3), Slumber of the Lotus (level 2), Shadow-Wrap (level 2), Cloak of Night (level 1), Moonrise (level 1), Midnight (level 1), Bird's Eye (level 1) - total: 15 levels. He is at capacity.
 
-**Spell to cast:** _Curse of the Withered Hand._ Cost: 4 PP. Duration: permanent until broken. Target must fail a POW resistance roll (§5.3.5).
+**Spell to cast:** _Slumber of the Lotus_ at level 2. Cost: 4 PP. Range: Sight. Duration: 1D6 minutes. Target must fail a POW resistance roll (§5.3.5).
 
 ### A2.3.2 The Iron Problem
 
 Karash reviews what he is carrying before casting. He has a bronze dagger at his hip (bronze, no penalty), his knotted-cord talisman at the wrist (no penalty), a belt with iron buckles. The GM rules the iron buckles are trivial - small fittings on primarily leather items, below the threshold (§4.5). No iron penalty applies tonight. Karash has dressed carefully.
 
-### A2.3.3 Extending the Range: The Sorcerer's Reach Talent
+### A2.3.3 Establishing Line of Sight
 
-_Curse of the Withered Hand_ has its standard range (the target must be in the sorcerer's presence, typically within POW x5 metres = 85 metres for Karash). Mekhos is three streets away - perhaps 400 metres. The spell cannot reach him at standard range.
+Slumber of the Lotus is a Sight-range spell: Karash needs to see his target at the moment of casting. He does. Mekhos's counting room is lit from within; Karash's room is dark. Through the open window across the alley he can see Mekhos's bowed head clearly. The spell's range condition is satisfied.
 
-Karash has the Sorcery Talent _The Sorcerer's Reach_ (§2.7.2): for 3 PP, a spell he casts this round takes effect at double its normal range. But double 85 metres is 170 metres - still not enough.
+_If the window had been shuttered, Karash would have had no line of sight and the spell could not be cast. A simple closed curtain would have stopped him._
 
-However, Karash also has _Bird's Eye_ loaded. He casts _Bird's Eye_ at Intensity 3 (cost: 3 PP) to perceive through a raven perched on Mekhos's counting-house roof - putting him, perceptually, in the same location as his target. He intends to cast the Curse while maintaining the Bird's Eye.
+### A2.3.4 Casting the Spell
 
-_This is a two-casting night._ Karash will cast Bird's Eye in round one, then sustain the working while he casts the Curse in a second round.
+**Cost:** 4 PP. Karash's PP drops from 15 to **11.**
 
-### A2.3.4 Round 1: Casting Bird's Eye
+**Resistance roll.** Mekhos's POW is 10. Karash's remaining PP total after paying the cost is 11. Base chance = 50% + (active × 5) - (passive × 5) = 50% + (11 × 5) - (10 × 5) = 50% + 55 - 50 = **55%.** The spell has a 55% chance of taking hold.
 
-**Cost:** 3 PP. Karash's PP drops from 15 to **12.**
-
-**Duration:** POW rounds = 17 rounds. He has 17 rounds to complete the Curse while Bird's Eye holds.
-
-**Cast effect.** The candle flames go sideways. The shadow on the wall falls at an angle wrong for the light source. Karash perceives through the raven's eyes: Mekhos, a thin man in a wool robe, counting coin by lamplight. The raven is on the counting-house windowsill. Karash knows his target's position. The POW resistance roll for the Curse will be based on Karash's PP total at the moment of casting (after the Curse's own cost) versus Mekhos's POW.
-
-### A2.3.5 Round 2: Casting the Curse
-
-**Cost:** 4 PP. Karash's PP drops from 12 to **8.**
-
-**Resistance roll.** Mekhos's POW is 10. Karash's remaining PP total after paying the cost is 8. Base chance = 50% + (active x5) - (passive x5) = 50% + (8 x5) - (10 x5) = 50% + 40 - 50 = **40%.** The chance of the curse taking hold is 40%.
-
-The GM rolls the resistance roll for Mekhos (since Mekhos is unaware): **76.** The result exceeds 40% - **the curse fails to set.** Mekhos does not feel it. His POW was enough, at that distance, to shrug it off without knowing.
+The GM rolls the resistance roll for Mekhos (he is unaware): **76.** The result exceeds 55% - **the spell fails to set.** Mekhos's head jerks up; he blinks twice and rubs his eyes. He does not know what woke him from his ledger, but he is awake.
 
 > _This is not a Fumble and it is not Karash's failure._ The PP were spent. The casting was correct. The target simply resisted. This is a sorcery failure mode that comes from outside the caster (§4.4): the target's resistance was sufficient.
 
-The PP are spent regardless of outcome. The casting was correct; the target was simply too strong. Karash has 8 PP remaining and the Curse of the Withered Hand will not affect Mekhos this night.
+Karash has 11 PP remaining and the slumber will not take Mekhos this night.
 
-### A2.3.6 The Aftermath
+### A2.3.5 The Aftermath
 
-Karash has 8 PP remaining. He considers what to do next: try again from closer range, find a different leverage on Mekhos, or accept this attempt as spent. He makes a practical decision - he will find another way to reach Mekhos, or wait until the man is in range. He releases the Bird's Eye working (ending it early costs nothing - §4.4.4) and closes the casting.
+Karash has 11 PP remaining. He considers what to do next: try again (resistance odds unchanged unless Karash burns more PP at higher level), try a different working, or signal Khess to abandon the lift and come back another night.
 
-### A2.3.7 The Visible Drama
+He chooses the latter. Mekhos has now had a moment of unease and may close the shutters or send for a guard within the hour. Better to come back when the man is unguarded and unwatched. Karash taps the windowsill - the agreed signal that the working failed - and Khess melts back into the alley.
+
+### A2.3.6 The Visible Drama
 
 Per _design.md_ §2.2: magic is theatrical. The following happened whether anyone outside the room saw it or not:
 
-When the Curse was cast and failed, the room shuddered. The cedarwood brazier flared orange-white, held for three seconds, then died to ash. The shadow on the wall - which had been falling at the wrong angle all evening - went flat and correct, and that was somehow worse. The smell of burning copper was so strong that Khess, in the room next door, knocked on the wall to ask if something was on fire.
+When the Slumber was cast and failed, Karash's room filled briefly with the scent of poppies and old graveyards. The shadows on the wall thickened for a heartbeat, then thinned again. Across the alley, Mekhos shivered and looked toward the open window without seeing the room behind it. He pulled his shawl tighter and called for a servant to close the shutters.
 
-Karash is intact. He smells of burning copper. He has 8 PP and is nowhere near his limit, but he is short of his curse and short of his target.
+Karash is intact. The smell of poppies will linger in the room for an hour.
 
-### A2.3.8 What the Example Demonstrated
+### A2.3.7 What the Example Demonstrated
 
-- **PP cost and casting time** (§4.4.1 and §2.3): Each spell costs PP equal to its level, at the moment of casting. Two spells in two rounds depleted Karash's pool significantly.
-- **The resistance roll as a sorcery failure mode** (§4.4.5): Karash's sorcery did not fumble - the target simply resisted. PP spent, curse blocked. This is the correct outcome.
-- **Visual drama** (design.md §2.2): the room responds to the working even when the working fails.
-- **Reach beyond range**: Karash combined two spells - Bird's Eye to perceive at a distance and Curse to act at it. Sorcery is most dangerous when worked in combination.
+- **PP cost** (§4.4.1): Slumber of the Lotus is a scaling spell at 2 PP per level. Karash chose level 2 for a meaningful duration; level 1 would have been cheaper but only a few rounds of sleep, insufficient for the lift.
+- **Range matters**: Sight range required line of sight at the moment of casting. The lit window across the alley made the cast possible; a shuttered window would have blocked it.
+- **The resistance roll as a sorcery failure mode** (§4.4.5): Karash's sorcery did not fumble - the target simply resisted. PP spent, slumber blocked. This is the correct outcome.
+- **Visual drama** (design.md §2.2): the room responds to the working even when the working fails. Mekhos felt _something_, even though the spell did not take hold.
 - **Iron-vs-sorcery** (§4.5): Karash dressed carefully. No iron penalty this night.
-- **PP economy after the fight**: Karash began the casting at 15 PP (two days' recovery from the ambush). He spent 3 on Bird's Eye and 4 on the Curse, ending at 8 PP. He retains enough PP for one defensive Fate Point spend if needed, but he is not comfortable.
+- **PP economy after the fight**: Karash began the casting at 15 PP (two days' recovery from the ambush). He spent 4 on the Slumber, ending at 11 PP. He retains a comfortable reserve for defensive Fate Point spends if the night turns.
 
 ## A2.4 Session Sketch: The Ledger of Mekhos
 
@@ -395,11 +385,11 @@ The ledger is in the Syndicate's counting-house in the merchant quarter - which 
 
 **Complication two:** The vault is guarded by a professional enforcer - not Rabble. A named fighter called Selka the Rope, who Orryn recognises from the Khalash campaign. Orryn and Selka have history. Orryn's player invokes his Passion: _Loyalty to the mercenary company I once served (60%)._ He rolls 47 - success, +20% to relevant rolls. He knows Selka's fighting style, her preference for entangling weapons, her tendency to hold the defensive line. This gives the party information. It does not make the fight safe.
 
-**Complication three (sorcerous):** Karash detects a warding on the vault door with _See the Unseen._ The ward is not complex, but it is real: a minor sorcerous alarm (based on the Veil of the Ancient spell). Someone in the Syndicate's employ is sorcerously trained, or has access to someone who is. If the ward triggers, the Syndicate knows the vault has been entered within seconds.
+**Complication three (sorcerous):** Karash detects a warding on the vault door with _Witch Sight._ The ward is not complex, but it is real: a minor sorcerous alarm (based on the Veil of the Ancient spell). Someone in the Syndicate's employ is sorcerously trained, or has access to someone who is. If the ward triggers, the Syndicate knows the vault has been entered within seconds.
 
 ### A2.4.3 The Reckoning
 
-The party finds a solution: Karash uses _Iron Ward_ at Intensity 2 to suppress the vault ward while Khess picks the lock (Fine Manipulation, augmented with Research from her case study). They enter before Selka is alerted.
+The party finds a solution: Karash uses _Refutation_ at level 2 to suppress the vault ward while Khess picks the lock (Fine Manipulation, augmented with Research from her case study). They enter before Selka is alerted.
 
 The fight with Selka is brief and hard. Selka is a professional (full HP, full PP, no Rabble rule applies). Orryn takes a significant wound - not a critical, but enough HP loss that Khess has to choose between pressing the attack and spending a round applying First Aid (1D4 HP). She applies First Aid. Orryn stays standing.
 
@@ -411,7 +401,7 @@ They take the ledger. They also take Mekhos's secondary accounting tablet, which
 
 - The mission succeeded. The personal goal (hurt the Syndicate) was advanced. The coin is in hand.
 - Orryn carries a wound that will take a week to heal properly under good conditions.
-- Karash spent 6 PP on the night (Iron Ward + Cloak of Night on Khess for the extraction). His talisman never left his wrist.
+- Karash spent 6 PP on the night (Refutation + Cloak of Night on Khess for the extraction). His talisman never left his wrist.
 - The secondary accounting tablet Khess took has information on it. The GM notes this. It will matter later.
 
 The session ends with the heroes alive, paid, and each of them carrying something forward: a wound, a secret, a question about what was on that tablet.

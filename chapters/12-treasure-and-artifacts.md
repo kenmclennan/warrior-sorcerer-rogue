@@ -189,6 +189,24 @@ Every artifact has:
 - A PP reservoir that is charged or empty (empty artifacts are inert but not dead - one PP from a sorcerer revives them).
 - A question: why is it here? Artifacts do not arrive by accident.
 
+### 12.2.7 Soul Vessels
+
+Certain master sorcerers, having bound a lesser practitioner into long service, draw the lesser's vital spark into a small physical object - a crystal globe, a worked pomegranate of gold, a sealed phial of black water - and seat it on an altar in some hidden place. The bound sorcerer's body walks the world; their life is in the vessel. Soul Vessels are GM-side workings; PCs encounter them as villainous infrastructure, not as a spell they can cast themselves.
+
+**Construction.** The master sacrifices 3 permanent POW to seat one servant's life into a vessel. The servant must consent at the moment of binding, or be bound by an earlier compact that includes this clause - the working cannot be forced on an enemy. Once seated, the servant cannot remove themselves from the vessel; only the master, or destruction of the vessel itself, ends the arrangement.
+
+**While the vessel holds:**
+
+- The bound servant cannot die of ordinary wounds. HP loss never reduces them below 1 HP; they collapse and lie unconscious in place of dying.
+- The master may compel the bound servant to obey any command, with no resistance roll. The servant has surrendered their will along with their life.
+- The master may draw on the bound servant's PP pool as if it were their own. This is how a master with many bound servants accumulates the PP needed to cast workings such as Plague Wind at large scale.
+
+**Destroying the vessel.** The bound servant dies instantly in convulsions, foaming at the mouth. The master, having lost their reserve, suffers the permanent POW loss without possibility of recovery; any working they were sustaining through that servant's PP ends abruptly.
+
+**Identification.** Soul Vessels are visible to Witch Sight as objects of unusual aura. Identifying _which_ servant is bound to _which_ vessel requires careful observation - a master's vessels often look alike, ranked on a single altar.
+
+**Concealment.** Soul Vessels are hidden in temples, sealed in vaults, buried in tombs, kept in the master's private sanctum. The classic adventure is the PCs hunting for the master's vessel-cabinet while fending off the bound servants who cannot die in the meantime. The standard climactic move is to find and shatter the vessel-cabinet before the master can reach the PCs.
+
 ## 12.3 Sample Artifacts
 
 Ten pre-cataclysm relics, each droppable into a session with minimal preparation. All have charged reservoirs unless the GM rules otherwise. An empty artifact is the same object with a different question: who maintained it, and when did they stop?
@@ -229,7 +247,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Form:** A gold signet ring, sized for a large hand. The seal shows a war galley at full oar, viewed from above, sinking. Wearing it feels like cold water against the skin.
 
-**Bound spells:** Inescapable Bonds (3 PP) and Cloak of Night (1 PP per intensity level).
+**Bound spells:** Inescapable Bonds (3 PP) and Cloak of Night (1 PP per level).
 
 **Effect:** Inescapable Bonds, when activated through the ring, works on targets within Medium range without requiring the ring-wearer to have line of sight - the bonds erupt from the ground. Cloak of Night works as described in §4.7 but specifically generates a cold, wet-smelling dark that smells of deep water and tar.
 
@@ -261,7 +279,7 @@ Ten pre-cataclysm relics, each droppable into a session with minimal preparation
 
 **Form:** A disc of black stone, roughly palm-sized, inscribed with concentric circles and a pointing needle carved from a single piece of bone. The needle moves.
 
-**Bound spells:** Farsight (1 PP per intensity) and Ward (3 PP).
+**Bound spells:** Farsight (1 PP per level) and Ward (3 PP).
 
 **Effect:** The Compass's needle always points toward the nearest place that has not been mapped by any living cartographer. This is a narrative effect, not a mechanical one - the GM decides what that place is. When Farsight is activated, the range is applied to the Compass rather than personal vision: the holder perceives the terrain around the pointed-to destination, not their current location. Ward functions normally.
 
@@ -359,7 +377,7 @@ A cursed item is not a bad magic item. It is a trap wearing the shape of treasur
 
 ### 12.4.1 Identifying Cursed Items
 
-See the Unseen (§4.7) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Preternatural Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
+Witch Sight (§4.7) reveals an item is magical; it does not reveal a curse. A sustained reading (three or more rounds focused on the item) may hint at an unusual signature - colder, folded inward, smelling wrong. Knowledge (Preternatural Lore) 40%+ allows a roll to identify a known curse pattern. Unknown or cleverly disguised curses cannot be identified this way.
 
 The most reliable method is reputation. Cursed items have histories, and those histories circulate.
 

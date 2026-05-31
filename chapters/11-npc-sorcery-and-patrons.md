@@ -22,7 +22,7 @@ Everything else follows from those answers.
 
 **Spell loadout:** NPC sorcerers load spells through the nightly trance up to their INT characteristic in spell levels (§4.2.4). For practical GM use:
 
-- **Low-tier sorcerer (POW 16-17):** 3-4 loaded spells, total levels not exceeding INT. Typically survival spells (See the Unseen, Iron Ward), one offensive spell (Flaying Blade, Bind the Raging Heart), and one utility spell.
+- **Low-tier sorcerer (POW 16-17):** 3-4 loaded spells, total levels not exceeding INT. Typically survival spells (Witch Sight, Refutation if they have active workings to protect), one offensive spell (Hell's Razor, Fury), and one utility spell.
 - **Mid-tier sorcerer (POW 18-19):** 4-6 loaded spells. Adds defensive options (Shadow-Wrap), an investigative spell (Bird's Eye, Vermin's Eye), and one specialist spell matching their narrative role.
 - **High-tier sorcerer (POW 20-21+):** 6-8 loaded spells, plus unique spells (see §11.1.4). Has a patron (usually), at least one bound demon, and a Brazier of Power.
 
@@ -71,11 +71,11 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Spell loadout (loaded this trance):**
 
-- _Bind the Raging Heart_ (intensity 2) - used to discipline cultists who waver
-- _See the Unseen_ - always active before any significant encounter
+- _Fury_ - used to discipline cultists who waver, dispatched by his enforcers' touch
+- _Witch Sight_ - always active before any significant encounter
 - _Inescapable Bonds_ - for capturing useful prisoners
 - _Still the Mind_ - for quieting witnesses
-- _Pox of the Sorcerer_ - for punishing enemies who survive the first response
+- _Enervate_ - for punishing enemies who survive the first response
 - _Summon Demon_ - the central ritual, used monthly; Haraka's patron connection is renewed through sacrifice and summoning
 
 **Unique spell - Serpent's Tongue:** (cost 2 PP, 1 Corruption; duration: POW hours) The sorcerer's words carry sorcerous compulsion. Any creature that hears Haraka speak while this spell is active must succeed at a POW resistance roll or take his words as genuine and reasonable, regardless of content. They will not remember the spell was cast. Price: each use increases Patron Score by 1.
@@ -109,11 +109,11 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Spell loadout (loaded this trance):**
 
-- _See the Unseen_ - the first thing she does on waking
-- _Bird's Eye_ (intensity 3) - she has seven ravens on the palace roof
-- _Vermin's Eye_ (intensity 3) - the palace is full of rats. They all report to her.
+- _Witch Sight_ - the first thing she does on waking
+- _Bird's Eye_ - she has seven ravens on the palace roof and cycles through their eyes, one at a time, throughout the day
+- _Vermin's Eye_ - the palace is full of rats. She rides whichever happens to be near the room she wants to overhear.
 - _Liken Shape_ - for when she must move through the city unrecognised
-- _Iron Ward_ (intensity 3) - her first response in any sorcerous contest
+- _Refutation_ (level 3) - assigned to her most important active workings
 - _Hell's Razor_ - applied to Keth-Sarras's attacks when the demon manifests
 - _Still the Mind_ - for ending conversations that are becoming inconvenient
 
@@ -141,13 +141,13 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Spell loadout (loaded this trance):**
 
-- _See the Unseen_ - constant
+- _Witch Sight_ - constant
 - _Veil of the Ancient_ - his tower has three nested perimeter alarms
-- _Iron Ward_ (intensity 4) - his first and most important defensive working
-- _Undo Sorcery_ (he calls it _The Refusal_, intensity 3) - he can unmake most workings he encounters
+- _Refutation_ (level 4) - layered on every working he sustains
+- _Undo Sorcery_ (he calls it _The Refusal_, level 3) - he can unmake most workings he encounters
 - _Chain of Being_ - he teaches this to any student; believes cooperative casting is the only honest form of great sorcery
 
-**Unique spell - The Long Sight:** (cost 2 PP, no Corruption; duration: 1 hour per intensity, max 4) Ossian sees anything that has happened in a specific place. He does not see the future. He sees the past - exactly what occurred, with no interpretation. The longer ago, the higher the intensity required: intensity 1 = within the past day; intensity 2 = within a year; intensity 3 = within a century; intensity 4 = within the deep past (at GM discretion). He has used this spell to watch the royal assassination he refused to participate in. He has watched it many times.
+**Unique spell - The Long Sight:** (cost 2 PP per level, max 4; duration: 1 hour per level) Ossian sees anything that has happened in a specific place. He does not see the future. He sees the past - exactly what occurred, with no interpretation. The longer ago, the higher the level required: level 1 = within the past day; level 2 = within a year; level 3 = within a century; level 4 = within the deep past (at GM discretion). He has used this spell to watch the royal assassination he refused to participate in. He has watched it many times.
 
 **Motivation:** Ossian wants to give his knowledge to someone trustworthy before he dies or becomes something that is no longer him. His Patron Score is high; the Empty One has begun to communicate. He does not like what it says. He needs to act before he runs out of time or self.
 
@@ -178,12 +178,12 @@ Scenario seeds, not finished characters. Adjust characteristics to suit the camp
 
 **Spell loadout (loaded this trance):**
 
-- _See the Unseen_ - constant
-- _Bind the Raging Heart_ (intensity 4) - her first response to physical threats; she turns guards into berserkers
-- _Shadow-Wrap_ (intensity 4) - AP 8; she is rarely unprotected
+- _Witch Sight_ - constant
+- _Fury_ - her first response to physical threats; she lays a hand on a guard and turns them into a berserker
+- _Shadow-Wrap_ (level 4) - AP 8; she is rarely unprotected
 - _Inescapable Bonds_ - she prefers to take things alive and at her leisure
 - _Liken Shape_ - she travels under other faces
-- _Shape Thief_ - reserved for situations that require more than appearance
+- _Liken Shape_ - reserved for situations that require taking another face
 - _Summon Demon_ - monthly ritual; the Drowned Goddess expects it
 - _Chain of Being_ - she has a circle of twelve dedicated cultists who contribute to her great workings
 
@@ -221,7 +221,7 @@ Tamas is now a sorcerer with a powerful bound demon who is structurally dependen
 
 - _Inescapable Bonds_ - his most-used spell; he keeps distance between himself and threats
 - _Still the Mind_ - for when bonds are not enough
-- _See the Unseen_ - used obsessively; he checks everything
+- _Witch Sight_ - used obsessively; he checks everything
 
 **Motivation:** Tamas needs help. He will approach PCs who have sorcerous capability, tell them a version of his story that makes him seem more sympathetic than culpable, and offer something in return - Vas-Saroth's labour for a defined task, the name of a sorcerer who could teach them, or information about the court mage whose notes he still has.
 
@@ -385,7 +385,7 @@ Seven patron entities, each designed to anchor a campaign rather than a single e
 
 **Gifts:**
 
-- _Absence:_ the sorcerer does not register as present to See the Unseen or similar perception spells. Their aura is not visible. They read as an absence.
+- _Absence:_ the sorcerer does not register as present to Witch Sight or similar perception spells. Their aura is not visible. They read as an absence.
 - _Pass Through:_ once per day, the sorcerer may pass through a single solid barrier of up to 1 metre thickness. This takes one full round and costs 2 PP.
 
 **Doom:** The Empty Throne does not doom. It simply stops noticing. The Patron Score drops and does not recover. The sorcerer who served it long enough to lose it feels an absence they cannot name - a gap in the centre of their experience that was not there before.
@@ -482,7 +482,7 @@ Corrupted - interrupted at a critical moment, wrong materials substituted, a par
 
 ## 11.6 Demon Binding: The Deep Dive
 
-Player-facing summoning rules are in §4.7. This section covers the GM's side of the circle.
+Player-facing summoning rules live with the Summon Demon spell in §4.7. This section covers the GM's side of the circle.
 
 ### 11.6.1 Demon Personality
 
@@ -512,7 +512,7 @@ When the demon arrives, it comes with demands. Decide these before the session, 
 - Permanent POW from the sorcerer above the binding cost (1D3 additional)
 - A third party delivered into the demon's reach for a specific purpose (the demon's choice)
 - A service to be called in at the demon's convenience, undefined but significant
-- The sorcerer's agreement not to use See the Unseen on the demon or its activities
+- The sorcerer's agreement not to use Witch Sight on the demon or its activities
 - The destruction of something specific (a rival demon's bond, a specific artifact, a named person)
 
 The demon's demands are binding from the moment the sorcerer agrees. Failure to deliver strains the binding (see §4.3).
@@ -571,7 +571,7 @@ Each additional Brazier costs 1 permanent POW. The sorcerer can draw from all si
 
 ### 11.7.3 The Brazier as Target
 
-The Brazier is identifiable through See the Unseen (it radiates stored PP as a strong aura) and potentially removable. A PC sorcerer who steals the physical object before the former owner can stop them has stolen the stored PP too. Whoever controls the Brazier controls its contents - making Brazier theft an extremely dangerous and extremely satisfying heist objective.
+The Brazier is identifiable through Witch Sight (it radiates stored PP as a strong aura) and potentially removable. A PC sorcerer who steals the physical object before the former owner can stop them has stolen the stored PP too. Whoever controls the Brazier controls its contents - making Brazier theft an extremely dangerous and extremely satisfying heist objective.
 
 ## 11.8 Apotheosis
 

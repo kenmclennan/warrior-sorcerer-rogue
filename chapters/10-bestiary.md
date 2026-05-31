@@ -4,7 +4,7 @@
 
 Stat blocks and descriptions for creatures, undead, fantasy beasts, demons, and elementals, plus the Chaotic Features table for generating unique demons and mutated things. Stat blocks are GM-side only; players encounter these creatures through description and dice, not foreknowledge.
 
-Read §6 for the combat rules these stat blocks reference. Demons tie back to §4.8 (player-side summoning) and §11 (demon behaviour and ritual mechanics from the GM's side). Elementals are summoned via the Summon Elemental working in §11.
+Read §6 for the combat rules these stat blocks reference. Demons tie back to the Summon Demon spell (§4.7) and §11 (demon behaviour and ritual mechanics from the GM's side). Elementals are summoned via the Summon Elemental working in §11.
 
 ## 10.1 Creature Entry Format
 
@@ -687,7 +687,7 @@ The troll is nocturnal, lives in wild places, and is large, stupid in conversati
   - _Fire Fear._ Trolls that see fire must succeed at a POW x5 roll or flee. A troll that has been set alight will try to extinguish itself first.
 - **Morale:** Fights until severely injured; retreats into darkness or toward water when near destruction. The trollwife does not flee.
 
-**Trollwife.** STR 3D6+6 (17), CON 2D6+3 (10), SIZ 3D6+6 (17), INT 3D6+6 (17), POW 3D6+9 (20). HP 14, AV 2, Move 8. The trollwife may know 1D4 sorcery spells (Curse of the Withered Hand, Midnight, Still the Mind, and Pox of the Sorcerer are common). It plots while the troll charges.
+**Trollwife.** STR 3D6+6 (17), CON 2D6+3 (10), SIZ 3D6+6 (17), INT 3D6+6 (17), POW 3D6+9 (20). HP 14, AV 2, Move 8. The trollwife may know 1D4 sorcery spells (Curse of Sorcery, Midnight, Still the Mind, and Enervate are common). It plots while the troll charges.
 
 ### 10.4.6 Centaur (Steppe Raider)
 
@@ -743,7 +743,7 @@ The griffin nests in high crags above the treeline, hunts in alpine meadows and 
 
 Demons are entities of the outer dark - not from this world, not concerned with its values, fundamentally alien in the way they experience existence and negotiation. They are not evil in any simple moral sense. They are other. The distinction matters, because a demon can be bargained with, which evil for evil's sake rarely can.
 
-For GM demon design tools and what happens when a binding breaks, see §11. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with §4.8. When a demon appears, it should feel like a significant event.
+For GM demon design tools and what happens when a binding breaks, see §11. These entries provide the stat blocks and core abilities needed to run a demon encounter. Demons interact with the Summon Demon spell in §4.7. When a demon appears, it should feel like a significant event.
 
 ### 10.5.1 Lesser Demon
 
@@ -767,7 +767,7 @@ _The thing crouched at the edge of the circle's light, gargoyle-thin, its wings 
 - **Damage Modifier:** None
 - **Attacks:** Claw 50% / 1D3+dm (Slash); Bite 35% / 1D3+dm (Pierce); Grapple 45% special. May make two claw attacks in one round; if both hit, it grapples and bites automatically next round.
 - **Special Abilities:**
-  - _Spells._ Lesser demons may know spells if their POW is sufficient (POW 12+). Common selections: Midnight, Pox of the Sorcerer, and up to 2 others appropriate to the demon's nature. A sorcerer who researches a specific demon before summoning may determine what spells it knows and request a particular loadout during bargaining.
+  - _Spells._ Lesser demons may know spells if their POW is sufficient (POW 12+). Common selections: Midnight, Enervate, and up to 2 others appropriate to the demon's nature. A sorcerer who researches a specific demon before summoning may determine what spells it knows and request a particular loadout during bargaining.
   - _Bargaining._ A lesser demon wants to remain in this world. It will negotiate, trade information, and perform services in exchange for the security of a binding or simply being left to go free. Skills: Bargain 55%, Fast Talk 40%.
   - _Chaotic Features._ A lesser demon may have 1D3 features from the Chaotic Features table (§8). Roll or select to make each demon distinct.
 - **Morale:** Avoids direct combat unless bound and commanded, or cornered. Prefers negotiation.

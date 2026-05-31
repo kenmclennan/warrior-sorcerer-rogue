@@ -33,7 +33,7 @@ The GM rolls on §13.1 and §13.2 for a fallen empire profile to seat the advent
 
 **What destroyed them (§13.1.3):** Roll D6 = 2. **Sorcerous backlash.** The encoded sorcery reversed catastrophically. The ruins carry residue that sorcerers feel immediately.
 
-**What they left (§13.1.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (See the Unseen reveals it immediately).
+**What they left (§13.1.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (Witch Sight reveals it immediately).
 
 **What this gives the GM:** The Serpent Syndicate uses the archive as a private document vault - stumbled on the lower entrance three years ago and has no idea what they are sitting on. The ancient wall-encoding is starting to behave strangely now that the Syndicate is burning lamp oil and storing sorcerously-adjacent documents there. This is the background the PCs do not know.
 
@@ -55,7 +55,7 @@ Two complications - one external (a problem in the world), one internal (a probl
 
 **Complication one - the archive.** The forged document was created in the Syndicate's archive beneath the merchant quarter. The Syndicate has a clerk who handles their forgeries in the lower archive. To exonerate Essa, the PCs need the original document the Syndicate forged from - which is in the archive. This turns the scenario into an infiltration rather than a bribe-and-walk.
 
-**Complication two - the sorcerous residue.** When Karash enters the lower archive (which he will, because a sorcerer's player never passes up "ancient ruin beneath the city"), See the Unseen will immediately reveal three things: the Ward on the inner sanctum (a moderate-strength working, Intensity 3), the encoded sorcery in the walls pulsing with recent activation, and a second presence - another sorcerer's recent casting signature, overlaid on the Syndicate clerk's lamp oil smell. Someone else has been working in here.
+**Complication two - the sorcerous residue.** When Karash enters the lower archive (which he will, because a sorcerer's player never passes up "ancient ruin beneath the city"), Witch Sight will immediately reveal three things: the Ward on the inner sanctum (a moderate-strength working, level 3), the encoded sorcery in the walls pulsing with recent activation, and a second presence - another sorcerer's recent casting signature, overlaid on the Syndicate clerk's lamp oil smell. Someone else has been working in here.
 
 _This complication centres on Karash rather than Khess - good complication design uses a different PC as the locus for the second threat._
 
@@ -75,7 +75,7 @@ _Have all three in mind; run whichever the fiction arrives at._
 
 The GM needs the Syndicate clerk: Perrak, a professional (§9.1.2) - document forger, self-taught sorcerous dabbler.
 
-_Perrak's stat block is drafted in fifteen minutes using §9.3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10). He has See the Unseen as his only ready spell and uses it obsessively to check for intruders - which is how the secondary casting residue in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and the room is starting to remember._
+_Perrak's stat block is drafted in fifteen minutes using §9.3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10). He has Witch Sight as his only ready spell and uses it obsessively to check for intruders - which is how the secondary casting residue in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and the room is starting to remember._
 
 The archive is now "dangerous known plus Perrak's unknowing amplification" rather than "dangerous unknown" - more human, and the PCs' choice about Perrak is a genuine moral one. Turn him in alongside the forged document. Let him go. Warn him what the walls are doing with his castings. That call belongs to the players.
 
@@ -152,20 +152,19 @@ Ysolde is bonded to the Charnel Heir (§11.4.3). The relevant mechanics:
 
 Ysolde's INT is 18, so she may load 18 spell levels per trance. She has chosen carefully.
 
-| Spell                           | Level | Use                                               |
-| ------------------------------- | ----- | ------------------------------------------------- |
-| See the Unseen                  | 1     | Constant - she is always watching                 |
-| Veil of the Ancient             | 2     | She has a perimeter alarm on her current lodgings |
-| Iron Ward (Intensity 2)         | 2     | Her first defensive response                      |
-| Bird's Eye (Intensity 3)        | 3     | Research and surveillance                         |
-| Vermin's Eye (Intensity 2)      | 2     | Her preferred infiltration tool                   |
-| Liken Shape (Intensity 2)       | 2     | She travels under other faces regularly           |
-| Still the Mind                  | 2     | For ending conversations before they escalate     |
-| Inescapable Bonds (Intensity 2) | 2     | Last resort before retreat                        |
+| Spell               | Level | Use                                           |
+| ------------------- | ----- | --------------------------------------------- |
+| Witch Sight         | 3     | Constant - she is always watching             |
+| Veil of the Ancient | 3     | A perimeter alarm on her current lodgings     |
+| Liken Shape         | 4     | She travels under other faces regularly       |
+| Inescapable Bonds   | 3     | Last resort before retreat                    |
+| Bird's Eye          | 1     | Research and surveillance                     |
+| Vermin's Eye        | 1     | Her preferred infiltration tool               |
+| Still the Mind      | 1     | For ending conversations before they escalate |
 
 **Total levels loaded:** 16 of 18. She has two levels of capacity in reserve.
 
-**Other known spells:** Moonrise, Undo Sorcery (_The Erasure_), and a partial formula for a unique spell pieced together from Charnel Heir fragments over eight months. These sit in her notes, ready to be loaded by the next trance. The GM leaves the unique spell undefined until scenario-relevant.
+**Other known spells:** Moonrise, Refutation, Undo Sorcery (_The Erasure_), and a partial formula for a unique spell pieced together from Charnel Heir fragments over eight months. These sit in her notes, ready to be loaded by the next trance. The GM leaves the unique spell undefined until scenario-relevant.
 
 **Talisman:** A small bronze stylus on a silver chain, worn at the throat. It has cut the marginalia on every text she has worked with for twelve years.
 
@@ -193,9 +192,9 @@ Key skills: Knowledge (Preternatural Lore) 70%, Knowledge (History) 65%,
 
 Patron: The Charnel Heir, Patron Score 28 (see §11; patron mechanics are GM-side)
 
-Spells loaded: See the Unseen, Veil of the Ancient, Iron Ward (x2),
-  Bird's Eye (x3), Vermin's Eye (x2), Liken Shape (x2),
-  Still the Mind, Inescapable Bonds (x2) [16 levels of 18]
+Spells loaded: Witch Sight (3), Veil of the Ancient (3),
+  Liken Shape (4), Inescapable Bonds (3), Bird's Eye (1),
+  Vermin's Eye (1), Still the Mind (1) [16 levels of 18]
 
 Casting signature: Old paper and copper-gall ink; three-second temperature drop.
 Fate Point access: Yes (full named-antagonist PP pool, spends normally).
@@ -267,15 +266,15 @@ _No pursuer succeeds this round. Position remains Out of Sight - second consecut
 
 ## A5.4 Adjudicating Sorcery Costs in Play
 
-_The GM's side of a sorcerer PC's major casting. Player-side in §A2.3. Karash wants to cast Bind the Raging Heart at Intensity 3 on a named professional antagonist mid-combat. PP cost significant, iron check relevant._
+_The GM's side of a sorcerer PC's major casting. Player-side in §A2.3. Karash wants to cast Slumber of the Lotus at level 2 on a named professional antagonist mid-combat. PP cost significant, iron check relevant._
 
 ### A5.4.1 The GM's Pre-Casting Checklist
 
-The GM works through five questions before the player rolls.
+The GM works through four questions before the player rolls.
 
 **1. What is the PP cost?**
 
-Bind the Raging Heart at Intensity 3: base cost 3 PP (one PP per intensity). Karash's current PP is 12 (he spent 4 earlier in the session on Bird's Eye and a Critical Buy). He can afford 3 PP; he will drop to 9.
+Slumber of the Lotus at level 2: 2 PP per level × 2 = 4 PP. Karash's current PP is 12 (he spent 4 earlier in the session on Bird's Eye and a Critical Buy). He can afford 4 PP; he will drop to 8.
 
 **2. Is there an iron penalty?**
 
@@ -285,37 +284,37 @@ _If Karash had iron on him, the penalty would apply now. The GM reminds players 
 
 **3. Is a resistance roll required?**
 
-Bind the Raging Heart requires the target to fail a POW resistance roll (the spell's active vs. passive is Karash's remaining PP after casting vs. the target's POW). The antagonist has POW 13. Karash will have 9 PP remaining after the cost. Base chance = 50% + (9x5) - (13x5) = 50% + 45 - 65 = **30%.** The spell has a 30% chance of taking hold.
+Slumber of the Lotus requires the target to fail a POW resistance roll (§5.3.5) - the sorcerer's remaining PP after casting vs the target's POW on the Resistance Table. The antagonist has POW 13. Karash will have 8 PP remaining after the cost. Base chance = 50% + (8 × 5) - (13 × 5) = 50% + 40 - 65 = **25%.** The spell has a 25% chance of taking hold.
 
-_The GM calculates this silently; the resistance roll is disclosed once casting succeeds._
+_The GM calculates this silently; the resistance roll is rolled once casting completes._
 
 **4. What is the casting drama?**
 
-Magic is theatrical (design.md §2.2). The GM describes the working before the dice: "The air thickens. The shadow from that wall lamp isn't falling right. The mercenary blinks. What are you doing?" This is also tactical information: the mercenary (a professional, not a Rabble) will close range next round if the spell fails.
+Magic is theatrical (design.md §2.2). The GM describes the working before the dice: "The mercenary's eyelids droop; his shoulders sag; the khopesh tilts in his hand. A scent of poppies fills the alley." This is also tactical information for the players: the working is taking. The mercenary will fight the slumber rather than collapse politely; either it grabs him or it doesn't.
 
 ### A5.4.2 Initiative and Casting
 
-Per §4.4.2: Karash declares his intent to cast at the start of the round and rolls **1D10 + INT** (instead of the usual 1D10 + DEX) for his initiative this round - the mental quickness of the working drives the cast's speed (§6.1). The cost is paid and the effect fires when his Initiative Rank comes up - sorcery casting is automatic for ready spells (§4.4.1); the only risk is being interrupted before that Rank.
+Per §4.4.2: Karash declares his intent to cast at the start of the round and rolls **1D10 + INT** (instead of the usual 1D10 + DEX) for his initiative this round - the mental quickness of the working drives the cast's speed (§6.1). The cost is paid and the effect fires when his Initiative Rank comes up - sorcery casting is automatic for ready spells (§4.4); the only risk is being interrupted before that Rank.
 
-**Karash's player declares:** "Casting Bind the Raging Heart, Intensity 3, targeting the mercenary."
+**Karash's player declares:** "Casting Slumber of the Lotus, level 2, targeting the mercenary."
 
 **Initiative rolls.** Karash rolls 1D10 + INT 16 = 5 + 16 = **21**. The mercenary rolls 1D10 + DEX 12 = 7 + 12 = **19**. Khess and Orryn roll higher than the mercenary and engage the close-range threats first.
 
 **The GM notes:** Karash must reach Initiative Rank 21 without taking a hit (§6.9 - any wound before the cast resolves causes the spell to fail and the PP are spent). The mercenary's 19 is one Rank lower, and Khess and Orryn are tying him up. Karash is clear.
 
-**At initiative 21:** Karash casts. The player spends 3 PP (pool drops to 9). No roll is made for the casting itself.
+**At initiative 21:** Karash casts. The player spends 4 PP (pool drops to 8). No roll is made for the casting itself.
 
-**The resistance roll:** The GM rolls the mercenary's POW resistance against the 30% base chance. **Result: 44.** 44 exceeds 30%. The mercenary resists. The spell does not take hold.
+**The resistance roll:** The GM rolls the mercenary's POW resistance against the 25% base chance. **Result: 44.** 44 exceeds 25%. The mercenary resists. The spell does not take hold.
 
-The GM announces: "The mercenary staggers - you can see him fighting it - but his face settles. The raging heart did not bind. He shakes his head once, like clearing water from his ears."
+The GM announces: "The mercenary's eyes roll back for a heartbeat - you see his knees soften - and then his face hardens and he shakes the working off like a wet dog. He is wide awake and angrier than he was a moment ago."
 
-The PP were spent regardless. Karash's pool stays at 9. The spell did not take hold; his next options are to try a different working, support the melee with a smaller spell, or save his PP for a Fate Point defence.
+The PP were spent regardless. Karash's pool stays at 8. The spell did not take hold; his next options are to try a different working, support the melee with a smaller spell, or save his PP for a Fate Point defence.
 
 ### A5.4.3 The Decision to Stop
 
-Karash has 9 PP remaining. The player weighs the options: try a different spell, throw another Bind the Raging Heart at the mercenary and hope for a worse resistance roll, or hold the PP back for a Deflect the Killing Blow.
+Karash has 8 PP remaining. The player weighs the options: try a different spell, throw another Slumber of the Lotus at the mercenary and hope for a worse resistance roll, or hold the PP back for a Deflect the Killing Blow.
 
-The mercenary is already badly wounded from Orryn's earlier attack. The fight is winnable without further sorcery. The player decides 9 PP is enough for a defensive Fate Point spend if the dice turn, and the cost of pushing the spell again is steep relative to the marginal gain. Karash holds back. They will finish the fight the old way.
+The mercenary is already badly wounded from Orryn's earlier attack. The fight is winnable without further sorcery. The player decides 8 PP is enough for a defensive Fate Point spend if the dice turn, and the cost of pushing the spell again is steep relative to the marginal gain. Karash holds back. They will finish the fight the old way.
 
 _This is the practical edge of sorcery in WSR: even a strong sorcerer rations PP carefully, because every casting is a casting that does not exist when the killing blow comes._
 

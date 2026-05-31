@@ -791,7 +791,7 @@ The last of an elder race that ruled the world before humanity rose from the mir
   - _Human Form._ A Serpent-Folk holds a glamour of any human form they have seen; they may impersonate a specific person if they have studied them. The glamour breaks under prolonged iron contact (§4.5) or on death.
   - _Sorcery._ Treat each Serpent-Folk as a low-tier sorcerer (two spells of choice from §4, 8 PP). The order's elders are mid-tier sorcerers (four spells, 14 PP).
   - _Cold Patience._ The Serpent-Folk think in centuries. A given individual's plan in any scenario is a small piece of a longer arc; killing the visible one does not stop the plan unless the players uncover what it serves.
-  - _Detected by See the Unseen._ The See the Unseen spell (§4) and the Witch Sight working both reveal the true form. A sorcerer who casts within line of sight of a disguised Serpent-Folk sees them clearly.
+  - _Detected by Witch Sight._ A sorcerer who casts Witch Sight (§4) within line of sight of a disguised Serpent-Folk sees their true form clearly.
 - **Morale:** Will not fight to the death if escape is possible. A Serpent-Folk that flees a fight reports back to the order, and the order has long memory.
 
 **Adventure Hooks:**
