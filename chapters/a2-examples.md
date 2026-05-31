@@ -24,7 +24,7 @@ Khess is fast and clever. She is not strong.
 
 ### A2.1.2 Step 2: Derived Statistics
 
-**Hit Points.** CON + SIZ = 10 + 13 = **23 HP.** (PCs use the full formula; lower-tier NPCs use (CON+SIZ)/2 - see §9.1.)
+**Hit Points.** CON + SIZ = 10 + 13 = **23 HP.** (PCs use the full formula; lower-tier NPCs use (CON+SIZ)/2 - see §11.1.)
 
 **Power Points.** Equal to POW = **13 PP.** This is also her Fate Point pool and her luck reserve.
 
@@ -210,7 +210,7 @@ _Khess the Knife (from Section 1 above) is working with two companions: Orryn, a
 **Rabble A and Rabble B** (hired swords):
 
 - HP 9 each, DEX 11, Sword 35%
-- _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a Rabble (§9.2)._
+- _Half-HP threshold: 5. Any combination of hits totalling 5 or more incapacitates a Rabble (§11.2)._
 - _No PP. No Fate Point access._
 
 ### A2.2.2 Round 1: Initiative and Casting
@@ -296,7 +296,7 @@ Khess spent 7 PP to take Davan from full health to dying in a single action. She
 ### A2.2.5 What the Example Demonstrated
 
 - **Initiative** (§6.1): 1D10 + DEX gave Khess a high initiative (24) and let her act before Davan despite his action being declared first in the narration. Karash's 1D10 + INT (26) put his cast at the top of the round.
-- **Rabble incapacitation** (§9.2): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
+- **Rabble incapacitation** (§11.2): Both Rabble went down in a single hit each, without rolling for wounds. The fight resolved quickly.
 - **The Quiet Knife talent** (§2.7.3): Khess spent 4 PP to prevent Davan from defending. This opened the door for the Critical Buy.
 - **Critical Buy** (§5.6.1): Khess rolled 47 and spent 3 PP to claim the matching value 44 - a Band C critical. This is the primary driver of the fight's decisive moment.
 - **§A1 lookup** (§A1.3): Band C Pierce, 1d10 = 5. Result: pierced lung, stunned 2 rounds, terrible breathing. Read aloud, resolved immediately.

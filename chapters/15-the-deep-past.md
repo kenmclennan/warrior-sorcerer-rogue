@@ -1,17 +1,17 @@
-# 13 The Deep Past
+# 15 The Deep Past
 
 > _"Between the time when the oceans drank Atlantis and the rise of the sons of Aryas, there was an age undreamed of."_
 > _- Robert E. Howard_
 
 The world is ancient. Civilisations rose, over-reached, collapsed, and were forgotten; the current age is the latest stratum laid over older and stranger ones. Pre-cataclysm ruins are the central treasure source of sword & sorcery and the engine of most adventures.
 
-This chapter is in two halves. **§§1-4** are generators that build deep history piece by piece - empires, cataclysms, ruins, and the lost sorcery and technology that bleed through into the present. **§§6-7** are worked examples - six adventure locales, six archetypal NPCs, and six archetypal beasts, each with hooks ready to drop into a session. Combine them: a generator-built fallen empire produces the Sorcerer's Tower in §6.1, occupied by the Sorcerer-Tyrant in §4.1, defended by the Serpent-Folk in §8.6. Build only what the adventure requires; the edge where your knowledge ends is where dread lives.
+This chapter is in two halves. **§§1-4** are generators that build deep history piece by piece - empires, cataclysms, ruins, and the lost sorcery and technology that bleed through into the present. **§§6-7** are worked examples - six adventure locales, six archetypal NPCs, and six archetypal beasts, each with hooks ready to drop into a session. Combine them: a generator-built fallen empire produces the Sorcerer's Tower in §6.1, occupied by the Sorcerer-Tyrant in §4.1, defended by the Serpent-Folk in §9.6. Build only what the adventure requires; the edge where your knowledge ends is where dread lives.
 
-## 13.1 Generator: Fallen Empires
+## 15.1 Generator: Fallen Empires
 
 Roll or select; combine categories as needed. A fallen empire needs at least one entry from each of the four categories below. Two or three entries from a single category produces a richer picture. These are raw material, not finished histories.
 
-### 13.1.1 Who They Were
+### 15.1.1 Who They Were
 
 _The civilisation's dominant character._
 
@@ -24,7 +24,7 @@ _The civilisation's dominant character._
 | 5   | **Decadent**     | A civilisation that peaked early and then spent centuries in slow rot, growing stranger as its core logic dissolved. Its art from the final period is deeply unsettling. What they were originally built to do, no one remembers.                                                                                |
 | 6   | **Confederated** | Not a single empire but a league of peoples with enough in common to cooperate. They were powerful when unified and catastrophically vulnerable when the agreement broke. The cataclysm that ended them may have begun with a betrayal inside the league.                                                        |
 
-### 13.1.2 What They Did
+### 15.1.2 What They Did
 
 _The act of hubris, ambition, or desperation that defined the empire's final phase._
 
@@ -37,7 +37,7 @@ _The act of hubris, ambition, or desperation that defined the empire's final pha
 | 5   | **Traded with outsiders**           | They made a pact with something beyond the world - a power, a race, an intelligence that did not share their values or their sense of proportion. The trade was favourable at first. The terms revealed themselves over time.                                            |
 | 6   | **Reversed the arrow of causation** | They solved the problem of cause and effect, at least partially. Their oracles did not merely predict the future; they altered it. Their descendants - if any remain - can sometimes still feel this inheritance. Time around their ruins does not quite flow correctly. |
 
-### 13.1.3 What Destroyed Them
+### 15.1.3 What Destroyed Them
 
 _The cataclysm. See §2 for the fuller generator; use this summary in conjunction._
 
@@ -50,7 +50,7 @@ _The cataclysm. See §2 for the fuller generator; use this summary in conjunctio
 | 5   | **Climate collapse**   | The world changed around them faster than they could adapt. The agricultural surplus failed. The rivers shifted. The storms did not come, or came wrong. They did not die in fire but in slow starvation and the violence that follows it.                        |
 | 6   | **Internal fracture**  | They destroyed themselves. Civil war, theological schism, a coup that went wrong, the competing ambitions of the powerful. The external enemy merely walked into the ruins afterward.                                                                             |
 
-### 13.1.4 What They Left
+### 15.1.4 What They Left
 
 _The residue of a civilisation - what the PCs will find._
 
@@ -58,16 +58,16 @@ _The residue of a civilisation - what the PCs will find._
 | --- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Ruins**                | Physical structures - temples, citadels, harbours, roads, aqueducts - spread across a region. Each one is a site. Many have things living in them now.                                                                                                                                                                                                                 |
 | 2   | **Texts**                | Spell-notations, histories, star-charts, engineering manuals. Written in a dead language the PCs probably cannot read; valuable to sorcerers as a source for negotiating workings (§4.6), and to scholars and patrons for what they record. Also dangerous: the texts contain what the empire learned, and some of what they learned should not be loose in the world. |
-| 3   | **Artifacts**            | Objects that still work, whose function is not always obvious. The mechanisms may be sorcerous, may be technological, may be both, may be neither. Artifacts are the primary treasure of ruins exploration. See §12 for artifact rules.                                                                                                                                |
+| 3   | **Artifacts**            | Objects that still work, whose function is not always obvious. The mechanisms may be sorcerous, may be technological, may be both, may be neither. Artifacts are the primary treasure of ruins exploration. See §14 for artifact rules.                                                                                                                                |
 | 4   | **A curse**              | Not a simple malediction but something woven into the land, the water, the air. Animals behave strangely in the affected region. Sorcerers dream badly. People who settle in the area age faster, or do not age at all, or develop particular fixations. The curse is not random - it is the residue of what the empire did.                                           |
 | 5   | **A remnant population** | People who survived the cataclysm, or their descendants, carrying the old culture into the present in changed form. They may not know what they once were. They may know exactly. They may be friendly; they may be deeply territorial; they may be something that was once human and has since moved in a different direction.                                        |
 | 6   | **A sealed gate**        | The empire built something intended to contain - a prison, a barrier, an airlock between the world and something else. It is still sealed. The seals are old and stressed. Whatever built the gate wanted nothing to enter from this side; whatever is behind the gate has had a long time to think about getting out.                                                 |
 
-## 13.2 Generator: Cataclysms
+## 15.2 Generator: Cataclysms
 
-A cataclysm reshapes landscape, fractures cultures, and leaves survivors carrying inherited trauma for generations. Use this generator to build cataclysms or detail the collapse type from §13.1.3. A cataclysm needs entries from at least the first two categories.
+A cataclysm reshapes landscape, fractures cultures, and leaves survivors carrying inherited trauma for generations. Use this generator to build cataclysms or detail the collapse type from §15.1.3. A cataclysm needs entries from at least the first two categories.
 
-### 13.2.1 Type
+### 15.2.1 Type
 
 _What happened._
 
@@ -80,7 +80,7 @@ _What happened._
 | 5   | **Climate collapse**   | The sky changed. The rains came wrong for a generation, and then stopped entirely, and then came back wrong again. The cause may have been sorcerous, may have been a natural cycle no one had lived long enough to witness before, may have been the gods adjusting something for reasons of their own. |
 | 6   | **Pact-betrayal**      | A covenant was broken - between peoples, between a civilisation and a power it served, between the world and something that sustained it. The betrayal may have been necessary, may have been accident, may have been sabotage. The consequences fell on everyone.                                       |
 
-### 13.2.2 Scale
+### 15.2.2 Scale
 
 _How far it reached._
 
@@ -91,7 +91,7 @@ _How far it reached._
 | 3   | **Civilisational** | An entire culture was erased or so fundamentally changed that no continuity remained. The people survived - some of them - but the empire, the knowledge, the institutional memory: gone. The survivors became something different.                                |
 | 4   | **World-shaking**  | The cataclysm changed something permanent about the world itself - the coast, the climate, the sky, the rules of sorcery. It happened long enough ago that the current world does not remember the world before it. The change is taken to be natural. It was not. |
 
-### 13.2.3 How Long Ago
+### 15.2.3 How Long Ago
 
 _Distance from the present._
 
@@ -102,7 +102,7 @@ _Distance from the present._
 | 3   | **Pre-recorded**  | Before the current calendar. No reliable written account survives; what is known is myth, inference, and the evidence of the ruins themselves. The language of any surviving texts is dead, and possibly related to nothing currently spoken.                               |
 | 4   | **Geological**    | So far back that the cataclysm has reshaped the landscape in ways indistinguishable from natural geography. No oral tradition reaches it. The ruins have been buried, compressed, and in places absorbed into the bedrock. Only sorcery or extreme excavation reveals them. |
 
-### 13.2.4 What It Left Behind
+### 15.2.4 What It Left Behind
 
 _The permanent mark on the land._
 
@@ -115,11 +115,11 @@ _The permanent mark on the land._
 | 5   | **A wandering plague**   | The original disease, or its descendant, still moves through the land. Not enough to break civilisation now - most people have partial immunity - but enough to mark isolated communities and be weaponisable. A motivated sorcerer with access to a live sample and a laboratory might be able to restore it to its original potency.                                                                                                |
 | 6   | **A thinned veil**       | The boundary between the world and what lies beyond it was permanently damaged in the affected region. Demons do not need to be summoned here - they leak through. Sorcery functions strangely: spells that should cost 1 PP cost nothing; spells that should cost 3 PP cost a point of permanent POW. Nothing here obeys the rules it should.                                                                                        |
 
-## 13.3 Generator: Ruins
+## 15.3 Generator: Ruins
 
 Builds a single adventure-scale lost site. Use at the table for a quick site, or in preparation for a central scenario location. A complete ruin needs entries from the first three categories; Danger and Treasure complete a site ready to run.
 
-### 13.3.1 Site Type
+### 15.3.1 Site Type
 
 _What this place originally was._
 
@@ -134,7 +134,7 @@ _What this place originally was._
 | 7   | **Market**      | A trading post, a caravanserai, a bazaar. Goods from across the old world, abandoned in place. What passes for treasure here is whatever the last merchants were carrying; the building itself records what kind of commerce the empire ran.                                      |
 | 8   | **Palace**      | Throne rooms, audience chambers, private apartments, servants' quarters. The records of a government: correspondence, accounts, orders. The private chambers of whoever ruled here may contain things that were meant to die with them.                                           |
 
-### 13.3.2 Current State
+### 15.3.2 Current State
 
 _What time, catastrophe, and scavengers have done to the site._
 
@@ -147,7 +147,7 @@ _What time, catastrophe, and scavengers have done to the site._
 | 5   | **Repurposed by squatters** | People are living here, or have recently lived here. They have made their presence felt: fires, barricades, modified doorways, the debris of habitation. They are not the intended occupants and they may not know what the site is. Their presence is a complication before the site itself becomes one. |
 | 6   | **Partially functional**    | Something in the site still works. The mechanism, the sorcery, the bound entity, the automated process - whatever it is, it is still running after all this time. The PCs will not immediately understand what it is doing. They will not be able to ignore it.                                           |
 
-### 13.3.3 The Hook
+### 15.3.3 The Hook
 
 _Why the PCs would go here._
 
@@ -160,33 +160,33 @@ _Why the PCs would go here._
 | 5   | **A map.** The PCs have come into possession of a map or chart that leads here. The map is partial; some of what it shows no longer corresponds to the site's current state. What the map was originally created for is its own question.                                               |
 | 6   | **Accident.** They did not mean to be here. A wrong turn, a chase, a storm, a collapse opened a door that was not supposed to be there. They are inside before they understood where they were going. Now they have to decide whether to retreat or go further.                         |
 
-### 13.3.4 The Danger
+### 15.3.4 The Danger
 
 _What threatens the PCs inside the site. Combine two for a more complex location._
 
 | D6  | Danger                     | Character                                                                                                                                                                                                                                                                                                                    |
 | --- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Undead**                 | The dead of this place have not rested. The form of the undead reflects what the site was: priests become hungry things with an echo of devotion; soldiers become automatons that still patrol a perimeter; scholars become something worse, because they understood what was happening to them. See §10 for undead entries. |
+| 1   | **Undead**                 | The dead of this place have not rested. The form of the undead reflects what the site was: priests become hungry things with an echo of devotion; soldiers become automatons that still patrol a perimeter; scholars become something worse, because they understood what was happening to them. See §12 for undead entries. |
 | 2   | **Beasts**                 | Animals - ordinary or otherwise - have made the site their territory. They have adapted to its specific conditions in ways that may no longer make them ordinary. The ruins are home turf to them; the PCs are intruders.                                                                                                    |
 | 3   | **The original guardians** | The defensive measures the empire put in place are still in operation. These may be sorcerous constructs, bound demons, automated mechanisms, or something else; they do not distinguish between the empire's enemies and strangers who arrived a thousand years too late.                                                   |
 | 4   | **Rival explorers**        | Other people are here with the same objective, or a conflicting one. They may be competitors, enemies, allies of convenience, or people with better intelligence about the site who have been waiting for someone else to deal with the first level.                                                                         |
 | 5   | **The place itself**       | The site is actively hostile - not through any agent but through what it is. Trapped corridors. Architecture designed to disorient. A working that affects perception or memory. Something about the layout that makes it very hard to leave.                                                                                |
 | 6   | **A survivor**             | One entity from the original civilisation - or something that served it - is still here, still alive or still present, still aware. Its goals are not necessarily violent. They may be desperate. They have had a very long time to form opinions about what they will and will not do.                                      |
 
-### 13.3.5 The Treasure
+### 15.3.5 The Treasure
 
 _What makes the risk worthwhile. A site can have more than one._
 
 | D6  | Treasure Category  | Notes                                                                                                                                                                                                                                                                                                  |
 | --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Artifact**       | An object of pre-cataclysm manufacture that still functions. Its function is not immediately obvious. Its function, when understood, is either enormously useful or enormously dangerous or both. See §12 for artifact rules.                                                                          |
+| 1   | **Artifact**       | An object of pre-cataclysm manufacture that still functions. Its function is not immediately obvious. Its function, when understood, is either enormously useful or enormously dangerous or both. See §14 for artifact rules.                                                                          |
 | 2   | **Lore**           | Knowledge in some fixed form - texts, star-charts, inscribed ritual workings, a dead sorcerer's annotated notes. Valuable to any sorcerer, scholar, or patron who deals in old knowledge. May be dangerous to possess; there may be others who want it and are willing to act on that want.            |
 | 3   | **An ally**        | Something trapped, imprisoned, or held here wants to be released and will owe a significant debt if the PCs manage it. Whether this debt is safe to collect depends entirely on what the something is and what it was imprisoned for.                                                                  |
 | 4   | **Mundane wealth** | Coin, gems, art objects, trade goods, accumulated offerings. The old world was rich. Its surplus is still here in some places, untouched because whoever held it last is no longer in a position to spend it. The wealth is real; getting it out is the problem.                                       |
 | 5   | **Reputation**     | The deed itself - surviving the site, retrieving a specific object, accomplishing a task no one else has managed - is worth something in the world above. Whoever sent the PCs here gains significantly. So, potentially, do the PCs.                                                                  |
 | 6   | **Cursed**         | Whatever the PCs recover is compromised - bound to something that will follow it, carrying a working that will trigger, bearing the obligation of the last person who held it. The curse is not obvious until it is active. By then, the PCs have had it long enough that the solution is complicated. |
 
-## 13.4 Pre-Cataclysm Sorcery and Science
+## 15.4 Pre-Cataclysm Sorcery and Science
 
 The §4 spell list is what has survived the cataclysms in transmissible form. Pre-cataclysm sorcery operated at a different scale - binding gods, mastering death at industrial scale, encoding spells into architecture - and surviving fragments of it are the engine of many scenarios.
 
@@ -194,7 +194,7 @@ The §4 spell list is what has survived the cataclysms in transmissible form. Pr
 
 - **Encoded in architecture.** The spell _is_ the building and it is still running. Entering is entering the working. Destroying the building ends the spell - if destruction is possible.
 - **Recorded in old texts.** The notation exists, but learning from it is harder than learning from a contemporary source: the script may be opaque, the language dead, the required components or ritual spaces gone. Working out a pre-cataclysm spell from a fragmentary source is a research project (§4.6) of months and is likely to attract attention from people who do not want that spell loose.
-- **Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See §12 for artifact rules.
+- **Embedded in artifacts.** The spell is the object, activating under specific conditions without a caster. See §14 for artifact rules.
 
 **Lost technology.** Sword & sorcery's lost super-science sits alongside lost sorcery as a valid ingredient. To the people of the current age, advanced technology is indistinguishable from sorcery: a weapon firing coherent light is a "fire-lance of the old people"; a navigation device using orbital signals is an "oracle of the sky-watchers." Lost technology does not respond to the sorcerous current - iron-sensitivity (§4.5) does not apply unless the item is also sorcerous. Identification typically requires Knowledge (Engineering) or Knowledge (Occult) rather than sorcerous analysis.
 
@@ -206,11 +206,11 @@ The §4 spell list is what has survived the cataclysms in transmissible form. Pr
 
 None of these require a world with a defined history. They only require a world with a past.
 
-## 13.5 Adventure Locales
+## 15.5 Adventure Locales
 
 Six places to drop into a scenario. Each is a location with hooks - the bones of an adventure rather than a finished site. Combine with the generators above to seat them in your world; the locales themselves are deliberately portable.
 
-### 13.5.1 The Sorcerer's Tower
+### 15.5.1 The Sorcerer's Tower
 
 A slender spire jutting above its garden wall - jade-faced, bronze-banded, or cut from a single piece of dark stone no mason could have quarried. The architecture is subtly wrong: too few windows on one side, doorways that do not align across floors, a shadow that falls in the wrong direction. The master sleeps somewhere above and rarely descends. The servants in the garden have forgotten how to be people. The gate stands open. Invitation is the first ward.
 
@@ -225,9 +225,9 @@ A slender spire jutting above its garden wall - jade-faced, bronze-banded, or cu
 
 1. **The Commission.** A patron wants a specific item from the workshop - the master's annotated notes, an instrument, their talisman, the master's own hand if it can be obtained. The PCs are paid to break in while the master is travelling. The travelling story turns out to be incorrect.
 2. **The Silence.** The master has not been seen for weeks. The servants in the garden are restless and dangerous. Something locked away upstairs is no longer locked. The local magistrate offers coin to anyone willing to investigate before it spreads.
-3. **The Inheritance.** The master is dead. A rival sorcerer (§13.6.1) is moving to claim the workshop. The PCs can sell their services to either side, or to a third party who wants the tower destroyed before anyone inherits.
+3. **The Inheritance.** The master is dead. A rival sorcerer (§15.6.1) is moving to claim the workshop. The PCs can sell their services to either side, or to a third party who wants the tower destroyed before anyone inherits.
 
-### 13.5.2 The Ancient Ruins
+### 15.5.2 The Ancient Ruins
 
 A horizon of broken architecture across an otherwise empty plain. Cyclopean pillars lean at angles no engineer would tolerate; fragments of wall trace the outline of structures whose purpose is no longer obvious; a single colossal dome remains intact at the centre, its outer skin pitted but its interior reportedly unchanged for two thousand years. Local nomads avoid the ruins. The crows do not nest here. Anything still living inside has been alone for a long time.
 
@@ -244,7 +244,7 @@ A horizon of broken architecture across an otherwise empty plain. Cyclopean pill
 2. **The Cult.** A new cult has set up camp in the outer sprawl, performing rites no one recognises in the antechamber. They are not the original inhabitants. They may be inviting the original inhabitants back. The local kingdom wants them removed.
 3. **The Refugee.** Something has come up from the ruin and is moving across the plain toward the nearest settlement. The PCs are between it and its destination. Tracing it back reveals what woke it - and what else may be coming out.
 
-### 13.5.3 The Thieves' Quarter
+### 15.5.3 The Thieves' Quarter
 
 A district of crooked unpaved streets, refuse heaps, and torchlight licking from broken windows. Drunken roisterers stagger; cutpurses move in the press; steel rings against steel in alley-mouths the watch will not enter. Every tavern is a small fortress, every doorway watched. Strangers are read on sight: visitor, customer, prey. The quarter has rules - just not the ones written down at the prefecture.
 
@@ -252,7 +252,7 @@ A district of crooked unpaved streets, refuse heaps, and torchlight licking from
 
 - **The Tavern of the Three Knives.** The neutral meeting ground. Patrons of every faction drink here under truce; the landlord enforces it personally. Information is for sale, jobs are posted, and the seating arrangements communicate hierarchy to anyone who can read them.
 - **The Fences' Row.** A line of shop-fronts where stolen goods are turned to coin. Each fence specialises: gems, fine cloth, religious objects, weapons of unusual provenance. They do not compete; they refer.
-- **The Wolves' Den.** A walled compound housing the leadership of the quarter. The Prince of Thieves (§13.6.5) sleeps here when he is in the city.
+- **The Wolves' Den.** A walled compound housing the leadership of the quarter. The Prince of Thieves (§15.6.5) sleeps here when he is in the city.
 - **The Sewer Mouths.** The under-quarter. The professional thieves use the sewers as roads; the watch will not follow. Anyone hunted in the streets above can drop into the sewers if they know which gratings open.
 
 **Adventure Hooks:**
@@ -261,7 +261,7 @@ A district of crooked unpaved streets, refuse heaps, and torchlight licking from
 2. **The Succession.** The current leader of the quarter has been found dead in his own bed. The succession is open. The PCs are paid by one faction to ensure their candidate emerges intact; the city's true rulers are watching with interest, and the watch is making a list.
 3. **The Refuge.** A noble informant the PCs are supposed to protect has fled to the Thieves' Quarter rather than face the prefecture. Finding her requires negotiating with people the PCs would normally avoid. Other parties are searching too, and not all of them want her alive.
 
-### 13.5.4 The Beast-God's Temple
+### 15.5.4 The Beast-God's Temple
 
 A squat, flat-topped building isolated in the centre of a plaza most citizens cross at a quickened pace. The entrance is hidden in the surrounding wall, known to the priests and their visitors. Within, burning censers fill the air with smoke that is not entirely incense; the floor of the inner sanctum is grooved by the feet of victims walked to the altar. The idol behind the altar is carved from black stone, cross-legged, with ruby eyes that catch torchlight and hold it after the torch has been removed.
 
@@ -278,7 +278,7 @@ A squat, flat-topped building isolated in the centre of a plaza most citizens cr
 2. **The Convert.** A PC's contact, ally, or family member has joined the priesthood - apparently of their own will, but the change in them is wrong. Extracting them from the temple is one problem; extracting whatever the idol has placed in them is another.
 3. **The Rival Cult.** A second faction wants the temple destroyed before the next conjunction - they say the idol is about to be fully awakened, and they are willing to pay for sabotage. They are not entirely wrong, and not entirely trustworthy.
 
-### 13.5.5 The Frontier Stockade
+### 15.5.5 The Frontier Stockade
 
 A wooden stockade fort on the edge of the wild: sharpened logs driven into the earth, a heavy gate barred from inside, watchtowers at the four corners, a broad stair up to a great hall in the centre. The garrison is small. The supplies are limited. The nearest reinforcements are days away. The wilderness beyond the wall grows bolder each season. The fort exists because someone decided this was the line. Whether the line holds depends on the people inside it.
 
@@ -295,7 +295,7 @@ A wooden stockade fort on the edge of the wild: sharpened logs driven into the e
 2. **The Inside Job.** Something inside the fort is wrong. Discipline has slipped, the commander has changed, the patrols are returning short. The PCs arrive on legitimate business and are asked, by a worried sergeant, to find out what has happened before the gate opens for whatever is waiting outside.
 3. **The Last Stand.** The garrison commander has decided the fort cannot be held and is preparing to abandon it. The PCs disagree, or have orders, or are themselves the reason the wilderness is closing in. The decision is being made tonight; they have until dawn to change minds.
 
-### 13.5.6 The Lost City
+### 15.5.6 The Lost City
 
 A city perched atop sheer cliffs of jade-blue and crimson stone, hidden in a valley below a green ocean of jungle canopy. Its streets are clean; its towers are intact; its inhabitants do not entirely match the architecture they live in. A great palace at the centre houses a crystal-domed chamber where the body of a long-dead king is preserved on an ivory dais. Beneath the city are subterranean passages connecting to caverns whose ceilings glow with phosphorescent encrustation. The locals do not call it lost.
 
@@ -313,13 +313,13 @@ A city perched atop sheer cliffs of jade-blue and crimson stone, hidden in a val
 2. **The Heir.** A claimant to a surface kingdom believes their bloodline runs to the lost city's original royal house. They have hired the PCs to verify - and, if verified, to retrieve a sign of legitimacy that the current ruler is not willing to part with.
 3. **The Awakening.** Something in the Underbelow is moving. The current population does not know it; the ruler does, and has decided the only solution is to draw outside attention to themselves and let the visitors deal with it. The PCs are the visitors.
 
-## 13.6 Archetypal NPCs
+## 15.6 Archetypal NPCs
 
-Six recurring figures, statted for drop-in use. Adjust characteristics for your campaign's power level and name them for your setting. Where an NPC overlaps with a §9 sample stat block, the entry here focuses on campaign use; refer to §9 for the alternative build.
+Six recurring figures, statted for drop-in use. Adjust characteristics for your campaign's power level and name them for your setting. Where an NPC overlaps with a §11 sample stat block, the entry here focuses on campaign use; refer to §11 for the alternative build.
 
-### 13.6.1 The Sorcerer-Tyrant (Named Antagonist)
+### 15.6.1 The Sorcerer-Tyrant (Named Antagonist)
 
-A high priest of a sorcerous order whose ambitions extend past the order itself. Has bound a demon, walked a Patron compact, and learned spells from sources that no longer exist. Now holds a tower, a city, or a region in private fief. Negotiates only with peers; everyone else is a tool, an obstacle, or a resource. Distinct from the mid-tier sorcerer-villain in §9.5.6 by sheer accumulated power and the established institution beneath him.
+A high priest of a sorcerous order whose ambitions extend past the order itself. Has bound a demon, walked a Patron compact, and learned spells from sources that no longer exist. Now holds a tower, a city, or a region in private fief. Negotiates only with peers; everyone else is a tool, an obstacle, or a resource. Distinct from the mid-tier sorcerer-villain in §11.5.6 by sheer accumulated power and the established institution beneath him.
 
 ```text
 [Name], Sorcerer-Tyrant
@@ -348,7 +348,7 @@ Sorcery:
     Curse of Sorcery (level 3)
     Sorcerous Armor (level 3)
     Witch Sight (level 2)
-    Bound Demon command-word (situational; see §11)
+    Bound Demon command-word (situational; see §13)
 
 Talents:
   Arcane Insight - +20% to casting-related rolls.
@@ -371,10 +371,10 @@ acolyte will do).
 **Adventure Hooks:**
 
 1. **The Bargain.** The tyrant offers the PCs a job their employer will not match in coin. The job is real; the price is what they do not yet understand they are paying. A PC who accepts is marked, in ways that surface later.
-2. **The Captive.** A PC's contact, mentor, or kin is being held in the tower (§13.5.1). The tyrant is not particularly interested in them - they are leverage against a third party - but extraction means going through the wards.
+2. **The Captive.** A PC's contact, mentor, or kin is being held in the tower (§15.5.1). The tyrant is not particularly interested in them - they are leverage against a third party - but extraction means going through the wards.
 3. **The Patron's Eye.** Something the tyrant has summoned has noticed the PCs, perhaps because a PC carries something the patron wants. The tyrant will trade them safety for that item. Or kill them for it. The patron does not care which.
 
-### 13.6.2 The Cunning Vizier (Professional, or Named)
+### 15.6.2 The Cunning Vizier (Professional, or Named)
 
 The kingdom's chief counsellor. Knows everything; trusted by the throne; never seen acting against it openly. Has a network that extends to every corner of the realm and a private library that the king's auditors are not invited to read. May be loyal. Is certainly not transparent.
 
@@ -414,7 +414,7 @@ the alarm bell is rung.
 2. **The Frame.** Someone has framed the vizier for treason; the king is days from acting. The vizier engages the PCs to dismantle the frame. The frame may be false, may be true with bad evidence, or may be entirely his own arrangement to remove a rival.
 3. **The Library.** The PCs need information from the vizier's private archive. He will trade for it. The trade involves doing something for him that they cannot quite reconcile with their conscience.
 
-### 13.6.3 The Outlaw Hetman (Named Antagonist)
+### 15.6.3 The Outlaw Hetman (Named Antagonist)
 
 A northern-born raider who fled or was exiled to the desert and built a band of cut-throats around his survival. His camp is a sprawl of black tents at the edge of the waste. He judges everyone by one test: toughness. Toughness gets a seat at the fire and a share of the loot; weakness gets the sand. Has been chased by three kingdoms, killed by none.
 
@@ -457,7 +457,7 @@ Fate Point access: yes.  Likely spends: Steel-Eye, Hard To Kill, Deflect
 the Killing Blow.
 ```
 
-**Running the Hetman.** Commands eight to fifteen raiders (use Bandit Raider Rabble stats from §9.5.2). Believes in personal combat; will accept a duel-challenge from anyone the band thinks credible. Will not break a hospitality oath, but interprets the oath narrowly. If the PCs prove tougher than his band thinks possible, he will hire them rather than fight them - assuming they are buyable, which is its own question.
+**Running the Hetman.** Commands eight to fifteen raiders (use Bandit Raider Rabble stats from §11.5.2). Believes in personal combat; will accept a duel-challenge from anyone the band thinks credible. Will not break a hospitality oath, but interprets the oath narrowly. If the PCs prove tougher than his band thinks possible, he will hire them rather than fight them - assuming they are buyable, which is its own question.
 
 **Adventure Hooks:**
 
@@ -465,7 +465,7 @@ the Killing Blow.
 2. **The Bounty.** A southern kingdom offers a substantial price for the Hetman's head. Bringing it home means infiltrating the camp or surviving a duel. Refusing the bounty and taking it to the Hetman buys his attention - and an offer the PCs may not want to refuse.
 3. **The Refuge.** A PC has been declared an outlaw by a city the party is leaving. The Hetman's camp is the nearest place that does not care about the prefecture's parchment. The price of admission is a piece of work that involves crossing back over the line the PC just crossed.
 
-### 13.6.4 The Wilderness Oracle (Named Antagonist, non-combat)
+### 15.6.4 The Wilderness Oracle (Named Antagonist, non-combat)
 
 A hermit witch in a moss-roofed hut deep in old forest. Wolves sleep on her threshold; no traveller arrives by accident. She reads bones, dreams, and weather, and has seen the next ten years in fragments. She knows what the PCs are looking for before they finish asking. She also knows what they will trade for the answer, and she has plans for that.
 
@@ -518,9 +518,9 @@ sorcery is small, but her information is large.
 2. **The Apprentice.** A young woman from the nearest village has fled to the oracle and refuses to come home. The girl's father pays the PCs to retrieve her. The oracle will not stop them. The girl will. The wolves may.
 3. **The Drift.** Something has changed in the deep forest. The oracle has felt it. She cannot leave her hut to investigate; she will pay the PCs to be her eyes. The change is older than her; she is not sure she should know what it is.
 
-### 13.6.5 The Prince of Thieves (Named Antagonist)
+### 15.6.5 The Prince of Thieves (Named Antagonist)
 
-The acknowledged king of the city's underworld. Cleared the previous holder of the title five years ago and has refined the operation since. Knows everyone, owes a great many people, is owed by more. Plays at being a gentleman; rarely loses anything by it. His word in the Thieves' Quarter (§13.5.3) is the law.
+The acknowledged king of the city's underworld. Cleared the previous holder of the title five years ago and has refined the operation since. Knows everyone, owes a great many people, is owed by more. Plays at being a gentleman; rarely loses anything by it. His word in the Thieves' Quarter (§15.5.3) is the law.
 
 ```text
 [Name], Prince of the [quarter]
@@ -570,7 +570,7 @@ Deflect the Killing Blow.
 2. **The Rival.** A rival is moving to take the quarter. The Prince hires the PCs as outside talent the rival cannot bribe. The job is described as protection; it is actually identification - the PCs will be asked to recognise the rival's allies and decide which to leave alone.
 3. **The Successor.** The Prince has been wounded - not the kind that heals - and is choosing a successor before the news leaks. He offers the PCs a stake in the new arrangement. The other candidates are also offering.
 
-### 13.6.6 The Treacherous Patron (Professional)
+### 15.6.6 The Treacherous Patron (Professional)
 
 A noble or wealthy merchant who hires others to do work he cannot be seen to know about. Smiles at the meeting; signals the guards while the PCs are still being shown out. He will not be the villain of the campaign - he is the agent of someone else's plan, or his own ambition above his courage. Useful precisely because he never delivers a clean job.
 
@@ -595,7 +595,7 @@ Other skills:
   Knowledge (Local Politics) 60%
 
 Notes: Maintains 2-4 bodyguards (Professionals; use the Mercenary Captain
-stat in §9.5.3 as a model, scaled down). Will betray the PCs the moment
+stat in §11.5.3 as a model, scaled down). Will betray the PCs the moment
 the betrayal becomes safer than continuing the partnership; will pretend
 not to until then. The threshold for "safer" is low.
 ```
@@ -608,11 +608,11 @@ not to until then. The threshold for "safer" is low.
 2. **The Setup.** The patron pays in advance for once. The coin is real but marked; the PCs leave the meeting carrying evidence that ties them to a crime they have not yet committed. The crime will happen tonight, and the patron's signature will be nowhere on it.
 3. **The Recurring Betrayer.** This is not the first time. A PC recognises him from an old job that went wrong. The PC's choice is to refuse the work, take it knowing what is coming, or use the meeting to settle the old account. The patron has prepared for all three.
 
-## 13.7 Archetypal Beasts
+## 15.7 Archetypal Beasts
 
-Six adversaries for the deep places. Stat blocks follow the §10 format; for the rules they reference, see §6 (combat), §4 (sorcery), and §10.1 (creature entry conventions). Each entry includes adventure hooks - not encounters but seeds for sessions the beast can anchor.
+Six adversaries for the deep places. Stat blocks follow the §12 format; for the rules they reference, see §6 (combat), §4 (sorcery), and §12.1 (creature entry conventions). Each entry includes adventure hooks - not encounters but seeds for sessions the beast can anchor.
 
-### 13.7.1 Giant Serpent
+### 15.7.1 Giant Serpent
 
 A gigantic snake - twenty to forty feet of black-scaled muscle - that dwells in dark waters and sealed tombs. It strikes from cover, swallows men whole, and remains in places that have long forgotten what they once contained. A giant serpent in a tomb has been there for centuries; it does not need to feed often, but when it feeds it feeds completely.
 
@@ -643,7 +643,7 @@ A gigantic snake - twenty to forty feet of black-scaled muscle - that dwells in 
 2. **The River-Take.** A river-trade caravan is losing men - taken from the deck at night, never the same crew member, never a struggle that wakes anyone. The serpent has learned to choose carefully. Tracking it back means finding what it considers its territory.
 3. **The Mother.** What the PCs encountered first was a juvenile. The mother lives further in.
 
-### 13.7.2 Gray Ape
+### 15.7.2 Gray Ape
 
 A monstrous anthropomorphic horror in the form of a great pale-furred ape - shoulders broader than three men, arms long enough to reach the ground from standing, eyes red and small with old anger. It is no relation to true apes; it represents some degeneration of the primal stock that produced humans and apes alike, and it has decided that humans are the easier kill. It hates the sun and the moon equally and dwells in deep forest or ruin-shadow where neither reaches.
 
@@ -671,10 +671,10 @@ A monstrous anthropomorphic horror in the form of a great pale-furred ape - shou
 **Adventure Hooks:**
 
 1. **The Vanishing Village.** Loggers and charcoalers are not returning from a stretch of forest. The local lord pays for the cause to be removed. The cause is one Gray Ape that has learned to take a single victim at a time and disappear before the next morning.
-2. **The Ruin-Watcher.** A Gray Ape has made its lair in the ruins the PCs need to enter (§13.5.2). Killing it is one option; another is timing the entrance for noon, when it is asleep in the deepest chamber. The wrong choice splits the party between the threat and the objective.
+2. **The Ruin-Watcher.** A Gray Ape has made its lair in the ruins the PCs need to enter (§15.5.2). Killing it is one option; another is timing the entrance for noon, when it is asleep in the deepest chamber. The wrong choice splits the party between the threat and the objective.
 3. **The Captive.** The Gray Ape has taken a PC ally or kin - alive, dragged into the dark. The recovery is a race against the ape's habits and the captive's wounds.
 
-### 13.7.3 Shadow-Demon
+### 15.7.3 Shadow-Demon
 
 A horror summoned from the gulfs of night by a sorcerer's working - a loping black shadow with eyes of pale flame and a body that holds together only as long as the binding holds. It moves like wind through walls and over rooftops; it can be heard only as the rush of cold air; it is sent with one purpose, finds its quarry by scent, and tears out the throat. Most sorcerers who summon one die before the second working.
 
@@ -703,9 +703,9 @@ A horror summoned from the gulfs of night by a sorcerer's working - a loping bla
 
 1. **The Hunted.** A PC has been marked for death by a sorcerer they have never met. A shadow is coming - tonight, tomorrow night, the night after. Locating the working before the binding fires is the only defence.
 2. **The Wrong Target.** A shadow is hunting an innocent third party. The PCs find them first. Protecting them means the PCs become the obstacle; the shadow will tear them apart to reach the target.
-3. **The Inheritance.** A dead sorcerer's workings have not all expired. A summoning circle in the ruin of his tower (§13.5.1) is still active. Disturbing the wrong relic triggers a binding that has been waiting twenty years for a target.
+3. **The Inheritance.** A dead sorcerer's workings have not all expired. A summoning circle in the ruin of his tower (§15.5.1) is still active. Disturbing the wrong relic triggers a binding that has been waiting twenty years for a target.
 
-### 13.7.4 Iron Statues (Cursed Warriors)
+### 15.7.4 Iron Statues (Cursed Warriors)
 
 Men of a vanished people, blasted into iron images by a nameless god as punishment for some long-forgotten crime, standing in niches along the walls of ruined halls. By day they are statues, perfect in detail down to the woven beards. By moonlight or in deep darkness they wake and walk and hunt with iron fangs and iron talons. They have stood in the dark for so long that any disturbance is enough to bring them out of their niches.
 
@@ -737,7 +737,7 @@ Men of a vanished people, blasted into iron images by a nameless god as punishme
 2. **The Released.** A sorcerer has located the god's name and intends to use it to seize control of the statues - turning them from cursed guardians into his personal honour-guard. The PCs are hired to stop the binding ritual before it completes.
 3. **The Eighth Statue.** Seven statues line the hall. There are eight niches. The eighth statue walks at will. The PCs do not learn which it is until it is too close.
 
-### 13.7.5 Servants of the Tomb
+### 15.7.5 Servants of the Tomb
 
 Gray, hairy, almost-human things that walk upright but speak only a gibberish no living tongue resembles. They are nearly immortal, having served their long-dead master for centuries, and continue to dwell in his palace below the earth, fishing for corpses out of the underground river. They are not hungry in any ordinary sense; they continue their duties because no one has told them to stop. Anything that enters their domain becomes part of their duty.
 
@@ -757,7 +757,7 @@ Gray, hairy, almost-human things that walk upright but speak only a gibberish no
 - **Damage Modifier:** +1D4
 - **Attacks:** Grasp 45% / Grapple (STR 14 vs target STR); Bone-Knife 50% / 1D4+1+dm (Pierce); Net (carried) 40% / immobilise.
 - **Special Abilities:**
-  - _Drag to Water._ A grappled target is dragged toward the nearest deep water or pit. A target dropped into the underground river is in immediate drowning danger (§7.7.2).
+  - _Drag to Water._ A grappled target is dragged toward the nearest deep water or pit. A target dropped into the underground river is in immediate drowning danger (§8.7.2).
   - _Coordinated Hunters._ Servants hunt in groups of three to six and communicate by gestures and clicks; Easy attacks when three or more flank a single target.
   - _Long Memory._ Once a creature has entered their domain, they remember it. Returning to the same palace decades later means meeting the same servants - and they know what worked last time.
 - **Morale:** Drives off when half their number have fallen, then returns the next night with the rest.
@@ -768,7 +768,7 @@ Gray, hairy, almost-human things that walk upright but speak only a gibberish no
 2. **The Master's Body.** The dead master's body is still in his chamber. A patron will pay enormously to recover it - or to ensure it is never recovered. The Servants will not permit either choice unless a successor to the master is presented to them.
 3. **The Refugee.** A PC's contact has escaped the Servants once before and lives in terror of being taken back. Protecting them means the PCs are now on the Servants' list. The Servants travel further from their palace than the contact thinks.
 
-### 13.7.6 Serpent-Folk
+### 15.7.6 Serpent-Folk
 
 The last of an elder race that ruled the world before humanity rose from the mire. They survived in secret, wrapped in sorceries that disguise them as men, and have spent centuries infiltrating the courts of kings: priests, viziers, generals, bedchamber-favourites. They look human until they want not to; they speak human until alone with their own kind; they remember a world the gods themselves have forgotten.
 
@@ -796,6 +796,6 @@ The last of an elder race that ruled the world before humanity rose from the mir
 
 **Adventure Hooks:**
 
-1. **The Vizier.** The Cunning Vizier (§13.6.2) the PCs have been dealing with is Serpent-Folk. Detection is the first step; deciding what to do with that knowledge is the larger problem. The king will not believe them without proof, and the proof is dangerous to obtain.
+1. **The Vizier.** The Cunning Vizier (§15.6.2) the PCs have been dealing with is Serpent-Folk. Detection is the first step; deciding what to do with that knowledge is the larger problem. The king will not believe them without proof, and the proof is dangerous to obtain.
 2. **The Order.** A nest of Serpent-Folk operates from beneath a city the PCs are visiting - a literal nest, in tunnels below the foreign quarter. A sorcerer PC has detected their presence via Witch Sight. Reporting them means choosing who in the city to trust.
 3. **The Long Game.** A Serpent-Folk the PCs killed years ago in another campaign is back - or, more accurately, a successor has been placed in the same role, executing the same plan with the same patience. The PCs are now part of the records the order keeps.

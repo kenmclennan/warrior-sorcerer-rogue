@@ -16,7 +16,7 @@ WSR is a focused, opinionated extraction of BRP for one specific genre - the swo
 - Theatre-of-mind combat - no grid, no positional measurements
 - Ancient-world setting: bronze and iron, not pseudo-medieval Europe
 
-The book is one volume of thirteen numbered chapters plus five appendices.
+The book is one volume of fifteen numbered chapters plus six appendices.
 
 ## Chapters
 
@@ -30,16 +30,18 @@ The chapter source lives in `chapters/`. The links below open the markdown files
 - [4. Sorcery](chapters/04-sorcery.md)
 - [5. System](chapters/05-system.md)
 - [6. Combat](chapters/06-combat.md)
-- [7. Spot Rules](chapters/07-spot-rules.md)
-- [8. Equipment](chapters/08-equipment.md)
+- [7. Mass Combat](chapters/07-mass-combat.md)
+- [8. Spot Rules](chapters/08-spot-rules.md)
+- [9. Equipment](chapters/09-equipment.md)
+- [10. Herbs, Poisons, and Strange Substances](chapters/10-herbs-poisons-substances.md)
 
 **GM-facing**
 
-- [9. NPCs and Adversaries](chapters/09-npcs-and-adversaries.md)
-- [10. Bestiary](chapters/10-bestiary.md)
-- [11. NPC Sorcery and Patrons](chapters/11-npc-sorcery-and-patrons.md)
-- [12. Treasure and Artifacts](chapters/12-treasure-and-artifacts.md)
-- [13. The Deep Past](chapters/13-the-deep-past.md)
+- [11. NPCs and Adversaries](chapters/11-npcs-and-adversaries.md)
+- [12. Bestiary](chapters/12-bestiary.md)
+- [13. NPC Sorcery and Patrons](chapters/13-npc-sorcery-and-patrons.md)
+- [14. Treasure and Artifacts](chapters/14-treasure-and-artifacts.md)
+- [15. The Deep Past](chapters/15-the-deep-past.md)
 
 **Appendices**
 

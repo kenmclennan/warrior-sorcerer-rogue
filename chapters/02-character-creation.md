@@ -15,7 +15,7 @@ To create a character follow these steps
 9. **Determine Magical Abilities**: POW check; starting spells; talisman (sorcerer-archetype only)
 10. **Determine Starting Equipment**: Take the profession kit; spend starting coin
 
-After all ten steps: answer the Background Questions (§7), agree one significant possession with a story attached (§7.1), and finalise the character sheet (§13).
+After all ten steps: answer the Background Questions (§8), agree one significant possession with a story attached (§8.1), and finalise the character sheet (§15).
 
 ## 2.2 Step 1: Characteristics
 
@@ -85,7 +85,7 @@ The damage modifier applies to all melee and thrown weapon attacks. For thrown a
 
 ### 2.3.4 Movement Rate
 
-**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See §7.8 for chase rules.
+**MOV = 10** for all human characters in base ground movement. MOV is not a distance in metres - it is a relative value used for chase comparisons and mounted movement. See §8.8 for chase rules.
 
 ### 2.3.5 Experience Bonus
 
@@ -238,7 +238,7 @@ Profession is what the character did. The profession provides a starting skill b
 
 **Heroic profession skill points:** Add 325 points distributed across the twelve profession skills. The maximum starting rating for any skill is 75%. Remaining points after all skills are allocated are lost - they cannot be converted to personal skill points or held over.
 
-**Wealth tier:** Each profession lists a starting wealth tier (see §8.1.2).
+**Wealth tier:** Each profession lists a starting wealth tier (see §9.1.2).
 
 **Profession skill bundles are suggestions, not locks.** The profession bundle covers the baseline; Personal Skill points (Step 5) fill out the rest.
 
@@ -271,7 +271,7 @@ Sailor and warrior in one. Raids coastal settlements, knows how to fight on a ro
 A product of urban crime: picking pockets, casing houses, working with fences, and knowing which rooftops connect to which alleys. Has contacts in the underworld and the specific anxiety of someone who lives inside the law's reach.
 
 **Wealth:** Poor
-**Reputation start:** 5% (higher if notorious; see §9)
+**Reputation start:** 5% (higher if notorious; see §11)
 **Profession skills:** Bargain, Climb, Disguise, Dodge, Etiquette (Thieves' Guild), Fine Manipulation, Hide, Insight, Sleight of Hand, Spot, Move Quietly, one of: Fast Talk / Persuade
 
 ### 2.5.5 Wayfarer
@@ -613,7 +613,7 @@ The coin listed above is the character's current working funds. Characters of Af
 
 ### 2.11.3 Additional Equipment
 
-After the profession kit, characters may purchase additional equipment from §8 using their starting coin. The GM may rule that certain items are unavailable at the campaign's starting location.
+After the profession kit, characters may purchase additional equipment from §9 using their starting coin. The GM may rule that certain items are unavailable at the campaign's starting location.
 
 ## 2.12 Background Questions
 

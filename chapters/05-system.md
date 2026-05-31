@@ -2,7 +2,7 @@
 
 This chapter covers the general rules of resolution: how to roll, what the four outcome tiers mean, the special skill rolls (opposed, cooperative, complementary, augment, combined, resistance), time scales, the Power Point economy, the Fate Point spend menu, and how characters improve.
 
-**What's elsewhere.** The skill catalogue is in §3. Combat mechanics are in §6. Sorcery is in §4. The physiological and situational rules - movement and chases, encumbrance, fatigue, hunger, disease, poison, drugs, fire, cold, falling, drowning, mass combat, group stealth - live in §7 Spot Rules and §8 Equipment (§8.11 encumbrance).
+**What's elsewhere.** The skill catalogue is in §3. Combat mechanics are in §6. Sorcery is in §4. The physiological and situational rules - movement and chases, encumbrance, fatigue, hunger, disease, poison, drugs, fire, cold, falling, drowning, mass combat, group stealth - live in §8 Spot Rules and §9 Equipment (§9.11 encumbrance).
 
 ## 5.1 The Percentile Roll
 
@@ -203,7 +203,7 @@ Common resistance contests:
 | STR    | STR     | Raw strength contests                |
 | Damage | CON     | Knockback and stun effects           |
 
-A successful win in a POW vs. POW contest against an opponent with equal or greater POW earns the winner an experience checkmark toward improving POW. See §9.4 for POW improvement.
+A successful win in a POW vs. POW contest against an opponent with equal or greater POW earns the winner an experience checkmark toward improving POW. See §11.4 for POW improvement.
 
 ## 5.4 Time
 
@@ -267,7 +267,7 @@ Power Points are spent by:
 - **Other Fate Point spends (§5.6).** Fixed-cost spends from the menu - re-rolls, defensive responses, forcing a success.
 - **Talents (§2.4).** Certain talent abilities have a PP cost listed in their description.
 
-Named antagonists and competent NPC foes have their own PP pools, spent under the same rules. Rabble have no PP and no access to any PP-spend ability. See §9.1 for the NPC tier model.
+Named antagonists and competent NPC foes have their own PP pools, spent under the same rules. Rabble have no PP and no access to any PP-spend ability. See §11.1 for the NPC tier model.
 
 ## 5.6 Fate Point Spends
 

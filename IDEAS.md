@@ -54,3 +54,43 @@ Open questions:
 - Pacing: when can a bane fire? Always at the worst moment (GM judgement) or constrained (only when the party is in a public place, only during a downtime scene, etc.)?
 - Player visibility: total secret, or does the player know "something happened" and just not what?
 - Interaction with the Reputation track - a route-bane might raise local Reputation in a specific city if the bandits told the story before being killed.
+
+## Play framework: sessions, adventures, campaigns, and GM guidance
+
+WSR has the genre design DNA in `design.md` (hook → complications → reckoning, theatre-of-mind, anti-heroes with personal codes) but no formal _framework chapter_ that gives the GM the tools to run play at scale. This is the missing GM-facing toolkit.
+
+What's needed:
+
+**Terminology.** Pin down the unit-words and use them consistently across the book.
+
+- **Session**: one sitting at the table. Three to four hours of play.
+- **Adventure** (or **Episode**): a single self-contained storyline - hook, complications, reckoning. Typically spans one to three sessions. The episode framing is genre-native: Conan stories, Fafhrd & Grey Mouser stories, Elric stories are nearly all self-contained.
+- **Arc**: a series of adventures linked by a recurring antagonist, theme, or quest. Three to six adventures.
+- **Campaign**: the full life of the characters. Multiple arcs.
+
+These terms recur in §7.3.2 Addiction ("within a single adventure"), §A2 (Karash's example crosses three sessions), and various rules tied to recovery time. Today they are used loosely; should be defined and applied consistently.
+
+**Travel rules.** See the Picaresque travel: banes and boons entry above. Travel between locations is part of this framework.
+
+**Adventure structure guidance.** Codify the hook → complications → reckoning pattern from design.md as a workable how-to-build-an-adventure section. Give the GM a checklist: pick a hook that hits a Passion, plan two complications (one external, one internal), prepare three possible reckonings (costly success, partial success, expensive escape). §A5.1 already does this informally; deserves a proper rules-side codification.
+
+**Campaign structure guidance.** When and how to escalate. When recurring antagonists return. How a Patron Score is supposed to progress over a campaign (if patrons return in §12). How Corruption-equivalent stakes accumulate. When to retire a character. When the campaign ends.
+
+**Random tables and content generators.** WSR already has the Deep Past generator (§14.1-14.3) but campaign play needs more:
+
+- City-scale encounters and rumour tables
+- Wilderness encounters by terrain type
+- Tavern/temple/marketplace scene generators
+- Rival/ally name generators (§A4 has names; could extend to NPC quick-generators)
+- "What does this NPC want?" prompt tables
+- "What goes wrong on the road?" tables (overlapping with Picaresque travel)
+
+**Genre-fit advice.** Sword & sorcery is not D&D. The book should explicitly call out the differences for GMs coming from longer-form fantasy: anti-heroes, no party balance, fortune wheels and reversal, the GM as collaborator in the protagonist's downfall and recovery, the tone of complications (theft, betrayal, broken oaths) rather than dungeon crawls.
+
+Open questions:
+
+- Where does this live? A new GM-facing chapter after §A5? Or fold into an expanded §A5? Or its own section in §13 Treasure / §14 Deep Past adjacency?
+- Is "Adventure" or "Episode" the better term? Episode reads more genre-correct (Howard wrote episodes); Adventure is the established RPG term.
+- How prescriptive should the structure advice be? Too prescriptive and it constrains GM creativity; too loose and it doesn't help.
+- Random tables: bake them in or leave as a separate generator appendix?
+- Should there be sample adventures/arcs as worked examples, in the spirit of §A2 / §A5?

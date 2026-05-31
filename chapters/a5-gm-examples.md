@@ -3,7 +3,7 @@
 > _"Men of the waste lands were not accustomed to the subtleties of civilized intrigue, but they could read signs."_
 > _- Robert E. Howard_
 
-Worked examples on the GM side of the book - the tools in §9-§13 applied to a single session. Player-facing counterpart is §A2; cross-references are noted where situations appear in both.
+Worked examples on the GM side of the book - the tools in §9-§15 applied to a single session. Player-facing counterpart is §A2; cross-references are noted where situations appear in both.
 
 Characters from §A2 (Khess the Knife, Orryn, and Karash) appear throughout.
 
@@ -23,17 +23,17 @@ The GM reviews the Passion lists from last session's sheets.
 
 Three usable hooks: the Syndicate (Khess's Hatred 80%); the Pit Lords (Orryn's Hatred 75%); patron communication (Karash's Dread 60%). The hook should engage at least one Passion directly. The GM chooses the Syndicate - Khess's Hatred at 80% is the highest Passion in the group and has not yet been directly resolved.
 
-### A5.1.2 Using the §13 Generator: A Small Fallen Empire Hit
+### A5.1.2 Using the §15 Generator: A Small Fallen Empire Hit
 
-The GM rolls on §13.1 and §13.2 for a fallen empire profile to seat the adventure in.
+The GM rolls on §15.1 and §15.2 for a fallen empire profile to seat the adventure in.
 
-**Who they were (§13.1.1):** Roll D6 = 4. **Scholarly.** A civilisation that valued knowledge above all things, studied the wrong things, and the wrong things studied them back.
+**Who they were (§15.1.1):** Roll D6 = 4. **Scholarly.** A civilisation that valued knowledge above all things, studied the wrong things, and the wrong things studied them back.
 
-**What they did (§13.1.2):** Roll D6 = 3. **Perfected a form of sorcery.** They encoded it into their architecture. Their ruins still carry it.
+**What they did (§15.1.2):** Roll D6 = 3. **Perfected a form of sorcery.** They encoded it into their architecture. Their ruins still carry it.
 
-**What destroyed them (§13.1.3):** Roll D6 = 2. **Sorcerous backlash.** The encoded sorcery reversed catastrophically. The ruins carry residue that sorcerers feel immediately.
+**What destroyed them (§15.1.3):** Roll D6 = 2. **Sorcerous backlash.** The encoded sorcery reversed catastrophically. The ruins carry residue that sorcerers feel immediately.
 
-**What they left (§13.1.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (Witch Sight reveals it immediately).
+**What they left (§15.1.4):** The GM rules the ruins are a collapsed archive - a library-vault beneath the current merchant quarter, accessible through a warehouse basement. Upper sections looted for stone; lower sections intact and sealed by an ancient Ward (Witch Sight reveals it immediately).
 
 **What this gives the GM:** The Serpent Syndicate uses the archive as a private document vault - stumbled on the lower entrance three years ago and has no idea what they are sitting on. The ancient wall-encoding is starting to behave strangely now that the Syndicate is burning lamp oil and storing sorcerously-adjacent documents there. This is the background the PCs do not know.
 
@@ -73,9 +73,9 @@ _Have all three in mind; run whichever the fiction arrives at._
 
 ### A5.1.6 One NPC Built for the Session
 
-The GM needs the Syndicate clerk: Perrak, a professional (§9.1.2) - document forger, self-taught sorcerous dabbler.
+The GM needs the Syndicate clerk: Perrak, a professional (§11.1.2) - document forger, self-taught sorcerous dabbler.
 
-_Perrak's stat block is drafted in fifteen minutes using §9.3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10). He has Witch Sight as his only ready spell and uses it obsessively to check for intruders - which is how the secondary casting residue in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and the room is starting to remember._
+_Perrak's stat block is drafted in fifteen minutes using §11.3's professional format: characteristics, weapon skill, key profession skills (Forgery, Deceive, Fast Talk), limited PP (5 - half his POW of 10). He has Witch Sight as his only ready spell and uses it obsessively to check for intruders - which is how the secondary casting residue in the archive is his, not a third party's. The complication evaporates into something more mundane: Perrak has been casting in there every night, and the room is starting to remember._
 
 The archive is now "dangerous known plus Perrak's unknowing amplification" rather than "dangerous unknown" - more human, and the PCs' choice about Perrak is a genuine moral one. Turn him in alongside the forged document. Let him go. Warn him what the walls are doing with his castings. That call belongs to the players.
 
@@ -83,11 +83,11 @@ The archive is now "dangerous known plus Perrak's unknowing amplification" rathe
 
 _G4 §1 framework applied to a mid-tier patron-bonded sorcerer as named antagonist. Drop into any scenario involving a regional cult or a patron's local instrument._
 
-> **Note.** This worked example uses **patron compact** mechanics that are now GM-side only and described in §11 (NPC Sorcery and Patrons). Player-side sorcery (§4) no longer references patrons; patrons exist as an option the GM can apply to NPC sorcerers to give them an extra resource and an extra leash. If §11 changes the patron mechanics, treat this example as illustrative rather than authoritative.\_
+> **Note.** This worked example uses **patron compact** mechanics that are now GM-side only and described in §13 (NPC Sorcery and Patrons). Player-side sorcery (§4) no longer references patrons; patrons exist as an option the GM can apply to NPC sorcerers to give them an extra resource and an extra leash. If §13 changes the patron mechanics, treat this example as illustrative rather than authoritative.\_
 
 ### A5.2.1 The Three Questions First
 
-Per §11.1.1, start with three questions before touching statistics.
+Per §13.1.1, start with three questions before touching statistics.
 
 **Question 1 - How much has this sorcerer paid?**
 
@@ -141,7 +141,7 @@ She fights in emergencies only.
 
 ### A5.2.4 Patron Compact: The Charnel Heir
 
-Ysolde is bonded to the Charnel Heir (§11.4.3). The relevant mechanics:
+Ysolde is bonded to the Charnel Heir (§13.4.3). The relevant mechanics:
 
 - **Patron Score:** 28. PP reserve: up to 3 PP per draw, three times per session.
 - **Demands she is actively fulfilling:** "Advance the lineage" (she is hunting the bloodline artifact); "Read the record" (monthly commune, which she finds increasingly distressing).
@@ -190,7 +190,7 @@ Dagger: 30%, damage 1D4+2
 Key skills: Knowledge (Preternatural Lore) 70%, Knowledge (History) 65%,
   Research 65%, Insight 55%, Deceive 50%, Persuade 45%
 
-Patron: The Charnel Heir, Patron Score 28 (see §11; patron mechanics are GM-side)
+Patron: The Charnel Heir, Patron Score 28 (see §13; patron mechanics are GM-side)
 
 Spells loaded: Witch Sight (3), Veil of the Ancient (3),
   Liken Shape (4), Inescapable Bonds (3), Bird's Eye (1),
@@ -202,11 +202,11 @@ Fate Point access: Yes (full named-antagonist PP pool, spends normally).
 
 ## A5.3 Running a Chase Scene at the Table
 
-_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: §7.8._
+_Khess has been spotted in the Syndicate archive. Two professional enforcers and a Rabble (on horseback) pursue her through the merchant quarter's narrow streets. Three rounds, one conclusion. Framework: §8.8._
 
 ### A5.3.1 Set-Up
 
-**Establish the six elements (§7.8.1):**
+**Establish the six elements (§8.8.1):**
 
 1. **Starting positions:** Khess was discovered in the archive's lower approach. She had thirty seconds' head start before the alarm went up. Starting position: **Engaged** (she is visible, they are closing).
 
@@ -236,7 +236,7 @@ _Result: Pursuer failed, quarry succeeded. Position shifts one step further away
 
 Khess reaches the chandler's shop. The low roof connection is her planned escape route.
 
-**The GM calls an obstacle roll:** Climb (§7.8.2). Khess has Climb 61%. She rolls **45** - success.
+**The GM calls an obstacle roll:** Climb (§8.8.2). Khess has Climb 61%. She rolls **45** - success.
 
 **Lead enforcer Climb roll** (his Climb is 40%): rolls **67** - failure. He fails the obstacle - loses one additional position from the standard result.
 

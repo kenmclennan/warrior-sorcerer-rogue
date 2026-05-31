@@ -1,8 +1,8 @@
-# 8 Equipment
+# 9 Equipment
 
-## 8.1 Currency
+## 9.1 Currency
 
-### 8.1.1 Coins
+### 9.1.1 Coins
 
 WSR uses a four-tier coin system. The names given here are generic; any GM can substitute the coinage of a specific culture in play.
 
@@ -15,7 +15,7 @@ WSR uses a four-tier coin system. The names given here are generic; any GM can s
 
 **Reading prices:** Most gear in this chapter is priced in Drams. Weapons and armour tend to range in Staters. A Sun is a merchant's transaction or a year's income for a labourer.
 
-### 8.1.2 Economy Primer
+### 9.1.2 Economy Primer
 
 Five wealth tiers describe a character's standing and roughly translate to coin on hand. Not a hard cap - a Destitute character can still find a patron, win a bet, or steal - but they anchor starting equipment and the baseline of what ordinary life costs.
 
@@ -29,20 +29,20 @@ Five wealth tiers describe a character's standing and roughly translate to coin 
 
 **Daily costs of living:** A plain meal and a place to sleep costs roughly 1-2 Drams per day at Poor conditions. An average inn runs 2-5 Drams for bed and meal. A good inn runs 1-2 Staters per night.
 
-### 8.1.3 Starting Equipment
+### 9.1.3 Starting Equipment
 
 At character creation, starting equipment is purchased using the character's starting Wealth tier (defined in §2.6). The GM may also allocate specific items thematically - a sea-raider starts with appropriate kit even before any coin is counted.
 
-## 8.2 Weapons
+## 9.2 Weapons
 
-### 8.2.1 Reading the Weapon Tables
+### 9.2.1 Reading the Weapon Tables
 
 Each weapon entry lists:
 
 - **Damage:** Dice rolled, plus damage modifier (dm) where applicable. The dm is derived from STR and SIZ (see §2.3.1).
 - **SR (Strike Rank):** The weapon's position in the initiative sequence. Lower SR acts sooner.
 - **Hands:** 1H (one-handed), 2H (two-handed), or 1H/2H (can be used either way).
-- **ENC:** Encumbrance. See §8.11 for the encumbrance rules.
+- **ENC:** Encumbrance. See §9.11 for the encumbrance rules.
 - **HP:** The weapon's own hit points (for the purposes of parrying and weapon destruction).
 - **Parry:** Whether the weapon can be used to parry an incoming blow.
 - **STR/DEX:** Minimum STR and DEX required to use the weapon effectively. A character below these values takes a -20% penalty.
@@ -54,7 +54,7 @@ Each weapon entry lists:
 
 **Narrative range:** Weapon reach is described as Short (arm's length), Medium (sword reach), Long (spear reach), or All (the quarterstaff's versatility). These interact with combat spacing as described in §6.6.5.
 
-### 8.2.2 Melee Weapons
+### 9.2.2 Melee Weapons
 
 #### Unarmed and Improvised
 
@@ -144,7 +144,7 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 **Garrote:** On a successful grapple from behind, the garrote pins the target's throat. Each round the garrote is held, the target takes 1D3 damage directly to HP (no armour applies) and must make a Difficult CON roll or fall unconscious from asphyxiation.
 
-### 8.2.3 Missile Weapons
+### 9.2.3 Missile Weapons
 
 | Weapon             | Damage      | SR  | Hands | Attk | ENC | HP  | Range  | STR/DEX | Special  | Cost    |
 | ------------------ | ----------- | --- | ----- | ---- | --- | --- | ------ | ------- | -------- | ------- |
@@ -168,7 +168,7 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 **Bow, Composite:** The premier cavalry weapon of the ancient steppe - short enough to use from horseback, powerful enough to punch through light armour at range. More expensive than a self-bow or longbow due to its laminated horn-and-sinew construction. Requires a strong draw hand (STR 13 minimum).
 
-**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See §7.2 for poison rules.
+**Blowgun:** Darts are frequently poisoned. The blowgun's own damage is almost irrelevant; its value is delivering a coated dart across the room without obvious motion. See §8.2 for poison rules.
 
 **Bola and Lasso:** The bola entangles the target's legs on a hit (Difficult DEX roll or fall prone). It can also be used as a damaging throw (use the listed damage). The thrown lasso entangles on a hit; the target makes a Difficult STR or DEX roll to break free.
 
@@ -176,7 +176,7 @@ The **blackjack** (a small cosh of leather and lead or stone) is a rogue's tool 
 
 **Range bands:** Short = arm's throw distance; Medium = javelin range; Long = bow range; Far = extreme bow range. The GM narrates these as fiction. Shooting at longer than the listed range imposes a Difficult penalty.
 
-### 8.2.4 Weapon Quality
+### 9.2.4 Weapon Quality
 
 Three quality levels affect weapons:
 
@@ -188,17 +188,17 @@ Three quality levels affect weapons:
 
 Superior weapons also tend to have slightly higher HP (add 2-4 at the GM's discretion). They may carry makers' marks, names, and reputation in the fiction.
 
-## 8.3 Armour
+## 9.3 Armour
 
-### 8.3.1 How Armour Works
+### 9.3.1 How Armour Works
 
 Armour provides **Armour Points (AP)** - a flat reduction applied to any damage the wearer takes before HP are subtracted. WSR uses a single AP value per armour piece, not per-location ratings. When a hit lands, subtract the armour's AP from the damage; the remainder reaches the wearer's HP.
 
-Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Climb, Brawl, Dodge, Move Quietly, Swim, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §7.1).
+Armour has a **Skill Modifier** - a percentage penalty applied to all physical skills (Climb, Brawl, Dodge, Move Quietly, Swim, and similar) while worn. Sorcerers also note that armour ENC contributes to the iron-vs-sorcery penalty (see §8.1).
 
 **Layering:** Soft armour (leather, padded, linen cuirass) may be worn under hard armour. Add their AP values. However, layering adds the ENC of both pieces, and any skill modifier from the outer armour is used at full (not combined). Layering hard armour under hard armour is impractical and not supported.
 
-### 8.3.2 Putting On and Removing Armour
+### 9.3.2 Putting On and Removing Armour
 
 Armour takes time to don properly. Rushing or abandoning armour mid-combat is possible but leaves gaps.
 
@@ -207,7 +207,7 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 - Helmets are always 1 round to don or remove.
 - A character can strip armour in pieces during combat but until a piece is fully removed, it counts as worn.
 
-### 8.3.3 Armour Table
+### 9.3.3 Armour Table
 
 | Armour               | AP  | ENC | Skill Modifier | Notes                                                      | Cost        |
 | -------------------- | --- | --- | -------------- | ---------------------------------------------------------- | ----------- |
@@ -237,7 +237,7 @@ Armour takes time to don properly. Rushing or abandoning armour mid-combat is po
 
 **Bronze, Iron, and Steel.** WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. A bronze cuirass and an iron mail shirt offer the same protection; the difference is supply, status, and culture. Iron is the equipment of the standing army, the city watch, the conscript spear-host. Bronze is the heroic panoply of the aristocrat, the temple guard, and the traditionalist warrior cultures - rust-proof, often decorated, with the prestige of tin-trade wealth behind it. **Steel** - properly carburised iron, pattern-welded or crucible-forged - is the genuine technological leap, and the only metal that grants a real AP edge over either of its predecessors. Steel mail is rare, expensive, and a visible mark of someone whose backer can afford it. For the iron-vs-sorcery rule (§4.5), steel counts as iron - the sorcerous current finds the metal regardless of carbon content.
 
-### 8.3.4 Helmets
+### 9.3.4 Helmets
 
 Helmets are purchased separately and provide additional AP to the wearer's head. A helmet's AP stacks with the body armour AP against any hit; however, if the GM narrates a blow that specifically targeted an exposed head (through an open-faced helm, for instance), only the helmet's AP applies.
 
@@ -251,15 +251,15 @@ Helmets are purchased separately and provide additional AP to the wearer's head.
 
 A crested helm does not add AP but marks its wearer as a person of note. In settings where reputation matters, it may grant a +5% to social skills when appearing before those who respect martial display.
 
-### 8.3.5 Armour Repair
+### 9.3.5 Armour Repair
 
 Leather armour is repaired with a Craft (Leather) roll and appropriate materials. Metal armour requires Craft (Armourer) and access to a forge; field repairs restore partial AP at the GM's discretion. Full restoration of badly damaged armour always requires a smithy and time.
 
-## 8.4 Shields
+## 9.4 Shields
 
 Shields are both defensive tools and weapons. They provide Armour Points when used to parry, and a parry bonus to the Shield skill.
 
-### 8.4.1 Shield Table
+### 9.4.1 Shield Table
 
 | Shield       | AP  | HP  | ENC | Parry Bonus | STR/DEX | Notes                                      | Cost        |
 | ------------ | --- | --- | --- | ----------- | ------- | ------------------------------------------ | ----------- |
@@ -279,13 +279,13 @@ Shields are both defensive tools and weapons. They provide Armour Points when us
 
 **Slung shield:** A shield carried on the back provides half its AP (round up) against hits from behind, without requiring any defensive action.
 
-## 8.5 Material Tiers
+## 9.5 Material Tiers
 
 WSR's metallurgy follows the historical reality that iron was not inherently superior to bronze - just cheaper and more widely available. The Bronze-to-Iron transition in the ancient world was driven by tin-trade collapse, not blade quality. Wrought iron is in fact softer than work-hardened bronze; the bent iron swords of the early Iron Age are real (Polybius and Plutarch both describe Celtic warriors stepping on their blades mid-battle to straighten them). The genuine technological leap of antiquity was **steel** - properly carburised iron, pattern-welded or crucible-forged.
 
 Four material tiers govern weapons and armour: copper (inferior, primitive), bronze (standard, prestigious), iron (standard, cheap), and steel (the master smith's edge).
 
-### 8.5.1 Copper
+### 9.5.1 Copper
 
 Copper predates bronze; found in primitive cultures or as cheap trade goods. Soft, dulls quickly, dents under stress.
 
@@ -294,20 +294,20 @@ Copper predates bronze; found in primitive cultures or as cheap trade goods. Sof
 - **Durability:** HP halved (round up).
 - **Cost:** One-third of the bronze price.
 
-### 8.5.2 Bronze
+### 9.5.2 Bronze
 
 The traditional metal of the ancient world. All stats in §§2-4 assume bronze construction. Tin-trade wealth, heroic panoply, often ornate and decorated. Rust-proof, holds an edge well, can be cast into complex shapes (the khopesh, the muscle cuirass). Common among aristocrats, royal guards, and traditionalist warrior cultures.
 
-### 8.5.3 Iron
+### 9.5.3 Iron
 
 Iron is cheaper than bronze and more widely available - any village with bog ore can produce it. Despite the conventional fantasy assumption, wrought iron is not mechanically superior to bronze: it is softer and more prone to bending in heavy use. Iron became dominant in antiquity because of supply and economy, not blade quality.
 
 - **Weapons and armour:** Mechanically identical to bronze.
 - **Cost:** One Cost tier cheaper than bronze (Average -> Inexpensive; Inexpensive -> Cheap; Cheap stays Cheap).
 
-Iron has one inherent property bronze lacks: it disrupts sorcery. See §7.1.
+Iron has one inherent property bronze lacks: it disrupts sorcery. See §8.1.
 
-### 8.5.4 Steel
+### 9.5.4 Steel
 
 Steel - carburised iron, pattern-welded or crucible-forged - is the genuine technological leap. Roman noric steel, Indian wootz, Damascus crucible steel were genuinely superior to both bronze and wrought iron. A steel blade holds its edge through battle without bending; steel armour turns blows that bronze or iron would not.
 
@@ -317,15 +317,15 @@ Steel - carburised iron, pattern-welded or crucible-forged - is the genuine tech
 
 Steel weapons and armour are rare. Most warriors never own one. Finding a steel piece is a meaningful event - the gleam of the steel is the master-craft signature.
 
-For the iron-vs-sorcery rule (§7.1), steel counts as iron. The sorcerous current finds the metal regardless of carbon content.
+For the iron-vs-sorcery rule (§8.1), steel counts as iron. The sorcerous current finds the metal regardless of carbon content.
 
-### 8.5.5 Enchanted Iron and Steel
+### 9.5.5 Enchanted Iron and Steel
 
-An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in §12.
+An iron or steel item consecrated through a proper sorcerous ritual (dedicated to a patron, bound by formula, harmonised with the sorcerous current) loses the sorcery disruption property while retaining its material advantages. The ritual process is described in §14.
 
-## 8.6 Mundane Gear
+## 9.6 Mundane Gear
 
-### 8.6.1 Clothing
+### 9.6.1 Clothing
 
 Clothing is social armour. Fine clothes matter in courts and markets; rough traveling gear matters on the road. Clothing quality tiers are: Plain (half listed cost), Standard, Good (2-3 times), Fine (5-10 times), Noble (10-50 times). Only the standard cost is listed.
 
@@ -346,7 +346,7 @@ Clothing is social armour. Fine clothes matter in courts and markets; rough trav
 
 Items marked - for ENC weigh too little to track individually. Ten such items together count as 1 ENC.
 
-### 8.6.2 Tools
+### 9.6.2 Tools
 
 | Item                     | Cost (Drams) | ENC | Notes                                     |
 | ------------------------ | ------------ | --- | ----------------------------------------- |
@@ -363,7 +363,7 @@ Items marked - for ENC weigh too little to track individually. Ten such items to
 | Toolkit, Thief           | 20           | 1   | Picks, files, pry tools                   |
 | Whetstone                | 2            | -   | Restores blade edge                       |
 
-### 8.6.3 Writing and Records
+### 9.6.3 Writing and Records
 
 | Item                       | Cost (Drams) | ENC | Notes                                           |
 | -------------------------- | ------------ | --- | ----------------------------------------------- |
@@ -374,7 +374,7 @@ Items marked - for ENC weigh too little to track individually. Ten such items to
 | Wax Tablet                 | 5            | -   | Reusable; wooden frame                          |
 | Writing Reed / Stylus      | 1            | -   |                                                 |
 
-### 8.6.4 Containers
+### 9.6.4 Containers
 
 | Item              | Cost (Drams) | ENC      | Notes                                |
 | ----------------- | ------------ | -------- | ------------------------------------ |
@@ -393,7 +393,7 @@ Items marked - for ENC weigh too little to track individually. Ten such items to
 | Waterskin         | 2            | 1 (full) | 1 day's water; negligible when empty |
 | Wineskin          | 3            | 1 (full) |                                      |
 
-### 8.6.5 Light Sources
+### 9.6.5 Light Sources
 
 | Item              | Cost (Drams) | ENC | Burn Time             | Notes                                    |
 | ----------------- | ------------ | --- | --------------------- | ---------------------------------------- |
@@ -401,12 +401,12 @@ Items marked - for ENC weigh too little to track individually. Ten such items to
 | Lamp, Clay        | 1            | -   | 6 hours per oil flask | Cheap; fragile; burns olive oil          |
 | Lamp, Bronze      | 4            | -   | 6 hours per oil flask | More durable; steady flame               |
 | Lantern, Hooded   | 10           | 1   | 6 hours per oil flask | Directable beam; windproof               |
-| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see §7.4)     |
+| Oil, Lamp (flask) | 2            | 1   | 6 hours               | Also useful as incendiary (see §8.4)     |
 | Torch             | -            | 1   | 1 hour                | Obvious; hard to hide; good bright light |
 
 A dash (-) in the Cost column means the item is too inexpensive to track by the Dram - a handful of coin covers it. Ten such items count as 1 Dram for purchasing purposes.
 
-### 8.6.6 Rope and Cordage
+### 9.6.6 Rope and Cordage
 
 | Item                     | Cost (Drams) | ENC | Notes                         |
 | ------------------------ | ------------ | --- | ----------------------------- |
@@ -418,7 +418,7 @@ A dash (-) in the Cost column means the item is too inexpensive to track by the 
 | Rope, Silk (10 m)        | 20           | 1   | Lighter; holds ~75 kg         |
 | Wire, Bronze (per metre) | 1            | -   | Snares; lashings              |
 
-### 8.6.7 Adventuring Supplies
+### 9.6.7 Adventuring Supplies
 
 | Item                    | Cost (Drams) | ENC | Notes                                                          |
 | ----------------------- | ------------ | --- | -------------------------------------------------------------- |
@@ -435,7 +435,7 @@ A dash (-) in the Cost column means the item is too inexpensive to track by the 
 | Tent, Group (6 persons) | 40           | 10  |                                                                |
 | Tinderbox               | 4            | -   | Flint, steel, tinder; more reliable than flint and steel alone |
 
-### 8.6.8 Food and Drink
+### 9.6.8 Food and Drink
 
 Prices are per unit as described.
 
@@ -453,7 +453,7 @@ Prices are per unit as described.
 | Wine, amphora                 | 10           | High-quality storage vessel; ~20 litres |
 | Wine, cup                     | -            | Tavern; typically watered               |
 
-### 8.6.9 Herbs, Medicines, and Musical Instruments
+### 9.6.9 Herbs, Medicines, and Musical Instruments
 
 | Item                | Cost         | ENC | Notes                                                |
 | ------------------- | ------------ | --- | ---------------------------------------------------- |
@@ -467,9 +467,9 @@ Prices are per unit as described.
 | Horn / Trumpet      | 10 Drams     | 1   | Signaling and performance                            |
 | Lute / Lyre         | 15 Drams     | 2   | String instrument                                    |
 
-## 8.7 Mounts
+## 9.7 Mounts
 
-### 8.7.1 Riding and Working Animals
+### 9.7.1 Riding and Working Animals
 
 The prices below reflect standard market animals. War-trained animals - horses accustomed to the noise and press of battle, camels bred for desert endurance - may cost two to three times the listed price.
 
@@ -486,11 +486,11 @@ The prices below reflect standard market animals. War-trained animals - horses a
 
 **War Horse:** Trained to carry an armoured rider into combat and respond to knee pressure when the rider's hands are occupied. Untrained horses near combat must make a CON roll (Easy for loud noise, Average for combat nearby, Difficult for close melee) or bolt.
 
-**War Elephant:** Tramples, gores, and routs enemy troops and horses. Enemy troops (and horses) must make a Difficult Luck or Morale roll when first confronted with war elephants. A routing elephant turns on its own side. Requires dedicated handlers and a mahout specialist (see §11).
+**War Elephant:** Tramples, gores, and routs enemy troops and horses. Enemy troops (and horses) must make a Difficult Luck or Morale roll when first confronted with war elephants. A routing elephant turns on its own side. Requires dedicated handlers and a mahout specialist (see §13).
 
 **Move** descriptions: Very Slow = roughly half walking pace; Slow = walking pace; Normal = horse-and-rider pace at a sustainable canter; Fast = cavalry charge pace, sustainable for short distances only.
 
-### 8.7.2 Riding Gear
+### 9.7.2 Riding Gear
 
 | Item                           | Cost        | ENC | Notes                                   |
 | ------------------------------ | ----------- | --- | --------------------------------------- |
@@ -503,9 +503,9 @@ The prices below reflect standard market animals. War-trained animals - horses a
 
 **Stirrups:** Not universally available. Many ancient cultures rode without them. The GM decides whether stirrups exist in the current setting. If available, stirrups cost 10 Drams and provide +10% to Ride skill for mounted combat.
 
-## 8.8 Vehicles
+## 9.8 Vehicles
 
-### 8.8.1 Land Vehicles
+### 9.8.1 Land Vehicles
 
 | Vehicle             | Cost        | Draft Animals    | Passengers / Cargo              | Move      | Notes                                 |
 | ------------------- | ----------- | ---------------- | ------------------------------- | --------- | ------------------------------------- |
@@ -527,7 +527,7 @@ The prices below reflect standard market animals. War-trained animals - horses a
 - Bronze-rimmed wheels: +2 trampling damage; 15 Drams
 - Quick-release traces: unyoke on a successful Drive roll; 6 Drams
 
-### 8.8.2 Vehicle HP and Armour
+### 9.8.2 Vehicle HP and Armour
 
 | Vehicle        | HP    | AP  | Notes       |
 | -------------- | ----- | --- | ----------- |
@@ -537,9 +537,9 @@ The prices below reflect standard market animals. War-trained animals - horses a
 
 Vehicles are not destroyed at 0 HP but become non-functional (wheel collapses, axle shatters). Animals pulling a destroyed vehicle are not automatically harmed.
 
-## 8.9 Watercraft
+## 9.9 Watercraft
 
-### 8.9.1 Vessel Table
+### 9.9.1 Vessel Table
 
 | Vessel            | Structure | Length | Cargo | Crew | Cost                   | Notes                       |
 | ----------------- | --------- | ------ | ----- | ---- | ---------------------- | --------------------------- |
@@ -557,7 +557,7 @@ Vehicles are not destroyed at 0 HP but become non-functional (wheel collapses, a
 
 **Structure Points** function like HP for the vessel; at 0 the vessel is sinking or wrecked. The Pilot skill governs vessel handling. Heavy weather, rocks, and combat may damage a vessel directly.
 
-### 8.9.2 Travel Rates
+### 9.9.2 Travel Rates
 
 | Condition                  | Rate            |
 | -------------------------- | --------------- |
@@ -568,7 +568,7 @@ Vehicles are not destroyed at 0 HP but become non-functional (wheel collapses, a
 
 These rates assume favourable conditions. The GM may adjust for storms, head winds, currents, or navigation difficulty.
 
-### 8.9.3 Boat Passage Prices
+### 9.9.3 Boat Passage Prices
 
 | Route                       | Accommodation | Cost                                 |
 | --------------------------- | ------------- | ------------------------------------ |
@@ -579,9 +579,9 @@ These rates assume favourable conditions. The GM may adjust for storms, head win
 | Whole ship hire             | -             | 40-60 Drams/trip                     |
 | Animal on deck              | -             | Double human cost + 2 Drams/day feed |
 
-## 8.10 Hirelings and Inn Prices
+## 9.10 Hirelings and Inn Prices
 
-### 8.10.1 Common Services and Hirelings
+### 9.10.1 Common Services and Hirelings
 
 Hirelings are contracted by the day or week. Equipment not included unless negotiated - a hired mercenary provides their own weapons and armour; the employer provides food and lodgings.
 
@@ -601,7 +601,7 @@ Hirelings are contracted by the day or week. Equipment not included unless negot
 
 **Loyalty:** Hirelings serve the agreed terms. They will not follow PCs into obviously suicidal situations for standard pay. Bonus pay, Reputation, and Passion mechanics (§3) affect hireling loyalty at the GM's discretion.
 
-### 8.10.2 Inn Prices
+### 9.10.2 Inn Prices
 
 | Quality    | Bed             | Meal       | Stabling (per night) |
 | ---------- | --------------- | ---------- | -------------------- |
@@ -612,11 +612,11 @@ Hirelings are contracted by the day or week. Equipment not included unless negot
 
 A flophouse is a shared floor and a questionable blanket. A decent inn has private rooms. A good inn has private rooms, a separate stable yard, and a proper cook.
 
-## 8.11 Encumbrance
+## 9.11 Encumbrance
 
-### 8.11.1 The ENC System
+### 9.11.1 The ENC System
 
-Encumbrance (ENC) measures the physical burden a character carries. It governs overload penalties and (for sorcerers) the iron-vs-sorcery calculation (see §7.1). Significant items count as 1 ENC or more; very small items individually count as negligible but accumulate.
+Encumbrance (ENC) measures the physical burden a character carries. It governs overload penalties and (for sorcerers) the iron-vs-sorcery calculation (see §8.1). Significant items count as 1 ENC or more; very small items individually count as negligible but accumulate.
 
 **ENC guidelines:**
 
@@ -629,7 +629,7 @@ Encumbrance (ENC) measures the physical burden a character carries. It governs o
 
 Use the ENC values listed in the weapon and armour tables. If an item does not have a listed ENC, the GM assigns one using the table above.
 
-### 8.11.2 Carry Capacity
+### 9.11.2 Carry Capacity
 
 A character can carry ENC up to their STR score without penalty. Beyond that:
 
@@ -642,6 +642,6 @@ A character can carry ENC up to their STR score without penalty. Beyond that:
 
 **Worn armour:** Armour worn on the body contributes half its ENC to the carry total (armour worn is supported by the body, not carried in the hands). Armour carried in a pack counts at full ENC.
 
-### 8.11.3 STR, SIZ, and Heavy Loads
+### 9.11.3 STR, SIZ, and Heavy Loads
 
 Characters with both high STR and high SIZ carry more naturally. At the GM's option, characters whose SIZ exceeds their STR may use SIZ instead for the carry capacity baseline.

@@ -326,7 +326,7 @@ The sorcerer crafts a small inert object - a black jade ball, a polished disc, a
 1. The named victim touches the token with bare skin.
 2. The sorcerer is still alive.
 
-When both conditions are satisfied, the token transforms in the victim's hand into a small venomous creature - a spider, a viper, a scorpion - which immediately strikes the victim. The bite or sting does 1D6 damage and forces a Stamina roll against POT 12 venom (§7.2). On a failure, the victim suffers the full POT in HP damage. On a success, half POT.
+When both conditions are satisfied, the token transforms in the victim's hand into a small venomous creature - a spider, a viper, a scorpion - which immediately strikes the victim. The bite or sting does 1D6 damage and forces a Stamina roll against POT 12 venom (§8.2). On a failure, the victim suffers the full POT in HP damage. On a success, half POT.
 
 The token does nothing in any other hand. A wary attendant who picks it up first feels only a smooth stone or a worked bone. Only the named target triggers the working.
 
@@ -402,7 +402,7 @@ Cast on a single slashing weapon with one or more cutting edges - sword, axe, gl
 
 Cast on a single impaling weapon - spear, dagger, rapier, javelin, or similar - the spell adds +1 to each damage roll per level, up to the maximum damage possible for that weapon. The wielder's damage modifier is rolled separately and is unaffected.
 
-The spell does not work on bows or slings, but does work on their projectiles: arrows and sling-stones may be enchanted individually. If a damage roll reaches the weapon's maximum, the tip of the weapon glows red-hot at the moment of impact and may ignite a flammable target, inflicting an additional 1D6 fire damage (see §7.4).
+The spell does not work on bows or slings, but does work on their projectiles: arrows and sling-stones may be enchanted individually. If a damage roll reaches the weapon's maximum, the tip of the weapon glows red-hot at the moment of impact and may ignite a flammable target, inflicting an additional 1D6 fire damage (see §8.4).
 
 ### Talons of the Beast
 
@@ -566,9 +566,9 @@ The sorcerer must remain within sight of the projection point to sustain the spe
 **Cast Time:** 1 round
 **Duration:** As long as the sorcerer maintains the working
 
-The sorcerer calls a wasting pestilence from where it lies dormant in old Stygian tombs and seats it in a single named victim. The target makes a Stamina roll against POT 14 disease (§7.1). On a success, the working slides off; the 4 PP are spent. On a failure, the target contracts the plague.
+The sorcerer calls a wasting pestilence from where it lies dormant in old Stygian tombs and seats it in a single named victim. The target makes a Stamina roll against POT 14 disease (§8.1). On a success, the working slides off; the 4 PP are spent. On a failure, the target contracts the plague.
 
-**The disease.** Plague Wind is a CON-attacking disease (§7.1.1, Chills type). Under the sorcerer's maintenance the disease never recedes: each day the victim makes a new Stamina roll, but successes only prevent that day's severity advance - consecutive successes do not throw off the disease. Failed rolls advance severity through the §7.1 ladder (mild → acute → severe → terminal), with CON loss accruing at the severity rate. A victim brought to 0 CON dies; they cannot be raised by Mend the Mortal Frame, and the corpse cannot be raised by Animate Dead.
+**The disease.** Plague Wind is a CON-attacking disease (§8.1.1, Chills type). Under the sorcerer's maintenance the disease never recedes: each day the victim makes a new Stamina roll, but successes only prevent that day's severity advance - consecutive successes do not throw off the disease. Failed rolls advance severity through the §8.1 ladder (mild → acute → severe → terminal), with CON loss accruing at the severity rate. A victim brought to 0 CON dies; they cannot be raised by Mend the Mortal Frame, and the corpse cannot be raised by Animate Dead.
 
 **The outbreak.** The sorcerer is not infecting one person - they are seating the plague. The outbreak has a **Scale** that grows over time. Each evening the GM rolls D100; on a result over **25**, the outbreak grows by one tier:
 
@@ -583,13 +583,13 @@ The sorcerer calls a wasting pestilence from where it lies dormant in old Stygia
 
 Dense urban environments, poor sanitation, refugees pressed by siege, and warm dry weather add +10% to the grow roll at GM discretion. Isolation, cold, clean water, and active quarantine subtract -10%.
 
-**The maintenance cost.** While the working holds, the sorcerer's PP maximum is reduced by the value for the current Scale. The reserved PP cannot be spent on casting, Fate Point spends, or anything else - the sorcerer is feeding the working with their own vital current. As the outbreak grows, the reservation grows with it. A sorcerer whose effective maximum drops to 0 or below loses the working immediately and falls unconscious; the outbreak begins to recede by ordinary §7.1 disease rules.
+**The maintenance cost.** While the working holds, the sorcerer's PP maximum is reduced by the value for the current Scale. The reserved PP cannot be spent on casting, Fate Point spends, or anything else - the sorcerer is feeding the working with their own vital current. As the outbreak grows, the reservation grows with it. A sorcerer whose effective maximum drops to 0 or below loses the working immediately and falls unconscious; the outbreak begins to recede by ordinary §8.1 disease rules.
 
 A sorcerer's Brazier of Power may absorb the maintenance reduction in part or whole; the Brazier's stored PP is reserved instead of the sorcerer's own. This is how mid-tier sorcerers reach Scale IV, and how master sorcerers with deep braziers reach Scale V. Scale VI requires either a vast brazier of decades or a coven of sorcerers linked by Chain of Being.
 
-**The sorcerer may end the working at will** at any time. When maintenance lapses - by choice, by death, or by exhaustion - the outbreak progresses by ordinary §7.1 disease rules and most of the infected will recover.
+**The sorcerer may end the working at will** at any time. When maintenance lapses - by choice, by death, or by exhaustion - the outbreak progresses by ordinary §8.1 disease rules and most of the infected will recover.
 
-**Counters.** Killing the sorcerer ends the working immediately and the outbreak begins to recede. Undo Sorcery at level 3 or higher ends the working in a single infected target (but does not stop the disease in others already infected, who continue under ordinary §7.1 progression).
+**Counters.** Killing the sorcerer ends the working immediately and the outbreak begins to recede. Undo Sorcery at level 3 or higher ends the working in a single infected target (but does not stop the disease in others already infected, who continue under ordinary §8.1 progression).
 
 ### Refutation
 
@@ -771,7 +771,7 @@ The sorcerer raises a foot and stamps. Where the gesture lands - chosen by the s
 
 The sorcerer may target one of:
 
-- **A length of cliff or ledge** up to 10 metres long. Anyone standing on the affected stone makes a Difficult Agility roll (DEX × 5, halved) to leap clear. Failure: the character falls with the stone, taking damage per §7.7.1 (Falling).
+- **A length of cliff or ledge** up to 10 metres long. Anyone standing on the affected stone makes a Difficult Agility roll (DEX × 5, halved) to leap clear. Failure: the character falls with the stone, taking damage per §8.7.1 (Falling).
 - **A stone wall, stone roof, or stone bridge** up to 4 metres across. Anyone beneath or upon makes a Difficult Agility roll to dodge the collapse. Failure: 4D6 falling-masonry damage.
 - **A fissure in solid ground** roughly 5 metres long and 2 metres wide. Anyone standing on the line makes a Difficult Agility roll to leap clear. Failure: they fall into the fissure (depth per the terrain - typically a few metres in normal ground, but in mountain country possibly far more).
 
@@ -821,13 +821,13 @@ The working makes noise. The bronze bolt twisting sings like a struck bell; the 
 **Cast Time:** 4 hours minimum (preparation and invocation)
 **Duration:** Until released or binding broken
 
-Summoning is an extended ritual followed by a negotiation. The sorcerer prepares a circle, invokes a demon by the appropriate formula, and calls it into physical presence. The demon arrives unbound, having agreed to nothing - that negotiation follows. The demon's appearance, demands, and behaviour are the GM's domain (§11); the steps below cover the sorcerer's working.
+Summoning is an extended ritual followed by a negotiation. The sorcerer prepares a circle, invokes a demon by the appropriate formula, and calls it into physical presence. The demon arrives unbound, having agreed to nothing - that negotiation follows. The demon's appearance, demands, and behaviour are the GM's domain (§13); the steps below cover the sorcerer's working.
 
 **Preparation.** Before invoking a demon, the sorcerer must:
 
 - **Prepare a summoning circle** - a physical boundary drawn with appropriate materials (chalk, ash, blood, ground bone) and inscribed with binding formulae. Takes one hour per spell level of the Summon Demon spell (minimum 4 hours). Cannot be improvised under pressure.
 - **Research the target** - know the demon's nature (possessing spirit, flesh-eater, chaos-entity), its approximate power (Witch Sight helps), and its true name if available. Summoning without a true name is possible, but the demon arrives without the obligation a name implies.
-- **Gather materials** - §11 describes what a specific demon prefers. Preparing without the appropriate materials imposes penalties on the binding roll.
+- **Gather materials** - §13 describes what a specific demon prefers. Preparing without the appropriate materials imposes penalties on the binding roll.
 
 **The invocation.** The sorcerer spends 4 PP and completes the minimum 4-hour working. The demon appears at the circle's edge; whether it enters is its own choice. With a true name, the demon is compelled to appear and hear the sorcerer's offer. Without a name, it may simply not come (the GM rolls in secret). PP contributed via Chain of Being may pay the summoning cost and the subsequent binding.
 
@@ -850,7 +850,7 @@ Once bound, the demon's true name is surrendered to the sorcerer, allowing recal
 - **The sorcerer dies.** Active bindings end; object-bound and place-bound demons may persist.
 - **Another sorcerer learns the true name and rebinds.** The demon now serves the new binder.
 
-What the demon does when freed depends on the entity's nature, the terms of the original bargain, and how it was treated. §11 has guidance.
+What the demon does when freed depends on the entity's nature, the terms of the original bargain, and how it was treated. §13 has guidance.
 
 ### Suppleness of the Serpent
 

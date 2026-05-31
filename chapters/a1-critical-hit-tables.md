@@ -21,7 +21,7 @@ Each attack deals one of five damage types. The damage type determines which tab
 | **Burn**    | Sorcerous fire, demonic flame, Greek fire, burning oil, dragon breath, fire elementals       |
 | **Grapple** | Unarmed grapples (§3 Grapple skill), creature constricting attacks, joint locks, choke holds |
 
-The weapon's entry in §8 Equipment lists its damage type. When two types apply (a blade driven into a deep thrust, for instance), the attacker chooses which table to use at the moment the critical is declared.
+The weapon's entry in §9 Equipment lists its damage type. When two types apply (a blade driven into a deep thrust, for instance), the attacker chooses which table to use at the moment the critical is declared.
 
 **Animal and natural-weapon attacks.** Beasts and other non-weapon-using creatures use these same tables. Map the attack to its mechanical character: bite or rake = Slash, gore with tusk or horn = Pierce, hoof or paw-buffet = Krush, constricting or grappling attack = Grapple (§4), supernatural flame or fire-touch = Burn (§6). Substitute appropriate descriptors when reading the result aloud (fang for blade, claw for edge, hoof for haft, gore for thrust). The mechanical effects apply unchanged.
 

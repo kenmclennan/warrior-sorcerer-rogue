@@ -1,5 +1,25 @@
 # 6 Combat
 
+Combat in WSR is played without a grid. Position is described, not measured, and the GM's job is to make that description carry the weight that geometry carries in a grid-based game. The rules in this chapter assume that approach; the guidance below makes it work at the table.
+
+**Establish the space before combat begins.** Before anyone draws a weapon, describe the room, the courtyard, the alley. Give it one or two specific features: the collapsed pillar on the left side, the narrow passage at the back, the wall of fire burning along the eastern edge. These are not set dressing - they are the tactical resources the PCs can use and the constraints they must navigate.
+
+**Track broad positions, not fine ones.** Engaged, withdrawn, elevated, flanked, separated - these are the categories that matter. You do not need to know that Tharex is four metres from the doorway; you need to know that Tharex is between the doorway and the main body of soldiers, which means he is blocking the escape route. Maintain these broad relationships as combat proceeds.
+
+**Describe transitions actively.** When a PC moves from engaged to withdrawn, or from cover to open, say so. "You back up against the wall; the two soldiers follow, and now you are the one with nowhere to go" is more information than "you move to square D4." Description carries tactical weight when it is specific about what changed.
+
+**Use the fiction when a rule is unclear.** When two players disagree about whether a position is valid - whether there is cover, whether a PC is in range, whether an opponent can reach them - decide based on what makes sense given everything that has been described. Not every tactical ambiguity needs a ruling; some are resolved by asking "what would this look like if we were watching it?" and going with that answer.
+
+**Start each round with a brief reset.** Before statements are declared, give the group a one-sentence summary of the situation: "You are engaged with the two spearmen; Seren is at the far end of the room holding off the captain; Kethros is near the door with a clear line to the sorcerer." One sentence, current, accurate. Players can then declare against a shared picture.
+
+**Narrate after every result.** When a roll resolves, describe what happened before moving to the next roll. "The sword connects - the guard goes down clutching his leg - and now the way to the stairs is open, but the other two are turning toward you." This keeps the shared picture current and makes the fight feel like a fight rather than a sequence of dice rolls.
+
+**Let the players describe their victories.** When a PC lands a critical hit or drops an opponent, ask the player what it looks like. "What does that look like - how did you take him down?" This is not a time cost; it is a pacing beat that also enriches the fiction, makes the player feel the weight of the moment, and gives the table a breath between the peaks of the action.
+
+**Rabble go down fast.** The Rabble rule (§11.2) is designed to prevent fights against ordinary opponents from dragging. When a Rabble hits their half-HP threshold, they are done. Narrate it briefly and move on.
+
+**Keep the sorcerer in the picture.** The interruption risk from melee (§6.9) needs active tracking in theatre-of-mind play. When a sorcerer begins casting, note it openly: "Seren is casting - she needs to reach her Initiative Rank without taking a hit." This gives the warrior and rogue players the information they need to prioritise protecting the sorcerer, and gives the opposing side's controller (you) the same signal to apply pressure.
+
 ## 6.1 The Combat Round
 
 Each combat round represents twelve seconds of action and follows these steps:
@@ -39,11 +59,11 @@ On their Initiative Rank, a character may take **one** of the following actions:
 
 ### 6.2.1 Movement
 
-Movement in combat is described, not measured. Three categories tie to the four range bands used by missile and theatre-of-mind combat (§6.3.8, §7.10): **Near** (arm's reach), **Normal** (standard distance within a fight), **Far** (across a significant space), **Extreme** (edge of vision).
+Movement in combat is described, not measured. Three categories tie to the four range bands used by missile combat (§6.3.8): **Near** (arm's reach), **Normal** (standard distance within a fight), **Far** (across a significant space), **Extreme** (edge of vision).
 
 - **Short Move.** Repositioning within the same range band - circling for an opening, stepping off a fallen ally, taking the high ground, closing the last step on an opponent already at Near range. No initiative penalty; combines freely with any action on the same Initiative Rank (Attack, Cast, Engage, etc.).
 - **Long Move.** Crosses one range band (Far → Normal, or Normal → Near). Halves the character's initiative this round (round down). The character may still attack or take another action at the reduced initiative. Moving _out_ of Near range requires a Disengage first (§6.2.3).
-- **Full Sprint.** Maximum speed. Crosses two range bands in a single round, runs down a fleeing target, escapes bowshot, or traverses out of an encounter entirely. Reduces initiative to a quarter (round down). Cannot attack; defensive actions only if directly threatened. Sustained sprinting across multiple rounds is a chase (§7.8).
+- **Full Sprint.** Maximum speed. Crosses two range bands in a single round, runs down a fleeing target, escapes bowshot, or traverses out of an encounter entirely. Reduces initiative to a quarter (round down). Cannot attack; defensive actions only if directly threatened. Sustained sprinting across multiple rounds is a chase (§8.8).
 
 ### 6.2.2 Engaging
 
@@ -137,7 +157,14 @@ Missile attacks follow the same success tiers as melee attacks. Missiles cannot 
 | Far (challenging distance)   | Difficult                                                                                                                                                                                                              |
 | Extreme (edge of capability) | 1/5 skill; any success counts as a normal success only                                                                                                                                                                 |
 
-The GM determines which band applies based on the description of the scene.
+The GM determines which band applies based on the description of the scene. The bands are narrative, not measured; apply them by what the fiction makes obvious:
+
+- **Near** is arm's length - within the same engagement zone as the target. Throwing weapons at Near range use close combat rules. Bows at Near range are Difficult because a longbow is not a close-quarters weapon; the attacker is fighting the weapon's design as much as the target.
+- **Normal** is the default. If the attacker and target are in the same fight and not immediately on top of each other, assume Normal range. This covers most combat scenarios.
+- **Far** is across a significant space - across a courtyard, from one end of a great hall to the other, from a rooftop to the street. If you have to describe the space to make the shot make sense, it is Far.
+- **Extreme** is the edge of the weapon's capability. The extreme range of a war bow is hundreds of metres; the extreme range of a thrown dagger is perhaps fifteen. If a player asks to make a shot that requires you to say "that is genuinely the limit of what this weapon can do," it is Extreme.
+
+**Moving between bands.** A character who wants to close from Far to Normal must move; that is at least a Long Move, which halves their initiative this round. A character who wants to move from Near to Normal must disengage (see §6.2.3). These costs make range management a meaningful tactical dimension without requiring measurement.
 
 **Shooting up or down.** Elevation modifies missile attacks. A target significantly _below_ the attacker's line of sight (downhill, a lower floor, the street from a parapet): **+10%**. A target _above_ the attacker (uphill, an upper floor, a defender on a wall): **-10%**. A target directly overhead (more than 45° up): **Difficult**, and effective range is halved. Some weapons (slings, crossbows) may be unable to fire directly above or below at the GM's call.
 
@@ -151,7 +178,7 @@ A character whose weapon skill exceeds 100% may split that skill into multiple a
 
 A character with a thrown or missile weapon may sacrifice accuracy and defence to send as many attacks at a target as the weapon allows in a single round. Declare at the start of the round.
 
-The weapon's **Attk** stat (from the missile weapons table, §8.2.3) gives the maximum number of attacks per round. The first attack resolves at the character's normal Initiative Rank; subsequent attacks resolve at **-5 Initiative Rank intervals**, up to the Attk limit. **All volley fire attacks are Difficult.** If a subsequent Initiative Rank falls below 1, that attack is lost.
+The weapon's **Attk** stat (from the missile weapons table, §9.2.3) gives the maximum number of attacks per round. The first attack resolves at the character's normal Initiative Rank; subsequent attacks resolve at **-5 Initiative Rank intervals**, up to the Attk limit. **All volley fire attacks are Difficult.** If a subsequent Initiative Rank falls below 1, that attack is lost.
 
 While volley firing, the character **cannot parry or dodge** until the start of their next Initiative Rank. Each shot consumes ammunition normally.
 
@@ -169,7 +196,7 @@ Each weapon lists a damage dice expression. The attacker rolls this dice, adds t
 
 Armour reduces all incoming damage by its Armour Value (AV). Subtract AV from damage before applying to HP. If the reduction brings damage to 0 or below, no HP are lost - but the impact still occurred.
 
-**Armour disadvantages.** Armour imposes skill penalties on Agility, Move Quietly, Swim, Climb, and Perception skills as listed in the equipment tables (see §8.3). It is also socially conspicuous: arriving at a merchant's hall in full bronze scales makes certain conversations difficult.
+**Armour disadvantages.** Armour imposes skill penalties on Agility, Move Quietly, Swim, Climb, and Perception skills as listed in the equipment tables (see §9.3). It is also socially conspicuous: arriving at a merchant's hall in full bronze scales makes certain conversations difficult.
 
 **Armour fit.** Armour is sized for its original wearer. Armour that does not fit (different SIZ) imposes an additional -20% penalty on all physical skills and halves its AV.
 
@@ -189,7 +216,7 @@ Shields serve three roles: parrying tool, missile-interceptor, and weapon.
 
 This is a separate roll, not a parry: the shield either blocks the missile or the missile passes. A shield interception roll does not count against the cumulative parry-attempts limit.
 
-**Shield bash.** A shield used to attack deals **1D3 + dm** (small shield or buckler) or **1D4 + dm** (large shield), Krush damage type. Spiked shields deal Pierce instead. See §8.3 for full shield stats. A shield bash that lands as a critical can inflict Knockback per the §A1.4 Krush table.
+**Shield bash.** A shield used to attack deals **1D3 + dm** (small shield or buckler) or **1D4 + dm** (large shield), Krush damage type. Spiked shields deal Pierce instead. See §9.3 for full shield stats. A shield bash that lands as a critical can inflict Knockback per the §A1.4 Krush table.
 
 ### 6.4.4 Broken Weapons
 
@@ -217,7 +244,7 @@ Damage is subtracted from current HP. Combat continues at any positive HP - the 
 
 **Pushing past the drop.** A character at 0 HP may attempt a Dying Blow (§6.11): one last action before falling. A character on the edge of falling may spend PP to Deflect the Killing Blow (§5.6.8). These are the two pressure-valves the system offers; there is no separate "stay-conscious-through-a-heavy-hit" roll.
 
-**Rabble exception.** Rabble (§9.2) do not follow the full damage rules above. They are incapacitated when cumulative damage reaches half their HP total, regardless of which attack pushed them over. They do not consult §A1 entries on criticals received, do not take Reeling Blow effects, and have no Fate Point access. The full Rabble rules and stat-block format are in §9.2; this is the player-facing summary.
+**Rabble exception.** Rabble (§11.2) do not follow the full damage rules above. They are incapacitated when cumulative damage reaches half their HP total, regardless of which attack pushed them over. They do not consult §A1 entries on criticals received, do not take Reeling Blow effects, and have no Fate Point access. The full Rabble rules and stat-block format are in §11.2; this is the player-facing summary.
 
 ### 6.5.2 Status Effects
 
@@ -514,11 +541,11 @@ A mounted character fights from horseback, chariot, camel, or other mount. The R
 
 **Set weapon against charge.** An unmounted character with a long pointed weapon (lance, spear, pike, polearm) may declare a **set weapon** stance against an incoming mounted charge. Requires firm ground and a declaration before the charging mount's Initiative Rank. The set character takes no attack action that round; when the charge arrives, roll the set weapon's skill as a normal attack. On a hit, **add the mount's damage modifier to the set weapon's damage** (the mount's own momentum drives it onto the weapon). An intelligent mount may attempt its own Dodge to avoid the set weapon; the rider must succeed at a Difficult Ride roll (or a POW vs. mount's POW contest) to force the charge home over the mount's self-preservation.
 
-**Ride roll under attack.** A character making any attack while their mount is moving must succeed at a Ride roll, or attack at **-20%**. A character struck for serious damage (over half their HP in one blow) while mounted must make a Ride roll or be unhorsed (falling damage per §7.7.1).
+**Ride roll under attack.** A character making any attack while their mount is moving must succeed at a Ride roll, or attack at **-20%**. A character struck for serious damage (over half their HP in one blow) while mounted must make a Ride roll or be unhorsed (falling damage per §8.7.1).
 
 **Mounts as targets.** A mount has its own HP (typically 20-30 for a horse). A mount reduced to half HP panics; a mount at 0 HP collapses, throwing or trapping its rider.
 
-**Stirrups (§8.7).** A character riding without stirrups attacks at an additional **-10%** and rolls Ride at Difficult to stay mounted under combat stress.
+**Stirrups (§9.7).** A character riding without stirrups attacks at an additional **-10%** and rolls Ride at Difficult to stay mounted under combat stress.
 
 ## 6.9 Casting in Combat
 
@@ -528,7 +555,7 @@ See §4.4 for full sorcery casting rules.
 
 ## 6.10 Damage Types
 
-WSR weapons deal one of several damage types. Type determines which critical hit table is consulted in §A1 when a critical attack lands, and which **status** (§6.5.2) the attack characteristically inflicts. Type also affects armour interactions (some armours protect better against some types - see §8 Equipment) and certain talents and creature abilities that react to specific types.
+WSR weapons deal one of several damage types. Type determines which critical hit table is consulted in §A1 when a critical attack lands, and which **status** (§6.5.2) the attack characteristically inflicts. Type also affects armour interactions (some armours protect better against some types - see §9 Equipment) and certain talents and creature abilities that react to specific types.
 
 ### 6.10.1 Slashing (swords, axes, daggers, claws)
 
@@ -544,7 +571,7 @@ Blunt-force wounds. Crush criticals resolve on the **§A1 Krush table** (§A1.4)
 
 ### 6.10.4 Entangling (whips, nets, chains, ropes)
 
-Restraining attacks. The characteristic outcome of an entangling weapon is the **Entangled** status (§6.5.2). Some entangling weapons deal damage as well (whip 1D3, bola 1D4+½dm); others entangle without damage (net, lasso). Each weapon's entry in §8 specifies its damage and how the entangle effect attaches to a hit. There is no §A1 critical hit table for entangling - the status itself is the entry.
+Restraining attacks. The characteristic outcome of an entangling weapon is the **Entangled** status (§6.5.2). Some entangling weapons deal damage as well (whip 1D3, bola 1D4+½dm); others entangle without damage (net, lasso). Each weapon's entry in §9 specifies its damage and how the entangle effect attaches to a hit. There is no §A1 critical hit table for entangling - the status itself is the entry.
 
 **Standard attack.** Roll normally against the weapon skill. A successful hit deals the weapon's listed damage (if any) and applies the Entangled status as the weapon's entry specifies (most entangling weapons apply it on any successful hit).
 

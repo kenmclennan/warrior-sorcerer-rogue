@@ -287,7 +287,7 @@ Fighting with a hand-held weapon in close combat. The speciality is the weapon c
 
 Roll Melee Weapon on each attack. The result determines which outcome tier applies; in combat, critical results are resolved on the appropriate critical hit table (§A1).
 
-**Specialities (weapon classes - precise list defined in §8 Equipment):** Axe, Club/Mace, Dagger, Flail, Polearm, Shield (see Shield skill), Spear, Staff, Sword. Others as the weapon chapter specifies.
+**Specialities (weapon classes - precise list defined in §9 Equipment):** Axe, Club/Mace, Dagger, Flail, Polearm, Shield (see Shield skill), Spear, Staff, Sword. Others as the weapon chapter specifies.
 
 ### 3.4.27 Missile Weapon (various)
 
@@ -309,7 +309,7 @@ Roll Move Quietly when the character needs to move through an area without drawi
 
 **Detection.** When no specific observer is alert and oriented, a successful Move Quietly is enough; failure means the character did not move silently, but unless there is someone in a position to notice it rarely matters. When a guard, sentry, or other observer **is** paying attention to the area, resolve as an opposed roll: the character's Move Quietly result against the observer's Spot (visual) or Listen (auditory). Higher successful result wins; criticals beat ordinary successes; ties favour the observer (the alert defender). A **failed Move Quietly does not mean automatic detection** - it only means the character has not concealed their passage, and any alert observer gets their roll. A **fumble** is a distinct sound - a kicked tankard, a snapped branch, a footfall on dry leaves - that automatically alerts anyone within hearing range; the GM should narrate the specific noise.
 
-For group stealth (when the whole party is moving together), see §7.11.
+For group stealth (when the whole party is moving together), see §8.10.
 
 ### 3.4.29 Navigate
 
