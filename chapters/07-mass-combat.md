@@ -35,6 +35,13 @@ Each turn (approximately five minutes of battle time), every PC involved in the 
 
 **Targeting specific enemies.** Seeking a specific opponent - a named villain, the enemy's standard-bearer - is a narrative objective. The GM may require Agility or Spot to locate them, then normal combat once contact is made. The mass combat Luck roll is suspended during direct single combat.
 
+**Narrative objectives.** A "narrative objective" on a critical success is a concrete in-fiction goal the PC can resolve this turn with an Easy roll. Typical examples:
+
+- **Reach a place and act there.** Cross to the siege tower and spike the ram. Take the river crossing and hold it for one round so allies can follow. Get to the enemy's command post and burn the orders.
+- **Close with a named NPC.** No Spot or Track roll needed - the PC's moment of clear action finds them. The enemy Leader, a specific Hero, the captain of the opposing cavalry. Once contact is made, resolution shifts to standard individual combat (§6).
+- **Rally a friendly position.** Reach a friendly squad that is routing or near routing and deliver an order, an inspiring word, or a personal show of force - that squad gains +2 Morale for the next round. This is the canonical bridge between the abstraction track and the skirmish track in mixed mode (§7.3).
+- **Retrieve or defend a specific thing.** A banner, a wounded ally, a piece of siege equipment, a magical relic. Move it to safety or hold it for the rest of the turn against any immediate threat.
+
 **Duration.** Brief skirmish: 2-3 turns (10-15 minutes). Sustained engagement: 6-12 turns (30-60 minutes). PCs rest and recover normally after.
 
 **Fate Points in mass combat.** Fate Point spends (§5.6) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
@@ -70,6 +77,8 @@ Every squad has the following statistics:
 - **Morale.** Tested at the end of each round on 2D6. Roll equal to or under Morale to pass.
 - **Disorder.** Starts at 0. Rises during battle from failed checks, enemy successes, and routs. Reduces the squad's effective Defence (5 per point) and triggers various penalties. Cannot go below 0; some talents impose a cap above which Disorder cannot rise.
 - **Formations.** Tactical configurations the squad can adopt. The first listed is the default at the start of battle. Switching between them uses the Change Formation command. See §7.2.5.
+
+Disorder and Morale model different things. **Disorder** is the squad's physical cohesion - the bent line, the broken rank, the formation shaken by impact. **Morale** is the squad's will to fight - the underlying nerve that decides whether the unit holds. The two interact (a failed Morale check raises Disorder, a Disordered squad fights at reduced Defence) but a fresh elite squad can be Disordered without being demoralised, and a veteran levy can be in perfect order yet on the edge of breaking. Track them separately.
 
 **The squad catalogue.** Nine squad types are presented here. A squad's **baseline talent** (§7.2.4) is included in the stat block.
 
@@ -265,6 +274,8 @@ The following procedure is worked through once, in order, before the first round
 
 **2. Set positions.** Each squad takes one of four positions in its Force: Centre, Left Flank, Right Flank, or Rear. All squads under a single Commander must share a position.
 
+Positions are battlefield lines, not spaces on a map. A squad in a given position may **Melee Attack or Charge** any opposing squad in the same position or in an adjacent position - Left Flank may engage the enemy's Left Flank or the enemy's Centre, but not the enemy's Right Flank without first repositioning. **Missile Attacks** may target any opposing position. The **Skirmishers** talent (§7.2.4) allows a squad to shift between adjacent positions on its own side without spending a command, but the shift does not grant an attack on the newly-reachable enemy - that takes another round.
+
 **3. Set relative range.** The two Forces begin at one of four battlefield ranges:
 
 - **Melee.** Squads in adjacent positions may use Melee Attack and Charge commands against each other.
@@ -288,11 +299,17 @@ These are the battlefield-scale range bands, distinct from the individual-combat
 
 **Fortifications.** A squad defending from behind a wall, palisade, or earthwork gains **+20 Defence**. A squad defending a **breach** in a wall gains +10 Defence. A squad defending **inside a closed gatehouse or tower** gains +30 Defence but cannot Charge, Advance, or Retreat - only Melee Attack, Missile Attack, and Rally. A wall is reduced to a breach by GM ruling, the application of a war machine, or the expenditure of an in-fiction effort (a sapping operation, a sustained ram action) priced narratively. Full siege rules - wall HP and AV, war machine stat blocks, breach mechanics, sapping, escalade - are deferred to a future revision (tracked in IDEAS.md).
 
-**5. Apply size disparity.** The smaller Force has the Morale of all its squads reduced by 1. If significantly outnumbered (roughly 2:1 or worse), reduce by 2 instead.
+**5. Apply size disparity.** Count squads on each side. The smaller Force has every squad's Morale reduced as follows:
+
+| Disparity (smaller:larger)  | Morale penalty |
+| --------------------------- | -------------- |
+| Under 2:1 (e.g., 5 vs 8)    | -1             |
+| 2:1 (e.g., 4 vs 8)          | -2             |
+| 3:1 or worse (e.g., 2 vs 8) | -3             |
 
 **6. Resolve Ambush.** If one Side intends to ambush the other, their Leader rolls INT × 5 (with a Scout Hero attached, +20%; the GM may apply terrain modifiers). On success, the ambushing Side gains a free round of action at the start of the battle, and any enemy squad they engage with that round gains +2 Disorder.
 
-**7. Resolve Chosen Ground.** A defending Side that has had time to prepare may have its Leader roll INT × 5 to select advantageous terrain. On success, all defending squads gain +1 Defence for the battle.
+**7. Resolve Chosen Ground.** A defending Side that has had time to prepare may have its Leader roll INT × 5 to select advantageous terrain. On success, all defending squads gain +1 Defence for the battle. On a critical, all defending squads gain +2 Defence and the Force gains +1 on initiative rolls for the duration of the battle (the defender knows the ground well enough to react first).
 
 **8. Inspire the troops.** Each Leader may attempt a CHA × 5 roll. On success, every squad in the Force gains +1 Morale (cannot exceed original).
 
@@ -307,6 +324,17 @@ Each round proceeds in four phases:
 **1. Initiative.** Each Leader rolls **1D10 + CHA** for their Force. Highest goes first; on a tie, both Forces resolve simultaneously.
 
 **2. Command Action.** Each Commander declares one command for each of their squads (see §7.2.8).
+
+**Running NPC Commanders.** A GM facing eight enemy squads cannot make eight thoughtful tactical decisions per round. The following heuristics keep NPC Commanders competent without requiring the GM to optimise:
+
+- A routing or near-routing allied squad gets a Rally before any other consideration.
+- A squad with high Disorder and not in Melee gets a Rally too.
+- A squad next to a wavering enemy (visibly low Morale or high Disorder) Melee Attacks to break them.
+- A squad with no Melee target and a clear shot Missile Attacks at Short or Long range.
+- A healthy squad with no immediate pressure Advances toward the nearest enemy.
+- A squad below half HP Retreats unless held by orders, a Trait, or a personal grudge.
+
+These are defaults for unnamed NPC Commanders. **Named NPC antagonists** - a PC's rival, the enemy general, a captain with a grudge - should ignore the heuristics and act on their characterisation: the bold Stygian who Charges when he should hold, the cunning veteran who lets the PCs bleed before committing. The point of having a named antagonist is that they feel like a person, not an algorithm.
 
 **3. Resolution.** Commands resolve in initiative order, Force by Force. Within a Force, the Leader chooses the order of squad resolution. Each squad's Commander rolls the relevant skill or characteristic for the declared command; effects apply, damage is dealt, Disorder rises and falls.
 

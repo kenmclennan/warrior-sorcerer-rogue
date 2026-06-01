@@ -168,3 +168,18 @@ Open questions:
 - Is naval combat part of §7 Mass Combat or its own chapter?
 - How much overlap is there between ship-as-squad in fleet combat and ship-as-character in single-ship action?
 - Does the system need rules for piracy, privateering, and naval economics (loot, prizes, port hostility), or are those campaign-framework concerns?
+
+## Cohesion unification refactor for Mass Combat
+
+§7.2 squads currently track two cohesion-adjacent statistics: **Morale** (2D6 check at end of round, represents will to fight) and **Disorder** (rises during play, represents physical formation cohesion, reduces Defence). They model genuinely different things and the current design preserves the distinction deliberately - a fresh elite squad can be Disordered without losing nerve, and a steady levy can be in perfect order yet on the edge of breaking.
+
+A reviewer has proposed unifying them into a single **Cohesion** stat (start high, drops on damage or setbacks, low Cohesion = Defence penalty + rout). This would simplify tracking and talent design, at the cost of losing the Disorder/Morale distinction.
+
+The current design rejects this in favour of preserving the two-track distinction. The unification idea is logged here in case play surfaces the friction the reviewer predicts.
+
+Open questions if revisiting:
+
+- Does the two-track distinction actually deliver dramatic value at the table, or do the two stats blur together in practice and just feel like extra bookkeeping?
+- Is there a hybrid - keep one stat for the game-mechanical effect (Defence penalty) and let "Morale" become purely narrative GM colour - that captures the best of both?
+- Would a single Cohesion stat with two _states_ (physical disorder vs psychological wavering) inheriting from a single track preserve the texture while removing the bookkeeping?
+- How would the talent catalogue redesign work? "Disciplined" currently caps Disorder; under Cohesion it would cap the rate of Cohesion loss. Are talents cleaner or messier under the unified model?
