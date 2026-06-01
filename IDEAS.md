@@ -26,6 +26,7 @@ Research notes from a background pass on Rolemaster's approach are appended belo
 **4. Non-combat fumbles.** Yes. The Maneuver/Movement Table (Arms Law 8.2.2) is the moving-maneuver equivalent: cross-index the maneuver difficulty (Routine through Absurd) with the modified roll, and very negative results give falls, broken arms, broken legs, broken backs, comas, paralysis, and skull-crushing death at the worst. Spell Law has a Non-attack Spell Failures Table (15.7) and an Extraordinary Spell Failure (ESF) concept - low casting rolls back-fire the spell, drain the caster, or worse, and Burnout in Character Law dumps directly into that table. So Rolemaster treats fumble as a universal pattern: weapon, maneuver, spell each get their own table, all sharing the "low roll = bad result on its own table" structure.
 
 **5. WSR fit.** Translates well:
+
 - One combat fumble table indexed by **weapon family** rather than damage type. WSR's crit tables are damage-typed because the wound matters; a fumble is about the attacker losing control, which is a property of the weapon in hand, not the damage it would have done. A dagger fumble is dropping a dagger; a bow fumble is breaking a string. Damage-type slicing fits crits, weapon-family slicing fits fumbles - the deliberate asymmetry is the point.
 - Severity bands rolled on a separate d100 after the trigger. Mirrors the WSR crit-table workflow (trigger, then roll for severity) and keeps a single fumble trigger from always meaning the same thing.
 - Genre-appropriate outcomes for sword & sorcery: drop weapon, lose tempo, slip prone, weapon flies wide, bowstring snaps, blade chips on a shield, sandal-strap breaks, lose initiative, expose flank to next attack. These are setbacks that feed swashbuckling recovery beats.
@@ -33,6 +34,7 @@ Research notes from a background pass on Rolemaster's approach are appended belo
 - The Maneuver/Movement-style approach (one table covering Climb/Swim/Stealth fumbles) is probably worth a short section rather than a full per-skill table.
 
 Translates poorly:
+
 - The catastrophic 100 result that sends a fighter to roll a D-severity crit on themselves is too much for the tone. WSR's fiction-first ethos and the lighter "swashbuckling" lean argue against the fumbler routinely killing themselves. Cap the worst outcome at "drop weapon, prone, stunned, and the next attack against you has advantage" rather than self-inflicted maiming. Reserve self-harm for explicit edge cases (e.g., a critical fumble while wielding a cursed or unfamiliar weapon).
 - Six weapon-family columns may be one or two too many for WSR's scope. Consider collapsing to three or four: melee one-handed, melee two-handed/polearm, thrown, and missile. The mounted column especially is probably out of scope.
 - The wisecracking voice ("One's ten thumbs just cannot handle loading") is fun but reads as 1980s D&D-adjacent humour, not Howard/Leiber/Moorcock. WSR's fumble flavour text should be terse and grim - "The blade turns in your hand. You feel it bite leather, not flesh" - not jokey.
@@ -49,7 +51,7 @@ This is genre-native: the Conan stories (and Leiber, Howard generally) constantl
 Open questions:
 
 - Roll structure: single d100 against route danger, or a small tableau (one roll per day / per stage)?
-- What kinds of outcomes go on the table? Bane categories (a debt, a pursuer, a wound that hasn't healed, a lost item, an angered local power) vs. boon categories (a contact made, a rumour overheard, a useful trinket, an obligation owed *to* you)?
+- What kinds of outcomes go on the table? Bane categories (a debt, a pursuer, a wound that hasn't healed, a lost item, an angered local power) vs. boon categories (a contact made, a rumour overheard, a useful trinket, an obligation owed _to_ you)?
 - Storage: how does the GM track "stored" banes/boons so they actually surface in play and don't get forgotten?
 - Pacing: when can a bane fire? Always at the worst moment (GM judgement) or constrained (only when the party is in a public place, only during a downtime scene, etc.)?
 - Player visibility: total secret, or does the player know "something happened" and just not what?
@@ -94,3 +96,75 @@ Open questions:
 - How prescriptive should the structure advice be? Too prescriptive and it constrains GM creativity; too loose and it doesn't help.
 - Random tables: bake them in or leave as a separate generator appendix?
 - Should there be sample adventures/arcs as worked examples, in the spirit of §A2 / §A5?
+
+## Battle magic: sorcery in mass combat
+
+The §7 Mass Combat catalogue deliberately excludes a "Sorcerous Construct" or "Summoned Host" squad type, and the NPC archetype list does not currently include a battle-magic Sorcerer. Both are wanted - the genre is full of them (Thoth-Amon raising mist over a battlefield, an Acheronian necromancer hurling an undead legion at Conan's column) - but the sorcery review made it clear that battle-scale magic needs to scale differently from personal-scale magic.
+
+The constraint: a §4 spell that meaningfully affects an army is not a 3 PP spell. The Plague Wind precedent established that large-mass-effect sorcery requires infrastructure-tier PP (Brazier of Power + Chain of Being, 50-100 PP), which is a session-scale ritual, not an in-round action. A sorcerer cannot "cast a fireball at the enemy line" each turn of mass combat without breaking the cost economy that makes WSR sorcery costly.
+
+Two design directions to weigh when picking this up:
+
+- **Pre-battle ritual model.** The sorcerer's army arrives with one or more battle-scale spells already prepared via Brazier-tier ritual the night before. Each ritual-prepared effect is consumed in a single use during the battle. Mechanically: a "stored" spell on the army roster. This preserves the cost economy.
+- **Sustained channelling model.** During mass combat, a sorcerer attached to a squad (as a Hero or as a Leader) can sustain a battle-scale effect at the cost of being unable to act otherwise and reducing their PP maximum each round. This is closer to how Plague Wind's outbreak maintenance was modelled. Higher tension but fiddlier at the table.
+
+Open questions:
+
+- Does a Sorcerer Hero archetype exist at all, or is sorcery handled exclusively at the Leader tier?
+- What is the effect catalogue? Suggested: area damage, area fear/morale assault, area movement debuff (mist, mud), area buff (ward, courage), summoned host (a free squad for N turns).
+- How does sorcerous defence work? Can a counter-sorcerer on the other side cancel an effect, and at what cost?
+- Does this section live in §7 Mass Combat, in §13 NPC Sorcery and Patrons, or both with cross-references?
+- Should the §4 spell list grow battle-scale spells with stated PP costs of 50+, or are these effects new and live only in the mass combat chapter?
+
+## War machines as deployable mass-combat units
+
+The §7 Mass Combat chapter currently handles fortifications with a single Defence-bonus rule and explicitly defers war machines (siege towers, scorpions, ballistae, catapults, rams) to a future revision. The catalogue would parallel the squad catalogue: each war machine gets its own stat block with HP, AV, range, damage, crew requirements, and available commands.
+
+Likely entries:
+
+- **Scorpion / Light Ballista.** Anti-personnel bolt thrower. Long range, accurate, 1D10+2 damage, crew of 2-3. May target individual Commanders or Heroes with a -20% penalty (the Roman use). Vulnerable in melee.
+- **Heavy Ballista / Catapult.** Stone or javelin thrower. Long to Very Long range, 2D10 area damage to a single squad, slow to reload (one shot every two rounds). Crew of 4-6.
+- **Battering Ram.** Reduces a wall to a breach over several rounds. Crew of 6-10. Slow to advance. Vulnerable to missile attack.
+- **Siege Tower.** Mobile platform for crossing walls. Crew + a passenger squad. Once positioned, the passenger squad attacks the wall's defenders at Melee range. Targetable by defending missile units and fire-based attacks.
+- **Mantlet / Pavise Line.** Defensive screen for advancing troops. Provides +10 Defence vs Missile to the squad sheltering behind it. Slow movement.
+
+Open questions:
+
+- Are war machines squads in their own right (a "Scorpion Battery" stat block), or are they attached to a squad as a hero-equivalent that grants a special command?
+- Do crews die separately from the machine, or is the machine destroyed when its crew is killed?
+- How do flame weapons (fire arrows, naphtha) interact with war machines and siege towers? Specifically, can a single fumbling Missile Attack burn down a siege tower?
+- Does the rules section live in §7.2 (extending the catalogue) or in a separate sub-chapter under §7?
+
+## Full siege subsystem
+
+A siege is not a battle - it is a campaign of attrition with intermittent moments of mass combat (sallies, escalades, breach assaults). The §7 Light Fortifications rule handles the moment of breach but does not address the days, weeks, or months that surround it.
+
+A full siege subsystem would need:
+
+- **Investment.** How a Force surrounds a fortress, the rules for blockade and supply line interdiction, the timescale (a day a turn, or a week a turn?).
+- **Walls as objects.** Wall HP, AV by construction type (timber palisade, stone curtain, masonry tower). Damage from siege weapons and time.
+- **Sapping and mining.** Underground operations to undermine walls, opposed by defender counter-mining. Time and skill (Engineering speciality?).
+- **Escalade.** Direct assault on intact walls with ladders. Brutal casualty rates; falls back to standard skirmish rules with the wall as terrain.
+- **Hunger and disease.** Supply depletion, water contamination, sickness spreading among besiegers and besieged. Already partially addressed by §8.1 Disease.
+- **Sallies.** The defender's sortie - a brief mass-combat engagement outside the walls, then withdraw. Couples to the skirmish system as a short battle.
+- **Relief.** Outside Forces arriving to break the siege. Triggers a full battle.
+
+Genre fit is strong (Howard's _The Hour of the Dragon_ climaxes at a siege; Leiber and Moorcock have multiple) but the design space is large enough to deserve its own dedicated chapter rather than an expansion of §7.
+
+## Naval combat
+
+Adjacent territory currently not covered. Howard's _The Black Stranger_, _Queen of the Black Coast_, and similar stories have ship-to-ship action that the mass-combat system does not handle well: ships are not squads in the line-of-battle sense, and individual ships often carry small numbers of named PCs and NPCs rather than abstract troops.
+
+Likely shape:
+
+- **Individual ship combat** for small skirmishes (one to four ships per side) using individual-combat rules for the boarding melee and per-ship stats for ramming, missile exchange, and manoeuvre.
+- **Mass naval combat** for fleet engagements (galleys at Salamis scale) reusing the §7 squad framework, treating each squad as a flotilla rather than a single ship.
+- **Ship stat blocks.** Hull HP, oars/sails, ram damage, missile platforms, crew capacity. The Carrack, the Galley, the Longship, the Trireme.
+- **Weather and seamanship.** Wind direction, storm rolls, navigator's skill (Seamanship speciality).
+- **Boarding.** Bridge from naval combat to standard individual or mass combat for the deck fight.
+
+Open questions:
+
+- Is naval combat part of §7 Mass Combat or its own chapter?
+- How much overlap is there between ship-as-squad in fleet combat and ship-as-character in single-ship action?
+- Does the system need rules for piracy, privateering, and naval economics (loot, prizes, port hostility), or are those campaign-framework concerns?
