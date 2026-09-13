@@ -188,7 +188,7 @@ The GM assigns a narrative fall category based on the fiction.
 
 **SIZ modifiers.** A very small character (SIZ 5 or below) reduces fall damage by 1D6 (minimum 1D6). A very large character (SIZ 20+) adds 1D6; add another 1D6 for every 20 SIZ above that.
 
-**Jumping.** Deliberate jump: Jump roll. Success: designate the hit location for the landing. Failure: land badly, treat as one category higher.
+**Jumping.** Deliberate jump: Acrobatics roll. Success: designate the hit location for the landing. Failure: land badly, treat as one category higher.
 
 **Obstacles.** Landing on stakes, sharp rubble, or similar hazards adds a separate 1D10+1 damage roll in addition to the fall damage.
 

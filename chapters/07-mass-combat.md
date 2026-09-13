@@ -1,26 +1,33 @@
 # 7 Mass Combat
 
-Battles in WSR can be handled at two scales. When the PCs are caught up in an engagement they do not command - fighting as individuals within a larger battle - the **Mass Combat Abstraction** (§7.1) carries them through with a single roll per turn. When the PCs are the Leaders and Commanders, running squads and shaping the engagement's outcome, the **Skirmish System** (§7.2) gives them the tactical handles. The two layer cleanly: a single battle can use both at once, with squad-commanders on the skirmish track and independent PCs on the abstraction track. The bridge between them is §7.3 Mixed Mode.
+When armies clash and the action moves to a larger scale you can let the player take command of units to determine the outcome of battle or let the players experience the press of battle from their personal perspective, acting within the context of the chaos of melee. Rules are presented for both and they can be used together to let the action zoom from one scale to another.
 
-Mass combat is more abstract than individual combat, and the GM has more work to do to make a squad-level engagement feel like a battle. The guidance below applies to both systems; it bites hardest on §7.2, where the squad stat block is the unit of resolution and the fiction has to carry the rest.
+# 7.1 Advice For Running Battles
 
-**Paint the battle's shape first.** Before commands begin, describe the field: the position of each Force, the terrain, the weather, the sound. Give it a few specific features - the ridge on the left, the smoke from the burning village behind your line, the river that cuts off the eastern flank. These are the resources and constraints the players will navigate.
+Before getting into the action, describe the field of battle so that the players can orient themselves. Give the position of each Force, the terrain, the weather, the sound. Include the key features - the ridge on the left, the smoke from the burning village behind your line, the river that cuts off the eastern flank. These are the resources and constraints the players will navigate.
 
-**Describe in masses, not individuals.** The unit of fiction is the squad, not the trooper. "Your spearmen advance, shields locked, dust rising under their feet" - not "Tharex thrusts his spear at the man in front of him." Save the close-in language for moments when the system itself pulls the camera tight: a Champion's Challenge, a critical-hit Hero strike, a Commander's sacrifice.
+Give units names to identify them and add drama. A squad of nameless spearmen does not engage the table the way "the Black Dragons" or "Captain Branach's Spears of Doom" does. Give them banners, colours, the names their captains use, the regions they hail from. The same applies to Heroes - Old Marcellus, who carried the banner at the Razing of Eshrum, dies very differently from "Standard-Bearer"
 
-**Name the squads.** A squad of nameless spearmen does not engage the table the way "the Black Dragons" or "Captain Murtagh's Spears of Aquilonia" does. Give them banners, colours, the names their captains use, the regions they hail from. The same applies to Heroes - Old Marcellus, who carried the banner at the Razing of Eshrum, dies very differently from "Standard-Bearer (NPC)."
+Before actions or commands are declared, give the players a one-sentence summary of the battle's current state. "Your shield wall holds the centre; the enemy's left is wavering; Murak's heavy horse on your right has been pinned by a fresh enemy column."
 
-**Brief reset at the start of each round.** Before commands are declared, give the group a one-sentence summary of the battle's current state. "Your shieldwall holds the centre; the enemy's left is wavering; Conan's heavy horse on your right has been pinned by a fresh enemy column." Players declare into a shared picture.
+A failing Morale check is an opportunity to reinforce the drama in the narrative. It is the standard wavering, men in the back row glancing over their shoulders, a captain's voice rising too high. Players need to feel a unit cracking before it breaks. When a squad routs, narrate the rout - do not just announce it.
 
-**Make Morale visible in the fiction.** A failing Morale check is not "the number went down by 2." It is the standard wavering, men in the back row glancing over their shoulders, a captain's voice rising too high. Players need to feel a unit cracking before it breaks. When a squad routs, narrate the rout - do not just announce it.
+Disorder rising within a unit can also create narrative moments of tension: the line is stretched too thin, ranks broken by enemy lances, confusion in the smoke. Describe what Disorder looks like on the field, especially when it accumulates over multiple rounds. The dramatic weight of a squad's failed Rally roll comes from the picture of the unit failing to find its feet.
 
-**Disorder is the dust of battle.** A rising Disorder count is the line stretched too thin, ranks broken by enemy lances, confusion in the smoke. Describe what Disorder looks like on the field, especially when it accumulates over multiple rounds. The dramatic weight of a squad's failed Rally roll comes from the picture of the unit failing to find its feet.
+Put the player characters in the thick of the action; they are riding the line, shouting orders, holding the squad together by force of will. Find moments to put the PC's voice and presence into the scene. The same Charge command lands differently when the player describes their PC at the head of it.
 
-**The PCs are everywhere.** A Commander is not a remote intelligence rolling dice; they are riding the line, shouting orders, holding the squad together by force of will. Find moments to put the PC's voice and presence into the scene. The same Charge command lands differently when the player describes their PC at the head of it.
+Cut to single combat when the narrative demands it. When Dalessa the Crimson needs to face the enemy general blade-to-blade, drop out of the mass system entirely. The reverse is also true: when a sword fight has reached its natural end, cut back to the broader engagement and resume, or run both in parallel so that the action doesn't stall.
 
-**Cut to single combat when the fiction wants it.** When Conan needs to face the enemy general blade-to-blade, drop out of the mass system entirely (§7.3 Mixed Mode is the bridge). The mass system is the frame, not a cage. The reverse is also true: when a swordfight has reached its natural end, cut back to the broader engagement and resume.
+## 7.2 In the Press of Battle
 
-## 7.1 The Mass Combat Abstraction
+These rules are used when you want the player characters to act as individuals within a larger conflict. The shape and outcome of the battle are decided narratively by the GM, perhaps influenced by the success or failure of the player character's actions.
+
+
+
+
+
+
+
 
 Each turn (approximately five minutes of battle time), every PC involved in the larger engagement makes a Luck roll (POW × 5):
 
@@ -39,18 +46,20 @@ Each turn (approximately five minutes of battle time), every PC involved in the 
 
 - **Reach a place and act there.** Cross to the siege tower and spike the ram. Take the river crossing and hold it for one round so allies can follow. Get to the enemy's command post and burn the orders.
 - **Close with a named NPC.** No Spot or Track roll needed - the PC's moment of clear action finds them. The enemy Leader, a specific Hero, the captain of the opposing cavalry. Once contact is made, resolution shifts to standard individual combat (§6).
-- **Rally a friendly position.** Reach a friendly squad that is routing or near routing and deliver an order, an inspiring word, or a personal show of force - that squad gains +2 Morale for the next round. This is the canonical bridge between the abstraction track and the skirmish track in mixed mode (§7.3).
+- **Rally a friendly position.** Reach a friendly squad that is routing or near routing and deliver an order, an inspiring word, or a personal show of force - that squad gains +2 Morale for the next round. This is the canonical bridge from §7.1 to §7.2 in mixed mode (§7.3).
 - **Retrieve or defend a specific thing.** A banner, a wounded ally, a piece of siege equipment, a magical relic. Move it to safety or hold it for the rest of the turn against any immediate threat.
 
 **Duration.** Brief skirmish: 2-3 turns (10-15 minutes). Sustained engagement: 6-12 turns (30-60 minutes). PCs rest and recover normally after.
 
 **Fate Points in mass combat.** Fate Point spends (§5.6) apply normally. The mass combat abstraction does not suspend the Fate Point economy.
 
-**As the individual track.** This same procedure is used to resolve any PC who operates outside a squad during a Skirmish System battle (§7.3). One Luck roll per skirmish round, the same five-minute unit.
+**As the individual track.** This same procedure resolves any PC who operates outside a squad during a §7.2 battle (see §7.3 Mixed Mode). One Luck roll per round, the same five-minute unit.
 
-## 7.2 The Skirmish System
+## 7.2 Commanding the Battle
 
-Use this system when the PCs are leading the battle and the outcome should be decided by their commands, not by the GM. Each player commands one or more squads; the GM commands the opposing Force. The system abstracts each squad to a single stat block - the unit of resolution is the squad, not the individual trooper - which means a battle of two thousand troops a side resolves in roughly the same time as a fight between two warbands.
+Use this system when the PCs are leading the battle and the outcome should be decided by their commands, not by the GM. Each player commands one or two squads; the GM commands the opposing Force. The system abstracts each squad to a single stat block - the unit of resolution is the squad, not the individual trooper.
+
+**Scale.** §7.2 is sized for **skirmish-scale battles**: squads of roughly ten to twenty fighters, with each player commanding one or two squads. A typical engagement at the table is four players commanding four to eight squads a side, so eighty to three hundred troops total. The system can be stretched - a single PC commanding the rare third squad, a battle that bleeds to a dozen squads a side - but it begins to feel slow past that. For genuinely grand engagements (a thousand troops a side or more), use §7.1 In the Press of Battle for every PC and let the GM narrate the broader battle around them; or run §7.2 for the PCs' immediate area of involvement and abstract the rest.
 
 ### 7.2.1 Forces, Squads, Commanders
 
@@ -58,7 +67,7 @@ A **Side** is one of the two (or more) participants in the battle.
 
 A **Fighting Force** is the army a Side brings to the field, headed by a **Leader**.
 
-A **Squad** is the unit of resolution: a single stat block representing anywhere from a dozen to several hundred individual combatants, depending on the type. Each squad has a **Commander** - usually a PC.
+A **Squad** is the unit of resolution: a single stat block representing roughly ten to twenty individual combatants. Each squad has a **Commander** - usually a PC.
 
 A **Hero** is a named NPC attached to a squad, providing a specific benefit while alive. Heroes are not Commanders; a squad has one Commander and zero or more Heroes.
 
@@ -182,7 +191,42 @@ Formations: Shieldwall, Spear Hedge, Wedge
 Talents: Disciplined, Sworn
 ```
 
-Elites are the two-baseline exception; the other eight squad types have one baseline talent each.
+#### Arbalesters
+
+```
+HP 20    AV 4 (leather, light helm)
+Melee 35    Missile 55    Defence 35
+Damage 1D10 (crossbow) / 1D6 (sidearm)    Morale 8    Disorder 0
+Commands: Advance, Disengage, Missile Attack, Rally, Retreat
+Formations: Skirmish
+Talent: Sniper Trained
+```
+
+#### Mounted Archers
+
+```
+HP 26    AV 3 (light armor, small shield)
+Melee 45    Missile 50    Defence 40
+Damage 1D8 (bow) / 1D6 (sabre)    Morale 9    Disorder 0
+Commands: Advance, Change Formation, Disengage, Melee Attack, Missile Attack, Rally, Retreat
+Formations: Skirmish, Wedge
+Special: May shift one range band (Advance in Order) without using a command action; conversely, may use Advance to perform Missile Attack at the same Initiative Rank (mounted archers can move and shoot in the same turn). Cannot use Charge.
+Talent: Volley Drilled
+```
+
+#### Mercenary Company
+
+```
+HP 28    AV 5 (mixed - half chain-mail, half leather with scale)
+Melee 60    Missile 40    Defence 50
+Damage 1D10    Morale 9    Disorder 0
+Commands: Advance, Change Formation, Charge, Disengage, Melee Attack, Missile Attack, Rally, Retreat
+Formations: Shieldwall, Skirmish, Wedge
+Special: Veteran professionals. No green troops, no conscripts. Often contracted mid-battle; may serve either side if a higher bidder appears and a successful CHA × 5 roll is made by the recruiting Leader.
+Talent: Bloodied (starts with it, as earned reputation)
+```
+
+Elites are a two-talent exception; Arbalesters, Mounted Archers, and Mercenary Companies have one baseline talent each. The remaining eight squad types have one baseline talent each.
 
 ### 7.2.3 Heroes
 
@@ -287,15 +331,15 @@ These are the battlefield-scale range bands, distinct from the individual-combat
 
 **4. Set terrain.** The GM describes the field's terrain, drawing from the table below or improvising. Different positions on the same battlefield may have different terrain - the central squads on open ground, the right flank in woods, the left along a river. Terrain effects apply to whichever positions sit in that terrain.
 
-| Terrain                 | Effect                                                                                                              |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **Open ground**         | No modifier.                                                                                                        |
-| **Hills / high ground** | Defender +1 Defence. Charges _up_ at -10% Melee.                                                                    |
-| **Woods**               | Squads in woods +1 Defence vs Missile. Cavalry cannot Charge. Chariots impassable.                                  |
-| **River or ford**       | Crossing squads gain +2 Disorder per round of crossing. Bowmen on the bank +1 Defence.                              |
-| **Marsh**               | All movement commands at -10% to the relevant characteristic roll. Cavalry and Chariots gain +3 Disorder per round. |
-| **Narrow pass**         | Only one squad fits across. The pass-holder gains +10 Defence. The attacker may engage only one squad at a time.    |
-| **City street**         | As Narrow Pass, plus all squads at +1 Disorder from press of crowds and rubble.                                     |
+| Terrain                 | Effect                                                                                                                                                                                                                                                                       |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Open ground**         | No modifier.                                                                                                                                                                                                                                                                 |
+| **Hills / high ground** | Defender +1 Defence. Charges _up_ at -10% Melee.                                                                                                                                                                                                                             |
+| **Woods**               | Squads in woods +1 Defence vs Missile. Cavalry cannot Charge. Chariots impassable.                                                                                                                                                                                           |
+| **River or ford**       | Crossing squads gain +2 Disorder per round of crossing. Bowmen on the bank +1 Defence. Heavy cavalry (AV 8+) crossing water take 1D6 damage as they flounder if an Advance roll into water fails; they are weighed down by armor. Light cavalry and infantry are unaffected. |
+| **Marsh**               | All movement commands at -10% to the relevant characteristic roll. Cavalry and Chariots gain +3 Disorder per round.                                                                                                                                                          |
+| **Narrow pass**         | Only one squad fits across. The pass-holder gains +10 Defence. The attacker may engage only one squad at a time.                                                                                                                                                             |
+| **City street**         | As Narrow Pass, plus all squads at +1 Disorder from press of crowds and rubble.                                                                                                                                                                                              |
 
 **Fortifications.** A squad defending from behind a wall, palisade, or earthwork gains **+20 Defence**. A squad defending a **breach** in a wall gains +10 Defence. A squad defending **inside a closed gatehouse or tower** gains +30 Defence but cannot Charge, Advance, or Retreat - only Melee Attack, Missile Attack, and Rally. A wall is reduced to a breach by GM ruling, the application of a war machine, or the expenditure of an in-fiction effort (a sapping operation, a sustained ram action) priced narratively. Full siege rules - wall HP and AV, war machine stat blocks, breach mechanics, sapping, escalade - are deferred to a future revision (tracked in IDEAS.md).
 
@@ -370,20 +414,21 @@ The squad's Disorder resets to 0 and Morale increases by 2 (cannot exceed origin
 
 ### 7.2.9 Criticals and Fumbles
 
-Whenever any command roll comes up at the rolling skill or characteristic-roll target ÷ 5 or under, the rolling Side rolls on the **Critical Event** table. Whenever any command roll comes up 96-00, the rolling Side rolls on the **Fumble Event** table. These tables are command-agnostic: the chaos of battle hands out fortune and misfortune that flow with the engagement, not tied to the specific command being attempted.
+Whenever any command roll comes up at the rolling skill or characteristic-roll target ÷ 5 or under, the rolling Side rolls on the **Critical Event** table (1D7). Whenever any command roll comes up 96-00, the rolling Side rolls on the **Fumble Event** table (1D7). These tables are command-agnostic: the chaos of battle hands out fortune and misfortune that flow with the engagement, not tied to the specific command being attempted.
 
-**Critical Event (1D6)**
+**Critical Event (1D7)**
 
-| 1D6 | Effect                                                                                                                                                                                           |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | **Inspired action.** Your squad's Morale increases by 1 (cannot exceed original).                                                                                                                |
-| 2   | **Tactical opening.** Choose: nearest enemy squad gains +2 Disorder, or your own squad's Disorder resets to 0.                                                                                   |
-| 3   | **Standard raised.** All allied squads in this Force gain +1 on Morale checks until the end of the next round.                                                                                   |
-| 4   | **Free rally.** One allied squad of your choice immediately performs a Rally as a free action - automatic success, Disorder resets to 0, Morale rises by 1 to the cap of its original value.     |
-| 5   | **Hero ascendant.** One attached Hero distinguishes themselves; their next contribution to the squad (attack support, Morale steadying, command bonus) is doubled.                               |
-| 6   | **Decisive moment.** If this was an attack command, deal double damage; otherwise, your squad may take an additional free command action of the Commander's choice on the same Initiative count. |
+| 1D6 | Effect                                                                                                                                                                                                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Inspired action.** Your squad's Morale increases by 1 (cannot exceed original).                                                                                                                                                                                                                |
+| 2   | **Tactical opening.** Choose: nearest enemy squad gains +2 Disorder, or your own squad's Disorder resets to 0.                                                                                                                                                                                   |
+| 3   | **Standard raised.** All allied squads in this Force gain +1 on Morale checks until the end of the next round.                                                                                                                                                                                   |
+| 4   | **Free rally.** One allied squad of your choice immediately performs a Rally as a free action - automatic success, Disorder resets to 0, Morale rises by 1 to the cap of its original value.                                                                                                     |
+| 5   | **Hero ascendant.** One attached Hero distinguishes themselves; their next contribution to the squad (attack support, Morale steadying, command bonus) is doubled.                                                                                                                               |
+| 6   | **Decisive moment.** If this was an attack command, deal double damage; otherwise, your squad may take an additional free command action of the Commander's choice on the same Initiative count.                                                                                                 |
+| 7   | **Strategic opening.** A key terrain feature (gate, bridge, choke point, flank) becomes controllable. If you occupy it this round with an Advance (or Charge if already in motion toward it), you gain +2 Defence for all squads in that position until you Retreat or the enemy pushes you out. |
 
-**Fumble Event (1D6)**
+**Fumble Event (1D7)**
 
 | 1D6 | Effect                                                                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -393,10 +438,13 @@ Whenever any command roll comes up at the rolling skill or characteristic-roll t
 | 4   | **Wrong way.** Command fails. The squad shifts one range band in a randomly determined direction (1D4: forward toward enemy, withdraw to rear, slide to left flank, slide to right flank). |
 | 5   | **Discord.** Command fails. The squad's Morale drops by 2.                                                                                                                                 |
 | 6   | **Rout begins.** Command fails. Immediate Morale check at -3 for this squad and every allied squad in the same position.                                                                   |
+| 7   | **Tactical disaster.** Command fails. An engaged enemy squad gains +2 Disorder as they capitalize on your confusion; your own squad gains +3 self-Disorder.                                |
 
 ### 7.2.10 Damage, Morale, and Defeat
 
 **Damage and AV.** When an attack lands, roll the squad's Damage dice; subtract the target squad's AV; apply remaining damage to the target's HP.
+
+**Leader presence.** If a Force's Leader is visibly present on the battlefield (not disguised, not absent from the field), all squads in that Force gain +1 on Morale checks. If the Leader falls visibly (killed in single combat, catastrophic squad collapse, or obviously slain before witnesses), all squads in the Force make an immediate Morale check at -2. A squad's Commander does not grant this bonus - only the Force's Leader.
 
 **Half-HP shock.** When a squad's HP is reduced to half its starting value or below for the first time, its Morale is reduced by 3.
 
@@ -420,11 +468,11 @@ In the meantime, GMs running a battle in which a sorcerer is present should trea
 
 ## 7.3 Mixed Mode
 
-A battle may use §7.1 and §7.2 simultaneously: PCs commanding squads run on the skirmish track; PCs operating outside any squad run on the abstraction track.
+A battle may use §7.1 and §7.2 simultaneously: PCs commanding squads run on the §7.2 track; PCs operating outside any squad run on the §7.1 track.
 
 **Time scales match.** One skirmish round equals one §7.1 turn (five minutes of battle time). Independent PCs roll on the §7.1 Luck table once per skirmish round, after the Morale Check phase.
 
-**Crossing the tracks.** An independent PC may cross to the skirmish track during the battle in two ways:
+**Crossing the tracks.** An independent PC may cross to the §7.2 track during the battle in two ways:
 
 - **Attach to a friendly squad as a Hero.** Their effect is whatever fits the fiction - a sorcerer might give the equivalent of _Sharp Shooter_ through a buff spell; a warrior PC might give _Heroic Swordsman_. Reaching the squad requires the PC to be in the same position as the squad, which is itself a narrative objective and usually requires a §7.1 critical or a successful Agility roll across one range band.
 - **Hunt a named NPC.** A §7.1 critical lets the PC target one specific named NPC - the enemy Leader, a Hero attached to a specific squad, the Commander of a Force's right flank. Resolution then jumps to standard individual combat for that scene; other PCs continue in their respective modes.

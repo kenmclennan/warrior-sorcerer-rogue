@@ -14,7 +14,7 @@ WSR is a tabletop roleplaying game built on Chaosium's **Basic Roleplaying Unive
 
 ### 1.2.1 Characters
 
-Seven characteristics define your character: STR, CON, SIZ, INT, POW, DEX, CHA. From these derive your Hit Points (CON + SIZ / 2), your Power Point pool (= POW), your damage modifier, and your skill category bonuses. Choose a Cultural Background (§2.4) and a Profession (§2.5) to gain starting skills. Spend INT x10 free points on any skills you like. Choose 2 Talents from the four talent tables (§2.7). Write down 3 Passions: one at 80%, two at 60%.
+Seven characteristics define your character: STR, CON, SIZ, INT, POW, DEX, CHA. From these derive your Hit Points (CON + SIZ / 2), your Power Point pool (= POW), your damage modifier, and your skill category bonuses. Choose a Cultural Background (§2.4) and a Profession (§4 Professions) to gain starting skills. Spend INT x10 free points on any skills you like. Choose 2 Talents from the four talent tables (§2.7). Write down 3 Passions: one at 80%, two at 60%.
 
 ### 1.2.2 Action Resolution
 

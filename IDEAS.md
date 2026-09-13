@@ -108,13 +108,24 @@ Two design directions to weigh when picking this up:
 - **Pre-battle ritual model.** The sorcerer's army arrives with one or more battle-scale spells already prepared via Brazier-tier ritual the night before. Each ritual-prepared effect is consumed in a single use during the battle. Mechanically: a "stored" spell on the army roster. This preserves the cost economy.
 - **Sustained channelling model.** During mass combat, a sorcerer attached to a squad (as a Hero or as a Leader) can sustain a battle-scale effect at the cost of being unable to act otherwise and reducing their PP maximum each round. This is closer to how Plague Wind's outbreak maintenance was modelled. Higher tension but fiddlier at the table.
 
+### Inspirational flavour and mechanics from the texts
+
+The Conan stories offer recurring sorcerous battle moments:
+
+- **Mists and obscuration:** Natohk in "Black Colossus" conjures a thick mist that swallows armies, then clears it to reveal the enemy host. Mechanical principle: obscuring spell that resets position awareness or grants surprise (related to Ambush mechanics in §7.2.6, step 6). Possibly: target Force loses initiative on the round the mist clears.
+- **Elemental damage waves:** In "Black Colossus," fire from the sky consumes the charging knights ("The whole foremost line of the knights was seen enveloped in that flame, horses and steel-clad riders withering"). A spell dealing area damage to all squads in a position or along a charge path.
+- **Catastrophic environmental collapse:** In "The Hour of the Dragon," cliffs collapse mid-battle, crushing 5,000 knights in a defile. This is sorcerous sabotage of terrain - a spell that destabilizes ground and creates a sudden, devastating hazard. Mechanical principle: spell that forces squads to make a survival roll or take massive damage (2D10+).
+- **Fear/demoralisation:** Xaltotun's presence in "The Hour of the Dragon" is described as psychological weight on the battlefield - armies falter knowing they face ancient dark sorcery. Mechanical principle: area Morale check at penalty, or all squads in a position take -1 Morale.
+- **Summons and animated hosts:** Not fully detailed in the current stories but core to the genre. Undead legions, bound demons, animated corpses. Mechanical principle: spell creates a temporary "free" squad that fights for N rounds, then dissipates or turns on the summoner (critical fumble).
+
 Open questions:
 
 - Does a Sorcerer Hero archetype exist at all, or is sorcery handled exclusively at the Leader tier?
-- What is the effect catalogue? Suggested: area damage, area fear/morale assault, area movement debuff (mist, mud), area buff (ward, courage), summoned host (a free squad for N turns).
+- What is the effect catalogue? From the texts: mist/obscuration, area elemental damage, terrain catastrophe, area fear/morale assault, summoned/animated host. Design cost: Brazier/ritual-prepared with single-use per battle?
 - How does sorcerous defence work? Can a counter-sorcerer on the other side cancel an effect, and at what cost?
 - Does this section live in §7 Mass Combat, in §13 NPC Sorcery and Patrons, or both with cross-references?
 - Should the §4 spell list grow battle-scale spells with stated PP costs of 50+, or are these effects new and live only in the mass combat chapter?
+- Fumble consequences: what happens if a sorcerer's battle-scale casting fumbles (01-05 on a Sorcery roll)? Attracts something unwanted? Spell backfires on caster's own army? Creates an uncontrolled summoned entity?
 
 ## War machines as deployable mass-combat units
 

@@ -16,7 +16,7 @@ Knowingly or not, the sorcerer serves the oblique purposes of these higher power
 
 ### 4.1.2 Becoming a Sorcerer
 
-To become a sorcerer, a character must have a POW score of 16 or higher and a sorcerous profession or background. See §2.5 for the professions that qualify. A non-sorcerous character who later pursues sorcery may meet these requirements during play with the GM's agreement.
+To become a sorcerer, a character must have a POW score of 16 or higher and a sorcerous profession or background. See §4 Professions for the professions that qualify. A non-sorcerous character who later pursues sorcery may meet these requirements during play with the GM's agreement.
 
 Starting sorcerers know a number of spell levels equal to half their INT (round up). See §4.5 for talisman rules.
 
